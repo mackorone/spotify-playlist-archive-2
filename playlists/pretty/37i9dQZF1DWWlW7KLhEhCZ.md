@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kenji, vvallace
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,477 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,476 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [HORAS IGUAIS](https://open.spotify.com/track/4hAttq2sd7ZwBBiRv7Agnn) | [Dazzen](https://open.spotify.com/artist/0Ak2qPeQmHnUH8gT54f4zr), [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [25monteiro](https://open.spotify.com/artist/5rSXqaAnXXpBhwCDeQ94eJ), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [HORAS IGUAIS](https://open.spotify.com/album/3ct2LD8hMNWjDWQVcBOlg9) | 3:39 |
 | 75 | [pintura \(bonus track\)](https://open.spotify.com/track/1QvbOIlIMvtZe3VycP1wUV) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7), [Matteo](https://open.spotify.com/artist/7kciSzJDv01OwFxtxCp4Ru), [prodyans](https://open.spotify.com/artist/2CkSJsVNYUgTsSfHt5LImW), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [F.A.Q\. LUV](https://open.spotify.com/album/3uPRLUodZXaqFgDpOZO3rY) | 3:32 |
 
-Snapshot ID: `AAAAAO6kTIPYyllKvHmE9FVwSMYWQy/5`
+Snapshot ID: `AAAAAAfI4MfwQozwGJZoLPY9TBllNkeV`

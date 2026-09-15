@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,822 likes - 176 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,871 likes - 176 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 175 | [Beach Fire Embers](https://open.spotify.com/track/599TFLHeKErarQkqOIvlSF) | [Colin Lynch](https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z) | [Beach Fire Embers](https://open.spotify.com/album/0FZkzLqlDvDjkUPL3Zc4xH) | 3:05 |
 | 176 | [High Water](https://open.spotify.com/track/5ltXSLSagc9mlHsVNV6TEp) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Suede](https://open.spotify.com/album/1G4oYWXbw8Yji0qNRcXnWO) | 3:31 |
 
-Snapshot ID: `AAAAANeU/FiXKA1VekwLrU8k8l40LySD`
+Snapshot ID: `AAAAAN4fyCzXzuYZlQEmHOB/xNiD9/ss`

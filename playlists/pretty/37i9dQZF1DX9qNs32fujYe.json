@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Mastodon",
-  "num_followers": 1414160,
+  "num_followers": 1414191,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHL3NeKTmA1gICdfocAu+bOZ8o3N",
+  "snapshot_id": "AAAAAJFwUjar7lkrViEcniy7yyzJR9lL",
   "tracks": [
     {
       "added_at": "2026-07-13 21:05:42",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 340640,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/54yLLvpezvPO1lA3GspiZj"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Playing God (feat. Corey Taylor)",
         "url": "https://open.spotify.com/album/05WTokpw4rVSLReVc0OoEG"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 219536,
       "name": "Playing God (feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/6EbyODHz4Pn3rkQXiMg1TQ"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 340640,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/54yLLvpezvPO1lA3GspiZj"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Song Of The Swamp",
         "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1119,6 +1103,22 @@
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/5j0WY6cTRud78QFLdfaS2N"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "To The Last Breath",
-        "url": "https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 297920,
-      "name": "To The Last Breath",
-      "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "BRAVE NEW WORLD",
         "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 263942,
       "name": "BRAVE NEW WORLD",
       "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "To The Last Breath",
+        "url": "https://open.spotify.com/album/0vfQRlSzj8vJjdl4Kxhmf6"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "To The Last Breath",
+      "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
-      },
-      "artists": [
-        {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Vote with a Bullet",
-      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Giants & Monsters",
         "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 210253,
       "name": "A Little Is A Little Too Much",
       "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Vote with a Bullet",
+      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Blunt Force Blues",
-        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 251505,
-      "name": "Blunt Force Blues",
-      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "The Duelist",
         "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 235000,
       "name": "The Duelist",
       "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Du\u00e9l",
-        "url": "https://open.spotify.com/album/0axS4YlYa1FxtNPbouRE69"
-      },
-      "artists": [
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Du\u00e9l",
-      "url": "https://open.spotify.com/track/4f1vdEOLraUCsdJzlqxIbR"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Hordes of Khan",
         "url": "https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 223000,
       "name": "Hordes of Khan",
       "url": "https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Du\u00e9l",
+        "url": "https://open.spotify.com/album/0axS4YlYa1FxtNPbouRE69"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Du\u00e9l",
+      "url": "https://open.spotify.com/track/4f1vdEOLraUCsdJzlqxIbR"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 342567,
-      "name": "Ulvgjeld & Blodsodel",
-      "url": "https://open.spotify.com/track/4Gq4fPI8S6foOrUT8xkiTK"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 342567,
+      "name": "Ulvgjeld & Blodsodel",
+      "url": "https://open.spotify.com/track/4Gq4fPI8S6foOrUT8xkiTK"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2739,6 +2739,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Good God / Baad Man",
+        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 240363,
+      "name": "Gimme Some Moore",
+      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Savage Imperial Death March",
         "url": "https://open.spotify.com/album/1YLR6DysIOeQYAPUj0S9EW"
       },
@@ -2755,22 +2771,6 @@
       "duration_ms": 197573,
       "name": "Tossing Coins Into The Fountain Of Fuck",
       "url": "https://open.spotify.com/track/4JfaxPVpPTUtc7vh91UiH8"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Good God / Baad Man",
-        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
-      },
-      "artists": [
-        {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
-        }
-      ],
-      "duration_ms": 240363,
-      "name": "Gimme Some Moore",
-      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/6HeHYKs3GSZ3Vsd6XgM9x5"
-      },
-      "artists": [
-        {
-          "name": "The Halo Effect",
-          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
-        }
-      ],
-      "duration_ms": 265307,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Silence Like The Grave",
         "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 287160,
       "name": "Silence Like The Grave",
       "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/6HeHYKs3GSZ3Vsd6XgM9x5"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "duration_ms": 265307,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/3nYX9MSz50E45Vgiwgd5Dt"
     },
     {
       "added_at": "2026-07-13 21:05:42",

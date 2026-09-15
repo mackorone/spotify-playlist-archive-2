@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 9월 10\-13, SPOTIFY HOUSE 서울 라인업 아티스트들의 베스트곡 리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,463 likes - 57 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,461 likes - 57 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 56 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
 | 57 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 |
 
-Snapshot ID: `AAAAADU03AidDG0QecnqLq8QIv24PhcJ`
+Snapshot ID: `AAAAAODMFD703J/kkOQYRaM33MH7eHP3`

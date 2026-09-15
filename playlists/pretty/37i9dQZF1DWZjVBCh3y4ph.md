@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : SAM x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,711 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,743 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [LA\-BAS](https://open.spotify.com/track/0QAqI8PoZE2aqU8A9OgXFw) | [Phoebe](https://open.spotify.com/artist/2i8wpH6aMemNE7fvIpQ1MH), [Shyma](https://open.spotify.com/artist/5QioOBDHM2rKb7DO4IsGUv) | [LA\-BAS](https://open.spotify.com/album/71U0C6QeADlFFj4HOIe9eK) | 3:41 |
 | 40 | [Priorité](https://open.spotify.com/track/5jFeFW5Ce7myS1SxLyyKQX) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Priorité](https://open.spotify.com/album/5MkTmBQwgaJf3bHOup9Is1) | 2:30 |
 
-Snapshot ID: `AAAAAClDFvhiLKkqS2/3JhSG+4MWRQUX`
+Snapshot ID: `AAAAAPZXQWOt7Qg2Cm12r0ucELdYy61O`

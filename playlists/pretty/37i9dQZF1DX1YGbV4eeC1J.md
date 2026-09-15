@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Lony Bway
+> What is your love language? Say it in Swahili\.  Cover: Dayoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,855 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,881 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Mungu Alipanga Mwenyewe](https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Mungu Alipanga Mwenyewe](https://open.spotify.com/album/3RCoHHAnkwar8UA85S0Hv8) | 3:51 |
 | 60 | [Sijamaliza](https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Sijamaliza](https://open.spotify.com/album/3XAAXp3WsMZtBci4BPBF2E) | 2:42 |
 
-Snapshot ID: `AAAAAFIOD4WPZbyuODK8suJpD2eb1M3e`
+Snapshot ID: `AAAAAOPg7COBztRtbOLpLNWa4hChEQ+B`

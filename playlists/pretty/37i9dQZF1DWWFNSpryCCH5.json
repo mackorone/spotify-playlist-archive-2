@@ -1,12 +1,12 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1056077,
+  "num_followers": 1055992,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZ59QZIEOqwkaP0zVi7ePVegeiE",
+  "snapshot_id": "AAAAAGsa6R0noUKHBqxM/AiLFh9IMXVJ",
   "tracks": [
     {
       "added_at": "2026-02-12 19:18:10",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
-      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
+      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
     },
     {
       "added_at": "2026-02-12 19:18:10",

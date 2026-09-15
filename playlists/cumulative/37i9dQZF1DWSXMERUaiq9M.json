@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 157360,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/7qEYzLG4gvSMYY2IKMvePE"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 229656,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/3Sz8u6tlAiSXBsDbWfKVKt"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 190714,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
@@ -8474,7 +8474,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 220597,
       "name": "Leaving On",
       "url": "https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J"
@@ -8870,6 +8870,24 @@
       "duration_ms": 186580,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/2iQCVJa1IgVlKVcLoiiF0E"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5YS69Tkbi6ckLICj96wQVi"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173048,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6CGoaZLiqf6fSvTRGf7X9J"
     },
     {
       "album": {
@@ -10663,6 +10681,32 @@
     },
     {
       "album": {
+        "name": "No Love For Free",
+        "url": "https://open.spotify.com/album/5CKOXGfquSSAqrhCvRvSJ5"
+      },
+      "artists": [
+        {
+          "name": "Mika Heggemann",
+          "url": "https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160413,
+      "name": "No Love For Free",
+      "url": "https://open.spotify.com/track/2CoVFRl4snLXszp6dNgLEN"
+    },
+    {
+      "album": {
         "name": "slash 001",
         "url": "https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn"
       },
@@ -11184,7 +11228,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 230347,
       "name": "One More Dance",
       "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
@@ -11654,7 +11698,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
@@ -13244,7 +13288,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 196583,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
@@ -13708,7 +13752,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 179500,
       "name": "So Many Things To Say",
       "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
@@ -16554,7 +16598,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 165000,
       "name": "who tell em",
       "url": "https://open.spotify.com/track/3IRIQWObw5XSGfXwgJzlm0"

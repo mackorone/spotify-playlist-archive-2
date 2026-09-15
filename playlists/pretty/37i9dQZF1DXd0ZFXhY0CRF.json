@@ -1,12 +1,12 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 811808,
+  "num_followers": 811820,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMv6SY4RNBP4lRibleC3UcWweCUH",
+  "snapshot_id": "AAAAAGQyfIRKOZmuAME/ZblACmIYtiQT",
   "tracks": [
     {
       "added_at": "2026-05-01 18:02:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "I Miss the Misery",
-      "url": "https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "I Miss the Misery",
+      "url": "https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "For I Am Death",
-        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 219395,
-      "name": "For I Am Death",
-      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Suzi Quatro",
         "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 214400,
       "name": "Can the Can",
       "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
     },
     {
       "added_at": "2026-05-01 18:02:47",

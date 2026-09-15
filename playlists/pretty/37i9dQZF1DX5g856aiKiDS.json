@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518979,
+  "num_followers": 518989,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC03wV4wZPJgWwf5U+Uf2OOTe5sH",
+  "snapshot_id": "AAAAAPd61XERZibDkfn+S4x2BdhqKexp",
   "tracks": [
     {
       "added_at": "2026-09-08 13:07:48",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
-    },
-    {
-      "added_at": "2026-09-08 13:07:48",
-      "album": {
         "name": "Pink cheeks",
         "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 183773,
       "name": "Pink cheeks",
       "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
+    },
+    {
+      "added_at": "2026-09-08 13:07:48",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2026-09-08 13:07:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "That Kind Of Love",
-        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
-      },
-      "artists": [
-        {
-          "name": "I'MIN",
-          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
-    },
-    {
-      "added_at": "2026-09-08 13:07:48",
-      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2026-09-08 13:07:48",
+      "album": {
+        "name": "That Kind Of Love",
+        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
     },
     {
       "added_at": "2026-09-08 13:07:48",
@@ -583,18 +583,22 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
         }
       ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2026-09-08 13:07:48",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2026-09-08 13:07:48",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "Dear.J",
-        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Dear.J (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
-    },
-    {
-      "added_at": "2026-09-08 13:07:48",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -887,18 +867,42 @@
     {
       "added_at": "2026-09-08 13:07:48",
       "album": {
-        "name": "lost in you",
-        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
       },
       "artists": [
         {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/0M34nBTSof0eEPK95GzUD4"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 200000,
-      "name": "lost in you",
-      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
+    },
+    {
+      "added_at": "2026-09-08 13:07:48",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     }
   ],
   "unique_name": "Dalkom Cafe",

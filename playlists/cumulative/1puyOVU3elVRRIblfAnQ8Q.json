@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "AYCH",
+          "url": "https://open.spotify.com/artist/3JWjgH1ZySidQ0xo7hjEod"
+        },
+        {
+          "name": "OVEREAZY",
+          "url": "https://open.spotify.com/artist/51C1zJfkLfggBtZv6EpzOB"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/0zb9Dgs5B4SqF1C6Radef1"
+    },
+    {
+      "album": {
         "name": "Return to the Spectrum of Intergalactic Happiness",
         "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
       },
@@ -169,6 +191,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Poni",
+          "url": "https://open.spotify.com/artist/3a6qES5elZUR1LIpUq2ERm"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240827,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/6Mjtu75H1ms35cKePdFUjh"
+    },
+    {
+      "album": {
         "name": "All Too Late",
         "url": "https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW"
       },
@@ -260,7 +300,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 216707,
       "name": "Angel 2",
       "url": "https://open.spotify.com/track/2DIiMZg2yJW1XU4ngGPMlG"
@@ -617,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Blowfly",
+        "url": "https://open.spotify.com/album/0nC83DyHzz046fZSiFXFFo"
+      },
+      "artists": [
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Blowfly",
+      "url": "https://open.spotify.com/track/7JFcDUTkklVuil8gopEEnX"
+    },
+    {
+      "album": {
         "name": "Bone Breaker",
         "url": "https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx"
       },
@@ -672,6 +730,24 @@
       "duration_ms": 164571,
       "name": "Borehole",
       "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "PapaJay",
+          "url": "https://open.spotify.com/artist/01DhMMIQcr9vaLuuemButV"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Bring Me Back",
+      "url": "https://open.spotify.com/track/3TPDdCcfDb7vxV1rSPzaka"
     },
     {
       "album": {
@@ -751,6 +827,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Emrys",
+          "url": "https://open.spotify.com/artist/4PZde7SBCGPIU6Zggn60OU"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Can't Stop Me",
+      "url": "https://open.spotify.com/track/7kBYvdSs33Fkt4EA9Koboa"
+    },
+    {
+      "album": {
         "name": "Transylvania",
         "url": "https://open.spotify.com/album/5XXcH4yI8nljtY2Q8SGWfv"
       },
@@ -816,7 +910,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 269427,
       "name": "Change of the Moon",
       "url": "https://open.spotify.com/track/6tBqvM7r0CUOxMgx67bTDj"
@@ -1720,7 +1814,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 145573,
       "name": "Fallin Down",
       "url": "https://open.spotify.com/track/3PGrYgvKnONZMeKU3oIP1a"
@@ -2348,7 +2442,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 115673,
       "name": "Heartbeat Interlude",
       "url": "https://open.spotify.com/track/4Uo9daXAZV2Y927OQZpCtG"
@@ -2454,6 +2548,24 @@
       "duration_ms": 263559,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1qKvS15FUKaE8zd77a9G1w"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Bluff",
+          "url": "https://open.spotify.com/artist/6ib3nSCVwMFOuronYy3x1q"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280655,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Iwr2Tt3Q8d1K6O0Chu2EN"
     },
     {
       "album": {
@@ -2650,7 +2762,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 201514,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/39pCGSszNDKieIj50FcyId"
@@ -3045,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Die by the Sword",
+          "url": "https://open.spotify.com/artist/36LQZuU9iwxGDEdPIGQh8m"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223071,
+      "name": "Land of Wolves",
+      "url": "https://open.spotify.com/track/4IX2edcUIlNsmG1KkQLyYN"
+    },
+    {
+      "album": {
         "name": "Deadbeats & Brownies - Drum & Bass Compilation",
         "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
@@ -3172,10 +3302,28 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 315777,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/4QTDSSdlm04oaaodBL72d1"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "crawdad sniper",
+          "url": "https://open.spotify.com/artist/4BRvJIbFx14bFQETd29QO2"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Lobble Robble",
+      "url": "https://open.spotify.com/track/3R6F3YJQ6yoJJu9W77nS04"
     },
     {
       "album": {
@@ -3216,6 +3364,28 @@
       "duration_ms": 192209,
       "name": "LOST TOUCH",
       "url": "https://open.spotify.com/track/1py6ssItqqXYAKrYT1hzAS"
+    },
+    {
+      "album": {
+        "name": "LULA",
+        "url": "https://open.spotify.com/album/1CoTWgIvn7X3rnejHpVAlm"
+      },
+      "artists": [
+        {
+          "name": "MARAH",
+          "url": "https://open.spotify.com/artist/0OXsxd2Fe85OZ36uZ6xTrX"
+        },
+        {
+          "name": "Ugly Lungs",
+          "url": "https://open.spotify.com/artist/1BiUgJVxbBtF78mCtRotnR"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162966,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/4A4wA0F85XSq1UKGv1LVUf"
     },
     {
       "album": {
@@ -3375,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        },
+        {
+          "name": "Floret Loret",
+          "url": "https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/3djF6yQDcFAFjRqiQfUoxW"
+    },
+    {
+      "album": {
         "name": "Mouth Piece",
         "url": "https://open.spotify.com/album/3myrVCO1twKlfwkjBpvcmD"
       },
@@ -3394,6 +3586,28 @@
       "duration_ms": 203909,
       "name": "Mouth Piece",
       "url": "https://open.spotify.com/track/1JG6tCIJPCvy8td4OfTOgd"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "Mystic Methods",
+          "url": "https://open.spotify.com/artist/0Wa4kujGvBUp9ZlNTjzbsM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "MYSTIC SMOAK",
+      "url": "https://open.spotify.com/track/4fFWVXGTgiUgWFZZcSVE0u"
     },
     {
       "album": {
@@ -3466,6 +3680,28 @@
       "duration_ms": 232666,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6SIOsmAqMbpdMWXzT56I0K"
+    },
+    {
+      "album": {
+        "name": "Nobody Can Stop Richard Finger (Levity Remix)",
+        "url": "https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8"
+      },
+      "artists": [
+        {
+          "name": "Richard Finger",
+          "url": "https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Nobody Can Stop Richard Finger - Levity Remix",
+      "url": "https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX"
     },
     {
       "album": {
@@ -3865,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Blurrd Vzn",
+          "url": "https://open.spotify.com/artist/1Un7dSWqDulk2W0L0QD8vI"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149887,
+      "name": "PARTY ROCKER",
+      "url": "https://open.spotify.com/track/6toZbMCqemgGKy9iUxSQVs"
+    },
+    {
+      "album": {
         "name": "Pechanga",
         "url": "https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf"
       },
@@ -3930,7 +4184,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 105789,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7u0Ypa7ZKNR7ruF3lNP6r5"
@@ -3952,7 +4206,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 240420,
       "name": "Pourin Rain",
       "url": "https://open.spotify.com/track/0RQ6cgF9HJeddYsogr9kml"
@@ -4095,6 +4349,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "INDUSTRY PLANTS",
+          "url": "https://open.spotify.com/artist/2REuURpl5ig7TCzXFWsnpP"
+        },
+        {
+          "name": "DR MAD",
+          "url": "https://open.spotify.com/artist/6LQguxTz5ZsPAAdN6eVPuj"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177361,
+      "name": "RAH",
+      "url": "https://open.spotify.com/track/40PMb7o48KAT3ODOATVsmN"
+    },
+    {
+      "album": {
         "name": "Genesis EP",
         "url": "https://open.spotify.com/album/2q2gG71q8GdxvjCDQVRoGq"
       },
@@ -4193,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Baclash",
+          "url": "https://open.spotify.com/artist/7xx3oCh7EkiUdZsF2drXpp"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159807,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/7bjuytPvpWRaSET89f5MWr"
+    },
+    {
+      "album": {
         "name": "Ricky",
         "url": "https://open.spotify.com/album/3uGZONCJpG9t4QhK7lGJyJ"
       },
@@ -4230,6 +4524,28 @@
       "duration_ms": 181038,
       "name": "Ride 4 U",
       "url": "https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        },
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195405,
+      "name": "RiGHT TiME",
+      "url": "https://open.spotify.com/track/2BSdSsk7H3RqJRd7S9kppB"
     },
     {
       "album": {
@@ -4579,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "SHOOTA",
+        "url": "https://open.spotify.com/album/7FkVTKrQ66e8JaMEiai7lP"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194892,
+      "name": "SHOOTA",
+      "url": "https://open.spotify.com/track/2GsYtMDhk9OxTOsIAMndmL"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats Vol. 6",
         "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
       },
@@ -4913,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/57YIuvVzc6jBKtesp0zNth"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/1pMFVmmVtuC86zJvIkmjsu"
+    },
+    {
+      "album": {
         "name": "Facades",
         "url": "https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk"
       },
@@ -4928,6 +5280,24 @@
       "duration_ms": 227999,
       "name": "Talavara",
       "url": "https://open.spotify.com/track/0sMreITajXmgjIQq4O1HBu"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Froidy",
+          "url": "https://open.spotify.com/artist/3xxGAYH8e7WWoUYptrTQxl"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275285,
+      "name": "Technology",
+      "url": "https://open.spotify.com/track/7koqpGX8mB8QE1o6lVdgzE"
     },
     {
       "album": {
@@ -5026,6 +5396,24 @@
       "duration_ms": 182608,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/688MRabbIVRJRtZxef04Um"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Distinct Motive",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247486,
+      "name": "The Nick",
+      "url": "https://open.spotify.com/track/5C1ATk0nuoabaMloOYHBWU"
     },
     {
       "album": {
@@ -5208,7 +5596,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 160000,
       "name": "Transmission 105-2052",
       "url": "https://open.spotify.com/track/4nHpLtt6T8qHDAJUObzxnh"
@@ -5226,7 +5614,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 78000,
       "name": "Transmission 39-6655",
       "url": "https://open.spotify.com/track/4W4KNm0ulLUQ0ROAoT3Dq0"
@@ -5256,6 +5644,28 @@
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Cerdin",
+          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226985,
+      "name": "TTY",
+      "url": "https://open.spotify.com/track/0WBHoJRWisOacC4JkG8I02"
     },
     {
       "album": {
@@ -5358,6 +5768,24 @@
       "duration_ms": 180018,
       "name": "Wait For The Drop - VIP Edit",
       "url": "https://open.spotify.com/track/5uvI0luawv5HFWSivNzsqM"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 7",
+        "url": "https://open.spotify.com/album/0l6VqeMp0SyCvn0EyvpVWA"
+      },
+      "artists": [
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/6wGiSuqNEQlLdvMB5MeZ41"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 129456,
+  "num_followers": 129460,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNHbgriMrzgil+CLIkpFUZgueDf",
+  "snapshot_id": "AAAAAOl+XgfuWxObzGaPFhTO/FMsoqc3",
   "tracks": [
     {
       "added_at": "2026-06-17 15:55:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Deixa o Ver\u00e3o Acontecer",
         "url": "https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 161632,
       "name": "Deixa o Ver\u00e3o Acontecer",
       "url": "https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2026-06-17 15:55:41",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 724800,
+  "num_followers": 724821,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKi1AjbXfXlG/XQgpCRuc6ZT/44",
+  "snapshot_id": "AAAAALe+qiW1qIpy+Sf+BdyCNms6CG7L",
   "tracks": [
     {
       "added_at": "2026-09-11 17:34:45",
@@ -587,26 +587,18 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "THEOS",
-          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
-        },
-        {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -631,18 +623,26 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Everything Glows",
-        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+      "duration_ms": 167514,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "Just Be Good To Me",
+        "url": "https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Just Be Good To Me",
+      "url": "https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Just Be Good To Me",
-        "url": "https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw"
-      },
-      "artists": [
-        {
-          "name": "Baccus",
-          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Just Be Good To Me",
-      "url": "https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 191802,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
         "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         },
         {
-          "name": "Cavi",
-          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 195026,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -1659,18 +1675,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+      "duration_ms": 230942,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1715,26 +1735,6 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 230942,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1819,46 +1819,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Sabor (with Lee Wilson & ALT3N)",
-        "url": "https://open.spotify.com/album/6JtZyGhFwW975bnttEsA6i"
-      },
-      "artists": [
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        },
-        {
-          "name": "Lee Wilson",
-          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
-        },
-        {
-          "name": "ALT3N",
-          "url": "https://open.spotify.com/artist/0gKoZegmoU3eyuFCjhpK3R"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Sabor (with Lee Wilson & ALT3N)",
-      "url": "https://open.spotify.com/track/2DG8LH2I3Ln2uuR02n6y7i"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "MAD (Mutually Assured Disco)",
-        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "MAD (Mutually Assured Disco)",
-      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -1895,6 +1855,46 @@
       "duration_ms": 363620,
       "name": "Marlboro Sounds",
       "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Sabor (with Lee Wilson & ALT3N)",
+        "url": "https://open.spotify.com/album/6JtZyGhFwW975bnttEsA6i"
+      },
+      "artists": [
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        },
+        {
+          "name": "ALT3N",
+          "url": "https://open.spotify.com/artist/0gKoZegmoU3eyuFCjhpK3R"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Sabor (with Lee Wilson & ALT3N)",
+      "url": "https://open.spotify.com/track/2DG8LH2I3Ln2uuR02n6y7i"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "MAD (Mutually Assured Disco)",
+        "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "MAD (Mutually Assured Disco)",
+      "url": "https://open.spotify.com/track/7xgP4XVHPWSLTRzYvuGg8g"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -2099,26 +2099,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Won't Let U Down",
         "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "summer in the city",
-        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "summer in the city",
-      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "ALL A DREAM",
         "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 221053,
       "name": "ALL A DREAM",
       "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "summer in the city",
+        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 174197,
+      "name": "summer in the city",
+      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
     },
     {
       "added_at": "2026-09-11 17:34:45",

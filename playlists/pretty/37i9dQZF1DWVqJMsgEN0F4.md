@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > The War On Drugs along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,214 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,265 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 79 | [Cross My Heart](https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:40 |
 | 80 | [MY LOVE](https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw) | [M.O.T.H.E.R.](https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs) | [M.O.T.H.E.R.](https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU) | 3:12 |
 
-Snapshot ID: `AAAAAEfWppyUwoKS9z1AJd+ABAyMukgq`
+Snapshot ID: `AAAAAKEzcaYnCLMmyI2HX3lwdS/6OLl3`

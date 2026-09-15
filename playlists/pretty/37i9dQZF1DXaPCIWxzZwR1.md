@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,885 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,816 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [inferior](https://open.spotify.com/track/3HTDDOX255A8aECNemYVHh) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [inferior](https://open.spotify.com/album/4dQPWlfNuWE3xzvFb4XdVp) | 3:02 |
 | 100 | [New Year's Eve](https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [New Year's Eve](https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw) | 2:51 |
 
-Snapshot ID: `AAAAAJUZ9wbM70J9VVzIh4eZ0Qy4y65p`
+Snapshot ID: `AAAAABu9hMJl6eZhyp5CXr9ympMHoIGx`

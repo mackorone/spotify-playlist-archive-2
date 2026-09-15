@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: raissa anggiani, Yung Caters
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,739 likes - 108 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,749 likes - 108 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 107 | [Gemintang](https://open.spotify.com/track/5BxLFIcFh9khvcjXuwG1hg) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Gemintang](https://open.spotify.com/album/6wnP0NCIwqGy1SRp9ryl8o) | 4:08 |
 | 108 | [Tulang dan Nadi](https://open.spotify.com/track/38hWMbRnP6ORTbEuAKk9TR) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tulang dan Nadi](https://open.spotify.com/album/6Ljpg0MzZrUMQZMqHl0kom) | 4:28 |
 
-Snapshot ID: `AAAAAIJqp/A0sty2ClDa4mXSV+tg2JXs`
+Snapshot ID: `AAAAAHSbLhECJ8ZZ2ON5POzO9zhjVgj5`

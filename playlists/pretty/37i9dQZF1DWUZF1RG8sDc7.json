@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 167626,
+  "num_followers": 167662,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4+xHvPvBRfhBMUsMPBiFqGs2gh",
+  "snapshot_id": "AAAAADuqCzoFAxt2bRfD6Lu7HhUy809R",
   "tracks": [
     {
       "added_at": "2024-03-28 01:45:52",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Echao Pa Lante",
-        "url": "https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG"
-      },
-      "artists": [
-        {
-          "name": "Luifer Cuello",
-          "url": "https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx"
-        },
-        {
-          "name": "Manuel Julian Martinez",
-          "url": "https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z"
-        }
-      ],
-      "duration_ms": 251715,
-      "name": "Chillar A Otra Parte",
-      "url": "https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Imborrable",
         "url": "https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 240613,
       "name": "Imborrable",
       "url": "https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Echao Pa Lante",
+        "url": "https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG"
+      },
+      "artists": [
+        {
+          "name": "Luifer Cuello",
+          "url": "https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx"
+        },
+        {
+          "name": "Manuel Julian Martinez",
+          "url": "https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z"
+        }
+      ],
+      "duration_ms": 251715,
+      "name": "Chillar A Otra Parte",
+      "url": "https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 304560,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
+      "duration_ms": 304560,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
     },
     {
       "added_at": "2024-03-28 01:45:52",

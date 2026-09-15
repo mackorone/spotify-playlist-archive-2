@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Rema, Josylvio, Monique Smit & Quido van de Graaf, Slayyyter en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,570 likes - 110 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,541 likes - 110 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 109 | [Nothing to Teach](https://open.spotify.com/track/4dGWDxdFBeXQsS70rPqhBw) | [The Klittens](https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2) | [Nothing to Teach](https://open.spotify.com/album/1aS5W0IXSsxLEiSJmPFVOU) | 2:37 |
 | 110 | [De mug](https://open.spotify.com/track/4DNWdKw2I0BqIvH9pwYr9H) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [De dagen](https://open.spotify.com/album/5yJXfOssStBnFWjsSkP1ra) | 4:50 |
 
-Snapshot ID: `AAAAAJYRdYT2f3WDOK4epYpX2ZWcwRJA`
+Snapshot ID: `AAAAANpAOyBrINcx4kpbrJ4Ud4169KX+`

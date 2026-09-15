@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,392 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,385 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 |
 | 100 | [발라드, 려요 \- 김나영](https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [발라드, 려요 \- 김나영](https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X) | 0:03 |
 
-Snapshot ID: `AAAAAKZ6rcszORseznSHwhG104+D1kbE`
+Snapshot ID: `AAAAAEUTDQIw31XcEpqEZiiazcX0d7nN`

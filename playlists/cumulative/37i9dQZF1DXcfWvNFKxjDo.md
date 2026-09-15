@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: David Guetta, Hypaton
 
-6,854 songs - 13 day 17 hr 58 min
+6,855 songs - 13 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2946,6 +2946,7 @@
 | [IMAGE](https://open.spotify.com/track/2NyGXyPzrLfygByT9dfAfc) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Samu](https://open.spotify.com/artist/3GPAoP1ylBNdYDEsWZxk1L) | [IMAGE](https://open.spotify.com/album/7omCc11UEQ8CdF92BHosmW) | 2:14 | 2024-04-25 | 2024-05-03 |
 | [Imagine](https://open.spotify.com/track/5LO4bhSlr5ypfNzU1wrziq) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Imagine](https://open.spotify.com/album/3oXfdsZYnT56udV9L1y4iA) | 3:46 | 2026-04-16 | 2026-04-24 |
 | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/album/0phsWfE0jsPYtAkQHp6eAE) | 2:59 | 2024-11-14 | 2024-11-22 |
+| [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 | 2026-09-11 |  |
 | [Imamou](https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Imamou](https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw) | 4:00 | 2024-05-16 | 2024-05-24 |
 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 | 2026-01-22 | 2026-02-06 |
 | [Immer Noch Drunk](https://open.spotify.com/track/4kZWUByOncvIQhvMA3pZj8) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Immer Noch Drunk](https://open.spotify.com/album/2IUSFXklKQXYlpaMxgO4yh) | 2:20 | 2024-06-13 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture: The crankification of Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,860 likes - 86 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,754 likes - 86 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 85 | [Devour](https://open.spotify.com/track/3hScgyOQVhK2Ibi9FpTQnq) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Devour](https://open.spotify.com/album/2X8HaYgiIcd3FMuT2TEWxn) | 2:37 |
 | 86 | [Your favorite flowers](https://open.spotify.com/track/7GktPyKzNCeAaThYG4cJ7D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/25ilbvHuFozwjisTCEGyuR) | 3:29 |
 
-Snapshot ID: `AAAAAKOpyjI+yA1s4cwzyiFSW6p7sQys`
+Snapshot ID: `AAAAAFuN1FYmzOZypGAVOqNC1NKEAxZU`

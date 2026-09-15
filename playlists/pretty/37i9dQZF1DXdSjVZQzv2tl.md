@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Countrybeat, Mari Fernandez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,072,221 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,069,138 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 48 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 49 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |
 
-Snapshot ID: `AAAAAPrdC1MQGUUZJHEdCbMRMozcJ8eb`
+Snapshot ID: `AAAAAEatXRiE9WyPWXswsZko/xTx1MIh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Bad Milk en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,545 likes - 53 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,546 likes - 53 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 52 | [Me gustas 1.1](https://open.spotify.com/track/2rt28dAHQibVUP6fQuTDRP) | [Jacqueline Prochet](https://open.spotify.com/artist/16e8iY0aAVoNzaV1sG4rKr) | [Creo que siempre te voy a querer](https://open.spotify.com/album/6mVUmMSwfxGdkEQUwXUNuR) | 2:52 |
 | 53 | [Estás DISTANTE](https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [DISTANTE & tarde !!!](https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH) | 3:02 |
 
-Snapshot ID: `AAAAAOv6DAiEZQp1W38gdLUTZwrA0sX/`
+Snapshot ID: `AAAAANZkRIi/JNXe6qxoO28xhE5DskxE`

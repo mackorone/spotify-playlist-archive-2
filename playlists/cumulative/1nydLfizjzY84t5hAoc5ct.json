@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Reckless Expenditure",
+        "url": "https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109433,
+      "name": "A Reckless Expenditure",
+      "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+    },
+    {
+      "album": {
         "name": "A Rock and a Hard Place",
         "url": "https://open.spotify.com/album/6dLoggGzB0wiirJWm1o0se"
       },

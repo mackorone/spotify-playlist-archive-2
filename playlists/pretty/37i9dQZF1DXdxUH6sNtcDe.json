@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1006071,
+  "num_followers": 1006169,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7pPXd4i2GRFUemMyF7PvZ8DAAX",
+  "snapshot_id": "AAAAANuZ3Ld+PUkQuQri0AcdzRXnl/o7",
   "tracks": [
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
+      },
+      "artists": [
+        {
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
         "name": "Tim McGraw And The Dancehall Doctors",
         "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 230280,
       "name": "Who Says You Can't Go Home",
       "url": "https://open.spotify.com/track/5439qJTu5mVH9aeriwp03u"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
-      },
-      "artists": [
-        {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2026-06-02 19:14:03",

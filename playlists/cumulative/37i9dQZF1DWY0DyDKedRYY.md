@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Andrea Bejar
+> The most exciting new music on our radar, featuring ADÉLA.
 
-1,406 songs - 3 day 1 hr 33 min
+1,407 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,7 +1005,8 @@
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-05-01 | 2026-07-02 |
 | [Reclaiming My Life](https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Reclaiming My Life](https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ) | 2:20 | 2026-07-01 | 2026-09-02 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-09-06 | 2022-11-15 |
-| [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 | 2026-07-01 |  |
+| [Red Bottoms](https://open.spotify.com/track/3YkFwiHCOAfNVA6ZapZVSn) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:06 | 2026-09-14 |  |
+| [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 | 2026-07-01 | 2026-09-15 |
 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 | 2023-05-08 | 2023-08-31 |
 | [Remember Me](https://open.spotify.com/track/1oBXsBScq1cOHg9QYxRBcy) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Remember Me](https://open.spotify.com/album/6o9dsd2SA22fHOXSt55d0e) | 3:34 | 2025-07-01 | 2025-08-02 |
 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 | 2024-05-29 | 2024-09-02 |

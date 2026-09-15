@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 64941,
+  "num_followers": 64977,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFJeDGqgOWyNK0kH8Jnosr7Sxyh",
+  "snapshot_id": "AAAAAFqvkmzh9cEEJJ0DC/mmR5MI/XlX",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:56",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Nice Weather for Ducks",
-      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Extended",
         "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Nice Weather for Ducks",
+      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
-      },
-      "artists": [
-        {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "lux",
         "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 195960,
       "name": "lux",
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+      },
+      "artists": [
+        {
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2025-11-07 05:00:56",

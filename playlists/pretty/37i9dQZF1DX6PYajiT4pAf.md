@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes & Myke Towers, Rvfv & Yapi, Natos y Waor & GRECAS, Camilo, Rigoberta Bandini y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,567 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,564 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 72 | [Hi, hello](https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Hi, hello](https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje) | 2:36 |
 | 73 | [In N Out](https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [In N Out](https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4) | 3:32 |
 
-Snapshot ID: `AAAAACHd2NoCi9oNCpdQz3/11csS0YMl`
+Snapshot ID: `AAAAAJKCb9BH6/gfYN+Pq48sMp5kG58I`

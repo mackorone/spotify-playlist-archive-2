@@ -5201,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213145,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare",
         "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },

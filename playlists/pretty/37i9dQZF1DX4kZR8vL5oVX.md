@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Maëlle \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,434 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,372 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 39 | [Comment faire](https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Comment faire](https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG) | 2:54 |
 | 40 | [MÉLANGÉ](https://open.spotify.com/track/41lNUNNATNWnW44H3QG0VN) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [MÉLANGÉ](https://open.spotify.com/album/08oPslm1X7q3yZxPTbGXbp) | 2:31 |
 
-Snapshot ID: `AAAAAJS6w13mg39CbJymblo+ddAlvgTf`
+Snapshot ID: `AAAAAHmQH4P3UaLyBi5WEUs8Canxa67z`

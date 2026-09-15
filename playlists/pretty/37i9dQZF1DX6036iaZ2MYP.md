@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,790 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,814 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 50 | [BELLUCCI](https://open.spotify.com/track/0lnQzvxLlNwueLhyMDZWz8) | [La ZT](https://open.spotify.com/artist/7MSXSXqiqlyF25ta7JbOko) | [BELLUCCI](https://open.spotify.com/album/0YAOhKHdZxmcf6vbgSU7xr) | 2:24 |
 
-Snapshot ID: `AAAAAAQJx/P+ihCk9QOWhvOD/Mx6esm/`
+Snapshot ID: `AAAAAGOmrY/17c9ue8TuFF9zDFVE2EP2`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Jeaneth Valenzuela",
-  "num_followers": 575183,
+  "num_followers": 575179,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFjHs983a3dcBFHt3rcfhv6QxX97",
+  "snapshot_id": "AAAAAOgOADe6Q1DmHfXoKAkaPlJtwDNA",
   "tracks": [
     {
       "added_at": "2026-09-11 05:46:14",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "duration_ms": 208174,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "No Manches",
         "url": "https://open.spotify.com/album/2fyDi75HoCA5JM9VdArNhw"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/3ipTzoAYTxhwWmgQpl2hX3"
-      },
-      "artists": [
-        {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
-        }
-      ],
-      "duration_ms": 208174,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/4grTL63MpNOP7tlqD2nq0x"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Fuertes Declaraciones",
         "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
       },
@@ -223,6 +223,38 @@
       "duration_ms": 151455,
       "name": "Fuertes Declaraciones",
       "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Fuiste T\u00fa",
+        "url": "https://open.spotify.com/album/10m6cz7u4TNWrUg94Du4q5"
+      },
+      "artists": [
+        {
+          "name": "Mar Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
+        }
+      ],
+      "duration_ms": 174710,
+      "name": "Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/2SwfqrhhqFiuVhf5z49OLz"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -247,22 +279,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Se Me Olvid\u00f3 Otra Vez",
         "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 176741,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Fuiste T\u00fa",
-        "url": "https://open.spotify.com/album/10m6cz7u4TNWrUg94Du4q5"
-      },
-      "artists": [
-        {
-          "name": "Mar Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4UgSSRfTxP1W7niOOa4bwl"
-        }
-      ],
-      "duration_ms": 174710,
-      "name": "Fuiste T\u00fa",
-      "url": "https://open.spotify.com/track/2SwfqrhhqFiuVhf5z49OLz"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Qu\u00e9 Hubiera Pasado",
-        "url": "https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 159061,
-      "name": "Qu\u00e9 Hubiera Pasado",
-      "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Vatos",
         "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 146511,
       "name": "Vatos",
       "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Qu\u00e9 Hubiera Pasado",
+        "url": "https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 159061,
+      "name": "Qu\u00e9 Hubiera Pasado",
+      "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Yo Era Atea",
+        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Yo Era Atea",
+      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "China De Los Ojos Negros",
         "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Yo Era Atea",
-        "url": "https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA"
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
       },
       "artists": [
         {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Yo Era Atea",
-      "url": "https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC"
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -615,22 +631,6 @@
       "duration_ms": 153083,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Una Lloradita",
         "url": "https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Ah\u00ed Debes",
-        "url": "https://open.spotify.com/album/2Vm8B61RAHpSUWZqZVKQ6Q"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 178433,
-      "name": "Ah\u00ed Debes",
-      "url": "https://open.spotify.com/track/38c7j3CSw4AaLJmOVu75dv"
+      "duration_ms": 171000,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -767,18 +751,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Que Pretendes",
-        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+        "name": "Ah\u00ed Debes",
+        "url": "https://open.spotify.com/album/2Vm8B61RAHpSUWZqZVKQ6Q"
       },
       "artists": [
         {
-          "name": "Ximena Cuevas",
-          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 145121,
-      "name": "Que Pretendes",
-      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
+      "duration_ms": 178433,
+      "name": "Ah\u00ed Debes",
+      "url": "https://open.spotify.com/track/38c7j3CSw4AaLJmOVu75dv"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -811,6 +795,22 @@
       "duration_ms": 185121,
       "name": "No Llega El Olvido - Banda",
       "url": "https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Que Pretendes",
+        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+      },
+      "artists": [
+        {
+          "name": "Ximena Cuevas",
+          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+        }
+      ],
+      "duration_ms": 145121,
+      "name": "Que Pretendes",
+      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "El Que Se Lleva Se Aguanta",
-        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
-      },
-      "artists": [
-        {
-          "name": "Silvia Mendivil",
-          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "El Que Se Lleva Se Aguanta",
-      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Ahora Si Quieres Querer",
         "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 173391,
       "name": "Ahora Si Quieres Querer",
       "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "El Que Se Lleva Se Aguanta",
+        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
+      },
+      "artists": [
+        {
+          "name": "Silvia Mendivil",
+          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "El Que Se Lleva Se Aguanta",
+      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Regresa La Reina",
         "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Hombre Secreto",
+        "url": "https://open.spotify.com/album/0eOJ6OKofrw9vuqUqoAJxL"
+      },
+      "artists": [
+        {
+          "name": "Sandra Chavez La Comadre",
+          "url": "https://open.spotify.com/artist/0CLoFoE5dypKUNHFvBa3Ln"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Hombre Secreto",
+      "url": "https://open.spotify.com/track/0VL8HPUxelXGCCVdxFQDei"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 172944,
       "name": "T\u00fa Ser\u00e1s Mi Baby",
       "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Hombre Secreto",
-        "url": "https://open.spotify.com/album/0eOJ6OKofrw9vuqUqoAJxL"
-      },
-      "artists": [
-        {
-          "name": "Sandra Chavez La Comadre",
-          "url": "https://open.spotify.com/artist/0CLoFoE5dypKUNHFvBa3Ln"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Hombre Secreto",
-      "url": "https://open.spotify.com/track/0VL8HPUxelXGCCVdxFQDei"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Casi Nada",
-        "url": "https://open.spotify.com/album/1CpXyNyxdQpzYYI0002Vp0"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 181658,
-      "name": "Casi Nada",
-      "url": "https://open.spotify.com/track/1E3GCTGLLtpQv2B8p3n081"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Cap\u00edtulo 8 (La Historia Completa)",
         "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 176000,
       "name": "Ni Al 50",
       "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Casi Nada",
+        "url": "https://open.spotify.com/album/1CpXyNyxdQpzYYI0002Vp0"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 181658,
+      "name": "Casi Nada",
+      "url": "https://open.spotify.com/track/1E3GCTGLLtpQv2B8p3n081"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1419,6 +1419,38 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
+        "name": "Se Fue Con Ella",
+        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
+      },
+      "artists": [
+        {
+          "name": "Silvia Y Los Gomez",
+          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Se Fue Con Ella",
+      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
         "name": "A Mi Modo, Pt. 2",
         "url": "https://open.spotify.com/album/6q0euDuKUZCjKvRgwB5sKs"
       },
@@ -1451,34 +1483,18 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+        "name": "Tanto Lo Queria",
+        "url": "https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1"
       },
       "artists": [
         {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+          "name": "Laura Denisse y Los Brillantes",
+          "url": "https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5"
         }
       ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
-        "name": "Se Fue Con Ella",
-        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
-      },
-      "artists": [
-        {
-          "name": "Silvia Y Los Gomez",
-          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Se Fue Con Ella",
-      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
+      "duration_ms": 244965,
+      "name": "Tanto Lo Queria",
+      "url": "https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Tanto Lo Queria",
-        "url": "https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1"
-      },
-      "artists": [
-        {
-          "name": "Laura Denisse y Los Brillantes",
-          "url": "https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Tanto Lo Queria",
-      "url": "https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "El Hielo Est\u00e1 Quemando",
         "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 217312,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Bandera Roja",
         "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 169808,
       "name": "Bandera Roja",
       "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 217312,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Noche Bohemia",
         "url": "https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 251086,
       "name": "Am\u00e9",
       "url": "https://open.spotify.com/track/5fWOE0l5UDeNo2TkNOMpFL"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": "2026-09-04 04:02:07",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-09-04 04:02:07",
       "album": {
-        "name": "Esa Hembra Es Mala (En Vivo)",
-        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 263807,
-      "name": "Esa Hembra Es Mala - En Vivo",
-      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
-    },
-    {
-      "added_at": "2026-09-04 04:02:07",
-      "album": {
         "name": "Ahora Somos",
         "url": "https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 193866,
       "name": "Ahora Somos",
       "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
+    },
+    {
+      "added_at": "2026-09-04 04:02:07",
+      "album": {
+        "name": "Esa Hembra Es Mala (En Vivo)",
+        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 263807,
+      "name": "Esa Hembra Es Mala - En Vivo",
+      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
     },
     {
       "added_at": "2026-09-04 04:02:07",

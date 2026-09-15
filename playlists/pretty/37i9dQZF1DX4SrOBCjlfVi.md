@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Tee Grizzley, Ro$ama and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,683 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,772 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [BusyForYa \(feat\. Planet Giza, Shibo\)](https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [BusyForYa](https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX) | 3:34 |
 | 49 | [Festivus \(feat\. Trenttruce\)](https://open.spotify.com/track/4Dr9kKaPsvLYRuSKCr4knK) | [The Koreatown Oddity](https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ), [TrentTruce](https://open.spotify.com/artist/5kiVVM2qpMNen6nm4UHtRg) | [Festivus \(feat\. Trenttruce\)](https://open.spotify.com/album/50oqRYxswZUZdOaZzzrrxq) | 3:24 |
 
-Snapshot ID: `AAAAAKmq75Kto8Qt+Dccijkf6aWc/nts`
+Snapshot ID: `AAAAALZenH5D7ykuQZDjAnjwlg5uLMel`

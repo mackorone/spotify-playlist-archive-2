@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Whisnu Santika, Tiara Andini, Nabila Taqiyyah, Juicy Luicy, Tsaqib dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,801 likes - 117 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,780 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 116 | [Galvarino](https://open.spotify.com/track/4gjvW6WlvGgGGHE0PhfmJK) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Galvarino](https://open.spotify.com/album/4Yymz91W8frSAWj1eqOD0q) | 5:05 |
 | 117 | [Heavenmaxxing](https://open.spotify.com/track/5buclLMsXoatoVphZZ9cm6) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Heavenmaxxing](https://open.spotify.com/album/2qUaTdqj3clVKN0Po0xwQe) | 3:25 |
 
-Snapshot ID: `AAAAAC8XezkJU6obZ73ErvTV3IL1s6/p`
+Snapshot ID: `AAAAAF4jMZLmLu0cLW6vVvSucIUL+HF8`

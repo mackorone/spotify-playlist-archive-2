@@ -166,7 +166,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 154261,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 458676,
       "name": "Cuida do Pet",
       "url": "https://open.spotify.com/track/4pMO3866h5Y14ijdEVo0Sr"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 244928,
       "name": "Culpable Tu (Official Video)",
       "url": "https://open.spotify.com/track/3JkJYeNiKr6UEFQ9xhas3D"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 222189,
       "name": "ENTRE TU Y YO",
       "url": "https://open.spotify.com/track/7piJuhWIQitNCpr6pQ7j18"
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/6sI1X80Cg2da4ZCKJJ1UPi"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141900,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt"
+    },
+    {
+      "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/2yhoWluUtfdJlHawUXUDcS"
       },
@@ -864,7 +882,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 218218,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/6sEtce6qTCrPZQQMGY3nRD"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 196246,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/4YkqLiJuMAFfWMRW2Al5jX"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 141424,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/1EHCnOWgVYDT73IrJU9Je3"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 226943,
       "name": "Still",
       "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 314238,
       "name": "the cure",
       "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"

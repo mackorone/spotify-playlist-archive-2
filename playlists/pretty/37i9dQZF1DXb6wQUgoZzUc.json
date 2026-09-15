@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1469520,
+  "num_followers": 1469760,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2qsMs9Fcc6BbSH8olsQ4JyNE4+",
+  "snapshot_id": "AAAAAMSyfrNIpHtxNERTVbYEd4urWdlE",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:45",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2026-09-04 06:00:45",
       "album": {
-        "name": "LOS ANGELITOS",
-        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 218372,
-      "name": "PaToLasGyales",
-      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
-    },
-    {
-      "added_at": "2026-09-04 06:00:45",
-      "album": {
         "name": "Maquillaje (feat. Yexel) [Remix]",
         "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
+    },
+    {
+      "added_at": "2026-09-04 06:00:45",
+      "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "added_at": "2026-09-04 06:00:45",
@@ -2163,6 +2163,30 @@
     {
       "added_at": "2026-09-04 06:00:45",
       "album": {
+        "name": "\u00d1ero Session 23",
+        "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 164455,
+      "name": "\u00d1ero Session 23",
+      "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
+    },
+    {
+      "added_at": "2026-09-04 06:00:45",
+      "album": {
         "name": "TiTis",
         "url": "https://open.spotify.com/album/5XuPajFl5ZCXTGXrO6op1Q"
       },
@@ -2187,30 +2211,6 @@
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
-    },
-    {
-      "added_at": "2026-09-04 06:00:45",
-      "album": {
-        "name": "\u00d1ero Session 23",
-        "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 164455,
-      "name": "\u00d1ero Session 23",
-      "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
     }
   ],
   "unique_name": "La Casa del Perreo",

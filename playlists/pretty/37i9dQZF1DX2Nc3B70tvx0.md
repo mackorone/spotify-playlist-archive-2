@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,983 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,855 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 52 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 | 53 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
 
-Snapshot ID: `AAAAAFBsq/7bDID+m7PFz8kRis9xW+fg`
+Snapshot ID: `AAAAAF7u5KSqVLyLA7M8esx0nhZuH4co`

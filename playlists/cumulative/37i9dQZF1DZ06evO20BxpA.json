@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 121133,
       "name": "Eternal Energies Of Nature",
       "url": "https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 116933,
       "name": "Imagining the Future",
       "url": "https://open.spotify.com/track/2joLqt8X8m3Ss6AEbEWZCK"
@@ -1736,6 +1736,24 @@
       "duration_ms": 190840,
       "name": "My Beloved Spake",
       "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "album": {
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "My Client Is Innocent",
+      "url": "https://open.spotify.com/track/0j0Yks4eVZokpRBv3h2nEL"
     },
     {
       "album": {
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 164053,
       "name": "Thwarted Plans",
       "url": "https://open.spotify.com/track/4wFhANEbMntNIjreTlL4M7"

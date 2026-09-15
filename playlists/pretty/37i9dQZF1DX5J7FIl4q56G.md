@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,915 likes - 185 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,135 likes - 185 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 184 | [Bloodified](https://open.spotify.com/track/6vsRnoJ4FZopgStFLXqUjY) | [Blood White](https://open.spotify.com/artist/2LvARkw486EoZ4cjdbaOS9) | [From Hell](https://open.spotify.com/album/2UQBFCc1IxiGCS7J2pBWEW) | 4:41 |
 | 185 | [Chaos](https://open.spotify.com/track/54tzGsbqPvLZmw6URGXnWN) | [Die Gemeente](https://open.spotify.com/artist/2hPR6DfqgSUDhpVjjdc5RA) | [Chaos](https://open.spotify.com/album/64Gl8GrXHZT6OgrD0OW7RD) | 2:58 |
 
-Snapshot ID: `AAAAAEOgEM+iOeHSttD2jZI7ozeWvsMI`
+Snapshot ID: `AAAAAKAjIC03sjTXeaX6HiOoexWPnKGb`

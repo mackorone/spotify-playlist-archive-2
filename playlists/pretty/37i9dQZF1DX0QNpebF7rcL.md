@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,832 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,872 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Issa](https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Issa](https://open.spotify.com/album/6iTIRtJvk0JyRsmtXz2TDe) | 3:26 |
 | 101 | [Come To Find Out](https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Chasing The Sun](https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2) | 5:03 |
 
-Snapshot ID: `AAAAAOnz5dy2LGQNYbi4UijImpg7khn2`
+Snapshot ID: `AAAAAH98wmfKSl5V3nE8zlNSvbfGYfMi`

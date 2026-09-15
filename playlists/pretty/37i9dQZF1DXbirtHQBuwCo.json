@@ -1,12 +1,12 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover:  Bumkey)",
-  "num_followers": 1098205,
+  "num_followers": 1098133,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKwV5jltPAVkEwL7lsug0SIGlNm",
+  "snapshot_id": "AAAAAGtD3Rf9WhYZoYuptTBjRjNLQ0hW",
   "tracks": [
     {
       "added_at": "2026-09-03 08:14:55",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-09-03 08:14:55",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "JULIE",
-          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
-      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
-    },
-    {
-      "added_at": "2026-09-03 08:14:55",
-      "album": {
         "name": "Doctor! Doctor!",
         "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 215760,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+    },
+    {
+      "added_at": "2026-09-03 08:14:55",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "JULIE",
+          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
     },
     {
       "added_at": "2026-09-03 08:14:55",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2026-09-03 08:14:55",
       "album": {
-        "name": "Baby, Honey",
-        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Baby, Honey",
-      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2026-09-03 08:14:55",
@@ -1323,38 +1327,34 @@
     {
       "added_at": "2026-09-03 08:14:55",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "Baby, Honey",
+        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+      "duration_ms": 145000,
+      "name": "Baby, Honey",
+      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
     },
     {
       "added_at": "2026-09-03 08:14:55",
       "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
       },
       "artists": [
         {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     }
   ],
   "unique_name": "TrenChill K-R&B",

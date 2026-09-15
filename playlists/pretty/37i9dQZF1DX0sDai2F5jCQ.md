@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,202 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,167 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 79 | [Chances](https://open.spotify.com/track/0ttfPTxMi6s2Z4ZZnwaGhy) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [Chances](https://open.spotify.com/album/3xzgRJ4fuzFzo8LuDOlpCF) | 2:52 |
 | 80 | [Playlist .](https://open.spotify.com/track/2cPU1MnlgHgeUKjaX7ZBKb) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:38 |
 
-Snapshot ID: `AAAAAMt33yR+UVMN0miHg2VpqnUczqYd`
+Snapshot ID: `AAAAABGKL2CwczvQ/XTwgG383pAq0cg3`

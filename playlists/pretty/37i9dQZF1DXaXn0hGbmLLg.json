@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! September ambassador: <a href=\"spotify:artist:60bPC311AlvVdIzqQZyeHo\">jet van der steen</a>",
-  "num_followers": 14412,
+  "num_followers": 14414,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADP+FteatjEUn3zRkxSRZq5vR29w",
+  "snapshot_id": "AAAAAB3vACT6KvGOIAqBxXMPhAXt/Mxm",
   "tracks": [
     {
       "added_at": "2026-09-01 22:00:06",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "De Liefde Die blijft",
-        "url": "https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Sep",
-          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "De Liefde Die blijft",
-      "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 153253,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "De Liefde Die blijft",
+        "url": "https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Sep",
+          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "De Liefde Die blijft",
+      "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t"
       },
@@ -571,6 +587,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Mag ik vanavond bij je blijven?",
+        "url": "https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        }
+      ],
+      "duration_ms": 195094,
+      "name": "Mag ik vanavond bij je blijven?",
+      "url": "https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI"
       },
@@ -587,38 +619,6 @@
       "duration_ms": 159303,
       "name": "With You",
       "url": "https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Glow-Up Era",
-        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 136368,
-      "name": "Glow-Up Era",
-      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Mag ik vanavond bij je blijven?",
-        "url": "https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "Mag ik vanavond bij je blijven?",
-      "url": "https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "KEEP UP",
-        "url": "https://open.spotify.com/album/7aWPK2KwFcZPZq1l97CphN"
-      },
-      "artists": [
-        {
-          "name": "Mahina",
-          "url": "https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ"
-        }
-      ],
-      "duration_ms": 197243,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/0pQvbfLJIbbkCXMTCLikxN"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 164651,
       "name": "Lover",
       "url": "https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "KEEP UP",
+        "url": "https://open.spotify.com/album/7aWPK2KwFcZPZq1l97CphN"
+      },
+      "artists": [
+        {
+          "name": "Mahina",
+          "url": "https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ"
+        }
+      ],
+      "duration_ms": 197243,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/0pQvbfLJIbbkCXMTCLikxN"
     },
     {
       "added_at": "2026-09-01 22:00:06",

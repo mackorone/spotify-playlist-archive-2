@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸Le Sacerdotesse dell'Isola del Piacere in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,264 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,259 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 98 | [vienimi\_a\_cercare](https://open.spotify.com/track/5SxbDILLZFpQjiwUVk0tFr) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [vienimi\_a\_cercare](https://open.spotify.com/album/2yeOUg5cSlg1BerIuNThN0) | 3:26 |
 | 99 | [Gestire La Rabbia](https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D) | [Grandi Raga](https://open.spotify.com/artist/5loTEXentPIJLRmZ06bzQr) | [Gestire La Rabbia](https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT) | 3:45 |
 
-Snapshot ID: `AAAAAAkwfacXRID7vVPBHD6kfOa9+8nG`
+Snapshot ID: `AAAAAAGp/7x21ORc0Fbj42/+0FOiZZqv`

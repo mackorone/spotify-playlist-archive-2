@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Yung Pips ed Enny P in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,588 likes - 55 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,591 likes - 55 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA SCOPO CO O' SGUARDO](https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:13 |
+| 1 | [\#hihaters \(feat\. Enny P\)](https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [euroshit](https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0) | 2:05 |
 | 2 | [scogliera](https://open.spotify.com/track/6WDD2wfmJbs1NLMpgaQGqy) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [scogliera](https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1) | 2:23 |
-| 3 | [\#hihaters \(feat\. Enny P\)](https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [euroshit](https://open.spotify.com/album/7CZD8ijtlClkWrRuIWCmn0) | 2:05 |
-| 4 | [Maria](https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Maria](https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u) | 2:25 |
-| 5 | [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 |
+| 3 | [LA SCOPO CO O' SGUARDO](https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:13 |
+| 4 | [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 |
+| 5 | [Maria](https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Maria](https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u) | 2:25 |
 | 6 | [Hai mai?](https://open.spotify.com/track/7yVsKau8TBSfmjvcsN9FFF) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Hai mai?](https://open.spotify.com/album/3ildD9tG7YNONEKsgonGWk) | 2:25 |
 | 7 | [USHUAÏA](https://open.spotify.com/track/3h4Ti5e9Hlqhm8OGJw56Xr) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [USHUAÏA](https://open.spotify.com/album/0vH9QaMrLySrI6uVXCvI4E) | 2:49 |
 | 8 | [Il Gatto e la Volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Tigerplug](https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Il Gatto e la volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid) | 2:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [10 e Lode](https://open.spotify.com/track/0JRPh0aDHHgjhvIXWCzrUX) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [10 e Lode](https://open.spotify.com/album/1NoegKYZKUcc8AjkvY5Mn1) | 2:37 |
 | 55 | [TutteLeVolte](https://open.spotify.com/track/2tbivxZFgeoq1ZAGmcITfX) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Crash Out](https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g) | 2:49 |
 
-Snapshot ID: `AAAAAOns1XK1+PcUiLrxSM6OU/DZHCDW`
+Snapshot ID: `AAAAAF6VkwuqXQZwUyK+CDs8iDiyxLlr`

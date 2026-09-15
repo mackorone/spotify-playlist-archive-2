@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tanerélle & MAUIMØON
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,813 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,826 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 51 | [Owewala](https://open.spotify.com/track/2HcS4F2MUFbu6hVjsOeJ7n) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [The One And Only](https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp) | 3:38 |
 | 52 | [Goodbye to us](https://open.spotify.com/track/0VMbY8xTYxGj2m1RcLkaON) | [Sulah Africa](https://open.spotify.com/artist/1gk1p3HpipJohwJ4u6GGgK) | [Goodbye to us](https://open.spotify.com/album/0tVP7JJkgb6iaFIF4ISQee) | 3:50 |
 
-Snapshot ID: `AAAAAEo3TH4xpOZY+0opVs5RfyBZ730b`
+Snapshot ID: `AAAAAILUW52LzsiLzx15e5hwitPi7Ss3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,594 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,600 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 11 | [Kshmir](https://open.spotify.com/track/4ltbZuwUu7eLPMrWhQzACk) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Kshmir](https://open.spotify.com/album/6atUtSjZE35KPsm7HJGSpC) | 3:50 |
 | 12 | [Varnam](https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r) | [Jayanthi Kumaresh](https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT) | [Veenai Jayanthi Kumaresh](https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J) | 6:34 |
 | 13 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 |
-| 14 | [Watching Her Dance](https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs) | [Watching Her Dance](https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ) | 4:16 |
-| 15 | [Thillana \- Dhanashree \- Adi](https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Rajesh Vaidhya \- Evergreen Melodies](https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ) | 3:35 |
+| 14 | [Thillana \- Dhanashree \- Adi](https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Rajesh Vaidhya \- Evergreen Melodies](https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ) | 3:35 |
+| 15 | [Watching Her Dance](https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs) | [Watching Her Dance](https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ) | 4:16 |
 | 16 | [The Winds of Bihu](https://open.spotify.com/track/0PDxa6S8gvRZlcxXafiuQ5) | [Kartikeya Vashist](https://open.spotify.com/artist/0TVGGswr1g8UtlHyf0kQuq), [Vishrut Pande](https://open.spotify.com/artist/4420Ou4ucpvZ2YCJjUILsa), [SMESH](https://open.spotify.com/artist/6ztIFgQ8kYiJ7VRIkvJiHr) | [The Winds of Bihu](https://open.spotify.com/album/4nRuBUtdDgERyKwEZ67EiX) | 3:50 |
 | 17 | [Whispering Hues \(feat\. Rajhesh Vaidhya\)](https://open.spotify.com/track/7tCpcJ53Z7uslT4sjjZsSc) | [Varun Sunil](https://open.spotify.com/artist/6L9N1bZKr4hKm1jAJ9a1K2), [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Whispering Hues \(feat\. Rajhesh Vaidhya\)](https://open.spotify.com/album/5wNdD3ZDfrx3cxpiSdwmUK) | 4:28 |
 | 18 | [Delicately Tuned](https://open.spotify.com/track/6HNNqCMbrENJxDvUGsow3D) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 7:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 99 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 |
 | 100 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 |
 
-Snapshot ID: `AAAAABR63BHm21HHb1ybEmgQo8lbJnXK`
+Snapshot ID: `AAAAAE0rUFuJ3a1KBKAmJGIWNbcIVMlq`

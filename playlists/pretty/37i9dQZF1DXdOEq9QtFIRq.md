@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEq9QtFIRq.md) - [plain]
 
 > One of rock & metal's biggest festivals is almost here! Press play on  <a href="https://louderthanlifefestival.com/">Louder Than Life's</a> incredible lineup of artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 195 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 195 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEq9QtFIRq.md) - [plain]
 | 194 | [Look Inside](https://open.spotify.com/track/1wd2k2EQhFww0aMaMKq7a2) | [Billy Mcnicol](https://open.spotify.com/artist/2t85hkEIc4wWLiYHJfZxp1) | [Look Inside](https://open.spotify.com/album/03MJHqOWw1jjKxr2W3OcH8) | 3:04 |
 | 195 | [One Left Standing](https://open.spotify.com/track/14wdnM1uS9pekjzbJwHVEQ) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [One Left Standing](https://open.spotify.com/album/7nNRWe3dMjCD6NeRnJiuVy) | 4:15 |
 
-Snapshot ID: `AAAAAOK+vsCsIHF0ocl2WOexNqfyxNzR`
+Snapshot ID: `AAAAALH6neBkBw8Oc0Q7Bk0xEVQDuve+`

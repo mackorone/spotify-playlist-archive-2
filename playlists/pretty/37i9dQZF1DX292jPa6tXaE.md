@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Shilpa Joshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,582 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,623 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Adah](https://open.spotify.com/track/6cl8D61sAvoU2p5vOWhOoL) | [Channa Ghuman](https://open.spotify.com/artist/7lFKOUokk8aL5qHxjNaJCt), [Jantt Pannu](https://open.spotify.com/artist/1pt2gaonreRQc5YUd0Txhg) | [Adah](https://open.spotify.com/album/67wmoSzxpCPyJm2i3VCfoI) | 2:49 |
 | 50 | [Deewani](https://open.spotify.com/track/7avuQ083OEbmiSBEcpStMs) | [Rhythm Ratta](https://open.spotify.com/artist/1FcP3V5ONOmt96kHYftwDD), [Abhiee Singhania](https://open.spotify.com/artist/2byk0GjGXXArdCDAvJrjkG) | [Deewani](https://open.spotify.com/album/5yLC0U5msaedE3hQvZufqO) | 3:13 |
 
-Snapshot ID: `AAAAACcrSrKlZcVfFTtOQiPW5hpIPR74`
+Snapshot ID: `AAAAACE/u/YVYWRXHDoGCIGWcXss9a5N`

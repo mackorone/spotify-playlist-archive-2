@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfQKN0l6+1frelW1Oh6ysCizJWC",
+  "snapshot_id": "AAAAABvK7OKsHrn9A6TvWjxaVZcyWZFy",
   "tracks": [
     {
       "added_at": "2026-07-27 16:20:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "LONGE LONGE DE MIM",
-      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "O Pai Da Alegria",
         "url": "https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 252173,
       "name": "Feitio De Ora\u00e7\u00e3o/Para Me Livrar Do Mal/Estrela Da Manh\u00e3",
       "url": "https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "LONGE LONGE DE MIM",
+      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
     },
     {
       "added_at": "2026-07-27 16:20:33",

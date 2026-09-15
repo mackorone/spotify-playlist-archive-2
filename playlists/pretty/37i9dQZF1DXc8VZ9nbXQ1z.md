@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,145 likes - 30 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,220 likes - 30 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [No Doubt](https://open.spotify.com/track/4KijFVAHBHvo5ftweYkmvX) | [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7), [Marissa Guzman](https://open.spotify.com/artist/4f1aXxaOrA5ILMJGEPjGsg) | [For Headz Only](https://open.spotify.com/album/5xiWFlPmGDtYUqvQefWpOn) | 6:43 |
 | 30 | [Ya weldi \- Rocco Rodamaal Remix](https://open.spotify.com/track/6IL35fhnQHl3xbtCp3HRcq) | [Hanna Haïs](https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA), [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l) | [Ya weldi \(Rocco Rodamaal Remixes\)](https://open.spotify.com/album/0WPsfkAuZ2w9MLXJI6UX8Y) | 8:48 |
 
-Snapshot ID: `AAAAABl9OYU4Ky3zI7FLStfaprQSph17`
+Snapshot ID: `AAAAAGkoYwi5u7Nhh0xL/Ol4AleSN0wk`

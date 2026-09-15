@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "after everyone left",
+        "url": "https://open.spotify.com/album/3wjevtpZQwHSR7EN32lUuN"
+      },
+      "artists": [
+        {
+          "name": "green.light",
+          "url": "https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117495,
+      "name": "after everyone left",
+      "url": "https://open.spotify.com/track/6XJojmZTkOV1HvJQG7JDtw"
+    },
+    {
+      "album": {
         "name": "Birds and Beings",
         "url": "https://open.spotify.com/album/1oN7jXvZfSxgJaURQupepu"
       },
@@ -308,6 +326,24 @@
       "duration_ms": 176874,
       "name": "Arctic Moonlight",
       "url": "https://open.spotify.com/track/45v4Zei0RUP8FKB4FeRZWf"
+    },
+    {
+      "album": {
+        "name": "Art of Not Thinking",
+        "url": "https://open.spotify.com/album/49POFabTwqR1iruPVDd0t1"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148514,
+      "name": "Art of Not Thinking",
+      "url": "https://open.spotify.com/track/6WgipQc3u3kHMJZio62NCk"
     },
     {
       "album": {
@@ -718,7 +754,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 235000,
       "name": "Celestial Whispers",
       "url": "https://open.spotify.com/track/1qxFr0cglsK0YXcddvelRI"
@@ -1893,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Endless Nature",
+        "url": "https://open.spotify.com/album/7forSW6p7jot8KoBZDoQHO"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144077,
+      "name": "Endless Nature",
+      "url": "https://open.spotify.com/track/05DNdMmrmzuJdQPXya716E"
+    },
+    {
+      "album": {
         "name": "Energy Flow",
         "url": "https://open.spotify.com/album/0ZUfjeHh0e0iCjoRDNn7Dm"
       },
@@ -2052,6 +2106,42 @@
       "duration_ms": 181818,
       "name": "Feathers In The Sky",
       "url": "https://open.spotify.com/track/6kMbpMSqq9EsWKCnMVp2HU"
+    },
+    {
+      "album": {
+        "name": "Fern Glen",
+        "url": "https://open.spotify.com/album/1xpiYMCvR5zhindZOGbwQw"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Fern Glen",
+      "url": "https://open.spotify.com/track/1NVby8RhEdKv0lM508nvoC"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/2kBZDt4cRLNQXVjTWzh4hm"
+      },
+      "artists": [
+        {
+          "name": "Sanyelle",
+          "url": "https://open.spotify.com/artist/0WaclwFRHRJfNNt4iQ2I3l"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155109,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/26VBRxvuvDwnfLK56MsKCQ"
     },
     {
       "album": {
@@ -2358,6 +2448,24 @@
       "duration_ms": 173333,
       "name": "Galileo",
       "url": "https://open.spotify.com/track/5vl0TMIJo6RfZaE7AveH6e"
+    },
+    {
+      "album": {
+        "name": "Garden of Lights",
+        "url": "https://open.spotify.com/album/0vrhDe4RYXw20FaRtJ8Uxn"
+      },
+      "artists": [
+        {
+          "name": "Sanyelle",
+          "url": "https://open.spotify.com/artist/0WaclwFRHRJfNNt4iQ2I3l"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143452,
+      "name": "Garden of Lights",
+      "url": "https://open.spotify.com/track/6x7btR0oQ2haevFz9v0QSo"
     },
     {
       "album": {
@@ -3542,7 +3650,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 128047,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/0iNOg79E2yJb80J2ULiOsJ"
@@ -4107,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/6e0kZmNKikYtTTeSpl5Qpx"
+      },
+      "artists": [
+        {
+          "name": "Eelyrion",
+          "url": "https://open.spotify.com/artist/3sGhodeMqHj0JDOBfykG40"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/6mB2rp2kPiCqsqBx2gxX4G"
+    },
+    {
+      "album": {
         "name": "Night Sky Dreamer",
         "url": "https://open.spotify.com/album/3fgYtE7Edl6u4JF6Kz3fuV"
       },
@@ -4284,7 +4410,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 178666,
       "name": "Novara Rain",
       "url": "https://open.spotify.com/track/38zkmV74gXnhQvRJmxzNwU"
@@ -5407,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Silent Arc",
+        "url": "https://open.spotify.com/album/58rz9nO3T4M8uGzV2CKPPJ"
+      },
+      "artists": [
+        {
+          "name": "Silent Glade",
+          "url": "https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149868,
+      "name": "Silent Arc",
+      "url": "https://open.spotify.com/track/1dVLNeYYgJk8NFlT2vYWIT"
+    },
+    {
+      "album": {
         "name": "Silver Stream",
         "url": "https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX"
       },
@@ -6088,6 +6232,24 @@
       "duration_ms": 240000,
       "name": "There are night bugs everywhere",
       "url": "https://open.spotify.com/track/0CL3jI3fRW45FfqrY6HWrZ"
+    },
+    {
+      "album": {
+        "name": "Dream Phases",
+        "url": "https://open.spotify.com/album/0rhLfyF8ldsppYVg6qPjiW"
+      },
+      "artists": [
+        {
+          "name": "Memory Garden",
+          "url": "https://open.spotify.com/artist/6FpeEQFyQWeVRnEpQfBXd9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252563,
+      "name": "THETA",
+      "url": "https://open.spotify.com/track/3WEWwfrXZxD5IMlhMlyaLG"
     },
     {
       "album": {

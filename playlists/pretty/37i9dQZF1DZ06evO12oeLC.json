@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17905,
+  "num_followers": 17902,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAWSDooaGCJz5buhEGWA6PD",
+  "snapshot_id": "aqXngAAAAABjSnRiSAdlQf7htAcR+W/2",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 42500,
-      "name": "FUCK ME",
-      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
+      "duration_ms": 133416,
+      "name": "GAR\u00c7ON",
+      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 133416,
-      "name": "GAR\u00c7ON",
-      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
+      "duration_ms": 42500,
+      "name": "FUCK ME",
+      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+        "name": "Le gang des antillais",
+        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+          "name": "Lino",
+          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+      "duration_ms": 218467,
+      "name": "Meilleur homme",
+      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
     },
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le gang des antillais",
-        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Lino",
-          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 218467,
-      "name": "Meilleur homme",
-      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
     },
     {
       "added_at": null,

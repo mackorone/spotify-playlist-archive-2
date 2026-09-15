@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,650 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,660 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [19th June](https://open.spotify.com/track/1HMo4GlQ5L4e97IESZXutF) | [DirteeVibez](https://open.spotify.com/artist/2T8IRmv2Gr2Zx5801MgbK7), [JORDAN WORDAMN](https://open.spotify.com/artist/17dBdWeU2e9wSGeOfR81St), [Aadh pratapi](https://open.spotify.com/artist/2DitYt0a5fKLtRnl7o1wts) | [19th June](https://open.spotify.com/album/1KqlR5JchxGoW6hQTf4Rja) | 3:45 |
 | 75 | [Mere Type Ka Nahi](https://open.spotify.com/track/6XZKwuGk0InPAfvTjgoKLe) | [Queeniqa](https://open.spotify.com/artist/1QBznhpQw0XcLMUAgmk3Bg) | [Mere Type Ka Nahi](https://open.spotify.com/album/4UQGh6UlGx1Ts05l02yU6R) | 3:14 |
 
-Snapshot ID: `AAAAAE/Tg9Hvs6oFDmK2VaYzjjnPDMM6`
+Snapshot ID: `AAAAANlPyfVDmMnObDGFY6V8R3AvqMw+`

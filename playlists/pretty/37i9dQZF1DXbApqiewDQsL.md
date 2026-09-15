@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Benji V
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,691 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,707 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Cognac y Mary](https://open.spotify.com/track/7bgMjDSp8JOTFaqEhl9zi6) | [La Décima Clave](https://open.spotify.com/artist/1UOZlzKKHpxyXAoq9lytAE) | [Amor de Bandidos](https://open.spotify.com/album/1qFtTfcIXjWiU6KI6MPAE4) | 2:17 |
 | 50 | [Saturno](https://open.spotify.com/track/6qJB7fAIeI7TLS27IwbNVZ) | [Anna Lizbeth](https://open.spotify.com/artist/3yTCVdTJhxuAOdbGg0QA6s) | [Saturno](https://open.spotify.com/album/2aYAXbkKPbEoMNhqSxmK8N) | 2:48 |
 
-Snapshot ID: `AAAAAADCVcerXJCLv8Eb/aQ9zPNqzydD`
+Snapshot ID: `AAAAAIyCiNTpEUvHa32VLRHqBWEaYw7R`

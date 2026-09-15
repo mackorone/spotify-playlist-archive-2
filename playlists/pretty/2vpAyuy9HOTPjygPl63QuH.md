@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > only the best tech house &amp; house music
 
-[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,226 likes - 22 songs - 1 hr 11 min
+[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,223 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 20 | [I Luv It](https://open.spotify.com/track/69XQo8h9hfXUspdlNGtLkA) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [I Luv It](https://open.spotify.com/album/4YVxVKZJU1AGKy1mHCmF4W) | 2:35 |
 | 21 | [Steppin' In](https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Steppin' In EP](https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o) | 2:45 |
 | 22 | [To The Floor](https://open.spotify.com/track/1RLF5ujkyrvyBFm2dubdvZ) | [Motty](https://open.spotify.com/artist/1qTTJPuUEa8XnguD8egMdX) | [To The Floor](https://open.spotify.com/album/7KxeorO30erCtzDtpUvKew) | 6:33 |
+| 23 | [Azul](https://open.spotify.com/track/4XhJWiFFCgmAjEVRYjrWvV) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn) | [Azul](https://open.spotify.com/album/2fvMZfG6VrZ947BY15dVha) | 3:32 |
+| 24 | [Wake Me Up](https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Wake Me Up](https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5) | 3:17 |
+| 25 | [Lose Control](https://open.spotify.com/track/1byzNphM9BQUAX0Qzjk14D) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Lose Control](https://open.spotify.com/album/0KdBgyXMeku6jt6tVkgPhi) | 3:04 |
 
-Snapshot ID: `AAAol4x+ew6MAC+mhaplICI5fnNM48eG`
+Snapshot ID: `AAAomqBBlLhtjVG2hFyfmt7Pk7xvUE9j`

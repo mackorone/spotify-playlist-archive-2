@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Jabulile Majola, Jhené Aiko, Naledi Aphiwe & Goon Flavour, Langa Mavuso and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,922 likes - 83 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,940 likes - 83 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 82 | [Iphutha](https://open.spotify.com/track/2Dc2tnUvy2jcE5Bwb6Jqx0) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Sam Kotkot](https://open.spotify.com/artist/7y8HNK8Y6w4heePuFCN9p3), [Nonny Mthiya](https://open.spotify.com/artist/6k9Beuyxy8BboPYMfXHWvd) | [Iphutha](https://open.spotify.com/album/6Wa7bFW68o9EXwSc9ymk0q) | 5:28 |
 | 83 | [Feliz](https://open.spotify.com/track/4aC0M0eoVsaJzSEGlyHVCv) | [King Deetoy](https://open.spotify.com/artist/4gk96iqLwnvHkmwZ4vbcEx), [Jussgigi](https://open.spotify.com/artist/4ajxSAdR2Hg5l4UZrqSS0Y), [Boips](https://open.spotify.com/artist/2mjDpaOyiCvH3KLyG114ho) | [Feliz](https://open.spotify.com/album/6CiGeMzki5qaRf7sXv9NGL) | 6:22 |
 
-Snapshot ID: `AAAAAIXuKCIIrQsHETZW3seZMCByxZE0`
+Snapshot ID: `AAAAAGKEtvRkZ6oDSYhgGF+C8diFEcIE`

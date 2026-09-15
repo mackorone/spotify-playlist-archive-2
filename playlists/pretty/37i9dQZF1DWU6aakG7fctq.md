@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ivana
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,695 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,587 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Sentimientos](https://open.spotify.com/track/7CaDm6qJKC4f3PuUiUsc2T) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sentimientos](https://open.spotify.com/album/3SyvjffyNzzp6GjLBvmZ3P) | 4:00 |
 | 50 | [DIAS LLUVIOSOS](https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi) | [Jas Marty](https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [DIAS LLUVIOSOS](https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz) | 2:40 |
 
-Snapshot ID: `AAAAAGfgKufhb9+R8o2kQNY8gmiWcjOd`
+Snapshot ID: `AAAAAOGSO6aij4lgyYCHwznbDOH2pxKJ`

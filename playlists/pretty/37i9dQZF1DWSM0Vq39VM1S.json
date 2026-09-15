@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 387974,
+  "num_followers": 387972,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABhhTlTGFgzuhdvd2Lv4GU7FPJiy",
+  "snapshot_id": "AAAAAFPa0ks1qtwsFQrXDWcA2O905vEm",
   "tracks": [
     {
       "added_at": "2026-09-04 16:29:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "Ride It Out",
         "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 209000,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 214756,
-      "name": "After the First Kiss",
-      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -459,22 +475,6 @@
       "duration_ms": 206480,
       "name": "Some Birds Don't Fly",
       "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
-        "name": "The Rest Of Me",
-        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 230661,
-      "name": "The Rest Of Me",
-      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
-        "name": "Paint The Picture",
-        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "Paint The Picture",
-      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "Learning to Live",
-        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 185344,
-      "name": "My Whole Life",
-      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "What A Night",
         "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 241398,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "Learning to Live",
+        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 185344,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
+        "name": "Joy Will Find Its Way",
+        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
+      },
+      "artists": [
+        {
+          "name": "Penelope Antena",
+          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "The Bed Unfold",
+      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
         "name": "How Much Does It Take To Shift It All",
         "url": "https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 153900,
       "name": "How Much Does It Take To Shift It All",
       "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
-        "name": "Joy Will Find Its Way",
-        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
-      },
-      "artists": [
-        {
-          "name": "Penelope Antena",
-          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "The Bed Unfold",
-      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
     },
     {
       "added_at": "2026-09-04 16:29:00",

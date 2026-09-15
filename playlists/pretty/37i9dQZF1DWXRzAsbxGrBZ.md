@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Dwson
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,487 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,531 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 74 | [Ziyakhala \(feat\. Poizen, Young Nator\)](https://open.spotify.com/track/2KENx1Uwvh6yL1L07uJh69) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [YOUNG NATOR](https://open.spotify.com/artist/4eze3lhRuiEoQHH1ToKdS4) | [Ear II Heart](https://open.spotify.com/album/33pN1Vmweyf74rBtDekWLy) | 6:59 |
 | 75 | [Lucky Man \- Da Gifto's Remake](https://open.spotify.com/track/4xb4ur7DrYA4L5sBS2cvN8) | [LnSoul](https://open.spotify.com/artist/5UfmOvlvYSikp9JvZutZtk), [Kenton Lee](https://open.spotify.com/artist/6YBvH6Au8RM76TTcuTDA5h), [Caviar Musique](https://open.spotify.com/artist/4kbLdUj3XS7lBxUI5ZynFz) | [Lucky Man \(Da Gifto's Remake\)](https://open.spotify.com/album/2EssVYSSSLOJjKcOBxusWf) | 8:08 |
 
-Snapshot ID: `AAAAANMhL+VCWyRstN6lKFsJhcT/29MO`
+Snapshot ID: `AAAAAHkJPFGYH3hQ8/Fvd1570rs44XmH`

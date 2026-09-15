@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Jxggi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,363 likes - 101 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,437 likes - 101 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Coffee](https://open.spotify.com/track/5CNSivEohUlVq9bd10y3pn) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Coffee](https://open.spotify.com/album/05mO6VNsgSVF5xQRsnpa3I) | 2:44 |
 | 101 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 |
 
-Snapshot ID: `AAAAAL+F7OI72oQYMDLZ0HG0U+5WnHy4`
+Snapshot ID: `AAAAANs8xUAkt20JUZ/OrBE5wPegiLBi`

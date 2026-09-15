@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,152 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,149 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 31 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 32 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 33 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
-| 34 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
+| 34 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
 | 35 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 |
-| 36 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
+| 36 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
 | 37 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 38 | [Tyle Śladów](https://open.spotify.com/track/1Tkg3k3NiG7N8fFS7HnsvS) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Tyle Śladów](https://open.spotify.com/album/182mPuz9e1vF8yPhzYbWBD) | 6:09 |
 | 39 | [OPIUM](https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [OPIUM / NIE POCIESZĘ CIĘ](https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB) | 2:32 |
 | 40 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
-| 41 | [Gravity's Pull](https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Throw The Dice](https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861) | 3:26 |
-| 42 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
+| 41 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
+| 42 | [Gravity's Pull](https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Throw The Dice](https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861) | 3:26 |
 | 43 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
-| 44 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
+| 44 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
 | 45 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
 | 46 | [Nie muszę udawać](https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM) | [Zuzia Małaj](https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ), [Krystian Piotrak](https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf) | [Nie muszę udawać](https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW) | 2:26 |
 | 47 | [Gdzie mój rytm](https://open.spotify.com/track/0xddyYqqeOepk38EKzPDEJ) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Gdzie mój rytm](https://open.spotify.com/album/0XSSCPXlp3DvP6rKodhz4H) | 2:42 |
-| 48 | [Talk To Me](https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Talk To Me](https://open.spotify.com/album/5DTJe70P5QE5s6ImL4efUG) | 3:25 |
+| 48 | [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 |
 | 49 | [Pockets](https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K) | [Amor y Vida](https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc) | [Pockets](https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd) | 4:28 |
-| 50 | [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 |
+| 50 | [Talk To Me](https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Talk To Me](https://open.spotify.com/album/5DTJe70P5QE5s6ImL4efUG) | 3:25 |
 
-Snapshot ID: `AAAAAPGhjiXWBNMKtuRewL+UHnsTCbu4`
+Snapshot ID: `AAAAAMESZSxhl28G+v0ghX/TqGDToc59`

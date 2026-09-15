@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 
 > The best videos from the world of pop! Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,357 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,371 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tdesU2gqHP.md) - [plain]
 | 99 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 100 | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2UaHy96emBz85rYljZTs8S) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/5Bt2zqIvQ5BtgoLrKjcyI6) | 3:03 |
 
-Snapshot ID: `AAAAAKlpZnd7bG8/JA+nZroyO1Q9HONu`
+Snapshot ID: `AAAAAICyHb52HD7PmzG+wpH03UOuJmzB`

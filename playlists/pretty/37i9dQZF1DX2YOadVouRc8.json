@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 49800,
+  "num_followers": 49820,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBpGvzy0X4+k0VQXO34WUfDVumk",
+  "snapshot_id": "AAAAAG6Bn53+3Odm48xcvGHVjBEq39f4",
   "tracks": [
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Ashimolowo",
-      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "Perspe",
         "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
       },
@@ -1091,22 +1059,34 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+      "duration_ms": 187590,
+      "name": "Ashimolowo",
+      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1123,6 +1103,26 @@
       "duration_ms": 154000,
       "name": "ANGELINA",
       "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 157388,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4"
       },
@@ -1299,18 +1315,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1335,42 +1355,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
-        "name": "How Can I Forget",
-        "url": "https://open.spotify.com/album/3Dz76Mlu14f9UgcIQQlAT6"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 129995,
-      "name": "How Can I Forget",
-      "url": "https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "DEARLY",
         "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "How Can I Forget",
+        "url": "https://open.spotify.com/album/3Dz76Mlu14f9UgcIQQlAT6"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 129995,
+      "name": "How Can I Forget",
+      "url": "https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
         "name": "Hashtag",
         "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 192941,
       "name": "Hashtag",
       "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-09-11 00:01:38",

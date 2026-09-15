@@ -1,37 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 261253,
+  "num_followers": 261290,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACuV/8RfsAdQWTFun6WN5YB",
+  "snapshot_id": "aqXngAAAAAAAP1E0rcggmryLcJNe2L7B",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendita Vida",
-        "url": "https://open.spotify.com/album/0LKCTISwaQ1uwXfD1AIgkP"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Bendita Vida",
-      "url": "https://open.spotify.com/track/7f9vfmovJ8L8zHgFkWGzt8"
-    },
     {
       "added_at": null,
       "album": {
@@ -323,6 +299,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nico Male\u00f3n",
+          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Aqu\u00ed Todo Esta Bien",
+      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Letras Chiquitas",
         "url": "https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT"
       },
@@ -351,46 +367,6 @@
       "duration_ms": 262961,
       "name": "Letras Chiquitas",
       "url": "https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nico Male\u00f3n",
-          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Aqu\u00ed Todo Esta Bien",
-      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
     },
     {
       "added_at": null,
@@ -847,26 +823,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guapa!",
-        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+        "name": "Bendita Vida",
+        "url": "https://open.spotify.com/album/0LKCTISwaQ1uwXfD1AIgkP"
       },
       "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Slim",
-          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Guapa!",
-      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
+      "duration_ms": 208500,
+      "name": "Bendita Vida",
+      "url": "https://open.spotify.com/track/7f9vfmovJ8L8zHgFkWGzt8"
     },
     {
       "added_at": null,
@@ -891,6 +867,30 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guapa!",
+        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Guapa!",
+      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
     },
     {
       "added_at": null,

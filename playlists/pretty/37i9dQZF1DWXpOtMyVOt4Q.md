@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,017 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,127 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,27 +24,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 14 | [Traveling](https://open.spotify.com/track/28HpN7HuwsdfnsSNXXEzF3) | [Axel J](https://open.spotify.com/artist/6NKPl5Tq1ohr1qJ3SswzB1) | [Traveling](https://open.spotify.com/album/1KMErx1KZFptweLCOPAIXl) | 2:13 |
 | 15 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 |
 | 16 | [Passing Hrs](https://open.spotify.com/track/1m6nJlMIUUqGAOqzTF75J8) | [NightRec](https://open.spotify.com/artist/0uuO3yNBCz7UaUJ8RG4XUI) | [Passing Hrs](https://open.spotify.com/album/7gah2pjngIXL9XBY1JTpWY) | 2:19 |
-| 17 | [Motions](https://open.spotify.com/track/1FP6cOsEoT35fk8MIsqc4Y) | [Marlon Elliot](https://open.spotify.com/artist/1erKPBV1dZIwNXF3wvqQNs) | [Motions](https://open.spotify.com/album/6CiorytbUrUc98ftR0ANGg) | 2:10 |
-| 18 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
-| 19 | [kampris](https://open.spotify.com/track/6haVvwzLhKi1GRBBNDrcbO) | [honeypie](https://open.spotify.com/artist/3q5KQTkrGDcIYI7pUWPV2b) | [kampris](https://open.spotify.com/album/4cXB6VfMPAGtmUdn5DYH8B) | 2:36 |
-| 20 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
-| 21 | [Stay Cool](https://open.spotify.com/track/2XDhFE4NXiX7Ks3fhDnEG7) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Stay Cool](https://open.spotify.com/album/3jTKFgtbKKxWTSv5yd9CWa) | 3:03 |
-| 22 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 |
-| 23 | [Patagonia](https://open.spotify.com/track/44LHQkYEoxuooFQtGw0AYw) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Patagonia](https://open.spotify.com/album/5FwqFyncZpFKPcql5JlMBR) | 2:20 |
-| 24 | [Went Out And Left](https://open.spotify.com/track/6U7JKEZmF6suzGjYyhlpNp) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Went Out And Left](https://open.spotify.com/album/3jYVeDRR4bA2ozoO1CbUGJ) | 2:12 |
-| 25 | [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 |
-| 26 | [Karma](https://open.spotify.com/track/4FVEktlTAaNmQRWfXMYDnb) | [Noothing](https://open.spotify.com/artist/4dHdhqjCYmzdkZUweuvbRw) | [Karma](https://open.spotify.com/album/3QJ95ad48icGpP7LbTMVOt) | 2:51 |
-| 27 | [Desires](https://open.spotify.com/track/74tYo3hYlBcYDDBTyvGYzy) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Desires](https://open.spotify.com/album/0UqiNoGpy9MPJ23CFFviDy) | 2:48 |
-| 28 | [When the City Was Quiet](https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [When the City Was Quiet](https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC) | 2:05 |
-| 29 | [FALLING](https://open.spotify.com/track/0qDagm0KQUPtM0wb4aIONO) | [Zeyn Mont](https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507) | [FALLING](https://open.spotify.com/album/5DNWZP57imjuKsOtrzPjGp) | 2:41 |
-| 30 | [Late Transit](https://open.spotify.com/track/5p5Eo7LC0MktJ1XwQmCecr) | [REPTILIAN IRL](https://open.spotify.com/artist/0RgrcXx55gQChbrNvlUR5p) | [Late Transit](https://open.spotify.com/album/3zXyyR5o7tGJBaBO74nvlR) | 2:38 |
-| 31 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
-| 32 | [Reach](https://open.spotify.com/track/1BelB6wU658c8bf3szaC71) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Reach](https://open.spotify.com/album/3UyMBT32YHVuC0IOFL0wnJ) | 2:25 |
-| 33 | [Back South](https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Back South](https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS) | 2:32 |
-| 34 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 |
-| 35 | [4U](https://open.spotify.com/track/3LPps8vSpnngb4iJfmfDmM) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [4U](https://open.spotify.com/album/0izvBvB5oOxhG3NIsOAlKJ) | 2:52 |
-| 36 | [Divine](https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe) | [Pjor](https://open.spotify.com/artist/5ONyfDG8cTuCReEUHd9LVn) | [Divine](https://open.spotify.com/album/19vJ65AYXDgFlEQUVtKMOY) | 2:45 |
-| 37 | [Atmosphere](https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Atmosphere](https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa) | 2:49 |
+| 17 | [kampris](https://open.spotify.com/track/6haVvwzLhKi1GRBBNDrcbO) | [honeypie](https://open.spotify.com/artist/3q5KQTkrGDcIYI7pUWPV2b) | [kampris](https://open.spotify.com/album/4cXB6VfMPAGtmUdn5DYH8B) | 2:36 |
+| 18 | [Stay Cool](https://open.spotify.com/track/2XDhFE4NXiX7Ks3fhDnEG7) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Stay Cool](https://open.spotify.com/album/3jTKFgtbKKxWTSv5yd9CWa) | 3:03 |
+| 19 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 |
+| 20 | [Patagonia](https://open.spotify.com/track/44LHQkYEoxuooFQtGw0AYw) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Patagonia](https://open.spotify.com/album/5FwqFyncZpFKPcql5JlMBR) | 2:20 |
+| 21 | [Went Out And Left](https://open.spotify.com/track/6U7JKEZmF6suzGjYyhlpNp) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Went Out And Left](https://open.spotify.com/album/3jYVeDRR4bA2ozoO1CbUGJ) | 2:12 |
+| 22 | [frsh pow](https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [frsh pow](https://open.spotify.com/album/4ig4XXAqt6C0RJ20eSqx2f) | 2:02 |
+| 23 | [Karma](https://open.spotify.com/track/4FVEktlTAaNmQRWfXMYDnb) | [Noothing](https://open.spotify.com/artist/4dHdhqjCYmzdkZUweuvbRw) | [Karma](https://open.spotify.com/album/3QJ95ad48icGpP7LbTMVOt) | 2:51 |
+| 24 | [Desires](https://open.spotify.com/track/74tYo3hYlBcYDDBTyvGYzy) | [Les Trouble](https://open.spotify.com/artist/0J5Be1SrvRoeVtSRLU1yvH) | [Desires](https://open.spotify.com/album/0UqiNoGpy9MPJ23CFFviDy) | 2:48 |
+| 25 | [All Good](https://open.spotify.com/track/6SNmgTxRrgIcoZGkfHefTR) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [All Good](https://open.spotify.com/album/20M62reRZt3OEtj2VHUZ28) | 2:54 |
+| 26 | [FALLING](https://open.spotify.com/track/0qDagm0KQUPtM0wb4aIONO) | [Zeyn Mont](https://open.spotify.com/artist/0lySKTNxvsJvalP2ByB507) | [FALLING](https://open.spotify.com/album/5DNWZP57imjuKsOtrzPjGp) | 2:41 |
+| 27 | [Late Transit](https://open.spotify.com/track/5p5Eo7LC0MktJ1XwQmCecr) | [REPTILIAN IRL](https://open.spotify.com/artist/0RgrcXx55gQChbrNvlUR5p) | [Late Transit](https://open.spotify.com/album/3zXyyR5o7tGJBaBO74nvlR) | 2:38 |
+| 28 | [Youth](https://open.spotify.com/track/3htQLQ5sBwlf8q7BwFHCyR) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Youth](https://open.spotify.com/album/7sTZ8nxCThLx23NJyXgVZY) | 2:22 |
+| 29 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 |
+| 30 | [Reach](https://open.spotify.com/track/1BelB6wU658c8bf3szaC71) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Reach](https://open.spotify.com/album/3UyMBT32YHVuC0IOFL0wnJ) | 2:25 |
+| 31 | [Back South](https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Back South](https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS) | 2:32 |
+| 32 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 |
+| 33 | [When the City Was Quiet](https://open.spotify.com/track/5AudrkLWtPGGyHb459MagI) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [When the City Was Quiet](https://open.spotify.com/album/7Gz7z4o1bFmp3vceUQdwfC) | 2:05 |
+| 34 | [4U](https://open.spotify.com/track/3LPps8vSpnngb4iJfmfDmM) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [4U](https://open.spotify.com/album/0izvBvB5oOxhG3NIsOAlKJ) | 2:52 |
+| 35 | [Divine](https://open.spotify.com/track/6vBQFZDHN7aVnAvFIIHexe) | [Pjor](https://open.spotify.com/artist/5ONyfDG8cTuCReEUHd9LVn) | [Divine](https://open.spotify.com/album/19vJ65AYXDgFlEQUVtKMOY) | 2:45 |
+| 36 | [Atmosphere](https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Atmosphere](https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa) | 2:49 |
+| 37 | [Motions](https://open.spotify.com/track/1FP6cOsEoT35fk8MIsqc4Y) | [Marlon Elliot](https://open.spotify.com/artist/1erKPBV1dZIwNXF3wvqQNs) | [Motions](https://open.spotify.com/album/6CiorytbUrUc98ftR0ANGg) | 2:10 |
 | 38 | [Dawn](https://open.spotify.com/track/1WGbfsJ3hLAyCJEEugKE3Q) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Dawn](https://open.spotify.com/album/2yWxlbq714I1r5eQkX2ejq) | 2:56 |
 | 39 | [Two weeks](https://open.spotify.com/track/4dnmlJGYnCLEBKYVN91ZD0) | [Eli Coast](https://open.spotify.com/artist/3RIH3BLArADeRmHKQpDqg0) | [Two weeks](https://open.spotify.com/album/47V4O36o1RrMphQj5nEjR4) | 2:19 |
 | 40 | [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 45 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 |
 | 46 | [Cosmopolitan](https://open.spotify.com/track/22z382AyN4NRWTqLaqPFGF) | [Gamboni](https://open.spotify.com/artist/5KuQiw0NP1rnQSFvv27wN5) | [Cosmopolitan](https://open.spotify.com/album/6K7Hw8wvHu1Rmxpv4NiJC4) | 1:54 |
 | 47 | [You Name It](https://open.spotify.com/track/7nZvvpkKGAOaVtURxr0eMd) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [You Name It](https://open.spotify.com/album/2lorb74Vp13J3WBm7Kgsuo) | 2:40 |
-| 48 | [Moonset Lagoon](https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR) | [Low Horizon](https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR) | [Moonset Lagoon](https://open.spotify.com/album/43A2TImzSPBFmN43qvJS8g) | 2:27 |
-| 49 | [Sun Is Rising](https://open.spotify.com/track/7MZSPsubzlMQZmkAdS8DC0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sun Is Rising](https://open.spotify.com/album/22fiezlhpvZiWGehefcQLq) | 2:45 |
-| 50 | [Elysium Yellow](https://open.spotify.com/track/331fCeg3vW7mVp9Mhav8RL) | [Iceman Gill](https://open.spotify.com/artist/2c2fEhrfXzHrZGyvEB5sGD) | [Elysium Yellow](https://open.spotify.com/album/53g6HDLGpPueOKvVudgcib) | 4:48 |
-| 51 | [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 |
-| 52 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
-| 53 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
-| 54 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
-| 55 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
-| 56 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
-| 57 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
-| 58 | [BUTTERFLY EFFECT](https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUTTERFLY EFFECT](https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN) | 2:22 |
-| 59 | [Shapes & Forms](https://open.spotify.com/track/6MY9QEbJR60Ol0JuFlb3LN) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Shapes & Forms](https://open.spotify.com/album/4XcnfbY3SfKYGY8bWuNzD6) | 2:25 |
+| 48 | [Sun Is Rising](https://open.spotify.com/track/7MZSPsubzlMQZmkAdS8DC0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sun Is Rising](https://open.spotify.com/album/22fiezlhpvZiWGehefcQLq) | 2:45 |
+| 49 | [Elysium Yellow](https://open.spotify.com/track/331fCeg3vW7mVp9Mhav8RL) | [Iceman Gill](https://open.spotify.com/artist/2c2fEhrfXzHrZGyvEB5sGD) | [Elysium Yellow](https://open.spotify.com/album/53g6HDLGpPueOKvVudgcib) | 4:48 |
+| 50 | [I Got You](https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [I Got You](https://open.spotify.com/album/0c9MPsA7YYy54S0byo7M7P) | 2:37 |
+| 51 | [Timid Space](https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4) | [Yamouss](https://open.spotify.com/artist/2eJOQMKGwHuTNSArWx1pgR) | [Timid Space](https://open.spotify.com/album/5z4XT6kWqk4t7t2JyRtk9f) | 2:59 |
+| 52 | [Slow Orbit](https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [Slow Orbit](https://open.spotify.com/album/5L5GUjk8wxSpWemLMBHG24) | 2:10 |
+| 53 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
+| 54 | [Mistline](https://open.spotify.com/track/6Tsjt5Z1rPyYHpUT0rtimv) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Mistline](https://open.spotify.com/album/5q7UFqrJAgGZ9aNrrjEX3F) | 2:10 |
+| 55 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
+| 56 | [Moonset Lagoon](https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR) | [Low Horizon](https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR) | [Moonset Lagoon](https://open.spotify.com/album/43A2TImzSPBFmN43qvJS8g) | 2:27 |
+| 57 | [BUTTERFLY EFFECT](https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUTTERFLY EFFECT](https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN) | 2:22 |
+| 58 | [Shapes & Forms](https://open.spotify.com/track/6MY9QEbJR60Ol0JuFlb3LN) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Shapes & Forms](https://open.spotify.com/album/4XcnfbY3SfKYGY8bWuNzD6) | 2:25 |
+| 59 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
 | 60 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
 
-Snapshot ID: `AAAAAHT3pZ8wkTtzWQ5MHctTuTOaQnsB`
+Snapshot ID: `AAAAALiSuo8tZO1dvxT7l5Mvfa0OJYBj`

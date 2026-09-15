@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 145 songs - 8 hr 41 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 147 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 143 | [Bullshit Nation](https://open.spotify.com/track/36GP6mjyESpAyUEMl6WThj) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Bullshit Nation](https://open.spotify.com/album/573Z6W0LMex4IKfDeJhYDI) | 4:06 |
 | 144 | [Room Still Sways](https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I) | [Terry Kingsley](https://open.spotify.com/artist/2jeaDjgdXnEnbLYgwbzTFb) | [Room Still Sways](https://open.spotify.com/album/4hUdcExkmDYYVKnu6naqhx) | 3:42 |
 | 145 | [Penelope's Odyssey](https://open.spotify.com/track/3rWODST9yrefN5hexBeTmL) | [Freddy Zucchet](https://open.spotify.com/artist/6gTBRfFjIuOf3edwOrUl4m) | [Penelope's Odyssey](https://open.spotify.com/album/44P6xiwBVaBlvEfgvEJAPz) | 2:39 |
+| 146 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
+| 147 | [Je Fly \- Live Studio](https://open.spotify.com/track/0zRR9U5YpMQP55nT8rsSqb) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Je Fly \(Live Studio\)](https://open.spotify.com/album/3DnKapbdYKAQA6uASP5Boj) | 3:07 |
 
-Snapshot ID: `AAAXvXBAyWDN4lMudY63Z06914vo96B3`
+Snapshot ID: `AAAXv0Uc15kcIBMAb3O7CSlmDXq6glQJ`

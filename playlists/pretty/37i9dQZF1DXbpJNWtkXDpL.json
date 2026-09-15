@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de 8uno y DENNA LA PORRI",
-  "num_followers": 93886,
+  "num_followers": 93882,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEys8sY3RmqLfiCeV0Ua6MGHWFjg",
+  "snapshot_id": "AAAAAI2YfyjjHZdjXFoOk+HwMmlE6/6a",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:33",
@@ -427,22 +427,18 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "PEKORITAS VOL.1",
-        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
+        "name": "El Primer Album de Low Clika",
+        "url": "https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa"
       },
       "artists": [
         {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        },
-        {
-          "name": "Moodjaas",
-          "url": "https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3"
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
         }
       ],
-      "duration_ms": 147453,
-      "name": "SOLA",
-      "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+      "duration_ms": 149627,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -459,6 +455,26 @@
       "duration_ms": 166808,
       "name": "le hablo a la luna de ti",
       "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "PEKORITAS VOL.1",
+        "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
+      },
+      "artists": [
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        },
+        {
+          "name": "Moodjaas",
+          "url": "https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "SOLA",
+      "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -499,34 +515,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "El Primer Album de Low Clika",
-        "url": "https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa"
+        "name": "Amor x Dosis (Deluxe)",
+        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
       },
       "artists": [
         {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        }
-      ],
-      "duration_ms": 149627,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "GU\u00c1RDAME.",
-        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
-      },
-      "artists": [
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
         {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 135000,
-      "name": "GU\u00c1RDAME.",
-      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
+      "duration_ms": 185717,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -555,22 +559,18 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Amor x Dosis (Deluxe)",
-        "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
       },
       "artists": [
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
         }
       ],
-      "duration_ms": 185717,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "PVT0 VACIO",
-        "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
-      },
-      "artists": [
-        {
-          "name": "Uriel AR",
-          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
-        },
-        {
-          "name": "Leo Ramirez",
-          "url": "https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi"
-        }
-      ],
-      "duration_ms": 231129,
-      "name": "PVT0 VACIO",
-      "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 184044,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4fRl4vW5SN8V3zoekNCF4Z"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "PVT0 VACIO",
+        "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
+      },
+      "artists": [
+        {
+          "name": "Uriel AR",
+          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
+        },
+        {
+          "name": "Leo Ramirez",
+          "url": "https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi"
+        }
+      ],
+      "duration_ms": 231129,
+      "name": "PVT0 VACIO",
+      "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Miop\u00eda",
-        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Mai Grc",
-          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
-        },
-        {
-          "name": "SORKI",
-          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Miop\u00eda",
-      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "Miop\u00eda",
+        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Mai Grc",
+          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
+        },
+        {
+          "name": "SORKI",
+          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Miop\u00eda",
+      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+      },
+      "artists": [
+        {
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
-      },
-      "artists": [
-        {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
         "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "me da miedo ser feliz (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3KKYPUn7j8M4IZqbdqhtXj"
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
       "artists": [
         {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 223512,
-      "name": "aqu\u00ed cabemos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EMyKWsKkEu1eGekPgK3kP"
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1283,6 +1267,22 @@
       "duration_ms": 121714,
       "name": "PONME10",
       "url": "https://open.spotify.com/track/5uKqpK3w1rD5sHMAS6m5dC"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "me da miedo ser feliz (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3KKYPUn7j8M4IZqbdqhtXj"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "aqu\u00ed cabemos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EMyKWsKkEu1eGekPgK3kP"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "puede ser que ma\u00f1ana",
-        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "puede ser que ma\u00f1ana",
-      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "puede ser que ma\u00f1ana",
+        "url": "https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "puede ser que ma\u00f1ana",
+      "url": "https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko"
     },
     {
       "added_at": "2026-09-11 06:00:33",

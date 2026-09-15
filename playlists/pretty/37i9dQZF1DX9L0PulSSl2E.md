@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,420 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,435 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [Chacha](https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [36](https://open.spotify.com/album/11NyVFBpwIuBZz5Ia1ZcsA) | 3:00 |
 | 50 | [It's Me](https://open.spotify.com/track/03rnbVMhzvcpTBYi1X2HFb) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [VELORA](https://open.spotify.com/album/2plRiyaMQOlEgUqXV89jbT) | 3:01 |
 
-Snapshot ID: `AAAAAGa3W2UImgbZX31Dn9Hoj3en9gO/`
+Snapshot ID: `AAAAADQBB4l6TeSR2uokwdJ16rD1XtDp`

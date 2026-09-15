@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Wafia on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,918 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,892 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Lovemesick](https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Lovemesick](https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv) | 3:49 |
 | 50 | [24/7](https://open.spotify.com/track/3XJseRquEY7iBYLSvDIl5Q) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [24/7](https://open.spotify.com/album/0JuwhEZwLWHXKznuby5moE) | 2:13 |
 
-Snapshot ID: `AAAAAAdyYP2pUwfvrYxcH1d7WOBBkfBM`
+Snapshot ID: `AAAAANiIZJ458wqlse7Ttk5ZU2EgPLXl`

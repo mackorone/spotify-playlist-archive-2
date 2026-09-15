@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 62074,
+  "num_followers": 62092,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACgZSjHYsA/kpCa46V4LO8C",
+  "snapshot_id": "aqXngAAAAADnw6hnRvfcxdY92z8ml5ti",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 366405,
-      "name": "Six O Six",
-      "url": "https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jigoo (Radio Edit)",
         "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 243066,
       "name": "Jigoo - Radio Edit",
       "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 366405,
+      "name": "Six O Six",
+      "url": "https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Bovska, po prostu Kajtek
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,044 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,041 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Skaza](https://open.spotify.com/track/5DYVtUrExkzT7b506SJuJp) | [Heima](https://open.spotify.com/artist/1aYeYHF941WNJDRlII88WD) | [Skaza](https://open.spotify.com/album/3wFqEmZk9mAFnkVSRpeFLb) | 4:24 |
 | 100 | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 |
 
-Snapshot ID: `AAAAALWfmIAhtsf6RE5tFUQX/pIiTHp0`
+Snapshot ID: `AAAAAOqIKZUZTvmrlMCCESu7Ur+4TsxZ`

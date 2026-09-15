@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,497 songs - 5 day 20 hr 25 min
+2,500 songs - 5 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Away \- NuKey Extended Remix](https://open.spotify.com/track/1T9JOtUpav6PH3BOVbsuep) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Away \(NuKey Remix\)](https://open.spotify.com/album/0HVfuo2ZlhKP1gTLWRcmn6) | 3:25 | 2022-04-28 | 2022-05-14 |
 | [Ayer](https://open.spotify.com/track/5ZGMwkZk3PVdt6UxLm6fAM) | [Daniel Stacks](https://open.spotify.com/artist/1Eo31Sd4qwNYf3XbbtDo7h), [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN) | [Ayer EP](https://open.spotify.com/album/3AqWeDsPhdtEVgQApbc7v8) | 3:05 | 2025-05-30 | 2025-08-02 |
 | [Azabache](https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Azabache](https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y) | 3:37 | 2023-10-27 | 2023-11-04 |
+| [Azul](https://open.spotify.com/track/4XhJWiFFCgmAjEVRYjrWvV) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn) | [Azul](https://open.spotify.com/album/2fvMZfG6VrZ947BY15dVha) | 3:32 | 2026-09-14 |  |
 | [B2B](https://open.spotify.com/track/0FMLbet9blK5IgKktuqCBx) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [B2B](https://open.spotify.com/album/2r6uLNzKU3jEPQaNHBJBM2) | 2:40 | 2022-10-14 | 2022-10-29 |
 | [Ba Da Bam](https://open.spotify.com/track/65eBp9Y5vUFprMobMyf9xE) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Ba Da Bam](https://open.spotify.com/album/6Mo86rR5FoGLeppwKEEbjq) | 3:35 | 2022-09-17 | 2022-09-24 |
 | [Baby](https://open.spotify.com/track/6bAgZ82ueaHXQ8PL0uARXc) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Baby](https://open.spotify.com/album/4zjeXfecjv5DvQr0TNraq3) | 2:38 | 2023-04-28 | 2023-05-06 |
@@ -1280,6 +1281,7 @@
 | [Looking For](https://open.spotify.com/track/4TvW3gg7dvFsV7dYO1LLyq) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Max Mash](https://open.spotify.com/artist/6YZwz1LYtGq7IbKZ15qivD) | [Looking For](https://open.spotify.com/album/7q7pZzoJr56XHCepcyyz6l) | 3:01 | 2025-04-11 | 2025-05-10 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-12 | 2023-05-20 |
+| [Lose Control](https://open.spotify.com/track/1byzNphM9BQUAX0Qzjk14D) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Lose Control](https://open.spotify.com/album/0KdBgyXMeku6jt6tVkgPhi) | 3:04 | 2026-09-14 |  |
 | [Lose Control](https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Lose Control](https://open.spotify.com/album/2c8lk5exqABxO2NhHfKhX2) | 2:53 | 2025-04-25 | 2025-05-31 |
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-09 | 2022-07-16 |
 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 | 2024-11-08 | 2025-01-18 |
@@ -2353,6 +2355,7 @@
 | [Waiting](https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Waiting](https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf) | 2:37 | 2022-07-29 | 2022-10-29 |
 | [Waiting](https://open.spotify.com/track/0STjiCCGnITULz6x7KLc14) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Waiting](https://open.spotify.com/album/3WN873uYz9Q8zv4pH4zVgP) | 2:52 | 2023-08-11 | 2023-08-26 |
 | [Waiting For You](https://open.spotify.com/track/6VtbMBWi4sVVlTeZK5gOvD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [MAGNUS \(B\-Side\)](https://open.spotify.com/artist/5Y9lg0qkPvXCH8903RFC4J) | [Waiting For You](https://open.spotify.com/album/0MaWoxutAivbJbvMELQ7LJ) | 2:29 | 2023-05-05 | 2023-05-13 |
+| [Wake Me Up](https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Wake Me Up](https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5) | 3:17 | 2026-09-14 |  |
 | [Walk Of Shame](https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Walk Of Shame](https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi) | 2:28 | 2022-05-29 | 2022-06-04 |
 | [Walk Out The Door](https://open.spotify.com/track/3z0pLKPczBIYxDzgds5L0d) | [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [SØSURE](https://open.spotify.com/artist/4e2tuETmHd1O7sMTku5NX1) | [Walk Out The Door](https://open.spotify.com/album/1v4abu1mQTzNm006byZQQ9) | 1:50 | 2024-07-26 | 2024-09-07 |
 | [Walkin'](https://open.spotify.com/track/0lNn6sOzm96BzweoCGl6mG) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Walkin'](https://open.spotify.com/album/2XuVJHfP5vUymaowjgVBZe) | 2:44 | 2023-08-11 | 2023-08-26 |

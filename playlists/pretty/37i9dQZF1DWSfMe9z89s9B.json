@@ -1,12 +1,12 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1309467,
+  "num_followers": 1309368,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMThNUSeGnDoz3ehyorQfVnzVmBM",
+  "snapshot_id": "AAAAAJ/HhmbgE9p27RwP/GiU670RIyjC",
   "tracks": [
     {
       "added_at": "2026-07-31 07:26:27",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
+      "added_at": "2024-12-06 07:13:57",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -1029,20 +1029,36 @@
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2025-09-07 01:24:20",
       "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "added_at": "2026-03-27 06:30:33",
+      "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
     },
     {
       "added_at": "2026-07-17 05:33:57",
@@ -1065,20 +1081,24 @@
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
-      "added_at": "2026-03-27 06:30:33",
+      "added_at": "2026-05-08 06:11:38",
       "album": {
-        "name": "idk idk",
-        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+        "name": "Mr. Man",
+        "url": "https://open.spotify.com/album/0v7pPCvtl5su0WU8d0WoO8"
       },
       "artists": [
         {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "name": "Dominique Da Silva",
+          "url": "https://open.spotify.com/artist/4r8PxDmz7OklWJ6OP4TibY"
         }
       ],
-      "duration_ms": 146526,
-      "name": "idk idk",
-      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+      "duration_ms": 126000,
+      "name": "Mr. Man",
+      "url": "https://open.spotify.com/track/35AiVkvqeGcKWE8bURtPKQ"
     },
     {
       "added_at": "2024-08-23 05:28:40",
@@ -1117,26 +1137,6 @@
       "url": "https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Mr. Man",
-        "url": "https://open.spotify.com/album/0v7pPCvtl5su0WU8d0WoO8"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        },
-        {
-          "name": "Dominique Da Silva",
-          "url": "https://open.spotify.com/artist/4r8PxDmz7OklWJ6OP4TibY"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Mr. Man",
-      "url": "https://open.spotify.com/track/35AiVkvqeGcKWE8bURtPKQ"
-    },
-    {
       "added_at": "2026-04-24 04:14:21",
       "album": {
         "name": "sweet talk",
@@ -1169,6 +1169,26 @@
       "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Another Life (Feat. Bryant Barnes)",
+        "url": "https://open.spotify.com/album/7hk8631rjWBCtXKvjl06sJ"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Another Life (Feat. Bryant Barnes)",
+      "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
+    },
+    {
       "added_at": "2025-09-07 01:24:20",
       "album": {
         "name": "maple brown",
@@ -1199,26 +1219,6 @@
       "duration_ms": 172235,
       "name": "hillside",
       "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Another Life (Feat. Bryant Barnes)",
-        "url": "https://open.spotify.com/album/7hk8631rjWBCtXKvjl06sJ"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        },
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Another Life (Feat. Bryant Barnes)",
-      "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
-    },
-    {
       "added_at": "2025-10-25 02:54:19",
       "album": {
         "name": "CAOS",
@@ -1533,24 +1517,20 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
-      "added_at": "2026-07-17 05:33:57",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "Any Time (feat. James Fauntleroy)",
-        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 269028,
-      "name": "Any Time (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 240263,
       "name": "Lord, Forgive Me",
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
+    },
+    {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
-      "added_at": "2026-07-31 07:26:27",
+      "added_at": "2025-02-14 07:50:47",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 252144,
-      "name": "Barii",
-      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+      "duration_ms": 176785,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -1721,20 +1721,20 @@
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
-      "added_at": "2025-02-14 07:50:47",
+      "added_at": "2026-07-31 07:26:27",
       "album": {
-        "name": "CUT UP",
-        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
-      "duration_ms": 176785,
-      "name": "CUT UP",
-      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
+      "duration_ms": 252144,
+      "name": "Barii",
+      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
     },
     {
       "added_at": "2026-06-21 21:45:09",
@@ -1767,6 +1767,22 @@
       "duration_ms": 163931,
       "name": "Akira",
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
       "added_at": "2024-06-21 07:44:39",
@@ -1805,22 +1821,6 @@
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
     },
     {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
-    },
-    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "God Said No",
@@ -1853,6 +1853,22 @@
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
     },
     {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 258801,
+      "name": "Nearsight [SID]",
+      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
+    },
+    {
       "added_at": "2026-06-21 21:45:09",
       "album": {
         "name": "Still Be Mine",
@@ -1875,22 +1891,6 @@
       "duration_ms": 156666,
       "name": "Still Be Mine",
       "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
-    },
-    {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 258801,
-      "name": "Nearsight [SID]",
-      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "raindance",
-        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 218918,
-      "name": "raindance",
-      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Wildflowers",
@@ -2045,36 +2029,20 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
+      "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "is anybody home!?",
-        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
+        "name": "raindance",
+        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
       },
       "artists": [
         {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
         }
       ],
-      "duration_ms": 257561,
-      "name": "clear blue!",
-      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
-    },
-    {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 125278,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
+      "duration_ms": 218918,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -2093,6 +2061,22 @@
       "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "is anybody home!?",
+        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 257561,
+      "name": "clear blue!",
+      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
+    },
+    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "ACCELERATOR",
@@ -2107,6 +2091,22 @@
       "duration_ms": 228003,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -2229,22 +2229,6 @@
       "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
-    },
-    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -2259,6 +2243,22 @@
       "duration_ms": 146669,
       "name": "pilot.",
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
     },
     {
       "added_at": "2026-07-17 05:33:57",
@@ -2341,22 +2341,6 @@
       "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
-    },
-    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "SMOKIN POTNA",
@@ -2377,20 +2361,20 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2026-05-15 07:04:17",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
+      "duration_ms": 233513,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "cellophane",
-        "url": "https://open.spotify.com/album/5eJa1nfYhVs7eCQWEozWS9"
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
       },
       "artists": [
         {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 156000,
-      "name": "cellophane",
-      "url": "https://open.spotify.com/track/5k24ea9NSxOL44OAW1UH69"
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2471,6 +2455,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "cellophane",
+        "url": "https://open.spotify.com/album/5eJa1nfYhVs7eCQWEozWS9"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "cellophane",
+      "url": "https://open.spotify.com/track/5k24ea9NSxOL44OAW1UH69"
     },
     {
       "added_at": "2026-05-08 06:11:38",

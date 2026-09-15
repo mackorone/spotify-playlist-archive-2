@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16314,
+  "num_followers": 16323,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAL848YBUReUGvHeW0tF6L1",
+  "snapshot_id": "aqXngAAAAABPeoRvzWxlqlsvvzLm828t",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Smokestack Twins",
-      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
+      "duration_ms": 93603,
+      "name": "Rotta",
+      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+        "name": "Sinners (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 93603,
-      "name": "Rotta",
-      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
+      "duration_ms": 208613,
+      "name": "Smokestack Twins",
+      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
     },
     {
       "added_at": null,

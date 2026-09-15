@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,837 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,888 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 33 | [Bognanli](https://open.spotify.com/track/3InJx4AQ1fyI67sGLWNapb) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Arii](https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N), [Daudet](https://open.spotify.com/artist/4UGynF3Q6w9vIdyLpsufVr) | [Joie de vivre](https://open.spotify.com/album/1MoRrKBL21mPAadwg176uj) | 2:37 |
 | 34 | [Tu as raison](https://open.spotify.com/track/7sBCu0ZVvNWKC0AHivBGGE) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as raison](https://open.spotify.com/album/74tdSKOAqpi2PCR9flkUC0) | 2:31 |
 | 35 | [Petit Mapouka](https://open.spotify.com/track/0STTtdPLNdi1NhrGNFHOk9) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Petit Mapouka](https://open.spotify.com/album/2wrbK7ii7ZQ4RsfrmQMXE8) | 2:06 |
-| 36 | [Ketebo](https://open.spotify.com/track/5OsYorTnhNm1Ur8GEBE6EM) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski) | [Ketebo](https://open.spotify.com/album/7jMCPgy8e0guBeCpSI8Rpj) | 2:52 |
-| 37 | [Gbachina](https://open.spotify.com/track/3Pqqojb8FEEjNAs5lGmZfU) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Unique](https://open.spotify.com/album/4wsS0vbxRyaG7AR5pIluwe) | 3:48 |
-| 38 | [David Fofana](https://open.spotify.com/track/1sYgGGP9aOTpoWjZOJAeyC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [David Fofana](https://open.spotify.com/album/4hICyNZfHx1LgA1QmRbdsp) | 3:17 |
-| 39 | [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 |
-| 40 | [Ils ont peur](https://open.spotify.com/track/1PN42kfV8J4ZbIhccMQZFI) | [Puissance 225](https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t) | [Ils ont peur](https://open.spotify.com/album/6XExsWB5vgz6NZFJFf39Lv) | 2:42 |
-| 41 | [On cherche](https://open.spotify.com/track/3JbKyQ1ebDGbl4drpUiR33) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [La Team Gbozon](https://open.spotify.com/artist/35mGvtGQqhlBOQV0UlvgrC) | [On cherche](https://open.spotify.com/album/66ZRr2721oUC72HVNvIzIR) | 2:54 |
+| 36 | [Gbachina](https://open.spotify.com/track/3Pqqojb8FEEjNAs5lGmZfU) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Unique](https://open.spotify.com/album/4wsS0vbxRyaG7AR5pIluwe) | 3:48 |
+| 37 | [David Fofana](https://open.spotify.com/track/1sYgGGP9aOTpoWjZOJAeyC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [David Fofana](https://open.spotify.com/album/4hICyNZfHx1LgA1QmRbdsp) | 3:17 |
+| 38 | [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 |
+| 39 | [Ils ont peur](https://open.spotify.com/track/1PN42kfV8J4ZbIhccMQZFI) | [Puissance 225](https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t) | [Ils ont peur](https://open.spotify.com/album/6XExsWB5vgz6NZFJFf39Lv) | 2:42 |
+| 40 | [On cherche](https://open.spotify.com/track/3JbKyQ1ebDGbl4drpUiR33) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [La Team Gbozon](https://open.spotify.com/artist/35mGvtGQqhlBOQV0UlvgrC) | [On cherche](https://open.spotify.com/album/66ZRr2721oUC72HVNvIzIR) | 2:54 |
 
-Snapshot ID: `AAAAAH0Ca3hDVs/RIp1I/mDDrbgURd0t`
+Snapshot ID: `AAAAAOdG79ighfszINb/1Unzg8uScrjo`

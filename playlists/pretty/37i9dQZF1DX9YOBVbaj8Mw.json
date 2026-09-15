@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO",
+  "snapshot_id": "AAAAADnTLWtuVsU5Cof4CPgfUk9LPUfV",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Do\u015b\u0107",
+        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Do\u015b\u0107",
+      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Tak jak tutaj stoj\u0119",
         "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
       },
@@ -295,18 +311,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Do\u015b\u0107",
-        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
+        "name": "Dziwna (feat. Artur Rojek)",
+        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
       "artists": [
         {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Do\u015b\u0107",
-      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
+      "duration_ms": 161724,
+      "name": "Dziwna (feat. Artur Rojek)",
+      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -335,26 +355,6 @@
       "duration_ms": 238093,
       "name": "Niech \u017cyje bal",
       "url": "https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Dziwna (feat. Artur Rojek)",
-        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Dziwna (feat. Artur Rojek)",
-      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "BUNT",
+        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
+      },
+      "artists": [
+        {
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Aport",
+      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 159803,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "BUNT",
-        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Aport",
-      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+        }
+      ],
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Fryderyk LIS",
         "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 251447,
       "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
       "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
-      },
-      "artists": [
-        {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
-        }
-      ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
     },
     {
       "added_at": "2026-05-26 09:05:26",

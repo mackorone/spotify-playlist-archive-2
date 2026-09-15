@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Juste un peu" de Jungeli et EMMA est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,334 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,212 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Jet Lag](https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Jet Lag](https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh) | 2:45 |
 | 40 | [Famille ou pas famille](https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Famille ou pas famille](https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd) | 3:01 |
 
-Snapshot ID: `AAAAAErtpq/xcyv2uw9INA945yLvrSMk`
+Snapshot ID: `AAAAANTvG00xDQP+TVjolQyXvHVyhAS4`

@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 110 | [BARA](https://open.spotify.com/track/6rd3jTMVZIZRw3iqj6S3uw) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [DND](https://open.spotify.com/album/2h1wZbM8PiBWi8vu6zwCAM) | 3:07 |
 | 111 | [Le Petit](https://open.spotify.com/track/37nkxMAXq8AOb7f6RopGFw) | [Zayo](https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n) | [ORIGINES](https://open.spotify.com/album/1VA3HtmVLD1cz6S8g755iW) | 2:40 |
 
-Snapshot ID: `AAAAACNPWvR6swaMPD2I6wT2vaeq6dW6`
+Snapshot ID: `AAAAAIGI0SA7Wl99NoP4fx247xWl+mpV`

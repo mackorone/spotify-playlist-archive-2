@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: ryan hemsworth
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,837 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,854 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 73 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 | 74 | [MUSIC SAVED MY LIFE](https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [BEFORE GRANDE](https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f) | 3:27 |
 
-Snapshot ID: `AAAAAPBChPZBDWpAH87AU9pe4UejGheL`
+Snapshot ID: `AAAAAKEzqW1tn2HaqeJ9NS4690cegO0y`

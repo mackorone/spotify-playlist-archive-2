@@ -4,7 +4,7 @@
 
 > Create new habits in the new year with gentle Ambient meditations.
 
-124 songs - 5 hr 41 min
+139 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [Aerial Moments](https://open.spotify.com/track/0Q3ihTfbaNnvaiIrKmfCUk) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Aerial Moments](https://open.spotify.com/album/2Nxi40EDhJFefOZrjBaiHQ) | 2:24 | 2026-02-04 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2026-02-04 |  |
 | [Agogica](https://open.spotify.com/track/1J6FVgrYaiEY6Mj4b96wTK) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Agogica](https://open.spotify.com/album/485dH0hmF7PKf3OKqk2y9z) | 2:43 | 2026-02-04 |  |
+| [Amber Rising](https://open.spotify.com/track/3Co8ec4bekzcs4V8UKb0kz) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Amber Rising](https://open.spotify.com/album/7nOmhFOhDfeSsVnyZeFu2O) | 2:42 | 2026-09-14 |  |
 | [Amble](https://open.spotify.com/track/5cV6U9P1ItEIGrvSpkb35V) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Amble](https://open.spotify.com/album/2MJwSBOPC3hwSCigceB7Qx) | 2:37 | 2026-02-04 |  |
+| [Andromeda](https://open.spotify.com/track/2ZxMJ6roTzLmdyKNKGgIDO) | [Dåtid](https://open.spotify.com/artist/0LyYeEufSsYUjzRIsJPMJ1) | [Andromeda](https://open.spotify.com/album/7ncPV8G23qx2Gf9UEo0Hqz) | 2:49 | 2026-09-14 |  |
 | [Ascend](https://open.spotify.com/track/2hItKZtonkrYjLtJ4LJi8n) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Ascend](https://open.spotify.com/album/5xgEDd5nse8DRA1BRh34a0) | 3:01 | 2026-02-04 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2026-02-04 |  |
 | [Atlantica](https://open.spotify.com/track/4jDb1rWIia6olz6CK3LRoZ) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Atlantica](https://open.spotify.com/album/30ttwHBQuINyAhPHtFb48j) | 2:58 | 2026-02-04 |  |
@@ -31,10 +33,12 @@
 | [Desiderium](https://open.spotify.com/track/4U6bReb0JPJGATCDjKCVqm) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Desiderium](https://open.spotify.com/album/6iHUtdVpODuD2BEUhmGLDe) | 2:51 | 2026-02-04 |  |
 | [Direct Flow](https://open.spotify.com/track/7FC66aIVsfu3C13vcin2Mx) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Direct Flow](https://open.spotify.com/album/7mZ6rlbu3fmzNk0UXy1LHt) | 2:56 | 2026-02-04 |  |
 | [Discoveries Within](https://open.spotify.com/track/7oAAQA7muKPqNi3HmbHpHy) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Discoveries Within](https://open.spotify.com/album/7EtMl3woqR23iEnAy9M9f7) | 2:55 | 2026-02-04 |  |
+| [Distant Constellations](https://open.spotify.com/track/2hDgYPeFBgnzsgS0iovS2F) | [Aethlyn](https://open.spotify.com/artist/0aTwZcLOQzNtUtdEtVHqTh) | [Distant Constellations](https://open.spotify.com/album/7xjtmqQp3SBTBqb9pNlwpF) | 2:17 | 2026-09-14 |  |
 | [Distant Whispers](https://open.spotify.com/track/5FrbzSsNadUhax6XbSKNHW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Distant Whispers](https://open.spotify.com/album/19SYVKAzQUsFWiRYyxju5R) | 2:54 | 2026-02-04 |  |
 | [Dream Appearance](https://open.spotify.com/track/0F2sr5TcmPTcUR3Eu6DZkv) | [Selenique](https://open.spotify.com/artist/6w2PLwVJnXbLWkyyDq4CII) | [Dream Appearance](https://open.spotify.com/album/1ACySUJ5LVyinEqtLk7dq1) | 2:43 | 2026-05-13 |  |
 | [Dream of Flying](https://open.spotify.com/track/1zblDx9qXdnHFVuPPa4k97) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Dream of Flying](https://open.spotify.com/album/7BXA7SnVjNtz6Fy0lJTa20) | 3:00 | 2026-02-04 |  |
 | [Dreamform](https://open.spotify.com/track/2FbCjwoDy7Y6SM8vTklRh7) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Dreamform](https://open.spotify.com/album/5rWvBICtUMp259qqw8zyzN) | 2:19 | 2026-02-04 |  |
+| [Dreaming Skies](https://open.spotify.com/track/7jiOlTCFeIMp5NNhSfwQqV) | [Inlune](https://open.spotify.com/artist/3TYEVwtWJLKq2Y2dj46kZ7) | [Dreaming Skies](https://open.spotify.com/album/4no6NkoDxoDdGElaaDP45F) | 2:25 | 2026-09-14 |  |
 | [Eclipse](https://open.spotify.com/track/2rg4ZhhEHEOEWvVj8wt9lN) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Eclipse](https://open.spotify.com/album/47r0eoMakoG1qnSGfprbUu) | 2:49 | 2026-02-04 |  |
 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2026-02-04 |  |
 | [Effortless Elevation](https://open.spotify.com/track/6KRvdB6Z22sVh2bWsUygpV) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Effortless Elevation](https://open.spotify.com/album/17Vojtcm2uTAqFjfbOySRI) | 2:26 | 2026-02-04 |  |
@@ -42,7 +46,9 @@
 | [Elevated](https://open.spotify.com/track/0Pmh2p6tvo4nr1T1f9rzEE) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Elevated](https://open.spotify.com/album/4zoLhdFOUlIjo68auXJeYG) | 2:45 | 2026-02-04 |  |
 | [Elfic Mantra](https://open.spotify.com/track/089t8knhOvdhOaMphM09Ch) | [Solstice Soundwave](https://open.spotify.com/artist/3Cd3adDx2xIATvRvypEoGG) | [Elfic Mantra](https://open.spotify.com/album/5YzrnkkE3mbDTmtYcXKusG) | 3:18 | 2026-02-04 |  |
 | [Embracing](https://open.spotify.com/track/1q9QXa4pyaTQZJ7oKxO0Jr) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Embracing](https://open.spotify.com/album/64R56nyk5oofdU1v8JKbS9) | 2:24 | 2026-02-04 |  |
+| [Escapement](https://open.spotify.com/track/5Wx3QldB0On1Z7TZ39p7e3) | [Montrefall](https://open.spotify.com/artist/0yxk0UYnzbg3244OIWTcm3) | [Escapement](https://open.spotify.com/album/5yYeZIaVjpwm9KkCA3Zq0Q) | 2:11 | 2026-09-14 |  |
 | [Esoteric](https://open.spotify.com/track/1CS8gyzijBq8WVr87aWQYk) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Esoteric](https://open.spotify.com/album/0CCa3J5cHdMNIBNiqFIQHv) | 2:43 | 2026-02-04 |  |
+| [Eternal Light](https://open.spotify.com/track/4jdDINU5fK1rrTJdJrnYXD) | [Sonical Serenity](https://open.spotify.com/artist/5efTlkpka6MMoEpB3QXXYM) | [Eternal Light](https://open.spotify.com/album/4UkNQIz6Jkx1DWgnPn4PKW) | 2:28 | 2026-09-14 |  |
 | [Ethereal Reverie](https://open.spotify.com/track/6pcZQoQvKJqVl4wlY5ld8E) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Ethereal Reverie](https://open.spotify.com/album/5JWh8VfwqevVxMAqXdnjvH) | 2:22 | 2026-02-04 |  |
 | [Fade To Green](https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Slumber](https://open.spotify.com/album/0RVAtmxNwwR7lOimtJQAvY) | 2:28 | 2026-02-04 |  |
 | [Fields of Calmness](https://open.spotify.com/track/5JRYHOzIcEvt4LinY3tw5j) | [Oscar Fjeldheim](https://open.spotify.com/artist/7lGZePKmv1OcxnhTpUdqQh) | [Fields of Calmness](https://open.spotify.com/album/5vuykQpH07jDVkFR78wS4z) | 3:14 | 2026-02-04 |  |
@@ -58,14 +64,17 @@
 | [Greenhouse](https://open.spotify.com/track/7BIV7tvTyeFhcHJlSaZAil) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Greenhouse](https://open.spotify.com/album/3WsLvsaD00hf8pEjDqhVbQ) | 2:09 | 2026-02-04 |  |
 | [Harvest](https://open.spotify.com/track/4gxn1DVfUkqkN1iR52Dq1p) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Harvest](https://open.spotify.com/album/5Do6GBaEFfukEdjyqzCOnh) | 2:46 | 2026-02-04 |  |
 | [Haze](https://open.spotify.com/track/4fSeUfyTk5Ivv6Nv3SWB0Z) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Haze](https://open.spotify.com/album/1zKzSZnVEF8dlODMUQ1puK) | 3:17 | 2026-02-04 |  |
+| [Illuminating](https://open.spotify.com/track/14bQ93d6Ccx2kSPTalCKsJ) | [Planetone](https://open.spotify.com/artist/4epLhV6jzBnism1loSlMcD) | [Illuminating](https://open.spotify.com/album/4eHTRRLLjYl2WMIbWxaqjb) | 2:38 | 2026-09-14 |  |
 | [Improved Focus](https://open.spotify.com/track/2I6wgXiYhpwJ5D6P2vKXEA) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:12 | 2026-02-04 |  |
 | [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 | 2026-02-04 |  |
+| [Infinite Mists](https://open.spotify.com/track/3eAovH3IH1CfmJNwdwPpQt) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Infinite Mists](https://open.spotify.com/album/4zVabpVOMoY5iis82oYD7e) | 2:39 | 2026-09-14 |  |
 | [Inner Deep](https://open.spotify.com/track/3qBtp4h9j9TqWiiBHgiw5g) | [Kunushevci](https://open.spotify.com/artist/2Etal9cBcsTP6maAdJEWZl) | [Inner Deep](https://open.spotify.com/album/2XNI1b8reNHa8uYa2ioxLK) | 3:21 | 2026-02-04 |  |
 | [Inward](https://open.spotify.com/track/7vE4R6MP1gb9ElIZZ256zl) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Inward](https://open.spotify.com/album/6bZ6CJdK8E94DLR0YaEqbW) | 2:46 | 2026-02-04 |  |
 | [Iris Hollow](https://open.spotify.com/track/2eJALR0nyLwJwjjbEwEySg) | [OmniBrain](https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06) | [Iris Hollow](https://open.spotify.com/album/3jm3xDJKKzptJALeTYL9Lr) | 2:40 | 2026-02-04 | 2026-05-14 |
 | [Is It Here?](https://open.spotify.com/track/04zONcxK06SdL8WI4ifmcp) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Is it here?](https://open.spotify.com/album/5mzT6Qg48p3qlFF7Mip0Da) | 2:37 | 2026-02-04 |  |
 | [Jupiter Winds](https://open.spotify.com/track/0wzsPaZN8heRqflPe1I7dr) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Jupiter Winds](https://open.spotify.com/album/6StD9Pc5c6p1F15PuJ2NcI) | 2:53 | 2026-02-04 |  |
 | [Laminya](https://open.spotify.com/track/0N1lU4TfpoTenh9EIfStpy) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Laminya](https://open.spotify.com/album/2EIzHumvQvilD9Y0PENABf) | 3:04 | 2026-02-04 |  |
+| [Late Shadows](https://open.spotify.com/track/3Fm2Bfn5735y2C9loa6Rxm) | [August Cole](https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O) | [Late Shadows](https://open.spotify.com/album/6VGDLxbdo40Svphx5NHleQ) | 2:44 | 2026-09-14 |  |
 | [Lethe](https://open.spotify.com/track/6Cmb7gj7OucjhOUZ7nm7YU) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Lethe](https://open.spotify.com/album/4xYHFpYfmR8XMjhQw24CkO) | 2:39 | 2026-02-04 |  |
 | [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2026-02-04 |  |
 | [Luminescent Pools](https://open.spotify.com/track/4NoT55hbCqxXcqj8HhIaUt) | [pkwy.](https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP) | [Luminescent Pools](https://open.spotify.com/album/6baiWyYxlzngFFqdCsiYeq) | 2:58 | 2026-02-04 |  |
@@ -115,6 +124,8 @@
 | [Soothe](https://open.spotify.com/track/4c0EwCaEcHHQrxIMSj09Ok) | [Sanyelle](https://open.spotify.com/artist/0WaclwFRHRJfNNt4iQ2I3l) | [Soothe](https://open.spotify.com/album/1kuAYLrhCs7TrNOzNtE66O) | 2:22 | 2026-02-04 |  |
 | [Stadius](https://open.spotify.com/track/65jdmQ3Szt2L2OBcSgXgRY) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Stadius](https://open.spotify.com/album/39sVuo5u2XXCmF0RHt5jOQ) | 2:57 | 2026-02-04 |  |
 | [Stardreaming](https://open.spotify.com/track/75UZFy1chphjIzbEsTbQm8) | [Enyan](https://open.spotify.com/artist/09QSnDkriPdCQbgirv4HWe) | [Stardreaming](https://open.spotify.com/album/5LuGISZ63dzlbLFBgPFr66) | 2:59 | 2026-02-04 |  |
+| [Stillness](https://open.spotify.com/track/3q3sw1b4rlJMIPYsedw8jA) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Stillness](https://open.spotify.com/album/1lWEvCU2sPBKNBRNSwrGqL) | 3:06 | 2026-09-14 |  |
+| [Stillness](https://open.spotify.com/track/4IvsY8nQ1F0hz8G285lxDc) | [Drift Within](https://open.spotify.com/artist/3zXg9BklZh2lVmfrFkvLTY) | [Stillness](https://open.spotify.com/album/4Ni1zyzLhLn7PB0yK3javy) | 2:24 | 2026-09-14 |  |
 | [Stillness, Blooming](https://open.spotify.com/track/7tv6eKSO4oz9BI2xYMLpy8) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Stillness, Blooming](https://open.spotify.com/album/0uvvVQln771gS90Xtaz07c) | 2:27 | 2026-02-04 |  |
 | [Sun Child](https://open.spotify.com/track/2OqIPqQlSoutCGNbbvGKAz) | [Elunara Mare](https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV) | [Sun Child](https://open.spotify.com/album/1iqnfPEUEjFAeSbk50nbTc) | 2:23 | 2026-02-04 |  |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2026-02-04 |  |
@@ -130,6 +141,10 @@
 | [Tres](https://open.spotify.com/track/2ujT6O03oU9z3lQTTItyLN) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Tres](https://open.spotify.com/album/51BHW3ijLUBlChCvHkP1n2) | 2:59 | 2026-02-04 |  |
 | [Tundra](https://open.spotify.com/track/7tOex27iWX5qFhBCP5JBqb) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Tundra](https://open.spotify.com/album/3Jo31sCMMryhkskKpmUtBQ) | 2:43 | 2026-02-04 |  |
 | [Up North](https://open.spotify.com/track/5hZWVcLXqiF80CeUH5xujt) | [Seraphine](https://open.spotify.com/artist/1ZZeGCPBOTM8xb5M2xV8Sl) | [Up North](https://open.spotify.com/album/2Hzi2CKxLWRuniuEYlymXq) | 2:12 | 2026-02-04 |  |
+| [Weightless](https://open.spotify.com/track/0xl3djkgHtT2SnDlbfreNk) | [nightfall](https://open.spotify.com/artist/2bxsey6NsNogSPVrrlFZGx) | [Weightless](https://open.spotify.com/album/4Go9oVGPsQ6iwe86Dyuc9b) | 2:29 | 2026-09-14 |  |
+| [Weightless Skies](https://open.spotify.com/track/0wzX5vIyCKnqWbHJQS93uk) | [Civian](https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p) | [Weightless Skies](https://open.spotify.com/album/4XiPA5DsVsokKWAYYH6wWT) | 2:17 | 2026-09-14 |  |
+| [When The Dial Slows](https://open.spotify.com/track/2vmVlTtVQRJVRIzNI4vuRY) | [Nicolas Riber](https://open.spotify.com/artist/764OZZA9pVhDi1Wej23zJr) | [When The Dial Slows](https://open.spotify.com/album/2JsaCsdFwz7qBzQPQkU0Wc) | 2:42 | 2026-09-14 |  |
+| [Whisper of a Calm](https://open.spotify.com/track/3etNCgOIa1S9FYA8Gy3LRv) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Whisper of a Calm](https://open.spotify.com/album/5HCdtuykDGG1KshXGmZ3iQ) | 3:12 | 2026-09-14 |  |
 | [Windveil](https://open.spotify.com/track/1hnUiZgYcIuxyiK8xtQyrI) | [Serenei](https://open.spotify.com/artist/2fN0qX9ezXVr0vHhHluQ9z) | [Windveil](https://open.spotify.com/album/6l6DdypycwVO13ws0yGGBc) | 2:11 | 2026-05-13 |  |
 | [Yuma](https://open.spotify.com/track/5fx3COZ7NYkn4RAsoBRE2P) | [Astral Tides](https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S) | [Yuma](https://open.spotify.com/album/2yc1OPQg3UjVYOCH2V7rNr) | 2:36 | 2026-02-04 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,478 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,476 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,15 +112,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 102 | [End of the World](https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 4:10 |
 | 103 | [Night Terror](https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Parasomnia](https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd) | 9:55 |
 | 104 | [Ancient Light](https://open.spotify.com/track/7zW1oZZy5m8zpJZfRfwGKv) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Wild and Clear and Blue](https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV) | 3:34 |
-| 105 | [Still Here](https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 2:55 |
-| 106 | [La Del Proceso](https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Y Lo Que Viene](https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat) | 3:04 |
+| 105 | [La Del Proceso](https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Y Lo Que Viene](https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat) | 3:04 |
+| 106 | [Still Here](https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 2:55 |
 | 107 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 108 | [Coritos de Fuego](https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G), [Adrienne Bailon\-Houghton](https://open.spotify.com/artist/7yfn5P0P0V6r3uUcxd4d6u) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 9:36 |
 | 109 | [Relationships](https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 |
 | 110 | [Who Believes In Angels?](https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 5:13 |
 | 111 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |
-| 112 | [Hoy no me siento bien](https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Y ahora qué?](https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI) | 2:33 |
-| 113 | [Horses](https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Middle](https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q) | 3:35 |
+| 112 | [Horses](https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Middle](https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q) | 3:35 |
+| 113 | [Hoy no me siento bien](https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Y ahora qué?](https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI) | 2:33 |
 | 114 | [He Loves Us Both \(with H.E.R.\)](https://open.spotify.com/track/5t273TViREJdH5RtHtupyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Treasure Self Love](https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf) | 3:41 |
 | 115 | [Love Me Like You Used To Do \[Feat\. Tyler Childers\]](https://open.spotify.com/track/28520OoA1qXG46koPHUcSG) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Hard Headed Woman](https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw) | 4:27 |
 | 116 | [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 124 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
 | 125 | [Como Quisiera Quererte](https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 4:18 |
 
-Snapshot ID: `AAAAAOOJzF4E2/X9O757J2l7CyADx31H`
+Snapshot ID: `AAAAAHor5ZxNFNrdNow5iM3WOq1WRNQV`

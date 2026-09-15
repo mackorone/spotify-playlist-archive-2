@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > Congratulations to all of the nominees! Watch the CMA Awards live on November 18th at 8/7c on ABC! Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,960 likes - 44 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,006 likes - 44 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 43 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Stop Draggin' My Heart Around](https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34) | 4:18 |
 | 44 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 |
 
-Snapshot ID: `AAAAAEUVIuK4fS5Rr27vpB1dnHwSHoXy`
+Snapshot ID: `AAAAAAiFE+39PWrMFxz98YEbqcAAeOE+`

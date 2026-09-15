@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,071 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,061 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,12 +141,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 131 | [Jenny](https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 4:01 |
 | 132 | [Nadie Como Tú](https://open.spotify.com/track/4xWscZB7u3fzs49cxbw1QP) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Generaciones](https://open.spotify.com/album/4c2uimu7V6ICz4mRNW2ud0) | 4:29 |
 | 133 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 |
-| 134 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 |
+| 134 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 |
 | 135 | [Todo Es Para Ti](https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:13 |
 | 136 | [La Primera Piedra](https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 5:39 |
 | 137 | [El Gusto](https://open.spotify.com/track/3KJaMyHdtT7gwDDH5Xm6cW) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:04 |
 | 138 | [En Bandolera](https://open.spotify.com/track/5eHACquDQ3PHVQnUOX8tzo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Exitos De](https://open.spotify.com/album/2L5sR3eAnIlDTLoj2B1ljl) | 3:29 |
-| 139 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 |
+| 139 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 |
 | 140 | [Te Compro Tu Novia](https://open.spotify.com/track/3czFCRBDV79tTU4EbCEFuw) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [America Sin Queja](https://open.spotify.com/album/1FmuFhJTU6xH7uqazo1mfG) | 4:27 |
 | 141 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 142 | [Morena Ven](https://open.spotify.com/track/4UFHihOI0xnuk7yG9ZnvAH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Vete y Dile](https://open.spotify.com/track/2qlsW9JoDmXNyM7odbFxmn) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/2EQqKxpUQUnqFXgcavxRap) | 4:51 |
 | 150 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 |
 
-Snapshot ID: `AAAAAH5sv0CALHT4+a90xowUp70dSqyR`
+Snapshot ID: `AAAAAI9WUOZZyIkvOmAoM+MfuwbFOtZs`

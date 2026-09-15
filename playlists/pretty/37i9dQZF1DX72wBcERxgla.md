@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,022 likes - 138 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,163 likes - 138 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 137 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 |
 | 138 | [Strollin Moods](https://open.spotify.com/track/2cGeG4PCU7o4OvE7A5Bhh6) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Strollin Moods](https://open.spotify.com/album/4Og8nnBg6mQDcQCUn89PbC) | 2:06 |
 
-Snapshot ID: `AAAAAA+1zR05yk7I1LsehxrBDur6NWqe`
+Snapshot ID: `AAAAAJagVLpfEWwissCx17cZd8kLX2pt`

@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 286740,
       "name": "Audionic (feat. Onyomarc)",
       "url": "https://open.spotify.com/track/6uZVWCEnMvFhjqz5cJWvYh"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 368692,
       "name": "DMX Bass",
       "url": "https://open.spotify.com/track/3jNyoq2CzwcQElY6hKF69y"
@@ -9487,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/0MdqFoyoqTIERzCuXGSu2b"
+      },
+      "artists": [
+        {
+          "name": "Citizen Boy",
+          "url": "https://open.spotify.com/artist/6TTcOTMAqvaVzmZBZkU4S0"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254262,
+      "name": "Sirens 2 0 - Durban Stena",
+      "url": "https://open.spotify.com/track/2MmTHu0kc8lKTFcl5ayRWo"
+    },
+    {
+      "album": {
         "name": "Sisekakeni Babies (feat. Skillz & RudeBoyz)",
         "url": "https://open.spotify.com/album/3rgyWDy5SH3WLGRHZc2kiA"
       },
@@ -12310,6 +12328,44 @@
       "duration_ms": 287739,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/5MLCiPYx7Ts0OVXrnuiKnK"
+    },
+    {
+      "album": {
+        "name": "Wo Lo",
+        "url": "https://open.spotify.com/album/3XGKDBPLXGHtphJcgoey6g"
+      },
+      "artists": [
+        {
+          "name": "Mihlali The Guy",
+          "url": "https://open.spotify.com/artist/5Vtw3RlGD3Sq9dIVzhhvsO"
+        },
+        {
+          "name": "Dankie Boi",
+          "url": "https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M"
+        },
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Cairo CPT",
+          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Konke",
+          "url": "https://open.spotify.com/artist/6y5EP3L2WblCQsc8iuGeP9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372682,
+      "name": "Wo Lo",
+      "url": "https://open.spotify.com/track/6q0rkUDedTnHR7RrzR99au"
     },
     {
       "album": {

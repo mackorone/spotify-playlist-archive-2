@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 160 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 160 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 82 | [Monkey in the Mango Tree](https://open.spotify.com/track/7eYaqMvxihmEgBKfCBBVfG) | [Ricardo Montalban](https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1), [Jamaica Ensemble](https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 3:07 |
 | 83 | [In The Shade Of The New Apple Tree](https://open.spotify.com/track/2hdkL1vyx1vKP9dfqRve9i) | [Bob Crosby](https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV) | [Bob Crosby In Disco Order, Vol\. 6](https://open.spotify.com/album/2SYtzqUnGJRz7KavjBcLOC) | 3:13 |
 | 84 | [Don't Let It Get You Down](https://open.spotify.com/track/1a9rx3CzfPT4M0g1iEmGu3) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Sing Me A Swing Song](https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw) | 2:13 |
-| 85 | [Let's Put Our Heads Together](https://open.spotify.com/track/4KNNXGS1lrN7yjYzhU4D0B) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Henry Allen Collection Vol\. 4 \- 1936\-1937](https://open.spotify.com/album/0ZXMIt3ZQKt1Y5IIE3RXKz) | 2:50 |
+| 85 | [Let's Put Our Heads Together \(From "Gold Diggers of 1937"\)](https://open.spotify.com/track/4vA38na4yJG9fogK7f0fEh) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK), [Victor Young And His Orchestra](https://open.spotify.com/artist/2LequWkW30mSeQ7rptedst) | [1930's Songs from the Movies](https://open.spotify.com/album/5Ud1TYsyDxPyclARdpGceL) | 2:29 |
 | 86 | [Noah](https://open.spotify.com/track/0vxUB7Ssl31xLsFFBHWtcx) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [The Turning Point](https://open.spotify.com/album/4FyEnZ2U06Dzoz13fAiHPe) | 3:22 |
 | 87 | [Hooray for de Yankee Dollar](https://open.spotify.com/track/3h7omHLyeyHZxUEXGyTdmw) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:30 |
 | 88 | [For Every Fish](https://open.spotify.com/track/3AmHpajlAdhKPKO42JoHyh) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:44 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 135 | [The Rakish Young Man With The Wiskahs](https://open.spotify.com/track/2PNkish7q3n3Tq9sKs8MiF) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl](https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52) | 3:15 |
 | 136 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
 | 137 | [Sunday in Cicero Falls](https://open.spotify.com/track/5Kjnja1AN7NzSNDrKMBgY0) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 3:20 |
-| 138 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
-| 139 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
+| 138 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
+| 139 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
 | 140 | [Satin Gown and Silver Shoe](https://open.spotify.com/track/4nPGOZMbM2ClIRJJisGElp) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:30 |
 | 141 | [I've Gone Romantic On You](https://open.spotify.com/track/0xYUPOWBo1JkoyjnprXSK3) | [Jack Jenney](https://open.spotify.com/artist/62dZK565BSdyRwiD6a2KPy) | [Stardust](https://open.spotify.com/album/1TtOgp76fvy8Sc98IaBuXx) | 2:27 |
 | 142 | [Napoleon's A Pastry](https://open.spotify.com/track/7G75sxDTlJZGenltun6qS0) | [Cynthia Crane](https://open.spotify.com/artist/2RC2BxcroaVm1XXaR5t87d) | [I'm Confused, Therefore I Am](https://open.spotify.com/album/4ncC3FE8AaibowTISkFUtq) | 4:10 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 159 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 160 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AccOpgAAAADmSGlD8SNTRH4+LldsLNcs`
+Snapshot ID: `AccURgAAAADIeIlBZCjQTk2GPwYReDSa`

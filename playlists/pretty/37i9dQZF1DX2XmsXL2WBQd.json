@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 456313,
+  "num_followers": 456351,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAApMRB3Ydi6rLGNmrnbf0aRSUY4K",
+  "snapshot_id": "AAAAAOtCmj268uBf8WyCyyfndlkgZBl8",
   "tracks": [
     {
       "added_at": "2024-06-28 10:06:16",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+        "name": "As Nasty As They Wanna Be",
+        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "2 LIVE CREW",
+          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
         }
       ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
+      "duration_ms": 276466,
+      "name": "Me So Horny",
+      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "As Nasty As They Wanna Be",
-        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
       "artists": [
         {
-          "name": "2 LIVE CREW",
-          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 276466,
-      "name": "Me So Horny",
-      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 285413,
       "name": "Strictly Business",
       "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 228266,
       "name": "Paid In Full",
       "url": "https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2024-06-28 10:06:16",

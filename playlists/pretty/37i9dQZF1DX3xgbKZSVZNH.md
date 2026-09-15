@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,985 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,018 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 49 | [Here I Go Again 87 \- 2007 Remastered Version](https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:30 |
 | 50 | [I'd Do Anything for Love \(But I Won't Do That\) \- Radio Edit](https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Playlist: The Very Best Of Meat Loaf](https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf) | 5:21 |
 
-Snapshot ID: `AAAAAN8Gxx63579M7OPbGsEo/GAzdQR4`
+Snapshot ID: `AAAAACzS301Ke9+L4j9GTPPNB8Dpb5WA`

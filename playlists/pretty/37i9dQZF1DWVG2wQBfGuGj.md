@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,335 likes - 155 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,549 likes - 155 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 154 | [Pale Mango](https://open.spotify.com/track/22hjdvTKnGN72Zdbd1AECl) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Pale Mango](https://open.spotify.com/album/3hpHgXiMPa5jnRVDVzmaZY) | 2:37 |
 | 155 | [Danza Kuduro](https://open.spotify.com/track/3xWwWFPx2GI1ry6QL2lK5p) | [Jorge Junior](https://open.spotify.com/artist/7yC0P7WGtGY5lA9ZBkhSIL), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Danza Kuduro](https://open.spotify.com/album/2MUGgrxAZvSJvHLjC6LXGv) | 2:13 |
 
-Snapshot ID: `AAAAABn8bR4hPzH/FILQzKauPk3pHnoH`
+Snapshot ID: `AAAAABsNzFLXSEFkLfYkBuCJIuXAnY83`

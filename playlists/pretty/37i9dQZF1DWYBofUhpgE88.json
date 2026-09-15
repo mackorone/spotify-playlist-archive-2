@@ -1,12 +1,12 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 372187,
+  "num_followers": 372211,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO55iXpf3xYpLOZasAoc99s+cUXS",
+  "snapshot_id": "AAAAAPLJgqJ/FhlvGC2Dg4Npc5dLjS9x",
   "tracks": [
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "Seratonin",
         "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 115652,
       "name": "Seratonin",
       "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "AUTORIT\u00c0",
-        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         }
       ],
-      "duration_ms": 183597,
-      "name": "AUTORIT\u00c0",
-      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+        "name": "AUTORIT\u00c0",
+        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
       },
       "artists": [
         {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+      "duration_ms": 183597,
+      "name": "AUTORIT\u00c0",
+      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
     },
     {
       "added_at": "2026-09-03 22:02:58",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-09-03 22:02:58",
       "album": {
+        "name": "Space Jam (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
+      },
+      "artists": [
+        {
+          "name": "Quad City DJ's",
+          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
+        }
+      ],
+      "duration_ms": 304960,
+      "name": "Space Jam",
+      "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
+    },
+    {
+      "added_at": "2026-09-03 22:02:58",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 165692,
       "name": "Everything's Fine (PM)",
       "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
-    },
-    {
-      "added_at": "2026-09-03 22:02:58",
-      "album": {
-        "name": "Space Jam (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
-      },
-      "artists": [
-        {
-          "name": "Quad City DJ's",
-          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
-        }
-      ],
-      "duration_ms": 304960,
-      "name": "Space Jam",
-      "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
     },
     {
       "added_at": "2026-09-03 22:02:58",

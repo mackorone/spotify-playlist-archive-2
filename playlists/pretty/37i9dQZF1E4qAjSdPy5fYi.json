@@ -1,18 +1,18 @@
 {
-  "description": "With SPARKLEWOLF RADIO, UrvTek, sixwing and more",
-  "num_followers": 688,
+  "description": "With SPARKLEWOLF RADIO, UrvTek, STYXVII and more",
+  "num_followers": 689,
   "original_name": "Kittydog Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAFSCfv+rbbqlUBElghN5tJiaff",
+  "snapshot_id": "AAAAAHh1n3fmvxq4V/CGsuh7SvjeU0Qw",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "LOSE LOSE LOSE",
-        "url": "https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP"
+        "name": "no inbetween",
+        "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 88000,
-      "name": "LOSE LOSE LOSE",
-      "url": "https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX"
+      "duration_ms": 111494,
+      "name": "no inbetween",
+      "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
     },
     {
       "added_at": null,
@@ -87,42 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE IS TRANSACTIONAL",
-        "url": "https://open.spotify.com/album/1YDfV0UBp40232etcnBn69"
-      },
-      "artists": [
-        {
-          "name": "Meowmaid Squad",
-          "url": "https://open.spotify.com/artist/0ICDi877v90BpOrAGuCZAO"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 204868,
-      "name": "LIFE IS TRANSACTIONAL",
-      "url": "https://open.spotify.com/track/1YKtKH6goYFFo1RJ7ZnRmA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "one touch",
-        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 97904,
-      "name": "one touch",
-      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUV3 SICK!!",
         "url": "https://open.spotify.com/album/4oyYg9nbAUKndr8gsfqYj7"
       },
@@ -139,6 +103,42 @@
       "duration_ms": 200665,
       "name": "LUV3 SICK!!",
       "url": "https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOSE LOSE LOSE",
+        "url": "https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "LOSE LOSE LOSE",
+      "url": "https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE IS TRANSACTIONAL",
+        "url": "https://open.spotify.com/album/1YDfV0UBp40232etcnBn69"
+      },
+      "artists": [
+        {
+          "name": "Meowmaid Squad",
+          "url": "https://open.spotify.com/artist/0ICDi877v90BpOrAGuCZAO"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 204868,
+      "name": "LIFE IS TRANSACTIONAL",
+      "url": "https://open.spotify.com/track/1YKtKH6goYFFo1RJ7ZnRmA"
     },
     {
       "added_at": null,
@@ -179,6 +179,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "puppy",
+        "url": "https://open.spotify.com/album/6liykK6dJpC67PF5EYl67p"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1"
+        }
+      ],
+      "duration_ms": 110764,
+      "name": "clicker training",
+      "url": "https://open.spotify.com/track/1CfIqRIywjlFiUxLXKKT0X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "one touch",
+        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 97904,
+      "name": "one touch",
+      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleep Paralysis",
         "url": "https://open.spotify.com/album/0VL7JtzWNmVOvPAB6YtpLO"
       },
@@ -191,38 +223,6 @@
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no response",
-        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "no response",
-      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CUTIEMARKS (And the Things That Bind Us)",
-        "url": "https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "LESBIAN PONIES WITH WEAPONS",
-      "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "outcast (they all hate me)",
-        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+        "name": "freeze up",
+        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
       },
       "artists": [
         {
@@ -292,25 +292,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 182624,
-      "name": "outcast",
-      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "puppy",
-        "url": "https://open.spotify.com/album/6liykK6dJpC67PF5EYl67p"
-      },
-      "artists": [
-        {
-          "name": "astrid",
-          "url": "https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1"
-        }
-      ],
-      "duration_ms": 110764,
-      "name": "clicker training",
-      "url": "https://open.spotify.com/track/1CfIqRIywjlFiUxLXKKT0X"
+      "duration_ms": 117408,
+      "name": "freeze up",
+      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 178238,
       "name": "CAN'T STOP",
       "url": "https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Odds & Ends For Autumn",
+        "url": "https://open.spotify.com/album/1TXPYGRuo99a3Wr3chN16P"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Quit While You're Ahead",
+      "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOARD GAME",
-        "url": "https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7"
+        "name": "no response",
+        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
       },
       "artists": [
         {
@@ -372,89 +372,25 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 117931,
-      "name": "BOARD GAME",
-      "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
+      "duration_ms": 121874,
+      "name": "no response",
+      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Odds & Ends For Autumn",
-        "url": "https://open.spotify.com/album/1TXPYGRuo99a3Wr3chN16P"
+        "name": "CUTIEMARKS (And the Things That Bind Us)",
+        "url": "https://open.spotify.com/album/5gm9CpZupuvq1cFVvdvdPB"
       },
       "artists": [
         {
-          "name": "4lung",
-          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Quit While You're Ahead",
-      "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UR BF'S A LIAR",
-        "url": "https://open.spotify.com/album/4vTivumrzfcScZoCEeBjAw"
-      },
-      "artists": [
-        {
-          "name": "D3s1ph3r",
-          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
-        }
-      ],
-      "duration_ms": 142179,
-      "name": "UR BF'S A LIAR",
-      "url": "https://open.spotify.com/track/5juJttHBTnFVs2MreJGsz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "my teeth will free you",
-        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
-      },
-      "artists": [
-        {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "my teeth will free you",
-      "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JuiceBox",
-        "url": "https://open.spotify.com/album/7aVYiNPz1HtCitbhFBg5V2"
-      },
-      "artists": [
-        {
-          "name": "Daxbak",
-          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "JuiceBox",
-      "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bees in my head (remake)",
-        "url": "https://open.spotify.com/album/3koNIrMX6ETipw9PTF7P9l"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 129417,
-      "name": "Bees in my head - Remake",
-      "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
+      "duration_ms": 198000,
+      "name": "LESBIAN PONIES WITH WEAPONS",
+      "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
     },
     {
       "added_at": null,
@@ -475,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "my teeth will free you",
+      "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAILPUP",
         "url": "https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o"
       },
@@ -484,47 +436,15 @@
           "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
         }
       ],
-      "duration_ms": 132173,
-      "name": "I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM",
-      "url": "https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D"
+      "duration_ms": 147257,
+      "name": "PROTECC ATTACC SEXYBACC",
+      "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TEK VIRUS",
-        "url": "https://open.spotify.com/album/43amIZ7kYYRxfN1veKmrsI"
-      },
-      "artists": [
-        {
-          "name": "UrvTek",
-          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
-        }
-      ],
-      "duration_ms": 241942,
-      "name": "TEK VIRUS",
-      "url": "https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "rainbowz x3!!!",
-        "url": "https://open.spotify.com/album/28OPrD4yG1r0b1rGDwiHUf"
-      },
-      "artists": [
-        {
-          "name": "SPARKLEWOLF RADIO",
-          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "rainbowz x3!!!",
-      "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
-        "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
+        "name": "BOARD GAME",
+        "url": "https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7"
       },
       "artists": [
         {
@@ -532,89 +452,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 101668,
-      "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
-      "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
-      },
-      "artists": [
-        {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
-        }
-      ],
-      "duration_ms": 209958,
-      "name": "CATASTR0PHZ1NG ALL BY URSELF",
-      "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last One Left",
-        "url": "https://open.spotify.com/album/4Gt894ZDs83BO1mPqXVJJN"
-      },
-      "artists": [
-        {
-          "name": "Rueckus",
-          "url": "https://open.spotify.com/artist/5w9vKV2lL3zHp1i6QsUDWY"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "The Last One Left",
-      "url": "https://open.spotify.com/track/6vCoPOCloqfrlUV9R0yYSH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N0T 4B0UT U",
-        "url": "https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx"
-      },
-      "artists": [
-        {
-          "name": "D3s1ph3r",
-          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
-        }
-      ],
-      "duration_ms": 168099,
-      "name": "I WAS SCARED OF U LOL",
-      "url": "https://open.spotify.com/track/6fIyzpKCXtgpeR5YJY9jAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "squarewalker",
-        "url": "https://open.spotify.com/album/60s5zKl6UQkd933ausNY91"
-      },
-      "artists": [
-        {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "squarewalker",
-      "url": "https://open.spotify.com/track/1PdpDVCHd5HUk5PjKahh11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no inbetween",
-        "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 111494,
-      "name": "no inbetween",
-      "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
+      "duration_ms": 117931,
+      "name": "BOARD GAME",
+      "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
     },
     {
       "added_at": null,
@@ -639,24 +479,156 @@
     {
       "added_at": null,
       "album": {
-        "name": "REFLECTION",
-        "url": "https://open.spotify.com/album/5XMVDERsmKoXmH1UHy9JKL"
+        "name": "TEK VIRUS",
+        "url": "https://open.spotify.com/album/43amIZ7kYYRxfN1veKmrsI"
       },
       "artists": [
         {
-          "name": "Mason Crow",
-          "url": "https://open.spotify.com/artist/37aUlSRmAooLc544rNd9l6"
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
         }
       ],
-      "duration_ms": 160959,
-      "name": "BREAK YOUR BRAIN",
-      "url": "https://open.spotify.com/track/3AKnWc4TGOYrYyu2slnMCT"
+      "duration_ms": 241942,
+      "name": "TEK VIRUS",
+      "url": "https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "STAY @ HOME SUMMER 2020",
-        "url": "https://open.spotify.com/album/7aNj2e0vNmdSnci416lFIZ"
+        "name": "N0T 4B0UT U",
+        "url": "https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "duration_ms": 168099,
+      "name": "I WAS SCARED OF U LOL",
+      "url": "https://open.spotify.com/track/6fIyzpKCXtgpeR5YJY9jAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rainbowz x3!!!",
+        "url": "https://open.spotify.com/album/28OPrD4yG1r0b1rGDwiHUf"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "rainbowz x3!!!",
+      "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "outcast (they all hate me)",
+        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "outcast",
+      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "duration_ms": 108500,
+      "name": "Remember when i was 14 that was so CRiNGE lol",
+      "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HORRIBLE TRUTH ABOUT RATTLEPATE",
+        "url": "https://open.spotify.com/album/6OZZzj7eAk6jDTJruR7m3N"
+      },
+      "artists": [
+        {
+          "name": "rattlepate",
+          "url": "https://open.spotify.com/artist/4XCl7D0wQ4GcmDxPlOJHVE"
+        }
+      ],
+      "duration_ms": 232922,
+      "name": "HORRIBLE TRUTH",
+      "url": "https://open.spotify.com/track/429sQD0nz6qU1r7eviz0gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "narcissist",
+        "url": "https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH"
+      },
+      "artists": [
+        {
+          "name": "WoopDoo",
+          "url": "https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO"
+        },
+        {
+          "name": "forrest nelson",
+          "url": "https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "narcissist",
+      "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "squarewalker",
+        "url": "https://open.spotify.com/album/60s5zKl6UQkd933ausNY91"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "squarewalker",
+      "url": "https://open.spotify.com/track/1PdpDVCHd5HUk5PjKahh11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+        "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 101668,
+      "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+      "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAILPUP",
+        "url": "https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o"
       },
       "artists": [
         {
@@ -664,9 +636,25 @@
           "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
         }
       ],
-      "duration_ms": 130769,
-      "name": "THIS ONE'S FOR THE 2000's FURRIES",
-      "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
+      "duration_ms": 132173,
+      "name": "I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM",
+      "url": "https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The New 4lung Album",
+        "url": "https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "duration_ms": 171996,
+      "name": "I'm Just Fucking With You (Yes, You Specifically!)",
+      "url": "https://open.spotify.com/track/6E6iLBbiPppYmO8WRVCYIK"
     },
     {
       "added_at": null,
@@ -687,8 +675,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "plug me in",
-        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
+        "name": "UR BF'S A LIAR",
+        "url": "https://open.spotify.com/album/4vTivumrzfcScZoCEeBjAw"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "duration_ms": 142179,
+      "name": "UR BF'S A LIAR",
+      "url": "https://open.spotify.com/track/5juJttHBTnFVs2MreJGsz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "superposition",
+        "url": "https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2"
       },
       "artists": [
         {
@@ -696,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 127246,
-      "name": "plug me in",
-      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
+      "duration_ms": 131378,
+      "name": "superposition",
+      "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
     },
     {
       "added_at": null,
@@ -735,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "party of one \u2606",
+        "url": "https://open.spotify.com/album/67aD9OZ7mzElLKp63zVqbL"
+      },
+      "artists": [
+        {
+          "name": "rattlepate",
+          "url": "https://open.spotify.com/artist/4XCl7D0wQ4GcmDxPlOJHVE"
+        }
+      ],
+      "duration_ms": 216472,
+      "name": "party of one \u2606",
+      "url": "https://open.spotify.com/track/7szR3EmmSMlQcwWqzw7cTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like It Never Happened",
         "url": "https://open.spotify.com/album/2JZAv0gPFRMjRgL3KviFv3"
       },
@@ -751,24 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N0T 4B0UT U",
-        "url": "https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx"
-      },
-      "artists": [
-        {
-          "name": "D3s1ph3r",
-          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
-        }
-      ],
-      "duration_ms": 159316,
-      "name": "LE4VE",
-      "url": "https://open.spotify.com/track/4XNMEYgZwD3fHDSBVUwRqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY"
+        "name": "Bees in my head (remake)",
+        "url": "https://open.spotify.com/album/3koNIrMX6ETipw9PTF7P9l"
       },
       "artists": [
         {
@@ -776,67 +780,47 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 109557,
-      "name": "COPE",
-      "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
+      "duration_ms": 129417,
+      "name": "Bees in my head - Remake",
+      "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "my teeth will free you",
-        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+        "name": "Dumbass of the Century",
+        "url": "https://open.spotify.com/album/2utuabIBmucnFPVawLqj67"
       },
       "artists": [
         {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+          "name": "Spott",
+          "url": "https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8"
         }
       ],
-      "duration_ms": 109594,
-      "name": "choke it out!",
-      "url": "https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh"
+      "duration_ms": 168428,
+      "name": "Dumbass of the Century",
+      "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/5f3L1abNkfjlFBw3zv8ncu"
+        "name": "STAY @ HOME SUMMER 2020",
+        "url": "https://open.spotify.com/album/7aNj2e0vNmdSnci416lFIZ"
       },
       "artists": [
         {
-          "name": "Daxbak",
-          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
-        },
-        {
-          "name": "\u2665 GOJII \u2665",
-          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA"
+      "duration_ms": 130769,
+      "name": "THIS ONE'S FOR THE 2000's FURRIES",
+      "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "AWKTOBER",
-        "url": "https://open.spotify.com/album/0DvEEegjWgoluiCObVyKX7"
-      },
-      "artists": [
-        {
-          "name": "Awkward Marina",
-          "url": "https://open.spotify.com/artist/2tZhjPJa22VaG9rBTpQhow"
-        }
-      ],
-      "duration_ms": 181431,
-      "name": "Afraid of the Dark",
-      "url": "https://open.spotify.com/track/5zZPKKopUMdDw17b1MHA3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "narcissist",
-        "url": "https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH"
+        "name": "I Need Coffee (Remix)",
+        "url": "https://open.spotify.com/album/274hzi9o9McMjY6x97RZw0"
       },
       "artists": [
         {
@@ -844,13 +828,37 @@
           "url": "https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO"
         },
         {
-          "name": "forrest nelson",
-          "url": "https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE"
+          "name": "Yuugen Vinny",
+          "url": "https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE"
+        },
+        {
+          "name": "K.C.",
+          "url": "https://open.spotify.com/artist/5TsA4C4tFtjDx096u6iJEJ"
         }
       ],
-      "duration_ms": 170403,
-      "name": "narcissist",
-      "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
+      "duration_ms": 201951,
+      "name": "I Need Coffee - Remix",
+      "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GET A GRIP",
+        "url": "https://open.spotify.com/album/7etWJ2zFQgBbcGgHIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+        },
+        {
+          "name": "hatezuki",
+          "url": "https://open.spotify.com/artist/5HbTeasXb6VXh3DAZxBRUX"
+        }
+      ],
+      "duration_ms": 185403,
+      "name": "GET A GRIP",
+      "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
     }
   ],
   "unique_name": "Kittydog Radio",

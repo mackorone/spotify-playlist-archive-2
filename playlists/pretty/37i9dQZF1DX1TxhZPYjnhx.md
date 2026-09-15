@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: XONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,512 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 100 | [lonely](https://open.spotify.com/track/0uBY1zFXa4aARktcsHTsWM) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [lonely](https://open.spotify.com/album/40rK0NG4CzkqNQwsDcnDcY) | 3:15 |
 | 101 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
 
-Snapshot ID: `AAAAAH5C6av33R2Y9PFMtoGryzRTZbi0`
+Snapshot ID: `AAAAABJpMin8KV8+45VJnmspZh5XwRhc`

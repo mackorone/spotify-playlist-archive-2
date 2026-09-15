@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: MALIK.
 
 1,354 songs - 3 day 0 hr 31 min
 

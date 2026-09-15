@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Max Richter
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,811 likes - 98 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,820 likes - 98 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 97 | [Canzona quinta, detta "La tromboncina"](https://open.spotify.com/track/3CyS4tm7eI23eCaUDDK9qG) | [Girolamo Frescobaldi](https://open.spotify.com/artist/3t1716FlIhsjG7C26XkR2F), [Mvsica Perdvta](https://open.spotify.com/artist/00HkIoA9mOhe2jPo4Nr5uJ) | [Frescobaldi: Canzona quinta, detta "La tromboncina"](https://open.spotify.com/album/1w7cfSubwwBtM7K5UEF6Q8) | 4:01 |
 | 98 | [From Pink to Orange](https://open.spotify.com/track/1ltmHjCxS4nUM9Gm1QRMXI) | [James Díaz](https://open.spotify.com/artist/2BovktHReQ6o07YHlDCMPS), [John Popham](https://open.spotify.com/artist/40LdzHDXYOm3FlXvoNX3kS) | [James Díaz: Espacio absoluto](https://open.spotify.com/album/0qXHtDvNJfZGbmKe9jr2iw) | 10:42 |
 
-Snapshot ID: `AAAAAFHCAGN5ykVaOaW3cM5bRj6XzoXH`
+Snapshot ID: `AAAAALUSLAowX2hEHlX2WUYpPkiqcyk1`

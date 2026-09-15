@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55499,
+  "num_followers": 55508,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACwzpfgMz6ASQDGqk0M5Cvm",
+  "snapshot_id": "aqXngAAAAAB1jlcwK1wou0dTL5YSWrLc",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 554186,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201800,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 554186,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Elegie",
-      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 251120,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242640,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
     },
     {
       "added_at": null,

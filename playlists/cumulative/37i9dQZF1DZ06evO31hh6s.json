@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 240030,
       "name": "All for Nothing (feat. Aktual)",
       "url": "https://open.spotify.com/track/5sVJ7qnYQMxIFB2kRENOph"
@@ -556,6 +556,36 @@
       "duration_ms": 186337,
       "name": "Bloomfield Ave",
       "url": "https://open.spotify.com/track/2rZWtPfw3HZZEkPxYnIuku"
+    },
+    {
+      "album": {
+        "name": "Blowout",
+        "url": "https://open.spotify.com/album/7driW8PBLIq7pebk8dDFIR"
+      },
+      "artists": [
+        {
+          "name": "Diversify",
+          "url": "https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250148,
+      "name": "Blowout",
+      "url": "https://open.spotify.com/track/15jVFIvfCInMtM5vpgCPoY"
     },
     {
       "album": {
@@ -1036,7 +1066,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 211120,
       "name": "Dirty Game",
       "url": "https://open.spotify.com/track/2uFUaj0EgazhkcfgMOmoWB"
@@ -1530,7 +1560,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 191712,
       "name": "Forgive You (feat. Aktual)",
       "url": "https://open.spotify.com/track/7I6zJbgwyRa78VkN9KGEuS"
@@ -2456,7 +2486,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/3tBfJhM8BLYcEmKaczxV5d"
@@ -3054,6 +3084,36 @@
       "duration_ms": 213138,
       "name": "Lion's Den (feat. E.D.I. Mean)",
       "url": "https://open.spotify.com/track/7eVcZxtKmJSZqJ2D4evmOv"
+    },
+    {
+      "album": {
+        "name": "Powerful",
+        "url": "https://open.spotify.com/album/7v8HPizfZaODPkaE9kVaPG"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Dirty Bert",
+          "url": "https://open.spotify.com/artist/2bz7u4I8vesATLV8haM7Dh"
+        },
+        {
+          "name": "Mass Tha Villain",
+          "url": "https://open.spotify.com/artist/2lUBVYggglzUM5MatQRtdQ"
+        },
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243555,
+      "name": "Living for Today",
+      "url": "https://open.spotify.com/track/4tfjAzS3cATzTu8IIML5yI"
     },
     {
       "album": {
@@ -4764,7 +4824,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"
@@ -5494,7 +5554,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 162563,
       "name": "Thug Poetry",
       "url": "https://open.spotify.com/track/2i7OqFzzpDjpVXcGZtdRDA"

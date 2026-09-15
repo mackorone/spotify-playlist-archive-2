@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,774 songs - 10 day 18 hr 19 min
+4,776 songs - 10 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1151,6 +1151,7 @@
 | [Down Bad](https://open.spotify.com/track/28Jr5KVmMrBKLSlkpSwQnK) | [YKI\-Vlad](https://open.spotify.com/artist/1RPdZryHy0yaoNZIGgwC5L) | [Down Bad](https://open.spotify.com/album/73KhN8ozSFPOV4bOmxCJV3) | 2:45 | 2025-10-08 |  |
 | [DownSouth \- Radio Edit](https://open.spotify.com/track/3mR310MLQAyIYsy3xVfM11) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [DownSouth](https://open.spotify.com/album/08ksPacqHEzF3Zu2hjF6Ml) | 4:59 | 2025-10-06 |  |
 | [draco](https://open.spotify.com/track/6GvgM9sRR3iXaZc8JOqwGn) | [jssr](https://open.spotify.com/artist/1KCy9bQ4eoGnND4HJpZySg) | [manners](https://open.spotify.com/album/45Cg03mBFHR3YMHBVfTubs) | 2:03 | 2025-05-16 |  |
+| [Dramatic Moments](https://open.spotify.com/track/24fwpJjkOmtqFsfQ2Eh25B) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Frank\-N\-Stein](https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO) | 3:14 | 2026-09-14 |  |
 | [Dramatique](https://open.spotify.com/track/5xNtYcHeaLw9kvtzYZtXwj) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Dramatique](https://open.spotify.com/album/64Rs1xyVBtbsNEw7DAkfPF) | 3:51 | 2025-11-08 |  |
 | [Dream](https://open.spotify.com/track/5hMake7xYGW8pkWMN75Nau) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 2:22 | 2025-09-19 |  |
 | [Dream \(another\)](https://open.spotify.com/track/0zgllYus3614AhRRIRvK10) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 2:13 | 2025-09-19 |  |
@@ -3843,6 +3844,7 @@
 | [St\. Padre Pio Pietrelcina](https://open.spotify.com/track/1szGpH0O7cw9je0Nfl4Tka) | [LyGlynay](https://open.spotify.com/artist/6IQ5X616FWz9Q0bmHAz9Ei) | [LyGlynay](https://open.spotify.com/album/5ZyCkKp9ZwOOKllYFvRNGC) | 3:50 | 2025-07-14 |  |
 | [Stacks](https://open.spotify.com/track/6U7nYKeKU2Q59aGacCxwR3) | [Gas Stona](https://open.spotify.com/artist/1LWWKsYMw6X4fZS0vNSAv2) | [Chasing Dreams](https://open.spotify.com/album/63ulpGdD4ZOrHFspkot0hy) | 3:09 | 2025-06-04 |  |
 | [Stalk Your Stories](https://open.spotify.com/track/4uLxIFk69J4Tx1VdVNzPWU) | [Eddion](https://open.spotify.com/artist/1bVeTVCyDIs8YsBwUpCwdr) | [Stalk Your Stories](https://open.spotify.com/album/0zjRy4gvZJbf6QZKnfio7F) | 3:04 | 2026-07-21 |  |
+| [Stamp Your Love](https://open.spotify.com/track/4jPuXzZ0vJ5N8ytiQJyXT0) | [Jah Lion](https://open.spotify.com/artist/6Mj9ZEzOfnqSjcdbffdJ3K) | [Love on the Rocks](https://open.spotify.com/album/3jWhYAny0yIy0yLF6ktNKo) | 5:33 | 2026-09-14 |  |
 | [Stand By Me \- Portugal Edition](https://open.spotify.com/track/531qxyLN0BuKx6PIrfOLBi) | [Oliver Sean](https://open.spotify.com/artist/3qpDQHNmRS4Mhc2bYMRFYi), [Banda Jovem \(Portugal\)](https://open.spotify.com/artist/5nnUYurBbkPmZgufFwtTSb) | [Stand By Me](https://open.spotify.com/album/6mXeo0kTvrQ9kgK1jo6DI1) | 3:19 | 2025-08-28 |  |
 | [Stanotte si vola](https://open.spotify.com/track/1oSKdEhKnH2Y4viQBoIX4f) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 4:26 | 2025-06-08 |  |
 | [Stardust](https://open.spotify.com/track/6thBJcGwEV8L9cOmmctnTI) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Stardust](https://open.spotify.com/album/13jNDVimT07I7m6MnpIVet) | 5:23 | 2025-06-04 |  |

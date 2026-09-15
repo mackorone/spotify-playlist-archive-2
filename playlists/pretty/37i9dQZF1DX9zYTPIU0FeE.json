@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Don Laka",
-  "num_followers": 14639,
+  "num_followers": 14642,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYF1mR92DoPzQcuUlv2rXKvbaDK",
+  "snapshot_id": "AAAAAMpbgw5nUGFLcWCxnTqoXpk4oJFp",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:18",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
+        "name": "geza",
+        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
+      },
+      "artists": [
+        {
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
+        }
+      ],
+      "duration_ms": 429019,
+      "name": "geza",
+      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
         "name": "Scatterlings (Johnny Clegg Reimagined)",
         "url": "https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 295289,
       "name": "Third World Child",
       "url": "https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
-        "name": "geza",
-        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
-      },
-      "artists": [
-        {
-          "name": "vuyo viwe",
-          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
-        }
-      ],
-      "duration_ms": 429019,
-      "name": "geza",
-      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "Indlela",
-        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Indlela",
-      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 243046,
       "name": "xandibona wena feat. Thandi Ntuli",
       "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "Indlela",
+        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "TRUE STORY",
-        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 237516,
-      "name": "Baby Ngimanzi Wuthando",
-      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "iLadi",
         "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
@@ -735,22 +719,6 @@
       "duration_ms": 414587,
       "name": "iGosa",
       "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -771,6 +739,22 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
-      },
-      "artists": [
-        {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "Qalo",
         "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 260750,
       "name": "Chant Song: Bakoena Ba Nkopane",
       "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+      },
+      "artists": [
+        {
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
     },
     {
       "added_at": "2026-09-10 22:02:18",

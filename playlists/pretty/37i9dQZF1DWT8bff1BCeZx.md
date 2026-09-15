@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,691 likes - 115 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,701 likes - 115 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 114 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 |
 | 115 | [Highest Hallelujah](https://open.spotify.com/track/5JXgPipzkJnHTl5nnYFPgJ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Highest Hallelujah](https://open.spotify.com/album/3rs3ZOGzWfImSY4BBert1g) | 2:45 |
 
-Snapshot ID: `AAAAAMkkzsZSkfCNnValD9Nr4AROrXuM`
+Snapshot ID: `AAAAACzvmSVH6naAClfLl82s4ZRZmUTj`

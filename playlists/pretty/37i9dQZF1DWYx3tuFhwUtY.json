@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 129322,
+  "num_followers": 129308,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+CBkM/kys/28Cdq8nYMMVRgaug",
+  "snapshot_id": "AAAAACDSBTrJm8tzs92zbBAhXN9ZrdnV",
   "tracks": [
     {
       "added_at": "2024-07-12 23:20:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210850,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 220909,
       "name": "Ma\u00e7ka Yollar\u0131",
       "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210850,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Liquid Sky EP",
-        "url": "https://open.spotify.com/album/7sdssemG8jfNhowJgVXKrK"
+        "name": "B\u00fahoz",
+        "url": "https://open.spotify.com/album/7JKkjgm8vNYT8wEfYdszL0"
       },
       "artists": [
         {
-          "name": "Les Big Byrd",
-          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 358730,
-      "name": "The Summer Ends Tonight",
-      "url": "https://open.spotify.com/track/5Mrf2K88ejcemmTq8VyyIu"
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/0Y51kMtxthFiCcLptmNpnm"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

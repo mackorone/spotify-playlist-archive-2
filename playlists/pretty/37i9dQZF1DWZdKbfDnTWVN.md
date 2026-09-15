@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=d582966eee994a02"> Toxic Lyrikali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,023 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,073 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Tululu](https://open.spotify.com/track/4B6FVBw2NBzr9KYwzxcMPW) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [KGG](https://open.spotify.com/artist/7cNVfDaokwHYBc9L5Jq0Jy), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Tululu](https://open.spotify.com/album/5LEqDpzPMX5qoqwlE3NvQB) | 3:55 |
 | 60 | [Nijea](https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd) | [Nostalgia](https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi) | 2:34 |
 
-Snapshot ID: `AAAAAFtf4LWEEdTBmhSxafKqZJCU9kSK`
+Snapshot ID: `AAAAAOUx9v3khn2HjSjywhvsOBDLzPt3`

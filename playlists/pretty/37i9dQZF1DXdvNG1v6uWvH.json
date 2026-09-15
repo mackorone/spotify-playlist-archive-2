@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Aron Can, \u00c1sgeir og m\u00f6rgum fleirum!",
-  "num_followers": 9716,
+  "num_followers": 9718,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+8CO1zoQeiLNXFZnHOyrvlnTPg",
+  "snapshot_id": "AAAAAMCwUlhAyee1fon5RdKeT7IwEGkt",
   "tracks": [
     {
       "added_at": "2026-09-11 00:00:14",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 192668,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Make believe",
         "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 180116,
-      "name": "Caught Myself Believing",
-      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br"
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 192668,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
+      "duration_ms": 180116,
+      "name": "Caught Myself Believing",
+      "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -495,42 +495,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "Here Because of Hope",
-        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -551,18 +527,42 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         }
       ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 122877,
+      "name": "wo sao ni",
+      "url": "https://open.spotify.com/track/6mQ9t3pGmAxFyqkMs8qKXp"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4b7rOQeLJWirPtDIQw5VgL"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178991,
       "name": "Goldmine",
       "url": "https://open.spotify.com/track/69FHTmDAbvdCOlRqV49R3L"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "Your Name",
-        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
-      },
-      "artists": [
-        {
-          "name": "Marianne Beaulieu",
-          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Your Name",
-      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
+      },
+      "artists": [
+        {
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Lights Off",
         "url": "https://open.spotify.com/album/0OWBJgZxGorifobbQTiHZ4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 180720,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/1XUhkF8S4ZB4sOdw00vIbc"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "gao dan dan",
-        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 122877,
-      "name": "wo sao ni",
-      "url": "https://open.spotify.com/track/6mQ9t3pGmAxFyqkMs8qKXp"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -935,38 +935,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Whatyoufeellike",
-        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 166209,
-      "name": "Whatyoufeellike",
-      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "Off The Books",
-        "url": "https://open.spotify.com/album/6YvQQWmKyFgjiBwvPquLFe"
-      },
-      "artists": [
-        {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Backhanders",
-      "url": "https://open.spotify.com/track/2EeOkQxNAU2qchRrajkNqU"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "almost, I thought to myself",
         "url": "https://open.spotify.com/album/4jLH5VmWjXYdzaHuMgzjw4"
       },
@@ -983,6 +951,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/57wv3zOHTw2QW13JRt6tPX"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 164441,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/2V3vjSqRbYfhPkUrczYnxo"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Off The Books",
+        "url": "https://open.spotify.com/album/6YvQQWmKyFgjiBwvPquLFe"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Backhanders",
+      "url": "https://open.spotify.com/track/2EeOkQxNAU2qchRrajkNqU"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/6UAbCUH8jL2PUwS4PiGQBe"
-      },
-      "artists": [
-        {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
-        }
-      ],
-      "duration_ms": 165082,
-      "name": "Who's Your Favourite Girl?",
-      "url": "https://open.spotify.com/track/6giU9X7GpryWBPypgSlIAw"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Birthday card",
         "url": "https://open.spotify.com/album/5ch7kxLELBudZ3RBKfutgG"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Cog Systems",
-        "url": "https://open.spotify.com/album/0rLhQU2Q1m2Kvb9qMitw3w"
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6UAbCUH8jL2PUwS4PiGQBe"
       },
       "artists": [
         {
-          "name": "Malket",
-          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
         }
       ],
-      "duration_ms": 159080,
-      "name": "Cog Systems",
-      "url": "https://open.spotify.com/track/3Iv19cThJh2EilmLftPJUv"
+      "duration_ms": 165082,
+      "name": "Who's Your Favourite Girl?",
+      "url": "https://open.spotify.com/track/6giU9X7GpryWBPypgSlIAw"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "Cog Systems",
+        "url": "https://open.spotify.com/album/0rLhQU2Q1m2Kvb9qMitw3w"
+      },
+      "artists": [
+        {
+          "name": "Malket",
+          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Cog Systems",
+      "url": "https://open.spotify.com/track/3Iv19cThJh2EilmLftPJUv"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Everything's Coming Up Roses",
         "url": "https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "SUGARCOAT IT",
-        "url": "https://open.spotify.com/album/0FClJTupMIjQGMyKAILhuz"
-      },
-      "artists": [
-        {
-          "name": "JEWELS",
-          "url": "https://open.spotify.com/artist/2puIo7Zz69PUcZbbQ5axLb"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "SUGARCOAT IT",
-      "url": "https://open.spotify.com/track/6xozy8W0PPKuCq2zbZLJh5"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Silent Movie Baby",
         "url": "https://open.spotify.com/album/7JHzcM6QxcIJzc0OkLAaQh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 210613,
       "name": "Silent Movie Baby",
       "url": "https://open.spotify.com/track/1SwWlTwuy0W4kyv6nQdlRO"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "SUGARCOAT IT",
+        "url": "https://open.spotify.com/album/0FClJTupMIjQGMyKAILhuz"
+      },
+      "artists": [
+        {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/2puIo7Zz69PUcZbbQ5axLb"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "SUGARCOAT IT",
+      "url": "https://open.spotify.com/track/6xozy8W0PPKuCq2zbZLJh5"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Love Lifts Me Up",
-        "url": "https://open.spotify.com/album/4T4MT1pXAOsVWNPTmO4OMu"
-      },
-      "artists": [
-        {
-          "name": "Mattias Kolstrup",
-          "url": "https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG"
-        }
-      ],
-      "duration_ms": 162200,
-      "name": "Love Lifts Me Up",
-      "url": "https://open.spotify.com/track/17VSp8NYsrdz30G1sDvfOo"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Rapolitics Cypher #9",
         "url": "https://open.spotify.com/album/5geg5LRdBA00sTXhXoiUgA"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 288400,
       "name": "Rapolitics Cypher #9",
       "url": "https://open.spotify.com/track/3azxlaRtPyMHyvXZKv2zPO"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Love Lifts Me Up",
+        "url": "https://open.spotify.com/album/4T4MT1pXAOsVWNPTmO4OMu"
+      },
+      "artists": [
+        {
+          "name": "Mattias Kolstrup",
+          "url": "https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG"
+        }
+      ],
+      "duration_ms": 162200,
+      "name": "Love Lifts Me Up",
+      "url": "https://open.spotify.com/track/17VSp8NYsrdz30G1sDvfOo"
     },
     {
       "added_at": "2026-09-11 00:00:14",

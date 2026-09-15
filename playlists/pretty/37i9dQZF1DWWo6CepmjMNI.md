@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SOK
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,155 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,157 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 5 | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/track/5vDdfdhmgHSSnqa7wHz6bF) | [MACHINE.](https://open.spotify.com/artist/5R2xpBIDKtXym5pNc9WTVc) | [จะไปเมื่อไร \(Chasm\)](https://open.spotify.com/album/1lbUFCHXmDLU9MxyXGZvEy) | 4:10 |
 | 6 | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/track/6YxKkTXbeTOZlM0DfKWdpP) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [ไม่อาจเปลี่ยนใจ \(MAPJ\)](https://open.spotify.com/album/4CztIB9X1onagNUjQkaNNw) | 3:46 |
 | 7 | [ก่อนเธอจะหายไป](https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg) | [Lost Polaroids](https://open.spotify.com/artist/7vFvfoNCkhhQ30I0vsb8YT) | [ก่อนเธอจะหายไป](https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr) | 5:02 |
-| 8 | [สิ่งที่รั้ง](https://open.spotify.com/track/5fKpbXBJxUEtPV089LTrc6) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [สิ่งที่รั้ง](https://open.spotify.com/album/5GL5wDZB4aXlB6RvWMw359) | 3:35 |
+| 8 | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/track/5fKpbXBJxUEtPV089LTrc6) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [สิ่งที่รั้ง \(Chained\)](https://open.spotify.com/album/5GL5wDZB4aXlB6RvWMw359) | 3:35 |
 | 9 | [หมดเวลา \(Stay\)](https://open.spotify.com/track/5ZxoZpykxw62H7w1pSBGiV) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หมดเวลา \(Stay\)](https://open.spotify.com/album/6Dr42qjdQRiWfLQ9eyeB0j) | 4:07 |
 | 10 | [คนมีความรัก](https://open.spotify.com/track/5FcrMJEVPSIdjUb36wVDRq) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [คนมีความรัก](https://open.spotify.com/album/6bJqyMAZ5Ny2UAbz1MYy7L) | 3:46 |
 | 11 | [Something Something](https://open.spotify.com/track/1Anr3uwSDbh1hOFSaw25lb) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Something Something](https://open.spotify.com/album/2AIYYmfVUvitubFr9j8dlK) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ยินดี \(With All My Heart\)](https://open.spotify.com/track/6hIVVx3x0Q3q45u9INj1bx) | [Bluedream](https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS) | [ยินดี \(With All My Heart\)](https://open.spotify.com/album/4NVw32Cxrb8ePqOZAM9mZx) | 6:20 |
 | 50 | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/track/1Xpp5yTaFEzLtPrITfIMdd) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/album/4AkJbg6p4uzfChGRwyklWd) | 7:09 |
 
-Snapshot ID: `AAAAAO6WVAZRyqYv2ONi+cx0B/4728Xj`
+Snapshot ID: `AAAAAKblx9O8iBeRjDW1wfqYC2begfZL`

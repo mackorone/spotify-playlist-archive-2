@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,758 songs - 10 day 12 hr 40 min
+3,759 songs - 10 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Clocks \- Live](https://open.spotify.com/track/5W5tAe49XOpBHRd3tVfMzG) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Pirates over Wacken \(Live\)](https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0) | 4:42 | 2023-03-31 | 2023-04-15 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-20 | 2025-06-28 |
 | [Closer](https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Closer](https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy) | 3:09 | 2026-07-17 | 2026-08-10 |
+| [Closer To Heaven \- Sax / Chris Rainbow Overdub Section](https://open.spotify.com/track/0Lr1ty8iOqyqLj29yYLzZa) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Gaudi \(Sessions\)](https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu) | 0:50 | 2026-09-11 |  |
 | [COD ZOMBIES](https://open.spotify.com/track/3QJ3CcPMI6mXg18f6hxxU3) | [Lil Jacob](https://open.spotify.com/artist/35byN0nGqYDjnAV8MEG8Vu), [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [COD ZOMBIES](https://open.spotify.com/album/3y60rnqGVaYscFFwYYwhQz) | 2:09 | 2024-05-24 | 2024-06-02 |
 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-06-30 | 2023-07-08 |
 | [Code of Life \- Live at the AFAS Live](https://open.spotify.com/track/3rYrPc3LSpgCsECFby8LVI) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live at the AFAS Live](https://open.spotify.com/album/3XvorgWlkOVsKNZCLHxt3P) | 6:15 | 2023-10-06 | 2023-11-05 |
@@ -2922,7 +2923,7 @@
 | [Stand By Me](https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Stand By Me](https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs) | 3:10 | 2025-01-31 | 2025-03-02 |
 | [Stand Up \(feat\. The Battle Drum Marching Band\)](https://open.spotify.com/track/3axomqagNVJCINvAjDGDYd) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [The Battle Drum Marching Band](https://open.spotify.com/artist/71y7Vv0TCOzeFXcBQwuG1L) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:50 | 2023-03-24 | 2023-04-01 |
 | [Stand Up and Shout \- Live](https://open.spotify.com/track/0oSNdNu26dXIIoVnDH8MBz) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Break The Circle \(Live\)](https://open.spotify.com/album/761p5mMx5WlOe4bwRbHThH) | 4:16 | 2024-04-12 | 2024-04-16 |
-| [Standing On Higher Ground / Losing Proposition \- Vocal Experiments](https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Gaudi \(Sessions\)](https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu) | 3:58 | 2026-09-11 |  |
+| [Standing On Higher Ground / Losing Proposition \- Vocal Experiments](https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Gaudi \(Sessions\)](https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu) | 3:58 | 2026-09-11 | 2026-09-15 |
 | [Star \- Norwegian Giants Club Mix](https://open.spotify.com/track/1kok9QpMAzf35AC52u3QCK) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx), [Norwegian Giants](https://open.spotify.com/artist/4w1AXtsOUmsVuR2B6d8WUp) | [STAR \- Clubminister vs Norwegian Giants REMIXES](https://open.spotify.com/album/7l6NXXIncQ6kP7HLV1Kq1B) | 3:56 | 2023-04-21 | 2023-05-21 |
 | [STARDUST](https://open.spotify.com/track/5kiP5w10py55zfgWeHxpfa) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [STARDUST](https://open.spotify.com/album/5uUsVCjDRidAbWVEZSbAXn) | 3:12 | 2025-06-20 | 2025-06-28 |
 | [Starlady](https://open.spotify.com/track/0io1g2tklQxAoXfRUMWm6H) | [Pentagram](https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE) | [Show 'Em How \(2024 Remastered\)](https://open.spotify.com/album/3F0YRk6W7AbbyTHGHHbkk6) | 5:23 | 2024-11-29 | 2024-12-02 |

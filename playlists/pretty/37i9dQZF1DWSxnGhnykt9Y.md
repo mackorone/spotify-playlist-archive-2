@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,169 likes - 83 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,196 likes - 83 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 82 | [ACCRA GIRLS](https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 |
 | 83 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 |
 
-Snapshot ID: `AAAAAN31uWSBcbhAewScMlsRQ4m0Ryu7`
+Snapshot ID: `AAAAADe6wZGzzj3m+WwdjrJT94sdNmWx`

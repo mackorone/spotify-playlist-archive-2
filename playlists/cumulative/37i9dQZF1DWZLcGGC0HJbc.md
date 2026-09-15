@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-332 songs - 19 hr 48 min
+333 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2026-01-15 |  |
 | [Where the mountain meets the sea](https://open.spotify.com/track/4aTHJ0yGSf2Gb6rLnMD567) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:10 | 2026-07-07 |  |
 | [Wild Dreams](https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Wild Dreams](https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI) | 3:23 | 2025-01-23 | 2025-01-29 |
-| [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 | 2025-03-07 |  |
+| [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 | 2026-09-10 |  |
+| [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 | 2025-03-07 | 2026-09-15 |
 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 | 2025-01-23 | 2025-02-14 |
 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 | 2026-07-07 |  |
 | [Woollen Women](https://open.spotify.com/track/5kSM7f7Bg9GgsTXs2Ro437) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Constant Distance](https://open.spotify.com/album/1NfdcDaioUmxBBUNfcv6JB) | 4:18 | 2026-09-07 |  |

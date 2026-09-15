@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,727 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,789 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Quem Mais é Digno](https://open.spotify.com/track/0PYGOW02IGj6FHxODgbNJ6) | [Rebeca Salles](https://open.spotify.com/artist/1giliqwlMJUvPYqANiUfKs), [Vitória Frozi](https://open.spotify.com/artist/3jwuWzaMab2ShLBWS9N1Cr) | [Céus Abertos](https://open.spotify.com/album/3eZYrvcjaTkmq3ujEqypf5) | 7:07 |
 | 50 | [Espelho](https://open.spotify.com/track/5XmeZzlMKtOd9dOfLpqDY1) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Espelho](https://open.spotify.com/album/3BzesyNkmHObHIIOKuBMAN) | 3:57 |
 
-Snapshot ID: `AAAAANXpZUd8FRDXQiRFhOQeffuv4W7c`
+Snapshot ID: `AAAAAFtIw7/0lwqBnOp2ze+GLXR/hOVQ`

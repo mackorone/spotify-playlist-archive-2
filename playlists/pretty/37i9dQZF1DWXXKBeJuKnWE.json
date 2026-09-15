@@ -1,12 +1,12 @@
 {
   "description": "The sound of the underground. Cover: Spiritbox",
-  "num_followers": 488564,
+  "num_followers": 488519,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6o4yol7nNp2ICza364msbpqT6P",
+  "snapshot_id": "AAAAAHUG9U1c3X2YUIX6SKJa2v5AT2C7",
   "tracks": [
     {
       "added_at": "2026-09-11 00:00:15",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Hive Mind (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 206161,
-      "name": "Hive Mind (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Song Of The Swamp",
-        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 198118,
-      "name": "Song Of The Swamp",
-      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+        "name": "Song Of The Swamp",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
+      "duration_ms": 198118,
+      "name": "Song Of The Swamp",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -911,6 +895,22 @@
       "duration_ms": 242805,
       "name": "Sx",
       "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Death Threat",
-        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Death Threat",
-      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Your Name In Red Ink",
         "url": "https://open.spotify.com/album/28BwYERM72BwDCFnwWDfb6"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 204103,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "SWALLOW",
-        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
       },
       "artists": [
         {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 209422,
-      "name": "SWALLOW",
-      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+      "duration_ms": 204103,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
+        "name": "SWALLOW",
+        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 209422,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
         "name": "Chosen Hell",
         "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Hand Me A Halo",
-        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 199251,
-      "name": "Hand Me A Halo",
-      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "May this pain never leave",
         "url": "https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 205466,
       "name": "May this pain never leave",
       "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Hand Me A Halo",
+        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 199251,
+      "name": "Hand Me A Halo",
+      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Do What's Right (Happy)",
-      "url": "https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "NETWORK",
         "url": "https://open.spotify.com/album/6gMcQzQGSD2j83ZBIDpA3i"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 179906,
       "name": "NETWORK",
       "url": "https://open.spotify.com/track/26bUHwjwSidCORMzLXFf3F"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Do What's Right (Happy)",
+      "url": "https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "STRANGE",
-        "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 227714,
-      "name": "STRANGE",
-      "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Blunt Force Blues",
         "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 251505,
       "name": "Blunt Force Blues",
       "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "STRANGE",
+        "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 227714,
+      "name": "STRANGE",
+      "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
-        "name": "Not Your Kingdom",
-        "url": "https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 94304,
-      "name": "Don't MisStep",
-      "url": "https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
         "name": "Living/Ending",
         "url": "https://open.spotify.com/album/2t4y0xuK6G0Wgg2eiZycci"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 307200,
       "name": "Living/Ending",
       "url": "https://open.spotify.com/track/77u9CeQx36eluADaPXVZyD"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
+        "name": "Not Your Kingdom",
+        "url": "https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 94304,
+      "name": "Don't MisStep",
+      "url": "https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1"
     },
     {
       "added_at": "2026-09-11 00:00:15",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-09-11 00:00:15",
       "album": {
+        "name": "What Can I Say (09 | 26)",
+        "url": "https://open.spotify.com/album/7km6MqLpTPeuF3JvBYVUFr"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "What Can I Say - 09 | 26",
+      "url": "https://open.spotify.com/track/4zM9nCYc5PZZgmVINH7LEl"
+    },
+    {
+      "added_at": "2026-09-11 00:00:15",
+      "album": {
         "name": "Black Magick Radio",
         "url": "https://open.spotify.com/album/6FIn9BR00xrBzxm5veinqL"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 301012,
       "name": "Black Magick Radio",
       "url": "https://open.spotify.com/track/33JwbpvfMLOk7nLbFlHFmc"
-    },
-    {
-      "added_at": "2026-09-11 00:00:15",
-      "album": {
-        "name": "Give Me Dirt",
-        "url": "https://open.spotify.com/album/64gq0H6qzkiRRf0tFPtxWG"
-      },
-      "artists": [
-        {
-          "name": "Cancer Bats",
-          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Give Me Dirt",
-      "url": "https://open.spotify.com/track/03A8fV79d1nMZXMo3vdw3u"
     }
   ],
   "unique_name": "The Pit",

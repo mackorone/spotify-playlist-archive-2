@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Victor Leksell, Simon Superti och Clutter med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,839 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,832 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 101 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 | 102 | [bliss \(vacker som jag\)](https://open.spotify.com/track/70y49g9agpSzJIEFEiz1S7) | [tom piippola](https://open.spotify.com/artist/5WUVmT9XtXUlRBsSO9G6Hq) | [bliss \(vacker som jag\)](https://open.spotify.com/album/75UddIP2UL83oww8V3eKZR) | 3:14 |
 
-Snapshot ID: `AAAAAMxKIADnaZ2y92qQxO9TJtFKiALR`
+Snapshot ID: `AAAAANy954MSXcKv66g0O6tkmASaob9c`

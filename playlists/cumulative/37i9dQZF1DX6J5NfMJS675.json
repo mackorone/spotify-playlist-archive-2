@@ -8983,6 +8983,28 @@
     },
     {
       "album": {
+        "name": "Ghost Protocol",
+        "url": "https://open.spotify.com/album/1gBh5jdLBvfw5IdykyXcWY"
+      },
+      "artists": [
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        },
+        {
+          "name": "Basilone",
+          "url": "https://open.spotify.com/artist/5RSUii1uyZPOOb5ElyKzOJ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368695,
+      "name": "Ghost Protocol",
+      "url": "https://open.spotify.com/track/4tt76Co2XX2vHwgXD9uw7V"
+    },
+    {
+      "album": {
         "name": "Gigantia",
         "url": "https://open.spotify.com/album/2Eyevi4paab5SHW0pgCRuR"
       },
@@ -15414,7 +15436,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 178758,
       "name": "Nox",
       "url": "https://open.spotify.com/track/5PZ7J6gQ45Qwe5yI6RlP7l"
@@ -20689,6 +20711,28 @@
     },
     {
       "album": {
+        "name": "Altan",
+        "url": "https://open.spotify.com/album/467r1bWWP03bd8sl2wS760"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        },
+        {
+          "name": "Stone Van Brooken",
+          "url": "https://open.spotify.com/artist/6EDjOukLqruZ4pSChCPZ6W"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276738,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/5LhLrLqvSdCvbD3fRaAmLQ"
+    },
+    {
+      "album": {
         "name": "Stiller Traum",
         "url": "https://open.spotify.com/album/1s6VLeQJAxl1fS4mPgEJ1K"
       },
@@ -25352,7 +25396,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 221837,
       "name": "Your Mind - HNTR Remix",
       "url": "https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa"

@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4240,
+  "num_followers": 4241,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADnRjLfoRS7I8Z2nWQ4CG1P",
+  "snapshot_id": "aqXngAAAAAD+iluL3Gig8uq7bb+maIwP",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deep Echoes",
+        "url": "https://open.spotify.com/album/40RIcv2VfR1vmU1CjHEhmP"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Mr Shane SA",
+          "url": "https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ"
+        },
+        {
+          "name": "Recky-R",
+          "url": "https://open.spotify.com/artist/6JsnCSYmx572oTWylWTgNn"
+        }
+      ],
+      "duration_ms": 360066,
+      "name": "Deep Echoes - Extended Mix",
+      "url": "https://open.spotify.com/track/76aF9lrsSCk5pYL4it4JNe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inhliziyo",
         "url": "https://open.spotify.com/album/3PHgYflLYP6ecau1a75NXF"
       },
@@ -263,26 +287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Echoes",
-        "url": "https://open.spotify.com/album/40RIcv2VfR1vmU1CjHEhmP"
+        "name": "Self-Control",
+        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
       },
       "artists": [
+        {
+          "name": "Character",
+          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
+        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Mr Shane SA",
-          "url": "https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ"
-        },
-        {
-          "name": "Recky-R",
-          "url": "https://open.spotify.com/artist/6JsnCSYmx572oTWylWTgNn"
+          "name": "Mono T",
+          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
         }
       ],
-      "duration_ms": 360066,
-      "name": "Deep Echoes - Extended Mix",
-      "url": "https://open.spotify.com/track/76aF9lrsSCk5pYL4it4JNe"
+      "duration_ms": 341908,
+      "name": "Inxeba Le Ndoda",
+      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
     },
     {
       "added_at": null,
@@ -311,30 +335,6 @@
       "duration_ms": 324021,
       "name": "Chomi Kepopile",
       "url": "https://open.spotify.com/track/5ciVtRFVWVq3pKbELNSDBL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self-Control",
-        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
-      },
-      "artists": [
-        {
-          "name": "Character",
-          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Mono T",
-          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
-        }
-      ],
-      "duration_ms": 341908,
-      "name": "Inxeba Le Ndoda",
-      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
     },
     {
       "added_at": null,
@@ -435,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iphinde",
-        "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "Tumelo_za",
-          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
-        },
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        },
-        {
-          "name": "LilyFaith",
-          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Iphinde - Radio Edit",
-      "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Kunkra",
         "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 297600,
       "name": "Say Kunkra",
       "url": "https://open.spotify.com/track/0ENxjfCyvoGwkLXcRyiGWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iphinde",
+        "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Iphinde - Radio Edit",
+      "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Injabulo",
+        "url": "https://open.spotify.com/album/27G0LtCymT8ZqbseROrTCg"
+      },
+      "artists": [
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        },
+        {
+          "name": "Theo Kgosinkwe",
+          "url": "https://open.spotify.com/artist/0ve9HwbCLcDX3ru2Ua5q3e"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 352471,
+      "name": "Injabulo - Club Mix",
+      "url": "https://open.spotify.com/track/1XixDtCLdVTMgN7mECzjQD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Master & The Karate Kid",
         "url": "https://open.spotify.com/album/5rmwShVOOaaV4w4LJBFMRt"
       },
@@ -691,38 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Injabulo",
-        "url": "https://open.spotify.com/album/27G0LtCymT8ZqbseROrTCg"
-      },
-      "artists": [
-        {
-          "name": "LilyFaith",
-          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
-        },
-        {
-          "name": "Theo Kgosinkwe",
-          "url": "https://open.spotify.com/artist/0ve9HwbCLcDX3ru2Ua5q3e"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 352471,
-      "name": "Injabulo - Club Mix",
-      "url": "https://open.spotify.com/track/1XixDtCLdVTMgN7mECzjQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos to Jozi",
         "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
       },
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Akhiwe",
+        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Bayathetha",
+      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mari Ye Phepha",
         "url": "https://open.spotify.com/album/1KE7ljtam071uCZqROcQA7"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 215053,
       "name": "Mari Ye Phepha (FKA MASH Afro-Glitch) - Remix",
       "url": "https://open.spotify.com/track/3PHYk7iPU2IX14M36CzI7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Akhiwe",
-        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Bayathetha",
-      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
     },
     {
       "added_at": null,
@@ -951,6 +951,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dlala Ngami (feat. Oskido)",
+        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
+      },
+      "artists": [
+        {
+          "name": "PRVIS3",
+          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
+        },
+        {
+          "name": "Ntwana_R",
+          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Dlala Ngami (feat. Oskido)",
+      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "May D",
         "url": "https://open.spotify.com/album/6Qprj2KyjYOgNIcO993pA5"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 378459,
       "name": "Date Night (feat. King Talkzin) - Club Edit",
       "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dlala Ngami (feat. Oskido)",
-        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
-      },
-      "artists": [
-        {
-          "name": "PRVIS3",
-          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
-        },
-        {
-          "name": "Ntwana_R",
-          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Dlala Ngami (feat. Oskido)",
-      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
     },
     {
       "added_at": null,
@@ -1175,26 +1175,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mngani Wami",
-        "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
       },
       "artists": [
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "x Wise",
+          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
         }
       ],
-      "duration_ms": 367288,
-      "name": "Mngani Wami",
-      "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
+      "duration_ms": 432144,
+      "name": "iThuba - Deep House Mix",
+      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
     },
     {
       "added_at": null,
@@ -1223,8 +1227,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "iThuba",
-        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
+        "name": "Mngani Wami",
+        "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
+      },
+      "artists": [
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "duration_ms": 367288,
+      "name": "Mngani Wami",
+      "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend Live",
+        "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
       },
       "artists": [
         {
@@ -1232,21 +1260,25 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Nhlonipho",
-          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         },
         {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
-          "name": "x Wise",
-          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Jessica LM",
+          "url": "https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg"
         }
       ],
-      "duration_ms": 432144,
-      "name": "iThuba - Deep House Mix",
-      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+      "duration_ms": 484297,
+      "name": "Amalunde - Club Mix",
+      "url": "https://open.spotify.com/track/32lCjQc0DH3jnYSYnvTquV"
     },
     {
       "added_at": null,
@@ -1283,42 +1315,6 @@
       "duration_ms": 237876,
       "name": "Izitha (feat. Banzo SA, Ze2 & Mr Maker) - Radio Edit",
       "url": "https://open.spotify.com/track/3y5lZAbp5wJbU36ZOkIoG0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afro Wave",
-        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Phila Dlozi",
-          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
-        }
-      ],
-      "duration_ms": 411428,
-      "name": "Afro Wave",
-      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
     }
   ],
   "unique_name": "This Is OSKIDO",

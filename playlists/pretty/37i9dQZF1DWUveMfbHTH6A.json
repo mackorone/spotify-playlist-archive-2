@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15138,
+  "num_followers": 15137,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFuz9j0EuoyamMYshgaErz+nNkSI",
+  "snapshot_id": "AAAAABZc0WLgC9VGrJgWOC0/VQc/8PrK",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Laughing track",
-        "url": "https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN"
-      },
-      "artists": [
-        {
-          "name": "Mila Bea",
-          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
-        }
-      ],
-      "duration_ms": 205536,
-      "name": "Laughing track",
-      "url": "https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Rocky",
         "url": "https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 143399,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Laughing track",
+        "url": "https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 205536,
+      "name": "Laughing track",
+      "url": "https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Baddiez",
-        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Baddiez",
-      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 183374,
       "name": "QUAY V\u1ec0",
       "url": "https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Baddiez",
+        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Baddiez",
+      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
     },
     {
       "added_at": "2025-12-03 12:16:13",

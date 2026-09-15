@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 63117,
+  "num_followers": 63115,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI9cBFurGIZNP4yOJWY9BZLH0ZZL",
+  "snapshot_id": "AAAAAMuZ3S/BKRfZz9Z6U81enaSo7Twv",
   "tracks": [
     {
       "added_at": "2026-02-09 02:43:34",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 261176,
-      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Maria Rita",
         "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 282293,
       "name": "Cara valente",
       "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -739,6 +723,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & to Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 258866,
       "name": "Say It",
       "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+      },
+      "artists": [
+        {
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "To Have & to Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
-        "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ono",
-          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Questi Vent'Anni Miei",
-      "url": "https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Dear Blossom,",
         "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Do I Move You",
-        "url": "https://open.spotify.com/album/39GQae1DPuvec3foogR8Rz"
+        "name": "\u30af\u30a8\u30b9\u30bf\u30fb\u30dc\u30c3\u30b5\u30fb\u30df\u30fc\u30a2...",
+        "url": "https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+          "name": "Lisa Ono",
+          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
         }
       ],
-      "duration_ms": 276426,
-      "name": "You Were Never Mine",
-      "url": "https://open.spotify.com/track/7KeYwVAYMqeOFhoJUWhKHv"
+      "duration_ms": 231800,
+      "name": "Questi Vent'Anni Miei",
+      "url": "https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1219,6 +1203,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Do I Move You",
+        "url": "https://open.spotify.com/album/39GQae1DPuvec3foogR8Rz"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "You Were Never Mine",
+      "url": "https://open.spotify.com/track/7KeYwVAYMqeOFhoJUWhKHv"
     },
     {
       "added_at": "2026-02-09 02:43:34",

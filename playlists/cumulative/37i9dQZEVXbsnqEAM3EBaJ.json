@@ -12813,6 +12813,24 @@
     },
     {
       "album": {
+        "name": "Gaudi (Sessions)",
+        "url": "https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50080,
+      "name": "Closer To Heaven - Sax / Chris Rainbow Overdub Section",
+      "url": "https://open.spotify.com/track/0Lr1ty8iOqyqLj29yYLzZa"
+    },
+    {
+      "album": {
         "name": "COD ZOMBIES",
         "url": "https://open.spotify.com/album/3y60rnqGVaYscFFwYYwhQz"
       },
@@ -60860,7 +60878,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 238853,
       "name": "Standing On Higher Ground / Losing Proposition - Vocal Experiments",
       "url": "https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8"

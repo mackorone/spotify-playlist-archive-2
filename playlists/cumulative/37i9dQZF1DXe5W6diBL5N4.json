@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: IU) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: aespa) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 152266,
       "name": "\"Come to Chuncheon\"song",
       "url": "https://open.spotify.com/track/6Zug9XbF8doQY4Hrbad4nK"
+    },
+    {
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/6UlNuUeJ0j05dkPs1Hpdf4"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154184,
+      "name": "\"RBF\"",
+      "url": "https://open.spotify.com/track/6c1TnJhCNqGo77QjcJLFG2"
     },
     {
       "album": {
@@ -416,7 +434,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 210625,
       "name": "+82",
       "url": "https://open.spotify.com/track/41dQW7vAjBGZvOZI4u7LKO"
@@ -37158,7 +37176,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 194000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0SEkwkcOzVkttfU4MCwnpe"
@@ -69600,7 +69618,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 187740,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/3oCr3XPGmMVUo8FAdbDG2A"
@@ -97777,6 +97795,24 @@
     },
     {
       "album": {
+        "name": "GOGO",
+        "url": "https://open.spotify.com/album/3qfAHtZCxR0cdelIWF0omH"
+      },
+      "artists": [
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "GOGO",
+      "url": "https://open.spotify.com/track/7ohN5ImOsaOF7OO3lNCEIm"
+    },
+    {
+      "album": {
         "name": "GOGOSING",
         "url": "https://open.spotify.com/album/0OmchUWzWJ57qYfhtKgbUU"
       },
@@ -119102,7 +119138,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 142670,
       "name": "I Got Your Back (Korean Ver.)",
       "url": "https://open.spotify.com/track/59wwkq0Un56qOQVa3MZOpz"
@@ -144278,7 +144314,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 206000,
       "name": "Last bus",
       "url": "https://open.spotify.com/track/22g0phblhI57wSMjRcjQZ6"
@@ -181785,6 +181821,24 @@
     },
     {
       "album": {
+        "name": "NANSEN",
+        "url": "https://open.spotify.com/album/2REBQJXgMJiIZF7wlii1G5"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "NANSEN",
+      "url": "https://open.spotify.com/track/2eOb1YsZdVTmOq0dKlI5sK"
+    },
+    {
+      "album": {
         "name": "Nap Fairy - SM STATION",
         "url": "https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ"
       },
@@ -188786,7 +188840,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 163972,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR"
@@ -193468,7 +193522,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 244000,
       "name": "Once more",
       "url": "https://open.spotify.com/track/1pCs1WyPBd4E6Ag4Vgts3b"
@@ -209610,7 +209664,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 208999,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/5HVThrpHFfjp0bPqyCdKku"
@@ -218378,7 +218432,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 161000,
       "name": "Rockstarr (Male Ver.) (Prod By THE HUB)",
       "url": "https://open.spotify.com/track/4z30ixoNDtDJC2rOI1GLt9"
@@ -222130,6 +222184,24 @@
       "duration_ms": 236240,
       "name": "Sadder Than Yesterday",
       "url": "https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9"
+    },
+    {
+      "album": {
+        "name": "SYNK : COMPLaeXITY - 2026 Special Digital Single",
+        "url": "https://open.spotify.com/album/6IKPRi6kQgW1HoI8yzEuTQ"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Saddle Up (WINTER Solo)",
+      "url": "https://open.spotify.com/track/7G8Ycb0hYdQ7cgjVvZ9fAL"
     },
     {
       "album": {
@@ -231422,7 +231494,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 176000,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/11KILXYKpU1uBlVZwCzbFj"
@@ -250740,7 +250812,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 235015,
       "name": "Summer, After All",
       "url": "https://open.spotify.com/track/3JshWW0jwcNkfZBmJ9SmCN"

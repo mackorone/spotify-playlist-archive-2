@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Marstein & Tobias Rahim, Alessandra, Stig Brenner og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,177 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,168 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 79 | [3 2 1](https://open.spotify.com/track/28FoyF26LKomA0ViZs2JMQ) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [3 2 1](https://open.spotify.com/album/4bJI9k5ImietxQdBFxo03a) | 2:35 |
 | 80 | [Toca's Miracle](https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Toca's Miracle](https://open.spotify.com/album/1cmkL8WLHiRlehlvG4L2FD) | 3:15 |
 
-Snapshot ID: `AAAAAEdk6iEhMBTL/Zl1BhrtewhwZFIz`
+Snapshot ID: `AAAAAKzi2VczbusuCnSvGZnsuxRkuRDX`

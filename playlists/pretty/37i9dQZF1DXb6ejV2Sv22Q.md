@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Lucas Gael en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,255 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,244 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 |
 | 50 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAAOI3B+c5jmwDFu7/TB7PSHAT8rja`
+Snapshot ID: `AAAAAP5eju/BDttR3MtFgzAUpB7jPv/v`

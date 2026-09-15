@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 107626,
+  "num_followers": 107627,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGA0bVtzsVjjVGfhb3NNG4SDCWcH",
+  "snapshot_id": "AAAAAGc+EM5aKQam4uI/h0wTTjrJRMVz",
   "tracks": [
     {
       "added_at": "2025-12-19 04:59:16",
@@ -347,18 +347,22 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
+        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
       "artists": [
         {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Vicentico Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
+      "duration_ms": 145426,
+      "name": "Los Aretes De La Luna",
+      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -379,22 +383,18 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
-        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
+        "name": "Los Triunfadores de la Rockola",
+        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Vicentico Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
         }
       ],
-      "duration_ms": 145426,
-      "name": "Los Aretes De La Luna",
-      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
+      "duration_ms": 180533,
+      "name": "Que Te Vayas Bien",
+      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
-      },
-      "artists": [
-        {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "Toda una Vida",
         "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 178733,
       "name": "Dimelo",
       "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 264276,
-      "name": "Otra Copa",
-      "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 173373,
       "name": "Ese Bolero Es M\u00edo",
       "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 264276,
+      "name": "Otra Copa",
+      "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
     },
     {
       "added_at": "2025-12-19 04:59:16",

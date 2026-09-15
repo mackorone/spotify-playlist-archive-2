@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Julia Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,259 likes - 81 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,166 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 80 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 | 81 | [Neighbors Blues](https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 5:04 |
 
-Snapshot ID: `AAAAAPVyD9YFvI2XMuH6bcz2hwgFEffg`
+Snapshot ID: `AAAAAJ3Olfr2uFlR/bHc4B8RPUI019+g`

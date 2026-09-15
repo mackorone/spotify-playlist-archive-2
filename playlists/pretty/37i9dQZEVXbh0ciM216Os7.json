@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtiuMYfy0BPvp/gr/8NwVfePuDN",
+  "snapshot_id": "AAAAAP53Qscr9tMD0rpsknVwmKY58k/+",
   "tracks": [
     {
       "added_at": "2026-09-11 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 191978,
       "name": "Big Tittied Lady",
       "url": "https://open.spotify.com/track/7mTW4ZH99Twcxl26LJDzcO"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Iris (Goes Metal)",
+        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 244145,
+      "name": "Iris (Goes Metal)",
+      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -47,38 +63,6 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Iris (Goes Metal)",
-        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 244145,
-      "name": "Iris (Goes Metal)",
-      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
         "name": "Play with Fire",
         "url": "https://open.spotify.com/album/3He8QMmHg3FeakwIsXbvBF"
       },
@@ -95,26 +79,18 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/67sDEVCYNUuRHnLg8ly7v7"
+        "name": "1234",
+        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
       },
       "artists": [
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 221516,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/3jq169T6RQ4PPgSysnPpMv"
+      "duration_ms": 189783,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -143,22 +119,26 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Prophets and Losses",
-        "url": "https://open.spotify.com/album/04czXZTsavNI23PP2yQYhv"
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/67sDEVCYNUuRHnLg8ly7v7"
       },
       "artists": [
         {
-          "name": "Profit Elijah",
-          "url": "https://open.spotify.com/artist/3NnPFbi2RqThyOYk4QDAsw"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/0c1LEkgrgwfq40kV1Cos1Q"
+      "duration_ms": 221516,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/3jq169T6RQ4PPgSysnPpMv"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -179,6 +159,26 @@
       "duration_ms": 158899,
       "name": "Same Old Blues (feat. Jessi Colter)",
       "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Prophets and Losses",
+        "url": "https://open.spotify.com/album/04czXZTsavNI23PP2yQYhv"
+      },
+      "artists": [
+        {
+          "name": "Profit Elijah",
+          "url": "https://open.spotify.com/artist/3NnPFbi2RqThyOYk4QDAsw"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/0c1LEkgrgwfq40kV1Cos1Q"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -255,18 +255,34 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/0hlmZj3K8Ruim6lmXMtQ9q"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "The Apostle Voices",
+          "url": "https://open.spotify.com/artist/2lBkdMa6KzDyQFMbMG4hbU"
+        },
+        {
+          "name": "The Brent Fischer Orchestra",
+          "url": "https://open.spotify.com/artist/6Ee8FU4OF3VhlelcBUBt0F"
+        },
+        {
+          "name": "The Fellowship Collective",
+          "url": "https://open.spotify.com/artist/7EiEomkw1fNIug0T38rcbe"
         }
       ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+      "duration_ms": 260230,
+      "name": "Something Happens",
+      "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -283,6 +299,22 @@
       "duration_ms": 153461,
       "name": "T\u00e4fte\u00e5 Ik",
       "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -311,30 +343,6 @@
       "duration_ms": 268461,
       "name": "Kingpin (Knock Ya Head Off) (feat. Anderson .Paak & Ludacris)",
       "url": "https://open.spotify.com/track/0infHb5VLogAe1NvKPFoeu"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "You Won't Knock Me Down",
-        "url": "https://open.spotify.com/album/4bi2EhxcVR5c84LOtVNqjU"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Herbert Skillz",
-          "url": "https://open.spotify.com/artist/4HfzjhjlWNVd8mJwU6AHjM"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "You Won't Knock Me Down",
-      "url": "https://open.spotify.com/track/4oZsYysd3GfzJYFU29P6jz"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -387,34 +395,26 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/0hlmZj3K8Ruim6lmXMtQ9q"
+        "name": "You Won't Knock Me Down",
+        "url": "https://open.spotify.com/album/4bi2EhxcVR5c84LOtVNqjU"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
         },
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Herbert Skillz",
+          "url": "https://open.spotify.com/artist/4HfzjhjlWNVd8mJwU6AHjM"
         },
         {
-          "name": "The Apostle Voices",
-          "url": "https://open.spotify.com/artist/2lBkdMa6KzDyQFMbMG4hbU"
-        },
-        {
-          "name": "The Brent Fischer Orchestra",
-          "url": "https://open.spotify.com/artist/6Ee8FU4OF3VhlelcBUBt0F"
-        },
-        {
-          "name": "The Fellowship Collective",
-          "url": "https://open.spotify.com/artist/7EiEomkw1fNIug0T38rcbe"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 260230,
-      "name": "Something Happens",
-      "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
+      "duration_ms": 158518,
+      "name": "You Won't Knock Me Down",
+      "url": "https://open.spotify.com/track/4oZsYysd3GfzJYFU29P6jz"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -439,30 +439,22 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "KHABIB",
-        "url": "https://open.spotify.com/album/3J43pU6FgLUmbuCFFWzPEP"
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
       "artists": [
         {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         },
         {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
-        },
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 388960,
-      "name": "KHABIB",
-      "url": "https://open.spotify.com/track/7BM2tjcbPjejKQeL0rBa4z"
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -491,22 +483,30 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+        "name": "KHABIB",
+        "url": "https://open.spotify.com/album/3J43pU6FgLUmbuCFFWzPEP"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         }
       ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+      "duration_ms": 388960,
+      "name": "KHABIB",
+      "url": "https://open.spotify.com/track/7BM2tjcbPjejKQeL0rBa4z"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        },
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 193963,
-      "name": "By Any Means - Single Version",
-      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
+      "duration_ms": 223755,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/5vcqxDn2p49rvIeTgRWZwJ"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -607,18 +603,22 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 223755,
-      "name": "Just A Kid",
-      "url": "https://open.spotify.com/track/5vcqxDn2p49rvIeTgRWZwJ"
+      "duration_ms": 193963,
+      "name": "By Any Means - Single Version",
+      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -639,30 +639,6 @@
       "duration_ms": 280389,
       "name": "Heaven - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/3ew1YrbeUGqCJKcbumqAKb"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "WhoInGodsName",
-          "url": "https://open.spotify.com/artist/7qvhzNj5XvI2LlZ56jWVRg"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/03dRBsj0aMDabJNSKdz6ic"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -695,6 +671,30 @@
       "duration_ms": 812000,
       "name": "Leonore Overture No. 3 in C Major, Op. 72b",
       "url": "https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "WhoInGodsName",
+          "url": "https://open.spotify.com/artist/7qvhzNj5XvI2LlZ56jWVRg"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/03dRBsj0aMDabJNSKdz6ic"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

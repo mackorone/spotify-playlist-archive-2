@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "A blaze of light",
+        "url": "https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr"
+      },
+      "artists": [
+        {
+          "name": "momo.wav",
+          "url": "https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "A blaze of light",
+      "url": "https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2"
+    },
+    {
+      "album": {
         "name": "A Box To Grow (Burn)",
         "url": "https://open.spotify.com/album/2Rr0Qa4uFghLkP0B8UXNR8"
       },
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 174919,
       "name": "Black Shuck",
       "url": "https://open.spotify.com/track/2J1zTqh6ASy4v4hxcILIjA"
@@ -12810,7 +12828,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 175473,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/41CcxLOhj0aH2PsGdCqJN9"
@@ -14398,7 +14416,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 147169,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk"
@@ -17484,7 +17502,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 295814,
       "name": "God Is The Light",
       "url": "https://open.spotify.com/track/68Dkjlp9HM4RQel7MC9nnK"
@@ -18094,7 +18112,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 176000,
       "name": "Green one",
       "url": "https://open.spotify.com/track/1qYwYPo0QXjWRVnUXEYvX0"
@@ -20715,6 +20733,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know What To Do (Doo Do Doo Doo Dooo)",
+        "url": "https://open.spotify.com/album/6XhjGWmguPCFU0brbkXtuE"
+      },
+      "artists": [
+        {
+          "name": "E.L.Castro",
+          "url": "https://open.spotify.com/artist/1KpTZTzZjUumwURHN652lH"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "I Don't Know What To Do (Doo Do Doo Doo Dooo)",
+      "url": "https://open.spotify.com/track/4zxDpIp50yOEwffCeLaono"
+    },
+    {
+      "album": {
         "name": "I don't wanna be myself anymore",
         "url": "https://open.spotify.com/album/2s0WK9elJQoPDk5OqmUA4l"
       },
@@ -22534,7 +22570,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 281988,
       "name": "Iliacus",
       "url": "https://open.spotify.com/track/5NOagDjqmIcXSiJCUgyJiX"
@@ -26234,6 +26270,24 @@
       "duration_ms": 108876,
       "name": "Living My Life",
       "url": "https://open.spotify.com/track/1QwDUky5iuetMv1Uv1oRAI"
+    },
+    {
+      "album": {
+        "name": "Eclectic Echos",
+        "url": "https://open.spotify.com/album/30MZ0o88OILt95WLonBO1f"
+      },
+      "artists": [
+        {
+          "name": "Mick Kornyik",
+          "url": "https://open.spotify.com/artist/0iyDJ7nq3ZAnGCNIRzkF9A"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182181,
+      "name": "Living Tether",
+      "url": "https://open.spotify.com/track/3WuX9HieeItLA6gddUtTGB"
     },
     {
       "album": {
@@ -33172,7 +33226,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 247721,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0DBcReJbmK53iTwX6DgUBf"
@@ -34618,7 +34672,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 177902,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/11ruoXeZ4Y99ORoL9uKIBc"
@@ -35626,7 +35680,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 404776,
       "name": "Primero de Agosto",
       "url": "https://open.spotify.com/track/2JhlImVVgxQMUlyvU3jeNl"
@@ -38038,6 +38092,24 @@
       "duration_ms": 222615,
       "name": "Same Old Ways",
       "url": "https://open.spotify.com/track/1vDfw765O8PyvfuLHmNkTh"
+    },
+    {
+      "album": {
+        "name": "Same To Me",
+        "url": "https://open.spotify.com/album/6ek9e5TMpLDV1V2AqoSDp7"
+      },
+      "artists": [
+        {
+          "name": "Tristan Hutton",
+          "url": "https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Same To Me",
+      "url": "https://open.spotify.com/track/422eTGqPlmSyeVwOSJm8FC"
     },
     {
       "album": {
@@ -42246,7 +42318,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 158378,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/3UgD8BMPw7N2odtvhtEu5y"
@@ -42318,7 +42390,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 184800,
       "name": "Summer never Ends",
       "url": "https://open.spotify.com/track/5FExWIyCbTNMQH20wxCfgG"
@@ -43005,6 +43077,24 @@
     },
     {
       "album": {
+        "name": "Bad Reputation Club",
+        "url": "https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166199,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO"
+    },
+    {
+      "album": {
         "name": "take back.",
         "url": "https://open.spotify.com/album/1j2V0G776SQtBklIX7gMpq"
       },
@@ -43510,6 +43600,24 @@
       "duration_ms": 152678,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/2ornoIPPFbS07AHHpWbmmB"
+    },
+    {
+      "album": {
+        "name": "Teenage Melting Pot",
+        "url": "https://open.spotify.com/album/4d4GCOq1BrYCQheEQCuHtd"
+      },
+      "artists": [
+        {
+          "name": "Carmen Olivia",
+          "url": "https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151381,
+      "name": "Teenage Melting Pot",
+      "url": "https://open.spotify.com/track/0EGrim3yES0Cm1CCgOuJNA"
     },
     {
       "album": {
@@ -44786,7 +44894,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 193507,
       "name": "The Pain of Growing Up",
       "url": "https://open.spotify.com/track/2tmpAA8DO7oiNk0r9ZTIU7"
@@ -46455,6 +46563,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/71x8fdgLl0jTYcfkZvcOvI"
+      },
+      "artists": [
+        {
+          "name": "Court Lee",
+          "url": "https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6VxNJeDrY8jB5IK3OXGc3z"
+    },
+    {
+      "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR"
       },
@@ -46740,6 +46866,24 @@
       "duration_ms": 203359,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/3kS1f1YWPv7690Da1e4Cj7"
+    },
+    {
+      "album": {
+        "name": "TOO HOT TO FORGET",
+        "url": "https://open.spotify.com/album/2yg0oHtPoklR82saLNM6V9"
+      },
+      "artists": [
+        {
+          "name": "Leonnard Lowiz",
+          "url": "https://open.spotify.com/artist/7sGqkc5ZU9FvWNJiNfjd6x"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199099,
+      "name": "TOO HOT TO FORGET",
+      "url": "https://open.spotify.com/track/0iizCeoeeMuTX2PL4d44My"
     },
     {
       "album": {
@@ -50807,6 +50951,24 @@
     },
     {
       "album": {
+        "name": "Winter To stay",
+        "url": "https://open.spotify.com/album/48KpyK8AzqZd8jRkL3CRil"
+      },
+      "artists": [
+        {
+          "name": "Lane Buwalda",
+          "url": "https://open.spotify.com/artist/1GE6zHJlUPT7ZLeNuXNnKN"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195076,
+      "name": "Winter To stay",
+      "url": "https://open.spotify.com/track/0tA86NToB1ZO71M5V5OWeL"
+    },
+    {
+      "album": {
         "name": "WINTERTIME PUZZLES",
         "url": "https://open.spotify.com/album/1fmxs8CH1ZBvbXDyxqUTtA"
       },
@@ -51460,6 +51622,24 @@
       "duration_ms": 259092,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/58pq0rNTKIRAYhRiljdqGJ"
+    },
+    {
+      "album": {
+        "name": "Yellow Road",
+        "url": "https://open.spotify.com/album/1Tigu0m6sNPzu2PSpa6MEv"
+      },
+      "artists": [
+        {
+          "name": "noa swan",
+          "url": "https://open.spotify.com/artist/2aBAMK4lA2eqroAgPkBvwX"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Yellow Road",
+      "url": "https://open.spotify.com/track/4uC8hjDLHMbx7bs6gvn5QX"
     },
     {
       "album": {
@@ -52538,6 +52718,24 @@
       "duration_ms": 145777,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4TRKKukS2KrNNLdwbU2CTo"
+    },
+    {
+      "album": {
+        "name": "Yours If You Like",
+        "url": "https://open.spotify.com/album/0fv5FZfL6i7s5ZVOGQh75s"
+      },
+      "artists": [
+        {
+          "name": "Jill Baldassari",
+          "url": "https://open.spotify.com/artist/1kv1SoMj9osbG1MeUzRp12"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199827,
+      "name": "Yours If You Like",
+      "url": "https://open.spotify.com/track/2jT68tXUT9wNPp63JyF90r"
     },
     {
       "album": {

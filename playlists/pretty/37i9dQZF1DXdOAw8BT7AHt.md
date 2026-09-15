@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Spanish Love Songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,231 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,239 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Cleo](https://open.spotify.com/track/2GcyaxeLcrIezbiQckjf2R) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Cleo](https://open.spotify.com/album/0aWFyB1vF49N30JATeTXOM) | 2:08 |
 | 125 | [HAND IN HAND](https://open.spotify.com/track/6M96hhAHp58G0FKL2pZH1H) | [ILLAN KAAPAN](https://open.spotify.com/artist/1pMwGxFxWKzqkHHgaYrpZ4), [TIMEPEACE](https://open.spotify.com/artist/3NAGEPAJPqjlh5QP1lDf8C) | [UNDENIABLE](https://open.spotify.com/album/4FiUoGaLvYARfgMG2K3qba) | 2:24 |
 
-Snapshot ID: `AAAAABbLSik2u4uTt1TY/TepzcdZiJ9h`
+Snapshot ID: `AAAAAH0SpD5mTs93ywT2+R93E04aJQWG`

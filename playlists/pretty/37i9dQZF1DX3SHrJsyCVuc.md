@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Gilla Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,925 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,943 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Reins](https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Reins](https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV) | 2:55 |
 | 75 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 
-Snapshot ID: `AAAAAARP6kv6REoiD3+CDsmiiZPDB1jZ`
+Snapshot ID: `AAAAABPU0bYTHbfr5ZV9kRYTrAlZslgT`

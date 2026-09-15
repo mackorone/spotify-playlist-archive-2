@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,835 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,872 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 74 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 |
 | 75 | [It Had To Be You](https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:17 |
 | 76 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
-| 77 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |
-| 78 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
+| 77 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
+| 78 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |
 | 79 | [Body and Soul](https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:54 |
 | 80 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
 | 81 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 | 100 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
 
-Snapshot ID: `AAAAAM90y+enk5Y4klF5DSMy3qLJMLQY`
+Snapshot ID: `AAAAAJ33m8oJo1y878v9nuBX5PXnYU4C`

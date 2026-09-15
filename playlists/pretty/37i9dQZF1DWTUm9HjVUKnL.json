@@ -1,13 +1,53 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
-  "num_followers": 240027,
+  "num_followers": 240022,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACSVXKDBFBwuL4gxeDlu8Lio3ea4",
+  "snapshot_id": "AAAAAKaLsQiAle4KCbulbYfgo6sTS+d5",
   "tracks": [
+    {
+      "added_at": "2026-09-14 19:52:08",
+      "album": {
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "added_at": "2026-09-14 19:52:08",
+      "album": {
+        "name": "Foca em mim - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "duration_ms": 131615,
+      "name": "Foca em mim - Spotify Singles",
+      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
+    },
     {
       "added_at": "2026-08-26 14:07:11",
       "album": {

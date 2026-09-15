@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,941 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,977 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 30 | [Room 1](https://open.spotify.com/track/5ZMJjVSuEY8yCTKALwqu9N) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [The Infinity Room](https://open.spotify.com/album/3cX8n1RFLSQF0C1hcWi9QH) | 3:56 |
 | 31 | [Illusion Of Time](https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 4:22 |
 | 32 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
-| 33 | [Nice Weather for Ducks](https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lost Horizons](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG) | 6:08 |
-| 34 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
+| 33 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
+| 34 | [Nice Weather for Ducks](https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lost Horizons](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG) | 6:08 |
 | 35 | [On Our Way Home](https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Postcards](https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo) | 3:57 |
 | 36 | [E.V.A.](https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 3:11 |
 | 37 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 136 | [From The Seams](https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9) | [Sculpturegardening](https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3) | 4:17 |
 | 137 | [Orange Romeda](https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [We Are Reasonable People](https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR) | 4:51 |
 | 138 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
-| 139 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
-| 140 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 |
+| 139 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 |
+| 140 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
 | 141 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
 | 142 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 |
 | 143 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
 | 150 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 |
 
-Snapshot ID: `AAAAABFJeDGqgOWyNK0kH8Jnosr7Sxyh`
+Snapshot ID: `AAAAAFqvkmzh9cEEJJ0DC/mmR5MI/XlX`

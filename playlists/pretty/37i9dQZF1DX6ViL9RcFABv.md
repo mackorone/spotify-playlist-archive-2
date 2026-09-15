@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Descendentes
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,199 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,214 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [um do outro](https://open.spotify.com/track/6gw8EpXw9txLByfBqqDUL2) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [8/80](https://open.spotify.com/album/02jJwgULkZZtk7iuwr71xz) | 2:44 |
 | 70 | [Juro](https://open.spotify.com/track/2xUF0AghSybMPCXImBIKlo) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Juro](https://open.spotify.com/album/3hyG8jOK3GSLtA2dq4LKu1) | 2:56 |
 
-Snapshot ID: `AAAAAAz2wqvNnTTn0k9HyIR4oYPIZOmO`
+Snapshot ID: `AAAAAG6dSd+WRsl+SqSBOPbrubjv2gt+`

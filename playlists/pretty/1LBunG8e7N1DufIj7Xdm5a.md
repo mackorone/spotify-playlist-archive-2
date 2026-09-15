@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,839 songs - 10 day 21 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,841 songs - 10 day 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4847,5 +4847,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4837 | [Best Days of Our Lives](https://open.spotify.com/track/0jI9nUNsMAB3UJH6OBVnCX) | [Kandalaft Messina](https://open.spotify.com/artist/28qRZXVz4HxSz3anyjFC3q) | [Kandalaft Messina](https://open.spotify.com/album/4OEaqyOQcP3LVSro71kczW) | 2:48 |
 | 4838 | [King of the World](https://open.spotify.com/track/3ni5txq6gSJzxwT4IZoYtD) | [Tom Ciapponi](https://open.spotify.com/artist/6FQIT1vriZfxaJV5gBiy1f) | [King of the World](https://open.spotify.com/album/4PXK4drkVctOUAg1FgVc2l) | 3:48 |
 | 4839 | [Live Wire](https://open.spotify.com/track/3BQnonu1WOj56rdhP1tsfn) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Live Wire](https://open.spotify.com/album/6mgC0fBpMXX0U9B25CE6gd) | 3:27 |
+| 4840 | [Stamp Your Love](https://open.spotify.com/track/4jPuXzZ0vJ5N8ytiQJyXT0) | [Jah Lion](https://open.spotify.com/artist/6Mj9ZEzOfnqSjcdbffdJ3K) | [Love on the Rocks](https://open.spotify.com/album/3jWhYAny0yIy0yLF6ktNKo) | 5:33 |
+| 4841 | [Dramatic Moments](https://open.spotify.com/track/24fwpJjkOmtqFsfQ2Eh25B) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Frank\-N\-Stein](https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO) | 3:14 |
 
-Snapshot ID: `AAAKCwRv1UrX70h9wPlY9HCMlL1pQji6`
+Snapshot ID: `AAAKDQfA+I+BLd3lKuaFCLTSTo8T65KF`

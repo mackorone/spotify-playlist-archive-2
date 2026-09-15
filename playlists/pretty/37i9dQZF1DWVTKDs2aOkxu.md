@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,598 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,439 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 81 | [Something To Be Said](https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Something To Be Said](https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o) | 3:33 |
 | 82 | [Is This Real?](https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Is This Real?](https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen) | 3:36 |
 
-Snapshot ID: `AAAAAF3rhRqxHkbhaTm0So5x65ujv8Yr`
+Snapshot ID: `AAAAAEtvpc/RsHyc3HZz+qDjZJOq/aRh`

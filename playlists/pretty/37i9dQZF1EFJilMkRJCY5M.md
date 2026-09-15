@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 139 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 139 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 45 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
 | 46 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
 | 47 | [New Town](https://open.spotify.com/track/0PT1am3Y7qYd4DD8V7HCMJ) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/3x2nunBCMOZBsTN8AxkTZQ) | 3:12 |
-| 48 | [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 |
-| 49 | [Clarity](https://open.spotify.com/track/3A8fz1SVHkpgPdxTkrr4c6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:19 |
+| 48 | [Clarity](https://open.spotify.com/track/3A8fz1SVHkpgPdxTkrr4c6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:19 |
+| 49 | [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 |
 | 50 | [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 |
 | 51 | [lose a friend](https://open.spotify.com/track/0SvvUd63GzA41h5YQMxoDn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub) | 3:07 |
 | 52 | [Sawed Off Shotgun](https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [No Hard Feelings](https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX) | 2:13 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 91 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 |
 | 92 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 |
 | 93 | [Unbreakup](https://open.spotify.com/track/6Pc4PWAChVirhXD7v9TBKa) | [Oliver Blank](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/3HVVrtcAkV7oArIPGQV0GQ) | 3:44 |
-| 94 | [Somehow, Some Way, Somewhere, Some Day \- Worktape](https://open.spotify.com/track/3mPNkTNYIt14YD75wbbEhM) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Heartbreak Worktapes Vol\. 2](https://open.spotify.com/album/0k9RnyrVHo7mvgdug6CVxp) | 3:01 |
-| 95 | [Almost Was](https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:39 |
+| 94 | [Almost Was](https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:39 |
+| 95 | [Somehow, Some Way, Somewhere, Some Day \- Worktape](https://open.spotify.com/track/3mPNkTNYIt14YD75wbbEhM) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Heartbreak Worktapes Vol\. 2](https://open.spotify.com/album/0k9RnyrVHo7mvgdug6CVxp) | 3:01 |
 | 96 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 97 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 98 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 103 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
 | 104 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 105 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
-| 106 | [I Love You Now Change \(Acoustic\)](https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy \(Acoustic\)](https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF) | 3:40 |
-| 107 | [Borrow Tomorrow](https://open.spotify.com/track/7ECi07OWAnkpfxTMvLA1u8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:21 |
+| 106 | [Borrow Tomorrow](https://open.spotify.com/track/7ECi07OWAnkpfxTMvLA1u8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:21 |
+| 107 | [I Love You Now Change \(Acoustic\)](https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy \(Acoustic\)](https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF) | 3:40 |
 | 108 | [Cowboy Outta You](https://open.spotify.com/track/5x6m9fSw23i0koNnpMxNQn) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/3siD2kVE0SFBgPXBlujSTH) | 3:30 |
 | 109 | [Lucky To Be Loved](https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Lucky To Be Loved](https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6) | 3:00 |
 | 110 | [Own My Body](https://open.spotify.com/track/5a6QsW35imEPjk7TP9g4N6) | [MEG + JAC](https://open.spotify.com/artist/6q6isSwnbC9MxmWGZYl7sk), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Own My Body](https://open.spotify.com/album/6WL5v0CjTwys4HuN6RSH3Y) | 2:42 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 138 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 139 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AccOpgAAAACTzgvcbJs0EBhutXD5q2YM`
+Snapshot ID: `AccURgAAAABh0FJ5ScjRnO1go8SmwMcY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Sammy Virji & Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,469,412 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,468,529 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
 | 75 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 
-Snapshot ID: `AAAAAJ8cvKoQzeQ3CgHMzR37vsqiCj7R`
+Snapshot ID: `AAAAAC8PD/UJxZ4uANJenvkmryF4eSUP`

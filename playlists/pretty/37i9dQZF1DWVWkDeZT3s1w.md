@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,528 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,539 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 57 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 |
 | 58 | [Flow Leyenda](https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP) | [Flaco Flow y Melanina](https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2) | [Flow Leyenda](https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw) | 3:14 |
 | 59 | [Hombre \(One Shot\) \- Remix](https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Discan](https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY) | [Hombre \(One Shot\) \[Remix\]](https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY) | 3:04 |
-| 60 | [Jeremías 17\-5](https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 5:18 |
-| 61 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
+| 60 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
+| 61 | [Jeremías 17\-5](https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 5:18 |
 | 62 | [Vive Libre](https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Choko Rap De Luz](https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU), [Maniobra Bits](https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn) | [Vive Libre](https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h) | 3:48 |
 | 63 | [Escorpión](https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [Escorpión](https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA) | 2:52 |
 | 64 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
 | 100 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 
-Snapshot ID: `AAAAADsLaAzJbCWSf5rG3OszvPnXobV2`
+Snapshot ID: `AAAAAMRRvYayDHUgxAa9jbYUUmGzYSBo`

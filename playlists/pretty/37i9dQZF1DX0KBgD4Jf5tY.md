@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:2KFd6aIoUCq0se2nNlyI8U">YTAM</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,947 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,950 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [CON I TASTINI](https://open.spotify.com/track/7fA72COCPQLddo8MXmZIlg) | [Musche](https://open.spotify.com/artist/2wRyXjh9Aen8FfrcQ2VEQN) | [CON I TASTINI](https://open.spotify.com/album/5aAzg6niZVLfOaq6U8BzbQ) | 1:53 |
 | 50 | [I HATE MILANO](https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [I HATE MILANO](https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6) | 1:31 |
 
-Snapshot ID: `AAAAAL/BBvRs6t8n3vJQYZ0GhJoWQrZH`
+Snapshot ID: `AAAAAIWe8rJUVGwwAhYtrukI2XVZTUrU`

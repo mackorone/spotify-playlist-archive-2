@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Theo Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,066 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,067 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Numa' bună de iubit](https://open.spotify.com/track/6vTisLvT3qEJGYL4aq1Mck) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Numa' bună de iubit](https://open.spotify.com/album/2xrw0TUjVACkP9ekXjAGub) | 3:20 |
 | 50 | [EYESFORYOU](https://open.spotify.com/track/3a6N6x28g2RxF7FVPWUlOC) | [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [EYESFORYOU](https://open.spotify.com/album/4zXnWgTgd9ExFHu30SmB84) | 2:53 |
 
-Snapshot ID: `AAAAAHlYck2yDSAnh9GN1Ely8YO6eyGK`
+Snapshot ID: `AAAAANMKkjw8dNwPOo85WMHALV+dUvHG`

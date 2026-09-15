@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1183246,
+  "num_followers": 1183353,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADvJ3kO4AnEk3CAWLwFYHUE",
+  "snapshot_id": "aqXngAAAAAAK+jbWzGHuNtyodTY5hIbb",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mystery to Me",
         "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 289200,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "I'm so Afraid",
-      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mystery to Me",
         "url": "https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 214973,
       "name": "Emerald Eyes",
       "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "I'm so Afraid",
+      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
     },
     {
       "added_at": null,

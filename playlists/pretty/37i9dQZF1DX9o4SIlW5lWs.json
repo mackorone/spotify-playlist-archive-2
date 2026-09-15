@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 284990,
+  "num_followers": 285028,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3DKPdNaeCof/SkEpsNzv4lEzQp",
+  "snapshot_id": "AAAAALsFv4VPNR5qd0ssY0AatGfBs34S",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:24",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "TE AMO \u2661",
         "url": "https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 153500,
       "name": "TE AMO \u2661",
       "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Elegante",
         "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 205052,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2026-06-19 03:00:24",

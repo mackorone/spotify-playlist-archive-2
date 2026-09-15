@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 139144,
+  "num_followers": 139145,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADEvMjVWLinaCtwKAXTRfCS",
+  "snapshot_id": "aqXngAAAAACq/WN1gyKOcpVVC6LiR17j",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girlz Run The World",
-        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 147401,
-      "name": "Just Saying (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ"
+      "duration_ms": 88186,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Pretty Girlz Run The World",
+        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
       },
       "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
+      "duration_ms": 147401,
+      "name": "Just Saying (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2J23wFXB3E99p5jTRN1JjJ"
     },
     {
       "added_at": null,

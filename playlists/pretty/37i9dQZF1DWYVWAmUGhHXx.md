@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > romanticonas y fresonas, pero norteñonas\. Cornelio Vega y La Receta en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,858 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,876 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 59 | [Khé? \- En Vivo](https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:17 |
 | 60 | [Desde Que Llegaste](https://open.spotify.com/track/4BKdiaVnlnMiP4Fl1q5OBl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/10X7fPOeyhrCKbzF4nU17H) | 4:08 |
 
-Snapshot ID: `AAAAADH182bgZmS8xTFGS+Its6UnBU4V`
+Snapshot ID: `AAAAAO2tRS6zQVdveehov18+bTCKSued`

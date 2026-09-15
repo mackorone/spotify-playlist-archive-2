@@ -7361,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/0zyc2DisFokldezxabrmhY"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222981,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh"
+    },
+    {
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/5X7dPNRBbHIVcl58vusGGn"
       },
@@ -11574,6 +11592,24 @@
       "duration_ms": 170992,
       "name": "Jane E. - Piano solo",
       "url": "https://open.spotify.com/track/7BSf8jEEVwaILkwMFgojua"
+    },
+    {
+      "album": {
+        "name": "Je Fly (Live Studio)",
+        "url": "https://open.spotify.com/album/3DnKapbdYKAQA6uASP5Boj"
+      },
+      "artists": [
+        {
+          "name": "ELEKTROWAN",
+          "url": "https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187743,
+      "name": "Je Fly - Live Studio",
+      "url": "https://open.spotify.com/track/0zRR9U5YpMQP55nT8rsSqb"
     },
     {
       "album": {

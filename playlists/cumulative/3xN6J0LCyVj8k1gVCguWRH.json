@@ -12117,6 +12117,24 @@
     },
     {
       "album": {
+        "name": "Billy the Kid",
+        "url": "https://open.spotify.com/album/17Hrlj4OCmEi7I59IxRHnk"
+      },
+      "artists": [
+        {
+          "name": "SaretzkyGallery",
+          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Billy the Kid",
+      "url": "https://open.spotify.com/track/4ZhtV3XzGocGVoi5tlKbfi"
+    },
+    {
+      "album": {
         "name": "bird bones",
         "url": "https://open.spotify.com/album/6xbQoTTRrwBCENydPTGkNK"
       },
@@ -12360,6 +12378,24 @@
       "duration_ms": 195809,
       "name": "BL/FF (Fake Friends)",
       "url": "https://open.spotify.com/track/5qjbXQSkehJmBrXM9IymHb"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/0vCyEqg3wN2xUogypQsEnB"
+      },
+      "artists": [
+        {
+          "name": "NEURO3NOT",
+          "url": "https://open.spotify.com/artist/5y4ITpUMYzPXNkLwVkJqYt"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317132,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/6PwqS0hcpZg7wBNcFWRxNz"
     },
     {
       "album": {
@@ -13620,6 +13656,24 @@
       "duration_ms": 178175,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4SEqBuHS3qTU1udNSh02KL"
+    },
+    {
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/6AEEdst46skKYW0rBDC1RL"
+      },
+      "artists": [
+        {
+          "name": "SaretzkyGallery",
+          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/3qzTjzWyujtMEiPqbmiOr0"
     },
     {
       "album": {
@@ -28407,6 +28461,28 @@
     },
     {
       "album": {
+        "name": "Don't Say No",
+        "url": "https://open.spotify.com/album/2r0We7lXVorGdwgweq3C91"
+      },
+      "artists": [
+        {
+          "name": "Camarias",
+          "url": "https://open.spotify.com/artist/66ZB2ZdyV1ICDIf4hUFXYs"
+        },
+        {
+          "name": "Dayron Ortiz",
+          "url": "https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Don't Say No",
+      "url": "https://open.spotify.com/track/1QgwS8y6ndhlVjq5PHmSef"
+    },
+    {
+      "album": {
         "name": "Don't Say Nothing",
         "url": "https://open.spotify.com/album/1SSzXci0XCMepa77BZVzCP"
       },
@@ -31801,6 +31877,24 @@
     },
     {
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/1ZfcR1rjTxN330aC2biONr"
+      },
+      "artists": [
+        {
+          "name": "Zoey Madison",
+          "url": "https://open.spotify.com/artist/45c5qwV5E9oKpimYK0PC0H"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/5R1V3QIdLEzcLL7D9nx8OQ"
+    },
+    {
+      "album": {
         "name": "Electrify Tdot",
         "url": "https://open.spotify.com/album/2hOtsN3YH4YyNOXImXZpmE"
       },
@@ -33760,6 +33854,28 @@
       "duration_ms": 243263,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw"
+    },
+    {
+      "album": {
+        "name": "Eyes Roll Back",
+        "url": "https://open.spotify.com/album/0elQfTradzCdYMRtDKuMVA"
+      },
+      "artists": [
+        {
+          "name": "Nylo Cash",
+          "url": "https://open.spotify.com/artist/4pDiBkbojkRPk7wg4ywKhO"
+        },
+        {
+          "name": "Omega the Poet",
+          "url": "https://open.spotify.com/artist/6hsBQ62pjMzwT515VEc811"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236512,
+      "name": "Eyes Roll Back",
+      "url": "https://open.spotify.com/track/33PfL0XWxQ1Tv4akrZpEHc"
     },
     {
       "album": {
@@ -83839,6 +83955,24 @@
     },
     {
       "album": {
+        "name": "Tudo Que Tem F\u00f4lego",
+        "url": "https://open.spotify.com/album/61ZEszhPeZeR6CxYjMJRna"
+      },
+      "artists": [
+        {
+          "name": "Nelci Schallenberger",
+          "url": "https://open.spotify.com/artist/4h5md8yUW1aEmYMTrlYcAq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/5frjQ85km45Wc8rYHcYuTO"
+    },
+    {
+      "album": {
         "name": "preshure",
         "url": "https://open.spotify.com/album/6GQyE6jbtClKvRZEdGFhsY"
       },
@@ -87652,6 +87786,24 @@
       "duration_ms": 142581,
       "name": "RETURN",
       "url": "https://open.spotify.com/track/3j6FPFvTfNEO833qQhj9H9"
+    },
+    {
+      "album": {
+        "name": "Return in Glory",
+        "url": "https://open.spotify.com/album/4rmt2rgbHH2wOYj07OtTvJ"
+      },
+      "artists": [
+        {
+          "name": "Arman Maggese",
+          "url": "https://open.spotify.com/artist/6ajYG7GRQrka3ep49ap1Ns"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Return in Glory",
+      "url": "https://open.spotify.com/track/4me5EN5wEwfgchXPqsk6ka"
     },
     {
       "album": {
@@ -100286,6 +100438,24 @@
       "duration_ms": 236921,
       "name": "Sugartime",
       "url": "https://open.spotify.com/track/1AslkSoGsWkcMK9j2sLib8"
+    },
+    {
+      "album": {
+        "name": "suggested for you (freestyle)",
+        "url": "https://open.spotify.com/album/3cTBOYE70Zeft8DoEQatLn"
+      },
+      "artists": [
+        {
+          "name": "kimaRA",
+          "url": "https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179513,
+      "name": "suggested for you (freestyle)",
+      "url": "https://open.spotify.com/track/4flKstkatApIttTbpnQPPz"
     },
     {
       "album": {
@@ -117030,6 +117200,28 @@
       "duration_ms": 184605,
       "name": "We've Met Before",
       "url": "https://open.spotify.com/track/709WtRX2B12JTU4WIvk0za"
+    },
+    {
+      "album": {
+        "name": "Safe To Be _",
+        "url": "https://open.spotify.com/album/5FwW4Cq3Ml8IFaXCdFQgmH"
+      },
+      "artists": [
+        {
+          "name": "noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Weak With Me",
+      "url": "https://open.spotify.com/track/5GydYs178vVYnf30AEoonc"
     },
     {
       "album": {

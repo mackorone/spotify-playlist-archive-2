@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,072 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,090 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 54 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
 | 55 | [These Are The Days](https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [These Are The Days](https://open.spotify.com/album/1lPcCdFXh4j7Yy4u0bzYVY) | 3:07 |
 
-Snapshot ID: `AAAAAMBMHQzLsv0UNQJtX9cLNXoteHuR`
+Snapshot ID: `AAAAAJ3z6iX57HeCtnrjTWCFmngUVklS`

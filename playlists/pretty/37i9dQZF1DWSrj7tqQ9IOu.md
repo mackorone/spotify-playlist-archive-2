@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,520 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,514 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 16 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
 | 17 | [Lean On](https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Lean On](https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu) | 3:25 |
 | 18 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
-| 19 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy) | 2:48 |
-| 20 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
+| 19 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
+| 20 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy) | 2:48 |
 | 21 | [ANGEL](https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANGEL](https://open.spotify.com/album/32GVvqbn3IO1K3e4ehpbh1) | 3:59 |
 | 22 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 | 23 | [LIGHT DESIGN: OKLOU VERSION](https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:46 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Par le vide](https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Par le vide](https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw) | 3:28 |
 | 40 | [like never before](https://open.spotify.com/track/3mPrY6npWtvBr5IaWCRyU9) | [Veridis Project](https://open.spotify.com/artist/1JcJ1nR9qZhx2GCX0MM8Up) | [like never before](https://open.spotify.com/album/3Sq2QOvCweTzhXp7rIy8py) | 2:11 |
 
-Snapshot ID: `AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9`
+Snapshot ID: `AAAAAFlRTZc5G9bMCGq1v4FnczzEU4jg`

@@ -64801,6 +64801,32 @@
     },
     {
       "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
+    },
+    {
+      "album": {
         "name": "Imamou",
         "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
       },

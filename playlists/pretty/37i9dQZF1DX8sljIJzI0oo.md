@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > YOSHI & Jesse Baez are bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,508 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,313 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 44 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 | 45 | [BnB](https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 2:37 |
 
-Snapshot ID: `AAAAAFQIfeJXOHoupj6lqlMgJPvlAlXp`
+Snapshot ID: `AAAAAExE5B0tTUHPHgXkeXrD5CLUhxgl`

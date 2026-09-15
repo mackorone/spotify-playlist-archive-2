@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Phillip Phillips
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,844 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,840 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [TALK ABOUT IT](https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [HEARTLAND : PART I](https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6) | 3:38 |
 | 100 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 |
 
-Snapshot ID: `AAAAABKMZ4+0lSKC2yBNfBCJjpHO0YMG`
+Snapshot ID: `AAAAAOE8tQhPFw9cwP6fm+iuJdRQSv3M`

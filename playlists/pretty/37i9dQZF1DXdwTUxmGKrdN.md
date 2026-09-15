@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,059 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,090 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 27 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 |
 | 28 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 |
 | 29 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 |
-| 30 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 |
-| 31 | [Blues for Jeff](https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Uptown Blues](https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U) | 3:43 |
+| 30 | [Blues for Jeff](https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Uptown Blues](https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U) | 3:43 |
+| 31 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 |
 | 32 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
 | 33 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 |
 | 34 | [The Magic Hour](https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Off The Record](https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz) | 3:52 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 38 | [Amends](https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Jeff Lorber](https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 3:24 |
 | 39 | [I Can't Stop Loving You](https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Burnin' up](https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow) | 4:45 |
 | 40 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 |
-| 41 | [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 |
-| 42 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
+| 41 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
+| 42 | [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 |
 | 43 | [Lavish](https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh) | [Special EFX](https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ) | [Lavish](https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr) | 4:05 |
 | 44 | [Say What's on Your Mind](https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [The Journey](https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89) | 4:17 |
 | 45 | [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 64 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
 | 65 | [Sliver Moon](https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF) | [Dwight Sills](https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH) | [Easy](https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS) | 5:13 |
 | 66 | [Stylin'](https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY) | [Stylin'](https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c) | 4:07 |
-| 67 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 |
-| 68 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 |
+| 67 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 |
+| 68 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 |
 | 69 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 |
 | 70 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 |
 | 71 | [Lifted](https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Lifted](https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9) | 4:20 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 75 | [Mr Kool](https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J) | [Jim Richter](https://open.spotify.com/artist/0NZ0vDGLWAN5RgDz8sJTAC), [Chris Otts](https://open.spotify.com/artist/411efB7y7mz05itJYp0pZZ), [Jack Jones](https://open.spotify.com/artist/1MJs5ZkhogG4lo7yq3cr0l), [John Rathbone](https://open.spotify.com/artist/0ij5DHsvTubb5S6xQ3BKSN), [Michael Cornett](https://open.spotify.com/artist/0vrRGCpdPXGcgQbLa8wSWC) | [Mr\. Kool](https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl) | 4:29 |
 | 76 | [Cecil's Groove](https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc) | [Dr\. Dave & The HouseCall Band](https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8) | [Midnight Daydream](https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G) | 4:21 |
 | 77 | [His Coolness](https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [As Promised](https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U) | 5:24 |
-| 78 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
-| 79 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
+| 78 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
+| 79 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
 | 80 | [Into The Night](https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU) | [Urban Jazz Coalition](https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX) | [A New Day](https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV) | 4:39 |
 | 81 | [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 |
 | 82 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
 | 150 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 |
 
-Snapshot ID: `AAAAAPZZSEBz0aIt2+H9ShtYUM+piU4q`
+Snapshot ID: `AAAAAH8lQCOkBElN5dn7SyvS1+/faVHg`

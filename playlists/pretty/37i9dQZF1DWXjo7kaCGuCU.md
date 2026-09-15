@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 
 > R&B from around the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,092 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,229 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 | 35 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/5fgTKJ5PTbRLzem1tkfFjx) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Majid Jordan](https://open.spotify.com/album/3CUUharDNym6nWwLpI4mPi) | 4:08 |
 | 36 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 37 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 |
-| 38 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 |
+| 38 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [Pania](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 |
 | 39 | [Bad Blood](https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:00 |
 | 40 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 |
 | 41 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Johnny Venus](https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx) | [Back At Sixes And Sevens](https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq) | 3:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 | 100 | [Tes petites fesses](https://open.spotify.com/track/2ZpC4XRsRSVpRUO3bZAwgq) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tes petites fesses](https://open.spotify.com/album/72btisw8ofdUAAb29Jsa7x) | 1:50 |
 | 101 | [SAY MY NAME](https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [ANTIDOTE](https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu) | 2:27 |
 
-Snapshot ID: `AAAAAN8hsQkp0FBaVKdZfqecBaIPjt5/`
+Snapshot ID: `AAAAAHmrgBnn+pfB+oy7N5ifxxEEQxbM`

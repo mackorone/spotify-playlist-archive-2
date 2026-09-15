@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: ミームトーキョー
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,931 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,938 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [daydream nation](https://open.spotify.com/track/1ThKqlLaBBGukCDpur0Qtc) | [ponderosa may bloom](https://open.spotify.com/artist/6SnizSjSKedUc2Iw98UncP) | [daydream diaries](https://open.spotify.com/album/3R8d6kWXR0kuR84zIsO6cG) | 3:17 |
 | 50 | [HERO](https://open.spotify.com/track/0x745dF6UOnnEvzXvs3Hk5) | [alma](https://open.spotify.com/artist/5AivmOIXjjzU6Ulk8zZkOX) | [HERO](https://open.spotify.com/album/2U5MU50WW4bVtNnlj68Bp9) | 3:19 |
 
-Snapshot ID: `AAAAALhn0ULTkZmF2apQOb3kMVLLVkQ2`
+Snapshot ID: `AAAAAGTit79CzoIUcpB4Rd2s8NKHRcpz`

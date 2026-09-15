@@ -1,12 +1,12 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Falak Shabbir",
-  "num_followers": 21033,
+  "num_followers": 21046,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2w6dAVtlITAlCBb+S8+YU98JFB",
+  "snapshot_id": "AAAAAPkA9lpFIRtGPrOKrYsuBYarVz0o",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:47",
@@ -27,6 +27,30 @@
       "duration_ms": 182000,
       "name": "Hanju",
       "url": "https://open.spotify.com/track/4bEpeJmBVhAi1tywfKvoQF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:47",
+      "album": {
+        "name": "MADEMEN",
+        "url": "https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W"
+      },
+      "artists": [
+        {
+          "name": "Marshall Ahmad",
+          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "baemisaal",
+      "url": "https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl"
     },
     {
       "added_at": "2026-09-11 04:01:47",
@@ -319,30 +343,6 @@
       "duration_ms": 143563,
       "name": "ROVINA",
       "url": "https://open.spotify.com/track/3Pu0iPSCJlAvvunjfZuDfZ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:47",
-      "album": {
-        "name": "MADEMEN",
-        "url": "https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W"
-      },
-      "artists": [
-        {
-          "name": "Marshall Ahmad",
-          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
-        },
-        {
-          "name": "Shahmeer Raza Khan",
-          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
-        },
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "baemisaal",
-      "url": "https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl"
     },
     {
       "added_at": "2026-09-11 04:01:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Lipta, Ref PURPEECH
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,555 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,604 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 |
 | 100 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 
-Snapshot ID: `AAAAALpKPq0o1hYNcmcyfpU6AOmiZ0Ao`
+Snapshot ID: `AAAAAPbabGL2oyAtX+j0SBb/e/McAuhk`

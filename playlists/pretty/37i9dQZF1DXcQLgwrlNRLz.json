@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18497,
+  "num_followers": 18526,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2k98G82PjCbQgvpD1a+EDukNxq",
+  "snapshot_id": "AAAAAGnjDmRja/yMQv0yzvtVHVN4jXf4",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "JEUNE&INNOCENT",
-        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "SO MAWA (feat. Mauvais djo)",
-      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "DANS LE DOS",
         "url": "https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 190619,
       "name": "DANS LE DOS",
       "url": "https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "JEUNE&INNOCENT",
+        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "SO MAWA (feat. Mauvais djo)",
+      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Fire in your Eyes",
-        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Fire in your Eyes",
-      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Jeune prince",
         "url": "https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 155973,
       "name": "Pression",
       "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
     },
     {
       "added_at": "2026-07-24 11:14:20",

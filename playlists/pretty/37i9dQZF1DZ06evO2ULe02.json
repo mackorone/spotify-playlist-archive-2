@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2116,
+  "num_followers": 2119,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAACv1q4lG0/b6XE2z8Ltby5",
+  "snapshot_id": "aqXngAAAAADhsSkRPeyz1mCFelTMvNom",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
+      "duration_ms": 189954,
+      "name": "Twenty Something",
+      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6"
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189954,
-      "name": "Twenty Something",
-      "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": null,

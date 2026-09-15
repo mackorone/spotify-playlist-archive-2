@@ -3377,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Jnoun",
+        "url": "https://open.spotify.com/album/77I0Reu3kNcdOvXfqYfPOE"
+      },
+      "artists": [
+        {
+          "name": "Ragheb Alama",
+          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204458,
+      "name": "Jnoun",
+      "url": "https://open.spotify.com/track/2U5Kq30PMj1UPW9WtxUwu5"
+    },
+    {
+      "album": {
         "name": "Kaddabeen",
         "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
       },

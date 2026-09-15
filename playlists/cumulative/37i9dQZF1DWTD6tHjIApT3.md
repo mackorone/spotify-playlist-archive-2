@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 絢香
 
-3,880 songs - 10 day 6 hr 47 min
+3,881 songs - 10 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [17](https://open.spotify.com/track/0ZPo36VojbJs3lKrZzmA9C) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [17](https://open.spotify.com/album/337q9OUbxD3Pg4IZ3qU8gW) | 3:42 | 2022-07-26 | 2022-08-03 |
 | [17。アオイハル](https://open.spotify.com/track/3VCVnefnCIJrOiMXvRnNuB) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [17。アオイハル](https://open.spotify.com/album/60k2RpDqYTlGYAp0bJrXKM) | 3:19 | 2025-09-16 | 2025-09-24 |
 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 | 2022-05-31 | 2024-12-05 |
+| [18](https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [18](https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9) | 3:53 | 2026-09-08 |  |
 | [1990special](https://open.spotify.com/track/4aWrKVnlx0xQrrRXkLlhQw) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [1990special](https://open.spotify.com/album/6eALivzXxR9h9uPI4Aiiwp) | 4:14 | 2023-04-04 | 2023-04-12 |
 | [1999](https://open.spotify.com/track/2pUMDJAZrM2qKx4tCJD1jK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:04 | 2022-07-28 | 2022-08-03 |
 | [19歳のガレット](https://open.spotify.com/track/3Ule6qlH6klo2T3y1Zlgtt) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come \(Special Edition\)](https://open.spotify.com/album/70YzcydxXKcrw3ErYKYNJq) | 4:19 | 2024-12-04 | 2024-12-13 |
@@ -3693,7 +3694,7 @@
 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 | 2023-01-31 | 2023-07-12 |
 | [腐れ縁](https://open.spotify.com/track/42UuJcWxy1uN18JqTBrHjH) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [\#ROOM19](https://open.spotify.com/album/1Hy6QspC6Mt1ho4h0Vs2yX) | 3:34 | 2026-01-14 | 2026-01-21 |
 | [自分の機嫌は自分でとる \(Remix\) \(feat\. あっこゴリラ & CLR\)](https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [あっこゴリラ](https://open.spotify.com/artist/7dwba4b8gRshz45YIE6wJl), [CLR](https://open.spotify.com/artist/7LSARN9w89Cr0AuIturBpH) | [自分の機嫌は自分でとる \(Remix\) \[feat\. あっこゴリラ & CLR\]](https://open.spotify.com/album/1ZrUtalwES4l16sPXXow0G) | 4:22 | 2023-05-09 | 2023-05-17 |
-| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 |  |
+| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 | 2026-09-15 |
 | [自販機の恋](https://open.spotify.com/track/2uyvkc1JKxKZwjG29sZuy9) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [自販機の恋](https://open.spotify.com/album/2QZ0tYoMz86pEtRIbq3zNB) | 4:31 | 2023-08-08 | 2023-08-10 |
 | [舟](https://open.spotify.com/track/1tlte6ejoIblaWzWUOw7aA) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [舟](https://open.spotify.com/album/2Tk1eZ18JkT3AnSz12RYSJ) | 5:50 | 2022-06-16 | 2022-07-22 |
 | [芒に月](https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H) | 6:18 | 2025-06-24 | 2025-10-01 |

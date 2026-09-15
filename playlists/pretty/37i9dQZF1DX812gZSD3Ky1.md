@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: KRIST, ปั๊บ Potato
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,286 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,297 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [The One That Got Away](https://open.spotify.com/track/4ZXYHN8YsbMALXZdGWzKZU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking of The One That Got Away](https://open.spotify.com/album/6WEro8v298l2vOhzUNHYgL) | 3:47 |
 | 75 | [ถ้าเกิด \(If Only\)](https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ถ้าเกิด \(If Only\)](https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv) | 4:24 |
 
-Snapshot ID: `AAAAADtvrZYNDBdjjL+04xmMwts0bw/s`
+Snapshot ID: `AAAAAHV6r+bXNqHrOWHwetGCqN+RBZ7+`

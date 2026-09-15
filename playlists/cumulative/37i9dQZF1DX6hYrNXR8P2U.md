@@ -4,7 +4,7 @@
 
 > El príncipe idiota en portada.
 
-743 songs - 1 day 14 hr 47 min
+745 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-11-29 | 2024-12-21 |
 | [A la Deriva](https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [A La Deriva](https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun) | 6:39 | 2025-12-19 | 2026-06-12 |
 | [A Tu Modo](https://open.spotify.com/track/4gW9sb9atLvjzNA0BUDX71) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [A Tu Modo](https://open.spotify.com/album/1BjksGyN9EwHWXsTm36uzC) | 3:00 | 2024-04-05 | 2024-06-29 |
+| [A veces](https://open.spotify.com/track/3lV27oEi63UpLuCuH4xVAu) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Fuentes Secretas](https://open.spotify.com/album/1V38k86ybrYbItE59SgOEW) | 3:18 | 2026-09-14 |  |
 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 | 2024-10-04 | 2024-10-26 |
 | [ABC](https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TRES CREUS](https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s) | 3:01 | 2024-12-20 | 2025-01-11 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-10-13 | 2024-03-30 |
@@ -232,6 +233,7 @@
 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 | 2025-10-24 |  |
 | [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 | 2025-05-30 | 2025-07-25 |
 | [Es lo que hay](https://open.spotify.com/track/3suGQeun95baBp2Bb4OAyS) | [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [Es lo que hay](https://open.spotify.com/album/1D9tMbIqp3UJSJBBRKFoc4) | 2:39 | 2025-10-24 | 2026-05-02 |
+| [Es Tarde \(Genio\)](https://open.spotify.com/track/5xU0Qv7iWCxVTzhY2t56yg) | [María Volante](https://open.spotify.com/artist/2t3xODO0BCFvpYNjUKI3Gi) | [Es Tarde \(Genio\)](https://open.spotify.com/album/54KPKkP5G8V0l3AVCOJF5s) | 2:46 | 2026-09-14 |  |
 | [Escritorio](https://open.spotify.com/track/2KHd8VEq0o5zODnAxe3XXM) | [sueter7](https://open.spotify.com/artist/3EP7ewKAMlh0asswhgsZt5) | [Todo Salió Bien en la Sencilla Villa Quién](https://open.spotify.com/album/3LNd7eBAZuYUWnspCQGVkv) | 6:38 | 2026-09-11 |  |
 | [Escuché tu voz](https://open.spotify.com/track/4x3du9CZ6ronjcRUV8WVGp) | [Mora Robirosa](https://open.spotify.com/artist/28WzV7jlOuklyRRzH1Keys) | [Escuché tu voz](https://open.spotify.com/album/3yighcYugRkRKuMni8gjPR) | 3:04 | 2025-11-21 |  |
 | [Esencia](https://open.spotify.com/track/5D9xp03T4qzveLrF1NYvnK) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [Esencia](https://open.spotify.com/album/68FCV1qUfcjqFkbzDXtUmO) | 3:26 | 2025-07-25 | 2025-08-01 |

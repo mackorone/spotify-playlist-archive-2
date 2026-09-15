@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: SOYEON\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,423 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,425 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw) | 3:16 |
 | 50 | [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 |
 
-Snapshot ID: `AAAAACmgqGU4W3qboYLrP4va4FZz+30e`
+Snapshot ID: `AAAAAOm68so+WQzwUvs9HVZMrM5puMOR`

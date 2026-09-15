@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,932 likes - 100 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,960 likes - 100 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 3 | [Nsovo Moment \- Live](https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Nsovo Moment \(Live\)](https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc) | 2:58 |
 | 4 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 |
 | 5 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
-| 6 | [Holy Ground \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
+| 6 | [Holy Ground/ Wakwetsima \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
 | 7 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |
 | 8 | [lona baratang ho Phela \(Live\)](https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Hymns and Worship \(Live\)](https://open.spotify.com/album/2d1bYNsfu8mqvARixcuOC0) | 6:21 |
 | 9 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Sihamba ne Qhawe](https://open.spotify.com/track/1BbS7bpQ1NF2SFdMbJazzF) | [Thembinkosi](https://open.spotify.com/artist/4dGmduawBSrQ9HXgud72LS) | [Themba Inkosi](https://open.spotify.com/album/6lgE7OacPfpim1Jlu1AAdb) | 4:57 |
 | 100 | [UKHULUMA OKUHLENGAMI](https://open.spotify.com/track/1s2J65siN4g62ctUjw5674) | [Mxolisi Mbethe](https://open.spotify.com/artist/7xdI72M5WBOcFXxuR0lDhW) | [UKHULUMA OKUHLENGAMI](https://open.spotify.com/album/7n0vhNJDSgCEzxGEqbTiUj) | 3:46 |
 
-Snapshot ID: `AAAAAJ/vdLdEeYUxI8x3LlriHjA1siS2`
+Snapshot ID: `AAAAAE+piqt8MZHrroLijzl/2dpD6Akk`

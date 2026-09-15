@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,240 likes - 275 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,249 likes - 275 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [On Demand](https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO) | [Imani Imani](https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ) | [Papercut](https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf) | 2:41 |
 | 275 | [Find Me](https://open.spotify.com/track/5V589jlf5pbV2CYFeUJyI8) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6) | [Find Me](https://open.spotify.com/album/2bTSoOUmxiM4nm1Ny3aPos) | 3:33 |
 
-Snapshot ID: `AAAAABUDcczoi0nSvUuuoBD0lbnoFRYh`
+Snapshot ID: `AAAAAMe5Xpwi6l5sD7c5f2Km8dRLvafK`

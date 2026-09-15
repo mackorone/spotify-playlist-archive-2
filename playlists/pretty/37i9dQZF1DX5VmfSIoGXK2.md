@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the wonderful sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,979 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,015 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [The Road is Long](https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [The Road is Long](https://open.spotify.com/album/0gHCl3TDVNHxR1FA6FPq5t) | 7:29 |
 | 100 | [rest](https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [rest](https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy) | 4:40 |
 
-Snapshot ID: `AAAAAM6zeotPRTBtgxaLLdvoMBSKLAQ5`
+Snapshot ID: `AAAAACkxIQW2IzVRqo/bmxp8Q7hAEGVo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,268 likes - 37 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,272 likes - 37 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 4 | [Stop Your Tears](https://open.spotify.com/track/5H5fiZ0h9ndRn1IDqYyKRw) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:38 |
 | 5 | [Treasure](https://open.spotify.com/track/1WHoY2uSPpewqUm80q4d68) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:11 |
 | 6 | [Blend](https://open.spotify.com/track/1VJtHbJ5aNXB6fDVWMMxW0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:29 |
-| 7 | [Coats](https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:28 |
+| 7 | [One Stop](https://open.spotify.com/track/04LTubtEypnO64P6S6sP7Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:30 |
 | 8 | [Elitest G.O.A.T\. \- The Prodigy Acid Thunder Mix](https://open.spotify.com/track/0mLrJsaUVhW5iPq59L4otG) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elitest G.O.A.T\. \(The Prodigy Acid Thunder Mix\)](https://open.spotify.com/album/6DrgOf29JN39Qgg26erY75) | 4:30 |
 | 9 | [Titus Groan](https://open.spotify.com/track/4MD3p4I6z0kLqm85Mlyklp) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
 | 10 | [Weight of the Planets](https://open.spotify.com/track/1l5sITewMRl7AVtep3M3XO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:43 |
-| 11 | [One Stop](https://open.spotify.com/track/04LTubtEypnO64P6S6sP7Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:30 |
+| 11 | [Coats](https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:28 |
 | 12 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 13 | [Beast](https://open.spotify.com/track/2SM3Y0wuaxlJM5BpKL3mqp) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 2:40 |
 | 14 | [Fixture Picture](https://open.spotify.com/track/1MZPteit5RISR1rqp6YnnW) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:07 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 16 | [Fever](https://open.spotify.com/track/2wymwkZMbYWNzr1kY69Aze) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 4:17 |
 | 17 | [Titus Alone](https://open.spotify.com/track/4S4BG20TWQtuYmpJLOzVUe) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:17 |
 | 18 | [Zoo Eyes](https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 5:17 |
-| 19 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
+| 19 | [Worms](https://open.spotify.com/track/0I3cVuHuONIPRXZP7Ee14Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:53 |
 | 20 | [Passion Babe](https://open.spotify.com/track/5e5p2Ff9BWKVP6FTuv8JLW) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:33 |
 | 21 | [Hunter](https://open.spotify.com/track/0ALWJPTTsCyhMrXcYolqFO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 4:29 |
 | 22 | [Designer](https://open.spotify.com/track/0q4f6lqhm5E9KVHFn5qGMj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:16 |
-| 23 | [Worms](https://open.spotify.com/track/0I3cVuHuONIPRXZP7Ee14Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:53 |
+| 23 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
 | 24 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
 | 25 | [Living The Classics](https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:44 |
 | 26 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 36 | [Leathery Whip](https://open.spotify.com/track/3o7dptCQLKU20zdkA132ZQ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 4:00 |
 | 37 | [Elation](https://open.spotify.com/track/0TY3pVvegcVfdQ7nzF2KRP) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elation](https://open.spotify.com/album/1lm0XRk446YYNyD8mFgunU) | 5:25 |
 
-Snapshot ID: `aqSWAAAAAABLnUVDB4nDeGlKWDd7lNK/`
+Snapshot ID: `aqXngAAAAAC6V9Y7jb7cPcWX12aoZ54G`

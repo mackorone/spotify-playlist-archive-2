@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental jazz for your softest moments 🐈
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,410 likes - 195 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,436 likes - 195 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 194 | [Now that we are here](https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Now that we are here](https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8) | 2:42 |
 | 195 | [Camellia](https://open.spotify.com/track/2NE2FqCAyKlyM0DUJsLQwf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Camellia](https://open.spotify.com/album/6kEdhkxjtv1kccfbP36l07) | 3:34 |
 
-Snapshot ID: `AAAAAFTcBNeGKG7dg/AMF0j1TN+3dhHR`
+Snapshot ID: `AAAAAA6WbCbtcMPIccbQyINmCDlulkZ/`

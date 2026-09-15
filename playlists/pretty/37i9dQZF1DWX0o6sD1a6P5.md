@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,910 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,999 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Champagne](https://open.spotify.com/track/0IY1yzvNwS83VF8POTKFjE) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Champagne](https://open.spotify.com/album/3RfQ73RyxRtmhnNYMKHKA5) | 2:48 |
 | 50 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 
-Snapshot ID: `AAAAAFtkylNNDKEurhE3CCXavXUM3jyM`
+Snapshot ID: `AAAAAMvSIZ8SbwsKg5mp9NUKLLnYr7em`

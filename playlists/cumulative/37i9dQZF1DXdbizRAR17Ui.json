@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 211830,
       "name": "Kadhalan",
       "url": "https://open.spotify.com/track/5Hgy1fbnRHGqlihV2KjZjE"
@@ -8126,6 +8126,24 @@
       "duration_ms": 161828,
       "name": "think about u",
       "url": "https://open.spotify.com/track/28WgWRhOApboNjM7s5Hl3h"
+    },
+    {
+      "album": {
+        "name": "Think Tomorrow",
+        "url": "https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk"
+      },
+      "artists": [
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280645,
+      "name": "Think Tomorrow",
+      "url": "https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5"
     },
     {
       "album": {

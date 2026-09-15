@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22516,
+  "num_followers": 22515,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADWba0E8fFf2zbLZ/+82DyB",
+  "snapshot_id": "aqXngAAAAAB8I7Yu5IBhOLm8rPQdMxW5",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here For Now",
+        "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Big Love (with EARTHGANG & MNDR)",
+      "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 198626,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here For Now",
-        "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Big Love (with EARTHGANG & MNDR)",
-      "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
     },
     {
       "added_at": null,
@@ -1110,11 +1110,15 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 274558,
-      "name": "FLAVORS OF KARMA",
-      "url": "https://open.spotify.com/track/1mnPd5i99TknL0OQD340yn"
+      "duration_ms": 358913,
+      "name": "DEEP BLUE (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
     },
     {
       "added_at": null,

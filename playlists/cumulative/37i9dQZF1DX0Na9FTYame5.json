@@ -558,7 +558,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 149326,
       "name": "Alles ist geschrieben",
       "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 174745,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
@@ -2702,6 +2702,24 @@
       "duration_ms": 155373,
       "name": "Gezeichnet von dir",
       "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/61jDWf2iogrNLVfIKVFbIP"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/0hE2ICHThRdaBUJPRmjtdH"
     },
     {
       "album": {
@@ -7542,6 +7560,32 @@
       "duration_ms": 178758,
       "name": "War das schon alles",
       "url": "https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT"
+    },
+    {
+      "album": {
+        "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+        "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160056,
+      "name": "WAR NIE WEG (feat. Souly & Blumengarten)",
+      "url": "https://open.spotify.com/track/3O9DrxFz8i0B5aykNQy5le"
     },
     {
       "album": {

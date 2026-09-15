@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,807 songs - 6 day 3 hr 55 min
+2,808 songs - 6 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-09 | 2023-02-11 |
 | [BlimE! \- Den Ene](https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu) | [Selma Ibrahim](https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY) | [BlimE! \- Den Ene](https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR) | 3:21 | 2022-06-19 | 2023-03-22 |
 | [BlimE! \- Ferdig Snakka](https://open.spotify.com/track/7c9gD7aefFGPnVgZke7raf) | [Ane Norum Kvistad](https://open.spotify.com/artist/3is2frns7nVQwNYdaJ5N2N), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Ferdig Snakka](https://open.spotify.com/album/2kGREbqymE3ZbAhErLe8Wh) | 2:20 | 2024-06-17 | 2024-11-20 |
+| [BlimE! \- Her for deg \(Lean álo dás\)](https://open.spotify.com/track/0IUFBsWjKfFqecbhMapFtQ) | [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt), [MÁIJÁ](https://open.spotify.com/artist/6HTvGUAlGTyB376OZwCFcL), [Viljar Natlandsmyr](https://open.spotify.com/artist/58NSqMnzwS8TFouCKNniln) | [BlimE! \- Her for deg \(Lean álo dás\)](https://open.spotify.com/album/7oqAHtLCGEw1x0JFLlTflE) | 3:00 | 2026-09-14 |  |
 | [BlimE! \- Sveve Høyt](https://open.spotify.com/track/7uF90Ykgrs8HTATqOYENzL) | [Martin Lilleberg](https://open.spotify.com/artist/1KYnaTc8Zxc0Ep8VcoSGNG) | [BlimE! \- Sveve Høyt](https://open.spotify.com/album/5wTPKUFEWoafPc1pzbcPn9) | 3:08 | 2023-09-04 | 2023-11-01 |
 | [BlimE! \- Være med](https://open.spotify.com/track/0niveiGYHzcqFQbY6UPh2B) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Agnete Saba](https://open.spotify.com/artist/2PFYSInm0FBZJ2NQudUNHQ), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Være med](https://open.spotify.com/album/005CzVpCCtsaJAukK5aZiM) | 2:41 | 2025-06-16 | 2025-10-05 |
 | [BlimE! – Dynamitt](https://open.spotify.com/track/3xuyh4bAIuN0oIWPMqoXog) | [Nicolay Ramm](https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue) | [BlimE! – Dynamitt](https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL) | 2:49 | 2021-08-20 | 2021-11-30 |
@@ -654,7 +655,7 @@
 | [eg ser deg](https://open.spotify.com/track/2QtRn7ZwO1w5wlmngLgwT7) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/52Eswe56mkWTeoMOWkz941) | 3:07 | 2021-10-23 | 2021-11-14 |
 | [EG VIL BARE DANSE](https://open.spotify.com/track/68UkGt4E8DSiHwg4yCusFQ) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [INSTRUMENT](https://open.spotify.com/album/0rlLiCVMUCxiFqlkSvYE1H) | 2:30 | 2023-06-24 | 2023-07-08 |
 | [Egoland](https://open.spotify.com/track/3rdQWyObsoGvzVUkEqlWS7) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:11 | 2023-04-14 | 2023-05-12 |
-| [EIKELI \(Cape Town\)](https://open.spotify.com/track/5Omcsp2iQB8h5WzAj6ohja) | [Don Dicks](https://open.spotify.com/artist/6t93vbwNn5paKN0pzKJ8Lo), [Benjiz](https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg) | [EIKELI \(Cape Town\)](https://open.spotify.com/album/1a1U9NJ1sMHP8OFJij3ErL) | 1:59 | 2026-09-11 |  |
+| [EIKELI \(Cape Town\)](https://open.spotify.com/track/5Omcsp2iQB8h5WzAj6ohja) | [Don Dicks](https://open.spotify.com/artist/6t93vbwNn5paKN0pzKJ8Lo), [Benjiz](https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg) | [EIKELI \(Cape Town\)](https://open.spotify.com/album/1a1U9NJ1sMHP8OFJij3ErL) | 1:59 | 2026-09-11 | 2026-09-15 |
 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 | 2025-05-10 | 2025-09-02 |
 | [Ekko inni meg](https://open.spotify.com/track/0xbSjXWyD0M1ucTtKHPd2N) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Silke](https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG) | [Ekko inni meg](https://open.spotify.com/album/2Ly8kCvCldHcmyy1YmSaCv) | 2:53 | 2023-01-18 | 2023-03-31 |
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-08-20 |

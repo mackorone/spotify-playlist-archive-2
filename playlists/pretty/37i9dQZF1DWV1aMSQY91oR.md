@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,054 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,063 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 25 | [Built to Last](https://open.spotify.com/track/5XpkbPJfWKnblpgs3FonD6) | [Jay Montana](https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw) | [Built to Last](https://open.spotify.com/album/1chVBPP8FDPUKoqCpA8Wex) | 1:41 |
 | 26 | [Mentors](https://open.spotify.com/track/0tq76UDAQCFTYeBqDlaatw) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Mentors](https://open.spotify.com/album/6XSu1svIgijmSSwSHKwGP1) | 2:40 |
 | 27 | [Spend Dat \(feat\. Lil Baby & Kodak Black\) \- Remix](https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Spend Dat \(Remix\)](https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5) | 3:14 |
-| 28 | [Lower East Side](https://open.spotify.com/track/5zNF0xVXdpSHPLYVUwZOyZ) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [Tona](https://open.spotify.com/artist/784dh5WJzNRoPGKrLTvdv0) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:33 |
+| 28 | [Lower East Side](https://open.spotify.com/track/5zNF0xVXdpSHPLYVUwZOyZ) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:33 |
 | 29 | [No I.D](https://open.spotify.com/track/6WhAsOmXN3lslNUd5LWKIN) | [Prada West](https://open.spotify.com/artist/0EeV9PcEaMsdYUb9iohBHE), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [Pilot Seat EP](https://open.spotify.com/album/36udYrudrFEeMvCxyKTMxt) | 2:38 |
 | 30 | [BASIC AF](https://open.spotify.com/track/3YuOW9WO599gXwTQ3YaSj6) | [JAHSH](https://open.spotify.com/artist/5FbDg0FUDhfrrbOI0SUoTX), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [HIGHER THAN LIFE](https://open.spotify.com/album/38x0GcCer7U4Jc8FfBunAP) | 2:03 |
 | 31 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 | 50 | [Duel](https://open.spotify.com/track/4h4BiwDO8YCawFw6ZaGebb) | [Dillin Hoox](https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0), [Sir Jax](https://open.spotify.com/artist/0QhGyoIiXPdih6B4K6lKNC) | [Duel](https://open.spotify.com/album/2GaOldgOoZ2ZFelSS0rbrn) | 2:12 |
 
-Snapshot ID: `AAAAANiv7YF8iwqyiIOgcYouEholQhS7`
+Snapshot ID: `AAAAAI14BXr7UGaogR88ZdmqC5kDovtj`

@@ -4,11 +4,12 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-136 songs - 6 hr 42 min
+143 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2024-09-04 |  |
+| [AEIOU](https://open.spotify.com/track/6Ygy2plo12TdF66rUjaMML) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:27 | 2026-09-14 |  |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-05-01 |  |
 | [Ash](https://open.spotify.com/track/5o4U0weUIAXolji4sEAnjI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 3:17 | 2025-03-14 |  |
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2023-05-01 |  |
@@ -103,6 +104,12 @@
 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-11 |  |
 | [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0LR3NuYLVcr8pqmxHzLkHT) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/7EsVt6j6nJ6U9JRbJD8OlM) | 3:20 | 2025-07-09 |  |
 | [Liminal Space](https://open.spotify.com/track/5oVTzymB1OsLk3qsEHndYQ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:11 | 2026-05-26 |  |
+| [Made My Night](https://open.spotify.com/track/00MWSPgbYiFSxdxf9rhm2T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night \(feat\. EJAE\)](https://open.spotify.com/album/3q0wBseKToqHQZaIJZldFF) | 2:06 | 2026-09-14 |  |
+| [Made My Night \(feat\. EJAE\)](https://open.spotify.com/track/0HjHqD64xMopPWh440y5QI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Made My Night \(feat\. EJAE\)](https://open.spotify.com/album/3q0wBseKToqHQZaIJZldFF) | 2:07 | 2026-09-14 |  |
+| [Made My Night \- Instrumental](https://open.spotify.com/track/6SdYbnZGkhdaQ8xwc6J3Pz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night \(Remixes\)](https://open.spotify.com/album/7MpNKcq6648oNnFu4QvbiL) | 2:06 | 2026-09-14 |  |
+| [Made My Night \- Karaoke ver.](https://open.spotify.com/track/5BCLpyqDg3aQ8vCtKNdzkJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night \(Remixes\)](https://open.spotify.com/album/7MpNKcq6648oNnFu4QvbiL) | 2:08 | 2026-09-14 |  |
+| [Made My Night \- Slowed + Reverb ver.](https://open.spotify.com/track/0zQIRmFaVcZIlDGaJFCeOH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night \(Remixes\)](https://open.spotify.com/album/7MpNKcq6648oNnFu4QvbiL) | 3:15 | 2026-09-14 |  |
+| [Made My Night \- Sped Up ver.](https://open.spotify.com/track/38svhlIoB8TTpaIHaL03CK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night \(Remixes\)](https://open.spotify.com/album/7MpNKcq6648oNnFu4QvbiL) | 1:34 | 2026-09-14 |  |
 | [Need Your Company](https://open.spotify.com/track/5JDDrQN4rzCOo6UniZEwq0) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 1:58 | 2026-05-26 |  |
 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2023-05-01 |  |
 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2023-05-01 |  |

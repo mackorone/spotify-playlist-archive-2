@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Seth Condrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,627 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,658 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Pescador de Hombres](https://open.spotify.com/track/42oVGGcfwmxOED7935exTo) | [Iossa](https://open.spotify.com/artist/2AczWWagD4DfWLfJVASu5r), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Pescador de Hombres](https://open.spotify.com/album/5ALwZTZTYgd4LEOBAe7UaH) | 5:04 |
 | 100 | [PRÓDIGO](https://open.spotify.com/track/1dmBsQpxrEXf9soCPeRoah) | [Emsy](https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [PRÓDIGO](https://open.spotify.com/album/1v9EFduo7F8IMMTnF2XCPq) | 3:15 |
 
-Snapshot ID: `AAAAAFOWuPYm/mMsTQPPtTKkK8tj3cdD`
+Snapshot ID: `AAAAAFTr1gTe8FwqjNfpae+6KquLJTyJ`

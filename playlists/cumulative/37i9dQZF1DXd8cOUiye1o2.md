@@ -2,7 +2,7 @@
 
 ### [New Music Hindi](https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2)
 
-> Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover: Awarapan 2
+> Celebrate the timeless bond of Siya Ram\. 'Jai Jai Ram' from Ramayana is out\. Listen now.
 
 1,028 songs - 2 day 14 hr 37 min
 

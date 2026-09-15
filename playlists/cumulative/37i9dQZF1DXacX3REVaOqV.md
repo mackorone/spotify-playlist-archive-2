@@ -4,7 +4,7 @@
 
 > The best in house music
 
-855 songs - 2 day 6 hr 35 min
+856 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Medellin](https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Realismo Sucio](https://open.spotify.com/artist/21swBpGjFRwaDqFoaFw27f) | [Medellin](https://open.spotify.com/album/3KWejwbJUbXcTNSm0ro4di) | 3:15 | 2025-12-04 | 2026-07-03 |
 | [Medicine](https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1) | [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Medicine](https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb) | 2:35 | 2022-04-14 | 2024-03-01 |
 | [Mi Casa](https://open.spotify.com/track/43TMaeqLiJnxTzWjlU6sLW) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Kilian Viera](https://open.spotify.com/artist/4zyLmvoAbCvtkAY2efG4Em) | [Mi Casa](https://open.spotify.com/album/0XYcKUadr4cTE8pMu7UcVC) | 3:33 | 2022-07-07 | 2022-07-25 |
-| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 |  |
+| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 | 2026-09-15 |
 | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 | 2024-08-01 | 2025-06-06 |
 | [Midnight Shuffle](https://open.spotify.com/track/4V3axp2qr68IFTsbXzitSs) | [Mauve](https://open.spotify.com/artist/3hvW3ZEkSYNbIAp9P5C0KC) | [State of Mind](https://open.spotify.com/album/7j1TH8kjZ0UqDpzHabv29a) | 6:06 | 2022-04-14 | 2022-07-29 |
 | [Milan \[Magazzini Generali\] \- Full Sax Mix](https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Mauro Capitale](https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc) | [Spaces and Places](https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT) | 5:59 | 2022-12-21 | 2024-06-14 |
@@ -660,6 +660,7 @@
 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 | 2024-02-29 | 2024-09-13 |
 | [Show Me \- Waajeed's Black Messiah Remix](https://open.spotify.com/track/5v1I1uIfemjG5Eq2Vnhuvq) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Show Me \(Waajeed's Black Messiah Remix\)](https://open.spotify.com/album/5vnQM2ODuWCPxwJGbm4irH) | 6:04 | 2022-04-14 | 2022-07-26 |
 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 | 2023-02-02 | 2023-07-15 |
+| [SHU!](https://open.spotify.com/track/4JflT6A4J2dlFDHPexZduE) | [AfroSalto](https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [SHU!](https://open.spotify.com/album/3IDGgfly3cxXQ7cBC7GeXT) | 4:21 | 2026-09-14 |  |
 | [Shut It Down](https://open.spotify.com/track/3JLcmhiMEa0A9i2KBdglsE) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Pietro](https://open.spotify.com/artist/6Siaha9DgQyX23Ph7pTHYG), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Shut It Down](https://open.spotify.com/album/67LUT24xBnb3qT172RtVQy) | 3:22 | 2026-04-09 |  |
 | [SILLAGE](https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [SILLAGE](https://open.spotify.com/album/7KPZHgbUpEH2W8gIb6bOgX) | 3:23 | 2022-10-13 | 2023-04-13 |
 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 | 2026-07-13 |  |

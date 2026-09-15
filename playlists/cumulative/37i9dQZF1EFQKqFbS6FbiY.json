@@ -14415,6 +14415,24 @@
     },
     {
       "album": {
+        "name": "Voz Grossa",
+        "url": "https://open.spotify.com/album/1MrpnclyPrz8jNpuKRsfbw"
+      },
+      "artists": [
+        {
+          "name": "Brunno e Henrique",
+          "url": "https://open.spotify.com/artist/4ua7xGTzJlYKdNqBOfflfJ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150060,
+      "name": "Voz Grossa",
+      "url": "https://open.spotify.com/track/274c2A5Yo9yo1pWDXJ4nUh"
+    },
+    {
+      "album": {
         "name": "Ou\u00e7a e Se Apaixone",
         "url": "https://open.spotify.com/album/6ofMgRyODUmjHz23QTpHwM"
       },

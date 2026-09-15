@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Kaestyle, Yemi Alade, Youg Jonn, Shoday, FOLA and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,111 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,182 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 51 | [Aka Dimma](https://open.spotify.com/track/7ybndf4MzTpR82PWkPkoUT) | [Star Baba Jay](https://open.spotify.com/artist/4x6fGvDyGYKei3Dc3u1MkU) | [Aka Dimma](https://open.spotify.com/album/4OOCtLVPsc9O9TFVDpfPaM) | 3:11 |
 | 52 | [Money Dance](https://open.spotify.com/track/0QPcXR3yncr8DzzUtJw8Yq) | [Coach Kling](https://open.spotify.com/artist/2pyiSqWlMN3iHwe0FAhspB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Money Dance](https://open.spotify.com/album/4Ez6tdQJvLlEnnZ3ngJ73k) | 3:04 |
 
-Snapshot ID: `AAAAAPbd8BByZPrOtp4QwJ2OfKLJ9Zng`
+Snapshot ID: `AAAAAEdqAZRAsY79NmEwAfddv+h1qxhX`

@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-450 songs - 1 day 3 hr 9 min
+451 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3 Hits](https://open.spotify.com/track/0U26MRwONC5IsWyYESBzbp) | [Two\-Man Giant Squid](https://open.spotify.com/artist/5VKm0Y0YdwuMBi4JJdUqmF) | [3 Hits](https://open.spotify.com/album/00sMW1pHBEC3viS3Vem3VI) | 3:56 | 2026-09-03 |  |
 | [A Little Hopeless](https://open.spotify.com/track/4DppE9ZDFTO1mprNv1IzuU) | [Hurley](https://open.spotify.com/artist/7jTp7usaUXhcomOg76GmEd) | [A Little Hopeless](https://open.spotify.com/album/2uVchzUQSHJhaqsAK2c7T0) | 4:41 | 2026-06-09 | 2026-06-20 |
 | [A Message From Your CEO](https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N) | 2:59 | 2026-06-28 | 2026-07-22 |
+| [A Reckless Expenditure](https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [A Reckless Expenditure](https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX) | 1:49 | 2026-09-15 |  |
 | [A Rock and a Hard Place](https://open.spotify.com/track/2aObwORQNwinUbz5oRPR6J) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [A Rock and a Hard Place](https://open.spotify.com/album/6dLoggGzB0wiirJWm1o0se) | 3:38 | 2026-08-21 |  |
 | [A Table Reserved](https://open.spotify.com/track/3LNzCIrA0ONLKuHGmpWlWv) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [A Table Reserved](https://open.spotify.com/album/3iAIcPD14LzkMTXdOzZUTW) | 3:16 | 2025-11-16 | 2025-11-24 |
 | [Accord](https://open.spotify.com/track/4HgfxY9KtyUbs6CDHjkHGo) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Accord](https://open.spotify.com/album/56IwbcuqxG5Zhf2pJvMvQS) | 4:18 | 2026-01-09 | 2026-02-02 |

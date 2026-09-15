@@ -2,13 +2,14 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chang Kiha\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,399 songs - 3 day 12 hr 42 min
+1,400 songs - 3 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-06-26 | 2024-12-20 |
+| ["RBF"](https://open.spotify.com/track/6c1TnJhCNqGo77QjcJLFG2) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [i love u](https://open.spotify.com/album/6UlNuUeJ0j05dkPs1Hpdf4) | 2:34 | 2026-09-14 |  |
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-10 | 2023-01-26 |
 | [\#with\_you](https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag) | [D'avant](https://open.spotify.com/artist/4KIzyH8RDYbO94Qs7tfGRg) | [\#with\_you](https://open.spotify.com/album/764n0TwmT7M4xW9BaOy1cZ) | 2:58 | 2021-12-21 | 2022-07-12 |
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-07 | 2023-07-18 |

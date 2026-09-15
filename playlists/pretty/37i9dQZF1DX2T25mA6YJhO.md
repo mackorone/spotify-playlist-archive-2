@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Interferencias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,777 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,778 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Las Cosas Importantes](https://open.spotify.com/track/0fvnziBggRa9SAPCBbAM4b) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Las Cosas Importantes](https://open.spotify.com/album/3vCHTLcfp0WkxhY8TLTVKo) | 4:46 |
 | 100 | [Fuerza de Gravedad](https://open.spotify.com/track/1rdea9MHR3D6q83pAoDnny) | [Valiente Bosque](https://open.spotify.com/artist/7nCfWqlSX48iksOiwmWjoo) | [Fuerza de Gravedad](https://open.spotify.com/album/4A4tNK3ESwEDsTx6yOAo0T) | 3:27 |
 
-Snapshot ID: `AAAAAD0r+Qtzc35+LN6xXW1ofCbjOMMQ`
+Snapshot ID: `AAAAABNfeiv36lQoLHP8Krbk6DGak/xI`

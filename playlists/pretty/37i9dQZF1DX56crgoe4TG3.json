@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286644,
+  "num_followers": 286658,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1Ul6PDjXgqK2YXNksiBTJfxQqp",
+  "snapshot_id": "AAAAANEXL6X4Gl4eLFFYCpd3J035a1s1",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:18",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The Bluegrass Tribute to Guns n' Roses",
         "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 241786,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Going To California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 250000,
       "name": "Going To California",
       "url": "https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
-        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -603,30 +603,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Those Were the Days",
-        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -651,18 +627,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
         }
       ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -683,6 +667,22 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -835,26 +835,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
       },
       "artists": [
         {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        },
-        {
-          "name": "Paul Brewster",
-          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -891,18 +883,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
       "artists": [
         {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        },
+        {
+          "name": "Paul Brewster",
+          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+      "duration_ms": 228480,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Royals (Bluegrass Cover)",
-        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Grass Players",
-          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
-        }
-      ],
-      "duration_ms": 396714,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Royals (Bluegrass Cover)",
+        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Grass Players",
+          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
+        }
+      ],
+      "duration_ms": 396714,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Wagon Wheel",
-        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 433563,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Go Your Own Way",
         "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 247534,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Simply Bluegrass (Live / Vol. 1)",
         "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 190955,
       "name": "Drivin' Nails In My Coffin - Live",
       "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
       "artists": [
         {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1635,22 +1651,6 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",

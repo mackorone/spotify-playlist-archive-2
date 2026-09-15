@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,571 likes - 147 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,559 likes - 147 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 146 | [Kick in the Shins](https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Kick in the Shins](https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA) | 2:59 |
 | 147 | [Executionary](https://open.spotify.com/track/6y4ks35iWDqWmhOEvtGtFW) | [Shiv and the Carvers](https://open.spotify.com/artist/5FHs2oBdvd7FDLMIQ6ji06) | [Executionary](https://open.spotify.com/album/1ksyF8lQaAyom6S03jo7Mm) | 3:21 |
 
-Snapshot ID: `AAAAAK/gCQLMN8y/tYFG1SncBEn4gAq/`
+Snapshot ID: `AAAAAJ5dn2CQd8ulnTc2czF2ud8C6ycL`

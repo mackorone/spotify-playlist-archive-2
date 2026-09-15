@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 619095,
+  "num_followers": 619172,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAByXuURMmvvQcYaFAKSGAWj",
+  "snapshot_id": "aqXngAAAAAA4aujffveJz+K1l8WqWXpX",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodflowers",
-        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 335746,
-      "name": "The Last Day Of Summer",
-      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Mood Swings",
         "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 212533,
       "name": "Mint Car",
       "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 335746,
+      "name": "The Last Day Of Summer",
+      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
     },
     {
       "added_at": null,

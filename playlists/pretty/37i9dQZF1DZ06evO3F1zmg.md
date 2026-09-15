@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,848 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,850 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/track/19fuLoVyOa6Ok2xWbMpXxH) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Survivor's Guilt](https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea) | 3:21 |
 | 50 | [That's My Bih \(feat\. Saweetie\)](https://open.spotify.com/track/5sNwGj5BktxdHYQjlszwAl) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SIR TOO $HORT, VOL\. 2 \(DRINK & SMOKE\)](https://open.spotify.com/album/5KkGgCCpS0Rz4mVlME9SKK) | 3:28 |
 
-Snapshot ID: `aqSWAAAAAADFzOk5pWWSmjFf9y1i1v8o`
+Snapshot ID: `aqXngAAAAADTqrRX/xtOQSaXb4+dujV1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: My Hair is Bad
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,246 likes - 99 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,253 likes - 99 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 98 | [sagittarius](https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sagittarius](https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h) | 4:30 |
 | 99 | [君と僕のカブで](https://open.spotify.com/track/24sTCcUep5wkItEkDoOyXP) | [打首獄門同好会アコースティック班](https://open.spotify.com/artist/6SHU0ozmOFnKTkXmCEWZxK) | [どうバカ歌唱集](https://open.spotify.com/album/68Hf0a8ORuVkBtukZmsPxG) | 2:25 |
 
-Snapshot ID: `AAAAAFc1cUQR4khbTnCDHjiqeWKpjCSF`
+Snapshot ID: `AAAAAO2qYcG/m4UETLhKWklvu83sRStz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: BLOK3",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: CRUSH",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Benim Olsana",
+        "url": "https://open.spotify.com/album/294VZB9TyHpZnhktpxVQtY"
+      },
+      "artists": [
+        {
+          "name": "CRUSH",
+          "url": "https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Benim Olsana",
+      "url": "https://open.spotify.com/track/5PW7h2o6qYWUmwAultwZdf"
+    },
+    {
+      "album": {
         "name": "Eyvahlar Olsun",
         "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
       },
@@ -1853,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Leyla",
+        "url": "https://open.spotify.com/album/0uKRlJ98D2CIFfnc2W64Q1"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zcan Deniz",
+          "url": "https://open.spotify.com/artist/4VU1nemTk5QFsrclcN8VFl"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286640,
+      "name": "Derin Duygular",
+      "url": "https://open.spotify.com/track/4XejvncERz6fProJFIcFGk"
+    },
+    {
+      "album": {
         "name": "De\u011fi\u015fmene Ra\u011fmen",
         "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
       },
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 160087,
       "name": "GEL GEL GEL",
       "url": "https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR"
@@ -7106,7 +7142,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 154402,
       "name": "\u00dcz\u00fclmedim Ki",
       "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"

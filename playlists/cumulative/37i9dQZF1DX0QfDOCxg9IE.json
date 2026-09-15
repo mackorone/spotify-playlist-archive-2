@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Street Legacy.Vol2",
+        "url": "https://open.spotify.com/album/1cg1Mbp337iu9vm94Wrd8q"
+      },
+      "artists": [
+        {
+          "name": "Mouflon Don",
+          "url": "https://open.spotify.com/artist/7qJCcAOwtbk5u9mjQrdKzo"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Barbershop",
+      "url": "https://open.spotify.com/track/3rn4wJU9iM6BpIhZ5FNjPy"
+    },
+    {
+      "album": {
         "name": "BARCA",
         "url": "https://open.spotify.com/album/23UdcNTBmF2CCX5UjnCVo3"
       },
@@ -3809,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "San Anemos",
+        "url": "https://open.spotify.com/album/0dwway4NMfIJ5kj4QTB2ig"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "De Thelo Na M' Agapisis",
+      "url": "https://open.spotify.com/track/0J8F4ExwtBkL7UVASPyl1P"
+    },
+    {
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -3846,6 +3882,24 @@
       "duration_ms": 173824,
       "name": "Deka San Esena",
       "url": "https://open.spotify.com/track/5JwDWmCpwa8kDniOvipfrn"
+    },
+    {
+      "album": {
+        "name": "DEN",
+        "url": "https://open.spotify.com/album/495Goja8OrBAIaQ31S8geN"
+      },
+      "artists": [
+        {
+          "name": "GXHAN",
+          "url": "https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96007,
+      "name": "DEN",
+      "url": "https://open.spotify.com/track/7kWYN9PFXER8uwVYh4Og8t"
     },
     {
       "album": {
@@ -7345,6 +7399,24 @@
     },
     {
       "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Inopnevma Ftino",
+      "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
+    },
+    {
+      "album": {
         "name": "Iparho (Remastered)",
         "url": "https://open.spotify.com/album/7kIKIBV5ynA1sEeQ8YW0iM"
       },
@@ -7850,7 +7922,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 171827,
       "name": "Kalokairi mou",
       "url": "https://open.spotify.com/track/2vJR9YLKR2HBKulcjAhfvO"
@@ -9164,7 +9236,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 131428,
       "name": "MAGKAS KAI ALITIS",
       "url": "https://open.spotify.com/track/5nG3S4ZF3P26oSfKYq0erY"
@@ -9798,6 +9870,28 @@
       "duration_ms": 235040,
       "name": "Meta",
       "url": "https://open.spotify.com/track/16Vps33AaRvJhEhwOyUbZR"
+    },
+    {
+      "album": {
+        "name": "Metallo",
+        "url": "https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Metallo",
+      "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
     },
     {
       "album": {
@@ -10722,7 +10816,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 220407,
       "name": "Na M' Agapas",
       "url": "https://open.spotify.com/track/61sRwzJeESIxTshJs41OTV"
@@ -13529,6 +13623,28 @@
     },
     {
       "album": {
+        "name": "Savvato",
+        "url": "https://open.spotify.com/album/4AVjT04M3gD4bpF4NRQbQd"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "San Imouna Paidi",
+      "url": "https://open.spotify.com/track/2tNtc5xcZiQhGiy8dZBUzI"
+    },
+    {
+      "album": {
         "name": "Sandre",
         "url": "https://open.spotify.com/album/7EJvATvEOha99lim8HugpM"
       },
@@ -16300,7 +16416,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 97000,
       "name": "Treli",
       "url": "https://open.spotify.com/track/2V9GBPXZnjKnjMxOtDy4TW"
@@ -16682,7 +16798,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 94615,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
@@ -17398,7 +17514,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 157166,
       "name": "XIMEROMA",
       "url": "https://open.spotify.com/track/3VafqbZuWdp6W7UribBHyb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,511,776 likes - 220 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,511,816 likes - 220 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 219 | [toffee creme](https://open.spotify.com/track/66UVUCBg1weSzPWKvAPo1j) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [toffee creme](https://open.spotify.com/album/0uYN0O6Tj5TH2Tot2EwlFa) | 2:07 |
 | 220 | [lonely nights](https://open.spotify.com/track/02oyJrGlvHQ4sf7obYMJJk) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [lonely nights](https://open.spotify.com/album/1jZbrN0GqWFnJ8xZXo5IcC) | 2:03 |
 
-Snapshot ID: `AAAAAD5v8Xg/Ie7wjDWWbGDLqXr4TLPW`
+Snapshot ID: `AAAAAMToV4N6STKtv4Fvh5NQmifjMqR6`

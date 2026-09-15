@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,378 likes - 200 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,321 likes - 200 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Morphine](https://open.spotify.com/track/2QS9W9Y1B8WiUvUFItidSy) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Morphine](https://open.spotify.com/album/35VO8kPyMb88vAZBlZfNkd) | 4:45 |
 | 200 | [She Swear I'm Colorblind \(feat\. billy woods\)](https://open.spotify.com/track/4GrMJgW9WoXWVye8VD5jyn) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [She Swear I'm Colorblind \(feat\. billy woods\)](https://open.spotify.com/album/4g0SbA564obwHfZXiRzaV4) | 3:29 |
 
-Snapshot ID: `AAAAAAq/DTDkJqBM/y2OelneEsbDJ1hW`
+Snapshot ID: `AAAAAAjjO53QzwPSOKXa9u73hRihRAHJ`

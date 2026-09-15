@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,321,995 likes - 100 songs - 5 hr 15 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,322,462 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 |
+| 1 | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih) | 2:22 |
 | 2 | [Missin' U](https://open.spotify.com/track/3AdMdGb2JqQ5I7umlBSw0v) | [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Missin' U](https://open.spotify.com/album/0hWb5kJLm74N1Xb5ieKYyg) | 2:52 |
 | 3 | [Can't Slow Down](https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Can't Slow Down](https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1) | 2:57 |
 | 4 | [Giving U](https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P) | [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Giving U](https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF) | 2:22 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 26 | [This Feelin](https://open.spotify.com/track/02c4ESvsaRingzibOl3732) | [Harry Oliver](https://open.spotify.com/artist/71uUuiyHCG6I6eKvS8YQ9V) | [This Feelin EP](https://open.spotify.com/album/2cUz29nh2FpfPEs02Qpatq) | 2:47 |
 | 27 | [Keep Pushing](https://open.spotify.com/track/1GwKFUz92ToRqHMxqskCyO) | [Beni Hana](https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU) | [Keep Pushing](https://open.spotify.com/album/5cIDsAhKbc3wpJ5uvjFHD3) | 3:29 |
 | 28 | [Technicolor](https://open.spotify.com/track/4ExuwHZRURryhwQ08x8uKU) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Technicolor](https://open.spotify.com/album/2ukHkcVd8qchi8ZS1vCPu8) | 3:44 |
-| 29 | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih) | 2:22 |
+| 29 | [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 |
 | 30 | [When the Feeling Is Gone](https://open.spotify.com/track/5NfXyiFOOApr4DdvGj2wMX) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [When the Feeling Is Gone](https://open.spotify.com/album/3uNFCRskNLz2W8zKBDXxhM) | 2:36 |
 | 31 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 32 | [Imaginary Voyage](https://open.spotify.com/track/26zhoQD32eQRV84iLpD2c5) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Imaginary Voyage / Red Lining](https://open.spotify.com/album/5E2CWc7yXvQK7ZvIQuNwW7) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 |
 | 100 | [Can't Deny \- Kid Fonque Extended Refix](https://open.spotify.com/track/0nu0qhAlNkUs4R9VU55jBG) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Can't Deny \(Kid Fonque Extended Refix\)](https://open.spotify.com/album/6r1Qgybz9NdBDk17yiFWTI) | 7:00 |
 
-Snapshot ID: `AAAR8xBXsauq4WVaEa8Q24ZasYXvMP58`
+Snapshot ID: `AAAR9h2CzxPHI6LS3g5BwqWfYct4Auhn`

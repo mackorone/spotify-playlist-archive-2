@@ -1,12 +1,12 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1449385,
+  "num_followers": 1449352,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsO3UPAo2o3cvHSp3dv9qv4qHNw",
+  "snapshot_id": "AAAAAJP4FRKJxAiQJqDUI648AW30wfnR",
   "tracks": [
     {
       "added_at": "2026-08-28 04:00:52",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Even So",
         "url": "https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 150569,
       "name": "Even So",
       "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Regarde les flammes danser",
-        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 131960,
-      "name": "Regarde les flammes danser",
-      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 147370,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Regarde les flammes danser",
+        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 131960,
+      "name": "Regarde les flammes danser",
+      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "The Pond",
-        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "The Pond",
-      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "The Seventh Wave",
         "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 128088,
       "name": "The Seventh Wave",
       "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "The Pond",
+        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "The Pond",
+      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "From a Distance",
-        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
-      },
-      "artists": [
-        {
-          "name": "Mindy Thurma",
-          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
-        }
-      ],
-      "duration_ms": 147348,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "The Opening",
         "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 140558,
       "name": "The Opening",
       "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "From a Distance",
+        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
+      },
+      "artists": [
+        {
+          "name": "Mindy Thurma",
+          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
+        }
+      ],
+      "duration_ms": 147348,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Letters to the Wind",
         "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 164555,
       "name": "Letters to the Wind",
       "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Making peace",
-        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 143034,
-      "name": "Making peace",
-      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Calolziocorte",
-        "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
-      },
-      "artists": [
-        {
-          "name": "Grazia Bellini",
-          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
-        }
-      ],
-      "duration_ms": 140247,
-      "name": "Calolziocorte",
-      "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Only Illusions",
         "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Calolziocorte",
+        "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
+      },
+      "artists": [
+        {
+          "name": "Grazia Bellini",
+          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
+        }
+      ],
+      "duration_ms": 140247,
+      "name": "Calolziocorte",
+      "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Felt Improvisations",
-        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
-      },
-      "artists": [
-        {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "Felt Improv No. 10",
-      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Autumnal",
         "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 124416,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "A passing season",
-        "url": "https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7"
+        "name": "Armonia",
+        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
       "artists": [
         {
-          "name": "Rowan Guthrie",
-          "url": "https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG"
+          "name": "Elion Veero",
+          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
         }
       ],
-      "duration_ms": 175354,
-      "name": "A passing season",
-      "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
+      "duration_ms": 180830,
+      "name": "Armonia",
+      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Armonia",
-        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
+        "name": "A passing season",
+        "url": "https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7"
       },
       "artists": [
         {
-          "name": "Elion Veero",
-          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
+          "name": "Rowan Guthrie",
+          "url": "https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG"
         }
       ],
-      "duration_ms": 180830,
-      "name": "Armonia",
-      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
+      "duration_ms": 175354,
+      "name": "A passing season",
+      "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "duration_ms": 153301,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
         "name": "It Rained Last Night",
         "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
       },
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Within Reach",
-        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
-      },
-      "artists": [
-        {
-          "name": "Waqar Jachin",
-          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
-        }
-      ],
-      "duration_ms": 153301,
-      "name": "Within Reach",
-      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "The Magic of a Piano",
         "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
       },
@@ -1975,22 +1975,6 @@
       "duration_ms": 167844,
       "name": "The Magic of a Piano",
       "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
-      },
-      "artists": [
-        {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Memoirs",
-      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -2023,6 +2007,22 @@
       "duration_ms": 131250,
       "name": "Caluna",
       "url": "https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Mind Flies",
-        "url": "https://open.spotify.com/album/3IbNI5Q5iV1abpLtkoFySP"
-      },
-      "artists": [
-        {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
-        }
-      ],
-      "duration_ms": 128863,
-      "name": "Mind Flies",
-      "url": "https://open.spotify.com/track/4VaFOmgwngkucqWpGkevYk"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Snow-covered gardens",
         "url": "https://open.spotify.com/album/5Xlzu7o4j2rTV3H2F4aLfF"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 146823,
       "name": "Snow-covered gardens",
       "url": "https://open.spotify.com/track/3DlgODi91SEXoYmgpVSc2U"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Mind Flies",
+        "url": "https://open.spotify.com/album/3IbNI5Q5iV1abpLtkoFySP"
+      },
+      "artists": [
+        {
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+        }
+      ],
+      "duration_ms": 128863,
+      "name": "Mind Flies",
+      "url": "https://open.spotify.com/track/4VaFOmgwngkucqWpGkevYk"
     },
     {
       "added_at": "2026-08-28 04:00:52",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-08-28 04:00:52",
       "album": {
-        "name": "Antique Clock",
-        "url": "https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB"
-      },
-      "artists": [
-        {
-          "name": "Vox Pacis",
-          "url": "https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Antique Clock",
-      "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
-    },
-    {
-      "added_at": "2026-08-28 04:00:52",
-      "album": {
         "name": "Sprout On The Vines",
         "url": "https://open.spotify.com/album/4Ls55yuS7ji7RKyfIDHq4E"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 167142,
       "name": "Sprout On The Vines",
       "url": "https://open.spotify.com/track/0znqwpJAKR7i2xx9TLcXNY"
+    },
+    {
+      "added_at": "2026-08-28 04:00:52",
+      "album": {
+        "name": "Antique Clock",
+        "url": "https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB"
+      },
+      "artists": [
+        {
+          "name": "Vox Pacis",
+          "url": "https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z"
+        }
+      ],
+      "duration_ms": 140190,
+      "name": "Antique Clock",
+      "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
     },
     {
       "added_at": "2026-08-28 04:00:52",

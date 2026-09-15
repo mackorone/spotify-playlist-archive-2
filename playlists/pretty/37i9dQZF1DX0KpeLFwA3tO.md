@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,977 likes - 143 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,956 likes - 143 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 142 | [Who What Where Why](https://open.spotify.com/track/6pLzk6DpmzVQY4EpmU0uD7) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Who What Where Why](https://open.spotify.com/album/5j297HxeLxXygEwZ3vYsel) | 3:17 |
 | 143 | [If You Don't Know](https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [If You Don't Know](https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15) | 3:14 |
 
-Snapshot ID: `AAAAAOmr+LSyDr/nCr9UuBPK5LREQpxw`
+Snapshot ID: `AAAAAMinyfTI/EOJopL6A9ZNz9fMEsxs`

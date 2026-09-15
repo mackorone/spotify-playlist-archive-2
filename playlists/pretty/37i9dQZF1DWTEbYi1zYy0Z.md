@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,382 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,409 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Always \- Radio Version](https://open.spotify.com/track/73PcO9gphwQvjP6mgs7dkM) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Always \(Radio Version\)](https://open.spotify.com/album/1jphI1oDCBNRMExCdiccGL) | 4:11 |
 | 100 | [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 |
 
-Snapshot ID: `AAAAABLsWg9tZ946sFiTbRiDbcqAvpR+`
+Snapshot ID: `AAAAAJn1KsY24RbIyl3NqkQnN3R5Ohdy`

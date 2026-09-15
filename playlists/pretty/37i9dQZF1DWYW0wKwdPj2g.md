@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,058 likes - 99 songs - 14 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,125 likes - 99 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 12 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 |
 | 13 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 14 | [Awesome God \- Live](https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Love Never Fails \(Live\)](https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh) | 4:19 |
-| 15 | [Holy Ground \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
+| 15 | [Holy Ground/ Wakwetsima \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
 | 16 | [Nsovo Moment \- Live](https://open.spotify.com/track/6CvCuC5MNDNnAsufy8sRqr) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Nsovo Moment \(Live\)](https://open.spotify.com/album/4kmuvjCmGtxm62swhicrrc) | 2:58 |
 | 17 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 18 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 98 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 |
 | 99 | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 |
 
-Snapshot ID: `AAAAAGKIu0+zbb4hvx98PkpQxcF2mLJf`
+Snapshot ID: `AAAAAP7MA0pZUgSShoy+JM0p3vZmUJvy`

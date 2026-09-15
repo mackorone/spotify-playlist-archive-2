@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2Y0XnClqugqbVaHhgZIu3x">TOM PIGMENT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,576 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,586 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [wrócisz](https://open.spotify.com/track/3M2O9HDLhkEMyQlj6pqsHd) | [Lollie](https://open.spotify.com/artist/436f7n8DsF6X9sgy4yqY2C), [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D) | [wrócisz](https://open.spotify.com/album/7gcZBB2uqKBcUF0XFwvhzS) | 2:18 |
 | 50 | [Tak łatwo](https://open.spotify.com/track/0filkwRcm6yHpUpEcbmNX0) | [filit](https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4) | [Tak łatwo](https://open.spotify.com/album/6ieh6niewpDnmiezZ39mWb) | 2:49 |
 
-Snapshot ID: `AAAAABzl8o6xxCTxxkSWSHH4Tyk8ROwE`
+Snapshot ID: `AAAAACQMyoEZrYE5cClQlrh8efVZNn7m`

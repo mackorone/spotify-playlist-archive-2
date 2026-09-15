@@ -1,12 +1,12 @@
 {
   "description": "mindful genieten \ud83c\udf31. Cover: Sarah Julia",
-  "num_followers": 98029,
+  "num_followers": 98025,
   "original_name": "Touching Grass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOfZm7ruubnYza0l9R8vleUhjCkv",
+  "snapshot_id": "AAAAACau0lyxIT7CHRb5mh4s1wd8LFgt",
   "tracks": [
     {
       "added_at": "2026-09-10 22:00:09",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -779,8 +779,8 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Chasing Silhouettes",
-        "url": "https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo"
+        "name": "Speak Softly",
+        "url": "https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Chasing Silhouettes",
-      "url": "https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31"
+      "duration_ms": 301000,
+      "name": "Six Missed Calls",
+      "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -843,6 +843,38 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Chasing Silhouettes",
+        "url": "https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Chasing Silhouettes",
+      "url": "https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
       },
@@ -859,22 +891,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Speak Softly",
-        "url": "https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP"
-      },
-      "artists": [
-        {
-          "name": "Lum\u00ef",
-          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Six Missed Calls",
-      "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Seeing You",
         "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 198727,
       "name": "Seeing You",
       "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
-        "name": "Toy Heart",
-        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
-      },
-      "artists": [
-        {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Toy Heart",
-      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
+        "name": "Figure Me Out",
+        "url": "https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb"
+      },
+      "artists": [
+        {
+          "name": "Julia Adriana",
+          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+        }
+      ],
+      "duration_ms": 166949,
+      "name": "Figure Me Out",
+      "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
         "name": "God Loves Weirdos",
         "url": "https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "A Good Run",
         "url": "https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 173141,
       "name": "A Good Run",
       "url": "https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Beauty Land",
-        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 179422,
-      "name": "So Mean",
-      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Nothing Comes Easy",
         "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Figure Me Out",
-        "url": "https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb"
+        "name": "Beauty Land",
+        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
       },
       "artists": [
         {
-          "name": "Julia Adriana",
-          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
         }
       ],
-      "duration_ms": 166949,
-      "name": "Figure Me Out",
-      "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
+      "duration_ms": 179422,
+      "name": "So Mean",
+      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
+        "name": "Walkin' My Cat Named Dog",
+        "url": "https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0"
+      },
+      "artists": [
+        {
+          "name": "Norma Tanega",
+          "url": "https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "I'm the Sky",
+      "url": "https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Walkin' My Cat Named Dog",
-        "url": "https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0"
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO"
       },
       "artists": [
         {
-          "name": "Norma Tanega",
-          "url": "https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP"
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
         }
       ],
-      "duration_ms": 145200,
-      "name": "I'm the Sky",
-      "url": "https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH"
+      "duration_ms": 263307,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO"
-      },
-      "artists": [
-        {
-          "name": "Tessa Rose Jackson",
-          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
-        }
-      ],
-      "duration_ms": 263307,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "In My House / Like A Thorn",
         "url": "https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 183088,
       "name": "In My House",
       "url": "https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "The Next Time We Meet",
+        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
+      },
+      "artists": [
+        {
+          "name": "Coos",
+          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "The Next Time We Meet",
+      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1375,18 +1391,34 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "The Next Time We Meet",
-        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
       },
       "artists": [
         {
-          "name": "Coos",
-          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 183640,
-      "name": "The Next Time We Meet",
-      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "In Between Station",
+        "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "duration_ms": 206083,
+      "name": "In Between Station",
+      "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1419,22 +1451,6 @@
       "duration_ms": 214106,
       "name": "Shape of Tomorrow",
       "url": "https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
-        "name": "In Between Station",
-        "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
-      },
-      "artists": [
-        {
-          "name": "tjels",
-          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
-        }
-      ],
-      "duration_ms": 206083,
-      "name": "In Between Station",
-      "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Constant Distance",
         "url": "https://open.spotify.com/album/1NfdcDaioUmxBBUNfcv6JB"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 216840,
       "name": "Dove or the Devil",
       "url": "https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Wild Mountain Thyme",
+        "url": "https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d"
+      },
+      "artists": [
+        {
+          "name": "Roodnoot",
+          "url": "https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI"
+        }
+      ],
+      "duration_ms": 268778,
+      "name": "Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1619,22 +1635,6 @@
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 274210,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM"
     }
   ],
   "unique_name": "Touching Grass",

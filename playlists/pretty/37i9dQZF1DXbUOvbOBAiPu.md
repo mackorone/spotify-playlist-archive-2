@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from SDM, Hoshi, David Guetta x Hypaton, Rema, Warhaus and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,603 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,598 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 124 | [Long Way](https://open.spotify.com/track/4HoKH47jBH6kiHViWmRPoj) | [Agnès Botty](https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC) | [Long Way](https://open.spotify.com/album/0fZI7w25XKh2aiO3as5Nh2) | 3:27 |
 | 125 | [Heavy Bones](https://open.spotify.com/track/6vgV3GEnGA4SI5ErPZlJ29) | [Tommigun](https://open.spotify.com/artist/4eaD3ickTEDepbGTIvsiLv) | [Heavy Bones](https://open.spotify.com/album/084NP8EnX8zImKm1gHucVe) | 3:29 |
 
-Snapshot ID: `AAAAAJ1/+IqrgpVEpaNLhaoh23ZYCQ9M`
+Snapshot ID: `AAAAAEy9I9wFbULfi9K8P0hXxhuaqjoM`

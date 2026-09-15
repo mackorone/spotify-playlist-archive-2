@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: soap
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,640 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,639 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 98 | [Ora d'aria](https://open.spotify.com/track/4ldjglZiJZLsXbYwy2F4wJ) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Ora d'aria](https://open.spotify.com/album/2VvPKwIsIA9YeERq4ijr1G) | 3:12 |
 | 99 | [Un Bel Casino](https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Un Bel Casino](https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG) | 2:34 |
 
-Snapshot ID: `AAAAAKg1KcMq6+zvBsbPe0NyexhSED3T`
+Snapshot ID: `AAAAAH3DmHWUdGLWocwnh4YxZoiRGklx`

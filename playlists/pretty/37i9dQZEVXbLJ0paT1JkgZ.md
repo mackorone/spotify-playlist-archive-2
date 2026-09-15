@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,138 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,135 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Drácula](https://open.spotify.com/track/4fu9VQyBTx4bCqXJTaP3FG) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq), [Felolaefe](https://open.spotify.com/artist/1d6X8cIaHb05jj6SYoHUjV) | [Dark Fantasy](https://open.spotify.com/album/6V9u1059m3xkfzSvIGf565) | 4:10 |
 | 50 | [Permítame](https://open.spotify.com/track/6OaGIYcVzx5c7aEKkuYS1M) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/2RssN0Md4ZkiNAqzT2FDXc) | 3:04 |
 
-Snapshot ID: `MjobAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MjtsgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

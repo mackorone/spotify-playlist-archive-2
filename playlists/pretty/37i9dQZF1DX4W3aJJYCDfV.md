@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ezra Collective, Rachel Chinouriri, Slayyyter, Unknown T and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,020 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,915 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Afterparty](https://open.spotify.com/track/7JSs7sY3figyf5Vnh9jfMf) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [God Forbid A Girl Has Dreams](https://open.spotify.com/album/0byOmGqOHGUVe6CCGv15Bg) | 3:03 |
 | 101 | [Scam Manifesto](https://open.spotify.com/track/7IhI1EeejN8IbpnObqPO6H) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Scam Manifesto](https://open.spotify.com/album/3XyyFIO41WISWYlyDL1gfA) | 3:21 |
 
-Snapshot ID: `AAAAACg5T4a3WZ2/Nm4wWD8kChUxggzY`
+Snapshot ID: `AAAAADSRp58udQIxMELWqLLRsQyUyk6w`

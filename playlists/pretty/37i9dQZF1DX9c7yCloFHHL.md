@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: aus
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,774 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,839 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Yesterday Today](https://open.spotify.com/track/0nEFohB3ueqw5w2w5w51Xu) | [Jack Wyllie](https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Yesterday Today](https://open.spotify.com/album/2zGjZPcj9bXBzO2u36ajzs) | 3:02 |
 | 100 | [When You're Floating](https://open.spotify.com/track/6S74pju7gb5O1jtlNx1RlE) | [Marcela Le Gal](https://open.spotify.com/artist/7tjzvt6MOgX1033xcYAPtV) | [When You're Floating](https://open.spotify.com/album/6ldv4dYLTbCz6BVaIFKKvb) | 1:32 |
 
-Snapshot ID: `AAAAAN/A7MPgdxmzCzFKQeCbZf1LePRf`
+Snapshot ID: `AAAAAFAt/Afp4b84k4/Y14uYNELMoZ4n`

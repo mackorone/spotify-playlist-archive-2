@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Atif Aslam",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Hania Aamir",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Alfaaz",
+        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Alfaaz",
+      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
+    },
+    {
+      "album": {
         "name": "Alfaazo",
         "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
       },
@@ -1456,6 +1478,32 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "album": {
+        "name": "MADEMEN",
+        "url": "https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W"
+      },
+      "artists": [
+        {
+          "name": "Marshall Ahmad",
+          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "baemisaal",
+      "url": "https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl"
     },
     {
       "album": {
@@ -3642,6 +3690,32 @@
       "duration_ms": 237333,
       "name": "Dil Tu Jaan Tu",
       "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "album": {
+        "name": "Dil | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/2UuTBgTE0qg0DhE7xyrUcZ"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186185,
+      "name": "Dil | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/5qZZiU7CqeLFUPL8afsiSd"
     },
     {
       "album": {
@@ -9517,6 +9591,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz"
+      },
+      "artists": [
+        {
+          "name": "Hania Aamir",
+          "url": "https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko"
+    },
+    {
+      "album": {
         "name": "Pain Killers",
         "url": "https://open.spotify.com/album/3UdTK1KsU5CWp0aqzl1JqZ"
       },
@@ -10728,6 +10820,24 @@
       "duration_ms": 276751,
       "name": "Sachay Waday",
       "url": "https://open.spotify.com/track/5cGc4nuiCNnRVidn8bgzmP"
+    },
+    {
+      "album": {
+        "name": "Sadaayein",
+        "url": "https://open.spotify.com/album/5Ax9kqM4sClgQGx4U6fqU2"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Sadaayein",
+      "url": "https://open.spotify.com/track/1a2mSdWOWMcdXiohlzuo6S"
     },
     {
       "album": {

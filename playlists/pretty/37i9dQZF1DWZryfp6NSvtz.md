@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,750 likes - 165 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,856 likes - 165 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 164 | [MY PRESCRIPTION](https://open.spotify.com/track/3hOGcPM8P6PJfZ2IE6kOpy) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [MY PRESCRIPTION](https://open.spotify.com/album/6bEXc0169lrOiYuK0Q0fPT) | 2:16 |
 | 165 | [Frida](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 3:39 |
 
-Snapshot ID: `AAAAAC/qi3ZOuF9aIGGfDXsdB9rLkSNw`
+Snapshot ID: `AAAAAD3+amoVQGAvO4U1rVU+txS/1x18`

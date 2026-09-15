@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,931 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,264 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
 | 150 | [Race Car Driver](https://open.spotify.com/track/7j9wdLhis4MYplephHszTI) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Science](https://open.spotify.com/album/4uZ9ILuVr2w2vVx4HtgW5n) | 2:33 |
 
-Snapshot ID: `AAAAAEQCKC/w5im3bJ3WPKfw3fWTqhgh`
+Snapshot ID: `AAAAAMfZdaw7TrcvXoeZIG9X59ORPHYZ`

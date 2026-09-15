@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Calibre 50 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,382 likes - 68 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,381 likes - 68 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [Nunca Más Podre Olvidarte](https://open.spotify.com/track/3DndWnPcaJvXUBRzKW4Gmv) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [SUBJETIVO](https://open.spotify.com/album/4PCTH95BjGMBfSXXxbcBOT) | 2:45 |
 | 51 | [Jueves 10](https://open.spotify.com/track/5dcAGr47scJTq3xO7t15f8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Jueves 10 \- EP](https://open.spotify.com/album/45q42PqoUrX4apu9SMFISp) | 4:02 |
 | 52 | [El Centenario](https://open.spotify.com/track/07IkpensmSrVcriwHCCvXx) | [La Banda Que Hacía Falta](https://open.spotify.com/artist/7oXxptWy0UJWRUL665ErYG) | [El Centenario](https://open.spotify.com/album/22jl9N4FVV38IQd8j21Du9) | 2:40 |
-| 53 | [PUTO CORAZON](https://open.spotify.com/track/0XXUy2jhryKLqX1pIIMc76) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [PUTO CORAZON](https://open.spotify.com/album/0WrPf7KK1vjEcUjRsVHeuP) | 2:58 |
+| 53 | [Puto Corazón](https://open.spotify.com/track/0XXUy2jhryKLqX1pIIMc76) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Puto Corazón](https://open.spotify.com/album/0WrPf7KK1vjEcUjRsVHeuP) | 2:58 |
 | 54 | [Mi Amiga y Mi Amante](https://open.spotify.com/track/49VQ6WdUXGUaIC3BOmqcM0) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [SUBJETIVO](https://open.spotify.com/album/4PCTH95BjGMBfSXXxbcBOT) | 3:04 |
 | 55 | [Se Me Bota El Chango](https://open.spotify.com/track/6Opa7VgdQrM79kDYhaME5I) | [Estilo Ideal](https://open.spotify.com/artist/1CK4LPtCzEs1Lyz3O1HM3A), [El Larry y la Clase](https://open.spotify.com/artist/04O4Ispeneittg6F3YSdkz) | [Se Me Bota El Chango](https://open.spotify.com/album/5Divzwkxg3JZfryrlpfVbR) | 2:45 |
 | 56 | [Algo De Mi \- Cover](https://open.spotify.com/track/4t17YQtZkgjUKEnrFya41w) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [Algo De Mi \(Cover\)](https://open.spotify.com/album/1Nn00NOz47JPUODgEdCrVP) | 4:12 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 67 | [Cada Que...](https://open.spotify.com/track/7fAaZB7qCS9uS3yp354LPJ) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Cada Que...](https://open.spotify.com/album/7mLqTrfRivTokyPO5a4Kmz) | 2:48 |
 | 68 | [Flor Imperial](https://open.spotify.com/track/65UNmeSQ1bNcmfvv0nwhu7) | [Manuel Guerrero](https://open.spotify.com/artist/2FH9Ww9Q31sKVTEokwmPcO) | [El Siempre Alegre](https://open.spotify.com/album/48MJ6hiCTAOOhTrWtMnCXM) | 3:13 |
 
-Snapshot ID: `AAAAAF8/QejsINRJc4xmddj9bYGUVHCL`
+Snapshot ID: `AAAAAHq2lBPLQyQNF9a8NLSODKrT0SnV`

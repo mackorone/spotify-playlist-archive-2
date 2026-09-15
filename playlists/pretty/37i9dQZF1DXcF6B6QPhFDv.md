@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. it's alive with Julia Wolf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,165,992 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,165,447 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [Do What's Right \(Happy\)](https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 3:11 |
 | 85 | [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 |
 
-Snapshot ID: `AAAAACYRcsdmBvRsuoz6B7xak2GuSg1e`
+Snapshot ID: `AAAAAFPBs74SPTSHLNAlAA7LqpdZb89f`

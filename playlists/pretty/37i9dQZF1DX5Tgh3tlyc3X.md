@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,563 likes - 95 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,604 likes - 95 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 94 | [Inner Alpha 96.4\-100.8 Hz](https://open.spotify.com/track/6xTcHKa8CUBuRfrC2bsN4t) | [celstia](https://open.spotify.com/artist/1Ty8SzcuNwJd6INcdeZj0R) | [Inner Alpha 96.4\-100.8 Hz](https://open.spotify.com/album/6zvG97ARU2NWYVZOuvr25q) | 2:38 |
 | 95 | [Helios \(Alpha Waves 92.5 \- 98Hz\)](https://open.spotify.com/track/3f8206mnoHnT6wtGeIxWb6) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [Helios \(Alpha Waves 92.5 \- 98Hz\)](https://open.spotify.com/album/01wC1rKIL7694iN9aZmemx) | 2:34 |
 
-Snapshot ID: `AAAAAMaXVkDGAzfbxJrUu2EjXt6o4E5l`
+Snapshot ID: `AAAAANuq3AOuhNPuUVDPKReW7deANeVh`

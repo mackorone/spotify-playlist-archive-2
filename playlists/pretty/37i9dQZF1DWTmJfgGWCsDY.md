@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,586 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,608 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 26 | [Nafosi](https://open.spotify.com/track/5uekF8MmxotvgdB0BvQsRa) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [KIDENSA MC](https://open.spotify.com/artist/7oebmXACL34Zggo6FPb2eX), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ) | [Nafosi](https://open.spotify.com/album/5RFf7upKJHE4ydikrhAuaJ) | 5:14 |
 | 27 | [Toilet](https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8) | [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Toilet](https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD) | 3:48 |
 | 28 | [Last Interview](https://open.spotify.com/track/1x3SmVb5UR7p7plLSQv7cv) | [Munta Dee](https://open.spotify.com/artist/6P2ehN5mPy3wrBQaPUYbv5) | [Last Interview](https://open.spotify.com/album/2gn1o5Gx0rNMX3FZ6DmDK7) | 3:17 |
-| 29 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 |
+| 29 | [Pita Huku](https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Pita Huku](https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR) | 4:56 |
 | 30 | [Wanga](https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wanga](https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx) | 4:04 |
 | 31 | [Gharama](https://open.spotify.com/track/6cn01Swy0waWynPq386WBp) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Gharama](https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz) | 3:31 |
 | 32 | [Alisema Ananipenda](https://open.spotify.com/track/3ojYtb6d8mksXZizPp7koX) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Jb Mabaga](https://open.spotify.com/artist/0krCWwIqylCQnAqHJ2MhAj) | [Alisema Ananipenda](https://open.spotify.com/album/6ZOhQ5ArzHgpHAmWNnp3NQ) | 3:05 |
 | 33 | [TRUST](https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Twende](https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU) | 2:20 |
-| 34 | [Pita Huku](https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Pita Huku](https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR) | 4:56 |
+| 34 | [Ujaulamba](https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Ujaulamba](https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0) | 5:33 |
 | 35 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 |
 | 36 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 |
 | 37 | [Wewe Hapo](https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Mr Blue](https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf) | [Wewe Hapo](https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
 | 75 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
 
-Snapshot ID: `AAAAAGl04JDRojza2dI9gdZrsHxgEAYP`
+Snapshot ID: `AAAAAJkHD4/yNWf347IwUB0Bw1VIwvmO`

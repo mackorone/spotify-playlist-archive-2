@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Young Jonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,029 likes - 65 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,034 likes - 65 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 64 | [Kokareku](https://open.spotify.com/track/1GWIPbj3cqvtK7yWMq2F9o) | [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kokareku](https://open.spotify.com/album/5QaJDPZpKXsqM7ZG40npIl) | 4:19 |
 | 65 | [I’ll Be There \(For You\)](https://open.spotify.com/track/3XkJJI9V76H803dnf9PAaA) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Under The Sun](https://open.spotify.com/album/4JgbPlF06nOTO03mSBSgtq) | 4:43 |
 
-Snapshot ID: `AAAAAN1qEMb/IuAhK6dU2sIyJOHMuw9Z`
+Snapshot ID: `AAAAAKdxDuVNj6RsKWh4HBrp36j3CRim`

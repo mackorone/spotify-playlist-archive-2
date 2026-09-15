@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167025,
+  "num_followers": 167026,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAu+9vvOVEs26bA/IjgT7Do",
+  "snapshot_id": "aqXngAAAAAD1YZ+VA4yStwa2xtS6YVXq",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata da GG, Vol. 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
       },
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165157,
+      "name": "JOGO PERIGOSO",
+      "url": "https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arrasta",
         "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 152727,
       "name": "Arrasta",
       "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165157,
-      "name": "JOGO PERIGOSO",
-      "url": "https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt"
     },
     {
       "added_at": null,

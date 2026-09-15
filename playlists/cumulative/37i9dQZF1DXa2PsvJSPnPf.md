@@ -2,7 +2,7 @@
 
 ### [Front Porch](https://open.spotify.com/playlist/37i9dQZF1DXa2PsvJSPnPf)
 
-> Sweet sounds and welcoming vibes—come on in and stay for a while
+> Sweet sounds and welcoming vibes
 
 269 songs - 16 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 
 > Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,433 likes - 61 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,602 likes - 62 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 | 54 | [Hasta La Vista](https://open.spotify.com/track/4GT4VzIm00IL3bjMm2mqxu) | [Jimmi Felix](https://open.spotify.com/artist/5rhJ1PNBk8c1Vk9iJpH64J), [Vasudha](https://open.spotify.com/artist/5M8svy0VwhcEt2lEdZklBG) | [Camp Rock: Around the World](https://open.spotify.com/album/3w2PFf6HoNU83zUw6566uv) | 2:33 |
 | 55 | [Etre moi](https://open.spotify.com/track/7tH1YS2fQ1fHUNeGrku4p3) | [Sheryne](https://open.spotify.com/artist/0ox3IOtH9d4X2i7U8S3QzI) | [Camp Rock: Around the World](https://open.spotify.com/album/3w2PFf6HoNU83zUw6566uv) | 3:05 |
 | 56 | [We Rock](https://open.spotify.com/track/1Tul06dOueO5fcTscqugqa) | [Aasma](https://open.spotify.com/artist/1A34RM3ZRE7Nd7LOsXIIjn), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Camp Rock: Around the World](https://open.spotify.com/album/3w2PFf6HoNU83zUw6566uv) | 3:13 |
-| 57 | [One Beat Away \(Guitar Version\)](https://open.spotify.com/track/0F2pr1I37fMzyqEwoHapDo) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [One Beat Away \(From "Camp Rock 3"\)](https://open.spotify.com/album/6fAkVdmBqkHFiZ9OYSJ7wC) | 3:49 |
-| 58 | [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 |
-| 59 | [This Is Me](https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:46 |
-| 60 | [Play It My Way \(Guitar Version\)](https://open.spotify.com/track/2FqsCqtnDJZxot0PpUcOtD) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Play It My Way \(From "Camp Rock 3"\)](https://open.spotify.com/album/4cCL4cjPg1D26Q9XM9xRGk) | 4:04 |
-| 61 | [Introducing Me](https://open.spotify.com/track/5ZpVxxdGVnxTctwSo7uXlO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:21 |
+| 57 | [Get Ready \(Guitar Version\)](https://open.spotify.com/track/5SQtZN2fhy96gQSYVHatfT) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Get Ready \(From "Camp Rock 3"\)](https://open.spotify.com/album/5CLdtYWFuvjLopeAw7ERQR) | 3:11 |
+| 58 | [One Beat Away \(Guitar Version\)](https://open.spotify.com/track/0F2pr1I37fMzyqEwoHapDo) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [One Beat Away \(From "Camp Rock 3"\)](https://open.spotify.com/album/6fAkVdmBqkHFiZ9OYSJ7wC) | 3:49 |
+| 59 | [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 |
+| 60 | [This Is Me](https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:46 |
+| 61 | [Play It My Way \(Guitar Version\)](https://open.spotify.com/track/2FqsCqtnDJZxot0PpUcOtD) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Play It My Way \(From "Camp Rock 3"\)](https://open.spotify.com/album/4cCL4cjPg1D26Q9XM9xRGk) | 4:04 |
+| 62 | [Introducing Me](https://open.spotify.com/track/5ZpVxxdGVnxTctwSo7uXlO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:21 |
 
-Snapshot ID: `AAAAADMxDHuNLrwtDnhYJrgkFHOiYBLu`
+Snapshot ID: `AAAAAFUNnz56rTqAL9nBjSKTQ0KOZJse`

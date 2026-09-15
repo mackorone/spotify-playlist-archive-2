@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 24299,
+  "num_followers": 24300,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSQrSUER67AVH0ZgsR5ZV7miuN5",
+  "snapshot_id": "AAAAAIBLF9tEUBDCwvNDcs3Vr9pyUfh5",
   "tracks": [
     {
       "added_at": "2026-02-17 14:09:55",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "You\u2019re Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "You\u2019re Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "It Had To be You... The Great American Songbook",
         "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 256822,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -423,6 +407,22 @@
       "duration_ms": 315893,
       "name": "Limbo Jazz",
       "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 277720,
       "name": "Witch Craft",
       "url": "https://open.spotify.com/track/5c8oYApmLXrs4Ef4U32ldy"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "A Lot of Livin' to Do",
         "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225520,
       "name": "Won't You Be My Neighbor",
       "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2026-02-17 14:09:55",

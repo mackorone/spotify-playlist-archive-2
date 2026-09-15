@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 80745,
       "name": "Commande musicale",
       "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
@@ -92,6 +92,24 @@
       "duration_ms": 119608,
       "name": "Famille musicale",
       "url": "https://open.spotify.com/track/7dDVVGqsYL3rgZvD9IRZ75"
+    },
+    {
+      "album": {
+        "name": "Musique de notre temps (1976-1977)",
+        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77708,
+      "name": "Installation en concert",
+      "url": "https://open.spotify.com/track/4R4o4RnaauscXNVuR7CIsF"
     },
     {
       "album": {

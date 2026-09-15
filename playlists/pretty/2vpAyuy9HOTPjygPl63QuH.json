@@ -1,12 +1,12 @@
 {
   "description": "only the best tech house &amp; house music",
-  "num_followers": 16226,
+  "num_followers": 16223,
   "original_name": "tech house heaters",
   "owner": {
     "name": "tech house heaters",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAol4x+ew6MAC+mhaplICI5fnNM48eG",
+  "snapshot_id": "AAAomqBBlLhtjVG2hFyfmt7Pk7xvUE9j",
   "tracks": [
     {
       "added_at": "2026-09-13 23:02:45",
@@ -391,6 +391,54 @@
       "duration_ms": 393070,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/1RLF5ujkyrvyBFm2dubdvZ"
+    },
+    {
+      "added_at": "2026-09-14 06:50:59",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/2fvMZfG6VrZ947BY15dVha"
+      },
+      "artists": [
+        {
+          "name": "Ammo Avenue",
+          "url": "https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn"
+        }
+      ],
+      "duration_ms": 212769,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/4XhJWiFFCgmAjEVRYjrWvV"
+    },
+    {
+      "added_at": "2026-09-14 06:51:18",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj"
+    },
+    {
+      "added_at": "2026-09-14 06:51:29",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0KdBgyXMeku6jt6tVkgPhi"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Zeller",
+          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1byzNphM9BQUAX0Qzjk14D"
     }
   ],
   "unique_name": "tech house heaters",

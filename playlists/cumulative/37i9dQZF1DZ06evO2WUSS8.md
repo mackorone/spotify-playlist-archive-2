@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-182 songs - 11 hr 42 min
+183 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Olofoofo](https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB) | 4:13 | 2021-12-28 |  |
 | [Omije](https://open.spotify.com/track/66nZxjiOXRNRu4PziSyf7A) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 7:30 | 2022-06-26 | 2023-03-04 |
 | [Omon Oba](https://open.spotify.com/track/2E85UM4qvRKVuYDwEfFif3) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Zeynab](https://open.spotify.com/artist/2ScoYKTSZKfxruoIl8wgG8), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:03 | 2021-12-28 | 2024-11-08 |
-| [On sera là \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [On sera là \(feat\. Angélique Kidjo\)](https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8) | 2:56 | 2025-03-23 |  |
+| [On sera là \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/1hWCAkCHNWpNHyUb96ZInF) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Élus de Dieu 2](https://open.spotify.com/album/30RfjTsK6cpAD9fGnpQEJS) | 2:56 | 2026-09-15 |  |
+| [On sera là \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [On sera là \(feat\. Angélique Kidjo\)](https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8) | 2:56 | 2025-03-23 | 2026-09-15 |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-12-28 | 2026-03-13 |
 | [One Africa \(Indépendance Cha\-Cha\)](https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:19 | 2021-12-28 | 2022-10-13 |
 | [Out Of Africa](https://open.spotify.com/track/2AsieG1DqPvaWrcDmVeNvz) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [ÕŸÖ](https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX) | 3:08 | 2022-04-07 | 2022-10-11 |

@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 144000,
       "name": "3 FORES",
       "url": "https://open.spotify.com/track/07BGGf3ZRVI7deiQMv3kW2"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "A$$AP",
       "url": "https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 156992,
       "name": "APROVEITAR",
       "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
@@ -39713,6 +39713,24 @@
     },
     {
       "album": {
+        "name": "Mou Leipeis",
+        "url": "https://open.spotify.com/album/0XdNttHRfSX645o1hivDcX"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269026,
+      "name": "Mou Leipeis",
+      "url": "https://open.spotify.com/track/3pm4f3A7SUyBllj2LvvGZ2"
+    },
+    {
+      "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
       },
@@ -44376,7 +44394,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 197250,
       "name": "Paidi Tis Nixtas",
       "url": "https://open.spotify.com/track/1pgHTgifpQN35pO1dWhJ9W"
@@ -45284,7 +45302,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 163422,
       "name": "PARAPANO",
       "url": "https://open.spotify.com/track/5pq1eF1UTIXzUHjDVbv32f"
@@ -58151,6 +58169,28 @@
     },
     {
       "album": {
+        "name": "Best",
+        "url": "https://open.spotify.com/album/5FR5TjGF1rJGr0bXnIqbIa"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Goin' Through",
+          "url": "https://open.spotify.com/artist/5QAp0ErwctTK9NhY9F0TuU"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258959,
+      "name": "Thelo Na Gyriso",
+      "url": "https://open.spotify.com/track/4cFR2teyX5ruLaIsC1InGw"
+    },
+    {
+      "album": {
         "name": "The Duets",
         "url": "https://open.spotify.com/album/670ix1c6rtyaqRjUdRUQLK"
       },
@@ -58166,7 +58206,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 259160,
       "name": "Thelo Na Gyriso (feat. Giorgos Mazonakis)",
       "url": "https://open.spotify.com/track/1qeTn4M8h8IJpyVz9mfJDK"
@@ -64653,7 +64693,7 @@
         },
         {
           "name": "EVA",
-          "url": "https://open.spotify.com/artist/7oaqojN06zvnQkl9NCmcG2"
+          "url": "https://open.spotify.com/artist/4T0tY83Ejj5CVfrx4ofrQJ"
         },
         {
           "name": "Beyond",
@@ -64662,7 +64702,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 172161,
       "name": "YAMAS",
       "url": "https://open.spotify.com/track/7gDcMIJpUEgVU9uLcQttTE"
@@ -65154,7 +65194,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 189586,
       "name": "Zilevo",
       "url": "https://open.spotify.com/track/0szmijpnvC2vy9fZtET0Fd"

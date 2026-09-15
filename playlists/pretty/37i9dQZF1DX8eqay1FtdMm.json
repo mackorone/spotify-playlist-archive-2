@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: D.O.) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 414189,
+  "num_followers": 414188,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIl6hvtI2EN4giOlD38QwT7mjSZN",
+  "snapshot_id": "AAAAABl9d6ZTUWeSbinGXXCJy75jtlAp",
   "tracks": [
     {
       "added_at": "2026-09-09 09:43:53",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "\ucc98\uc74c\ucc98\ub7fc",
         "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Summer, I",
-        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
       "artists": [
         {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 180000,
-      "name": "i love LOVE",
-      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -551,6 +535,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Summer, I",
+        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "i love LOVE",
+      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Aching",
-      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221786,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Aching",
+      "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 203746,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\ubbf8\uc6cc\uc694 I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "\ubbf8\uc6cc\uc694 I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "Not a Dream",
         "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 252000,
       "name": "Not a Dream",
       "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "WAW",
-        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Where Are We Now",
-      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
         "name": "To live",
         "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 231520,
       "name": "To live",
       "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1363,6 +1347,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
       "artists": [
         {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1543,6 +1527,22 @@
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1575,6 +1575,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2026-09-09 09:43:53",
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2026-09-09 09:43:53",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+        "name": "My Dearest (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+      "duration_ms": 222013,
+      "name": "Unforgettable Love",
+      "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
     },
     {
       "added_at": "2026-09-09 09:43:53",
@@ -1643,22 +1659,6 @@
       "duration_ms": 198547,
       "name": "Haze",
       "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
-    },
-    {
-      "added_at": "2026-09-09 09:43:53",
-      "album": {
-        "name": "My Dearest (Original Television Soundtrack), Pt.5",
-        "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
-      },
-      "artists": [
-        {
-          "name": "YANG YO SEOP",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Unforgettable Love",
-      "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
     },
     {
       "added_at": "2026-09-09 09:43:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,441 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,429 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 41 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
 | 42 | [Evil Is Contagious](https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Evil Is Contagious](https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ) | 3:16 |
 | 43 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 |
-| 44 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
-| 45 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
+| 44 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
+| 45 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
 | 46 | [King Kong](https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [King Kong](https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E) | 3:26 |
 | 47 | [Highs and Lows](https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld) | 3:43 |
 | 48 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
 | 49 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 50 | [Good For Me](https://open.spotify.com/track/1OAMZ1AV5y6DHI5kzP0L3V) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Good For Me](https://open.spotify.com/album/4eQhubbT1QHzrBqAynOWhq) | 2:54 |
 | 51 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
-| 52 | [Vodka Soda](https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Vodka Soda](https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X) | 3:13 |
-| 53 | [Teeth](https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Teeth](https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV) | 2:44 |
+| 52 | [Teeth](https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Teeth](https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV) | 2:44 |
+| 53 | [Vodka Soda](https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Vodka Soda](https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X) | 3:13 |
 | 54 | [Live Laugh Toaster Bath](https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Live Laugh Toaster Bath](https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp) | 2:22 |
 | 55 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
 | 56 | [Hard Call](https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hard Call](https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy) | 3:10 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 63 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
 | 64 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume III\)](https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex) | 3:53 |
 | 65 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
-| 66 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
-| 67 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
+| 66 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
+| 67 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
 | 68 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 |
 | 69 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 70 | [FAKE FEELINGS](https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5) | [all in ur head](https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd) | [FAKE FEELINGS](https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF) | 3:05 |
-| 71 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
-| 72 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
+| 71 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
+| 72 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
 | 73 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
 | 74 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
 | 75 | [All In](https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Burnout \(Deluxe\)](https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 99 | [Not The Doctor \- 'Mile End Kicks' \- Music Inspired by the Motion Picture](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 |
 | 100 | [Enchanted](https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON) | [For When You Can't Breathe](https://open.spotify.com/artist/0dsmktuBoYwdNHvyhrbQ2J), [Lil Used](https://open.spotify.com/artist/5Y22XMM6JdOn9Saxox9uHw) | [Enchanted](https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP) | 5:39 |
 
-Snapshot ID: `AAAAAPaLuON1KwWHlHC9DcaxVf7U+vFG`
+Snapshot ID: `AAAAAPY5KsbF0eKU7oPyPw3VTAW5/JcK`

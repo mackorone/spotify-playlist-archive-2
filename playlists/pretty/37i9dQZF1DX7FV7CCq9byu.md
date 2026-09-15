@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,337 likes - 119 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,327 likes - 119 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gul & Blå](https://open.spotify.com/track/7LvWt2SYsaj6p3e1ebSZzV) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Gul & Blå](https://open.spotify.com/album/4hJ8rC0GSt9kDREUjoTany) | 3:53 |
-| 2 | [Azalea](https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Azalea](https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W) | 3:25 |
-| 3 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
+| 2 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
+| 3 | [Azalea](https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Azalea](https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W) | 3:25 |
 | 4 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
-| 5 | [Ta din tid](https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Ta din tid](https://open.spotify.com/album/6kkxMkX5NRa9q9EKZA6vRH) | 3:16 |
-| 6 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
-| 7 | [Spelar ingen roll](https://open.spotify.com/track/7dFXWf9HmHs1gwJtEPR6AT) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Spelar ingen roll](https://open.spotify.com/album/5MVCHhQDS4pQf7DMCJu3Lb) | 3:05 |
-| 8 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
+| 5 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
+| 6 | [Ta din tid](https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Ta din tid](https://open.spotify.com/album/6kkxMkX5NRa9q9EKZA6vRH) | 3:16 |
+| 7 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
+| 8 | [Spelar ingen roll](https://open.spotify.com/track/7dFXWf9HmHs1gwJtEPR6AT) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Spelar ingen roll](https://open.spotify.com/album/5MVCHhQDS4pQf7DMCJu3Lb) | 3:05 |
 | 9 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
-| 10 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
-| 11 | [Skrattar när det åskar](https://open.spotify.com/track/2xrp5wNGydjTmVWuV76beV) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/2Tmvd1TjxBVtSDwNc9CeAe) | 2:12 |
-| 12 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
-| 13 | [500 Days of Summer](https://open.spotify.com/track/3bJWhKhSMWSRJt17yoG10j) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [500 Days of Summer](https://open.spotify.com/album/6TvWRBXb4Jagodxh3sO5IR) | 2:54 |
-| 14 | [Identitet](https://open.spotify.com/track/2yXUOc1P7OjP2nNG4Woes2) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Identitet](https://open.spotify.com/album/0tDKhUwbLVB701ffrbiOGW) | 2:48 |
+| 10 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
+| 11 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
+| 12 | [Skrattar när det åskar](https://open.spotify.com/track/2xrp5wNGydjTmVWuV76beV) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/2Tmvd1TjxBVtSDwNc9CeAe) | 2:12 |
+| 13 | [Identitet](https://open.spotify.com/track/2yXUOc1P7OjP2nNG4Woes2) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Identitet](https://open.spotify.com/album/0tDKhUwbLVB701ffrbiOGW) | 2:48 |
+| 14 | [500 Days of Summer](https://open.spotify.com/track/3bJWhKhSMWSRJt17yoG10j) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [500 Days of Summer](https://open.spotify.com/album/6TvWRBXb4Jagodxh3sO5IR) | 2:54 |
 | 15 | [Alien](https://open.spotify.com/track/1Tsr6x9gUkkggXgLRtnO0f) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Alien](https://open.spotify.com/album/1WeMx6SIhFCKkjSG2kVxVR) | 2:36 |
 | 16 | [Röda ögon](https://open.spotify.com/track/0ZLoZEfcxFugTtoRuwGvqh) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Röda ögon](https://open.spotify.com/album/3RH5cwYhw1PCr9ZRr4I0QZ) | 2:45 |
 | 17 | [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 118 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 119 | [being alive](https://open.spotify.com/track/0HpfpgmT2m3E0bcGkuVcVY) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [being alive](https://open.spotify.com/album/3qmNSIjIhVx9jBnzgpP64R) | 3:54 |
 
-Snapshot ID: `AAAAAFMH72lINl6AO7HDFpAmAiR+/ZFT`
+Snapshot ID: `AAAAAOZvIKbVDvRpJThu9uBif/Tgnjkd`

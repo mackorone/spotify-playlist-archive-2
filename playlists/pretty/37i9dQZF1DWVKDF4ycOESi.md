@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Marracash e Guè,  BLANCO, Geolier e Achille Lauro, prima stanza a destra e Angelica Bove, Elisa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,745 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,732 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 79 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
 | 80 | [Fading](https://open.spotify.com/track/3sLPnC46uqYwcDdHUaL4FH) | [LATERNO](https://open.spotify.com/artist/7bODBxqi1Tdqy8LbrRPUYZ) | [Briefly](https://open.spotify.com/album/0pkAiElcfwqtQDXSFXFovj) | 3:10 |
 
-Snapshot ID: `AAAAAOcqxo/XS+5K3odQGq7ohCHC8DZ6`
+Snapshot ID: `AAAAAHnlkdtPF3TqOQfE/K4B1lxRN+D6`

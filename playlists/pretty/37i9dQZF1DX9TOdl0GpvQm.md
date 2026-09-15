@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,014 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,072 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 20 | [Aura](https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Priests Of Hiroshima](https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu) | 2:41 |
 | 21 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
 | 22 | [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 |
-| 23 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
-| 24 | [Last Stop](https://open.spotify.com/track/0M4MoTsbSmk7tGwjjkyhUm) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Visitation](https://open.spotify.com/album/6Md4ZtTqxVqyh5cQAquplB) | 3:34 |
-| 25 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
+| 23 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
+| 24 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
+| 25 | [Last Stop](https://open.spotify.com/track/0M4MoTsbSmk7tGwjjkyhUm) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Visitation](https://open.spotify.com/album/6Md4ZtTqxVqyh5cQAquplB) | 3:34 |
 | 26 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 27 | [I Am Made Of Chalk](https://open.spotify.com/track/0N55UFtSgaNqJz1VQufTTP) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 3:07 |
 | 28 | [Still Life](https://open.spotify.com/track/6nMej5H3w4NmKynmLGfV2X) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 4:53 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 46 | [Track Of The Cat](https://open.spotify.com/track/26Z4ZAQqjy2B3d1WrTVbiL) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Dark Island](https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ) | 4:13 |
 | 47 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
 | 48 | [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 |
-| 49 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
-| 50 | [Wichura](https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS) | [Wiktor Stribog](https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs) | [Lutym](https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E) | 1:04 |
-| 51 | [Eyelash](https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Micropop](https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k) | 0:31 |
+| 49 | [Wichura](https://open.spotify.com/track/7jGbk1aqBDpMfrKfQxkoeS) | [Wiktor Stribog](https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs) | [Lutym](https://open.spotify.com/album/3BwPg7e9WTtoyj1xAel39E) | 1:04 |
+| 50 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
+| 51 | [Half Past Midnight](https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz) | [Slasher Dave](https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp) | [Tomb of Horror](https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr) | 4:01 |
 | 52 | [Libra Sunrise](https://open.spotify.com/track/0TaGZcPrNl0ewkCgdjF7wt) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:33 |
-| 53 | [Half Past Midnight](https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz) | [Slasher Dave](https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp) | [Tomb of Horror](https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr) | 4:01 |
+| 53 | [Eyelash](https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Micropop](https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k) | 0:31 |
 | 54 | [Ivory Tower II](https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG) | [Blod Besvimelse](https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk) | [Geleit ins Totenreich](https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK) | 3:20 |
 | 55 | [Peepshow](https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Dark Island](https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ) | 3:28 |
 | 56 | [Dark Garden](https://open.spotify.com/track/3oeK81D5H41qpRq6vp7lZY) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 99 | [Los Diablos de Ocumichu](https://open.spotify.com/track/53uL92e74ph06Lk295SmVt) | [Las Ánimas del Cuarto Obscuro](https://open.spotify.com/artist/7eZfC6FlTUeBsVRIGopJJ0) | [Las Ánimas](https://open.spotify.com/album/0jnBchHt1NOAYhs6Vu6ltP) | 2:05 |
 | 100 | [New Dimensions In](https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Study Series 02: Cycles and Seasons](https://open.spotify.com/album/3aveIyfZNhiUTOO1618y0T) | 4:02 |
 
-Snapshot ID: `AAAAAG0wWUlBor7iRHe0fmrSWiHrDi+X`
+Snapshot ID: `AAAAALHRdzuStQvyPFRqnu9uePRm3Q+w`

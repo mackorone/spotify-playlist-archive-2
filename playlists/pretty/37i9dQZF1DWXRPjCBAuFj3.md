@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> È il momento dei dieci anni di Santeria e siamo già così all'ippodromo 🐎🐎🐎
+> Dieci anni di Santeria 🐎🐎🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,236 likes - 107 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,235 likes - 107 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 106 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
 | 107 | [LAVAPIATTI](https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP) | 2:03 |
 
-Snapshot ID: `AAAAAPAHb0Oc16BPWoOmdyQtBPQ1+JVG`
+Snapshot ID: `AAAAAPxBdEX4kgIjcb/aB3P0h18bdnkm`

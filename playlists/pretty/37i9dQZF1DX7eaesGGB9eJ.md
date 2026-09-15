@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,563 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,664 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 24 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 25 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
 | 26 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
-| 27 | [La Vida Es un Rap](https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [La Ultima y Me Voy](https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS) | 3:51 |
+| 27 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
 | 28 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
-| 29 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
+| 29 | [La Vida Es un Rap](https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [La Ultima y Me Voy](https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS) | 3:51 |
 | 30 | [El Juego De La Vida](https://open.spotify.com/track/6oYf94congSsVFk0rnzAyi) | [Dyablo](https://open.spotify.com/artist/7eU5CvFPPiqSqnKiNmZNy7), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [Tattoo Ink](https://open.spotify.com/artist/5LV3lhUmy78NqTd18z943J), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Los Soldados](https://open.spotify.com/artist/68nr1Frui8Av2C8QXa0Z6n), [Mr\. Sancho](https://open.spotify.com/artist/4tSvkaLfya4H6Lf1LBwqzc), [C\-4](https://open.spotify.com/artist/67pafnH8RmmaUgKbXgLRGu), [Ghettomain & Pride](https://open.spotify.com/artist/4VVv4xjknAGii3ZIzWn2Pj), [KDC](https://open.spotify.com/artist/5caJ4jP84rqxI8JJzW8kK0), [Spanky Loco](https://open.spotify.com/artist/1k3e4JvpJQFxuhI8ZRuwh4), [Conejo](https://open.spotify.com/artist/3cIVmhYdLBP5KjI2KqwBSe), [Sangre Mala](https://open.spotify.com/artist/6bXfCfzIZgeoflEGvAsYZi), [Brown Boy](https://open.spotify.com/artist/0Ug6OsFk2B0mLvXrpmpRs6) | [Southwest Hustlers](https://open.spotify.com/album/4utWZTryXASMr29Y5FA1uk) | 5:00 |
 | 31 | [Latino](https://open.spotify.com/track/7t4rIjeixySolatxQ336g9) | [Reyes Del Pulmon](https://open.spotify.com/artist/7sEXB3F1A0SF58LvJNJIfw) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 4:29 |
 | 32 | [La Noche de los Poetas Muertos \(feat\. Lirika Inverza\)](https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv), [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Demencia](https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Como, Cuando y Donde](https://open.spotify.com/track/0nDMe9fzaxuzGUfwnFgeWT) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa \(International Version\)](https://open.spotify.com/album/6xwo7OlLx9OqM5CAlDaYpT) | 4:18 |
 | 50 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 |
 
-Snapshot ID: `AAAAAMaVIDLny+5BgvS4ejKoFtR26i7v`
+Snapshot ID: `AAAAAM68hGqjlVu6r4y77IAn1qQMNY5f`

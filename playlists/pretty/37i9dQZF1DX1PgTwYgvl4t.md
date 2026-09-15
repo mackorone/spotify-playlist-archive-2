@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,447 likes - 114 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,543 likes - 114 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 113 | [Ever Faithful God](https://open.spotify.com/track/7jLRsIo8ujGkyY34t9w9kS) | [Dr Ugonma](https://open.spotify.com/artist/1ezWgINGP5TC8PIOm0pSJc) | [Ever Faithful God](https://open.spotify.com/album/11th21bqmbuI7nYOQw415R) | 10:21 |
 | 114 | [Beautiful One](https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Beautiful One](https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd) | 5:29 |
 
-Snapshot ID: `AAAAAAerwQryNeHlwWv+iLc2+ZIbjI4n`
+Snapshot ID: `AAAAAPtJ78ll6XHNNNa3ZeKGixCq3+s+`

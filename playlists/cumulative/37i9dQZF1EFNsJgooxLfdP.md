@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 8 hr 11 min
+138 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [It's a Celebration Every Time It Snows](https://open.spotify.com/track/5ZeCeE78uPgNKOrHISLVN4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:56 | 2026-04-08 |  |
 | [Jaguar](https://open.spotify.com/track/6mnnWzRl1C6LABvoUar9tF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:31 | 2023-12-30 |  |
 | [Juke Joint Love](https://open.spotify.com/track/2O7uT2VtjHhV0EvKYSxI5Y) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:03 | 2023-12-30 | 2024-09-13 |
-| [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 | 2023-12-30 |  |
+| [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2B0oByLU7mo8pOVgi9WhpY) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Drogas](https://open.spotify.com/album/7w4KDcKXJ5qDERK0cGq1Yv) | 7:10 | 2026-09-14 |  |
+| [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 | 2023-12-30 | 2026-09-15 |
 | [Knew Better / Forever Boy](https://open.spotify.com/track/212ecIiQ47VqrOLRTwXaMB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:59 | 2023-12-30 |  |
 | [Lay Down Your Weapons](https://open.spotify.com/track/2w6I2yONriX6WzHib25zMk) | [K Koke](https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Lay Down Your Weapons](https://open.spotify.com/album/2W7HyCndYpIXMlz6DrywV2) | 3:44 | 2023-12-30 |  |
 | [Lean on Me](https://open.spotify.com/track/7gCNtJeohlyZu80aHGu1Wz) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [No Genre 2](https://open.spotify.com/album/76cB74tvU9m5tqNOjUe6Ti) | 3:52 | 2023-12-30 | 2024-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Charlie Jeer & Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,488 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,489 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [Warrior](https://open.spotify.com/track/7LPkr2n6OnUW2qPOOmVh9C) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Warrior](https://open.spotify.com/album/1d9naeoDcHGup2oWXDdPu0) | 4:55 |
 | 80 | [Like I Need Water](https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Like I Need Water](https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca) | 3:03 |
 
-Snapshot ID: `AAAAAA3JnrMjAZMgccsYpVvmqBNmoz1C`
+Snapshot ID: `AAAAAOj7bSUsx0lFiOcdaf5weXSuwnZp`

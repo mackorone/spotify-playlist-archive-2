@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Langa Mavuso
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,794 likes - 95 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,839 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 94 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 |
 | 95 | [Mangibona Wena](https://open.spotify.com/track/4tsZyrzMjg17NoQQtrqojq) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Mangibona Wena](https://open.spotify.com/album/3LopGgCBqT5oOiATRsWMsh) | 3:50 |
 
-Snapshot ID: `AAAAAE74ozZHa0t8s01TF6mfMwBDwDeR`
+Snapshot ID: `AAAAAFqCYUdHMfoTSvTmBnvgnNC4peZA`

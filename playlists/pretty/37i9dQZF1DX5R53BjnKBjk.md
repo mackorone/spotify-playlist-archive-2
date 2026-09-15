@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camargo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,452 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,466 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 49 | [eyes](https://open.spotify.com/track/6Dqp3yGMW9Ieenpra36Quz) | [Erro Coração](https://open.spotify.com/artist/128k4zZvKWQ43qw2KJsNKA) | [eyes](https://open.spotify.com/album/6zdZyXRycmRScvnimJkSNj) | 3:18 |
 | 50 | [No Lugar](https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0) | [Maia](https://open.spotify.com/artist/4lU6ZXW6wDgV02U4aPMU9u) | [No Lugar](https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz) | 3:07 |
 
-Snapshot ID: `AAAAANZYOL3t1gxKRpHNp2pYWb7/ZIxS`
+Snapshot ID: `AAAAADIXVi1E35TpwpkA2++FdPcvVTtX`

@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtGv6v7v6B.md) - [plain]
 | 26 | [Timeless](https://open.spotify.com/track/5PmjT8x26jERLBQCosakI7) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 4:03 |
 | 27 | [Satan Meets Satin](https://open.spotify.com/track/681cdfM3pxJwRI0WYfwVS4) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 0:50 |
 
-Snapshot ID: `AAAAANnB4nbBMI0ceCkahG8b6mmcVtxI`
+Snapshot ID: `AAAAAOQzLMAwWN7hUE4gXTcfF1OtXiOV`

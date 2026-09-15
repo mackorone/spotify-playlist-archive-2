@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Fuentes Secretas",
+        "url": "https://open.spotify.com/album/1V38k86ybrYbItE59SgOEW"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "A veces",
+      "url": "https://open.spotify.com/track/3lV27oEi63UpLuCuH4xVAu"
+    },
+    {
+      "album": {
         "name": "A.T.A",
         "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
       },
@@ -4418,6 +4436,24 @@
       "duration_ms": 159035,
       "name": "Es lo que hay",
       "url": "https://open.spotify.com/track/3suGQeun95baBp2Bb4OAyS"
+    },
+    {
+      "album": {
+        "name": "Es Tarde (Genio)",
+        "url": "https://open.spotify.com/album/54KPKkP5G8V0l3AVCOJF5s"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Volante",
+          "url": "https://open.spotify.com/artist/2t3xODO0BCFvpYNjUKI3Gi"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Es Tarde (Genio)",
+      "url": "https://open.spotify.com/track/5xU0Qv7iWCxVTzhY2t56yg"
     },
     {
       "album": {

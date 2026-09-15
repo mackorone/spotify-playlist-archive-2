@@ -8605,6 +8605,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/45RySrc4bC7PzuqSeVLzAi"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "ARCTURA",
+          "url": "https://open.spotify.com/artist/0mBnq6ex1s5r5O1TmJ8oTN"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/50ANz85LHdZuL75bmlInED"
+    },
+    {
+      "album": {
         "name": "Fire In Your Eyes",
         "url": "https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W"
       },

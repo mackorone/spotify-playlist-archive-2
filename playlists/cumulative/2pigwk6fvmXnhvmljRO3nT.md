@@ -4,7 +4,7 @@
 
 > 
 
-8,854 songs - 22 day 12 hr 44 min
+8,855 songs - 22 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5983,6 +5983,7 @@
 | [Smoke Break\-Dance \- feat\. JID](https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:55 | 2025-01-04 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/1oERlssLrpssCAY6Yqqs6c) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 3:17 | 2024-12-10 |  |
 | [Smoking on my Ex Pack](https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:23 | 2025-01-15 |  |
+| [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:54 | 2026-09-15 |  |
 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 | 2025-01-04 |  |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2025-03-17 |  |
 | [SMUCKERS \(feat\. Lil Wayne & Kanye West\)](https://open.spotify.com/track/3v6SdZsS8zR6Go257tldbB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Cherry Bomb + Instrumentals](https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3) | 5:34 | 2025-01-15 |  |
@@ -8799,7 +8800,7 @@
 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 | 2024-12-10 |  |
 | [정](https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:50 | 2025-01-15 |  |
 | [제자리 걸음](https://open.spotify.com/track/6Pt7YQuTWwSo07fgWEWSh5) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 3:38 | 2025-01-03 |  |
-| [조금씩 아주 조금씩](https://open.spotify.com/track/1I2FQg7ki1sySmsN8lKqpw) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Destitute](https://open.spotify.com/album/5n7H2BKGE34RggAeZOFbin) | 4:33 | 2025-01-15 |  |
+| [조금씩 아주 조금씩](https://open.spotify.com/track/1I2FQg7ki1sySmsN8lKqpw) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Destitute](https://open.spotify.com/album/5n7H2BKGE34RggAeZOFbin) | 4:33 | 2025-01-15 | 2026-09-15 |
 | [존재의 이유](https://open.spotify.com/track/5LTFgJuwUgyNf2GgThRLJ8) | [김종환](https://open.spotify.com/artist/5ky1ZkKrouT7zSsbzNwTEg) | [베스트 모음](https://open.spotify.com/album/2fdy2BPOhaZRoS1gLlV0Bq) | 4:44 | 2025-01-15 |  |
 | [좋다고 말해](https://open.spotify.com/track/5xuVcWfj8QTeRLRSKyQOyi) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET \[Hidden Track\] \- 좋다고 말해](https://open.spotify.com/album/7HmRBmSOe6e6dSY1js88Yi) | 3:21 | 2024-12-28 |  |
 | [좋아좋아](https://open.spotify.com/track/0760VTI083g99L3xkjoKTE) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:05 | 2025-01-15 |  |
@@ -8844,7 +8845,7 @@
 | [해변의 여인](https://open.spotify.com/track/7ooiLvcsicpzjYIc4Du9ln) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Summer Story](https://open.spotify.com/album/2EK5Pb5fdO4i4vLeGBNLIq) | 3:42 | 2024-12-14 |  |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2025-01-16 | 2025-06-17 |
 | [해에게서 소년에게](https://open.spotify.com/track/0e80LLUhluHfn81Td92BYP) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [Lazenca \- A Space Rock Opera](https://open.spotify.com/album/5TqFlAC3Pg07EsKG8q6UWo) | 5:07 | 2025-01-04 |  |
-| [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 | 2025-06-03 |  |
+| [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 | 2025-06-03 | 2026-09-15 |
 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 | 2025-01-04 |  |
 | [헤어진 다음날](https://open.spotify.com/track/4dOFJ1hz6Vj30X9caTkHyt) | [이현우](https://open.spotify.com/artist/2DimdRiX2pOzm7Gvd7keNd) | [2005 Lee Hyun Woo Diary](https://open.spotify.com/album/5NHaa8KtxsUVXnwtailFS6) | 4:46 | 2025-01-15 |  |
 | [혜성](https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [혜성](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) | 3:14 | 2025-01-15 |  |

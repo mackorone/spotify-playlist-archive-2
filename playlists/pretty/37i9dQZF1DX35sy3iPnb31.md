@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,594 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,602 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 17 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
 | 18 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
 | 19 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
-| 20 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
-| 21 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
+| 20 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
+| 21 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
 | 22 | [losing](https://open.spotify.com/track/035L1su4sn0wZmoD5rdtos) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [losing](https://open.spotify.com/album/7sw3EMPHHFXLSR6gPzkDTx) | 2:51 |
 | 23 | [You Found Her](https://open.spotify.com/track/5JSyd3ormliZCoveePc63H) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Under the Same Sky](https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS) | 2:41 |
 | 24 | [Devotion](https://open.spotify.com/track/6fCBYfnfa2e2SllY8mJSGe) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Across the Pond](https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz) | 3:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Preacherman](https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Preacherman](https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn) | 2:12 |
 | 35 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
 | 36 | [Painting After Painting](https://open.spotify.com/track/1mICnDWtVBpyMVGSejVXvy) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/2amcMNcWelpgn4KjHNXiQc) | 3:48 |
-| 37 | [Outside Is Nice](https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [This Feels Electric](https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv) | 2:00 |
-| 38 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
+| 37 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
+| 38 | [Outside Is Nice](https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [This Feels Electric](https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv) | 2:00 |
 | 39 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
 | 40 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
 | 41 | [Sugar, Butter, Elbow Grease](https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r) | [Leah Jane](https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN) | [Sugar, Butter, Elbow Grease](https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z) | 3:30 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 44 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
 | 45 | [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 |
 | 46 | [One Step](https://open.spotify.com/track/5w0nQUeBCgWK1LS4tHdUP4) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [One Step](https://open.spotify.com/album/3nnEX2YyDsbzI9gCtsylma) | 2:04 |
-| 47 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |
-| 48 | [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 |
+| 47 | [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 |
+| 48 | [what doesn't kill me](https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [what doesn't kill me](https://open.spotify.com/album/7ni1bB5wcYkJ94Mb4zfysr) | 3:57 |
 | 49 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 50 | [Goldmine](https://open.spotify.com/track/7p8mo1LlK73GzZtUGlYGvd) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Sunna](https://open.spotify.com/album/6ydEzBduSvCvKIho2NumU2) | 3:14 |
 
-Snapshot ID: `AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff`
+Snapshot ID: `AAAAADIFNvP3THIFuAIYLdV1nC0y7m2l`

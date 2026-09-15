@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Adam si Eva",
+        "url": "https://open.spotify.com/album/31az9DfSJ39DqZ8fycv8Rb"
+      },
+      "artists": [
+        {
+          "name": "Sorinel Pustiu",
+          "url": "https://open.spotify.com/artist/2D0PmICj8cPJCN2KwdaFda"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Adam si Eva",
+      "url": "https://open.spotify.com/track/3ekGBSPyEOcr72kkzGykS7"
+    },
+    {
+      "album": {
         "name": "Ador, Ador",
         "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 132892,
       "name": "Aladam",
       "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
@@ -412,6 +430,24 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "IDCASH",
+        "url": "https://open.spotify.com/album/2zukLJzpwHRvFCYetUv5nc"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194036,
+      "name": "almighty",
+      "url": "https://open.spotify.com/track/1seXkjaHiwDzL8A0wBE7ad"
     },
     {
       "album": {
@@ -1906,7 +1942,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 140869,
       "name": "CARAIBE",
       "url": "https://open.spotify.com/track/25aZ8v8QmMRHQFrpG5BftI"
@@ -5854,7 +5890,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 185495,
       "name": "Lost In Istanbul",
       "url": "https://open.spotify.com/track/1x7jRbINza3lRzD9k7AdZ2"
@@ -6390,6 +6426,24 @@
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
+        "name": "M-am Trezit Aici",
+        "url": "https://open.spotify.com/album/1sLlpst1Nd6yQE8see9X89"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "M-am Trezit Aici",
+      "url": "https://open.spotify.com/track/3F6ysAAtQroeGmfWCVUVzL"
     },
     {
       "album": {
@@ -7701,6 +7755,24 @@
     },
     {
       "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
+    },
+    {
+      "album": {
         "name": "Ochii astia verzi",
         "url": "https://open.spotify.com/album/4zMEH6d5Hi3lyq27qU5pkM"
       },
@@ -9005,6 +9077,28 @@
     },
     {
       "album": {
+        "name": "SHDOOBIE (Studio Session #08)",
+        "url": "https://open.spotify.com/album/2X1EZSqFCAjVVfK4xP38Rl"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "SEEK TV",
+          "url": "https://open.spotify.com/artist/3pwuTwTIBJjyHzzn2AHCRv"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124074,
+      "name": "SHDOOBIE - Studio Session #08",
+      "url": "https://open.spotify.com/track/19JjDjSWfZhW7pRs3soR40"
+    },
+    {
+      "album": {
         "name": "Reggae Gold 2008",
         "url": "https://open.spotify.com/album/3GWkEWyR2VYVRodMfcPxbD"
       },
@@ -9853,6 +9947,24 @@
     },
     {
       "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Talking Body",
+      "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
+    },
+    {
+      "album": {
         "name": "In Heat (2023 Remaster)",
         "url": "https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg"
       },
@@ -10344,7 +10456,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 220937,
       "name": "Training Season (Live from the Royal Albert Hall)",
       "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG"
@@ -11574,7 +11686,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 139687,
       "name": "\u0218tiu ce vrea",
       "url": "https://open.spotify.com/track/45hU35nsO2MS8coV6qN4ns"

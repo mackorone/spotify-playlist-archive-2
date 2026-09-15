@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 
 > Australian songs our editors want to put on your radar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,858 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,860 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 | 12 | [Desire to Stay](https://open.spotify.com/track/3MoQIOQUBsas2JbaRXpkdG) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:48 |
 | 13 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 |
 | 14 | [Let It Grow](https://open.spotify.com/track/58r5N0kqOp5Vs23PMNKfBh) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 4:44 |
-| 15 | [Pity Party](https://open.spotify.com/track/6VzmfD1P4vgeUNFlF3Y1cK) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [Pity Party](https://open.spotify.com/album/5rrWetyHlHlGdNSHY8maDG) | 2:32 |
+| 15 | [Pity Party](https://open.spotify.com/track/6VzmfD1P4vgeUNFlF3Y1cK) | [Pania](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [Pity Party](https://open.spotify.com/album/5rrWetyHlHlGdNSHY8maDG) | 2:32 |
 | 16 | [More of You](https://open.spotify.com/track/0chp8IMadByVPHjKbK2Kou) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 4:13 |
 | 17 | [WASSA](https://open.spotify.com/track/6reEdmcBdSF25INkPSOeQ4) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Formation Boyz](https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm) | [VARVIE WORLD](https://open.spotify.com/album/5SfPi8CFzgVotVJUW4GQMJ) | 3:22 |
 | 18 | [this very thing](https://open.spotify.com/track/2mHYbzthICugqXiR5132My) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [my body's my true north](https://open.spotify.com/album/5Cgg0QtxnEPks5Sga40kb9) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 | 74 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 75 | [PETRICHOR](https://open.spotify.com/track/45fzl7rJevEFLE2o593L3J) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [PETRICHOR](https://open.spotify.com/album/4Y1UJNAsHI09B5QydkcSYf) | 3:48 |
 
-Snapshot ID: `AAAAALpsyukTzGG+bBmlVl3BJ82jz7aB`
+Snapshot ID: `AAAAACQK0wmagIeqp2nfHGvmMypngMas`

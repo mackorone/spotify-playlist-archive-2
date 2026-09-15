@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 172543,
+  "num_followers": 172593,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQWdxcNb2XX4l0bJE4WJD7LbaGY",
+  "snapshot_id": "AAAAAJl5G03gtaHV6QgeiSD4NpDNnm2T",
   "tracks": [
     {
       "added_at": "2026-06-17 07:46:41",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Van Goes Tot Purmerend",
         "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 201363,
       "name": "Van Goes Tot Purmerend",
       "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Gevangenis",
-        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 164305,
-      "name": "Gevangenis",
-      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Jij Liet Me Vallen",
         "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 218040,
       "name": "Jij Liet Me Vallen",
       "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Gevangenis",
+        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 164305,
+      "name": "Gevangenis",
+      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Bon Gepakt",
         "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Zij Weet Het (Studio Versie)",
+        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "Zij Weet Het - Studio Versie",
+      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Zij Weet Het (Studio Versie)",
-        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "Zij Weet Het - Studio Versie",
-      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Liever Te Dik In De Kist",
-        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Liever Te Dik In De Kist",
-      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "GAP",
         "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 131270,
       "name": "GAP",
       "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Liever Te Dik In De Kist",
+        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "'n Koffer Vol Met Dromen",
-        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "De Woonboot",
-      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vlinders Van De Nacht",
         "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "'n Koffer Vol Met Dromen",
+        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "De Woonboot",
+      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "In Elk Stadje",
-        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "In Elk Stadje",
-      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 201786,
       "name": "Kom Allemaal Maar In Mijn Armen",
       "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "In Elk Stadje",
+        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "In Elk Stadje",
+      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Maak Me Nou Niet Gek",
-        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 136133,
-      "name": "Maak Me Nou Niet Gek",
-      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "'n Rondje van mij",
         "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 219533,
       "name": "Laat ze maar lullen",
       "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 136133,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z"
     },
     {
       "added_at": "2026-06-17 07:46:41",

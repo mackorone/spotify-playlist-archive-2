@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Cameron Whitcomb & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,829 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,024 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Flip Side](https://open.spotify.com/track/2DZCnwzOR9S7r7n0oGqGAc) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [Flip Side](https://open.spotify.com/album/0uDZT87RUjaSsQR5LXXPSM) | 2:23 |
 | 100 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
 
-Snapshot ID: `AAAAAEI5/Pd5wrhnNXS9rBPrabPTV1GF`
+Snapshot ID: `AAAAAA+BZ5G8/jtDXU/LvsfGFM1Zt/Va`

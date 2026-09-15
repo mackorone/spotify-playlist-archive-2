@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,243 likes - 100 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,331 likes - 100 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 4 | [Hallelujah Jesu](https://open.spotify.com/track/4hB0gEeorkLNIKEIsQsbf9) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Hallelujah Jesu](https://open.spotify.com/album/5pr7pUeUGcfr4IqHJJAZAu) | 16:00 |
 | 5 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 6 | [Nginguthandiwe](https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Nginguthandiwe](https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR) | 6:19 |
-| 7 | [Holy Ground \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
+| 7 | [Holy Ground/ Wakwetsima \- Live](https://open.spotify.com/track/4XxJCiK1tNsR7YxECqrsYQ) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [The Revival \(Live\)](https://open.spotify.com/album/1d4THaTiX6HC6P3vQyGqUa) | 10:55 |
 | 8 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |
 | 9 | [Bamba Mzalwane \- Live](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 | 10 | [O a Ntwanela](https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG), [Mapula Phaho](https://open.spotify.com/artist/4YPCvpnbif4gubfTUCCK8K) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 9:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Uphakeme \(Ngcwele Ngcwele\) \[feat\. Nuri\]](https://open.spotify.com/track/1rCtd414DIuzx8XqWzEmZ8) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt), [Nuri](https://open.spotify.com/artist/5oSkPEVFq2AQnJPVgFgdv5) | [Uphakeme \(Ngcwele Ngcwele\) \[feat\. Nuri\]](https://open.spotify.com/album/4mOPL8z2w94xB9rTFrsFNO) | 5:06 |
 | 100 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 |
 
-Snapshot ID: `AAAAAEMbThG2Jy8iSCX/H7D3GWxN8mAG`
+Snapshot ID: `AAAAAGUKNiIy2Nrr9r8Pakw+TbEfJsVg`

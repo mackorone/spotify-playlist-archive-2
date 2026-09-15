@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Calin & CA$HANOVA BULHAR
+> 50 nejžhavějších hitů v České republice\. Cover: ADÉLA
 
-258 songs - 12 hr 33 min
+259 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [FANCY](https://open.spotify.com/track/6RXu4x7xRO1CpJbHCjguET) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [FANCY](https://open.spotify.com/album/4SCeI1CpSjYAwyyQ6nhr6Q) | 2:52 | 2025-05-19 | 2026-02-04 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-07-22 | 2025-01-21 |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 | 2026-05-20 |
+| [FURT PYTLE](https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw) | [Sanchez22](https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO), [Press Premium](https://open.spotify.com/artist/68idhuiqaTHiK9lKXTq469) | [FURT PYTLE](https://open.spotify.com/album/2Sn1G0zNN5lP16voDi1qW0) | 2:37 | 2026-09-14 |  |
 | [Gambit](https://open.spotify.com/track/2CK7yTPUmfxCl3eZjasHe1) | [Lil Buca Near](https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1) | [Gambit](https://open.spotify.com/album/6QuyJZ11hFvR1VnweDNhwM) | 2:45 | 2025-09-10 | 2025-10-28 |
 | [Get Low](https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 3:23 | 2024-07-15 | 2024-11-26 |
 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 | 2024-10-14 | 2025-05-20 |
@@ -142,7 +143,7 @@
 | [MMA](https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [ZVÍŘE](https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf) | 3:04 | 2024-07-01 | 2025-06-17 |
 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 | 2024-07-01 | 2025-09-23 |
 | [moonlight](https://open.spotify.com/track/73b9g7mz0PGG7NrwZm9xly) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [moonlight](https://open.spotify.com/album/11YiuP5u4DIIzrUWj61VDG) | 3:03 | 2024-07-01 | 2024-11-13 |
-| [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 | 2026-08-24 |  |
+| [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 | 2026-08-24 | 2026-09-15 |
 | [Mě Nedostanou](https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Mě Nedostanou](https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v) | 2:33 | 2025-04-07 | 2026-02-04 |
 | [Můj sport](https://open.spotify.com/track/7x6uQ4wMbxEn6mjGzfNCvg) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Můj sport / Klenot](https://open.spotify.com/album/1lawAF7gDuMHRLjj7IMPf3) | 3:15 | 2026-01-19 | 2026-02-24 |
 | [Na ostří nože](https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Singles & Specials](https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E) | 3:43 | 2025-05-29 | 2026-07-02 |

@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1012628,
+  "num_followers": 1012579,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5TeaqRHml35U61jXvhYIiH8jbq",
+  "snapshot_id": "AAAAAMmroB7c6ClGlPE3j5ra37PhrVtz",
   "tracks": [
     {
       "added_at": "2026-03-23 14:42:41",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "On The Inside",
-        "url": "https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K"
+        "name": "Humans",
+        "url": "https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
+      "duration_ms": 251690,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Humans",
-        "url": "https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi"
+        "name": "On The Inside",
+        "url": "https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
         }
       ],
-      "duration_ms": 251690,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
+      "duration_ms": 223733,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -432,7 +432,7 @@
       "added_at": "2026-03-23 14:42:41",
       "album": {
         "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/0RfH6t48tvRKQE2bTclNAW"
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
       "artists": [
         {
@@ -442,7 +442,7 @@
       ],
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/1cZms2JMepRbzrg3AG3eb8"
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Tarika Blue",
+        "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
+      },
+      "artists": [
+        {
+          "name": "Tarika Blue",
+          "url": "https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Dreamflower",
+      "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Bewilderment",
         "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 177882,
       "name": "By The Lake",
       "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Tarika Blue",
-        "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
-      },
-      "artists": [
-        {
-          "name": "Tarika Blue",
-          "url": "https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Dreamflower",
-      "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 210266,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 396157,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204100,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 396157,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
-      },
-      "artists": [
-        {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
-        }
-      ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Pleasure Is Everything",
         "url": "https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 167231,
       "name": "Cold Paris Vogue",
       "url": "https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Hang Up the Lights",
         "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 205821,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Rockie",
         "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 130063,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Hypnotherapy",
-        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 205821,
-      "name": "Hypnotherapy",
-      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "What\u2019s In The Tea?",
-        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
-      },
-      "artists": [
-        {
-          "name": "Calimossa",
-          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "What\u2019s In The Tea?",
-      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 197511,
       "name": "I'll Never Leave",
       "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "What\u2019s In The Tea?",
+        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
+      },
+      "artists": [
+        {
+          "name": "Calimossa",
+          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "What\u2019s In The Tea?",
+      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Haunted Disc",
         "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 295331,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2026-03-23 14:42:41",

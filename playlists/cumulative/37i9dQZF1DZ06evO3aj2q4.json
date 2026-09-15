@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251385,
+      "name": "Beautiful Lie",
+      "url": "https://open.spotify.com/track/0WMCmlpPH050YsEFGDssPs"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
         "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
       },
       "artists": [
@@ -88,7 +106,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 251385,
       "name": "Beautiful Lie",
       "url": "https://open.spotify.com/track/7vxoZbIPYZop17dCuxcGBY"
@@ -658,10 +676,28 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 206650,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/4RVhdgglsIYWPP4K4RfUzo"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206650,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/7rA5tlA3YoHwv1tOxDbxwF"
     },
     {
       "album": {
@@ -676,10 +712,28 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 258132,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/3gM35w5pxuZUXNKJeZv3rL"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258132,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4JUoQxflbZ4DH21s2Pp6Tq"
     },
     {
       "album": {
@@ -774,6 +828,24 @@
     {
       "album": {
         "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "Tell Me When You've Had Enough",
+      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
         "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
       },
       "artists": [
@@ -784,7 +856,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 199696,
       "name": "Tell Me When You've Had Enough",
       "url": "https://open.spotify.com/track/6AGBZEHiJTtM0GE7iEFYRB"

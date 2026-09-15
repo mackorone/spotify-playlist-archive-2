@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,972 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,136 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 54 | [I Have Never Been Here Before](https://open.spotify.com/track/5JLNI2JSEkEGFA3PVhocdf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [I Have Never Been Here Before](https://open.spotify.com/album/0lmxGh73XUO0RWmSJ4CnWE) | 3:47 |
 | 55 | [Riverside](https://open.spotify.com/track/2BUh1zO3RVt7YU7ioAUDkA) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3b3ExtBZbSetTTliqnKE8o) | 4:00 |
 
-Snapshot ID: `AAAAAO3YdONmrYb+9f1goNRwjGWCKTrQ`
+Snapshot ID: `AAAAAAbmtKFGkSRyrqrAVqgLX1nhb3BP`

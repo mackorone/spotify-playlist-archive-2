@@ -1,37 +1,13 @@
 {
   "description": "Switzerland's biggest hits right now. Cover: Tame Impala",
-  "num_followers": 106007,
+  "num_followers": 106002,
   "original_name": "Hot Hits Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEv7Cw/1NNDnwVpmtYUFr3/yzwYm",
+  "snapshot_id": "AAAAAHnXd/JNNOREANwhI/quHpCazF4O",
   "tracks": [
-    {
-      "added_at": "2026-09-08 14:20:59",
-      "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
-    },
     {
       "added_at": "2026-09-08 14:20:59",
       "album": {

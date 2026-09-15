@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Night Skinny in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,204 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,169 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [INDIVIDUALISTA VISIONARIO](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
 | 50 | [KUTA UBUD](https://open.spotify.com/track/2e79sjRRdXPRc8wijqAVnX) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [KUTA UBUD](https://open.spotify.com/album/4QLgbioQMtsszGKfYtI8cQ) | 2:48 |
 
-Snapshot ID: `AAAAAFvfd0H35rzvQwHtyiu6ySVDFFnh`
+Snapshot ID: `AAAAAMx1zhgCm627CVISTK60TTl1yPgj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,325 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,316 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [High Stakes](https://open.spotify.com/track/2K3dXnxInwW8Y3rJo1OWZo) | [Claudia Tripp](https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB) | [High Stakes](https://open.spotify.com/album/6IMQ7rCM5mXO7UfIZnaKxr) | 3:10 |
 | 50 | [Saving Me](https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Saving Me](https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM) | 3:41 |
 
-Snapshot ID: `AAAAAK2C2fvJCf0ORXAyp6W0oXuoltZ6`
+Snapshot ID: `AAAAAMy+IG8cEyOmYRCLS5XPTObYwTLk`

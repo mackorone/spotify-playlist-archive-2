@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 1001981,
+  "num_followers": 1002118,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAzqA0BTlzYUhestkPsv3AP",
+  "snapshot_id": "aqXngAAAAADReKV7LIzglik02ba7tANA",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buttons",
         "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ"
     },
     {
       "added_at": null,

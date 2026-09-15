@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Liana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,081 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,140 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [What's going on](https://open.spotify.com/track/48y1wtDJYyV0wyiQMq3Qhs) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Luke Sellick](https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S), [Jason Brown](https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv), [Bobby Thomas Jr.](https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt) | [What's going on](https://open.spotify.com/album/3gqLA2JJoG7S71gQzDsSPD) | 5:18 |
 | 60 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |
 
-Snapshot ID: `AAAAAJWmkJ6ou1dd/QGsyIbhh4L1dI6i`
+Snapshot ID: `AAAAAAaT/gAyeZvdcBJkfWszXTtmNsnH`

@@ -1156,6 +1156,24 @@
     {
       "album": {
         "name": "Totem",
+        "url": "https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Je suis un homme",
+      "url": "https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky"
+    },
+    {
+      "album": {
+        "name": "Totem",
         "url": "https://open.spotify.com/album/2qgCOodXgN7d6Re5fT1Ezz"
       },
       "artists": [
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"

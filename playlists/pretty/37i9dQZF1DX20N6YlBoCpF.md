@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Leah, Brendan Peyper, Donkerbaai, Harry CBY, Nicholis Louw en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,435 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,434 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 69 | [Bid](https://open.spotify.com/track/3ukaWRNUa3ABSHLgDvUD5d) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Bid](https://open.spotify.com/album/2SDovA2Eia8alPxEf2KmaD) | 2:59 |
 | 70 | [Mis Jy My Al](https://open.spotify.com/track/37HOXoOlutV66kBVP4jWkl) | [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Mis Jy My Al](https://open.spotify.com/album/07rwDI0zFdmiEU20n5KIfm) | 3:39 |
 
-Snapshot ID: `AAAAAACo7LMPCMik7D6jj00fEG4kVwFV`
+Snapshot ID: `AAAAAGLycOPlF8MTTE0DZ/eno68YLJk0`

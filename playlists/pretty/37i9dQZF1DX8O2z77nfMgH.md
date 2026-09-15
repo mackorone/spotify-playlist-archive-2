@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Motherflowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,370 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,249 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Eso Se Pasa](https://open.spotify.com/track/1YpQ3rsXULEQJOa5KgTbf4) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK) | [Eso Se Pasa](https://open.spotify.com/album/7ggWI0fnDrZBFMM8oxG5zG) | 2:46 |
 | 52 | [CON QUIEN?](https://open.spotify.com/track/3aRzcFTwXl2D3CYRu5JMES) | [Tory Teler](https://open.spotify.com/artist/1wDCXygbv8uRG0GfN787dp) | [VANTABLACK](https://open.spotify.com/album/4pudX3Vb85fyd6NZlUFKrG) | 3:46 |
 
-Snapshot ID: `AAAAAJYpq9jrA58aRZuKFbo7ClWhXOxU`
+Snapshot ID: `AAAAAK9v6ndhqqaLRU6+wH/QE66i4DJb`

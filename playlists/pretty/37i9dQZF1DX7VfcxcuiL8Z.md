@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,339 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,350 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [F.M.D.](https://open.spotify.com/track/72VOW8X0ZgYdc9pQnIqur1) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [F.M.D.](https://open.spotify.com/album/5dkihcNVD1NruzZQAKkyqL) | 3:09 |
 | 80 | [Time Waster](https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:21 |
 
-Snapshot ID: `AAAAAGQm0n4cziRl+fstruFY44TzpGHt`
+Snapshot ID: `AAAAAOwYLJJEZwg+ObFWttF+1aASs3yZ`

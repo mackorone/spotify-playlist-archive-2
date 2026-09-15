@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: +plusamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,708 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,705 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Yes, hello?](https://open.spotify.com/track/54l7XfMxrFmmPOrZOmZD0Y) | [Snupe](https://open.spotify.com/artist/7dwjcnTfYCc91Q94giIK2h) | [Yes, hello?](https://open.spotify.com/album/4yxNsRfMGWPJrdc5ygYRuW) | 2:04 |
 | 70 | [We Still Good??](https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [We Still Good??](https://open.spotify.com/album/58Tex34A783zyGDC1amh2v) | 2:18 |
 
-Snapshot ID: `AAAAAAIolHWYzcQopGRgzwIwg2PsdXKV`
+Snapshot ID: `AAAAAGj8IYLH2PDs+F3jXDy8V08k/IYV`

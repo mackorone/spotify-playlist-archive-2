@@ -7709,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Br\u012bv\u012bbas iela",
+        "url": "https://open.spotify.com/album/6VMXcXKRiwckkzLq0RiPFe"
+      },
+      "artists": [
+        {
+          "name": "Ozols",
+          "url": "https://open.spotify.com/artist/6DfYhvIhiblKFpqjBcgKis"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Br\u012bv\u012bbas iela",
+      "url": "https://open.spotify.com/track/57WUh0Pdxr4TmPISJZTcFT"
+    },
+    {
+      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
@@ -11334,7 +11352,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -26270,7 +26288,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 200170,
       "name": "Ko vair\u0101k man vajag",
       "url": "https://open.spotify.com/track/4eoIViQSq5TmScgOmqBM8P"
@@ -26560,7 +26578,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 255000,
       "name": "Kur ir t\u0101 j\u016bra?",
       "url": "https://open.spotify.com/track/2ezQhiqDnJYRQNpFVKIvdy"
@@ -32290,7 +32308,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 171351,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/3N9VkIAUJRm1nUSBiSAhkd"
@@ -32776,6 +32794,24 @@
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "album": {
+        "name": "misery. (The Living Tombstone Remix)",
+        "url": "https://open.spotify.com/album/3XwENXkvanWdNQVlFz6fav"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166579,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/3szSOQjWBCE0s5Ys2nNFuZ"
     },
     {
       "album": {
@@ -37420,7 +37456,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "onsra",
       "url": "https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND"
@@ -49764,7 +49800,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -49782,7 +49818,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -50584,7 +50620,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -50602,7 +50638,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -56128,7 +56164,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 241153,
       "name": "Vienm\u0113r Tu",
       "url": "https://open.spotify.com/track/3IPuUve2NdD0buzfm0AjB4"

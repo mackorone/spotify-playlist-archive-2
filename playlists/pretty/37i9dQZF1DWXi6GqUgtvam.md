@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,969 likes - 61 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,998 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 60 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 61 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `AAAAAPI4Dm7iNC94G0zdH16dRV3qb7BK`
+Snapshot ID: `AAAAAHGiyCcJg31cLxk07QnXGOahGk+Z`

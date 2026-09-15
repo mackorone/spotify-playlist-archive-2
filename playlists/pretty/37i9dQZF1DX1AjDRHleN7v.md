@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,371 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,357 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 2 | [Deus Existe](https://open.spotify.com/track/7mxojgcpmGboRM1TH1uzmQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:15 |
 | 3 | [Liberdade Pra Dentro da Cabeça \- Ao Vivo](https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:13 |
 | 4 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
-| 5 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
-| 6 | [Na Calada da Tarde](https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Na Calada da Tarde](https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v) | 3:15 |
+| 5 | [Na Calada da Tarde](https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Na Calada da Tarde](https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v) | 3:15 |
+| 6 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
 | 7 | [Telegrama](https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Telegrama](https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ) | 3:39 |
 | 8 | [Até Outro Dia Amor](https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Até Outro Dia Amor](https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z) | 3:28 |
 | 9 | [MELÔ DE RECOMEÇO](https://open.spotify.com/track/3rPZ2GgTLdkcVbShwvEWhH) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [Adnon](https://open.spotify.com/artist/6S2YVwiwLlUiSWOMhBaJBf), [Dicy](https://open.spotify.com/artist/42PSZ6x5ZdbZEuFPgLscTQ), [SEU GARRÊ](https://open.spotify.com/artist/4lGZgtKyjqQiMErnzjN6Y5) | [CONEXÃO JAMAICA BRASILEIRA, VOL\. 1](https://open.spotify.com/album/5EhKNu35AyDVQBxCC4Tq2q) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAAHvy9wKMuGWt4ZNMwNyTZipxOATM`
+Snapshot ID: `AAAAAJxyyTHMNL9Q2dexWFa2OzhkFxKz`

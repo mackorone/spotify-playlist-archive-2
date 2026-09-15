@@ -4,7 +4,7 @@
 
 > Neue Musik von Ikkimel, badmómzjay, David Guetta, Jazeek, Luciano & vielen mehr!
 
-10,521 songs - 21 day 10 hr 28 min
+10,522 songs - 21 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4667,6 +4667,7 @@
 | [IMAGE](https://open.spotify.com/track/2NyGXyPzrLfygByT9dfAfc) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Samu](https://open.spotify.com/artist/3GPAoP1ylBNdYDEsWZxk1L) | [IMAGE](https://open.spotify.com/album/7omCc11UEQ8CdF92BHosmW) | 2:14 | 2024-04-26 | 2024-05-03 |
 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-14 | 2025-08-23 |
 | [Imagine](https://open.spotify.com/track/17wgCTpYHMSBz87L9r7V9M) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Imagine](https://open.spotify.com/album/2h79OZm2NyDExcpdpBxEBU) | 3:08 | 2024-12-12 | 2024-12-20 |
+| [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 | 2026-09-11 |  |
 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 | 2025-08-14 | 2025-08-23 |
 | [IMMATRIKULATIONSBESCHEINIGUNG](https://open.spotify.com/track/48zyGIIHjQF5AKAE6XrjdI) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [wild](https://open.spotify.com/album/59TeYgcvJBSNAU8W4yCEJ8) | 2:28 | 2026-03-26 | 2026-04-03 |
 | [Immer](https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Immer](https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9) | 2:39 | 2025-09-12 | 2025-09-20 |

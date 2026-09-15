@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124070,
+  "num_followers": 124080,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKY0MvVPlVKH1yi3BpDMZTdkijX8",
+  "snapshot_id": "AAAAAJkJIPOuIPfEAxW+Nleg40RpkjPg",
   "tracks": [
     {
       "added_at": "2026-08-20 17:00:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 266379,
-      "name": "H\u1eefng H\u1edd",
-      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 175876,
       "name": "HOP ON DA SHOW",
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 266379,
+      "name": "H\u1eefng H\u1edd",
+      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "MEDICINE",
         "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "Em B\u00e9",
-        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Em B\u00e9",
-      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2026-08-20 17:00:23",

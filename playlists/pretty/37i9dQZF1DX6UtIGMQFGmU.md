@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 
 > Gamma waves at 40 Hz and above\. For concentration and studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,387 likes - 90 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,487 likes - 90 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 | 89 | [Dawn Gamma \(247Hz \- 277Hz\)](https://open.spotify.com/track/04qi27Gv572KAMo1U5NkCf) | [Subtle Interval](https://open.spotify.com/artist/148i2aD7RSmVn0sPBSbWhO) | [Dawn Gamma \(247Hz \- 277Hz\)](https://open.spotify.com/album/5hhhgjxu2hE0WXEXM51OH0) | 3:25 |
 | 90 | [Yearning Longing Gamma 117\-271hz](https://open.spotify.com/track/6nsze4vV7uk4RucmRwZjgh) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Yearning Longing Gamma 117\-271hz](https://open.spotify.com/album/6XeruOTIpZOdvbJ8YAgK9G) | 3:00 |
 
-Snapshot ID: `AAAAADWsu1/sDimIsIIgX6M0TSWk5+X6`
+Snapshot ID: `AAAAALFGSEQLeMurKasUhUYrryj4f0tv`

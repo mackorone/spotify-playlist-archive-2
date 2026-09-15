@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 151695,
+  "num_followers": 151678,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADsCT64lMrAMtmlPeqAQ0DMd3fS",
+  "snapshot_id": "AAAAAGV0aEgilOmd7SNOrzk7m6TBrseN",
   "tracks": [
     {
       "added_at": "2026-01-20 05:01:24",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Fever",
-        "url": "https://open.spotify.com/album/5J2XvmVymUphtXV8lJwhcs"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 210308,
-      "name": "Christmas Fever",
-      "url": "https://open.spotify.com/track/5zJgLkNMU7p9xGhMshV46X"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "White",
         "url": "https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 236026,
       "name": "White",
       "url": "https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Christmas Fever",
+        "url": "https://open.spotify.com/album/5J2XvmVymUphtXV8lJwhcs"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 210308,
+      "name": "Christmas Fever",
+      "url": "https://open.spotify.com/track/5zJgLkNMU7p9xGhMshV46X"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
-        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Funky Glitter Christmas",
-      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "NOI MAS",
         "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 208293,
       "name": "Grey Christmas",
       "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Funky Glitter Christmas",
+      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "KIIRASMAS",
-        "url": "https://open.spotify.com/album/59Bz9tbhqzqj5IgQP0x5kV"
-      },
-      "artists": [
-        {
-          "name": "KIIRAS",
-          "url": "https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "KIIRASMAS",
-      "url": "https://open.spotify.com/track/4ZS0ihT9lEzL4MKjDip7N5"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/7FOruuAoRntAE1TmGzukOQ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 193728,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "KIIRASMAS",
+        "url": "https://open.spotify.com/album/59Bz9tbhqzqj5IgQP0x5kV"
+      },
+      "artists": [
+        {
+          "name": "KIIRAS",
+          "url": "https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "KIIRASMAS",
+      "url": "https://open.spotify.com/track/4ZS0ihT9lEzL4MKjDip7N5"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
         "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2026-01-20 05:01:24",

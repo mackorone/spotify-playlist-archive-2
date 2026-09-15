@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-323 songs - 15 hr 49 min
+324 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Pastel Sky](https://open.spotify.com/track/3bjOOoQMSIdQS06TfwqAml) | [Binaural Dreamer](https://open.spotify.com/artist/3p7LoRjj41Vc7NRT7YExos) | [Pastel Sky](https://open.spotify.com/album/2N6fUlrgZYW21AQcH2pAgh) | 2:52 | 2024-07-19 | 2024-10-20 |
 | [Peace](https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9) | 2:23 | 2022-07-19 | 2024-04-19 |
 | [Peace](https://open.spotify.com/track/6dmmjM7cgyjdb9vrWKabhV) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/0nc4YQuexF3sAZqd5Pxksk) | 2:23 | 2022-07-05 | 2024-04-22 |
+| [Peace And Beyond](https://open.spotify.com/track/6Z2fpdCyqrnxXp1ODi6vL8) | [Tania T](https://open.spotify.com/artist/3GbEA2FSS05ShE9QZDnRE1) | [Peace And Beyond](https://open.spotify.com/album/6v0tEoJo9GnyCFSGnYfIUO) | 2:27 | 2026-09-14 |  |
 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2022-07-05 | 2024-12-12 |
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2022-07-19 | 2024-11-08 |
 | [Perusal](https://open.spotify.com/track/4Dy4DpY6Q0so1QUvvnscCW) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Perusal](https://open.spotify.com/album/17dJjHgDSJXYwLPzgNudVi) | 2:42 | 2025-09-30 |  |
@@ -238,7 +239,7 @@
 | [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-04-29 | 2026-02-27 |
 | [Restoration](https://open.spotify.com/track/0YTADQHqg5hMmY34d5WUfG) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Restoration](https://open.spotify.com/album/63mFaMYI2MjMn08yo21sDo) | 3:07 | 2025-05-14 |  |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 | 2025-07-25 |
-| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 |  |
+| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 | 2026-09-15 |
 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 | 2023-01-10 | 2026-07-04 |
 | [Sandman's Lullaby](https://open.spotify.com/track/5Fsbc5Kpa2rk3nWlVFh4JG) | [Phylloscopus humei](https://open.spotify.com/artist/0fTIoPPUI4uc1vmicKfoqS) | [Sandman's Lullaby](https://open.spotify.com/album/4PLjfZjlu6r1tiLURK3eFu) | 2:28 | 2024-12-11 | 2026-07-03 |
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-11-12 |

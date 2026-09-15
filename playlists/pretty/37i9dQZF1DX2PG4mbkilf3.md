@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Andye & Savannah Ré from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,877 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,941 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 18 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
 | 19 | [PEARLS & PLUMS](https://open.spotify.com/track/1uXRu2YJVs5t6Gd3nGetD3) | [Somaya](https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA) | [LAYALI](https://open.spotify.com/album/6z4I4En08REYpf0AAwbWjb) | 5:59 |
 | 20 | [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 |
-| 21 | [1 Strike](https://open.spotify.com/track/3E7n7acI76jQujE2iCs26Q) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [HRTBRKFEVER](https://open.spotify.com/artist/06GLPi98waSpe7XKMjFfUe), [Devontée Woe](https://open.spotify.com/artist/3NpKc1xLhkWG0kDKiM3MPH) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:48 |
+| 21 | [1 Strike](https://open.spotify.com/track/3E7n7acI76jQujE2iCs26Q) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [HRTBRKFEVER](https://open.spotify.com/artist/06GLPi98waSpe7XKMjFfUe), [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:48 |
 | 22 | [Let It Die](https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Let It Die](https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t) | 3:55 |
 | 23 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 24 | [Love Like Her](https://open.spotify.com/track/3w7rR5UzrbJyn3sK28qYkD) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Love Like Her](https://open.spotify.com/album/40Wp2QGzDk4y5zSsYyYOyf) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [I Can't Wait To Get There](https://open.spotify.com/track/0bcZ7xN9IcjSNxLerzR2yl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:08 |
 | 100 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 
-Snapshot ID: `AAAAANBUFBmlFQyFr0NpX/osH+ySu/vv`
+Snapshot ID: `AAAAAEWKs03XkPrSgWXCI1KSnG2L+iq9`

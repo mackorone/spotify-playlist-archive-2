@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Visconti in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,909 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,910 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [NELLA BOLLA](https://open.spotify.com/track/2hgTPOOfRoRTUejLf9g2qJ) | [Guido Cagiva](https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK) | [LA BOLLA](https://open.spotify.com/album/3eLkx6MqSkzxlyIgBFMHHp) | 3:13 |
 | 100 | [XIII](https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [Demos, B\-sides, Acoustics, Vol.1](https://open.spotify.com/album/4pcAmgTSpM8J9LcKMgrWS1) | 4:15 |
 
-Snapshot ID: `AAAAAGUHZE0M5rYphnJK8FAaJgS5s51x`
+Snapshot ID: `AAAAANCYD2vrtLHuoryOf3EW8orcJFXA`

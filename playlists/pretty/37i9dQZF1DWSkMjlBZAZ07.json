@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1866996,
+  "num_followers": 1866920,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAEvKk5CUVlKaSBx0S1t3257Ie04",
+  "snapshot_id": "AAAAAIj/t7BPzpNzJ0+mRxx/K+M2w1uY",
   "tracks": [
     {
       "added_at": "2026-06-05 20:48:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Mountain Girl",
         "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 162925,
       "name": "Mountain Girl",
       "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
-      },
-      "artists": [
-        {
-          "name": "Devarrow",
-          "url": "https://open.spotify.com/artist/5xSDgnp0t87WsXyMUjuKG9"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Little Road",
-      "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Plant A Forest",
         "url": "https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 164898,
       "name": "Plant A Forest",
       "url": "https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
+      },
+      "artists": [
+        {
+          "name": "Devarrow",
+          "url": "https://open.spotify.com/artist/5xSDgnp0t87WsXyMUjuKG9"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "Little Road",
+      "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 274253,
       "name": "Do It All For You",
       "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Like a Child",
-        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 216380,
-      "name": "Like a Child",
-      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Fast Like a Match",
         "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 161013,
       "name": "Fast Like a Match",
       "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
     },
     {
       "added_at": "2026-06-05 20:48:48",

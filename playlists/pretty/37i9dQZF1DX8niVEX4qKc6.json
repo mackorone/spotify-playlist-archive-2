@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuRj+fWKtoHX4Spi0N9vbXDmT1Z",
+  "snapshot_id": "AAAAAHuHYPlLvT6UPuGwTdRDJyGOrEoC",
   "tracks": [
     {
       "added_at": "2026-06-26 15:53:51",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Polos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
-      },
-      "artists": [
-        {
-          "name": "Ella Es Tan Cargosa",
-          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
-        }
-      ],
-      "duration_ms": 271229,
-      "name": "En Redondel - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3iilgTLKZS1pnlwkhvO57o"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 136624,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6dkfSa5CFD3D11m5xjywO7"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Polos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
+      },
+      "artists": [
+        {
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+        }
+      ],
+      "duration_ms": 271229,
+      "name": "En Redondel - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Serenata del 900 (Casa Sole)",
         "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 193897,
       "name": "Serenata del 900 (Casa Sole)",
       "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Mundo Agradable (feat. Ricardo Mollo)",
         "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Superpoder",
-        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 144272,
-      "name": "Superpoder",
-      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 144272,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Como Te Voy A Olvidar",
-        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Como Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Amanece (a Pepe Mujica)",
         "url": "https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 232318,
       "name": "Amanece (A Pepe Mujica)",
       "url": "https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Como Te Voy A Olvidar",
+        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Como Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Amor de mi herida",
-        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 219708,
-      "name": "Solo hace falta vivir",
-      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Sesi\u00f3n Ac\u00fastica (Unplugged)",
         "url": "https://open.spotify.com/album/6UEXqNcZ9kSoOqsDSG7LVJ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 192603,
       "name": "Si Me Tomo una Cerveza - Unplugged",
       "url": "https://open.spotify.com/track/0OZweJgSclNqAcXoKP1ghs"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Amor de mi herida",
+        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 219708,
+      "name": "Solo hace falta vivir",
+      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
     },
     {
       "added_at": "2026-06-26 15:53:51",

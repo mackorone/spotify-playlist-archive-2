@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32366,
+  "num_followers": 32372,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAABLPYSE23vZ1cidvk+DNe8B",
+  "snapshot_id": "aqXngAAAAACU4nCiCMl4jcn1TDkdxIgC",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/1GdNQquq0BgZandu8lxfrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 300982,
       "name": "Me Matar\u00e1 El Sentimiento",
       "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1GdNQquq0BgZandu8lxfrx"
     },
     {
       "added_at": null,

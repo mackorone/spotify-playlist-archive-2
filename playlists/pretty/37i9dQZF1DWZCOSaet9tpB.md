@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,619 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,825 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:45 |
 | 50 | [Ripper's Fate](https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Ripper's Fate](https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB) | 2:29 |
 
-Snapshot ID: `AAAAAPRa1K03Vfd2SYr9Dx+/eWubkiZ9`
+Snapshot ID: `AAAAAEo6wwoRj0ekh1M4oRgqRhfw23yD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Camilo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,201 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868,889 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 |
 | 50 | [Lo Poco Que Yo Quiero](https://open.spotify.com/track/73Rn7hh9wSpg6xssYXIh7d) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Lo Poco Que Yo Quiero](https://open.spotify.com/album/4BtWP9Q8OR8ZODen0KlTr8) | 2:58 |
 
-Snapshot ID: `AAAAANYKFa/9B3bE4e66IPu233F9yaQJ`
+Snapshot ID: `AAAAANwwytbXhyMvJOd7Il7hUf4JbpvC`

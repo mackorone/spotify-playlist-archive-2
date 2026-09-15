@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59578,
+  "num_followers": 59582,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/FXDA4x7j/i2O/in8lo+qhi52e",
+  "snapshot_id": "AAAAAM+4hz1/5kDlTFbHFqdzS9fI4dnr",
   "tracks": [
     {
       "added_at": "2026-09-10 21:00:07",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-09-10 21:00:07",
       "album": {
-        "name": "Vinojen t\u00e4htien alla",
-        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Vinojen t\u00e4htien alla",
-      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
-    },
-    {
-      "added_at": "2026-09-10 21:00:07",
-      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 136000,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt"
+    },
+    {
+      "added_at": "2026-09-10 21:00:07",
+      "album": {
+        "name": "Vinojen t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Vinojen t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
     },
     {
       "added_at": "2026-09-10 21:00:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-10 21:00:07",
       "album": {
-        "name": "Vaan yks sin\u00e4",
-        "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Vaan yks sin\u00e4",
-      "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
-    },
-    {
-      "added_at": "2026-09-10 21:00:07",
-      "album": {
         "name": "V\u00e4rit",
         "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-09-10 21:00:07",
+      "album": {
+        "name": "Vaan yks sin\u00e4",
+        "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Vaan yks sin\u00e4",
+      "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
     },
     {
       "added_at": "2026-09-10 21:00:07",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-09-10 21:00:07",
       "album": {
+        "name": "Hiljaisuus",
+        "url": "https://open.spotify.com/album/46embklLqA4N58C8PBkRvI"
+      },
+      "artists": [
+        {
+          "name": "Kastehelmi",
+          "url": "https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa"
+        }
+      ],
+      "duration_ms": 197100,
+      "name": "Hiljaisuus",
+      "url": "https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn"
+    },
+    {
+      "added_at": "2026-09-10 21:00:07",
+      "album": {
         "name": "Jumalanmiehii III",
         "url": "https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 268541,
       "name": "Vastaa",
       "url": "https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6"
-    },
-    {
-      "added_at": "2026-09-10 21:00:07",
-      "album": {
-        "name": "Hiljaisuus",
-        "url": "https://open.spotify.com/album/46embklLqA4N58C8PBkRvI"
-      },
-      "artists": [
-        {
-          "name": "Kastehelmi",
-          "url": "https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa"
-        }
-      ],
-      "duration_ms": 197100,
-      "name": "Hiljaisuus",
-      "url": "https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn"
     },
     {
       "added_at": "2026-09-10 21:00:07",

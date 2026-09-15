@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 39427,
+  "num_followers": 39428,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9cDKMTHyIt7Tizg4jRvM2V/EBH",
+  "snapshot_id": "AAAAAKB7hqEl2KZuYqwoFnn78CiNsHjj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Fear of God II: Let Us Pray",
-        "url": "https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Trouble on My Mind",
-      "url": "https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Welcome to O'Block",
         "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 218000,
       "name": "I Am What I Am (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6FKbgWZ7KgpSk7tvFP7eEc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Fear of God II: Let Us Pray",
+        "url": "https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Trouble on My Mind",
+      "url": "https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A"
     },
     {
       "added_at": "2022-10-01 16:00:00",

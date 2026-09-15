@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,552 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 59 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |
 | 60 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 
-Snapshot ID: `AAAAAHTSL+Sh0IF8lCVwfBqjGFcJOIlk`
+Snapshot ID: `AAAAADRg5gZEEzyz8SrfmGnO0TbDdmnQ`

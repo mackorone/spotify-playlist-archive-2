@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: JEDSOUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,779 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,801 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 69 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |
 | 70 | [Borrowed Time](https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls) | [Dayor](https://open.spotify.com/artist/3jaMpJnB8UCixGAlNJU6sD) | [Borrowed Time](https://open.spotify.com/album/2uvFOOjxB1yUoJmfwJOVrF) | 2:54 |
 
-Snapshot ID: `AAAAANqU4iqzCbJdqZnezuwzaeMclJAO`
+Snapshot ID: `AAAAAKY0wGfmtOhNTZUGEJ070ZXeo9lv`

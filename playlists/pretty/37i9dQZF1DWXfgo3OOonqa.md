@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,462 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,455 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [Ride Or Die](https://open.spotify.com/track/6itdV2tNZexpphrEfZGiXC) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Ride Or Die](https://open.spotify.com/album/7ooGHtHXunbRyohHb6mGMF) | 2:11 |
 | 3 | [Mandela](https://open.spotify.com/track/3ePD9nCBc2kZtwxQExfLpE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:32 |
 | 4 | [RAKET](https://open.spotify.com/track/43oV0kwsqxyfR1psOUR6QK) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [RAKET](https://open.spotify.com/album/3pJeaqxhd9G3RC2QHTOXji) | 2:45 |
-| 5 | [CA VA](https://open.spotify.com/track/2XLqkqAFdlamHFUx1bTD4A) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [CA VA](https://open.spotify.com/album/6VAwxaojYoFD2Xs27UXeHl) | 2:21 |
-| 6 | [SLAJNA](https://open.spotify.com/track/7vf6YBZb2ZSvuOJOUg3hGG) | [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp) | [SLAJNA](https://open.spotify.com/album/36xKCmDBpiLF8L7HNalHk9) | 2:23 |
-| 7 | [2 Saqqats](https://open.spotify.com/track/3A0EdEQp95ZCdZ8YrFuiEt) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:17 |
-| 8 | [Malo Malo \(Klack\)](https://open.spotify.com/track/3ICyFrEE6ga4pyhb1i41bw) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Malo Malo \(Klack\)](https://open.spotify.com/album/1vAkyabdB7jUZT6NuDqTUI) | 2:25 |
-| 9 | [Vänta](https://open.spotify.com/track/2oh6kzJStaQBeMYZzDXvWo) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue](https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E) | 3:16 |
-| 10 | [Houdini](https://open.spotify.com/track/6dGrBtOUtC5FSPSxRkwJsI) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Houdini](https://open.spotify.com/album/1nGDCeaoSAPhqJJVbRGIh4) | 1:55 |
+| 5 | [SLAJNA](https://open.spotify.com/track/7vf6YBZb2ZSvuOJOUg3hGG) | [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp) | [SLAJNA](https://open.spotify.com/album/36xKCmDBpiLF8L7HNalHk9) | 2:23 |
+| 6 | [2 Saqqats](https://open.spotify.com/track/3A0EdEQp95ZCdZ8YrFuiEt) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:17 |
+| 7 | [Houdini](https://open.spotify.com/track/6dGrBtOUtC5FSPSxRkwJsI) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Houdini](https://open.spotify.com/album/1nGDCeaoSAPhqJJVbRGIh4) | 1:55 |
+| 8 | [CA VA](https://open.spotify.com/track/2XLqkqAFdlamHFUx1bTD4A) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [CA VA](https://open.spotify.com/album/6VAwxaojYoFD2Xs27UXeHl) | 2:21 |
+| 9 | [Malo Malo \(Klack\)](https://open.spotify.com/track/3ICyFrEE6ga4pyhb1i41bw) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [Malo Malo \(Klack\)](https://open.spotify.com/album/1vAkyabdB7jUZT6NuDqTUI) | 2:25 |
+| 10 | [Vänta](https://open.spotify.com/track/2oh6kzJStaQBeMYZzDXvWo) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue](https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E) | 3:16 |
 | 11 | [Jealousy](https://open.spotify.com/track/3a8rKgFiphuGYgLfAqDoyF) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Jealousy](https://open.spotify.com/album/1KI58I2lYWbyxiVnVX34uN) | 2:25 |
-| 12 | [R.I.P](https://open.spotify.com/track/2oMyIxV1C3G2AhuSRntL0P) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [R.I.P](https://open.spotify.com/album/4k4EdBWk02wscfymZvsics) | 2:32 |
-| 13 | [BMW Serie](https://open.spotify.com/track/25DL9QEuDCcYmiMT38Jfey) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BMW Serie](https://open.spotify.com/album/7uIDD7QRunU4OVHyYxQw6b) | 2:02 |
-| 14 | [Vacker & Söt](https://open.spotify.com/track/12QqjgQJUYmpR28CHiQvQ3) | [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [Vacker & Söt](https://open.spotify.com/album/7ewvLF7m3jpyvJGbpmMmes) | 2:17 |
-| 15 | [Ensam](https://open.spotify.com/track/2oPbtNoU4ppFjenyx5JOgX) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Ensam](https://open.spotify.com/album/0BCoajjgffM7ieQsO5ryWO) | 2:14 |
+| 12 | [Vacker & Söt](https://open.spotify.com/track/12QqjgQJUYmpR28CHiQvQ3) | [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [Vacker & Söt](https://open.spotify.com/album/7ewvLF7m3jpyvJGbpmMmes) | 2:17 |
+| 13 | [R.I.P](https://open.spotify.com/track/2oMyIxV1C3G2AhuSRntL0P) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [R.I.P](https://open.spotify.com/album/4k4EdBWk02wscfymZvsics) | 2:32 |
+| 14 | [Ensam](https://open.spotify.com/track/2oPbtNoU4ppFjenyx5JOgX) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Ensam](https://open.spotify.com/album/0BCoajjgffM7ieQsO5ryWO) | 2:14 |
+| 15 | [BMW Serie](https://open.spotify.com/track/25DL9QEuDCcYmiMT38Jfey) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BMW Serie](https://open.spotify.com/album/7uIDD7QRunU4OVHyYxQw6b) | 2:02 |
 | 16 | [FÖRVÅNAD](https://open.spotify.com/track/7zr1wqsm4q2qDriySGqSP7) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV) | [FÖRVÅNAD](https://open.spotify.com/album/5dlxuf5c1odyd7v6YFJppn) | 2:05 |
 | 17 | [Snubbe \(BTB\)](https://open.spotify.com/track/613EnGm3kWJJcd0r21kzMm) | [RMTB](https://open.spotify.com/artist/2k594FnLDn6R7yMkmtOTm5), [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Snubbe \(BTB\)](https://open.spotify.com/album/73kOt4YpaFsuXxBxN0ZH5Q) | 3:09 |
 | 18 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
 | 100 | [Sonya](https://open.spotify.com/track/7ELeq4ReJcL4tlafps77OW) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Sonya](https://open.spotify.com/album/3csU0vNyY7fBrFnZdVYTCr) | 2:37 |
 
-Snapshot ID: `AAAAAGAwSNOL7Bwyur42RNg906wYuEG3`
+Snapshot ID: `AAAAAFXSu/yShp+ZfgMhjrmmBd1uxxs6`

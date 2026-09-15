@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 24 songs - 49 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,690 likes - 24 songs - 49 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/25AatSrHrdFC2heYEvtBaG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/23EnOj33MFpDscgOYo49gN) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/6qOA5YkgRGNlAI8QaqB9oH) | 3:18 |
-| 2 | [I Am The Tea](https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 2:16 |
+| 2 | [Love Or Envy](https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 0:54 |
 | 3 | [Flawless My Dear](https://open.spotify.com/track/6qNfLbtV03FhQjQsY3cGmT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 1:43 |
 | 4 | [Hearts and Flowers Ball \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:22 |
 | 5 | [I Could Use a Boost](https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:07 |
-| 6 | [Love Or Envy](https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 0:54 |
+| 6 | [I Am The Tea](https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 2:16 |
 | 7 | [We Could Form An Attachment](https://open.spotify.com/track/53SyVsyUHuLthCzhw3CbOU) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 3:07 |
 | 8 | [They Are Betrothed \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1fIWLNtT0o5GEAPMUaxa2F) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:10 |
 | 9 | [I Love You Charlotte \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:09 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 | 23 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 |
 | 24 | [Meet Dr\. Monro \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:26 |
 
-Snapshot ID: `aqSWAAAAAACa5eOCrfSOMZBVcCXc35oY`
+Snapshot ID: `aqXngAAAAAAWWe/MAcingUy8pULXYKaU`

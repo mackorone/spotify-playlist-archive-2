@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > Selections by Bonobo\. "Distance in Static" out now\. / 国内外のオルタナティブダンスミュージック  Cover: Bonobo \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,687 likes - 52 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,712 likes - 52 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 51 | [Mouthfeel 5](https://open.spotify.com/track/4B4NV5hp9s9Ev62uaOJzAn) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/2Eg3LODpmk1LHVrEzebbWR) | 3:15 |
 | 52 | [Jobi](https://open.spotify.com/track/2KnC7ELwhfi998OzDJgyyR) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 6:21 |
 
-Snapshot ID: `AAAAABBy+IzahQHIzqJKhQPSy+/Z6DT9`
+Snapshot ID: `AAAAAPcq4wacT4jCx0cFVZR0TD3C/dv8`

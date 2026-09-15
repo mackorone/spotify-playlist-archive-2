@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2587462,
+  "num_followers": 2587392,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrlUxNAp4Hlq9Ri3jAD52ZQRkia",
+  "snapshot_id": "AAAAADuFfcp2TxvMiGgg9NjDLeRQHbmK",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:14",
@@ -491,22 +491,18 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -531,18 +527,42 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "Just A Little Bit More",
-        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Just A Little Bit More",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
+        "name": "Fancy $hit",
+        "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Fancy $hit",
+      "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -571,50 +591,6 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "Fancy $hit",
-        "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "Fancy $hit",
-      "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
         "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
         "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 194645,
       "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
       "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -675,6 +675,30 @@
       "duration_ms": 215433,
       "name": "Beautiful (with Joji)",
       "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
+        "name": "Close My Eyes (feat. SACHA)",
+        "url": "https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 163018,
+      "name": "Close My Eyes (feat. SACHA)",
+      "url": "https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -787,26 +811,22 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "Close My Eyes (feat. SACHA)",
-        "url": "https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA"
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 163018,
-      "name": "Close My Eyes (feat. SACHA)",
-      "url": "https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC"
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -827,26 +847,6 @@
       "duration_ms": 183750,
       "name": "You And I, Me And You",
       "url": "https://open.spotify.com/track/6jEuSifwkZehn7IvadDeOQ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 192209,
-      "name": "Come To Life",
-      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -975,30 +975,6 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Heather Sommer",
-          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
-        }
-      ],
-      "duration_ms": 213554,
-      "name": "When The Light Breaks",
-      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 158181,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 163664,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 232968,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
         "name": "Welcome 2 Miami",
         "url": "https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 192923,
       "name": "Welcome 2 Miami",
       "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
+        "name": "ALL OVER AGAIN",
+        "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+        }
+      ],
+      "duration_ms": 181035,
+      "name": "ALL OVER AGAIN",
+      "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:14",
+      "album": {
         "name": "Identity",
         "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
       },
@@ -2043,22 +2063,18 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "ALL OVER AGAIN",
-        "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
+        "name": "Risk Everything",
+        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
       },
       "artists": [
         {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        },
-        {
-          "name": "LUMI",
-          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 181035,
-      "name": "ALL OVER AGAIN",
-      "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
+      "duration_ms": 153230,
+      "name": "Risk Everything",
+      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -2079,22 +2095,6 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:14",
-      "album": {
-        "name": "What U Like EP",
-        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
-      },
-      "artists": [
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     },
     {
       "added_at": "2026-09-11 04:01:14",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2026-09-11 04:01:14",
       "album": {
-        "name": "Risk Everything",
-        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
+        "name": "What U Like EP",
+        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Risk Everything",
-      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
+      "duration_ms": 193345,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     },
     {
       "added_at": "2026-09-11 04:01:14",

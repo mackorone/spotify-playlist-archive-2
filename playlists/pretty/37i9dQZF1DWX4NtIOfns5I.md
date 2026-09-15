@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,346 likes - 129 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,398 likes - 129 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 128 | [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 |
 | 129 | [Swimming](https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Swimming](https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV) | 4:21 |
 
-Snapshot ID: `AAAAAIGlQFS45xVjo7KKf63X18a7pKMS`
+Snapshot ID: `AAAAAKvvJ2jwt3Rys+sIbsrOwSM4criJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Jhené Aiko, Slayyyter, Bleachers, Spiritbox  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,630,114 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,629,803 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [WASTEDYOUTH](https://open.spotify.com/track/0VPCvOuj1l6JEY0m5Bkc9b) | [RedGhost](https://open.spotify.com/artist/2EhWa1Qx6iLvuql6JafBCe), [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [WASTEDYOUTH](https://open.spotify.com/album/74zx71zMJ4k9CZOn2u1G9x) | 3:11 |
 | 100 | [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 |
 
-Snapshot ID: `AAAAALcmyQcTE7O/dv/6IkPMOTxYReIm`
+Snapshot ID: `AAAAAIgBE/mExU0xppTQC+KgYk5pKEUH`

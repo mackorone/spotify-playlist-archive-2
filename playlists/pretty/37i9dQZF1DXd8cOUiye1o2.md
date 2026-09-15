@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 ### [New Music Hindi](https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2)
 
-> Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover: Awarapan 2
+> Celebrate the timeless bond of Siya Ram\. 'Jai Jai Ram' from Ramayana is out\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,997 likes - 74 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,079 likes - 74 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 73 | [Maahi Ve](https://open.spotify.com/track/4xnSTH8bB6PgVGyN92q08j) | [Shekhar Khanijo](https://open.spotify.com/artist/4rw24Kp8GUPToxrMHesi5S), [vivasvan](https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [Maahi Ve](https://open.spotify.com/album/0WBDYGYJhIZFHiH9wP55XK) | 3:21 |
 | 74 | [Yeh Duniya](https://open.spotify.com/track/3afNMElBBtkRPyR79DMyMJ) | [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15) | [Yeh Duniya](https://open.spotify.com/album/74EZZPUsRd1wMvDJtUI4gK) | 2:35 |
 
-Snapshot ID: `AAAAAJ9yyeKlL4qX2tVkYIHTB/ee8XN2`
+Snapshot ID: `AAAAAGVdQncgHwn59QlkjwhtADY4kZ+q`

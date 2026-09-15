@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJ7e9GrVwzh2jtmZgKhoOso5qd7",
+  "snapshot_id": "AAAAAFjFaEyFU4cN7TxTyFQ88q03QuZl",
   "tracks": [
     {
       "added_at": "2026-08-07 02:23:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Todas Elas (Deluxe)",
         "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Beleza. Mas agora a gente faz o que com isso?",
-        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 158461,
-      "name": "A Janela, Carolina",
-      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -879,6 +863,22 @@
       "duration_ms": 249706,
       "name": "Lenha",
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Beleza. Mas agora a gente faz o que com isso?",
+        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "A Janela, Carolina",
+      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Plays Great Songs",
+        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 134739,
+      "name": "Seville",
+      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Plays Great Songs",
-        "url": "https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 134739,
-      "name": "Seville",
-      "url": "https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB"
     },
     {
       "added_at": "2026-08-07 02:23:08",

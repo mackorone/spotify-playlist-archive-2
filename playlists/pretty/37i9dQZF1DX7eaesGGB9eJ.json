@@ -1,12 +1,12 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 307563,
+  "num_followers": 307664,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMaVIDLny+5BgvS4ejKoFtR26i7v",
+  "snapshot_id": "AAAAAM68hGqjlVu6r4y77IAn1qQMNY5f",
   "tracks": [
     {
       "added_at": "2024-07-12 18:14:48",
@@ -427,18 +427,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "La Ultima y Me Voy",
-        "url": "https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS"
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
       },
       "artists": [
         {
-          "name": "Mc Luka",
-          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
         }
       ],
-      "duration_ms": 231106,
-      "name": "La Vida Es un Rap",
-      "url": "https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn"
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -459,22 +463,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+        "name": "La Ultima y Me Voy",
+        "url": "https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS"
       },
       "artists": [
         {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+          "name": "Mc Luka",
+          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
         }
       ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
+      "duration_ms": 231106,
+      "name": "La Vida Es un Rap",
+      "url": "https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn"
     },
     {
       "added_at": "2024-07-12 18:14:48",

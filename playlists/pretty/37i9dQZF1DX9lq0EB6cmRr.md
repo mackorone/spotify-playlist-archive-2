@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 조수미\(Sumi Jo\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 99 | [Miracle](https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz) | [Forténa](https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5) | [Miracle](https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676) | 4:06 |
 | 100 | [Love Again](https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5) | [Paul Kim](https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R) | [Love Again](https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ) | 3:27 |
 
-Snapshot ID: `AAAAAH7Y4xid0G8Q6qjGsce7/h6ukK7o`
+Snapshot ID: `AAAAAKLJDWi6xDfuFZOgZu9j7hqK1Den`

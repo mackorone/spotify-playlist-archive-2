@@ -1,12 +1,12 @@
 {
   "description": "Zomer 2026 beleef je hier!",
-  "num_followers": 688799,
+  "num_followers": 688775,
   "original_name": "Summer 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3ZmsJkhdWbKQbG3y0rQTLxB9xP",
+  "snapshot_id": "AAAAAMntaL0Np35a8CNewrN0CI495wnG",
   "tracks": [
     {
       "added_at": "2026-09-12 07:35:54",
@@ -391,30 +391,6 @@
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
-    },
-    {
-      "added_at": "2026-09-12 07:35:54",
-      "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
       "added_at": "2026-09-12 07:35:54",

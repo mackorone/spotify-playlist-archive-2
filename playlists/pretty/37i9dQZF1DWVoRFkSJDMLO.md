@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Rema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,106 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,137 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 2 | [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 |
 | 3 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
 | 4 | [Hickey](https://open.spotify.com/track/4ZAs0580NyKWpPOkvgkkjs) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Kid Billionz](https://open.spotify.com/artist/0AOLswwydYenzx3nhjRH9J) | [Hickey](https://open.spotify.com/album/5HcuFBoAkUAKru4AFqj5Ob) | 1:55 |
-| 5 | [All Mines](https://open.spotify.com/track/5V74BpZqwTrLCPUqxU1Lsp) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [DCMBR](https://open.spotify.com/artist/4UQ37mKzrurYB6G23wAnaw), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 4:00 |
+| 5 | [All Mines](https://open.spotify.com/track/5V74BpZqwTrLCPUqxU1Lsp) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 4:00 |
 | 6 | [Aura](https://open.spotify.com/track/5iYbLtxZqQOctW238YZLXK) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Thrill Seeker](https://open.spotify.com/artist/5PvpKHJaw2v2B5v11au4W6) | [Aura](https://open.spotify.com/album/4rv10szqmcWEde3sA3db9B) | 3:04 |
 | 7 | [Love Like Her](https://open.spotify.com/track/3w7rR5UzrbJyn3sK28qYkD) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Love Like Her](https://open.spotify.com/album/40Wp2QGzDk4y5zSsYyYOyf) | 2:06 |
 | 8 | [Phenomenal](https://open.spotify.com/track/7tGKdDmlzMOnGXjPEXWCP7) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Phenomenal](https://open.spotify.com/album/0Ee4wGC2764dnA2cXHQgUs) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
 | 100 | [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 |
 
-Snapshot ID: `AAAAAJN01/hjz8N4CqETClhK6nFjB6cX`
+Snapshot ID: `AAAAALai3IkDhKnub3qFlFxj8oXggz6m`

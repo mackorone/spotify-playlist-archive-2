@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Andrea Bejar
+> The most exciting new music on our radar, featuring ADÉLA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,726 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,775 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wild Woman](https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Wild Woman](https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6) | 2:59 |
-| 2 | [L.U.C.K.Y \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 2:29 |
-| 3 | [Ghetto Love Story](https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/3AuLQEOciMYE6CXmwI9le6) | 2:58 |
-| 4 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
-| 5 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
-| 6 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
+| 1 | [Red Bottoms](https://open.spotify.com/track/3YkFwiHCOAfNVA6ZapZVSn) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:06 |
+| 2 | [Wild Woman](https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Wild Woman](https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6) | 2:59 |
+| 3 | [L.U.C.K.Y \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 2:29 |
+| 4 | [Ghetto Love Story](https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/3AuLQEOciMYE6CXmwI9le6) | 2:58 |
+| 5 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
+| 6 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
 | 7 | [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 |
 | 8 | [Another Chance](https://open.spotify.com/track/6b9pGjUDsLNnB4kJX4m9HF) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [A Sunflower Garden In Harlem Is Hard To Find](https://open.spotify.com/album/4D6P7yqmAavmi8MYG13jRe) | 2:12 |
 | 9 | [I'm What You Get](https://open.spotify.com/track/4qM74q1U8CbFzogg7b14X1) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [I'm What You Get](https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 50 | [breathless](https://open.spotify.com/track/3f1B7seoBSLXlyXS2QZU46) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 3:41 |
 
-Snapshot ID: `AAAAAOFh6pk7cGlqYbOKggWtn0ZEiNlq`
+Snapshot ID: `AAAAAAhg1GjEOXMcIf/I72OspVWbMcO2`

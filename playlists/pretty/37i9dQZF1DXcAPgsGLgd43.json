@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 121686,
+  "num_followers": 121719,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP+0CCQLF2sdsXaadf4tdsspHghy",
+  "snapshot_id": "AAAAAPH8855gWL67/uT+vBFVLRu0kBKA",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
-        }
-      ],
-      "duration_ms": 167397,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Beso (Fruta Fresca) [MichaelBM Remix]",
         "url": "https://open.spotify.com/album/6ZAVp3cuWAyj0FHy7CeC0C"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 221249,
       "name": "Beso (Fruta Fresca) - MichaelBM Remix",
       "url": "https://open.spotify.com/track/0KD920X1MFe2r3DxTflT2o"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+        }
+      ],
+      "duration_ms": 167397,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
         "name": "AY PAPI",
         "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
       },
@@ -1659,26 +1675,6 @@
       "duration_ms": 171124,
       "name": "AY PAPI",
       "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1743,6 +1739,26 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
         "name": "Baila Le Digo",
         "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 139702,
       "name": "Baila Le Digo",
       "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1903,6 +1879,30 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2026-09-11 04:01:26",

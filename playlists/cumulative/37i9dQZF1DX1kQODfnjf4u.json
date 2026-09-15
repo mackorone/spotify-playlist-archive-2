@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Calin & CA$HANOVA BULHAR",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: AD\u00c9LA",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "FURT PYTLE",
+        "url": "https://open.spotify.com/album/2Sn1G0zNN5lP16voDi1qW0"
+      },
+      "artists": [
+        {
+          "name": "Sanchez22",
+          "url": "https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO"
+        },
+        {
+          "name": "Press Premium",
+          "url": "https://open.spotify.com/artist/68idhuiqaTHiK9lKXTq469"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157475,
+      "name": "FURT PYTLE",
+      "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
+    },
+    {
+      "album": {
         "name": "Gambit",
         "url": "https://open.spotify.com/album/6QuyJZ11hFvR1VnweDNhwM"
       },
@@ -2736,7 +2758,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"

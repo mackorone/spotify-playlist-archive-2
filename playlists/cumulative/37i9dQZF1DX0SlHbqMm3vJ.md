@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Kaestyle
 
-1,048 songs - 2 day 2 hr 43 min
+1,049 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [OMG](https://open.spotify.com/track/1rykDqcJdmTcr8xqpkbEnc) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [For Times We Lost](https://open.spotify.com/album/3PAIF3G2cZ2hgopF1moQKI) | 2:42 | 2021-10-14 | 2022-03-23 |
 | [OMN](https://open.spotify.com/track/0CAUa9kxePlhXkBTQ9nBGz) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [ROZEY](https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4) | 2:40 | 2025-03-07 | 2025-05-12 |
 | [Omo Eko](https://open.spotify.com/track/7pN5oIZyVEEk8tFtxE7yBV) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Omo Eko](https://open.spotify.com/album/2cvVoqcWgOzJXRe0OH9BBN) | 2:33 | 2023-05-26 | 2023-11-10 |
-| [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 | 2026-08-21 |  |
+| [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 | 2026-08-21 | 2026-09-15 |
 | [OMW](https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Welcome To The Pack](https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln) | 2:21 | 2024-09-06 | 2024-12-22 |
 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 | 2025-12-05 | 2026-03-25 |
 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-06-26 | 2026-08-21 |
@@ -790,6 +790,7 @@
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2023-12-08 | 2024-06-28 |
 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 | 2024-11-29 | 2025-02-14 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 | 2024-10-13 |
+| [REVIVAL](https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [REVIVAL](https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH) | 3:11 | 2026-09-11 |  |
 | [Rice & Peas](https://open.spotify.com/track/05M4QRmytVTEO58puxL6Tp) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [At The End of The Night](https://open.spotify.com/album/4lPZ6lK0i2QVdSCXlPpoBu) | 3:23 | 2022-05-12 | 2022-06-10 |
 | [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 | 2023-12-01 | 2024-03-09 |
 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 | 2021-11-11 | 2023-05-21 |

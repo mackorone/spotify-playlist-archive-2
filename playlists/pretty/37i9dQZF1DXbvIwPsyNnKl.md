@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Gloc\-
+> The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Gloc\-9
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,888 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,097 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Leon \(Ka\)](https://open.spotify.com/track/643JRTr9lKVrOmgOTcUdEv) | [EZ MIL](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [Leon \(Ka\)](https://open.spotify.com/album/0GZ0anWavQubIILRMTMsLY) | 3:18 |
 | 50 | [BOMBA](https://open.spotify.com/track/0sOkijXePf8GltBTHySvDt) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [STREETZ MIXTAPE](https://open.spotify.com/album/57uX4wTw8fpDFxjwvhtYHJ) | 2:22 |
 
-Snapshot ID: `AAAAAEY0lRFdVAuylkbquGun5yhL4sh2`
+Snapshot ID: `AAAAAHVFHrrUg8kEAuy4qXfJYjLslKx7`

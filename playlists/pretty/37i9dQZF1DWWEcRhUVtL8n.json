@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Bleachers",
-  "num_followers": 1662345,
+  "num_followers": 1662263,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjHRmj24Ge6Cikm3rZEsAP6Rz3S",
+  "snapshot_id": "AAAAAGWcguJWHInM3VpBEr0x6mhsnBrt",
   "tracks": [
     {
       "added_at": "2026-09-11 04:02:26",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Rabbits Can Swim",
-        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 253675,
-      "name": "Rabbits Can Swim",
-      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 151671,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Take Me Out To The Disco",
-        "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 202402,
-      "name": "Take Me Out To The Disco",
-      "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+        "name": "Take Me Out To The Disco",
+        "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+      "duration_ms": 202402,
+      "name": "Take Me Out To The Disco",
+      "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1011,6 +995,22 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Romanticize",
-        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Romanticize",
-      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Bleeding Gold",
         "url": "https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 194466,
       "name": "Take Me to Sunrise",
       "url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Romanticize",
+        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Romanticize",
+      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
+      "added_at": "2026-09-11 04:02:26",
+      "album": {
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
+    },
+    {
       "added_at": "2026-08-28 04:02:45",
       "album": {
         "name": "Coldplay",
@@ -1627,22 +1643,6 @@
       "duration_ms": 228904,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
-    },
-    {
-      "added_at": "2026-09-11 04:02:26",
-      "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-08-28 04:02:45",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Vamsi Kalakuntla",
-  "num_followers": 45479,
+  "num_followers": 45489,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTl3PGUxeZBjQDwEWPyulAwTMYb",
+  "snapshot_id": "AAAAADeNRpWXhSHUPDCXTXi89ihHx2gK",
   "tracks": [
     {
       "added_at": "2026-08-13 09:09:29",
@@ -113,30 +113,6 @@
       "url": "https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ"
     },
     {
-      "added_at": "2026-06-19 05:43:05",
-      "album": {
-        "name": "Sukumaarive",
-        "url": "https://open.spotify.com/album/1Mnn9g8XXxRvDcdyPMi4D2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Suswaram",
-          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
-        },
-        {
-          "name": "VIKYK",
-          "url": "https://open.spotify.com/artist/7vJpZ5o50LXRpwIGKn9s2G"
-        },
-        {
-          "name": "Sravani Amarapu",
-          "url": "https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Sukumaarive",
-      "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
-    },
-    {
       "added_at": "2026-05-21 08:20:03",
       "album": {
         "name": "Vegam",
@@ -159,6 +135,30 @@
       "duration_ms": 181463,
       "name": "Vegam",
       "url": "https://open.spotify.com/track/77MLceeAJMHKjeKi6Uah6r"
+    },
+    {
+      "added_at": "2026-06-19 05:43:05",
+      "album": {
+        "name": "Sukumaarive",
+        "url": "https://open.spotify.com/album/1Mnn9g8XXxRvDcdyPMi4D2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "VIKYK",
+          "url": "https://open.spotify.com/artist/7vJpZ5o50LXRpwIGKn9s2G"
+        },
+        {
+          "name": "Sravani Amarapu",
+          "url": "https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Sukumaarive",
+      "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
     },
     {
       "added_at": "2026-08-17 07:13:06",
@@ -325,6 +325,30 @@
       "url": "https://open.spotify.com/track/3U2HEZDjXZQ98WHFzmSyOg"
     },
     {
+      "added_at": "2026-09-10 09:03:15",
+      "album": {
+        "name": "Kanneeti Kathaye",
+        "url": "https://open.spotify.com/album/1R3VOh3HNuA0NlFPMQN3IQ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Siddharth Tanuku",
+          "url": "https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N"
+        },
+        {
+          "name": "SreeSha",
+          "url": "https://open.spotify.com/artist/3asHAaYDcgTavWQcg76xxL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Kanneeti Kathaye",
+      "url": "https://open.spotify.com/track/7zMWnNSLMVunQFKhrqx6uh"
+    },
+    {
       "added_at": "2026-08-20 08:59:26",
       "album": {
         "name": "neevu nene",
@@ -403,30 +427,6 @@
       "duration_ms": 184692,
       "name": "Silakamma",
       "url": "https://open.spotify.com/track/5Q7mGQOrhO2zOAbAUbd8lj"
-    },
-    {
-      "added_at": "2026-09-10 09:03:15",
-      "album": {
-        "name": "Kanneeti Kathaye",
-        "url": "https://open.spotify.com/album/1R3VOh3HNuA0NlFPMQN3IQ"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Siddharth Tanuku",
-          "url": "https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N"
-        },
-        {
-          "name": "SreeSha",
-          "url": "https://open.spotify.com/artist/3asHAaYDcgTavWQcg76xxL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Kanneeti Kathaye",
-      "url": "https://open.spotify.com/track/7zMWnNSLMVunQFKhrqx6uh"
     },
     {
       "added_at": "2026-05-04 06:27:21",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/7omKsGRYfRTM3tuf2CCIr2"
     },
     {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Kaougili",
+        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Sankuri",
+          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "Kaougili",
+      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
+    },
+    {
       "added_at": "2026-06-19 05:43:05",
       "album": {
         "name": "Vedam",
@@ -723,22 +739,6 @@
       "duration_ms": 294545,
       "name": "Vedam",
       "url": "https://open.spotify.com/track/30L9XxaZhXBdWH608Jec1r"
-    },
-    {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Kaougili",
-        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
-      },
-      "artists": [
-        {
-          "name": "Abhinav Sankuri",
-          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
-        }
-      ],
-      "duration_ms": 167717,
-      "name": "Kaougili",
-      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
     },
     {
       "added_at": "2026-05-04 06:27:21",
@@ -813,26 +813,6 @@
       "url": "https://open.spotify.com/track/4RPrGHAfx79zn877n2DHKw"
     },
     {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Gamyam",
-        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        },
-        {
-          "name": "Balavardhan",
-          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
-        }
-      ],
-      "duration_ms": 260662,
-      "name": "Gamyam",
-      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
-    },
-    {
       "added_at": "2026-07-10 11:11:11",
       "album": {
         "name": "Naatu",
@@ -855,6 +835,26 @@
       "duration_ms": 197538,
       "name": "Naatu",
       "url": "https://open.spotify.com/track/4E27f7DTuAJQu8WuuaJvA3"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Gamyam",
+        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        },
+        {
+          "name": "Balavardhan",
+          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
+        }
+      ],
+      "duration_ms": 260662,
+      "name": "Gamyam",
+      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
     },
     {
       "added_at": "2026-03-12 14:20:28",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
     },
     {
-      "added_at": "2026-05-01 00:31:27",
-      "album": {
-        "name": "Marichaaney",
-        "url": "https://open.spotify.com/album/0ZpjzUp3bApCFbySZMrlLE"
-      },
-      "artists": [
-        {
-          "name": "ARKA",
-          "url": "https://open.spotify.com/artist/3jcPhfHFIpbx1W1MhvtM1L"
-        }
-      ],
-      "duration_ms": 196768,
-      "name": "Marichaaney",
-      "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
-    },
-    {
       "added_at": "2026-08-12 05:36:58",
       "album": {
         "name": "Vedhana",
@@ -1615,6 +1599,22 @@
       "duration_ms": 177879,
       "name": "Vedhana",
       "url": "https://open.spotify.com/track/5PYbVLwMbaBl2xAGKZLOiz"
+    },
+    {
+      "added_at": "2026-05-01 00:31:27",
+      "album": {
+        "name": "Marichaaney",
+        "url": "https://open.spotify.com/album/0ZpjzUp3bApCFbySZMrlLE"
+      },
+      "artists": [
+        {
+          "name": "ARKA",
+          "url": "https://open.spotify.com/artist/3jcPhfHFIpbx1W1MhvtM1L"
+        }
+      ],
+      "duration_ms": 196768,
+      "name": "Marichaaney",
+      "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
     },
     {
       "added_at": "2026-07-10 11:11:11",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP"
     },
     {
-      "added_at": "2026-07-10 11:11:11",
-      "album": {
-        "name": "Alajadi",
-        "url": "https://open.spotify.com/album/7z82LwT14sWcbElgRwvfHi"
-      },
-      "artists": [
-        {
-          "name": "SHRAP",
-          "url": "https://open.spotify.com/artist/1aCiGA5cTxbSNZ6AFj3yNh"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Alajadi",
-      "url": "https://open.spotify.com/track/6ayDIICYVw1Mpl9wJiW8fe"
-    },
-    {
       "added_at": "2026-03-13 08:50:39",
       "album": {
         "name": "Nene Chinnu",
@@ -1695,6 +1679,22 @@
       "duration_ms": 156269,
       "name": "Nene Chinnu",
       "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
+    },
+    {
+      "added_at": "2026-07-10 11:11:11",
+      "album": {
+        "name": "Alajadi",
+        "url": "https://open.spotify.com/album/7z82LwT14sWcbElgRwvfHi"
+      },
+      "artists": [
+        {
+          "name": "SHRAP",
+          "url": "https://open.spotify.com/artist/1aCiGA5cTxbSNZ6AFj3yNh"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Alajadi",
+      "url": "https://open.spotify.com/track/6ayDIICYVw1Mpl9wJiW8fe"
     },
     {
       "added_at": "2026-07-01 06:10:30",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/1X0F2svtTzNJHzQcf0GS7t"
     },
     {
-      "added_at": "2026-04-24 09:54:03",
-      "album": {
-        "name": "One shot",
-        "url": "https://open.spotify.com/album/3wkL33W4XonKpgZSIQh0Dz"
-      },
-      "artists": [
-        {
-          "name": "SHRAP",
-          "url": "https://open.spotify.com/artist/1aCiGA5cTxbSNZ6AFj3yNh"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "One shot",
-      "url": "https://open.spotify.com/track/18Wj3FgZJpemu5QR65FjeB"
-    },
-    {
       "added_at": "2026-09-07 00:00:22",
       "album": {
         "name": "Trust The Process",
@@ -1775,6 +1759,22 @@
       "duration_ms": 201599,
       "name": "Trust The Process",
       "url": "https://open.spotify.com/track/10SUNdWmkEZOS7Vqpmk9bo"
+    },
+    {
+      "added_at": "2026-04-24 09:54:03",
+      "album": {
+        "name": "One shot",
+        "url": "https://open.spotify.com/album/3wkL33W4XonKpgZSIQh0Dz"
+      },
+      "artists": [
+        {
+          "name": "SHRAP",
+          "url": "https://open.spotify.com/artist/1aCiGA5cTxbSNZ6AFj3yNh"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "One shot",
+      "url": "https://open.spotify.com/track/18Wj3FgZJpemu5QR65FjeB"
     },
     {
       "added_at": "2026-08-31 04:52:34",

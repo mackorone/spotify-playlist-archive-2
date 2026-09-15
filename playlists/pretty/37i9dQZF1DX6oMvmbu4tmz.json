@@ -1,12 +1,12 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 54462,
+  "num_followers": 54459,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzT2Zz2U2E5BaQYij08MgQJJ3Zx",
+  "snapshot_id": "AAAAAGijPxayrn0kxNpCbs+oM2bMjPIA",
   "tracks": [
     {
       "added_at": "2021-02-22 12:39:10",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -219,6 +203,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Year of Summer",
-        "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Year Of Summer",
-      "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Tears (feat. Louisa Johnson)",
         "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 225914,
       "name": "Tears (feat. Louisa Johnson)",
       "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Year of Summer",
+        "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Year Of Summer",
+      "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "September Song",
         "url": "https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0"
     },
     {
       "added_at": "2021-02-22 12:39:10",

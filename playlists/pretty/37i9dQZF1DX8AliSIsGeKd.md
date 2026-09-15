@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,451 likes - 90 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,491 likes - 90 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [SPECIAL TOUCH](https://open.spotify.com/track/5NzIaKUHQRYBVfIkK8J9zX) | [DJ GUESTLIST](https://open.spotify.com/artist/2n7VLaVMlGpxqmt05OiMCB), [Cleopard2000](https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl) | [SPECIAL TOUCH](https://open.spotify.com/album/0OtyzgQ6RecXzXvCO9eIKT) | 3:34 |
 | 90 | [Hey You](https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hey You](https://open.spotify.com/album/43agWeNDQeBlQBR2gZqHA6) | 2:27 |
 
-Snapshot ID: `AAAAAMBDEJWWUvyddeZlRqbCFByHQam0`
+Snapshot ID: `AAAAAFJhXVzGiN04JmE11K3nEaktG8p3`

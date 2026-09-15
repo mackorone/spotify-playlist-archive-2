@@ -4,7 +4,7 @@
 
 > Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2
 
-62 songs - 3 hr 14 min
+63 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Etre moi](https://open.spotify.com/track/7tH1YS2fQ1fHUNeGrku4p3) | [Sheryne](https://open.spotify.com/artist/0ox3IOtH9d4X2i7U8S3QzI) | [Camp Rock: Around the World](https://open.spotify.com/album/3w2PFf6HoNU83zUw6566uv) | 3:05 | 2026-08-14 |  |
 | [Fire \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/3xtJ0ELyByUQ64MMnny6U8) | [Matthew "Mdot" Finley](https://open.spotify.com/artist/6VlHZVWsWDe7xtzWk5HxCk) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:01 | 2026-08-14 |  |
 | [Get Ready](https://open.spotify.com/track/7hJjX1H5c0L6Y11VLRouFp) | [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:32 | 2026-08-14 |  |
+| [Get Ready \(Guitar Version\)](https://open.spotify.com/track/5SQtZN2fhy96gQSYVHatfT) | [IIya Toshinskiy](https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT) | [Get Ready \(From "Camp Rock 3"\)](https://open.spotify.com/album/5CLdtYWFuvjLopeAw7ERQR) | 3:11 | 2026-09-14 |  |
 | [Gotta Find You \- From "Camp Rock"/Soundtrack Version](https://open.spotify.com/track/2oOCYaGkOpOB5HPo15cEGl) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 4:01 | 2026-08-14 |  |
 | [Hasta La Vista](https://open.spotify.com/track/4GT4VzIm00IL3bjMm2mqxu) | [Jimmi Felix](https://open.spotify.com/artist/5rhJ1PNBk8c1Vk9iJpH64J), [Vasudha](https://open.spotify.com/artist/5M8svy0VwhcEt2lEdZklBG) | [Camp Rock: Around the World](https://open.spotify.com/album/3w2PFf6HoNU83zUw6566uv) | 2:33 | 2026-08-14 |  |
 | [Hasta La Vista](https://open.spotify.com/track/2tQjS2hrxfrtJQFIdHeXGD) | [Jordan Francis](https://open.spotify.com/artist/3HYpSvGctSamkShNEVX9gS), [Roshon Bernard Fegan](https://open.spotify.com/artist/4KjG4emUTLHwlMrWRjUwwB) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 2:35 | 2026-08-14 |  |

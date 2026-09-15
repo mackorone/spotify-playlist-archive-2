@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 185486,
       "name": "Costumbres Argentinas",
       "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
@@ -3336,6 +3336,24 @@
       "duration_ms": 180989,
       "name": "malas decisiones",
       "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
+    },
+    {
+      "album": {
+        "name": "Lo Que Pasaba Mientras Dorm\u00edas",
+        "url": "https://open.spotify.com/album/17JWZo2en5rJUe11v6BkrZ"
+      },
+      "artists": [
+        {
+          "name": "Hombrepi\u00e9",
+          "url": "https://open.spotify.com/artist/48NY4qJsOnH3FpMT1n3Ubv"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178163,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/3amRDtPohjGS1aEZuNC9el"
     },
     {
       "album": {

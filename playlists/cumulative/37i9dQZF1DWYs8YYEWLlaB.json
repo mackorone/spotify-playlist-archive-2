@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler. Kapak: Filenin Sultanlar\u0131 \ud83c\uddf9\ud83c\uddf7",
+  "description": "viral, trend ve y\u00fckselenler. Kapak: Baneva",
   "name": "trend 2026",
   "tracks": [
     {
@@ -180,6 +180,24 @@
       "duration_ms": 110000,
       "name": "Ait Hissetmiyorum",
       "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
+    },
+    {
+      "album": {
+        "name": "Ak\u015fam Oldu Sokaklar Yine Tenha",
+        "url": "https://open.spotify.com/album/11mMd3TDxU46XY4V2fVkpd"
+      },
+      "artists": [
+        {
+          "name": "Sadece Celal",
+          "url": "https://open.spotify.com/artist/0oJULFUhjiY2mboBp96NcA"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Ak\u015fam Oldu Sokaklar Yine Tenha",
+      "url": "https://open.spotify.com/track/4tl7cLzKxFAE3lCp41Nkk4"
     },
     {
       "album": {
@@ -853,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Benim Olsana",
+        "url": "https://open.spotify.com/album/294VZB9TyHpZnhktpxVQtY"
+      },
+      "artists": [
+        {
+          "name": "CRUSH",
+          "url": "https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Benim Olsana",
+      "url": "https://open.spotify.com/track/5PW7h2o6qYWUmwAultwZdf"
+    },
+    {
+      "album": {
         "name": "SIR",
         "url": "https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk"
       },
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 256470,
       "name": "Bir Oluruz Yolunda - Version 1",
       "url": "https://open.spotify.com/track/4gAB2dr4FfTUVgJooEoFVe"
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 138947,
       "name": "Kutupta Yaz Gibi",
       "url": "https://open.spotify.com/track/28wSrbbf6vnix8F6vcHGFZ"

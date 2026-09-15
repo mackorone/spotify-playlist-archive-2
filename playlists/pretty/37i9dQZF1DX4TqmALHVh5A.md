@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Thx4Crying, Yoa & Safia Nolin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,706 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,705 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [LE BAR](https://open.spotify.com/track/0yeBYOM0O0IOoC2fajIKjZ) | [JOËN](https://open.spotify.com/artist/5FQRFB6WYZLVKAALf2Vqqx) | [LE BAR](https://open.spotify.com/album/10cvRHol744gMED4YKcIpX) | 2:28 |
 | 50 | [Je m'en fous](https://open.spotify.com/track/5MXnHVg8xcGfXHuAnqTJKn) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Je m'en fous](https://open.spotify.com/album/3N3acClUyVjKLl7i4N1b1S) | 3:02 |
 
-Snapshot ID: `AAAAAI10ky0+iDP0hz15d8rCUVNCluBA`
+Snapshot ID: `AAAAALgtbdT03NiZrrqoX3mkT2Vjlxec`

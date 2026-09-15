@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Onyach Pala
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,225 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,243 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 59 | [Mali Safi](https://open.spotify.com/track/3dM8r9wO8bOGEJ6kE7Kx9y) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Mali Safi](https://open.spotify.com/album/1jjH7CUkYpaTb7L2GY6dNW) | 4:01 |
 | 60 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 |
 
-Snapshot ID: `AAAAABGBUQevi1/GlQ2ATNRAi8itlneu`
+Snapshot ID: `AAAAAPh2yUZb7QOoSuZFue0NEYr+8cX8`

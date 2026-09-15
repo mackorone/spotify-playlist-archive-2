@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Beltran
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,373 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,276 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Messi](https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G) | [João Brasil](https://open.spotify.com/artist/7MPhjKo9pLJ7mPJOOxeIf4), [Mary Zander](https://open.spotify.com/artist/7hJLpw326kpcd3f3YXrVz1), [Jararaca Sound System](https://open.spotify.com/artist/0tu9kO59fquOERFCdnqibF), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Messi](https://open.spotify.com/album/4JkG9h2ZAmA4VWhOiwci5X) | 2:24 |
 | 50 | [Baby Boy](https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU) | [Baby Boy](https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo) | 3:30 |
 
-Snapshot ID: `AAAAANlH6DyvASDak8kANH1TKe94yHKO`
+Snapshot ID: `AAAAAD+I6p4I2GFBWtpSNPFKgYW05kuL`

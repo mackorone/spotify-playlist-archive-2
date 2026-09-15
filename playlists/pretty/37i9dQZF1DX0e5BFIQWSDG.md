@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Ειδική Έκδοση Giorgos Mazonakis
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,752 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,869 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 50 | [CHANEL](https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 3:23 |
 
-Snapshot ID: `AAAAAE9OzmweUJKjIc+9EBP09VJropsl`
+Snapshot ID: `AAAAAN99HmbybrJzkAwtcHJrRnRCnBTN`

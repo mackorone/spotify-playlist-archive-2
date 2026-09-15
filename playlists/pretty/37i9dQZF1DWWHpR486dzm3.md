@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,869 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,870 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 99 | [CCTV](https://open.spotify.com/track/4vcvu6ZZH1hNTJwKSHf9oh) | [Ghosts on TV](https://open.spotify.com/artist/2ZajVdMwsg3XJw3Sq7vuBT) | [CCTV](https://open.spotify.com/album/6n45dxSPwVvcGcy97KE8HP) | 7:08 |
 | 100 | [Runotyttö](https://open.spotify.com/track/2tVgjshGU7cNNPvsKYDCJU) | [Pegasos](https://open.spotify.com/artist/6ENrU97gz7eCdHdM77WHdI) | [Hyvä noita](https://open.spotify.com/album/3XVlNJ3oXQylsTOdllp0bQ) | 3:46 |
 
-Snapshot ID: `AAAAACpANhU/FHHMdvU0jO4ZWxY160LH`
+Snapshot ID: `AAAAAEFN0yXhjCmSMZj9WHe12GOUcp5U`

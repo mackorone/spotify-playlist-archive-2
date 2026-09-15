@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 83838,
+  "num_followers": 83905,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpo+MkXE/yWWCAc3jvKnRPHSqJQ",
+  "snapshot_id": "AAAAANHz0B2UrfEaipbIBSRNnskjcoqi",
   "tracks": [
     {
       "added_at": "2026-09-11 21:07:48",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Quiero Volver a Ser Romeo",
-        "url": "https://open.spotify.com/album/3ilCq0Yw6zkmUldX81gy7j"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos de Chile",
-          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
-        }
-      ],
-      "duration_ms": 241002,
-      "name": "Quiero Volver a Ser Romeo",
-      "url": "https://open.spotify.com/track/5UKgp6inBN6fI1ZQ3fg2ON"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Me Sobrabas T\u00fa",
         "url": "https://open.spotify.com/album/4z8MoB4vFVQMgUBOZpd6Xf"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 196500,
       "name": "Me Sobrabas T\u00fa",
       "url": "https://open.spotify.com/track/3fhu9H9xWPKm8ph0ivHUYK"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Quiero Volver a Ser Romeo",
+        "url": "https://open.spotify.com/album/3ilCq0Yw6zkmUldX81gy7j"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos de Chile",
+          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
+        }
+      ],
+      "duration_ms": 241002,
+      "name": "Quiero Volver a Ser Romeo",
+      "url": "https://open.spotify.com/track/5UKgp6inBN6fI1ZQ3fg2ON"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Magia",
-        "url": "https://open.spotify.com/album/63NoNp8ngqTGgRJcMx5DY6"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos de Chile",
-          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
-        }
-      ],
-      "duration_ms": 250278,
-      "name": "La Magia",
-      "url": "https://open.spotify.com/track/172SV9dOah2zXqcRUBpkNO"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Te Hicieron para Mi",
         "url": "https://open.spotify.com/album/0g5BacbjflXRJny3SCDgLp"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 175250,
       "name": "Te Hicieron para Mi",
       "url": "https://open.spotify.com/track/3q9qsaWouYk73zNbvzMvie"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Magia",
+        "url": "https://open.spotify.com/album/63NoNp8ngqTGgRJcMx5DY6"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos de Chile",
+          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
+        }
+      ],
+      "duration_ms": 250278,
+      "name": "La Magia",
+      "url": "https://open.spotify.com/track/172SV9dOah2zXqcRUBpkNO"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Si Te Vuelvo a Llamar",
-        "url": "https://open.spotify.com/album/0JqKHvv61xOGlP2xQIKfPA"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos de Chile",
-          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
-        }
-      ],
-      "duration_ms": 223084,
-      "name": "Si Te Vuelvo a Llamar",
-      "url": "https://open.spotify.com/track/3QhlMb15nObKZNfMTSLEvC"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 185067,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Si Te Vuelvo a Llamar",
+        "url": "https://open.spotify.com/album/0JqKHvv61xOGlP2xQIKfPA"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos de Chile",
+          "url": "https://open.spotify.com/artist/0ryiNdocJHAPmweHeNhp9r"
+        }
+      ],
+      "duration_ms": 223084,
+      "name": "Si Te Vuelvo a Llamar",
+      "url": "https://open.spotify.com/track/3QhlMb15nObKZNfMTSLEvC"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "De Padre Desconocido",
+        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "AMORES DE CAMPO 2",
         "url": "https://open.spotify.com/album/5xxTZuXauHpsomQvneYw9n"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 218409,
       "name": "YO TE CUIDAR\u00c9",
       "url": "https://open.spotify.com/track/1pfWuXWCfa8r6BQwBN4iit"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "De Padre Desconocido",
-        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Dos Monedas",
-      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Ella, La Que No Quiso",
-        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 275676,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Siempre en Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 311016,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Ella, La Que No Quiso",
+        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 275676,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 265789,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 188577,
       "name": "Mi Complice",
       "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "La Pagar\u00e1s",
+        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 232190,
+      "name": "La Pagar\u00e1s",
+      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "Mi Huasita Bonita",
         "url": "https://open.spotify.com/album/6sn4MZ1GU2mLsaiT488nfs"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "La Pagar\u00e1s",
-        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 232190,
-      "name": "La Pagar\u00e1s",
-      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
     },
     {
       "added_at": "2026-09-11 21:07:48",

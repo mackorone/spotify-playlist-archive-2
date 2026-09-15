@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/5d6x4Ehgb9pjVOmlhvJ7d9"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233985,
+      "name": "18",
+      "url": "https://open.spotify.com/track/2Rcx24MhQiYVpOIVT8KrxA"
+    },
+    {
+      "album": {
         "name": "1990special",
         "url": "https://open.spotify.com/album/6eALivzXxR9h9uPI4Aiiwp"
       },
@@ -69466,7 +69484,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 235837,
       "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"

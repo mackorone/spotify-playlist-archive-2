@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 34125,
+  "num_followers": 34132,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQYq744z4OP1VlGKsSYN22OZd9Y",
+  "snapshot_id": "AAAAAEfyPp4yVvXZmHvdL/zWnAvLCWiA",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:19",
@@ -695,30 +695,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Bossa De Flauta",
         "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
       },
@@ -743,18 +719,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Wait 4 Me",
-        "url": "https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf"
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
       },
       "artists": [
         {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 116791,
-      "name": "Wait 4 Me",
-      "url": "https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO"
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -771,6 +755,22 @@
       "duration_ms": 145200,
       "name": "Sunset on Vallarta",
       "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "duration_ms": 116791,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Landscape Ride",
         "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 147700,
       "name": "Landscaper",
       "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Sosiego",
         "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 108203,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "un atardecer a tu lado",
         "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 101065,
       "name": "bailar contigo",
       "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
-      },
-      "artists": [
-        {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Ciudad de Papel",
         "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+      },
+      "artists": [
+        {
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/1UkmUDvr8N92hRv5L0H9Mh"
-      },
-      "artists": [
-        {
-          "name": "Sunsplash",
-          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
-        },
-        {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1UkmUDvr8N92hRv5L0H9Mh"
+      },
+      "artists": [
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        },
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
     },
     {
       "added_at": "2025-04-04 04:00:19",

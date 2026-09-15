@@ -1,12 +1,12 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35989,
+  "num_followers": 36002,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkFPeRRyee2uYgmffQ8YPjAviqA",
+  "snapshot_id": "AAAAACqxrErXrXfuYXi2KTCtVjfhnG6M",
   "tracks": [
     {
       "added_at": "2024-08-29 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Bland tomtar och troll",
         "url": "https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202493,
       "name": "Gamla ideal",
       "url": "https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
+        "url": "https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Vill inte va med",
+      "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Gryningstid",
         "url": "https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 237933,
       "name": "Tro R\u00e4tt Tro Fel",
       "url": "https://open.spotify.com/track/28KiLHuaP4bJZwkEFCVs1N"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "V\u00e4lkommen till fabriken",
         "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 247826,
       "name": "Dra \u00e5t helvete",
       "url": "https://open.spotify.com/track/2DMzbFByVFAKNuxXnpS6EU"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
-        "url": "https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Vill inte va med",
-      "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,412 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,414 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 19 | [Leave The Sun Behind](https://open.spotify.com/track/0W6oV7MeL0PWEymCdYJRvZ) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Leave The Sun Behind](https://open.spotify.com/album/6uBWqFmQLjfo7NLXTWEHk2) | 2:55 |
 | 20 | [Hoe Het Was \- Soundtrack Sugar](https://open.spotify.com/track/2bbHVpkJpKaOhWZC3Gc6gl) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Hoe Het Was \(Soundtrack Sugar\)](https://open.spotify.com/album/2TstwRNGkFEpozKUEmxscU) | 3:01 |
 | 21 | [Morning Dew](https://open.spotify.com/track/3oNwkp57XpiKpATcvt1HH4) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Morning Dew](https://open.spotify.com/album/49Hr4Ak5Xw6mJD3TEuhF81) | 3:03 |
-| 22 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
-| 23 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
+| 22 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
+| 23 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 | 24 | [Stoute schoenen](https://open.spotify.com/track/1M4LtvNTcns8K9tK4RjYWs) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Stoute schoenen](https://open.spotify.com/album/22GyytvsV4azUTmKLMi3bm) | 2:56 |
 | 25 | [1 Keer Jong](https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [1 Keer Jong](https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9) | 2:20 |
 | 26 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 28 | [Oh Zo Hopeloos](https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Oh Zo Hopeloos](https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik) | 2:46 |
 | 29 | [Rode Roos](https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Rode Roos](https://open.spotify.com/album/5cmmeEkArv1qaXxgEczNET) | 2:36 |
 | 30 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
-| 31 | [Meditation](https://open.spotify.com/track/4NizFdh2kwoZmtMEzcPAe6) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Meditation](https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t) | 3:05 |
-| 32 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
-| 33 | [Alleen](https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Alleen](https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz) | 2:48 |
-| 34 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
-| 35 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
-| 36 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
-| 37 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
+| 31 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 32 | [Meditation](https://open.spotify.com/track/4NizFdh2kwoZmtMEzcPAe6) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Meditation](https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t) | 3:05 |
+| 33 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
+| 34 | [Alleen](https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Alleen](https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz) | 2:48 |
+| 35 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
+| 36 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
+| 37 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
 | 38 | [Trapped](https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG) | [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Trapped](https://open.spotify.com/album/6mZvZOnQVz7AKPaTUS3UTK) | 3:11 |
 | 39 | [Waking up slow](https://open.spotify.com/track/4PFWmQYECVuFaAHEIrSUBn) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Here, I am alone with You](https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY) | 2:37 |
 | 40 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 49 | [Sober](https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM) | [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [Sober](https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl) | 3:01 |
 | 50 | [Karma](https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Karma](https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT) | 2:21 |
 | 51 | [Emotionally Unavailable](https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Emotionally Unavailable](https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4) | 2:20 |
-| 52 | [KEEP UP](https://open.spotify.com/track/0pQvbfLJIbbkCXMTCLikxN) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [KEEP UP](https://open.spotify.com/album/7aWPK2KwFcZPZq1l97CphN) | 3:17 |
-| 53 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 52 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 53 | [KEEP UP](https://open.spotify.com/track/0pQvbfLJIbbkCXMTCLikxN) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [KEEP UP](https://open.spotify.com/album/7aWPK2KwFcZPZq1l97CphN) | 3:17 |
 | 54 | [Clock That](https://open.spotify.com/track/3Ddo6adYSW9uPTW56whicS) | [Goldy](https://open.spotify.com/artist/7v822kZ5QbethHUnJAFkSA) | [Clock That](https://open.spotify.com/album/2gzyNSmcJSTDTOytnj8bns) | 2:15 |
 | 55 | [Everything](https://open.spotify.com/track/18mCHcuA8CTMP3MbBvlQFy) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Everything](https://open.spotify.com/album/2RovjXadu6XK1EGE04hJFT) | 2:27 |
 | 56 | [Lucy \(Acoustic\)](https://open.spotify.com/track/20SeS0DB6vYwf3z0muFz45) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [The Different Lives of Lucy](https://open.spotify.com/album/6o3xGchVNgD8OmrwGByYls) | 3:47 |
 
-Snapshot ID: `AAAAADP+FteatjEUn3zRkxSRZq5vR29w`
+Snapshot ID: `AAAAAB3vACT6KvGOIAqBxXMPhAXt/Mxm`

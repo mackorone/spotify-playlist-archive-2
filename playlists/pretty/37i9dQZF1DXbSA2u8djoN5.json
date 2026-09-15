@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPktTsuhlm8Prk1dOinM5ef/03DR",
+  "snapshot_id": "AAAAAPPYk5d0Hxif49XTgbzan0BHpSj8",
   "tracks": [
     {
       "added_at": "2026-09-11 10:59:07",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-09-11 10:59:07",
       "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
-      },
-      "artists": [
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        },
-        {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
-    },
-    {
-      "added_at": "2026-09-11 10:59:07",
-      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-09-11 10:59:07",
+      "album": {
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
     },
     {
       "added_at": "2026-09-11 10:59:07",

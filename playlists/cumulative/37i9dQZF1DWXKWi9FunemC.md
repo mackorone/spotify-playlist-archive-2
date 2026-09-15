@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-531 songs - 1 day 9 hr 9 min
+532 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 | 2020-08-31 | 2023-07-29 |
 | [best thing](https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [best thing](https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9) | 3:53 | 2026-03-23 |  |
 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 | 2024-08-03 | 2026-02-26 |
+| [Beyond](https://open.spotify.com/track/2lfYCvXb6c8xeHGyVh75cP) | [SUNS](https://open.spotify.com/artist/13Vnt5pLnf1DOOBBVDOVfi) | [Beyond](https://open.spotify.com/album/3ryY2eP4zYouJZubWkT5RL) | 3:50 | 2026-07-29 |  |
 | [Bibles Again](https://open.spotify.com/track/3BpGShSSLe8vIxtQvuWILQ) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Bibles Again](https://open.spotify.com/album/3kx3JtanfbamWIGtqIFOwn) | 3:18 | 2026-07-29 |  |
 | [Blessed](https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [Blessed](https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ) | 4:37 | 2025-08-06 | 2025-10-11 |
 | [Boundary Lines](https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9) | [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Boundary Lines](https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9) | 4:03 | 2026-03-23 |  |
@@ -532,7 +533,7 @@
 | [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 | 2020-08-31 | 2025-10-11 |
 | [You Never Let Go](https://open.spotify.com/track/21h586y5qWLuZH3OlmZfNO) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [You Never Let Go](https://open.spotify.com/album/0ZmYtfNRzQutcgy0gYeTGE) | 3:12 | 2025-08-06 | 2026-03-24 |
 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 | 2025-10-19 |  |
-| [You Were There](https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [You Were There](https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh) | 4:15 | 2025-12-12 |  |
+| [You Were There](https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [You Were There](https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh) | 4:15 | 2025-12-12 | 2026-09-15 |
 | [You're Beautiful](https://open.spotify.com/track/6kSvZsBpTP83Vhu7n2X1nh) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Seth & Rachel Enos](https://open.spotify.com/artist/3aIj1RVykNBsuenDAKWDax), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Anthem Worship Nights](https://open.spotify.com/album/0dpbfxcFAA5D9UcRr71Qal) | 4:03 | 2025-08-06 | 2026-07-30 |
 | [Your Friend](https://open.spotify.com/track/5zr31oaC7xFN3vck4Fh7hs) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Your Friend](https://open.spotify.com/album/3G58HpqUFhdC9nvpzYMMxB) | 2:40 | 2024-06-23 | 2024-08-03 |
 | [Your Lead](https://open.spotify.com/track/0dfFm85NRrRj8XchR4nqEW) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Your Lead](https://open.spotify.com/album/5azCVHO1QJp8hBcixAVWGc) | 2:22 | 2026-03-23 | 2026-07-30 |

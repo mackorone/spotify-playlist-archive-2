@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Myles 6ix",
-  "num_followers": 55682,
+  "num_followers": 55731,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsJQkJnG2poZl6vyAPZ1YHV2cU/",
+  "snapshot_id": "AAAAAAP3FBKvz/sUFTWBA6CdkJsyMrZM",
   "tracks": [
     {
       "added_at": "2026-09-10 23:00:22",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
         }
       ],
-      "duration_ms": 294368,
-      "name": "Agradecido",
-      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
       },
       "artists": [
         {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+      "duration_ms": 294368,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 242970,
-      "name": "Dire\u00e7\u00e3o Paris",
-      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
         "name": "+ Reservado",
         "url": "https://open.spotify.com/album/65EamwZnZsgVnompZedhm4"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 175500,
       "name": "Bem Zen",
       "url": "https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
-        "name": "Traumas",
-        "url": "https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "Traumas",
-      "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
+        "name": "Traumas",
+        "url": "https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "Traumas",
+      "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1287,6 +1287,22 @@
       "duration_ms": 152470,
       "name": "\u00c0 Procura",
       "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1335,22 +1351,6 @@
       "duration_ms": 172800,
       "name": "Talvez",
       "url": "https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2026-09-10 23:00:22",

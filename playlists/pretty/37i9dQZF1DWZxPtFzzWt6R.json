@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115065,
+  "num_followers": 115082,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+4elYoq2q/SmsyxnPnrJf1rrzn",
+  "snapshot_id": "AAAAAOq8g3pp2HV7oGTI4lWSrWyMCx6j",
   "tracks": [
     {
       "added_at": "2026-09-08 19:57:09",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Minha Raiz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3MJn59Q4FvSQjkZKV8ISe2"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Minha Raiz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1t8nIeKS6NlRLIVmiOhSXE"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Contigo At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 243714,
       "name": "Contigo At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Minha Raiz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3MJn59Q4FvSQjkZKV8ISe2"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Minha Raiz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1t8nIeKS6NlRLIVmiOhSXE"
     },
     {
       "added_at": "2026-09-08 19:57:09",

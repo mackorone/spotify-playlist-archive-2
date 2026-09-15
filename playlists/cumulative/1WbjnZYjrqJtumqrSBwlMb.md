@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,362 songs - 3 day 11 hr 52 min
+1,363 songs - 3 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-04-24 |  |
 | [Do I Wanna Know? \- Live](https://open.spotify.com/track/5zDoSmh06F7kjXGIHFhQzh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Live at the Royal Albert Hall](https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE) | 4:41 | 2023-09-13 |  |
 | [DO IT](https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:45 | 2024-03-15 | 2026-03-29 |
+| [Do It](https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 | 2026-09-14 |  |
 | [Do Me a Favour](https://open.spotify.com/track/2BqfIlpahcebJPeu1IUTEo) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:29 | 2022-06-20 |  |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 |  |
 | [Do You Know Me By Heart](https://open.spotify.com/track/1rFHr13hRBT7jt6h9JNrQI) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 4:51 | 2024-06-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 200925,
+  "num_followers": 200904,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF26szigoBBXF5ER10DJ7R/Ds1uo",
+  "snapshot_id": "AAAAAF5+LVffLJGPsxowckuYiJv+KXHj",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2025-09-18 22:01:59",

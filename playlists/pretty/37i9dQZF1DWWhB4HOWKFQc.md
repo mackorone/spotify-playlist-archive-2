@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Mahalini
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,433 likes - 109 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,421 likes - 109 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 108 | [All I Need To Hear](https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 3:30 |
 | 109 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 
-Snapshot ID: `AAAAANC/jY3x0cn3WR7zmAvB3iClCb/M`
+Snapshot ID: `AAAAADyyhoXpZXnXVJOSq/L83ZV0AnwJ`

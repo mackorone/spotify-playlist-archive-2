@@ -1,12 +1,12 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 144157,
+  "num_followers": 144189,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADd61scFodYHhtO3iw7tfyoligsH",
+  "snapshot_id": "AAAAAH+eHgjJaLDOthlGOJTiP+zSUmaV",
   "tracks": [
     {
       "added_at": "2026-09-10 07:08:38",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/3oh78sSYIUUeRvMMZAbgPe"
+      },
+      "artists": [
+        {
+          "name": "Dushyant Bhatt",
+          "url": "https://open.spotify.com/artist/5Lh55pfwm77zTtZTeCtjyK"
+        }
+      ],
+      "duration_ms": 182161,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
         "name": "Main Ghalib",
         "url": "https://open.spotify.com/album/7qyzHkSbeQgKvrwLaaCYM1"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 60905,
       "name": "Dil-E-Naadaan Tujhe Hua Kya Hai",
       "url": "https://open.spotify.com/track/32pak2UWgCO1r5fZwUPKOa"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
-        "name": "Ghar",
-        "url": "https://open.spotify.com/album/3oh78sSYIUUeRvMMZAbgPe"
-      },
-      "artists": [
-        {
-          "name": "Dushyant Bhatt",
-          "url": "https://open.spotify.com/artist/5Lh55pfwm77zTtZTeCtjyK"
-        }
-      ],
-      "duration_ms": 182161,
-      "name": "Ghar",
-      "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -395,46 +395,6 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
-        "name": "Dil Ke Chhaale",
-        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
-      },
-      "artists": [
-        {
-          "name": "Prithvi Gandharv",
-          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Shahab Hussain",
-          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
-        }
-      ],
-      "duration_ms": 322554,
-      "name": "Dil Ke Chhaale",
-      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
-        "name": "Marasim",
-        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 376200,
-      "name": "Ek Purana Mausam Lauta",
-      "url": "https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/5dz42ayxujCHStVTj10rzW"
       },
@@ -471,6 +431,46 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
+        "name": "Marasim",
+        "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 376200,
+      "name": "Ek Purana Mausam Lauta",
+      "url": "https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
+        "name": "Dil Ke Chhaale",
+        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "duration_ms": 322554,
+      "name": "Dil Ke Chhaale",
+      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
         "name": "Yaar Khafaa (Irshad - Mehfilz with Papon) (From The Living Room)",
         "url": "https://open.spotify.com/album/26ejQYhPYbx9sMN1O79Isr"
       },
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
+        "name": "Kaise Keh Dein",
+        "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Kaise Keh Dein",
+      "url": "https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 343118,
       "name": "Har zulm tera yaad hai",
       "url": "https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
-        "name": "Kaise Keh Dein",
-        "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Kaise Keh Dein",
-      "url": "https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -591,22 +591,22 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
-        "name": "Kya Batayein",
-        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+        "name": "Baalam",
+        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
       },
       "artists": [
         {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
         },
         {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
         }
       ],
-      "duration_ms": 260640,
-      "name": "Kya Batayein",
-      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
+      "duration_ms": 260952,
+      "name": "Baalam",
+      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
-        "name": "Baalam",
-        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        }
-      ],
-      "duration_ms": 260952,
-      "name": "Baalam",
-      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
         "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
         "url": "https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 348478,
       "name": "Ab Chhalakte Hue (From \"Bhoomi 2025\")",
       "url": "https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
+        "name": "Kya Batayein",
+        "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "duration_ms": 260640,
+      "name": "Kya Batayein",
+      "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
+        "name": "Aaeena",
+        "url": "https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 305946,
+      "name": "Parakhana Mat",
+      "url": "https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
         "name": "Gham Ka Khazana - Magic Moments Music Studio Season 1",
         "url": "https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 228885,
       "name": "Gham Ka Khazana - Magic Moments Music Studio Season 1",
       "url": "https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
-        "name": "Aaeena",
-        "url": "https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 305946,
-      "name": "Parakhana Mat",
-      "url": "https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
+        "name": "Muddat Hui Hai",
+        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        }
+      ],
+      "duration_ms": 416640,
+      "name": "Muddat Hui Hai",
+      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
         "name": "Ab Vo Baat Kahaan",
         "url": "https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 333000,
       "name": "Ab Vo Baat Kahaan",
       "url": "https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
-        "name": "Muddat Hui Hai",
-        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
-      },
-      "artists": [
-        {
-          "name": "Avanti Patel",
-          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Muddat Hui Hai",
-      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-09-10 07:08:38",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-09-10 07:08:38",
       "album": {
-        "name": "Dil Ko Kya Ho Gaya",
-        "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
-      },
-      "artists": [
-        {
-          "name": "Gayatri Asokan",
-          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
-        },
-        {
-          "name": "Shom Chaterjjee",
-          "url": "https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf"
-        }
-      ],
-      "duration_ms": 320975,
-      "name": "Dil Ko Kya Ho Gaya",
-      "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
-    },
-    {
-      "added_at": "2026-09-10 07:08:38",
-      "album": {
         "name": "Wo Baat Kahan",
         "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 297000,
       "name": "Wo Baat Kahan",
       "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
+    },
+    {
+      "added_at": "2026-09-10 07:08:38",
+      "album": {
+        "name": "Dil Ko Kya Ho Gaya",
+        "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        },
+        {
+          "name": "Shom Chaterjjee",
+          "url": "https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf"
+        }
+      ],
+      "duration_ms": 320975,
+      "name": "Dil Ko Kya Ho Gaya",
+      "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
     },
     {
       "added_at": "2026-09-10 07:08:38",

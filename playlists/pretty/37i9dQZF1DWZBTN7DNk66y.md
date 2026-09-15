@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,622 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,627 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 | 89 | [Desde Acá](https://open.spotify.com/track/5bJvfOO8J3ay2XTXa5FUUP) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Desde Acá](https://open.spotify.com/album/4kdJ2IogQLYTkqiWbM50fl) | 4:12 |
 | 90 | [MALAMADOS](https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX) | [MALAMADOS](https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO), [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [MALAMADOS](https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q) | 2:21 |
 | 91 | [El Sol Está Mojado](https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [El Sol Está Mojado](https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY) | 4:15 |
-| 92 | [Desencanto](https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Desencanto](https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ) | 4:18 |
-| 93 | [Chance](https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q) | [Santiago Alonso](https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw) | [Chance](https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd) | 2:52 |
+| 92 | [Chance](https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q) | [Santiago Alonso](https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw) | [Chance](https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd) | 2:52 |
+| 93 | [Desencanto](https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Desencanto](https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ) | 4:18 |
 | 94 | [Esperanza](https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Esperanza/ Nunca te vayas](https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao) | 2:30 |
 | 95 | [Soles en la Luna \- Ma'ẽna anga](https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ) | [Purahéi Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Viaje](https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk) | 2:58 |
 | 96 | [Bañera](https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Bañera](https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX) | 2:32 |
 | 97 | [Cobquecura](https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sur](https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK) | 3:13 |
-| 98 | [SERENATA \- En Vivo en Anfitrión \- TV Pública](https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [SERENATA \(En Vivo en Anfitrión \- TV Pública\)](https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji) | 4:24 |
-| 99 | [Otras Bocas, Otras Lenguas](https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU) | [Alejo García](https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Otras Bocas, Otras Lenguas](https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I) | 4:45 |
+| 98 | [Otras Bocas, Otras Lenguas](https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU) | [Alejo García](https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Otras Bocas, Otras Lenguas](https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I) | 4:45 |
+| 99 | [SERENATA \- En Vivo en Anfitrión \- TV Pública](https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [SERENATA \(En Vivo en Anfitrión \- TV Pública\)](https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji) | 4:24 |
 | 100 | [Cantor](https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Cantor](https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p) | 3:31 |
 
-Snapshot ID: `AAAAAFCyX2d7CSybY40zZs50FM7L44x5`
+Snapshot ID: `AAAAAI+ocLNrpL46yHdG0h9T6WbNFTI4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10197,
+  "num_followers": 10203,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACO7uNwL/x286kKKBSsvefa",
+  "snapshot_id": "aqXngAAAAAC8GoWG1JBAOvfF/r6o9GIN",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 176470,
-      "name": "MEJOR SIN TI",
-      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
+      "duration_ms": 167260,
+      "name": "ME MUERO",
+      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 167260,
-      "name": "ME MUERO",
-      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
+      "duration_ms": 176470,
+      "name": "MEJOR SIN TI",
+      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
     },
     {
       "added_at": null,
@@ -395,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Una Mirada",
-        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 201898,
-      "name": "Con Una Mirada",
-      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
+      "duration_ms": 141811,
+      "name": "Esta Noche (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
     },
     {
       "added_at": null,
@@ -431,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Con Una Mirada",
+        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 141811,
-      "name": "Esta Noche (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
+      "duration_ms": 201898,
+      "name": "Con Una Mirada",
+      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todita Me Encantas",
-        "url": "https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 137771,
-      "name": "Todita Me Encantas",
-      "url": "https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 174210,
       "name": "Que Vas a Hacer (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todita Me Encantas",
+        "url": "https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 137771,
+      "name": "Todita Me Encantas",
+      "url": "https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 144700,
-      "name": "ME TIENES LOCO",
-      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 250240,
       "name": "Labios Rojos (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144700,
+      "name": "ME TIENES LOCO",
+      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 189842,
-      "name": "NO TE ENAMORES DE NADIE",
-      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 209554,
       "name": "Quiero Darte (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 189842,
+      "name": "NO TE ENAMORES DE NADIE",
+      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Ama Sin Temor",
+        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "Esto Avanza",
+      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ama Sin Temor",
-        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 203416,
-      "name": "Esto Avanza",
-      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poes\u00edas",
         "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 125662,
       "name": "Nuestro Final",
       "url": "https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "J\u00c1LATE CONMIGO",
-      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 189867,
       "name": "Bailando - Live",
       "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "J\u00c1LATE CONMIGO",
+      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
     },
     {
       "added_at": null,

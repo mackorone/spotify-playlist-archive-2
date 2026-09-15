@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 223636,
       "name": "Call me",
       "url": "https://open.spotify.com/track/3Q6rbXJHcFHVvDOeX3tBFB"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 270909,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/2N7Fcu0FPPN5Mf6g6fBOwY"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 216850,
       "name": "CHORD",
       "url": "https://open.spotify.com/track/0afa2gFadHeZW5pQkvz5ks"
@@ -5076,7 +5076,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 213375,
       "name": "Exploded View",
       "url": "https://open.spotify.com/track/7aebRmIk3zGEWHMedeOAOz"
@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 268466,
       "name": "Fairy Child - 2002 the Dreamside Remix",
       "url": "https://open.spotify.com/track/33XIjROsKXHUaySCPEEDIA"
@@ -9433,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/3hA7S1oIql7LwLho37Q04z"
+      },
+      "artists": [
+        {
+          "name": "Who Saw Her Die?",
+          "url": "https://open.spotify.com/artist/04rfebSFvXDYvsubDSnavv"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/3b7LUnkdTWsYuUuApewI02"
+    },
+    {
+      "album": {
         "name": "In Flight",
         "url": "https://open.spotify.com/album/7zLqrw2gJzgdn1TKaml2e0"
       },
@@ -9707,6 +9725,24 @@
     },
     {
       "album": {
+        "name": "Wither ReWired",
+        "url": "https://open.spotify.com/album/5zXsLB5oC6slbsrnVTFtIx"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175140,
+      "name": "Inside You",
+      "url": "https://open.spotify.com/track/2kpRh9IasV1WvMTSYMfxrE"
+    },
+    {
+      "album": {
         "name": "InstantFamous",
         "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
       },
@@ -9906,7 +9942,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 182068,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/4VXpRrm5cBUzTJrcZsNI1l"
@@ -10090,6 +10126,28 @@
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
+    },
+    {
+      "album": {
+        "name": "Lost in My Head",
+        "url": "https://open.spotify.com/album/0WMvovbHIRj755NIdHM0Ac"
+      },
+      "artists": [
+        {
+          "name": "Billagen",
+          "url": "https://open.spotify.com/artist/6d9mRnqcqH2cEAEHNOlbxh"
+        },
+        {
+          "name": "Cease Owens",
+          "url": "https://open.spotify.com/artist/0RUDNb17E5br4V2V9pIFkd"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185325,
+      "name": "It's Not Too Late",
+      "url": "https://open.spotify.com/track/0ufDODbehgDSdRYKR25b4D"
     },
     {
       "album": {
@@ -10598,7 +10656,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/26mnIZ04a0hV0nVTY9kZ2S"
@@ -11370,7 +11428,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -11702,7 +11760,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 114782,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/4GJZiWmz54qSClXTdeUsQj"
@@ -12230,6 +12288,24 @@
       "duration_ms": 215103,
       "name": "Midtown Madness",
       "url": "https://open.spotify.com/track/2DG9MTH25nm6XwlacFtKQJ"
+    },
+    {
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/0bwWDgJ3Zd5D31FwZNo0Zd"
+      },
+      "artists": [
+        {
+          "name": "Emergency Poncho",
+          "url": "https://open.spotify.com/artist/0Fy2WpeuapWsHLLTM7AteY"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193237,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3akk4bL0Qh2VctgkBnVwr8"
     },
     {
       "album": {
@@ -13580,7 +13656,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -14761,6 +14837,24 @@
     },
     {
       "album": {
+        "name": "Remaker Redeemer",
+        "url": "https://open.spotify.com/album/0r3dy87cQgV5gmtAQmRNY8"
+      },
+      "artists": [
+        {
+          "name": "Then Comes Silence",
+          "url": "https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237881,
+      "name": "Remaker Redeemer",
+      "url": "https://open.spotify.com/track/7dQBano4fvrCuZdmhSFQOB"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/1EaDp2Xkr4NsdIgqM6H2eS"
       },
@@ -15126,7 +15220,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 276108,
       "name": "Ruin You - Ghost Cop Remix",
       "url": "https://open.spotify.com/track/2k1U936X1ZmCN9mUsCse9s"
@@ -15386,6 +15480,24 @@
       "duration_ms": 216230,
       "name": "Sapphic Lipstain",
       "url": "https://open.spotify.com/track/64jtoWn9jBfVBFD3iIaIOA"
+    },
+    {
+      "album": {
+        "name": "Satin Melody For You",
+        "url": "https://open.spotify.com/album/1a8aAw0EXQBDiHCFu4YlqK"
+      },
+      "artists": [
+        {
+          "name": "4NSPTR",
+          "url": "https://open.spotify.com/artist/72cYyLEFCLueIUvHs48kMm"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145008,
+      "name": "Satin Melody For You",
+      "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
     },
     {
       "album": {
@@ -16078,7 +16190,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -16428,7 +16540,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 184073,
       "name": "sleep_walk",
       "url": "https://open.spotify.com/track/3LoihMhzPeZQ1X6vTxz7Kx"
@@ -19556,7 +19668,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 228000,
       "name": "Three Stones",
       "url": "https://open.spotify.com/track/7688pfxu05ESLo17iv3tuH"
@@ -20834,7 +20946,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 254903,
       "name": "Viva L'Amore",
       "url": "https://open.spotify.com/track/7z7BqZrhoiDlBoi71n9VjG"
@@ -21764,7 +21876,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -21912,6 +22024,24 @@
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
+    },
+    {
+      "album": {
+        "name": "Wither ReWired",
+        "url": "https://open.spotify.com/album/5zXsLB5oC6slbsrnVTFtIx"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272967,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/3wRG5To0EdxCKP83Cw7Vm7"
     },
     {
       "album": {
@@ -22402,7 +22532,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

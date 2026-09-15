@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Phoenix Rdc entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,068 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,064 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [NÃO DÁ](https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [NÃO DÁ](https://open.spotify.com/album/5Eq9OGs1dupKf85rnOsVOV) | 3:14 |
 | 70 | [Putos Qui Ata Cria](https://open.spotify.com/track/0Y387sgsGMktt6R8ua3GRG) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Putos Qui Ata Cria](https://open.spotify.com/album/1f5luAMRVCAvZew4mvNUdL) | 3:42 |
 
-Snapshot ID: `AAAAAAFZI86twihgzlpVdzdor6kPU8PL`
+Snapshot ID: `AAAAAEFHxVvp8jQTJ1EsP2DCi8WHaf2K`

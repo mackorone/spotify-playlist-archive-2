@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,030 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,018 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Putaria no Boombap](https://open.spotify.com/track/7vddjt22PeLxiU54BGXOQJ) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [MC Lobão](https://open.spotify.com/artist/4UsXonEelicgeKAD7MTN7F) | [BASE: Mandelão Futurista](https://open.spotify.com/album/6U1cBGt0r6IPJKbL9DSH3j) | 4:00 |
 | 74 | [Porre do Cipó](https://open.spotify.com/track/48nD0RRkyiNFFyQagsRE4U) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Porre do Cipó](https://open.spotify.com/album/4RmCZw065sdJWZbxx2x7ss) | 3:29 |
 
-Snapshot ID: `AAAAAMeBVn9mKNZsFCDCxkSN4uZv9gEO`
+Snapshot ID: `AAAAAPnd5SiLf4b4Bk2TbbFIX1UoKrfa`

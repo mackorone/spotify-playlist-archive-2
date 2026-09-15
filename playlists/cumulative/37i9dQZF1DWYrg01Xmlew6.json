@@ -5549,6 +5549,28 @@
     },
     {
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/0yY1DJ1LaPPX9eA9ZuklZZ"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148245,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/5tGZsRaBr98La6avokHGb3"
+    },
+    {
+      "album": {
         "name": "KE LO KE",
         "url": "https://open.spotify.com/album/5KpePKTCCMGkehcOvyfsWS"
       },
@@ -7810,7 +7832,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 124458,
       "name": "NAPOLI CARACAS",
       "url": "https://open.spotify.com/track/65MXUZ0CM0Z335LQ5t7smY"
@@ -7956,7 +7978,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 152000,
       "name": "NICO PAZ",
       "url": "https://open.spotify.com/track/2erO14kUfrXqEQUT8V3W6D"
@@ -11794,6 +11816,32 @@
       "duration_ms": 160000,
       "name": "Soprano",
       "url": "https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy"
+    },
+    {
+      "album": {
+        "name": "Sott o Maradona",
+        "url": "https://open.spotify.com/album/5dHu2U7CbbJA6Hm0CcoFHX"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "Sott o Maradona",
+      "url": "https://open.spotify.com/track/1xXnRKGpMeUowZJxQxzKCl"
     },
     {
       "album": {

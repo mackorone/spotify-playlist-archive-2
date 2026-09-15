@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 19720,
+  "num_followers": 19739,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE1sjuQZsDjlfV51GD2WzPOZot6e",
+  "snapshot_id": "AAAAAATmoWAgGqemaPxlv5YbvVzeZHPN",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "deep in it",
         "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -915,6 +899,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
-      "added_at": "2025-05-29 17:04:18",
-      "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
-    },
-    {
       "added_at": "2025-05-19 03:00:14",
       "album": {
         "name": "If You Have To",
@@ -1063,6 +1047,22 @@
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
+    },
+    {
+      "added_at": "2025-05-29 17:04:18",
+      "album": {
+        "name": "Bed on Fire",
+        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "japan",
         "url": "https://open.spotify.com/album/3iSywA8P9iVyMCDxAWYxaZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 174935,
       "name": "japan",
       "url": "https://open.spotify.com/track/0H7Wdgn1C7vFy4z0o2kBUZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue Tequila",
         "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Dhak Dhak",
         "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Shawty",
-        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Koszulka",
-        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Koszulka",
-      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 255711,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Headz Gone West",
-        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Headz Gone West",
-      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Suburbia",
         "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 179026,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Headz Gone West",
+        "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Headz Gone West",
+      "url": "https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg"
     },
     {
       "added_at": "2025-05-19 03:00:14",

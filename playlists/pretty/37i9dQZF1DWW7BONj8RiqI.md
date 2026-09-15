@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,404 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,427 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 36 | [Back Bend \(Remix\)](https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts) | [Subance](https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv), [Uncle Ellis](https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx) | [Back Bend \(Remix\)](https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW) | 3:05 |
 | 37 | [Workout](https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Workout \(feat\. Nailah Blackman\)](https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe) | 3:58 |
 | 38 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
-| 39 | [CAPITAL](https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [CAPITAL](https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw) | 3:16 |
+| 39 | [Explore](https://open.spotify.com/track/177934bysEv1ssIn65AAJy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Alien Head Riddim](https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM) | 2:25 |
 | 40 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
-| 41 | [Explore](https://open.spotify.com/track/177934bysEv1ssIn65AAJy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Alien Head Riddim](https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM) | 2:25 |
+| 41 | [CAPITAL](https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [CAPITAL](https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw) | 3:16 |
 | 42 | [Too Own Way](https://open.spotify.com/track/0HSfp7t9CTBjWXDAzMIqt3) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Too Own Way](https://open.spotify.com/album/3YPl9L6cgb4vKNiNgDeg9t) | 3:21 |
 | 43 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
 | 44 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
 | 100 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 
-Snapshot ID: `AAAAAPqdHI15MnOHtUEN9KqrVBF/m1tc`
+Snapshot ID: `AAAAAOBtLKOxmJhL2UholbjtXmxyekol`

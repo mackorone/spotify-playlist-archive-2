@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > crankittttttttttttt\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,621 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,545 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 68 | [Aux Romanticiser](https://open.spotify.com/track/4WYDywACQCcPK5IhgsFhWI) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [Drugdealer](https://open.spotify.com/album/6Tvhs7ahmArBiUPb2DmYxh) | 5:41 |
 | 69 | [Indiest Girl At School](https://open.spotify.com/track/1AchZDcnSaJIbjFPTUQOeI) | [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK) | [I Have To Get Hotter](https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF) | 1:39 |
 
-Snapshot ID: `AAAAAPxtUWnQ40nkzpPZ9t93FvBNCIss`
+Snapshot ID: `AAAAAJ6GAyXBPVmEivh1FE73QIRcZOeJ`

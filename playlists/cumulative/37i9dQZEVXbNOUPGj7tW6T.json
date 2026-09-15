@@ -6122,7 +6122,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/6XXQA6e8qXPJ1sZtRxvbws"
@@ -6260,7 +6260,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6998,7 +6998,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -16132,6 +16132,24 @@
       "duration_ms": 183346,
       "name": "Recordar\u00e1s Que Te Amo",
       "url": "https://open.spotify.com/track/1GGZnUQ91PVTYfmjW8NVsz"
+    },
+    {
+      "album": {
+        "name": "Gracias 2025",
+        "url": "https://open.spotify.com/album/53K5VOqHgWeMxVOOlFgnqW"
+      },
+      "artists": [
+        {
+          "name": "La Revancha",
+          "url": "https://open.spotify.com/artist/5KQkZpnpLDuZnkLWfG6hiQ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183170,
+      "name": "Recordar\u00e1s que te amo - \u00c9xitos Sudam\u00e9rica",
+      "url": "https://open.spotify.com/track/3MGnmGjGVg0HjDI6R0PnBk"
     },
     {
       "album": {

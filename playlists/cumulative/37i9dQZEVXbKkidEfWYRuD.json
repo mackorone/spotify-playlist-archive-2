@@ -8948,7 +8948,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 103529,
       "name": "gladiator",
       "url": "https://open.spotify.com/track/2vrDo7yAWGjCduHARIgiUy"
@@ -20410,7 +20410,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -20428,7 +20428,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
@@ -27974,7 +27974,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
@@ -28214,7 +28214,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 183000,
       "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
       "url": "https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd"
@@ -28606,7 +28606,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/5cuSyLoYilFJQsI1Yta8GT"
@@ -30410,7 +30410,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 174344,
       "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
@@ -33050,7 +33050,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -37118,6 +37118,24 @@
       "duration_ms": 69531,
       "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 - remix nevroz",
       "url": "https://open.spotify.com/track/1zE2dRkxtOLEOubAmqcHX3"
+    },
+    {
+      "album": {
+        "name": "\u043d\u043e\u0432\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c \u043f\u0440\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
+        "url": "https://open.spotify.com/album/0x7xXGfXiAEpbOwzRFNBuo"
+      },
+      "artists": [
+        {
+          "name": "zhanulka",
+          "url": "https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125575,
+      "name": "\u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043a\u0438\u043b\u043b",
+      "url": "https://open.spotify.com/track/1FxcGrzFaxNWR9YXfdNQKX"
     },
     {
       "album": {
@@ -41764,7 +41782,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 90000,
       "name": "\u0442\u044b \u0447\u0435 \u043e\u0431\u0438\u0434\u0435\u043b\u0430\u0441\u044c",
       "url": "https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz"
@@ -43718,7 +43736,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 185061,
       "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
       "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
@@ -44904,7 +44922,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

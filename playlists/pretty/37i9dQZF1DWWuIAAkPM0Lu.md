@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Er det fredag?: Jep, New Music Friday med bl.a\. Tobias Rahim & Marstein ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,536 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,539 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 101 | [Stranger](https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Stranger](https://open.spotify.com/album/3c9NqjSeMwC2CmEVKwOTF6) | 3:12 |
 | 102 | [Anvil](https://open.spotify.com/track/1TbNiYJ3oOWG9s6IBwDgRS) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Anvil](https://open.spotify.com/album/50jS16Y6vBMJ7kJSpl1Znj) | 3:19 |
 
-Snapshot ID: `AAAAALqDs50+eNbYStPqy+ZAjT4Y5PiJ`
+Snapshot ID: `AAAAAH+NJ8gPKHwUrdIVhzMXGvF0qm0t`

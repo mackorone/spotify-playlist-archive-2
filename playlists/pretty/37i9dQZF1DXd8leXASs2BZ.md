@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MARONI
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,744 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Where the Money At](https://open.spotify.com/track/1ppA1aNzUtIyvtmmLM9VMt) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Where the Money At](https://open.spotify.com/album/4ARl5Z04smzvWJQqCf5wxN) | 2:40 |
 | 100 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |
 
-Snapshot ID: `AAAAAL49DXey+bXISJmRc9wzbhqMmXRx`
+Snapshot ID: `AAAAAO+C/3eFarNed0hMc7/vpaxBsDYZ`

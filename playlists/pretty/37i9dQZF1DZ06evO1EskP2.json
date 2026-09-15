@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAC7mcqKxbzYxaje4AAonBdA",
+  "snapshot_id": "aqXngAAAAAB/qKHTXmt4sQsDt5bu6fGt",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Simple Love Song",
-      "url": "https://open.spotify.com/track/6fCmVin0lvZModxHMFSaTS"
+      "duration_ms": 245720,
+      "name": "Come over Love",
+      "url": "https://open.spotify.com/track/0QiLyvKllhtzFOUJmkvK2n"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Come over Love",
-      "url": "https://open.spotify.com/track/0QiLyvKllhtzFOUJmkvK2n"
+      "duration_ms": 224986,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/6fCmVin0lvZModxHMFSaTS"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding on Tight",
-        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
-      },
-      "artists": [
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 208197,
-      "name": "Enough (with Anuhea)",
-      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 210053,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holding on Tight",
+        "url": "https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J"
+      },
+      "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 208197,
+      "name": "Enough (with Anuhea)",
+      "url": "https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3"
     },
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moku Soul",
-        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+        "name": "Hard Place",
+        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
       },
       "artists": [
-        {
-          "name": "Tripp Wilson",
-          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 190463,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+      "duration_ms": 207500,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Place",
-        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
+        "name": "Moku Soul",
+        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
       },
       "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Hard Place",
-      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
+      "duration_ms": 190463,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/5UqcdUuxdv8jKR7cDs0uaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easier (Jr Blender RMX)",
         "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 198779,
       "name": "Easier - Jr Blender RMX",
       "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/5UqcdUuxdv8jKR7cDs0uaN"
     },
     {
       "added_at": null,

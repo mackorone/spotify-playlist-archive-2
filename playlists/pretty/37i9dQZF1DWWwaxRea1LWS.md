@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 20 years of Continuum\. Cover: John Mayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,409 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263,219 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
 | 30 | [The Heart of Life](https://open.spotify.com/track/5obiwr7JaDV0nwa6tpEtN4) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3) | 3:19 |
 
-Snapshot ID: `AAAAAPH++EYV0wAfVimNpir5cC64z3ke`
+Snapshot ID: `AAAAAL0GVEhHjlo+J2M0540Q42vu8p3E`

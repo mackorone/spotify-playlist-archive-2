@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,080 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,117 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 41 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
 | 42 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 |
 | 43 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |
-| 44 | [Jaan Na Jaan \- Male Version](https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb), [Baba Bulleh Shah](https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt) | [Ek Anokhi Dulhan Saavi](https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4) | 5:06 |
-| 45 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
+| 44 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
+| 45 | [Jaan Na Jaan \- Male Version](https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb), [Baba Bulleh Shah](https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt) | [Ek Anokhi Dulhan Saavi](https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4) | 5:06 |
 | 46 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Singh](https://open.spotify.com/artist/2lL1IVLbaAKFsHsbtAs6KR) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 |
 | 47 | [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 |
 | 48 | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/track/1raFdZRNKcl8xGd4M2Cj4l) | [Rahul Solanki](https://open.spotify.com/artist/1zO9idOZBXu4TsTIXVBvSz), [Aarush Purabiya](https://open.spotify.com/artist/1zEMxqg0gN10XL5mxLDCdX), [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/album/2tHIjdAIk12mBxate3hRTS) | 5:04 |
 | 49 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
 | 50 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 
-Snapshot ID: `AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK`
+Snapshot ID: `AAAAADO99wbgCPGkEWhbeuCx/LYUIe4M`

@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 812061,
+  "num_followers": 812201,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKpE80Xq3FoW0TD0MQbZ878/cWZB",
+  "snapshot_id": "AAAAANlEvx3efQpJu9JNr2WcGl+QNFi9",
   "tracks": [
     {
       "added_at": "2025-09-22 17:44:20",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Ice On The Dune",
-        "url": "https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "Ice On The Dune",
+        "url": "https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
         "name": "We Are Your Friends",
         "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
       "artists": [
         {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -915,34 +931,18 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX"
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+      "duration_ms": 197557,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256400,
+      "name": "Standing in the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
         "name": "How Do You Feel Now?",
         "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256400,
-      "name": "Standing in the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2025-09-22 17:44:20",

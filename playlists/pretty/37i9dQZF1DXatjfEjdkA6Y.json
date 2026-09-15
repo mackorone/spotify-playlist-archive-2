@@ -1,12 +1,12 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6193,
+  "num_followers": 6196,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANByuilLmS7mc61NtH8k5bhtVJAb",
+  "snapshot_id": "AAAAACIpz9P4ZZA5TpDCUCgDxR7d1w16",
   "tracks": [
     {
       "added_at": "2025-03-14 16:55:23",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Lo Mejor de Massiel",
+        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "La, La, La",
+      "url": "https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "16 Hits",
         "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
-      },
-      "artists": [
-        {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "La, La, La",
-      "url": "https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "The Albums 1970-73",
-        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
+        "name": "Best Of Vol.1, Les Succ\u00e8s De Guy Mardel",
+        "url": "https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD"
       },
       "artists": [
         {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+          "name": "Guy Mardel",
+          "url": "https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
+      "duration_ms": 172840,
+      "name": "N'avoue Jamais",
+      "url": "https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Best Of Vol.1, Les Succ\u00e8s De Guy Mardel",
-        "url": "https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD"
+        "name": "The Albums 1970-73",
+        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
       },
       "artists": [
         {
-          "name": "Guy Mardel",
-          "url": "https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0"
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
         }
       ],
-      "duration_ms": 172840,
-      "name": "N'avoue Jamais",
-      "url": "https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w"
+      "duration_ms": 167600,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
     },
     {
       "added_at": "2025-03-14 16:55:23",

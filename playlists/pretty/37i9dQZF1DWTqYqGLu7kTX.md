@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,466 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,579 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 |
 | 75 | [What Is This](https://open.spotify.com/track/3w4NKE09YE2rWeUwwHM6FK) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Mechanic](https://open.spotify.com/album/2L1Hx3rS3Hz3VGdEdQU2qB) | 2:41 |
 
-Snapshot ID: `AAAAADnCyB1ADbvK7DV4NysLozV9YB99`
+Snapshot ID: `AAAAAC+LePt8+nw6Y3dh56ZAO6ITe/E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Bouvier Normal
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,918 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,919 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 74 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
 | 75 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
 
-Snapshot ID: `AAAAAKR3obv7MLSPobpIAVf+8Zld4DGs`
+Snapshot ID: `AAAAAFyjK9vR48hEjJL26KGMiXQI92Re`

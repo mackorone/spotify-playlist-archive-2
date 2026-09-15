@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Jhené Aiko, Slayyyter, NAV, Dove Cameron, Spiritbox, Sophia Stel, Connor Price, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,847 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,786 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 89 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
 | 90 | [Face First](https://open.spotify.com/track/1Ckh3Me9PWBQIta2XzllON) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [Face First](https://open.spotify.com/album/5pt1Dy8UAQjhZpTcsGEf6f) | 3:07 |
 | 91 | [Since I Told You How I Feel](https://open.spotify.com/track/2kTDrTqg7lAzShydspX4Ib) | [2120](https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR) | [Since I Told You How I Feel](https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1) | 3:55 |
-| 92 | [All Mines](https://open.spotify.com/track/5V74BpZqwTrLCPUqxU1Lsp) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [DCMBR](https://open.spotify.com/artist/4UQ37mKzrurYB6G23wAnaw), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 4:00 |
+| 92 | [All Mines](https://open.spotify.com/track/5V74BpZqwTrLCPUqxU1Lsp) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 4:00 |
 | 93 | [GLORY](https://open.spotify.com/track/1WstmAB4dxpyd6KQsws06R) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [CHASING / STILL](https://open.spotify.com/album/6n2zC1TWHfkVCw6ABAmD6A) | 4:51 |
 | 94 | [All Star, Vol\. 2](https://open.spotify.com/track/2V5TAdbDOSLnOcdcS5yr5x) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Eric Ryan](https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp), [Joey Rose](https://open.spotify.com/artist/5q7RXRaFu3MrsFrYR5lci3), [Koladae](https://open.spotify.com/artist/4tVQpJprSrjd2RQQf2XQJM), [Zoe V](https://open.spotify.com/artist/0iPLEQKAyTNqSO0WZGCNqn) | [All Star, Vol\. 2](https://open.spotify.com/album/0yW5FAvnFLaXmOu4KbBiU1) | 3:46 |
 | 95 | [los machucambos](https://open.spotify.com/track/4nBwEYEr9AYdC257rVbf1o) | [FILOU](https://open.spotify.com/artist/7qZwDVuE0XDDAjWhfv9uv6), [LeDji](https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph) | [los machucambos](https://open.spotify.com/album/3oFZsXpfYDCypWCrhzxb9h) | 1:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [SHOW ME RIGHT!](https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [ATTITUDE ERA!](https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5) | 3:18 |
 | 100 | [Trip](https://open.spotify.com/track/6kxwRi9daiaV1c6wWQmwVi) | [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [Ricky Bishop](https://open.spotify.com/artist/1BgUbirVqg7MnHDThNqOil) | [Trip](https://open.spotify.com/album/6bbyG7o8cIT2nDR6a2rjZv) | 2:20 |
 
-Snapshot ID: `AAAAAG5SPmmWJ7G5uB7y9EyAe3uL6UPs`
+Snapshot ID: `AAAAAP6XySnUU+RBHw59SiZA4Cv50H69`

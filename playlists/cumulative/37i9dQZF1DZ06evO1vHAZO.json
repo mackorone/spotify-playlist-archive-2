@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77333,
+      "name": "A Quick Peep",
+      "url": "https://open.spotify.com/track/5Dj6qiPl4D6FmcmRRSR52j"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 345706,
       "name": "Keep The Dream Alive",
       "url": "https://open.spotify.com/track/2F8rL049y0MZu9Fy5O7seA"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 345706,
       "name": "Keep The Dream Alive",
       "url": "https://open.spotify.com/track/6OBvONDIuhYRsR1DKwlbaW"

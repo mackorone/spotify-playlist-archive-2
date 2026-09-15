@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35399,
+  "num_followers": 35401,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADAVMPBIC75v0p6NhwukBRb",
+  "snapshot_id": "aqXngAAAAAC+6trd/3vPwTAiGh2QTdAV",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/1kWbIV0Tv6IEX62BU2sVsE"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 126789,
+      "name": "4 da Manh\u00e3",
+      "url": "https://open.spotify.com/track/3ZVJz96kCb5T4itZYRVD5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
       },
@@ -283,30 +307,6 @@
       "duration_ms": 106363,
       "name": "N\u00e3o Existe Amor",
       "url": "https://open.spotify.com/track/3osBy08YtmXBDCtlEqqQW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/1kWbIV0Tv6IEX62BU2sVsE"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 126789,
-      "name": "4 da Manh\u00e3",
-      "url": "https://open.spotify.com/track/3ZVJz96kCb5T4itZYRVD5H"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enche Minha Bunda De Tapa",
-        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
-      },
-      "artists": [
-        {
-          "name": "DJ Guina",
-          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Enche Minha Bunda De Tapa",
-      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Press\u00e3o Mundial Continua",
         "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+        "name": "Enche Minha Bunda De Tapa",
+        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
       },
       "artists": [
+        {
+          "name": "DJ Guina",
+          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
+        },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+      "duration_ms": 180922,
+      "name": "Enche Minha Bunda De Tapa",
+      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CARO Vapor II - qual a forma de pagamento ?",
-        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 183147,
-      "name": "melhor Vida",
-      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 210520,
       "name": "Como Se T\u00e1 Maravilhosa",
       "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CARO Vapor II - qual a forma de pagamento ?",
+        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 183147,
+      "name": "melhor Vida",
+      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
     },
     {
       "added_at": null,
@@ -1227,26 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou Dif\u00edcil",
         "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 125538,
       "name": "N\u00e3o Agrado Todos",
       "url": "https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1395,26 +1395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado Arrochadeira",
-        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "De 38 Carregado Arrochadeira",
-      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado Arrochadeira",
+        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "De 38 Carregado Arrochadeira",
+      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
     },
     {
       "added_at": null,

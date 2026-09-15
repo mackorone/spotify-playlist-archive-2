@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,173 likes - 156 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,158 likes - 156 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 155 | [ninetynine](https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [dollhouse](https://open.spotify.com/album/201hc47dwex9hgvquFuPyK) | 2:43 |
 | 156 | [Savage White Swan](https://open.spotify.com/track/1vrvxd2pNPbGX563Xl5L8f) | [Rora And The Untamed](https://open.spotify.com/artist/57t696wpAwRqF30dlcs6MI) | [Savage White Swan](https://open.spotify.com/album/1MBXapcFjA8xBx4mTUUegK) | 3:28 |
 
-Snapshot ID: `AAAAACNqJhW9XYlqQKk9q2FEEAfuLmNA`
+Snapshot ID: `AAAAAKCtdY84OpIQhTyLCJ3Jc7HS/I6x`

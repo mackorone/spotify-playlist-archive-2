@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93949,
+  "num_followers": 93954,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAXYnHoEAwtTQBSbjdTs9bh",
+  "snapshot_id": "aqXngAAAAADZ+mFnPaUp4WT5E9la0GUZ",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Leaving Jesusland",
-      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 111960,
-      "name": "The Quitter",
-      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 78800,
-      "name": "The Man I Killed",
-      "url": "https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg"
+      "duration_ms": 111960,
+      "name": "The Quitter",
+      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 45960,
       "name": "Murder The Government",
       "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 78800,
+      "name": "The Man I Killed",
+      "url": "https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Usa-Holes",
-      "url": "https://open.spotify.com/track/0gUW2Sm7q4BiSLVVqNJiWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Philthy Phil Philanthropist",
-      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+      "duration_ms": 133933,
+      "name": "Usa-Holes",
+      "url": "https://open.spotify.com/track/0gUW2Sm7q4BiSLVVqNJiWl"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 118000,
       "name": "What's The Matter With Parents Today?",
       "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Oxy Moronic",
-      "url": "https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Oxy Moronic",
+      "url": "https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "First Call",
-      "url": "https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 58000,
       "name": "And Now For Something Completely Similar",
       "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "First Call",
+      "url": "https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 Years Of Fuckin' Up: Soundtrack + Score",
-        "url": "https://open.spotify.com/album/5hM0luqn90CkruMS90At60"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 62286,
-      "name": "We\u2019re Bros",
-      "url": "https://open.spotify.com/track/3baEtliJg2GMTdxB9nNGm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 99333,
       "name": "Thank God It's Monday",
       "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 Years Of Fuckin' Up: Soundtrack + Score",
+        "url": "https://open.spotify.com/album/5hM0luqn90CkruMS90At60"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 62286,
+      "name": "We\u2019re Bros",
+      "url": "https://open.spotify.com/track/3baEtliJg2GMTdxB9nNGm2"
     },
     {
       "added_at": null,

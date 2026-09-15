@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Reynaldos de la Sierra 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,326 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,351 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 49 | [regalametutiempo](https://open.spotify.com/track/67dAEz6RgbY2v3sc6cSc04) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [regalametutiempo](https://open.spotify.com/album/2ZamtazBIQlLM8pPcJvPZs) | 3:01 |
 | 50 | [Aura](https://open.spotify.com/track/7DTge7ZIrqW6gvcCt67xsl) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Aura](https://open.spotify.com/album/4g5yoaktsAGTvAroISQBkk) | 2:15 |
 
-Snapshot ID: `AAAAAJrTbXTCoPOVfu3ExvSZUxdaxAPT`
+Snapshot ID: `AAAAADoE2GZ4ah9noP+jmFdvhURMFa3j`

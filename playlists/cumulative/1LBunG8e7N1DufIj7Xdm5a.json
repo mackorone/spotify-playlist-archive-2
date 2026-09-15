@@ -20939,6 +20939,24 @@
     },
     {
       "album": {
+        "name": "Frank-N-Stein",
+        "url": "https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Curses",
+          "url": "https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194730,
+      "name": "Dramatic Moments",
+      "url": "https://open.spotify.com/track/24fwpJjkOmtqFsfQ2Eh25B"
+    },
+    {
+      "album": {
         "name": "Dramatique",
         "url": "https://open.spotify.com/album/64Rs1xyVBtbsNEw7DAkfPF"
       },
@@ -70280,6 +70298,24 @@
       "duration_ms": 184560,
       "name": "Stalk Your Stories",
       "url": "https://open.spotify.com/track/4uLxIFk69J4Tx1VdVNzPWU"
+    },
+    {
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/3jWhYAny0yIy0yLF6ktNKo"
+      },
+      "artists": [
+        {
+          "name": "Jah Lion",
+          "url": "https://open.spotify.com/artist/6Mj9ZEzOfnqSjcdbffdJ3K"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333199,
+      "name": "Stamp Your Love",
+      "url": "https://open.spotify.com/track/4jPuXzZ0vJ5N8ytiQJyXT0"
     },
     {
       "album": {

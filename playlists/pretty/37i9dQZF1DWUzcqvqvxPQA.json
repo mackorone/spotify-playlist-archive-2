@@ -1,12 +1,12 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 34193,
+  "num_followers": 34200,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkBWmE6OggaSwg445jnFnIgiRXw",
+  "snapshot_id": "AAAAAKJustrh+PU0UgPMMKzFFslno8Gg",
   "tracks": [
     {
       "added_at": "2026-09-11 06:19:33",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "peach sand",
-        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
+        "name": "what if i told you?",
+        "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 281869,
-      "name": "peach sand",
-      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
+      "duration_ms": 182816,
+      "name": "what if i told you?",
+      "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "what if i told you?",
-        "url": "https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx"
+        "name": "peach sand",
+        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 182816,
-      "name": "what if i told you?",
-      "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"
+      "duration_ms": 281869,
+      "name": "peach sand",
+      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "Hello Human",
-        "url": "https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
         "name": "FREE! (Live)",
         "url": "https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 225617,
       "name": "FREE! - Live",
       "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
+        "name": "Hello Human",
+        "url": "https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 204050,
-      "name": "Mad Big World",
-      "url": "https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
         "name": "Different Kinda Love",
         "url": "https://open.spotify.com/album/32gsKasYr9PP9ciQsOTR4q"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 191212,
       "name": "Different Kinda Love",
       "url": "https://open.spotify.com/track/2Nqx0Fafw3AtgU0XSKRt2N"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 204050,
+      "name": "Mad Big World",
+      "url": "https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "God Is For Me",
-        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 164309,
-      "name": "God Is For Me",
-      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
         "name": "JESUS IS LORD",
         "url": "https://open.spotify.com/album/1EFA5KDZNc6UE7MNIlwwne"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "NO HALO",
-        "url": "https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB"
+        "name": "God Is For Me",
+        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 178944,
-      "name": "NO HALO",
-      "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
+      "duration_ms": 164309,
+      "name": "God Is For Me",
+      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -691,6 +675,22 @@
       "duration_ms": 190106,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
+        "name": "NO HALO",
+        "url": "https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 178944,
+      "name": "NO HALO",
+      "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "Like I Am Yours",
-        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Like I Am Yours",
-      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
         "name": "Don't Runaway",
         "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205371,
       "name": "Don't Runaway",
       "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
+        "name": "WATCH GOD WORK",
+        "url": "https://open.spotify.com/album/5NGoYsZyrFGsCb06aoSYvW"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 106083,
+      "name": "WATCH GOD WORK",
+      "url": "https://open.spotify.com/track/61pqKNcRyAaobVPhQsAcfT"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3zZFyagCVA7R3SP7dO8R3W"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 144203,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5TStZ1ZkFp9YWfmpSBXozZ"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
-        "name": "WATCH GOD WORK",
-        "url": "https://open.spotify.com/album/5NGoYsZyrFGsCb06aoSYvW"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 106083,
-      "name": "WATCH GOD WORK",
-      "url": "https://open.spotify.com/track/61pqKNcRyAaobVPhQsAcfT"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
         "name": "Making Ways",
         "url": "https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 204714,
       "name": "Making Ways",
       "url": "https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
     },
     {
       "added_at": "2026-09-11 06:19:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-09-11 06:19:33",
       "album": {
-        "name": "Paper-Mach\u00e9",
-        "url": "https://open.spotify.com/album/0SZl4SKFc6Dt984f9MyICb"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Paper-Mach\u00e9",
-      "url": "https://open.spotify.com/track/2owq5W4qdVVwTUqwwiud1d"
-    },
-    {
-      "added_at": "2026-09-11 06:19:33",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 195818,
       "name": "Grace",
       "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
+    },
+    {
+      "added_at": "2026-09-11 06:19:33",
+      "album": {
+        "name": "Paper-Mach\u00e9",
+        "url": "https://open.spotify.com/album/0SZl4SKFc6Dt984f9MyICb"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Paper-Mach\u00e9",
+      "url": "https://open.spotify.com/track/2owq5W4qdVVwTUqwwiud1d"
     },
     {
       "added_at": "2026-09-11 06:19:33",

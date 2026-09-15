@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACo6fVwrk0NphzndxTq+xsg",
+  "snapshot_id": "aqXngAAAAAAifOYIx0poWfj1cfmecW3W",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 314765,
+      "name": "You\u2019re Not Here",
+      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 314765,
-      "name": "You\u2019re Not Here",
-      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 317650,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
     },
     {
       "added_at": null,
@@ -820,9 +820,25 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 317650,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 229053,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Blooms",
-        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "We'll Meet Again - Late Night Session",
-      "url": "https://open.spotify.com/track/201a3upQFiGtvWQSGlaVlk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -943,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -971,6 +935,54 @@
       "duration_ms": 77077,
       "name": "Somebody Gonna Love You",
       "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 220972,
+      "name": "A Window",
+      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together (Soundtrack from Year in Search)",
+        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+        },
+        {
+          "name": "Matt Jones (Re-Collective Orchestra)",
+          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
+        }
+      ],
+      "duration_ms": 192873,
+      "name": "Together (Soundtrack from Year in Search)",
+      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

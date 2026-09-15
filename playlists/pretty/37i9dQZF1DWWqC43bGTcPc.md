@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋 & 高爾宣OSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,731 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,738 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [未來日記](https://open.spotify.com/track/0TvW7hB1zS0KiBaEvmWJdc) | [曾柏鈞 JIMBo](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [未來日記](https://open.spotify.com/album/4vLw8KLL07kHKceMPkQiic) | 3:03 |
 | 50 | [魚花](https://open.spotify.com/track/37QvnYvNzJOz6r6EuOWLBp) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [魚花](https://open.spotify.com/album/0CTE6U8pr6xz5LzCFhEevQ) | 3:58 |
 
-Snapshot ID: `AAAAACAuhrDzD0KSHO/oVaSULOX+lBas`
+Snapshot ID: `AAAAALJYrWpIblNukhjGAa74ElrXAvD8`

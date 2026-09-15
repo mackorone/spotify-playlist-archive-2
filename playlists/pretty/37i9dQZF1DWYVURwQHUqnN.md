@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : SDM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,905 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,865 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Trophée](https://open.spotify.com/track/3id6cTerbJqoX59IkjmQwN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/3faKicSICUWfcc1RRuy0xZ) | 3:06 |
 | 60 | [GOGOWINE](https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [GOGOWINE](https://open.spotify.com/album/2xmpR4pEkkRN2LSmICAv58) | 2:19 |
 
-Snapshot ID: `AAAAANBZwucs1LZyepxL/wx9rdDSfE2V`
+Snapshot ID: `AAAAADG4IRyoqqav5bdw5DcDj2kHUbzk`

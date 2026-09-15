@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,062 likes - 92 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,009 likes - 92 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 91 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
 | 92 | [MUSCLE MARYS..](https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [MUSCLE MARYS..](https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl) | 3:23 |
 
-Snapshot ID: `AAAAAMAC6CnWBgtVpS4pywKZ3iRI057M`
+Snapshot ID: `AAAAAC+vAgr5Jccr/N0snXJALsEWJdG9`

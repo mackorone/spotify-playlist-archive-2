@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Classe Moyenne
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,439 likes - 182 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,464 likes - 182 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 181 | [Fools](https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Paradise & Hurricanes](https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx) | 3:24 |
 | 182 | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 |
 
-Snapshot ID: `AAAAAGyYrbgQ2JXgkGUpiNy+Z7p6pfWJ`
+Snapshot ID: `AAAAAL2de7s76TIuv11JGh1lqVkGMx7n`

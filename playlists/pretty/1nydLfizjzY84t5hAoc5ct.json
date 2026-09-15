@@ -1,12 +1,12 @@
 {
   "description": "OffAxisGigs.com | Indie | Folk | Electro | Rock | Pop  | NO autotune, AI or instrumental",
-  "num_followers": 1424,
+  "num_followers": 1423,
   "original_name": "Off Axis Gigs . com",
   "owner": {
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AACDuy/N2Uyc3jCYLNZHn71Dzol8fDVF",
+  "snapshot_id": "AACDvD2PJH799Zx50lkRTPctmJpTStZJ",
   "tracks": [
     {
       "added_at": "2026-09-03 23:12:32",
@@ -2867,6 +2867,22 @@
       "duration_ms": 242666,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/1WKbmWcGNQy70jpX3KthEM"
+    },
+    {
+      "added_at": "2026-09-15 00:53:13",
+      "album": {
+        "name": "A Reckless Expenditure",
+        "url": "https://open.spotify.com/album/4SGD85gF2YlRVSaXarQSTX"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "duration_ms": 109433,
+      "name": "A Reckless Expenditure",
+      "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

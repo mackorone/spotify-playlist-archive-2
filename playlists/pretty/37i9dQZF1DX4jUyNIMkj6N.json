@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 224762,
+  "num_followers": 224795,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACF7TpDzqGc5lBp/ib7rSKqR8aZX",
+  "snapshot_id": "AAAAAPUa4yr9S/wFaHSI+BfpKttbfztP",
   "tracks": [
     {
       "added_at": "2026-09-10 22:00:22",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-09-10 22:00:22",
       "album": {
+        "name": "Vampire Country",
+        "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
+      },
+      "artists": [
+        {
+          "name": "Harriet Nauer",
+          "url": "https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q"
+        }
+      ],
+      "duration_ms": 247975,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
+    },
+    {
+      "added_at": "2026-09-10 22:00:22",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 187800,
       "name": "member",
       "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
-    },
-    {
-      "added_at": "2026-09-10 22:00:22",
-      "album": {
-        "name": "Vampire Country",
-        "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
-      },
-      "artists": [
-        {
-          "name": "Harriet Nauer",
-          "url": "https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
     },
     {
       "added_at": "2026-09-10 22:00:22",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-10 22:00:22",
       "album": {
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2026-09-10 22:00:22",
+      "album": {
         "name": "A Fire Test",
         "url": "https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 195254,
       "name": "A Fire Test",
       "url": "https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD"
-    },
-    {
-      "added_at": "2026-09-10 22:00:22",
-      "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "added_at": "2026-09-10 22:00:22",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Nagy Bogi",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: VINI & Nagy Bogi",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 138947,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 170967,
       "name": "FLESS",
       "url": "https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y"
@@ -2853,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "NEXT N GO",
+        "url": "https://open.spotify.com/album/1sIWuAvNIdFeKQjrK4GryP"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "NEXT N GO",
+      "url": "https://open.spotify.com/track/7tMZJxocJKGse3klJpJXvD"
+    },
+    {
+      "album": {
         "name": "NINAO",
         "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
       },
@@ -3344,6 +3366,24 @@
       "duration_ms": 155121,
       "name": "PLETYKA",
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "album": {
+        "name": "pog\u00e1nyindul\u00f3",
+        "url": "https://open.spotify.com/album/1QXnMeqzS2pvlDJ0roLnfb"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "pog\u00e1nyindul\u00f3",
+      "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
     },
     {
       "album": {
@@ -3896,7 +3936,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 159255,
       "name": "SHAKE DAT",
       "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
@@ -4166,6 +4206,28 @@
       "duration_ms": 109455,
       "name": "SUV",
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
+    },
+    {
+      "album": {
+        "name": "SUV 2",
+        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139239,
+      "name": "SUV 2",
+      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
     },
     {
       "album": {

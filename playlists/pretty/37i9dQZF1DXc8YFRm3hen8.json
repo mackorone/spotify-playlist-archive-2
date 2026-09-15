@@ -1,12 +1,12 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 Las Pastillas del Abuelo",
-  "num_followers": 196350,
+  "num_followers": 196374,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjfEBbSiKDQjIP1To4waHQILikr",
+  "snapshot_id": "AAAAAE536OVvr/fawKqNF3xIL6jx4RX1",
   "tracks": [
     {
       "added_at": "2026-09-11 03:00:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-09-11 03:00:21",
       "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2026-09-11 03:00:21",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2026-09-11 03:00:21",
-      "album": {
-        "name": "Vicio",
-        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "added_at": "2026-09-11 03:00:21",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-09-11 03:00:21",
       "album": {
+        "name": "Spinetta y los Socios del Desierto",
+        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Y Los Socios Del Desierto",
+          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
+    },
+    {
+      "added_at": "2026-09-11 03:00:21",
+      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
-    },
-    {
-      "added_at": "2026-09-11 03:00:21",
-      "album": {
-        "name": "Spinetta y los Socios del Desierto",
-        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
-      },
-      "artists": [
-        {
-          "name": "Spinetta Y Los Socios Del Desierto",
-          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Cheques",
-      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
     },
     {
       "added_at": "2026-09-11 03:00:21",

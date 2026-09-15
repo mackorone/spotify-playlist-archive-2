@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Bahadır Tatlıöz
 
-727 songs - 1 day 12 hr 58 min
+728 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Peki Öyle Olsun](https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Peki Öyle Olsun](https://open.spotify.com/album/4c4UCx12jdeDe3FtHniGIx) | 2:45 | 2026-03-05 | 2026-03-22 |
 | [PES](https://open.spotify.com/track/6xZxMoZaKYEFXVcfUW8X1k) | [AURA](https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo) | [PES](https://open.spotify.com/album/25CWJzdUW8Wys9Nsaxm0f6) | 2:33 | 2026-08-20 |  |
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
+| [Rak Tak Tak](https://open.spotify.com/track/1NaPqHwlnoXXm7N7yq88Xp) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sıradaki Gelsin](https://open.spotify.com/album/3unPuKxj4Wt7041OaTjvgy) | 2:27 | 2026-09-03 |  |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [Rimel \- Afro Rework](https://open.spotify.com/track/3QgWjH34FiQoOqMifm77ka) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH) | [Rimel \(Afro Rework\)](https://open.spotify.com/album/3M2P6jrbS7qSKEPHNZF4Qs) | 3:10 | 2026-07-31 | 2026-08-14 |
@@ -582,7 +583,7 @@
 | [Sus Konuşma](https://open.spotify.com/track/4qInXcpSFRESnLTub8oD6J) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sus Konuşma](https://open.spotify.com/album/2GNX1V9mSTmBmUXe3SkQA0) | 3:39 | 2026-04-09 | 2026-04-27 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
 | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK) | 2:29 | 2026-02-12 | 2026-08-22 |
-| [Sürün](https://open.spotify.com/track/4AsGUZ3LvGoIEUKzFrSxNU) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sürün](https://open.spotify.com/album/4SLuV481IYuMvrjMSOPcjL) | 3:12 | 2026-08-06 |  |
+| [Sürün](https://open.spotify.com/track/4AsGUZ3LvGoIEUKzFrSxNU) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sürün](https://open.spotify.com/album/4SLuV481IYuMvrjMSOPcjL) | 3:12 | 2026-08-06 | 2026-09-15 |
 | [Ta Burama](https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Ta Burama](https://open.spotify.com/album/4Ze8NzsnRkfOU2J3qJhPaq) | 2:44 | 2026-08-06 |  |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |
 | [TAM BENİM TİPİM](https://open.spotify.com/track/3L6zMl24x9TPfPVudKmRtD) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [TAM BENİM TİPİM](https://open.spotify.com/album/6DkPkDBzkKE8LWBES8k820) | 2:37 | 2026-06-25 | 2026-07-24 |

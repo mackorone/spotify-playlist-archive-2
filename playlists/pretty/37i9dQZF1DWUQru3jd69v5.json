@@ -1,45 +1,13 @@
 {
   "description": "Yung Pips ed Enny P in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
-  "num_followers": 228588,
+  "num_followers": 228591,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOns1XK1+PcUiLrxSM6OU/DZHCDW",
+  "snapshot_id": "AAAAAF6VkwuqXQZwUyK+CDs8iDiyxLlr",
   "tracks": [
-    {
-      "added_at": "2026-09-11 07:19:03",
-      "album": {
-        "name": "DEMONIO",
-        "url": "https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8"
-      },
-      "artists": [
-        {
-          "name": "Dagood YL",
-          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
-        }
-      ],
-      "duration_ms": 133040,
-      "name": "LA SCOPO CO O' SGUARDO",
-      "url": "https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To"
-    },
-    {
-      "added_at": "2026-09-11 07:19:03",
-      "album": {
-        "name": "scogliera",
-        "url": "https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1"
-      },
-      "artists": [
-        {
-          "name": "Quest",
-          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
-        }
-      ],
-      "duration_ms": 143052,
-      "name": "scogliera",
-      "url": "https://open.spotify.com/track/6WDD2wfmJbs1NLMpgaQGqy"
-    },
     {
       "added_at": "2026-09-11 07:19:03",
       "album": {
@@ -63,22 +31,34 @@
     {
       "added_at": "2026-09-11 07:19:03",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u"
+        "name": "scogliera",
+        "url": "https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1"
       },
       "artists": [
         {
-          "name": "Tokyo",
-          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
         }
       ],
-      "duration_ms": 145760,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI"
+      "duration_ms": 143052,
+      "name": "scogliera",
+      "url": "https://open.spotify.com/track/6WDD2wfmJbs1NLMpgaQGqy"
+    },
+    {
+      "added_at": "2026-09-11 07:19:03",
+      "album": {
+        "name": "DEMONIO",
+        "url": "https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        }
+      ],
+      "duration_ms": 133040,
+      "name": "LA SCOPO CO O' SGUARDO",
+      "url": "https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To"
     },
     {
       "added_at": "2026-09-11 07:19:03",
@@ -95,6 +75,26 @@
       "duration_ms": 109983,
       "name": "KILO",
       "url": "https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC"
+    },
+    {
+      "added_at": "2026-09-11 07:19:03",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/1lp7WKEO05NkOrH1lUTc3u"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7zbYiYPJwdOdgBodB5ZlfI"
     },
     {
       "added_at": "2026-09-11 07:19:03",

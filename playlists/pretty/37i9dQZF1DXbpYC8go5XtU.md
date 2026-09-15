@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,633 likes - 149 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,681 likes - 149 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 148 | [Het Wed](https://open.spotify.com/track/5c5bwSNhKewBJgtxKhVhjy) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Het Wed](https://open.spotify.com/album/63EnNcLoZCCKPv3zHrETr0) | 3:56 |
 | 149 | [The Morning Star](https://open.spotify.com/track/12E6jng4MmOhp8hIFWplao) | [Sainte Terrer](https://open.spotify.com/artist/5RclbTDZlLn8jP2vV9WpCp) | [Without land, at Home.](https://open.spotify.com/album/5AtjOmAKuOna2nWNXaVULK) | 2:35 |
 
-Snapshot ID: `AAAAAJwHn0yCcrdxFuA6O2CrMzr1pPmB`
+Snapshot ID: `AAAAAI9gdC8zocHxD8WVUpybdfDHKwWp`

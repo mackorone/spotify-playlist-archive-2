@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,657,382 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,657,638 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 |
 | 100 | [Holy Spirit \(feat\. Phylisha Mitchell\)](https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Phylisha Mitchell](https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh) | [Not My Will \(Deluxe\)](https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb) | 4:31 |
 
-Snapshot ID: `AAAAAOnIT5cRS5x5+mJyN22U5GdUwMED`
+Snapshot ID: `AAAAADxc+D8cnUypnFQSRSEcd3p17Ex4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > All the winning songs from the annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,967 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,957 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 41 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 |
 | 42 | [The Shape Of Water](https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 3:42 |
 | 43 | [We Belong Together \- From "Toy Story 3"/Soundtrack](https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 4:03 |
-| 44 | [This Is A Life](https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [This Is A Life \(From the Original Motion Picture "Everything Everywhere All at Once"\)](https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR) | 2:41 |
-| 45 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
+| 44 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
+| 45 | [This Is A Life](https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [This Is A Life \(From the Original Motion Picture "Everything Everywhere All at Once"\)](https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR) | 2:41 |
 | 46 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 | 47 | [Father Comes Home \- from "Little Women" Soundtrack](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 | 48 | [Moon River](https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Breakfast At Tiffany's](https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh) | 2:41 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 52 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 53 | [Williams: E.T\. \- Flying Theme](https://open.spotify.com/track/6resX7nabqQ0msLufgxBy7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams \- Star Wars and Beyond](https://open.spotify.com/album/6YffFzDclLJoaHMD7NX5Uj) | 3:45 |
 
-Snapshot ID: `AAAAANUeGmOqOL/sbCHHQqlmrA3bAXlr`
+Snapshot ID: `AAAAALjftruUycJoVSsl4QMUe2bjfRzx`

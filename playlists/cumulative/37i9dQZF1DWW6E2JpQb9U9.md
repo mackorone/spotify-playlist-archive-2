@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-376 songs - 1 day 4 hr 22 min
+377 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Pistolas \(En Vivo en River 2018\)](https://open.spotify.com/track/3PApylD8eVyKu9K8z8tvAk) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Alejandro Ciro Martínez](https://open.spotify.com/artist/751uyfjcYkQhPRwxhLXCnC) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 5:23 | 2022-04-01 | 2022-07-29 |
 | [Pistolas \- En Vivo](https://open.spotify.com/track/3riCMXhrJc434p7rcDLlFW) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 5:09 | 2023-12-22 | 2024-04-19 |
 | [Pistolas \- En Vivo](https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 5:09 | 2022-04-01 | 2024-01-04 |
-| [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 | 2024-10-10 |  |
+| [Por Mil Noches](https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Por Mil Noches](https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR) | 4:55 | 2026-09-14 |  |
+| [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 | 2024-10-10 | 2026-09-15 |
 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6TggFUAsxDQXxqd9qTUKF5) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Por Mil Noches \(En Vivo\)](https://open.spotify.com/album/1OSrYHj95HX9relLWTvp7d) | 5:03 | 2024-08-15 | 2024-10-11 |
 | [Prometeo \- En Vivo en River 2018](https://open.spotify.com/track/1FkeIFQQkaSBp9YT6Ua54I) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:22 | 2022-04-01 | 2022-07-28 |
 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 | 2022-04-01 |  |

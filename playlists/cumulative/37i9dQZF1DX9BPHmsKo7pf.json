@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -2999,6 +2999,28 @@
     },
     {
       "album": {
+        "name": "Genul \u0103la",
+        "url": "https://open.spotify.com/album/6aYU0Zg3RePmH06uk90xL5"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Genul \u0103la",
+      "url": "https://open.spotify.com/track/1gwsXF1G0j7uOS53KtRQYu"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -4186,7 +4208,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 152459,
       "name": "Mandarina",
       "url": "https://open.spotify.com/track/7HUuF7KJbxDUJfPkqDIhRL"
@@ -4584,7 +4606,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -4726,6 +4748,24 @@
       "duration_ms": 92500,
       "name": "NE IMPACAM",
       "url": "https://open.spotify.com/track/1UYgLqVvUOjWWtnBm5qhsx"
+    },
+    {
+      "album": {
+        "name": "Nebun de legat",
+        "url": "https://open.spotify.com/album/3a08Lb2bijUe8Be5Gsi4Uj"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127257,
+      "name": "Nebun de legat",
+      "url": "https://open.spotify.com/track/0ayUkmcKhWe5gf2matXLpe"
     },
     {
       "album": {
@@ -4894,6 +4934,28 @@
       "duration_ms": 147200,
       "name": "O sa vina ziua",
       "url": "https://open.spotify.com/track/0UQXbAOLooNOYq5Pw1aWCu"
+    },
+    {
+      "album": {
+        "name": "O s\u0103 regre\u021bi",
+        "url": "https://open.spotify.com/album/50mi0Zgpsu7y9RVUXHI2Qn"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Alex Bittman",
+          "url": "https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "O s\u0103 regre\u021bi",
+      "url": "https://open.spotify.com/track/1RK4fhDFMGqndDf05EivR3"
     },
     {
       "album": {

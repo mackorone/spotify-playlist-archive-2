@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Joystick
 
-378 songs - 21 hr 25 min
+379 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AMIS](https://open.spotify.com/track/24tAh2Rn9gkk5aEl5DCElD) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Fermín Irigoyen](https://open.spotify.com/artist/6iUCARgUPYbGD3sUSzxr9b) | [AMIS](https://open.spotify.com/album/7tBfRXD5UjkaIudtpTFhPo) | 2:00 | 2026-04-17 | 2026-05-29 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 | 2025-10-25 |
 | [Aniversario Luctuoso](https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Comportamiento Errático](https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc) | 3:38 | 2024-11-15 |  |
+| [Antes Bailabas](https://open.spotify.com/track/2I9I15QaBKauS6vmUw5XDI) | [Vicente y Los Curiosos](https://open.spotify.com/artist/4pimjrSwCXS1dhBn2GJjg9) | [Necesidad & Urgencia](https://open.spotify.com/album/0IazGut0pvf1VJR0z3wm9P) | 3:25 | 2026-09-14 |  |
 | [Antes de dejarme ir](https://open.spotify.com/track/0e4bxeAf8jtBQJD4Rgi4QX) | [Ciruelo](https://open.spotify.com/artist/5CO9M2qdkLeY8cBAgS1xMf) | [La larga risa de todos estos años](https://open.spotify.com/album/3HLmq1A0Q8tTJDnWVt0Z76) | 3:04 | 2026-07-17 |  |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 | 2025-11-21 |
 | [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 | 2025-10-10 | 2026-04-04 |
@@ -213,7 +214,7 @@
 | [Los Capitanes](https://open.spotify.com/track/1f0tv1b07Kq83uC3u4RdP5) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Los Capitanes](https://open.spotify.com/album/2W73rRbpaz3T5Nddun5MVr) | 2:51 | 2025-03-28 | 2026-04-04 |
 | [Los Colores](https://open.spotify.com/track/7AMHUYpP3VOaNlhmjlqbZq) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Ahora / Después](https://open.spotify.com/album/611UzKp2VkiUPFK5xbobyT) | 4:25 | 2022-03-25 | 2023-03-25 |
 | [Lugares](https://open.spotify.com/track/4C1N58C20e0yxD8GwIQeBV) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Suena Raro](https://open.spotify.com/album/0oVNAHJ3zRqC6qXOlRYT7l) | 3:36 | 2026-04-03 | 2026-06-12 |
-| [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 | 2025-09-29 |  |
+| [Mabel](https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [yo también les tengo miedo](https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN) | 2:48 | 2025-09-29 | 2026-09-15 |
 | [Magic Town](https://open.spotify.com/track/6gzSzsdssXUUNEOcGDOxMX) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Jajaquejaja](https://open.spotify.com/album/2W7fauQ4SgZnhNO3lDLSZH) | 2:01 | 2023-03-23 | 2024-07-13 |
 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 | 2026-04-04 |
 | [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-03-25 | 2023-03-25 |

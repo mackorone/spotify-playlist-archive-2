@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7257,
+  "num_followers": 7256,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAW1iJpV0B5V291ifdAofZw",
+  "snapshot_id": "aqXngAAAAACXIuJf6t9TnvM1uyT/LMv8",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 192640,
       "name": "\u00c9chale la Culpa al Rock N' Roll",
       "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Cambia Esa Cara",
-      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
       "artists": [
         {
@@ -532,25 +532,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 por Qu\u00e9",
-      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+      "duration_ms": 188546,
+      "name": "Cambia Esa Cara",
+      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 221425,
       "name": "Paz",
       "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 136081,
+      "name": "No S\u00e9 por Qu\u00e9",
+      "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rutas",
         "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "No Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+      "duration_ms": 281757,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 281757,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/6kY9lyIn4FPuIse0a6Ettb"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,

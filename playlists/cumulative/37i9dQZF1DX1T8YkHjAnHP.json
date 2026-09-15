@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 388609,
       "name": "After En Cali",
       "url": "https://open.spotify.com/track/3wqlO3v1swLDl7epNTcThh"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 224390,
       "name": "Better Than This - Dorian Craft & Baron Remix",
       "url": "https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV"
@@ -854,6 +854,24 @@
       "duration_ms": 234146,
       "name": "Better Than This ft. IVETA",
       "url": "https://open.spotify.com/track/00Rqbth6VNzxB8v6P61Az3"
+    },
+    {
+      "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/1TpQsGmnnxpNjwyECL12uh"
+      },
+      "artists": [
+        {
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/6WJtD4r5W5VJkSfZJj2xhT"
     },
     {
       "album": {
@@ -1561,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Doin' It All For The Culture",
+        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343414,
+      "name": "Doin' It All For The Culture",
+      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
+    },
+    {
+      "album": {
         "name": "Diplo (Life and Death Remixes)",
         "url": "https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv"
       },
@@ -1872,6 +1908,32 @@
       "duration_ms": 335194,
       "name": "Famax",
       "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
       "album": {
@@ -2611,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "If I Go",
+        "url": "https://open.spotify.com/album/2LPhjvqz97wQhiUtUKIrVe"
+      },
+      "artists": [
+        {
+          "name": "Shahin Shantiaei",
+          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
+        },
+        {
+          "name": "Cassia Begg",
+          "url": "https://open.spotify.com/artist/2Vzw2uvTinY3YaNgrAkeli"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195245,
+      "name": "If I Go",
+      "url": "https://open.spotify.com/track/3vWTerTMu3GDiCoeZhGSIQ"
+    },
+    {
+      "album": {
         "name": "If U Ever",
         "url": "https://open.spotify.com/album/7v7Q1dMyvoTaGicpiEx7HR"
       },
@@ -2634,6 +2718,28 @@
       "duration_ms": 192580,
       "name": "If U Ever",
       "url": "https://open.spotify.com/track/2t7OYbIy8VAKophB8wJpN3"
+    },
+    {
+      "album": {
+        "name": "Ima Read",
+        "url": "https://open.spotify.com/album/3GBOrvIb5AERAp1i9leNtg"
+      },
+      "artists": [
+        {
+          "name": "Zebra Katz",
+          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
+        },
+        {
+          "name": "Njena Reddd Foxxx",
+          "url": "https://open.spotify.com/artist/6DpBCzlQER7hwF0hG3IOxZ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "Ima Read",
+      "url": "https://open.spotify.com/track/5ONnj2HMW9jMSQH7rH52rR"
     },
     {
       "album": {
@@ -2742,6 +2848,28 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll Be Good EP",
+        "url": "https://open.spotify.com/album/4z3dItgwdywwcn0DxJ6Q75"
+      },
+      "artists": [
+        {
+          "name": "AfroSalto",
+          "url": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
+        },
+        {
+          "name": "Sven Fields",
+          "url": "https://open.spotify.com/artist/6fE47lKKAEbIrbim4FQGS2"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "I\u2019ll Be Good",
+      "url": "https://open.spotify.com/track/5OZj08FddauI0xuWIsO65h"
     },
     {
       "album": {
@@ -3395,6 +3523,36 @@
     },
     {
       "album": {
+        "name": "Mandjou",
+        "url": "https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Feki Station",
+          "url": "https://open.spotify.com/artist/2LMUZc4VeAVjEG2BNMuL2L"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Mandjou",
+      "url": "https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6"
+    },
+    {
+      "album": {
         "name": "Gypsy Soul EP",
         "url": "https://open.spotify.com/album/0KLGdArJz3w0tsDNejQmh8"
       },
@@ -3406,7 +3564,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 368613,
       "name": "Manea Cu Voca",
       "url": "https://open.spotify.com/track/14BhbaVzG0qbCpGRjdkq1c"
@@ -3817,6 +3975,36 @@
     },
     {
       "album": {
+        "name": "My Only Crime",
+        "url": "https://open.spotify.com/album/6QMuIqH9RuZuCoLYv8lpx3"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        },
+        {
+          "name": "Karl Williams",
+          "url": "https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "My Only Crime - Radio Edit",
+      "url": "https://open.spotify.com/track/0ahFA0CiTry3G8WhU85z58"
+    },
+    {
+      "album": {
         "name": "Na Tafuta (I'm Looking)",
         "url": "https://open.spotify.com/album/7gvw5VLbicgf37a7SEqggH"
       },
@@ -3850,6 +4038,24 @@
       "duration_ms": 454000,
       "name": "Nanana",
       "url": "https://open.spotify.com/track/1UvM3VzlwYts5IldSnJ8RT"
+    },
+    {
+      "album": {
+        "name": "Neon Hearts",
+        "url": "https://open.spotify.com/album/3Gikz1kA3U6f8xwJbRi9db"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366393,
+      "name": "Neon Hearts",
+      "url": "https://open.spotify.com/track/72oqhGHqMD1y6VJCLAScOM"
     },
     {
       "album": {
@@ -3934,7 +4140,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 383106,
       "name": "No More",
       "url": "https://open.spotify.com/track/2nmQ5ipEeHc9BYWqlczZ6O"
@@ -4018,7 +4224,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 194880,
       "name": "Nuraan",
       "url": "https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8"
@@ -4058,6 +4264,24 @@
       "duration_ms": 260500,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6e9F9XXBcfHMqkI9qejIEv"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Ades",
+          "url": "https://open.spotify.com/artist/3Qq7ZqkOheX4xnQ3p1AsYr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/7IDCH6dM21S7cNcNawkPwL"
     },
     {
       "album": {
@@ -4124,7 +4348,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 130560,
       "name": "Oneki",
       "url": "https://open.spotify.com/track/17k7c6jur7nhdriGdQ7nd5"
@@ -4258,7 +4482,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 252000,
       "name": "Percolate - Radio Edit",
       "url": "https://open.spotify.com/track/1BAiA7X57jccQQesa0rN6C"
@@ -4462,7 +4686,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 270317,
       "name": "Raiva",
       "url": "https://open.spotify.com/track/7xdmcGcPLwqHnSCbeXfhGj"
@@ -4484,7 +4708,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 263606,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4mK3M3Xf9hUpsKtJsw4IJx"
@@ -4876,7 +5100,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 286829,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
@@ -5834,7 +6058,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 161311,
       "name": "Titatite - Radio Edit",
       "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
@@ -5958,7 +6182,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 188852,
       "name": "Tromlitz - Radio Edit",
       "url": "https://open.spotify.com/track/6tIxPSDiEFsjpcvd7F1HKN"
@@ -5998,6 +6222,24 @@
       "duration_ms": 219840,
       "name": "Try",
       "url": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu"
+    },
+    {
+      "album": {
+        "name": "TRYNA DO",
+        "url": "https://open.spotify.com/album/1BRkgRM1yKwFXLMMRo4C3M"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138113,
+      "name": "TRYNA DO",
+      "url": "https://open.spotify.com/track/0or3pcuAkBOI45qHMHZIw5"
     },
     {
       "album": {
@@ -6406,7 +6648,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 352324,
       "name": "What The F",
       "url": "https://open.spotify.com/track/3aCSgsFpGhy4Ne91Wl1AWa"
@@ -6618,6 +6860,24 @@
       "duration_ms": 471320,
       "name": "Wish You Were Here - Bedouin Remix",
       "url": "https://open.spotify.com/track/2sWqYVNYIsyazFA0nDVtkn"
+    },
+    {
+      "album": {
+        "name": "Spiralen & Wo\u00b4s Patric?!?",
+        "url": "https://open.spotify.com/album/1S9fmm3qMb9BzJA9AjZewm"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464000,
+      "name": "Wo\u00b4s Patric?!?",
+      "url": "https://open.spotify.com/track/0SbwJZ37eiEaWIxIP7dS8c"
     },
     {
       "album": {

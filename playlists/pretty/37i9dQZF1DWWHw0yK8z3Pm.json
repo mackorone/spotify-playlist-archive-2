@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: The Strumbellas, High Valley",
-  "num_followers": 70380,
+  "num_followers": 70379,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABSy8Viar3DaSTQEMyjA6UrB/Ylc",
+  "snapshot_id": "AAAAAI52j9AvT9I3cJ8XwKpOhwHOEQd1",
   "tracks": [
     {
       "added_at": "2026-09-11 04:03:15",
@@ -509,26 +509,6 @@
       "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
-    },
-    {
       "added_at": "2026-09-11 04:03:15",
       "album": {
         "name": "I'm Sorry But I Love You",
@@ -547,6 +527,26 @@
       "duration_ms": 242014,
       "name": "I'm Sorry But I Love You",
       "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Thinking Too Much",
@@ -663,6 +647,22 @@
       "duration_ms": 216727,
       "name": "Your Place At My Place",
       "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "added_at": "2026-06-26 04:03:10",
+      "album": {
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
-      "added_at": "2026-07-24 04:03:38",
-      "album": {
-        "name": "Home Depot",
-        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 193039,
-      "name": "Home Depot",
-      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Snipe Hunter",
@@ -807,6 +791,22 @@
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
+    },
+    {
+      "added_at": "2026-07-24 04:03:38",
+      "album": {
+        "name": "Home Depot",
+        "url": "https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "Home Depot",
+      "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
     },
     {
       "added_at": "2026-07-24 04:03:38",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "The Pines",
         "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 213137,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Portland, Maine (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 210915,
-      "name": "Portland, Maine (feat. Jordan Davis)",
-      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
       "added_at": "2026-07-24 04:03:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-11 04:03:15",
       "album": {
-        "name": "Far Out Country II",
-        "url": "https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI"
-      },
-      "artists": [
-        {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Im Yr Mane",
-      "url": "https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ"
-    },
-    {
-      "added_at": "2026-09-11 04:03:15",
-      "album": {
         "name": "Anything Anything",
         "url": "https://open.spotify.com/album/5K4hP3VRzjea4wXYoeYWi9"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 219281,
       "name": "Anything Anything",
       "url": "https://open.spotify.com/track/5z0cWacpqhkgR0FfBEPqP9"
+    },
+    {
+      "added_at": "2026-09-11 04:03:15",
+      "album": {
+        "name": "Far Out Country II",
+        "url": "https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Im Yr Mane",
+      "url": "https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ"
     },
     {
       "added_at": "2026-05-22 04:02:59",

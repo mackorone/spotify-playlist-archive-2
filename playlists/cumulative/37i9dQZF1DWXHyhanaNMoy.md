@@ -4,7 +4,7 @@
 
 > Motion & good vibes met Ronnie Flex & Carel!
 
-1,854 songs - 3 day 9 hr 52 min
+1,855 songs - 3 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Balans](https://open.spotify.com/track/6VFaDDAwBsrFgiHpvEUMb9) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Balans](https://open.spotify.com/album/1Yn5NL7HFvSZmMeM6CNxdG) | 2:05 | 2022-11-25 | 2023-01-13 |
 | [Baller](https://open.spotify.com/track/2bsIrUVQ1GgMQydlOa0QG5) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6), [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Baller](https://open.spotify.com/album/387YLm0JTh4ONLxGHki7jV) | 3:31 | 2025-01-16 | 2025-02-21 |
 | [Ballie](https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Ballie](https://open.spotify.com/album/55umMdwSFkqtjvJfktDi8K) | 2:53 | 2025-09-25 | 2025-11-07 |
-| [Bam Bam](https://open.spotify.com/track/6bkNycyXZbJ8ypI7kfzVBe) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy), [Jobbin](https://open.spotify.com/artist/6l4300LAvjhHI7ioZfJu3u) | [Bam Bam](https://open.spotify.com/album/4mpipIXSsmQxZr7uLhJgDf) | 2:49 | 2026-07-30 |  |
+| [Bam Bam](https://open.spotify.com/track/6bkNycyXZbJ8ypI7kfzVBe) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy), [Jobbin](https://open.spotify.com/artist/6l4300LAvjhHI7ioZfJu3u) | [Bam Bam](https://open.spotify.com/album/4mpipIXSsmQxZr7uLhJgDf) | 2:49 | 2026-07-30 | 2026-09-15 |
 | [Ban Biba](https://open.spotify.com/track/1roGfj3v1T6gLpfCkycf6Q) | [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Ban Biba](https://open.spotify.com/album/4gVdHrkSUboqIPS9KlDN34) | 2:06 | 2025-03-27 | 2025-07-11 |
 | [Ban Pami](https://open.spotify.com/track/36T2XdhpmLFocIvJT7CafN) | [Ori](https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1), [Boykii](https://open.spotify.com/artist/3j62Is7UouiuIWT5c3ykmH), [Kevin Key](https://open.spotify.com/artist/0Icgh2uA5f0EBzvGZWSeUU) | [Ban Pami](https://open.spotify.com/album/3YQwlzf40HSktZ8hMSw2DF) | 2:55 | 2023-06-22 | 2023-09-22 |
 | [Banana](https://open.spotify.com/track/7Mish8vZYeOPFHizC3pnpE) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Banana](https://open.spotify.com/album/0CidSPfyHc1IogMn39b8fv) | 3:15 | 2022-07-14 | 2022-09-02 |
@@ -1527,6 +1527,7 @@
 | [Spiritual Mami](https://open.spotify.com/track/4iomHXx4iKSlGt2XuqqXv6) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Spiritual Mami](https://open.spotify.com/album/5QC8aWdrNjDRmqa6QGdoKj) | 2:18 | 2024-10-10 | 2025-01-24 |
 | [Splash](https://open.spotify.com/track/0W5T6KsHZH1XfOTLnuWlgg) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Splash](https://open.spotify.com/album/5XxKAoAqJUAnVxpjswzcwN) | 2:08 | 2022-10-06 | 2022-11-26 |
 | [Splash 2.0](https://open.spotify.com/track/78YZVUVc2djUsJczAEePSZ) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Indjo](https://open.spotify.com/artist/1dqn6oHnYEIepmrxLKuh0K) | [Splash 2.0](https://open.spotify.com/album/5BfDMZ48RB2V908K76kZnC) | 2:26 | 2026-05-11 | 2026-06-12 |
+| [Spoilen](https://open.spotify.com/track/1G6VgvEO8hQ1cDsoeIIutM) | [Stanga](https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ), [Kito](https://open.spotify.com/artist/4fETIXsKMsonclRBVrUGe4), [Coldcase](https://open.spotify.com/artist/3IYJJywEefHtO0WnPs5mkI) | [Spoilen](https://open.spotify.com/album/6fDkEXhvO2ABPYGuRpsZYD) | 3:27 | 2026-09-14 |  |
 | [Spotlights](https://open.spotify.com/track/7t3VY0ZL1g2MbtlkwMWuc3) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Spotlights](https://open.spotify.com/album/6EN7pihdD6MqjoEiIRxXky) | 2:24 | 2025-10-16 | 2025-11-07 |
 | [Stamina](https://open.spotify.com/track/77NNLReuj9fe6hcz0oQRPW) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Stamina](https://open.spotify.com/album/39STTwg1P4mOGRrVGCXNwV) | 2:13 | 2024-09-20 | 2025-02-14 |
 | [Star Of The Night](https://open.spotify.com/track/45qjd3VSiol37cpi4uEmAc) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Star Of The Night](https://open.spotify.com/album/2VlMg2lB94K0Pqjb0nYPsE) | 2:49 | 2025-02-06 | 2025-05-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Angela Autumn
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,206 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,190 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 149 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
 | 150 | [Amsterdam](https://open.spotify.com/track/7sEZZ73Y1c3CSoM8benTbR) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Amsterdam](https://open.spotify.com/album/2rBvf3unbai2Qk6Mr5oSSv) | 5:19 |
 
-Snapshot ID: `AAAAAGaemI3W70gC9+BBiOjhmuJlHtfo`
+Snapshot ID: `AAAAANcOfKw2i+HiW/u6XNYA7V0vPnl7`

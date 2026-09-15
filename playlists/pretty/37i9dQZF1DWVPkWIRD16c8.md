@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Let Jesus take the wheel...and the aux cord!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,736 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,881 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 58 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
 | 59 | [Already On The Way](https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Already On The Way](https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo) | 4:12 |
 | 60 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
-| 61 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
-| 62 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
+| 61 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
+| 62 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
 | 63 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 64 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 65 | [Runs In The Blood](https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Runs In The Blood](https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69) | 3:04 |
 | 66 | [Take It All Back](https://open.spotify.com/track/2GkNgHBlPQsh1t1GEVeLYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:13 |
 | 67 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
-| 68 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
-| 69 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
+| 68 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
+| 69 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
 | 70 | [Why Do You Love Me?](https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Why Do You Love Me?](https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh) | 4:08 |
 | 71 | [Brighter Days \- New Day Edition](https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(New Day Edition\)](https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL) | 3:05 |
 | 72 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 95 | [Ain't It Beautiful](https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Ain't It Beautiful](https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq) | 3:34 |
 | 96 | [We Could Run Away](https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Heat](https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU) | 4:08 |
 | 97 | [Crying Out Loud](https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Crying Out Loud](https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB) | 3:20 |
-| 98 | [getting somewhere](https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [getting somewhere](https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9) | 4:12 |
-| 99 | [THANK YOU JESUS](https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [THANK YOU JESUS](https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO) | 2:48 |
+| 98 | [THANK YOU JESUS](https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [THANK YOU JESUS](https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO) | 2:48 |
+| 99 | [getting somewhere](https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [getting somewhere](https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9) | 4:12 |
 | 100 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
 
-Snapshot ID: `AAAAADXQE7CyZ2lWEgIBQ9ZXzZaCr7TH`
+Snapshot ID: `AAAAAAOsWaZFsDCaJWo9e3U1VgFhEnN7`

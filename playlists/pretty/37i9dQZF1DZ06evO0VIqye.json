@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62597,
+  "num_followers": 62592,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAAUYZYEJmPlu9D8+0Xk4J9y",
+  "snapshot_id": "aqXngAAAAAB8oewPRnxpf8I3LojbybEL",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Into It",
         "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 216865,
       "name": "Wildside - feat. Joan Jett",
       "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 173853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA"
+      "duration_ms": 302760,
+      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
+      "duration_ms": 173853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "The French Song",
-      "url": "https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 182413,
       "name": "School Days",
       "url": "https://open.spotify.com/track/7nfFHki7aSYJoLXe2sT2CQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "The French Song",
+      "url": "https://open.spotify.com/track/21GN0Gln1ZJyOFZujCOt7C"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 139173,
       "name": "Fun, Fun, Fun",
       "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
     },
     {
       "added_at": null,

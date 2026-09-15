@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,184 songs - 6 day 19 hr 49 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,187 songs - 6 day 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3192,5 +3192,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3182 | [UNDERGROUND](https://open.spotify.com/track/75jxcaLJYPZ5rPzR8LwoS0) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw), [Detailed](https://open.spotify.com/artist/4iqEVZEav7vIiv1HStr6Gx) | [UNDERGROUND](https://open.spotify.com/album/38kjyJpTLSDfVgnEWFCrYK) | 2:24 |
 | 3183 | [ON THE FLOOR](https://open.spotify.com/track/1KTlfoM1iviWVslVHSV9T7) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh) | [ON THE FLOOR](https://open.spotify.com/album/290imKzL5roZCu0WJNkLqL) | 2:21 |
 | 3184 | [Self Aware](https://open.spotify.com/track/1HguG2N6yx2uZlXQjGarya) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Self Aware](https://open.spotify.com/album/2EwgNCNJ9rGKH41bGhhApq) | 1:57 |
+| 3185 | [Nightshade](https://open.spotify.com/track/57qKJuQZemdr8DVYiDpPqv) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [Never Say Die Vol\. 7](https://open.spotify.com/album/7537m8jYEmlzaR2pZWjg07) | 4:13 |
+| 3186 | [Rhythm Is My Key](https://open.spotify.com/track/0wtYlgL4dbZi2417Z9dDS9) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Rhythm Is My Key](https://open.spotify.com/album/62LfdzsLsc2wF7CT3evGtB) | 3:30 |
+| 3187 | [Ascension](https://open.spotify.com/track/4yspSVpO5IpEBTsMyDqUde) | [Krysis](https://open.spotify.com/artist/6hABDXl01y3emJbOCigCVG), [J\-Stranger](https://open.spotify.com/artist/5mOeIIdBZC9D0A7m1qDl73) | [Ascension](https://open.spotify.com/album/6zE8IU8B9qTBzNoAVoolwW) | 3:21 |
 
-Snapshot ID: `AAAMz/L8zI9RvRl86n9787jKFKRXH4RI`
+Snapshot ID: `AAAM3IzH/4XFGcLJ3hyh9vMDvbuf991+`

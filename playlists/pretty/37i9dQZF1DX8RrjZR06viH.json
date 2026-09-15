@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158231,
+  "num_followers": 158216,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjMxpu3ILhd1GlycSWlJR6UMWR+",
+  "snapshot_id": "AAAAAIzIGfVfcKyTQNA6+JazwkrQdthl",
   "tracks": [
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "THEO",
-        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 147018,
-      "name": "THEO",
-      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "OVERTIME/OVERKILL VOL. 2",
-        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
+        "name": "THEO",
+        "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
       },
       "artists": [
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
         }
       ],
-      "duration_ms": 249905,
-      "name": "Oslo / Karachi / Paris",
-      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
+      "duration_ms": 147018,
+      "name": "THEO",
+      "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
+        "name": "OVERTIME/OVERKILL VOL. 2",
+        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 249905,
+      "name": "Oslo / Karachi / Paris",
+      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
         "name": "Jeg vil ikke st\u00e5 i ro lenger",
         "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+        "name": "Hvalfangerbyen - Akustisk",
+        "url": "https://open.spotify.com/album/2uDdNLF7xmAg2KIf5m97k2"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
         }
       ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+      "duration_ms": 237186,
+      "name": "Hvalfangerbyen - Akustisk",
+      "url": "https://open.spotify.com/track/5JeBqlHUVh7nNjSQVdTyP3"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Abbot, LX
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,697 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,638 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Fantasia e Luxúria](https://open.spotify.com/track/2fD92PtBkPuAj73jqKZWnU) | [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Fantasia e Luxúria](https://open.spotify.com/album/1GXt4zyd0v8GZRsRuWLu1x) | 2:36 |
 | 75 | [football](https://open.spotify.com/track/1h2WHNJwUJCKUkrW0l1OPq) | [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [football](https://open.spotify.com/album/6uB4JLd3yelyi3QPxPiQqq) | 2:33 |
 
-Snapshot ID: `AAAAAHjEOxgfSfGSVsl3oOQbLGftwu2S`
+Snapshot ID: `AAAAAA3uE8gOjVBLkTkc12kYC2e2dUw7`

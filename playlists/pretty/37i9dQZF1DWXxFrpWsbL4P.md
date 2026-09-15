@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,156 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,142 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [Vertigo](https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Vertigo](https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn) | 2:38 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAABrINMURV/vxO/63ZWFgCJwzqqu6`
+Snapshot ID: `AAAAADUqzK/+N0OhOrhAfUiB9Uh3bvLM`

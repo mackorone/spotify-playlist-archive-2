@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Turma do Pagode, Jorge Vercilo, Rafa e Junior com Zé Felipe,  Jhéne Aiko, As Cristinas, Ryan Fidelis e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,347 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,049 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [Hi, hello](https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Hi, hello](https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje) | 2:36 |
 | 70 | [In N Out](https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [In N Out](https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4) | 3:32 |
 
-Snapshot ID: `AAAAAJmvjr4/oaUIMOf27oi0jsx0guvI`
+Snapshot ID: `AAAAABz9tZNtCq/HQczXKOvfQOkhTMef`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,741 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,757 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [One Night In Mykonos](https://open.spotify.com/track/1yfKPKAFn1T0WyhsJr1835) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [One Night In Mykonos](https://open.spotify.com/album/4BOGe2TvivqAd2J49tZPlJ) | 2:49 |
 | 60 | [Save me](https://open.spotify.com/track/7rVjj9EVAlflgkO9ajcI4X) | [SŌLAL](https://open.spotify.com/artist/4zZ4fIocankM51Oz24V9ql), [Grande](https://open.spotify.com/artist/0Nmaq3vqBkbJSGfTTom7B4), [Parismade](https://open.spotify.com/artist/6XCKxknpiwDd8MsJYdXe54) | [Save me](https://open.spotify.com/album/6WcgOXoCZ1yLndvHOaqpFM) | 3:04 |
 
-Snapshot ID: `AAAAAKbiW4nFn5xga9T4wOCvEeI9ZciQ`
+Snapshot ID: `AAAAAM8E20yLurisE0MD4e4hJcZTTCyd`

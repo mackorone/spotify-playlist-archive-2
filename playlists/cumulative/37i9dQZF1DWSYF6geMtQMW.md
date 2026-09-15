@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר:שאקירה ובורנה בוי
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רואי אדם
 
-268 songs - 14 hr 24 min
+271 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-29 | 2024-09-17 |
 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-09-07 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-05 | 2024-09-10 |
-| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-01 |  |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-01 | 2026-09-15 |
 | [hate that i made you love me](https://open.spotify.com/track/3pY25LQJWfvvxdHhSg8ucj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/6HWIDxWLkXE2MzQB8iXN9T) | 3:17 | 2026-08-03 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-08-06 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-07-01 | 2024-09-24 |
@@ -174,7 +174,7 @@
 | [יש מישהו ששר לך](https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [יש מישהו ששר לך](https://open.spotify.com/album/2DWJhuqWVgYf8kclsUINyA) | 3:33 | 2025-12-15 | 2026-02-24 |
 | [כבר לא שמח](https://open.spotify.com/track/2CGlVhHnz1LDbZs2u9ezcE) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9), [אופק אדנק](https://open.spotify.com/artist/517NByhwSiSisC8rQZlcIv) | [כבר לא שמח](https://open.spotify.com/album/7boJL9E79ZYaQjtMRUtVke) | 2:38 | 2026-08-03 |  |
 | [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-07-01 | 2025-03-18 |
-| [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 | 2026-08-10 |  |
+| [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 | 2026-08-10 | 2026-09-15 |
 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 | 2026-02-23 |  |
 | [כל הברכה שלי](https://open.spotify.com/track/6VBwTUvZ5eS9d7pDQAcPJn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [כל הברכה שלי](https://open.spotify.com/album/5OP42J3nnGMRwRZilYYA82) | 2:55 | 2026-05-25 | 2026-06-09 |
 | [כל מה שאני רוצה](https://open.spotify.com/track/5h1iCN4plP49Tv2uFHYfxF) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [כל מה שאני רוצה](https://open.spotify.com/album/5nMMAn4GZbBSCzW0S7l5b1) | 3:52 | 2025-11-18 | 2026-02-24 |
@@ -224,9 +224,11 @@
 | [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 | 2025-09-30 |
 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 | 2025-08-25 | 2026-06-23 |
 | [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2024-07-01 | 2024-07-23 |
+| [נתתי לך בית](https://open.spotify.com/track/3p5NEImV6ChytYLOD3FMkQ) | [אופק אדנק](https://open.spotify.com/artist/517NByhwSiSisC8rQZlcIv) | [נתתי לך בית](https://open.spotify.com/album/5GfqnfAZJLSv0XDzzKsP4W) | 3:03 | 2026-09-14 |  |
+| [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 | 2026-09-14 |  |
 | [סוף סוף אני](https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סוף סוף אני](https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE) | 3:45 | 2024-11-25 | 2024-12-10 |
 | [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2025-01-07 | 2025-06-10 |
-| [סחרחורות](https://open.spotify.com/track/2bzhJBao5xywL3jlXu2S8O) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [MOR 4FM](https://open.spotify.com/album/0l8TkW3OM88I8OpzkdA4f1) | 3:10 | 2025-11-10 |  |
+| [סחרחורות](https://open.spotify.com/track/2bzhJBao5xywL3jlXu2S8O) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [MOR 4FM](https://open.spotify.com/album/0l8TkW3OM88I8OpzkdA4f1) | 3:10 | 2025-11-10 | 2026-09-15 |
 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 | 2026-08-03 |  |
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2024-07-01 | 2024-09-10 |
 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 | 2025-03-10 | 2025-10-21 |
@@ -242,6 +244,7 @@
 | [עכשיו התור לאהבה](https://open.spotify.com/track/49pn67BTjYDLqzDkOFrm1E) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עכשיו התור לאהבה](https://open.spotify.com/album/2BdF5BnILzlecemuSOuzxE) | 3:31 | 2024-10-07 | 2024-11-19 |
 | [עשר רמות מעליו](https://open.spotify.com/track/7MIg6zwmb0jYX7B7Z3kl9c) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 2:40 | 2026-05-21 |  |
 | [פאפי](https://open.spotify.com/track/4uZxeONVzM7MLQqlMmTHMz) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פאפי](https://open.spotify.com/album/1pDWvr5Yc28TEAVgRbU4NO) | 2:14 | 2025-07-07 | 2026-03-17 |
+| [פאפית](https://open.spotify.com/track/1RGW8pkRNuu09XDdxPF5cm) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם עזר](https://open.spotify.com/album/7s7ovfU2W7jxVGyEAusG19) | 2:45 | 2026-09-14 |  |
 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 | 2024-07-01 | 2025-01-08 |
 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 | 2024-07-01 | 2025-04-15 |
 | [פסיכופט](https://open.spotify.com/track/0EMfLhcfPFWdVQBCE1YXB0) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [פסיכופט](https://open.spotify.com/album/2MgRoJSnRPt9k4tZnxGWrj) | 3:01 | 2025-01-07 | 2025-11-19 |

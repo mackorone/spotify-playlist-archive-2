@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Light, uplifting acoustic Disney Guitar for calm starts, clear focus, and daily momentum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,623 likes - 82 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,631 likes - 82 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 | 81 | [Surface Pressure](https://open.spotify.com/track/0EjxneWpJA1hT8Ek2Kq14b) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Spirit](https://open.spotify.com/album/1bhcurJpiXBV2aT6uoua4h) | 3:21 |
 | 82 | [I See the Light](https://open.spotify.com/track/3Su94JQMs4BUAAldxFsWmY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 3:53 |
 
-Snapshot ID: `AAAAAJI7re3/wJR7uw+PstNx9bstn4k9`
+Snapshot ID: `AAAAAJ2jPnn7k4h1GxzA2jZCQFav5G9W`

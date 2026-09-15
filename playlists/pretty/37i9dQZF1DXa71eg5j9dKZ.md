@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jacques Greene
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,356 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,347 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [JELLY](https://open.spotify.com/track/7nDyflicais8eN7LdPynhZ) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [JELLY](https://open.spotify.com/album/2UBMlifSIomt4r5FL4mKD0) | 2:50 |
 | 100 | [Satisfied?](https://open.spotify.com/track/6OJwbzcq7BdBwJsnLyyBAZ) | [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Satisfied?](https://open.spotify.com/album/3fUlyT0kdeJ8MinBZWSIgC) | 3:53 |
 
-Snapshot ID: `AAAAACCcaHADOecZU/qqIBaKDx34krUk`
+Snapshot ID: `AAAAACixouwXjkhfjzYht0ziZS7h6QpS`

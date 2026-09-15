@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24522,
+  "num_followers": 24529,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxQjLKuqpyEPXakO0NN/ttUcsvV",
+  "snapshot_id": "AAAAANx3KTQsMp72zQjJXt37IH+JjUCT",
   "tracks": [
     {
       "added_at": "2025-01-14 15:56:57",
@@ -803,18 +803,26 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
-        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
       "artists": [
         {
-          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
-          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        },
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        },
+        {
+          "name": "THE \u864e\u7259\u9053",
+          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
         }
       ],
-      "duration_ms": 283346,
-      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
+      "duration_ms": 296440,
+      "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
+      "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -851,26 +859,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
       },
       "artists": [
         {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
-        },
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        },
-        {
-          "name": "THE \u864e\u7259\u9053",
-          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
         }
       ],
-      "duration_ms": 296440,
-      "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
-      "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
+      "duration_ms": 283346,
+      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
     },
     {
       "added_at": "2025-01-14 15:56:57",

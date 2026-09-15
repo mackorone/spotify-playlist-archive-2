@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-701 songs - 2 day 7 hr 43 min
+702 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 | 2022-04-15 | 2023-01-09 |
 | [All This Love](https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [All This Love](https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3) | 3:15 | 2026-03-19 |  |
 | [All We Got](https://open.spotify.com/track/6HyArG727PICJL6PWaBVD6) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [♡☮ EP](https://open.spotify.com/album/2G9pbugor0E9fd61MEePY7) | 2:36 | 2026-05-07 | 2026-07-03 |
-| [All You Got To Do](https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn) | 3:06 | 2024-08-21 |  |
+| [All You Got To Do](https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn) | 3:06 | 2024-08-21 | 2026-09-15 |
 | [Almost Everything](https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO) | 3:54 | 2023-08-30 | 2023-11-16 |
 | [Along Came Polly](https://open.spotify.com/track/6fL2wAZuNKGpze9E3SINnW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Along Came Polly](https://open.spotify.com/album/6A1l7h4BlXBurKORHhl3Rb) | 6:29 | 2024-10-24 |  |
 | [Along Came Polly \- Konstantin Sibold, ZAC, CARMEE Remix](https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [CARMEE](https://open.spotify.com/artist/6OHONEQPRKD9oYckcnnKdq) | [Along Came Polly \(Konstantin Sibold, ZAC, CARMEE Remix\)](https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE) | 5:05 | 2024-09-02 |  |
@@ -648,6 +648,7 @@
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2022-12-30 |  |
 | [Trust Me](https://open.spotify.com/track/3iMg2KqjHCDKoONLyNXzW8) | [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C), [MANTi](https://open.spotify.com/artist/2o8lhgWt1O53AhZxjnGBei), [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Auggië](https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe) | [Trust Me](https://open.spotify.com/album/3xdDbd9TpuQ5EVvVYR5DW0) | 5:08 | 2026-01-23 | 2026-02-10 |
 | [Trust the Process](https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Vision](https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40) | 5:57 | 2022-04-15 | 2022-07-29 |
+| [Try](https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Try](https://open.spotify.com/album/5FkG72VCBcwRxBs5hMUvra) | 5:29 | 2026-08-27 |  |
 | [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 | 2025-07-10 |  |
 | [Try To Box Me](https://open.spotify.com/track/4nyaKx1PQjU27dYZlgdtgV) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Try To Box Me](https://open.spotify.com/album/56coCcoqsEh7h9QkOZHTye) | 3:01 | 2026-04-03 | 2026-04-24 |
 | [Turn Around \- Âme Remix](https://open.spotify.com/track/5HBHjCETsFJP5bltmJ4BKs) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Turn Around](https://open.spotify.com/album/5SRRd1yaZsJbSiMSYOAqBY) | 8:03 | 2024-04-18 | 2024-08-22 |

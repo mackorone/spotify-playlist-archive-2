@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Benjamin Amadeo
 
-500 songs - 1 day 3 hr 10 min
+501 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [22 De Marzo](https://open.spotify.com/track/2apG9brHB5vHSKIbLMrbUP) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [22 De Marzo](https://open.spotify.com/album/4DYSZRI8S1YFpqUP0AIeFz) | 3:23 | 2025-07-18 | 2025-07-26 |
 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-08-11 |  |
 | [2:50 Remix](https://open.spotify.com/track/5eyO0n1HiiSWdGaaSoK731) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 3:51 | 2023-10-04 | 2026-08-01 |
+| [50 Horas](https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [50 Horas](https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA) | 2:44 | 2026-09-11 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-08-11 | 2026-08-01 |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2023-08-11 | 2026-08-01 |
 | [A Mi Nube](https://open.spotify.com/track/15g721ZXBap7ZOxECI4O2z) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [A Mi Nube](https://open.spotify.com/album/4mqARE8GVtj9OFtKPhJ7nA) | 2:14 | 2025-10-03 | 2025-11-14 |
@@ -289,7 +290,7 @@
 | [Mi Chica](https://open.spotify.com/track/3kloO0cxNbUHSvC0oTY9Uc) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Espero podamos ver un ovni juntxs](https://open.spotify.com/album/26zRJsRXT7Svk3SdPk9phT) | 2:47 | 2026-02-27 | 2026-03-28 |
 | [Mi una en 1M](https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Mi una en 1M](https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ) | 3:08 | 2023-05-12 | 2023-06-23 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-03-17 |  |
-| [Mil disparos](https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Mil disparos](https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW) | 3:31 | 2026-04-24 |  |
+| [Mil disparos](https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Mil disparos](https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW) | 3:31 | 2026-04-24 | 2026-09-15 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2023-08-11 | 2023-10-05 |
 | [Miranda mi amor](https://open.spotify.com/track/1wn31URbyhG7kSMN1d8DRp) | [Lula Rosenthal](https://open.spotify.com/artist/5e92e4z9l11CiG9Hs94gGc), [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH) | [Miranda mi amor](https://open.spotify.com/album/7dKi6WPaTk9xy5s9a7L2de) | 4:35 | 2026-09-04 | 2026-09-12 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-03-17 | 2023-07-08 |

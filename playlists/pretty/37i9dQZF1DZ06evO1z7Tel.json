@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40218,
+  "num_followers": 40219,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAABuSxsNiGxR5nAss47kIJdh",
+  "snapshot_id": "aqXngAAAAADjvyDh3DoHASvSRTLVVUU8",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
-        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 167821,
-      "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/1iEb7lTcR3TzRAoYcZoIGT"
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1"
+        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
+        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 188440,
-      "name": "El Rico Pobre",
-      "url": "https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP"
+      "duration_ms": 167821,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/1iEb7lTcR3TzRAoYcZoIGT"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Voy De Estas Tierras",
+        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Mi Padre",
         "url": "https://open.spotify.com/album/3e6s26Xm7sBdzL70CqzgMB"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 133866,
       "name": "De Tres Flores",
       "url": "https://open.spotify.com/track/1m4xYKvIRyYoyGmRWR0U34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Voy De Estas Tierras",
-        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 161080,
-      "name": "Dados Cargados",
-      "url": "https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE"
     },
     {
       "added_at": null,
@@ -600,25 +600,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Corrido De Gabino",
-      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
+      "duration_ms": 165280,
+      "name": "El Rayo De Sinaloa",
+      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "El Rayo De Sinaloa",
-      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -680,9 +648,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
+      "duration_ms": 156746,
+      "name": "Corrido De Gabino",
+      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Serena Y Obscura",
-        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
       },
       "artists": [
         {
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Una Noche Serena Y Oscura",
-      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Primeros 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+        "name": "Una Noche Serena Y Obscura",
+        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Tengo a Mi Lupe",
-      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
+      "duration_ms": 249226,
+      "name": "Una Noche Serena Y Oscura",
+      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
     },
     {
       "added_at": null,

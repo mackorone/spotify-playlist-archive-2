@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2115999,
+  "num_followers": 2115943,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtX6lCHLHHTByklSYOX7i9MiqnR",
+  "snapshot_id": "AAAAAGnzBvexgR6X/78KImMS68Caf6nF",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:08",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195763,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195763,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1163,6 +1147,22 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "If It Ain't You",
-        "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
-      },
-      "artists": [
-        {
-          "name": "Marfa",
-          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "If It Ain't You",
-      "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "If It Ain't You",
+        "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
+      },
+      "artists": [
+        {
+          "name": "Marfa",
+          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "If It Ain't You",
+      "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 208083,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 213169,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 208083,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
         "url": "https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 270366,
       "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
       "url": "https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Long Limbs",
-        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 196885,
-      "name": "Long Limbs",
-      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Colour Your World",
         "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 193367,
       "name": "If Not My Heart",
       "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Long Limbs",
+        "url": "https://open.spotify.com/album/4QBuAqFBVMN7SxVNulnrWt"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "Long Limbs",
+      "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Modern Woman",
         "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
@@ -2495,18 +2479,38 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
       },
       "artists": [
         {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "The Color That Suits You",
+        "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
+      },
+      "artists": [
+        {
+          "name": "Farmer",
+          "url": "https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        }
+      ],
+      "duration_ms": 293037,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
     }
   ],
   "unique_name": "Totally Stress Free",

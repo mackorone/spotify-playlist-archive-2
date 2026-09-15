@@ -1,12 +1,12 @@
 {
   "description": "This is Biosphere. The essential tracks, all in one playlist.",
-  "num_followers": 3624,
+  "num_followers": 3623,
   "original_name": "This Is Biosphere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAABB5ATzcY3PRkqO3VuTUhcw",
+  "snapshot_id": "aqXngAAAAACLbqYv6cwLnaxaM+zf/z6v",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+        "name": "Microgravity",
+        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Stordjupta",
-      "url": "https://open.spotify.com/track/4Px3C56StrFkcNsAjjJ7AQ"
+      "duration_ms": 498021,
+      "name": "Tranquillizer",
+      "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
     },
     {
       "added_at": null,
@@ -228,15 +228,15 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 145320,
-      "name": "Moistened and Dried",
-      "url": "https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F"
+      "duration_ms": 48111,
+      "name": "Grandiflora",
+      "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Microgravity",
-        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 498021,
-      "name": "Tranquillizer",
-      "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
+      "duration_ms": 188493,
+      "name": "Stordjupta",
+      "url": "https://open.spotify.com/track/4Px3C56StrFkcNsAjjJ7AQ"
     },
     {
       "added_at": null,
@@ -292,9 +292,29 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 48111,
-      "name": "Grandiflora",
-      "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
+      "duration_ms": 145320,
+      "name": "Moistened and Dried",
+      "url": "https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 346027,
+      "name": "The Rotunda",
+      "url": "https://open.spotify.com/track/73sp8vma8ARaYDkIlIFmKq"
     },
     {
       "added_at": null,
@@ -311,22 +331,6 @@
       "duration_ms": 312493,
       "name": "Microgravity",
       "url": "https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 318949,
-      "name": "From a Solid To a Liquid",
-      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
     },
     {
       "added_at": null,
@@ -363,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 647791,
+      "name": "Augusta Road & Daddylonglegs",
+      "url": "https://open.spotify.com/track/0ryBnm8Nxz02QJNefgUpbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way Of Time",
         "url": "https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN"
       },
@@ -379,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departed Glories",
-        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 190450,
-      "name": "Down On Ropes",
-      "url": "https://open.spotify.com/track/39MxHQGDytjIla3hT87hob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -404,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+      "duration_ms": 318949,
+      "name": "From a Solid To a Liquid",
+      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
     },
     {
       "added_at": null,
@@ -427,6 +435,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 388485,
+      "name": "Narrowboat",
+      "url": "https://open.spotify.com/track/2UMQXMyl6OyDXj3me1CKDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 190450,
+      "name": "Down On Ropes",
+      "url": "https://open.spotify.com/track/39MxHQGDytjIla3hT87hob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N-Plants",
         "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
       },
@@ -439,38 +483,6 @@
       "duration_ms": 309586,
       "name": "Oi-1",
       "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way Of Time",
-        "url": "https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 335553,
-      "name": "The Old Way Was Gone",
-      "url": "https://open.spotify.com/track/0LuW6Y4PPjz00eEhlbW0l3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 387308,
-      "name": "Novelty Waves",
-      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
     },
     {
       "added_at": null,
@@ -491,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shenzhou [Reissue]",
-        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
@@ -500,9 +512,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 231798,
-      "name": "Path Leading to the High Grass",
-      "url": "https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0"
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 387308,
+      "name": "Novelty Waves",
+      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
     },
     {
       "added_at": null,
@@ -516,29 +544,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 327887,
-      "name": "Time Of Man",
-      "url": "https://open.spotify.com/track/4O503tMZ2yqRCgE3KqFcii"
+      "duration_ms": 335553,
+      "name": "The Old Way Was Gone",
+      "url": "https://open.spotify.com/track/0LuW6Y4PPjz00eEhlbW0l3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Birmingham Frequencies",
-        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
       },
       "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        },
         {
           "name": "Biosphere",
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 647791,
-      "name": "Augusta Road & Daddylonglegs",
-      "url": "https://open.spotify.com/track/0ryBnm8Nxz02QJNefgUpbn"
+      "duration_ms": 231798,
+      "name": "Path Leading to the High Grass",
+      "url": "https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0"
     },
     {
       "added_at": null,
@@ -575,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Way Of Time",
+        "url": "https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Time Of Man",
+      "url": "https://open.spotify.com/track/4O503tMZ2yqRCgE3KqFcii"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L'incoronazione Di Poppea",
         "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
       },
@@ -587,26 +627,6 @@
       "duration_ms": 111129,
       "name": "Adagiati",
       "url": "https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birmingham Frequencies",
-        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        },
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 346027,
-      "name": "The Rotunda",
-      "url": "https://open.spotify.com/track/73sp8vma8ARaYDkIlIFmKq"
     },
     {
       "added_at": null,
@@ -647,58 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 350528,
-      "name": "In Triple Time",
-      "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birmingham Frequencies",
-        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        },
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 388485,
-      "name": "Narrowboat",
-      "url": "https://open.spotify.com/track/2UMQXMyl6OyDXj3me1CKDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 73293,
-      "name": "Kyle",
-      "url": "https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Petrified Forest",
         "url": "https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc"
       },
@@ -715,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 350528,
+      "name": "In Triple Time",
+      "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way Of Time",
         "url": "https://open.spotify.com/album/5bvnzjJhvJShhiX4ooaDgN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 407036,
       "name": "Like The End Of The World",
       "url": "https://open.spotify.com/track/7B61PeLH0lioSbbb0GyIiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 73293,
+      "name": "Kyle",
+      "url": "https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
       "duration_ms": 103946,
       "name": "Black Mesa (feat. Joan Lorring & Leslie Howard) - [Joris Voorn Remix] [Mixed]",
       "url": "https://open.spotify.com/track/7etsqxB6RZWBImUKly4b5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/10VIuwTOJBJy22e4INZbE0"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "As Weird as the Elfin Lights",
-      "url": "https://open.spotify.com/track/2acdYxDitKA80W4su8rHP7"
     },
     {
       "added_at": null,
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shenzhou",
-        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/10VIuwTOJBJy22e4INZbE0"
       },
       "artists": [
         {
@@ -820,15 +804,15 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 276967,
-      "name": "Spindrift",
-      "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"
+      "duration_ms": 234440,
+      "name": "As Weird as the Elfin Lights",
+      "url": "https://open.spotify.com/track/2acdYxDitKA80W4su8rHP7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+        "name": "The Petrified Forest",
+        "url": "https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc"
       },
       "artists": [
         {
@@ -836,9 +820,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 397346,
-      "name": "Genkai-1",
-      "url": "https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd"
+      "duration_ms": 308160,
+      "name": "The Petrified Forest",
+      "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Microgravity",
+        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304831,
+      "name": "Baby Satellite",
+      "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
     }
   ],
   "unique_name": "This Is Biosphere",

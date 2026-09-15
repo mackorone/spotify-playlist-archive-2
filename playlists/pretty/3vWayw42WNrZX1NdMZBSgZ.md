@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,941 likes - 119 songs - 6 hr 19 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,926 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 34 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |
 | 35 | [PUMAS](https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 3:28 |
 | 36 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
-| 37 | [EVEREST](https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [EVEREST](https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S) | 2:36 |
+| 37 | [@EVEREST](https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx) | [Döme](https://open.spotify.com/artist/2yk5U3ijyBrfd5YKCLOCGb) | [@EVEREST](https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S) | 2:36 |
 | 38 | [Down \- LIVE](https://open.spotify.com/track/6ds0E4SYOLJsny6380w4Tw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down \(LIVE\)](https://open.spotify.com/album/3XhH79aHZefQNrdo95sSx4) | 3:16 |
 | 39 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
 | 40 | [1\-800](https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [1\-800](https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7) | 2:31 |

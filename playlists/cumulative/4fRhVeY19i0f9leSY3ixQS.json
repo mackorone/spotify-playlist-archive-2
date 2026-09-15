@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "A Different Light",
+        "url": "https://open.spotify.com/album/0Ixm0Logsl6zdvmuAjWAWS"
+      },
+      "artists": [
+        {
+          "name": "Deluminate",
+          "url": "https://open.spotify.com/artist/4bVGbMlyoxuGWKER0ft3AY"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "A Different Light",
+      "url": "https://open.spotify.com/track/7m8DBDjIBKRRVcGgvax6WH"
+    },
+    {
+      "album": {
         "name": "Astro Life",
         "url": "https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 201053,
       "name": "Addict",
       "url": "https://open.spotify.com/track/4SDYXj45uDJIUggF0YfVti"
@@ -9975,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "Don't Tempt Me",
+        "url": "https://open.spotify.com/album/6im8rAFKvrhUxPPv2AHIPr"
+      },
+      "artists": [
+        {
+          "name": "Kodin Hill 'N The Pressed Pills",
+          "url": "https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190241,
+      "name": "Don't Tempt Me",
+      "url": "https://open.spotify.com/track/7dwS9xjpn7TzHfyUf1KqSE"
+    },
+    {
+      "album": {
         "name": "See You Tomorrow?",
         "url": "https://open.spotify.com/album/7kzrpQqaSblTKG6ULvumzq"
       },
@@ -10528,6 +10564,24 @@
       "duration_ms": 212000,
       "name": "Easy Tiger - Live",
       "url": "https://open.spotify.com/track/2pczCxdV30ODAjDEsu8OTW"
+    },
+    {
+      "album": {
+        "name": "Eat Me",
+        "url": "https://open.spotify.com/album/5PgDhzkW6EGmZPr9wUfp32"
+      },
+      "artists": [
+        {
+          "name": "TRAPPS",
+          "url": "https://open.spotify.com/artist/41S9kbqwdoFpirwYE9RE3u"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148558,
+      "name": "Eat Me",
+      "url": "https://open.spotify.com/track/2GxC4dDExk1cxiycLHCC1i"
     },
     {
       "album": {
@@ -11487,6 +11541,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Punk",
+        "url": "https://open.spotify.com/album/1J0Tyiuj2csvhuYAUWckFR"
+      },
+      "artists": [
+        {
+          "name": "Bebe Barry",
+          "url": "https://open.spotify.com/artist/4GTJE75vb3KOqhsf04uMEm"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160256,
+      "name": "Everything Is Gonna Be Fucking Amazing",
+      "url": "https://open.spotify.com/track/6ktsliwhypNss8sj7wuDwI"
+    },
+    {
+      "album": {
         "name": "EViL<>DiscO",
         "url": "https://open.spotify.com/album/18SGpV863owaQFdmpcVxBO"
       },
@@ -12187,6 +12259,24 @@
     },
     {
       "album": {
+        "name": "Fetish For A New World",
+        "url": "https://open.spotify.com/album/5dUTwemoW3udysuI3xu6ei"
+      },
+      "artists": [
+        {
+          "name": "Jimi Lucid",
+          "url": "https://open.spotify.com/artist/6XAUsmhVzoHXdoWtIv0onZ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204961,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/3G8QDrI7x4I2lhkbbToznM"
+    },
+    {
+      "album": {
         "name": "Feverdream",
         "url": "https://open.spotify.com/album/0263OqmDzQogiWAsEayHeI"
       },
@@ -12350,6 +12440,24 @@
       "duration_ms": 175357,
       "name": "Fire with fire",
       "url": "https://open.spotify.com/track/3MhyWMwzFMr6HZeCWPiXh5"
+    },
+    {
+      "album": {
+        "name": "First Day // Last Night",
+        "url": "https://open.spotify.com/album/55h36qHWkDx3qL7UvMjFhV"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Signal",
+          "url": "https://open.spotify.com/artist/2ol9A42hn836UK2TWCe1Vt"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230478,
+      "name": "First Day // Last Night",
+      "url": "https://open.spotify.com/track/4tE8AZ0VPaJeRPgxFgDa7j"
     },
     {
       "album": {
@@ -16922,7 +17030,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 325250,
       "name": "I taste your crown",
       "url": "https://open.spotify.com/track/4HkLbym9SpUOzTMFd5OhGG"
@@ -17276,6 +17384,24 @@
       "duration_ms": 119720,
       "name": "I'M DONE I'M GONE",
       "url": "https://open.spotify.com/track/3zlKQzzNXOlqlcixqlopSX"
+    },
+    {
+      "album": {
+        "name": "I'm Evolving",
+        "url": "https://open.spotify.com/album/69ez0HevBjZk0oZawYlnxM"
+      },
+      "artists": [
+        {
+          "name": "Porcus vs Equus",
+          "url": "https://open.spotify.com/artist/0nQSxoEPKIpzEflBycGG2Y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162538,
+      "name": "I'm Evolving",
+      "url": "https://open.spotify.com/track/4Tl4Ij13WjVGbGsNHQfWuR"
     },
     {
       "album": {
@@ -18394,6 +18520,24 @@
       "duration_ms": 154332,
       "name": "It's All Been Done Before",
       "url": "https://open.spotify.com/track/3uUPrgIBCbDpyoxsrsFYDj"
+    },
+    {
+      "album": {
+        "name": "It's Dark",
+        "url": "https://open.spotify.com/album/3nH4RbPH62hYplwRpTSWau"
+      },
+      "artists": [
+        {
+          "name": "Baudelaire",
+          "url": "https://open.spotify.com/artist/0ITAdDfzjE3QHem3FbFc7Q"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206551,
+      "name": "It's Dark",
+      "url": "https://open.spotify.com/track/1K82HGm2tq5hFTrh269ced"
     },
     {
       "album": {
@@ -21663,6 +21807,24 @@
     },
     {
       "album": {
+        "name": "Emoticon",
+        "url": "https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217584,
+      "name": "Mario Kart at Amy's Apartment",
+      "url": "https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS"
+    },
+    {
+      "album": {
         "name": "Figurants",
         "url": "https://open.spotify.com/album/08njCEqmT3aT9CW0knBFGt"
       },
@@ -23896,7 +24058,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 364032,
       "name": "New York Mermaid - 2026 Version",
       "url": "https://open.spotify.com/track/6ly5FxX46k0vFqhKojvUsQ"
@@ -24152,6 +24314,24 @@
       "duration_ms": 179719,
       "name": "No Gods",
       "url": "https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ"
+    },
+    {
+      "album": {
+        "name": "No more words",
+        "url": "https://open.spotify.com/album/0BI0su7jKXRhohFTwBFvsp"
+      },
+      "artists": [
+        {
+          "name": "Silly Minds",
+          "url": "https://open.spotify.com/artist/7dzYS8v1gWn3BLsFRpjdcr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No more words",
+      "url": "https://open.spotify.com/track/6K5UP74Dk7yCRgxEDy1s6z"
     },
     {
       "album": {
@@ -27605,6 +27785,24 @@
     },
     {
       "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/24BmRsoMmzUsAww33mUSaF"
+      },
+      "artists": [
+        {
+          "name": "ColourMind",
+          "url": "https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223076,
+      "name": "Quarter Life Crisis",
+      "url": "https://open.spotify.com/track/4nLYmzFA9lvM1aRK8IK55a"
+    },
+    {
+      "album": {
         "name": "Queens and Pharaohs",
         "url": "https://open.spotify.com/album/7CeztzYaLix83NpoIGkw58"
       },
@@ -29048,7 +29246,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/6YJaaqobp9mAjaUWrPlGhe"
@@ -33208,7 +33406,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 208556,
       "name": "Stuck in 1984",
       "url": "https://open.spotify.com/track/5ks6aRzbC1GfulUzZwAVls"
@@ -33468,6 +33666,28 @@
       "duration_ms": 191919,
       "name": "Sunfreeze This Love",
       "url": "https://open.spotify.com/track/269cBHVoYlQ6E8BjYcpQXR"
+    },
+    {
+      "album": {
+        "name": "SUNSET RED",
+        "url": "https://open.spotify.com/album/5gfhDhD8riOSa2ZONJLLkt"
+      },
+      "artists": [
+        {
+          "name": "MOKERY",
+          "url": "https://open.spotify.com/artist/3nWbQMqXdKk06MivOJvpmb"
+        },
+        {
+          "name": "Eiga",
+          "url": "https://open.spotify.com/artist/2WAmN5MiGL8XYhlXODKB0d"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "SUNSET RED",
+      "url": "https://open.spotify.com/track/35eoecYmdAPvm7SegI5D0N"
     },
     {
       "album": {
@@ -36530,6 +36750,24 @@
       "duration_ms": 289754,
       "name": "Think of Something Nice",
       "url": "https://open.spotify.com/track/55QbVDHON8KDOVytrbesoj"
+    },
+    {
+      "album": {
+        "name": "Thirty Something Else",
+        "url": "https://open.spotify.com/album/2D5K5LrYtiUXC8fREZGGVw"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270121,
+      "name": "Thirty Something Else",
+      "url": "https://open.spotify.com/track/2qyLxyLpgiswQK2SZnK4Cv"
     },
     {
       "album": {

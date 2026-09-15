@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33895,
+  "num_followers": 33893,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxJNLn7LrpGeT0XaCKTLHxKzJSe",
+  "snapshot_id": "AAAAAFLcZBeA3cuY6f4hEBgCfEXmasPy",
   "tracks": [
     {
       "added_at": "2026-05-21 22:00:09",
@@ -603,6 +603,34 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Time (feat. Jade Bird)",
         "url": "https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6"
       },
@@ -655,30 +683,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "By The Bay",
-        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
       },
       "artists": [
         {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
         }
       ],
-      "duration_ms": 204328,
-      "name": "By The Bay",
-      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "Wanderings",
         "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "All Shot Out",
-        "url": "https://open.spotify.com/album/11gkpoh4PluIF58bxC3mqv"
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
       "artists": [
         {
-          "name": "Koen Vael",
-          "url": "https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx"
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
         }
       ],
-      "duration_ms": 171414,
-      "name": "All Shot Out",
-      "url": "https://open.spotify.com/track/61OmSsnMPrtJUo7VqbJLG3"
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-05-21 22:00:09",

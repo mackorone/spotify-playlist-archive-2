@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,652 likes - 205 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,981 likes - 205 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 204 | [itori](https://open.spotify.com/track/1CD2MgEdfoNHPSRgSfYkn8) | [Curly Tree](https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ) | [itori](https://open.spotify.com/album/0la60KCgnZLlyQd51CuidZ) | 2:12 |
 | 205 | [robinsong](https://open.spotify.com/track/1qe9oC3nIxY7vWN5ybPeCe) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [robinsong](https://open.spotify.com/album/2aIFgeAxQKj6F5R2fH8di6) | 2:19 |
 
-Snapshot ID: `AAAAAMjSzqJxToURynGqSPS8JCfqu0X+`
+Snapshot ID: `AAAAAK5HVWJEgdV1gqXqEhfusSPkCjKh`

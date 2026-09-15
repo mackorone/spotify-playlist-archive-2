@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,162 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,203 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 98 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 |
 | 99 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
 
-Snapshot ID: `AAAAAKIqHKYWKQgbx4czgUVNSa9JIEsd`
+Snapshot ID: `AAAAANsDR6ldoa0xAuNdUIcv3YqEmtwf`

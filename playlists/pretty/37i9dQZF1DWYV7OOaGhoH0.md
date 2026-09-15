@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,421 likes - 131 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,287 likes - 131 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 130 | [Better than the Floor](https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Better than the Floor](https://open.spotify.com/album/5zprpbKkTiYN1NO8DHfdB7) | 3:09 |
 | 131 | [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 |
 
-Snapshot ID: `AAAAANxzW3cYjAT7mtaRulw3AR64qDSA`
+Snapshot ID: `AAAAAGj/qfwstZRF9FzLIUGI7IKcsGhT`

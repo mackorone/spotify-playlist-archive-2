@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,718 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,713 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [4 Seasons](https://open.spotify.com/track/2IGJRTV2O1ICf6V0Y2Ku8v) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [4 Seasons](https://open.spotify.com/album/047IMuHZhdPJ8vsTED0lwD) | 3:37 |
 | 100 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 
-Snapshot ID: `AAAAAPXEbPFKDkI0mEwn9zus8f0MEVl5`
+Snapshot ID: `AAAAAOFeyhgSLLjEejMy2vgQofxETyW6`

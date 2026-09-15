@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KAROL G, rusowsky, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,718 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,706 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 21 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0) | 2:49 |
 | 22 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 |
 | 23 | [Love Me Through](https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Love Me Through](https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO) | 3:23 |
-| 24 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
-| 25 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
+| 24 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
+| 25 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 | 26 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
 | 27 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 |
 | 28 | [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 46 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
 | 47 | [fue fuerte saber que tú ya no sientes](https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [fue fuerte saber que tú ya no sientes](https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR) | 3:12 |
 | 48 | [Fell Asleep in the Sun](https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd) | 3:51 |
-| 49 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
-| 50 | [TALKIN FYE](https://open.spotify.com/track/1UBZHd1XtwhlUvQnXt5l12) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [TALKIN FYE](https://open.spotify.com/album/1CWcR6oP4LuBhsVizDTYOW) | 2:17 |
+| 49 | [TALKIN FYE](https://open.spotify.com/track/1UBZHd1XtwhlUvQnXt5l12) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [TALKIN FYE](https://open.spotify.com/album/1CWcR6oP4LuBhsVizDTYOW) | 2:17 |
+| 50 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
 | 51 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
-| 52 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
-| 53 | [Monster](https://open.spotify.com/track/4etJz8bmYnkGY7oJ3OMe5a) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:39 |
+| 52 | [Monster](https://open.spotify.com/track/4etJz8bmYnkGY7oJ3OMe5a) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:39 |
+| 53 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
 | 54 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
 | 55 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
 | 56 | [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 69 | [Senses](https://open.spotify.com/track/7tLM1eOQl0yWkMIsn7rl3b) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Senses](https://open.spotify.com/album/1PAwFeMDuutYR9oBpaqumh) | 2:21 |
 | 70 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
 
-Snapshot ID: `AAAAAHEKOmRrRH5bBDFqYPyLwWzBWc3d`
+Snapshot ID: `AAAAALk5tVDsgqBc+3kFyQ52NMJoQ9s2`

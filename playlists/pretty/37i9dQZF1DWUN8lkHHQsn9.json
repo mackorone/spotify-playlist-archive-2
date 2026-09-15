@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:1cMwAkW75xurkmm79aLqnb\">Metrosexual</a>",
-  "num_followers": 42435,
+  "num_followers": 42441,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1Q8/r9sMlvfPOAxK5XNuALmG0z",
+  "snapshot_id": "AAAAAHMiBceNoTJceMAZfk82tMmk2+Ax",
   "tracks": [
     {
       "added_at": "2026-09-10 22:00:26",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "obudz\u0119 si\u0119",
-        "url": "https://open.spotify.com/album/1uNHGwRDHRgGRRmksWrI0P"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 196645,
-      "name": "obudz\u0119 si\u0119",
-      "url": "https://open.spotify.com/track/4I7UxH2Ad8XIZvbb0NQVKv"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "Zapomniana Twarz",
         "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "obudz\u0119 si\u0119",
+        "url": "https://open.spotify.com/album/1uNHGwRDHRgGRRmksWrI0P"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 196645,
+      "name": "obudz\u0119 si\u0119",
+      "url": "https://open.spotify.com/track/4I7UxH2Ad8XIZvbb0NQVKv"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Tent (145BPM)",
-        "url": "https://open.spotify.com/album/0ZTYYldfr7bI6F2DgGghlc"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 141677,
-      "name": "Tent - 145BPM",
-      "url": "https://open.spotify.com/track/5os2WyV8sSqTSJiMOM3nGl"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "Zadzwo\u0144 do mnie",
         "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Tent (145BPM)",
+        "url": "https://open.spotify.com/album/0ZTYYldfr7bI6F2DgGghlc"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 141677,
+      "name": "Tent - 145BPM",
+      "url": "https://open.spotify.com/track/5os2WyV8sSqTSJiMOM3nGl"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Ostatni Raz",
+        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 177341,
+      "name": "Ostatni Raz",
+      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Uwaga (Id\u0119 do ciebie)",
         "url": "https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 187445,
       "name": "Uwaga (Id\u0119 do ciebie)",
       "url": "https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Ostatni Raz",
-        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
-      },
-      "artists": [
-        {
-          "name": "maja janowska",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 177341,
-      "name": "Ostatni Raz",
-      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Destroy Me, Today",
+        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 184966,
+      "name": "Nie ton\u0119",
+      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 251586,
       "name": "Chodzili\u015bmy nocami",
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Destroy Me, Today",
-        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 184966,
-      "name": "Nie ton\u0119",
-      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "Czerwone ledy",
+        "url": "https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 261923,
+      "name": "Czerwone ledy",
+      "url": "https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "United Kingdom Of Anxiety",
         "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 155859,
       "name": "Tokio",
       "url": "https://open.spotify.com/track/0ucQtQ5vAKFhYc2jw7Y2dp"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Czerwone ledy",
-        "url": "https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 261923,
-      "name": "Czerwone ledy",
-      "url": "https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
         "name": "SZAMPAN",
         "url": "https://open.spotify.com/album/4JhxKvwGKXX0hfTyDrfTj3"
       },
@@ -1395,6 +1411,22 @@
       "duration_ms": 204255,
       "name": "SZAMPAN",
       "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1435,38 +1467,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
-      },
-      "artists": [
-        {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
-        }
-      ],
-      "duration_ms": 255060,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -1483,6 +1483,38 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Lwia Ska\u0142a",
+        "url": "https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Lwia Ska\u0142a",
+      "url": "https://open.spotify.com/track/3BoUaFlHdlidP4l7ouMUrF"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "ciszej",
+      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1507,6 +1539,54 @@
       "duration_ms": 147391,
       "name": "Krasnoludki",
       "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Kochany pami\u0119tniku",
+        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 189833,
+      "name": "Kochany pami\u0119tniku",
+      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "added_at": "2026-09-07 22:00:29",
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 167642,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1547,50 +1627,18 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Lwia Ska\u0142a",
-        "url": "https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr"
+        "name": "Pies na dw\u00f3ch \u0142apach",
+        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
       },
       "artists": [
         {
-          "name": "Ganczarska",
-          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Lwia Ska\u0142a",
-      "url": "https://open.spotify.com/track/3BoUaFlHdlidP4l7ouMUrF"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "warszawa",
-        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "warszawa",
-      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "nocami, do \u015bwitu",
-        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
-      },
-      "artists": [
-        {
-          "name": "villaz",
-          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "ciszej",
-      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
+      "duration_ms": 219347,
+      "name": "Pies na dw\u00f3ch \u0142apach",
+      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1611,26 +1659,6 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Occultica",
-        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        },
-        {
-          "name": "Aquarius",
-          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
     },
     {
       "added_at": "2026-09-07 22:00:29",
@@ -1671,38 +1699,6 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Kochany pami\u0119tniku",
-        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 189833,
-      "name": "Kochany pami\u0119tniku",
-      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
-        "name": "Pies na dw\u00f3ch \u0142apach",
-        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        }
-      ],
-      "duration_ms": 219347,
-      "name": "Pies na dw\u00f3ch \u0142apach",
-      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
-    },
-    {
-      "added_at": "2026-09-07 22:00:29",
-      "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
       },
@@ -1719,18 +1715,22 @@
     {
       "added_at": "2026-09-07 22:00:29",
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+        "name": "DRAG!",
+        "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        },
+        {
+          "name": "Lagoona Aqua Pussy",
+          "url": "https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe"
         }
       ],
-      "duration_ms": 167642,
-      "name": "Hikikomori",
-      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
+      "duration_ms": 135000,
+      "name": "DRAG!",
+      "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
     }
   ],
   "unique_name": "GLOW Polska",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,919 likes - 68 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,062 likes - 68 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 67 | [852 Solfeggio Attunement](https://open.spotify.com/track/0Bd3p2LnsZw5JbZ6hOecJI) | [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [852: Spiritual Balance \(Remastered\)](https://open.spotify.com/album/7pQN7nUEge7S2JEB31THAF) | 2:05 |
 | 68 | [852 Hz \- Soledad Tranquilo](https://open.spotify.com/track/3NglNAVDB5dPhFf5tPcIIF) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:08 |
 
-Snapshot ID: `AAAAAD6e1a4/d9z+6LEvaJ6qxmFNVDXN`
+Snapshot ID: `AAAAAAivdmtd/TJmkH2eXuhTb3qAhfTF`

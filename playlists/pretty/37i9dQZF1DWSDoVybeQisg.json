@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1264410,
+  "num_followers": 1264455,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEq7nXlp5DPvL8QQCMZxXve9gsTC",
+  "snapshot_id": "AAAAALqZ2dFHF9yiFxGolslU/Zi45xB6",
   "tracks": [
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Nights In White Satin Hit Pac",
+        "url": "https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "Nights In White Satin - Single Edit",
+      "url": "https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 178146,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Singles 1965-1967",
-        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 275840,
-      "name": "We Love You - Stereo Version",
-      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
     }
   ],
   "unique_name": "Psychedelic Rock",

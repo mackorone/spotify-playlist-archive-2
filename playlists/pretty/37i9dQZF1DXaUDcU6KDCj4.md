@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,908 likes - 164 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,972 likes - 164 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 163 | [Sober Somewhere](https://open.spotify.com/track/1Lq3od1BpSfzY99iDJd3oH) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Sober Somewhere](https://open.spotify.com/album/52omEMGJEM5s3cGZRdG2S4) | 3:10 |
 | 164 | [SIDES OF MY PEN](https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU) | [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [SIDES OF MY PEN](https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0) | 2:45 |
 
-Snapshot ID: `AAAAABn7cKIuou55AK+rtyLrosaP+DY4`
+Snapshot ID: `AAAAAJGqjZxVZNhw8JrhsfEIYsWiN4kV`

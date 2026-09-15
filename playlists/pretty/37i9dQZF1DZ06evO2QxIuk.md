@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,037 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,043 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 49 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
 | 50 | [スペシャルメドレー（Ambitious ver.） \- Little Glee Monster Live Tour 2025 "Ambitious" \- 2025.07.21](https://open.spotify.com/track/6P9uVpEokjPXIgf4dkjahc) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Little Glee Monster Live Tour 2025 "Ambitious" \- 2025.07.21](https://open.spotify.com/album/7o38mWNMBGMGfsEUAqJznK) | 10:34 |
 
-Snapshot ID: `aqSWAAAAAACNSbH/2kAzYmKg2SA0ZNSl`
+Snapshot ID: `aqXngAAAAACy9YABbJET6ZsR3vYNNwpm`

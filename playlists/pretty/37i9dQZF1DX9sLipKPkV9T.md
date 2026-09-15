@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,308 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,318 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [פאפא](https://open.spotify.com/track/3qHGJ8scya6wyZRkyyWe67) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk) | [פאפא](https://open.spotify.com/album/3VdRCHZDCS6beYMSo4CCRw) | 3:19 |
 | 50 | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/track/5jITjgPYZYUieRhS7fUJPP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/album/6vI3qWUMOfguz5kspNiPIo) | 2:30 |
 
-Snapshot ID: `AAAAAIbAmZ7AyOpb+Tc7qdj7ZlEfeXDv`
+Snapshot ID: `AAAAAMvIwT8TvNwAYE+fgBnMIB1Ymwkg`

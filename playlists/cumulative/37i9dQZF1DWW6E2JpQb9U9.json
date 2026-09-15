@@ -5103,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295936,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo"
+    },
+    {
+      "album": {
         "name": "Airbag - En Vivo Estadio V\u00e9lez",
         "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
       },
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 303857,
       "name": "Por Mil Noches - En Vivo",
       "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"

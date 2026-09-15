@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: 須田景凪
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,303 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,300 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 59 | [BAP](https://open.spotify.com/track/1JdsoKfpOvpgv87IMnNpEi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [BAP](https://open.spotify.com/album/0anSZ8oaE78LcVdNBmg0gl) | 2:36 |
 | 60 | [LET'S JUST CRASH](https://open.spotify.com/track/3sE2VokkeH68napilCny6J) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:16 |
 
-Snapshot ID: `AAAAAEl4d/VCAfXOKvN/0bx2fOWNhxkm`
+Snapshot ID: `AAAAAJCEvpP7iR4OZ2z8PBo8NucTLPoL`

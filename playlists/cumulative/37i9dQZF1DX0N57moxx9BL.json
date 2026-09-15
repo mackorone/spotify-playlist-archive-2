@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover: bodie ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover: Stephen Stanley ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 202025,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S"
+    },
+    {
+      "album": {
+        "name": "Ain't On Me",
+        "url": "https://open.spotify.com/album/4XcYQmAR9XMtRZjZLjU4yl"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193940,
+      "name": "Ain't On Me",
+      "url": "https://open.spotify.com/track/1tqGq7XfvHUHIizkL7otAD"
     },
     {
       "album": {
@@ -788,7 +806,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 158053,
       "name": "Change",
       "url": "https://open.spotify.com/track/08xjvKLz3RDTANr5YCCr91"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 210000,
       "name": "Face It",
       "url": "https://open.spotify.com/track/4UHk0JM93vwLf6YBt7JMOk"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 182136,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/3uX2XMUr7jv1FMlJ34Yger"
@@ -2399,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Here In Your Heart",
+        "url": "https://open.spotify.com/album/2R7c8cDiW2LAlBM1NrndUV"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213651,
+      "name": "Here In Your Heart",
+      "url": "https://open.spotify.com/track/6aGsycZ7S2iQnHTCUo6rfo"
+    },
+    {
+      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -2551,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "I Said What I Said",
+        "url": "https://open.spotify.com/album/3J3pbavRHWkhPgiLyjaid5"
+      },
+      "artists": [
+        {
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "I Said What I Said",
+      "url": "https://open.spotify.com/track/3nLxpKPAjTwohHtN7HLLoL"
+    },
+    {
+      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -2580,7 +2634,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 206785,
       "name": "I'm Alright (I'm Okay)",
       "url": "https://open.spotify.com/track/5w7Z9mi77xuNdck2nv3GhL"
@@ -2972,6 +3026,24 @@
       "duration_ms": 231972,
       "name": "Lies Of My Brothers",
       "url": "https://open.spotify.com/track/30jNVrgwZWwiNIDJpg2g8u"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc"
     },
     {
       "album": {
@@ -4120,7 +4192,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 271945,
       "name": "Rhyme of Time",
       "url": "https://open.spotify.com/track/7kZKoTw34dhxKWx2yZ65hn"
@@ -4286,7 +4358,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 206400,
       "name": "Scream",
       "url": "https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU"
@@ -4308,6 +4380,24 @@
       "duration_ms": 294249,
       "name": "See No Evil, Hear No Evil",
       "url": "https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6"
+    },
+    {
+      "album": {
+        "name": "Seeing Is Deceiving",
+        "url": "https://open.spotify.com/album/3wsH4RH1GzXpJJEwj9VkDX"
+      },
+      "artists": [
+        {
+          "name": "XIII Minutes",
+          "url": "https://open.spotify.com/artist/170qLAyfpGyLLTCu1QcDhL"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250171,
+      "name": "Seeing Is Deceiving",
+      "url": "https://open.spotify.com/track/1keePDt64NCGXpa16C3Ljh"
     },
     {
       "album": {
@@ -4506,7 +4596,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 270373,
       "name": "Sorrow Light The Way",
       "url": "https://open.spotify.com/track/3VQ9NBYE3BFUU2VvPYDVSe"
@@ -4699,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "Sun Stands Still (Fox Den 2026)",
+        "url": "https://open.spotify.com/album/72a4GxX5FlF7uCfdd3n9OD"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385802,
+      "name": "Sun Stands Still (Fox Den 2026)",
+      "url": "https://open.spotify.com/track/7BfBE42t3WwImEXSIcLeE6"
+    },
+    {
+      "album": {
         "name": "Surrogates",
         "url": "https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS"
       },
@@ -4776,6 +4884,24 @@
       "duration_ms": 204634,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
+    },
+    {
+      "album": {
+        "name": "Tear Down The Dark",
+        "url": "https://open.spotify.com/album/5Ew0szCkowyMmATp99o38x"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161639,
+      "name": "Tear Down The Dark",
+      "url": "https://open.spotify.com/track/1whhEIbZShoYjlRr0ztk1d"
     },
     {
       "album": {

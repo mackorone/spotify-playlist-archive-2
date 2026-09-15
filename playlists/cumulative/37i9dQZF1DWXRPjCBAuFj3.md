@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> È il momento dei dieci anni di Santeria e siamo già così all'ippodromo 🐎🐎🐎
+> Dieci anni di Santeria 🐎🐎🐎
 
 1,096 songs - 2 day 8 hr 10 min
 

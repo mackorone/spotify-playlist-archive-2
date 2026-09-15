@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,070 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,111 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 | 50 | [Psyche](https://open.spotify.com/track/3NiBX3eWRj1dKayryqoz5W) | [Our Chronicle](https://open.spotify.com/artist/3szC2sXLPdKUSxFmwHRhtA) | [Psyche](https://open.spotify.com/album/6DPebgfLHUR40qKEHzfxre) | 6:12 |
 
-Snapshot ID: `AAAAAJ/YS4hZun3pZbMDcFFYGj0fSQ7V`
+Snapshot ID: `AAAAAJTn9OuOBi1GsQQ4Ze0qbT/iH8q/`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Willow Avalon",
-  "num_followers": 65335,
+  "num_followers": 65331,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwaznFILEQTpSzQ3xH9zwn/pOIV",
+  "snapshot_id": "AAAAAL19I0Qyeu4TMFMH5erG/N9xpRvb",
   "tracks": [
     {
       "added_at": "2026-09-02 14:25:13",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "the bridge",
-        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "the bridge",
-      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "Honest Woman",
         "url": "https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 169024,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Devil In The Water",
-        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
-      },
-      "artists": [
-        {
-          "name": "Hailey Hutcheson",
-          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
-        }
-      ],
-      "duration_ms": 176162,
-      "name": "Devil In The Water",
-      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "SYW (feat. Cecile Believe)",
         "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 166840,
       "name": "SYW (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Happy For Myself",
-        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Happy For Myself",
-      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
-    },
-    {
-      "added_at": "2026-09-02 14:25:13",
-      "album": {
         "name": "His Favorite",
         "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 172798,
       "name": "His Favorite",
       "url": "https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1"
+    },
+    {
+      "added_at": "2026-09-02 14:25:13",
+      "album": {
+        "name": "Happy For Myself",
+        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Happy For Myself",
+      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
     },
     {
       "added_at": "2026-09-02 14:25:13",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-09-02 14:25:13",
       "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+        "name": "Heart Has To Work So Hard",
+        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+      "duration_ms": 192026,
+      "name": "Heart Has To Work So Hard",
+      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
     }
   ],
   "unique_name": "EQUAL US",

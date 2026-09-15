@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 677293,
+  "num_followers": 677410,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXSEonF1hnsHJ27nVBHvwS3gH0f",
+  "snapshot_id": "AAAAAO1NC5Rtz+7SVkoaix4FFJsIi9H4",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Y T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Y T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -927,38 +927,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Ilusiones",
-        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Coraz\u00f3n M\u00e1gico",
-      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Nadie Sabe Lo Que Tiene",
-      "url": "https://open.spotify.com/track/046ranbtTCP1YfvOWzj0AW"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
@@ -979,18 +947,34 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+      "duration_ms": 213426,
+      "name": "Nadie Sabe Lo Que Tiene",
+      "url": "https://open.spotify.com/track/046ranbtTCP1YfvOWzj0AW"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Ilusiones",
+        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1007,6 +991,22 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
-        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Cuatro Palabras",
-      "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Amor, Familia Y Respeto",
         "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 194466,
       "name": "Te Quiero A T\u00ed",
       "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
+        "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Cuatro Palabras",
+      "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Desde El Corazon",
         "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 199586,
       "name": "Mu\u00f1eca de Ojos de Miel",
       "url": "https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "17 Super Exitos",
-        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
-      },
-      "artists": [
-        {
-          "name": "Los Bondadosos",
-          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Como Me Gusta Quererte",
-      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 181253,
       "name": "Notas De Sociedad",
       "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "17 Super Exitos",
+        "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
+      },
+      "artists": [
+        {
+          "name": "Los Bondadosos",
+          "url": "https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Como Me Gusta Quererte",
+      "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "25 A\u00f1os De Fama",
-        "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Tu Tienes Que Vivir Conmigo",
-      "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Sin L\u00edmites",
         "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 244506,
       "name": "Muchacha Triste",
       "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "25 A\u00f1os De Fama",
+        "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Tu Tienes Que Vivir Conmigo",
+      "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
     },
     {
-      "added_at": "2026-08-10 20:28:58",
-      "album": {
-        "name": "20 Kilates",
-        "url": "https://open.spotify.com/album/0SIyYEU7gsKhUSIltPrgum"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "Chulita",
-      "url": "https://open.spotify.com/track/1fPYLBGvGFj7GPLa6zdnDw"
-    },
-    {
       "added_at": "2026-07-17 06:00:22",
       "album": {
         "name": "Soy El Mismo",
@@ -1643,6 +1627,22 @@
       "duration_ms": 163906,
       "name": "Mi loca pasi\u00f3n",
       "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
+    },
+    {
+      "added_at": "2026-08-10 20:28:58",
+      "album": {
+        "name": "20 Kilates",
+        "url": "https://open.spotify.com/album/0SIyYEU7gsKhUSIltPrgum"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "Chulita",
+      "url": "https://open.spotify.com/track/1fPYLBGvGFj7GPLa6zdnDw"
     },
     {
       "added_at": "2026-07-17 06:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: ARJN, KDS, FIFTY4, Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,735 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,033 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Pularaan Neram](https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Android Kunjappan Version 5.25 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3VDp27puFT9VKU7di95YUf) | 3:26 |
 | 50 | [Munthirichar](https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Munthirichar](https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ) | 3:54 |
 
-Snapshot ID: `AAAAAG/otD+wAoeExvPukz1wwmEZjRYN`
+Snapshot ID: `AAAAALcQ8gPAVbSrYMZWlR0euj5Hl4CB`

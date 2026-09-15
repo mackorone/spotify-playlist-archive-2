@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Babet
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,289 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,273 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Lekker Liedje](https://open.spotify.com/track/1xEGuvwku0VTWNqk5jTnNz) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Lekker Liedje](https://open.spotify.com/album/3uEfJJvJfnwz5Oe3FOEAmU) | 2:21 |
 | 80 | [Wat Blijft Er Over?](https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Wat Blijft Er Over?](https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0) | 2:45 |
 
-Snapshot ID: `AAAAAJEHGznD2xxRl/gRShWjy1sZfJdq`
+Snapshot ID: `AAAAAPTp0YU3DIvRLTvlUBa4430SNbNc`

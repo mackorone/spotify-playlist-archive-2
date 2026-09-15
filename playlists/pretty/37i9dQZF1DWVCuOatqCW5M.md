@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Prateeksha Srivastava, Jubin Nautiyal, Neeti Mohan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,726 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,734 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Saath](https://open.spotify.com/track/7iYTsZuUo1gFMjs0gV8SMA) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Saath](https://open.spotify.com/album/3EjBLaJ8rDfRaHyIE62GMb) | 3:05 |
 | 50 | [Aakhri Saans](https://open.spotify.com/track/1bZXjQGEB9Vvgf3U604H7b) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Aakhri Saans](https://open.spotify.com/album/6FUkumfogCFUNL6gZhd2Mm) | 3:13 |
 
-Snapshot ID: `AAAAAJm7JSJ+lhna12UD994O/jFWaRn/`
+Snapshot ID: `AAAAAOJzZ7kTsFbNQTFIHxIN1rKRlRcP`

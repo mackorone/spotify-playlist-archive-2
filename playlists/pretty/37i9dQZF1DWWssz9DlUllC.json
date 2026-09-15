@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
-  "num_followers": 98344,
+  "num_followers": 98447,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMo+o03Shtv/fQL7IQ9vjj/H3oR+",
+  "snapshot_id": "AAAAAE2SC77/S0F+3z11fKZCqAIHtSsY",
   "tracks": [
     {
       "added_at": "2026-09-11 00:01:38",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Dantata",
-        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Dantata",
-      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
         "name": "The Wellness Package",
         "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 197522,
       "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm"
     },
     {
       "added_at": "2026-09-11 00:01:38",

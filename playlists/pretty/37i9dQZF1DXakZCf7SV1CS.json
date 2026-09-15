@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 95675,
+  "num_followers": 95684,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIe1tnpHX5KowB6xMGobV3qU9mRi",
+  "snapshot_id": "AAAAANiL/xjxa4OxkPmhVy378mr6GMFt",
   "tracks": [
     {
       "added_at": "2024-10-09 21:55:22",
@@ -651,30 +651,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "food house",
-        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
-      },
-      "artists": [
-        {
-          "name": "food house",
-          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
-        },
-        {
-          "name": "Gupi",
-          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 247917,
-      "name": "mos thoser",
-      "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 107129,
       "name": "serialkilled",
       "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "food house",
+        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
+      },
+      "artists": [
+        {
+          "name": "food house",
+          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
+        },
+        {
+          "name": "Gupi",
+          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 247917,
+      "name": "mos thoser",
+      "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
     },
     {
       "added_at": "2024-10-09 21:55:22",

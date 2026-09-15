@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: IKNOWFELIPE, LAI$ROSA, Barona, Nanda Tsunami
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,468 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,452 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [NOITE DE ENTRETENIMENTO](https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u) | 1:33 |
 | 50 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 
-Snapshot ID: `AAAAAK8pWe5k2kFpXdk59IUu9asceNyE`
+Snapshot ID: `AAAAAG0Pk0BXQccKgUmQtP5EHSp6cAAR`

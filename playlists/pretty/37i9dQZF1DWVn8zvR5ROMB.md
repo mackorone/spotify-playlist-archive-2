@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Eric Church, Luke Bryan, Warren Zeiders with Bellah Mae and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,420 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,502 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 44 | [Old Reliable](https://open.spotify.com/track/6zU9wUGHvVQnxGRY7aWsPZ) | [Alison Elena](https://open.spotify.com/artist/7mWYxYewRAHcVWTe1WrTDD) | [Old Reliable](https://open.spotify.com/album/28zq9ZBVcpIr5CevWCMS3d) | 3:33 |
 | 45 | [2 For](https://open.spotify.com/track/0Ver8cnSaLLAbsVrlzIOUD) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [2 For](https://open.spotify.com/album/2kDH1jR4n3gTAIGDsExdTw) | 2:45 |
 
-Snapshot ID: `AAAAAEjlSnZQmBtx/qsBkxT8IA/eDcNk`
+Snapshot ID: `AAAAAMN/U7lSEqxJlgNwxV+K4rtEkrO5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,325 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,549 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 79 | [Call Me Maybe](https://open.spotify.com/track/5dX20XdA69FD8D7ZXHuLnN) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [Call Me Maybe](https://open.spotify.com/album/6jz6kfRiAOzpd0VMh0MPQh) | 3:08 |
 | 80 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/7id2nRroQIMekiV1KRWzGW) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Hey Ya! \(Acoustic\)](https://open.spotify.com/album/7CRgaJzV0QUPKI423ONdwQ) | 2:27 |
 
-Snapshot ID: `AAAAAN8tXtxGt9yZOTwXcglpst1UPdsZ`
+Snapshot ID: `AAAAAMS+z7t6fr6FGatztDx1LUMFUMQy`

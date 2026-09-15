@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,453 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,450 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [lovesexdrugbomb \(feat\. Cecile Believe\)](https://open.spotify.com/track/4cPmWicSiYsqRQAzBey7h3) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:56 |
 | 100 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
 
-Snapshot ID: `AAAAAE8G3EVKS+X3n7rRTOCOvWSjVvaG`
+Snapshot ID: `AAAAAAE3LRDheOBimR6R29N5YVFqpS1n`

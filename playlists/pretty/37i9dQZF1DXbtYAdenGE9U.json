@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 823070,
+  "num_followers": 823351,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzAvRPP5MNZ7bU/irjiOwWhcFVy",
+  "snapshot_id": "AAAAAH8vvBBaMGZFjfWkNw5dyKKQlqum",
   "tracks": [
     {
       "added_at": "2024-07-23 09:55:55",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Gouryella",
-        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
-      },
-      "artists": [
-        {
-          "name": "Gouryella",
-          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Gouryella",
-      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Not Over Yet '99 (feat. Grace)",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 214266,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Gouryella",
+        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
+      },
+      "artists": [
+        {
+          "name": "Gouryella",
+          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Gouryella",
+      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Fitness Beats 2013",
-        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
-      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
         "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Fitness Beats 2013",
+        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
+      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
     },
     {
       "added_at": "2024-07-23 09:55:55",

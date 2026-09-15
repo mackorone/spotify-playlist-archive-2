@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,871 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,814 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [blueprints](https://open.spotify.com/track/2IcdRdXh3E7E50rehZmAP5) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [blueprints](https://open.spotify.com/album/4hmI2HMwNymNWg7wUAlaUx) | 3:48 |
 | 100 | [MY LOVE](https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw) | [M.O.T.H.E.R.](https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs) | [M.O.T.H.E.R.](https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU) | 3:12 |
 
-Snapshot ID: `AAAAAC0mMqodaArXriWeMVBzQUI5wone`
+Snapshot ID: `AAAAAHEe3D0IDF2Zet9NADJjfX3ntdVF`

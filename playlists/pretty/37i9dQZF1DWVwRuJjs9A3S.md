@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: DJ Suzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,601 likes - 200 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,604 likes - 200 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 199 | [Sungazer](https://open.spotify.com/track/504TpZVrxvCzC9Cy15jMti) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sungazer](https://open.spotify.com/album/4Bl9c6aAUaDPLRYrf3fiDI) | 4:34 |
 | 200 | [Bad Omen](https://open.spotify.com/track/00cUN2prFK7nR8UZEyRc0r) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Bad Omen](https://open.spotify.com/album/0LTHF3pPSEJN7Rp4TJ0b1R) | 3:22 |
 
-Snapshot ID: `AAAAAJWCKkhMf5VIHRyXYHZYdAsWswPz`
+Snapshot ID: `AAAAAKKd6wBxXtbLUnM9r3cXlvt9rVsT`

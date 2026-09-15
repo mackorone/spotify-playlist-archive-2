@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Amiga Date Cuenta",
+        "url": "https://open.spotify.com/album/33N7FXx1MlXodnPkCoNDNn"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142516,
+      "name": "Amiga Date Cuenta",
+      "url": "https://open.spotify.com/track/4ydC91kRqtm2ZVVcC77cWz"
+    },
+    {
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 220137,
       "name": "CONEXI\u00d3N PS\u00cdQUICA",
       "url": "https://open.spotify.com/track/6rWIHEedAYET828v7QY22S"
@@ -4377,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "De Sue\u00f1o en Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Ar\u00f3n Piper",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "De Sue\u00f1o en Sue\u00f1o",
+      "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -4396,6 +4436,28 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+    },
+    {
+      "album": {
+        "name": "Decido Esperarte",
+        "url": "https://open.spotify.com/album/14Ko8yWPu3GL9xGVi1vLJZ"
+      },
+      "artists": [
+        {
+          "name": "Almacor",
+          "url": "https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142797,
+      "name": "Decido Esperarte",
+      "url": "https://open.spotify.com/track/7F771VHU72apKX2kVd1VYz"
     },
     {
       "album": {
@@ -5832,7 +5894,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 181960,
       "name": "El \u00c1rbol",
       "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
@@ -6160,7 +6222,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 184239,
       "name": "ENAMORARSE PARA QUE",
       "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
@@ -6604,7 +6666,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 228035,
       "name": "Estar\u00e1s",
       "url": "https://open.spotify.com/track/4GaRqjaQbY3WIimFx1LtNy"
@@ -13912,7 +13974,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 163834,
       "name": "Pistoletazo de salida",
       "url": "https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR"
@@ -16227,6 +16289,24 @@
     },
     {
       "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193437,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8"
+    },
+    {
+      "album": {
         "name": "Siempre Lo Mismo",
         "url": "https://open.spotify.com/album/0asXGmwf95NCLkA5iETAbq"
       },
@@ -16496,6 +16576,24 @@
       "duration_ms": 151500,
       "name": "solo se que no se que",
       "url": "https://open.spotify.com/track/1pOjXaeX3mQDIDqTx2lGWL"
+    },
+    {
+      "album": {
+        "name": "Solo Si Es Contigo",
+        "url": "https://open.spotify.com/album/2zj4ZccercpRkxOyP5n1a5"
+      },
+      "artists": [
+        {
+          "name": "Carla Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Solo Si Es Contigo",
+      "url": "https://open.spotify.com/track/6F0rA7v2dWIp8KaOOWqa2V"
     },
     {
       "album": {
@@ -17378,7 +17476,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 165745,
       "name": "Tengo miedo",
       "url": "https://open.spotify.com/track/7JEM7pWOF7BI0fh1COthth"
@@ -18134,7 +18232,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 235150,
       "name": "TUS INICIALES",
       "url": "https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,295 songs - 3 day 7 hr 55 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,296 songs - 3 day 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1303,5 +1303,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1293 | [Medieval](https://open.spotify.com/track/3Gxn4tsd5p3VMXXr3uJYlv) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 5:33 |
 | 1294 | ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/track/3q94ZjzdjVZJ038g52pWGh) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [Wildwood Sessions](https://open.spotify.com/artist/2CIzLHVVHelS0AV8Re4tkC) | ['That's Enough for Me' \(Music Inspired by LAIKA's Wildwood\)](https://open.spotify.com/album/5SrZzTkAYvXBYC9qQs2Wch) | 2:57 |
 | 1295 | [Meta Cognition](https://open.spotify.com/track/2dqcka9YqNjHZ6humCpUXG) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Meta Cognition](https://open.spotify.com/album/5TFGmn8KOjznFiXS3Pl5YH) | 3:14 |
+| 1296 | [Do It](https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
 
-Snapshot ID: `AAAKE+RGL2kqket1gfaYhSls4XEqm8d1`
+Snapshot ID: `AAAKFElX2d+Zd7mWQsvrsADAYb3COoQn`

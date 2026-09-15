@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,182 songs - 2 day 12 hr 53 min
+1,184 songs - 2 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [Left Right](https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4) | [Left Right](https://open.spotify.com/album/6ty39Pp0W6HlmHJDV8wVky) | 4:11 | 2024-01-26 | 2024-09-26 |
 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 | 2023-08-25 | 2023-12-23 |
 | [Let Me Be Free](https://open.spotify.com/track/4hOy8WffTmRsvNO0Kuc3cC) | [3legant](https://open.spotify.com/artist/4d2IkoSXUQWFdWu2GAKAkk), [Kelly Koger](https://open.spotify.com/artist/6yIBdU8VdvQRIF0Iqgmb97) | [Let Me Be Free](https://open.spotify.com/album/0FKL4G1BJXzLxCDLn48XGy) | 2:37 | 2024-12-05 | 2025-05-09 |
+| [Let Me Breathe](https://open.spotify.com/track/12SCBUkrDSVbCWnR5k6obk) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Maria Rubia](https://open.spotify.com/artist/1rXRuGozxZHPi6WI8356To) | [Let Me Breathe](https://open.spotify.com/album/7KeaAkLjeg99FreMaprkRs) | 2:55 | 2026-09-14 |  |
 | [Let Me Know](https://open.spotify.com/track/4WoXA8fDbJ5UklJilLZ30o) | [Dixie](https://open.spotify.com/artist/6ouIO1QdVHSGF1C1Dq00iJ), [Messy Jessie](https://open.spotify.com/artist/0SKVPG8eOyRT0JqvUacLpC) | [Let Me Know](https://open.spotify.com/album/6mNB5RzA1OQZfqCr2mmbUg) | 2:33 | 2024-12-13 | 2025-03-14 |
 | [Let Me Love You](https://open.spotify.com/track/1wuLKsmd4e8UwKb5T1Ss2n) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Let Me Love You](https://open.spotify.com/album/3tFfD8hmcjfKCjfFZjR3Lp) | 2:27 | 2023-09-22 | 2023-12-23 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-08 | 2023-12-23 |
@@ -1098,6 +1099,7 @@
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 | 2023-12-23 |
 | [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 | 2025-01-24 | 2025-03-14 |
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2023-11-17 | 2024-10-11 |
+| [Vibrations](https://open.spotify.com/track/2EkCRnmGQ5hgouyXtlhbuu) | [Andre Palms](https://open.spotify.com/artist/2Fak88tOMUumSFzP2PbhKj), [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR) | [Vibrations](https://open.spotify.com/album/2R1qcG3Y9wM6jDpGvzAL6x) | 2:47 | 2026-09-14 |  |
 | [Voidwalker](https://open.spotify.com/track/7f5UNraZZkf8zzPDNZ8a39) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Voidwalker](https://open.spotify.com/album/5PITAVHWbQmHVNmQW45bJf) | 3:05 | 2024-03-08 | 2024-04-26 |
 | [Voodoo](https://open.spotify.com/track/7oJQgko4T7fOpu07ogRQH5) | [Ibrahin Cuevas](https://open.spotify.com/artist/26yogyTGYEqR0wbVACTzoQ), [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol) | [Voodoo](https://open.spotify.com/album/6qnEnv7henF3Card4F7FTa) | 2:53 | 2023-02-12 | 2023-03-25 |
 | [Voodoo Ass](https://open.spotify.com/track/1MMrT4bXrtdpfUJfsRIZU7) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Voodoo Ass](https://open.spotify.com/album/7A5dRgOqwvqE4iBrKPUgv0) | 3:00 | 2024-05-17 | 2025-01-09 |

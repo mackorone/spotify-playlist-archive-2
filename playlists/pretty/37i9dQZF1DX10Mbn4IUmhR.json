@@ -1,12 +1,12 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla",
-  "num_followers": 6737,
+  "num_followers": 6736,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHboO3n3tMVoXLR2s3pA98lYgr7S",
+  "snapshot_id": "AAAAANc+TN6W//dkrATaOYbDK9So2ie6",
   "tracks": [
     {
       "added_at": "2026-09-11 07:05:13",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
         "name": "RnBling",
         "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 142439,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/5IOpGrjpxIinJr0KqB3zqV"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
+        "name": "Love Is for Suckers",
+        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Love Is for Suckers",
+      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
         "name": "Some Strings Attached",
         "url": "https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 180133,
       "name": "More Room",
       "url": "https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
-        "name": "Love Is for Suckers",
-        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
-      },
-      "artists": [
-        {
-          "name": "RAYNE",
-          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Love Is for Suckers",
-      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
     },
     {
       "added_at": "2026-09-11 07:05:13",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-09-11 07:05:13",
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
+    },
+    {
+      "added_at": "2026-09-11 07:05:13",
+      "album": {
         "name": "Juvie",
         "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S"
-    },
-    {
-      "added_at": "2026-09-11 07:05:13",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
     },
     {
       "added_at": "2026-09-11 07:05:13",

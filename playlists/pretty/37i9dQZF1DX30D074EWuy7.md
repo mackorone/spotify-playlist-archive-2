@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,065 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,067 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 53 | [Stella del sud](https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La ragazza dalla pelle di luna](https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg) | 2:55 |
 | 54 | [Io Cammino Di Notte Da Sola](https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU) | [Amalia Gre'](https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv) | [Amalia Grè](https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ) | 3:55 |
 | 55 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
-| 56 | [Pandora](https://open.spotify.com/track/0tR48664h2XserXZXARvf7) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Pandora](https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL) | 3:31 |
-| 57 | [Per Ricordarmi Di Te](https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX) | [Fabrizio Bosso](https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ), [Sergio Cammariere](https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU) | [You've Changed](https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX) | 5:02 |
+| 56 | [Per Ricordarmi Di Te](https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX) | [Fabrizio Bosso](https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ), [Sergio Cammariere](https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU) | [You've Changed](https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX) | 5:02 |
+| 57 | [Pandora](https://open.spotify.com/track/0tR48664h2XserXZXARvf7) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Pandora](https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL) | 3:31 |
 | 58 | [Gigi](https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za), [Paolo Di Sabatino Trio](https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV) | [Gigi](https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a) | 7:14 |
 | 59 | [Long John Silver](https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Studio Murena](https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8) | 4:04 |
 | 60 | [Bighellonando](https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH) | [Stefano Torossi](https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM) | [Ora beat!](https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj) | 2:05 |
 | 61 | [Un giardino](https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6) | [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt), [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E) | [Quando le canzoni finiscono](https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE) | 3:58 |
-| 62 | [High Fever](https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx) | [Electric Circus](https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6) | [High Fever](https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1) | 3:12 |
-| 63 | [Lupercalia](https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO), [Pietro Santangelo](https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k), [Paolo Batà Bianconcini](https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s), [Giuseppe Giroffi](https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC), [Luigi Di Nunzio](https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr) | [Baccanalia](https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd) | 4:43 |
+| 62 | [Lupercalia](https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO), [Pietro Santangelo](https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k), [Paolo Batà Bianconcini](https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s), [Giuseppe Giroffi](https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC), [Luigi Di Nunzio](https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr) | [Baccanalia](https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd) | 4:43 |
+| 63 | [High Fever](https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx) | [Electric Circus](https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6) | [High Fever](https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1) | 3:12 |
 | 64 | [ILLUSIONI E ASTRATTISMI \(feat\. Paolo Fresu\)](https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [WadiruM](https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO) | 3:39 |
 | 65 | [Musica e Fumo](https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn) | [Loop Therapy](https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u), [Cesare Pizzetti](https://open.spotify.com/artist/0o6xTIgwj0rJ2EDpI37iwi), [Veezo](https://open.spotify.com/artist/35bU60Yu7QSaJSb5Y2Cjix) | [Opera prima \(Including Ice One Remix\)](https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf) | 4:38 |
 | 66 | [Feliz](https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Feliz](https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 99 | [chiquilín de bachín](https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [David Linx](https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL), [Gustavo Beytelmann](https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu) | [Trama Latina](https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY) | 6:10 |
 | 100 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 |
 
-Snapshot ID: `AAAAAG3isYVGbUtetXQUJugtORu/GMFB`
+Snapshot ID: `AAAAAIFJMKBs3xM6ko6pQz+bJok91QqV`

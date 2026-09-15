@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Fox N' Vead
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,906 likes - 87 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,968 likes - 87 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 | 86 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 |
 | 87 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 
-Snapshot ID: `AAAAAKsEGmoqPsyhQe+lzb7TS5NrVj2A`
+Snapshot ID: `AAAAAISYy/LB9YsRgRu4/LASpFwKQDyP`

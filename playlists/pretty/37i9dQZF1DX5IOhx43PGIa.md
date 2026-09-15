@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,160 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,155 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [PALETTE](https://open.spotify.com/track/2KQUgnOmfxgkL7QBXaZ0Qm) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [BACK TO REALITY](https://open.spotify.com/album/61ztlk3IamUgahgX4VPisJ) | 3:06 |
 | 100 | [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 |
 
-Snapshot ID: `AAAAAOJiG9wWemwOmSULr4y9Q6Dg64nZ`
+Snapshot ID: `AAAAABn+mnVUayEoSwoPltWan/cBef6n`

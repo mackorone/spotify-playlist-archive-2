@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-350 songs - 19 hr 13 min
+351 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st) | [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Kawz](https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB) | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD) | 3:06 | 2025-09-15 | 2026-09-11 |
 | [Modern Man](https://open.spotify.com/track/10VAsXITsdLNv3kWjB2Omu) | [MORN](https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3) | [Modern Man](https://open.spotify.com/album/3m7OWCL2PfBrcj2Fu179kx) | 4:09 | 2025-09-15 | 2026-09-11 |
 | [Monster](https://open.spotify.com/track/0ArK2SbGCLuuWsSdF2YFGS) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Future Sounds of Argentina](https://open.spotify.com/album/4zinhFZq5IL2vf701O0kv7) | 3:00 | 2026-09-10 |  |
-| [Moon And Back](https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [Moon And Back](https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx) | 3:24 | 2026-09-10 |  |
+| [Moon And Back](https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [Moon And Back](https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx) | 3:24 | 2026-09-10 | 2026-09-15 |
 | [Moon And Back](https://open.spotify.com/track/7g2YduzYoIzNW4U4Qgaum0) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Wagathoni](https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY) | [BBQ Summer Vibes](https://open.spotify.com/album/30RsC6ujRsMduoPaBqGmtj) | 3:24 | 2026-09-10 |  |
 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2026-09-10 |  |
 | [Motivation](https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu) | [Rylo & Le Prof](https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4) | [Motivation](https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s) | 2:42 | 2026-09-10 |  |
@@ -333,6 +333,7 @@
 | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/track/5XMsLJ0CXP2h8qfFi7so7m) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [iDA HAWK](https://open.spotify.com/artist/5hrtcI0g197yJxmyAU6VYv) | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/album/2pdWephmuNIPKFh6ZSzWap) | 4:54 | 2025-09-15 | 2026-09-11 |
 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-09-15 | 2026-09-11 |
 | [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2025-09-15 | 2026-09-11 |
+| [Va Va Vroom](https://open.spotify.com/track/6QK53R3PkzMAgCY4L8iENN) | [Jadakins](https://open.spotify.com/artist/1G7hnhf87VHNjdOGTI6zx9), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Va Va Vroom](https://open.spotify.com/album/67w7fxQ3qMYp16ENtDJjbf) | 2:05 | 2026-09-14 |  |
 | [Vacay](https://open.spotify.com/track/28t3hQwbHDfjwqZOWrFN6T) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/7uu6SJRaMfIuoiMUKs5hIO) | 2:22 | 2025-09-15 | 2026-09-11 |
 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-09-10 |  |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-09-15 | 2026-09-11 |

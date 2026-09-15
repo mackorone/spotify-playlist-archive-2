@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356520,
+  "num_followers": 356474,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH87A3y60cFfO3SG+IIPP5BtT6CC",
+  "snapshot_id": "AAAAAK2jgzc3zcs5rXgq1y1pd2HddFu7",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:31",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 122628,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Camomila",
-        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "acho que sou rom\u00e2ntica",
         "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 152042,
       "name": "eu me entendo mal",
       "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Ressaca da Saudade",
         "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "AMOR PROIBIDO",
         "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 204002,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1171,22 +1187,6 @@
       "duration_ms": 143018,
       "name": "vou dar",
       "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 204002,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
     },
     {
       "added_at": "2026-09-04 03:00:31",

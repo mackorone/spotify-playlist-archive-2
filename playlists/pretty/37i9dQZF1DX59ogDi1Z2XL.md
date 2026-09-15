@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Kardinal Offishall & Glenn Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,138 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,167 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 4 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
 | 5 | [Taking the Piss](https://open.spotify.com/track/4zzZ7g2AHvhDwS4vg4oPsb) | [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Taking the Piss](https://open.spotify.com/album/2sXufJSLhSAPDZjqkLB42Y) | 2:25 |
 | 6 | [My Type](https://open.spotify.com/track/1MyZwesJCesKM60sjkzGhi) | [Big Lean](https://open.spotify.com/artist/3DF2S0BJ06q1FwvruHqF06), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [My Type](https://open.spotify.com/album/6cCAoDiXsMfwmQgCdP0rNG) | 2:35 |
-| 7 | [Lower East Side](https://open.spotify.com/track/5zNF0xVXdpSHPLYVUwZOyZ) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [Tona](https://open.spotify.com/artist/784dh5WJzNRoPGKrLTvdv0) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:33 |
+| 7 | [Lower East Side](https://open.spotify.com/track/5zNF0xVXdpSHPLYVUwZOyZ) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:33 |
 | 8 | [Crowd Control](https://open.spotify.com/track/55Kw5y93lv3Hy1ZUJoGXfo) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Coach](https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3) | [Crowd Control](https://open.spotify.com/album/58kvgiVAwhMcCbJH6jtRVB) | 3:36 |
 | 9 | [Mainsha](https://open.spotify.com/track/5Khd1LAEU726zpzBx5paU8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Innermission: MAGMA or A Propagandous Film by Wes Side Anderson](https://open.spotify.com/album/3K42Dnc4MxksdQnmL40WsM) | 2:49 |
 | 10 | [Walk of Shame](https://open.spotify.com/track/2Jeh5DPuVrAtNhqkE33qvB) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Walk of Shame](https://open.spotify.com/album/6pMhwIq0MQUBYEDol6J2ru) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Child's Play](https://open.spotify.com/track/3ofU3PYSZr5wD5ycRfjVE9) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [Child's Play](https://open.spotify.com/album/2Iz5d8CqyTVg0QiV7tLuQV) | 2:34 |
 | 100 | [YellowGreenBlue](https://open.spotify.com/track/37Pt6RacSdDNeR7CiEsiFX) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [YellowGreenBlue](https://open.spotify.com/album/7IRJ0Q7GCqoqGaURNKbqlP) | 1:43 |
 
-Snapshot ID: `AAAAANwKyhan/w908UdskUsHlQ5suE6Y`
+Snapshot ID: `AAAAADI7xXh02fgX6PzpbvJ4X72fbj/0`

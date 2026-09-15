@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1489622,
+  "num_followers": 1489834,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADyE2XlV7/ml+9Ls/1LS4AG",
+  "snapshot_id": "aqXngAAAAAC2c+kyWNdVhKnnsy/EDrTP",
   "tracks": [
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "Dark Fantasy",
-      "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Recession",
         "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 321293,
       "name": "Put On",
       "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Dark Fantasy",
+      "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,853 likes - 106 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,847 likes - 106 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 105 | [Expres](https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Expres](https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh) | 2:17 |
 | 106 | [Dream](https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dream](https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY) | 2:24 |
 
-Snapshot ID: `AAAAAPxsHmGhveXcjNgasdgzeVlGassz`
+Snapshot ID: `AAAAACcSD3I6BmaPMXVgPaeRBRqsYZ9y`

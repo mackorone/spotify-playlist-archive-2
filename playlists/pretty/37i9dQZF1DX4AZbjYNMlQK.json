@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 268557,
+  "num_followers": 268493,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAW3C2FKGyXQm09ZQgHMHttY/P4",
+  "snapshot_id": "AAAAABFI/7z8Vh6RH/RqWSTb3FZhWpgG",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:14",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+        "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 124989,
+      "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Jingle Bell Rock (with Maria Becerra)",
         "url": "https://open.spotify.com/album/6hlGX00f21IuTjKIQN79tK"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 141818,
       "name": "Jingle Bell Rock (with Maria Becerra)",
       "url": "https://open.spotify.com/track/5ieSoxnino7NkPZJegAiGz"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
-        "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 124989,
-      "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
     },
     {
       "added_at": "2026-08-28 04:02:14",

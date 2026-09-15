@@ -1,12 +1,12 @@
 {
   "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
-  "num_followers": 216353,
+  "num_followers": 216329,
   "original_name": "RUSH HOUR: \uac13\uc0dd ON!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWV7tcA5Mf8+/jHHSp7Xg/YdcKV",
+  "snapshot_id": "AAAAAGalqyJpk946oRAsgMfjUTE5fIA8",
   "tracks": [
     {
       "added_at": "2026-07-03 07:27:32",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
         "name": "V8",
         "url": "https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 187500,
       "name": "singasong",
       "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "FLOWER",
-      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
     }
   ],
   "unique_name": "RUSH HOUR: \uac13\uc0dd ON!",

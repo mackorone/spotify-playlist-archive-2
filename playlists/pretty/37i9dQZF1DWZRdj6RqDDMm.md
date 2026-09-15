@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,879 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,898 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 |
 | 100 | [NOT ALONE](https://open.spotify.com/track/4Vv5jaARDLXOwW4i5PwGwY) | [PYEFA](https://open.spotify.com/artist/5Wl6nDhxskbjh0ZNV4JUsK) | [NOT ALONE](https://open.spotify.com/album/4jZeR147Denfsnu7ahJWol) | 3:28 |
 
-Snapshot ID: `AAAAABNgESBGbU+DoqvaeyE3a0rvQuRm`
+Snapshot ID: `AAAAAC0wcGRay0k2TjuUJt0Ts0wffswm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. El Fantasma & Banda Corona Del Rey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,050 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,092 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 124 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 |
 | 125 | [El Chavo \(En Vivo\)](https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7) | 4:05 |
 
-Snapshot ID: `AAAAAJu9PuloCXQSqma9hozWj3UfYh3M`
+Snapshot ID: `AAAAAOgGdPPhInP3wPVIb8XmFsgZ46Bp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,869,377 likes - 222 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,870,037 likes - 222 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 221 | [Slow Files](https://open.spotify.com/track/4VHpUXNvEW0yroLxEjzThm) | [Blauberg Calm](https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P) | [Slow Files](https://open.spotify.com/album/7rcADDW55U113sOvreXGCp) | 3:09 |
 | 222 | [Infinite Escapes](https://open.spotify.com/track/5roXiCVPJdHRTo09P6yKEw) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Infinite Escapes](https://open.spotify.com/album/3oHR84KX6Ypu915ZEeXeQK) | 2:54 |
 
-Snapshot ID: `AAAAAFUE6edn1XoBA+aLoWOyXTNJHA6M`
+Snapshot ID: `AAAAAFy3k/XkAVgG9Lu/Ub2OOCnLxLSn`

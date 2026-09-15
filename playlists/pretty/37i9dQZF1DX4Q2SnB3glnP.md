@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,936 likes - 260 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,976 likes - 260 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 259 | [Gateway Glitter](https://open.spotify.com/track/6Brzc1DjbCqhTuJl4wBDMM) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Gateway Glitter](https://open.spotify.com/album/5QXgxzxiOzManaZz4XBcoq) | 2:25 |
 | 260 | [Canyon Shadows](https://open.spotify.com/track/0mvRaZLhcRDFYaxyCDR1TW) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Canyon Shadows](https://open.spotify.com/album/3quctwBMVUkIpxOhfaZBKl) | 3:26 |
 
-Snapshot ID: `AAAAAFcJ587DqW0TiBK9tcURsaouHkJg`
+Snapshot ID: `AAAAABUiw8jFgf5ZCuwrlR19gZF/HFX6`

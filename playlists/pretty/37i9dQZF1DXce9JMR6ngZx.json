@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 253675,
+  "num_followers": 253691,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5WaLrMLvqjOw/BQWQ/SI6Dqatd",
+  "snapshot_id": "AAAAAPZg8uYAnNvWvYNWjkTn4dtdz7sR",
   "tracks": [
     {
       "added_at": "2024-07-09 20:48:06",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "The Best Of The 80's",
-        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Go Back (Ao vivo)",
         "url": "https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
         "name": "Cinema Mudo",
         "url": "https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV"
       },
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Cores, Nomes",
         "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
       },
@@ -1635,6 +1615,22 @@
       "duration_ms": 263373,
       "name": "Queixa",
       "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Notorious (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3xXwaj6hVwx0pnLtMCHZdC"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 258546,
+      "name": "Notorious - 2010 Remaster",
+      "url": "https://open.spotify.com/track/4yopZ4FVYS0RWKkCagdIEm"
     }
   ],
   "unique_name": "Faxina Nostalgia",

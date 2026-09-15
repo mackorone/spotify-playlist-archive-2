@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Białas
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,325 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,330 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Wolne popołudnia w Polsce](https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Wolne popołudnia w Polsce](https://open.spotify.com/album/0JW48Ni0H9RvCi1VfnHz8I) | 3:34 |
 | 50 | [Grand Soir](https://open.spotify.com/track/0pdZ3Rw7BHBgouY9GhXveq) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/2U3FVEDEu7EUEk6gLUcjzI) | 2:10 |
 
-Snapshot ID: `AAAAAN6P2P+JQUAmrd9gK4Bp5qvQt04x`
+Snapshot ID: `AAAAAPjJqYXzGNgJVB4KL/hRV0pb/EJ3`

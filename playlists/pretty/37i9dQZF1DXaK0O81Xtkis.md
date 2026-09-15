@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Jack Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,558 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,552 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 54 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 55 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 
-Snapshot ID: `AAAAAAKcJkbjSBW1FFPZ+MnQ1HoVK7MI`
+Snapshot ID: `AAAAAP9Ry3aHmBaWMWqdVKadl/cwV9Kp`

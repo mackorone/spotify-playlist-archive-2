@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Micaela Basadoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,416 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,413 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Camino libre medio](https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp) | [Delairë](https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Camino libre medio](https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd) | 3:09 |
 | 100 | [Pedazos \- Acústico \- Remastered 2026](https://open.spotify.com/track/4a3XV5dNEQzhZYRniHku4l) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos \- Acústico \(Remastered 2026\)](https://open.spotify.com/album/1u8a8iv5cdfeBUs8PCoJ9C) | 2:37 |
 
-Snapshot ID: `AAAAAENnQM2xYRoemzoSD7DU5+PrfHwz`
+Snapshot ID: `AAAAAL4LlVpRWCbTGYHmwQ94QVyBc5F9`

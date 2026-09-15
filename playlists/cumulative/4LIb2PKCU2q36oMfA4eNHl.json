@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 182900,
       "name": "8 Hours, Still No Rain",
       "url": "https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 154412,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6PDxUY25m6vJ5dAUsS3GTY"
@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Always on Your Side",
+      "url": "https://open.spotify.com/track/7ub5dcQHBLCQHW3OZRAf9q"
+    },
+    {
+      "album": {
         "name": "Reflections 08",
         "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
       },
@@ -470,7 +492,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 174210,
       "name": "Amber Sea",
       "url": "https://open.spotify.com/track/3I1dwVKjv8Gr4PkjzInemx"
@@ -496,6 +518,24 @@
       "duration_ms": 105963,
       "name": "Ambient Resonances",
       "url": "https://open.spotify.com/track/4aEXOceIIBTWEMhXQ4ivXz"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "An Ending (Ascent) - Remastered 2005",
+      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
     },
     {
       "album": {
@@ -796,7 +836,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 131826,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T"
@@ -1510,7 +1550,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 192000,
       "name": "Collision",
       "url": "https://open.spotify.com/track/10MTjI1jCroheeUquehvj0"
@@ -1608,7 +1648,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 248164,
       "name": "Contours",
       "url": "https://open.spotify.com/track/4t1JovUClHeL71vNVZLS2K"
@@ -2021,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Of Becoming",
+        "url": "https://open.spotify.com/album/5yrKv30ZnmZoj17nu9NYEb"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Earthing",
+      "url": "https://open.spotify.com/track/4mF2aIvUERidxqFFnBTnxo"
+    },
+    {
+      "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
@@ -2164,7 +2222,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 125915,
       "name": "evening star",
       "url": "https://open.spotify.com/track/60sdtqLTxz49f3X8iGPKY0"
@@ -2356,7 +2414,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 234781,
       "name": "Faber Sanctum - Hollie Kenniff Remix",
       "url": "https://open.spotify.com/track/1EGVMPMBKFXHuCGgYPu3fm"
@@ -2450,7 +2508,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 160174,
       "name": "Falling",
       "url": "https://open.spotify.com/track/36ovRbf4SXMN4kEjDv0wZZ"
@@ -2548,6 +2606,28 @@
       "duration_ms": 141920,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/2OaSAbyzkd5RowM2SqPQAx"
+    },
+    {
+      "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183047,
+      "name": "Fire on the Water",
+      "url": "https://open.spotify.com/track/4YwMvPQDa5IMmf1IBt0if2"
     },
     {
       "album": {
@@ -2678,7 +2758,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 196314,
       "name": "Get It Over",
       "url": "https://open.spotify.com/track/5EjJxrhzH4jJwseVOmKHuY"
@@ -3541,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "album": {
         "name": "Night Runner",
         "url": "https://open.spotify.com/album/0sXAHz4vpUAMvIx1Dwqzpt"
       },
@@ -4118,7 +4216,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 221000,
       "name": "Leave The Light On - Chill Mix",
       "url": "https://open.spotify.com/track/17WPZVZ45D8vcUv9WLE0WK"
@@ -5575,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123946,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx"
+    },
+    {
+      "album": {
         "name": "Brainsugar",
         "url": "https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV"
       },
@@ -5962,7 +6078,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 271466,
       "name": "Only You Can Tell - Original Mix",
       "url": "https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS"
@@ -5984,7 +6100,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 292743,
       "name": "Only You Can Tell - Stelios Vassiloudis Revisit",
       "url": "https://open.spotify.com/track/60BY2e9OC6yzmxvBJWIlYH"
@@ -6068,7 +6184,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 228099,
       "name": "Others - Electronic",
       "url": "https://open.spotify.com/track/2UwPrJ6lw3x7ZPVlDIGZWP"
@@ -6584,7 +6700,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 224000,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/4xzwdVGq4tMj4nV2EfgSx4"
@@ -6736,7 +6852,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 131923,
       "name": "saman",
       "url": "https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr"
@@ -6852,7 +6968,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Shall We Begin",
       "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
@@ -7136,6 +7252,24 @@
       "duration_ms": 142372,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/3f2HNMiOgOXF4HuWmySEVi"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Slow Buchla Sunshine",
+      "url": "https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn"
     },
     {
       "album": {
@@ -7443,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Strength From Inside",
+      "url": "https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB"
+    },
+    {
+      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
       },
@@ -7520,6 +7672,28 @@
       "duration_ms": 178795,
       "name": "Summer Dreams",
       "url": "https://open.spotify.com/track/3VSWJ61d0x9LJ2zvZPGFwD"
+    },
+    {
+      "album": {
+        "name": "Sun & Moon (Downtempo Version)",
+        "url": "https://open.spotify.com/album/2dlPc5ts0otjVoo1KbsJAP"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430625,
+      "name": "Sun & Moon - Downtempo Version",
+      "url": "https://open.spotify.com/track/5W2qMffLvay3W2QzWRh15R"
     },
     {
       "album": {
@@ -7754,7 +7928,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 224494,
       "name": "The Bodes",
       "url": "https://open.spotify.com/track/5eNICg96lELQ6btam8gUCo"
@@ -7965,6 +8139,24 @@
     },
     {
       "album": {
+        "name": "Music for the Motion Picture Victoria",
+        "url": "https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239769,
+      "name": "Them",
+      "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
+    },
+    {
+      "album": {
         "name": "when the quiet comes",
         "url": "https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor"
       },
@@ -8016,6 +8208,28 @@
       "duration_ms": 246742,
       "name": "through the boughs of the garden",
       "url": "https://open.spotify.com/track/3GG1mFb8JCY67uUPI54y3Z"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
     },
     {
       "album": {
@@ -8204,6 +8418,24 @@
       "duration_ms": 284109,
       "name": "Traumtaenzer",
       "url": "https://open.spotify.com/track/2RfdewuGu5FSfAZAWBugax"
+    },
+    {
+      "album": {
+        "name": "Tri-State",
+        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251760,
+      "name": "Tri-State",
+      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
     },
     {
       "album": {
@@ -8628,7 +8860,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 276939,
       "name": "where do we go from here?",
       "url": "https://open.spotify.com/track/3SdWY5olOJEGX9HgFfxQAV"
@@ -8664,7 +8896,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 100030,
       "name": "Widescreen Dreams",
       "url": "https://open.spotify.com/track/3APXOLW7Tssum6jNRGhsb0"
@@ -8758,7 +8990,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 147800,
       "name": "writing thoughts of you",
       "url": "https://open.spotify.com/track/7DxjSpFhwPvk4HNgTpEIss"
@@ -8900,7 +9132,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 284551,
       "name": "you're gonna be okay",
       "url": "https://open.spotify.com/track/79YLHDzRnXNDexhFWkDMSn"

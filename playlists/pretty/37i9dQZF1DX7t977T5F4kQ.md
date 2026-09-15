@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   RCEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,103 likes - 83 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,132 likes - 83 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 82 | [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 |
 | 83 | [Lonely World](https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lonely World](https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD) | 3:06 |
 
-Snapshot ID: `AAAAAFVXUaFCoefh2zUSbhqo4LypP2eq`
+Snapshot ID: `AAAAAF9yLze6dyUBvzCEDtu0uhbgjlKX`

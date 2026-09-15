@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,412 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,404 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 99 | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/track/5dhBFsbrOcZhLbJFImgvsd) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/album/2z6kAL1yr6a2OiHBJ9CDWQ) | 5:43 |
 | 100 | [Para Sa Bawat Tala](https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs) | 3:46 |
 
-Snapshot ID: `AAAAAHNEaZdyZ+65j472l0NqT7iSsYar`
+Snapshot ID: `AAAAAJFTACqLpvEJ/qW9RMKF5DfBlK7G`

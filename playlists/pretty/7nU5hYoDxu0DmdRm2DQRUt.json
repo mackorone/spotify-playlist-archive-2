@@ -1,13 +1,169 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 8078,
+  "num_followers": 8080,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPayPtSmWzRypLag/0wXIpTuBs9RYc",
+  "snapshot_id": "AAAPeLfu4YNsIYzr6IP+kCvPEEQJ1hW9",
   "tracks": [
+    {
+      "added_at": "2026-09-14 13:40:40",
+      "album": {
+        "name": "Speicher 140",
+        "url": "https://open.spotify.com/album/4LcYcxVFcdWfoSxydSQBlP"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 298785,
+      "name": "Verschwinden",
+      "url": "https://open.spotify.com/track/4fH0LLI9qdRpNCPwhW2md1"
+    },
+    {
+      "added_at": "2026-09-14 13:41:01",
+      "album": {
+        "name": "Geffen",
+        "url": "https://open.spotify.com/album/0MnPo3GOy1qxFvJzuc3BLx"
+      },
+      "artists": [
+        {
+          "name": "Barnt",
+          "url": "https://open.spotify.com/artist/5UwHHsEQqO6OiQCtYHDpn9"
+        }
+      ],
+      "duration_ms": 480036,
+      "name": "Geffen - 2026 Remaster",
+      "url": "https://open.spotify.com/track/2ATaLtohp3BrjSowlSYoUZ"
+    },
+    {
+      "added_at": "2026-09-14 13:37:38",
+      "album": {
+        "name": "Rock A Lott",
+        "url": "https://open.spotify.com/album/7pqi6b6mNYHr5jhCURDRud"
+      },
+      "artists": [
+        {
+          "name": "Frankey & Sandrino",
+          "url": "https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk"
+        }
+      ],
+      "duration_ms": 350374,
+      "name": "Rock A Lott",
+      "url": "https://open.spotify.com/track/3n29QIJuWwWtKN8HDELmN3"
+    },
+    {
+      "added_at": "2026-09-14 13:38:03",
+      "album": {
+        "name": "Psychick Youth",
+        "url": "https://open.spotify.com/album/4L7DNXZntuiA379FulMvXM"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 379801,
+      "name": "Theme 1",
+      "url": "https://open.spotify.com/track/2NrqLkS1x30MkwFrhM5X2F"
+    },
+    {
+      "added_at": "2026-09-14 13:39:42",
+      "album": {
+        "name": "Mood Programs (Extended Play)",
+        "url": "https://open.spotify.com/album/1Xs6QrzxJtUUY6qyfwGw4j"
+      },
+      "artists": [
+        {
+          "name": "LA MARR",
+          "url": "https://open.spotify.com/artist/4sgfef0Om7y4OdyOmbOxDS"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 766840,
+      "name": "Good Magic",
+      "url": "https://open.spotify.com/track/4HjwsWCoCJLsZrSqKeb9SN"
+    },
+    {
+      "added_at": "2026-09-14 13:38:46",
+      "album": {
+        "name": "Yours Sincerely",
+        "url": "https://open.spotify.com/album/2DtAm3khT9GqoYOJCM9vas"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/7ibY5Yov1KhuEtmRprS421"
+    },
+    {
+      "added_at": "2026-09-14 13:39:28",
+      "album": {
+        "name": "H010",
+        "url": "https://open.spotify.com/album/01U9owy9wLjiie1LpSVzoW"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        },
+        {
+          "name": "Hardspace",
+          "url": "https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz"
+        },
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        }
+      ],
+      "duration_ms": 293731,
+      "name": "Acido",
+      "url": "https://open.spotify.com/track/2fL1eWTHICjTEFc589ZALT"
+    },
+    {
+      "added_at": "2026-09-14 13:40:07",
+      "album": {
+        "name": "Jamborghini",
+        "url": "https://open.spotify.com/album/4ZPo5gw8CzKXUPtf1MMPxZ"
+      },
+      "artists": [
+        {
+          "name": "Extrawelt",
+          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
+        }
+      ],
+      "duration_ms": 307521,
+      "name": "Between Two Days",
+      "url": "https://open.spotify.com/track/07xSVedMLEZEtV4FoJ5SsA"
+    },
+    {
+      "added_at": "2026-09-14 13:41:26",
+      "album": {
+        "name": "Ciapa",
+        "url": "https://open.spotify.com/album/2YkmmfBcPQJBAn2kv8DCBJ"
+      },
+      "artists": [
+        {
+          "name": "Club Warme Deken",
+          "url": "https://open.spotify.com/artist/2Lbsp3pU4x6RwCSzKpFpj5"
+        }
+      ],
+      "duration_ms": 464635,
+      "name": "Ciapa",
+      "url": "https://open.spotify.com/track/4m124BXKTEYm3ragqbSW7A"
+    },
     {
       "added_at": "2026-08-14 09:06:08",
       "album": {

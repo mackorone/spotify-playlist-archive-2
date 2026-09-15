@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,315 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,314 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
 | 50 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
 
-Snapshot ID: `AAAAAFYGfG/YnVn3aMJ6zVIwb/pBEbgg`
+Snapshot ID: `AAAAAAg+G9qoqh7oz5S4/Ya1LZZYdNwR`

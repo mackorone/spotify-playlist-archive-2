@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 517 likes - 67 songs - 4 hr 16 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 518 likes - 76 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,14 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 65 | [One of a Kind](https://open.spotify.com/track/2Loj4wKwkthHdA4akfT9Vq) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [One of a Kind](https://open.spotify.com/album/1DC0CoPSsxs3zCXefhIrYa) | 3:05 |
 | 66 | [Dreaming of Better Days](https://open.spotify.com/track/5xakJCIWkJMDDJL4kQgtBC) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Dreaming of Better Days](https://open.spotify.com/album/2NLhQ3pPgmNBzi44IrYkuI) | 2:42 |
 | 67 | [Torn Between Head and Heart](https://open.spotify.com/track/1Z3uDLN5F4y44nZtRhjj7v) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Torn Between Head and Heart](https://open.spotify.com/album/6L5yQsi7FTytXQmwd2TMPe) | 4:12 |
+| 68 | [Jump Right In](https://open.spotify.com/track/5XE9I9ql6UkTcttYfHY2wO) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Jump Right In](https://open.spotify.com/album/6uDRpyXRnZwWre4WWY6wnX) | 3:19 |
+| 69 | [Open My Eyes](https://open.spotify.com/track/5khCPjZWiOFb8HoMWyG1vL) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Open My Eyes](https://open.spotify.com/album/48UTJXHn5wgmqS27hJQifH) | 3:07 |
+| 70 | [Listen To The Music](https://open.spotify.com/track/3AL3IiWCwFgyBXOl7wI8eJ) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Listen To The Music](https://open.spotify.com/album/5UsgZcXieIlFKrN9RBn7NI) | 2:14 |
+| 71 | [A Flôr](https://open.spotify.com/track/3Lvfuyk01emLPPhZDX1wy6) | [Everaldo Elias](https://open.spotify.com/artist/0uQw5Dv2mu1mS3dt5D5Zm6) | [Ouça](https://open.spotify.com/album/4WG3astGOGKMJWYSc2v3gu) | 4:45 |
+| 72 | [Rock Sanctuary](https://open.spotify.com/track/35kNF9R4vmn728iWoSC6dT) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Guitar World](https://open.spotify.com/album/7H0EPY28bJjoOFi6OeES08) | 3:25 |
+| 73 | [Magnetic Tonight](https://open.spotify.com/track/5O72m6tnJYf3zLD3pZiXC4) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [Magnetic Pulse](https://open.spotify.com/album/1a62ptO4cJRWbCRY0IdGrB) | 1:43 |
+| 74 | [Lucky By Design](https://open.spotify.com/track/6MRtwiNS2CsH5a452gQDFO) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [Lucky By Design](https://open.spotify.com/album/6gMV80yzfE2XEE9Q51jRD9) | 2:30 |
+| 75 | [Everything Is Clicking](https://open.spotify.com/track/2fNwdngc5DlGgXE8ssRJsV) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [This Kind Of Feeling](https://open.spotify.com/album/41asp5JDOB5g3nKGr85J7L) | 3:18 |
+| 76 | [Make It Right Tonight](https://open.spotify.com/track/2N6E9QHbKfUN4B2tRelFNQ) | [GIABY](https://open.spotify.com/artist/20co0JO6iFN5Xh4oKbA7Nv) | [Make It Right Tonight](https://open.spotify.com/album/6WKra06AdOGLWguPJIjsGM) | 3:44 |
 
-Snapshot ID: `AAACVNbkcaZlP1/26VTyjLZU0m8WZKGZ`
+Snapshot ID: `AAACXdwyeaqj6+fQ3XjlmGvraJhh54xz`

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56100,
+  "num_followers": 56105,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAAC2EEVvzE4BRFb6IT2qGhyC",
+  "snapshot_id": "aqXngAAAAAAAQrJzqVkOckqsmaHhEd+A",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+        "name": "Mis Decretos",
+        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 192853,
-      "name": "A Ti S\u00ed Puedo Decirte",
-      "url": "https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu"
+      "duration_ms": 193166,
+      "name": "Sue\u00f1o De Amor",
+      "url": "https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Decretos",
-        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Sue\u00f1o De Amor",
-      "url": "https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -152,25 +136,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Si Te Agarran Las Ganas",
-      "url": "https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Recostada En La Cama",
-      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
+      "duration_ms": 192853,
+      "name": "A Ti S\u00ed Puedo Decirte",
+      "url": "https://open.spotify.com/track/3RHWOxvj9Tj6dae3ayCPgu"
     },
     {
       "added_at": null,
@@ -191,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
       "artists": [
         {
@@ -200,9 +168,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
+      "duration_ms": 182800,
+      "name": "Recostada En La Cama",
+      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
     },
     {
       "added_at": null,
@@ -223,6 +191,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Si Te Agarran Las Ganas",
+      "url": "https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 152960,
       "name": "T\u00fa, Yo Y La Luna",
       "url": "https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Al Diablo Con Tu Amistad",
+      "url": "https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl"
     },
     {
       "added_at": null,
@@ -271,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Al Diablo Con Tu Amistad",
-      "url": "https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 166013,
       "name": "Amarla Es Un Placer",
       "url": "https://open.spotify.com/track/1ScJFneDCKEgFFcq4rsMt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "S\u00ed Te Llam\u00e9",
+      "url": "https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
       "duration_ms": 203706,
       "name": "Ap\u00e1rtame Esta Noche",
       "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 218986,
-      "name": "S\u00ed Te Llam\u00e9",
-      "url": "https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Due\u00f1o",
-        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "Ten\u00eda Due\u00f1o",
-      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten\u00eda Due\u00f1o",
+        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "Ten\u00eda Due\u00f1o",
+      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 106509,
+  "num_followers": 106517,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlbOhAHChZaHxlNOCZxYXDqXc2g",
+  "snapshot_id": "AAAAAPpDucykLzM0vC7lp885w5GfjDCh",
   "tracks": [
     {
       "added_at": "2025-10-24 04:00:22",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 155208,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Frio",
-        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 155208,
-      "name": "Frio",
-      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
     },
     {
       "added_at": "2025-10-24 04:00:22",

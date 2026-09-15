@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 188307,
       "name": "Alo, Scuze!",
       "url": "https://open.spotify.com/track/3SJ4jIR6QGX8QSth1NDwuw"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 164837,
       "name": "Balerina mea",
       "url": "https://open.spotify.com/track/5tfszTkoWCOrF9xjwynpDQ"
@@ -9501,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "album": {
         "name": "CINE AR FI CREZUT",
         "url": "https://open.spotify.com/album/0smpM3JCc2o1Pfxheqk8I0"
       },
@@ -9596,7 +9618,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -10476,7 +10498,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 224040,
       "name": "Continui sa te iubesc (Live)",
       "url": "https://open.spotify.com/track/0cQpOtDDxm0RQIDNtfixp9"
@@ -11310,7 +11332,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 161142,
       "name": "C\u00e2t vrei tu",
       "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
@@ -11578,7 +11600,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -22858,7 +22880,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -23856,7 +23878,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
@@ -23918,7 +23940,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -30127,6 +30149,24 @@
     },
     {
       "album": {
+        "name": "MonCher",
+        "url": "https://open.spotify.com/album/5OsdpWISd1PtKXJZqBD2rp"
+      },
+      "artists": [
+        {
+          "name": "Cristi Mega",
+          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "MonCher",
+      "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD"
       },
@@ -31082,7 +31122,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "M\u0103 sun\u0103 nebunele",
       "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
@@ -34758,7 +34798,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 246947,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/0xHNFGCOv4p4DFdu3qOYGM"
@@ -44828,7 +44868,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -45178,7 +45218,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Taj Mahal",
       "url": "https://open.spotify.com/track/5JVGD7bFXKxWbSt1KItPz0"
@@ -45746,7 +45786,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 143565,
       "name": "Te pup",
       "url": "https://open.spotify.com/track/7yzdom9kCLqRIZHYlTKJof"
@@ -48532,7 +48572,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 216851,
       "name": "Tu vrei zi de zi de toate",
       "url": "https://open.spotify.com/track/1HNfcdh76Z3HFmO7xUz0TR"
@@ -49318,7 +49358,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 137431,
       "name": "UP",
       "url": "https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE"
@@ -52470,7 +52510,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 190415,
       "name": "Zboara Banii",
       "url": "https://open.spotify.com/track/7dHrYWXiuJxotCS6tZrWPT"

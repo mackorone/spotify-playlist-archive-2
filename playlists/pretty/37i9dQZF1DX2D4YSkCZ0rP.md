@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Piche
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,984 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,989 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Poison](https://open.spotify.com/track/121YFyW8DmAZcMk3ax3PQA) | [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [Elips](https://open.spotify.com/artist/2AIzKTzFPBh0VNaf87zG24) | [Château Intérieur](https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ) | 3:14 |
 | 40 | [SLUT \( i just wanna fuck \)](https://open.spotify.com/track/2ewATJlDAVistbrs1gqU7z) | [Yanka](https://open.spotify.com/artist/5yAgNwxoOxbPpKdgaY7Ro6), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [SLUT \( i just wanna fuck \)](https://open.spotify.com/album/5UrdHHdQSdnjqeNB8wz3b7) | 2:50 |
 
-Snapshot ID: `AAAAAF9whly/6+FERPmyPkVHLXxFGFFi`
+Snapshot ID: `AAAAAMHrNpBGdz1fKY4skYK/AlmPdAnJ`

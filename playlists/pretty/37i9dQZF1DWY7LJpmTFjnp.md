@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Los Auténticos Decadentes y Los Caligaris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,226 likes - 99 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,100 likes - 99 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 98 | [Viento a tu favor](https://open.spotify.com/track/1ccyIJaHqG4Gf3eb9VkfNk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Caligaris Sí](https://open.spotify.com/album/0pofzzqSiZiKMRKEQN03VA) | 3:15 |
 | 99 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
 
-Snapshot ID: `AAAAAGeGUIcNjUZa1bUh3JOqy6uMhqLN`
+Snapshot ID: `AAAAAJ+sqTVT4O4Nvxm6HcR9lozK2fn4`

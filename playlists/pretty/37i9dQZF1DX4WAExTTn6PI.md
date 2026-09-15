@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Zach Meadows
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,085 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,099 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Love of the Song](https://open.spotify.com/track/0Tzk8dfVz0O5vdFzqUw8md) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Love of the Song](https://open.spotify.com/album/61URQ5acii7IEqzIusuDsS) | 3:21 |
 | 100 | [Gonna Love You](https://open.spotify.com/track/1DxHrCHAwrKh8L2FdwrQhu) | [John Hollier & the Rêverie](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Rainmaker](https://open.spotify.com/album/300BYZlr1qe8sUE0qD5BOK) | 2:42 |
 
-Snapshot ID: `AAAAAOktVEQpXiPl0IYU72HdZKqD0k9S`
+Snapshot ID: `AAAAAJH9VSJBwPr09c1vDjLD8UOyua6T`

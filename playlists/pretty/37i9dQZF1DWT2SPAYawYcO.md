@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tinashe, The Avalanches, Te Wehi, daine, Jhené Aiko, Kendrick Lamar + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,286 likes - 83 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,256 likes - 83 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [Wasting Time](https://open.spotify.com/track/0v3NVNmc2OTq1jrXYvW6R0) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Wasting Time](https://open.spotify.com/album/3g2YIJRTtqyPhDcUPTgIrT) | 3:21 |
 | 83 | [I Ruin, I Love](https://open.spotify.com/track/79Jw5owZrm5dJq8zyvDDjn) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [I Ruin, I Love](https://open.spotify.com/album/1IsJ3QqUFODnouxPnao6w3) | 3:30 |
 
-Snapshot ID: `AAAAACn6LbjyGlm3DL0VxjZL4TjCxAVW`
+Snapshot ID: `AAAAAABlI1/V96+XUK33+aycsuzgdgU6`

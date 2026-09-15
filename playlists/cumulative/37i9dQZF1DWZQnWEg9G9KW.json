@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Get Ready (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/5CLdtYWFuvjLopeAw7ERQR"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191772,
+      "name": "Get Ready (Guitar Version)",
+      "url": "https://open.spotify.com/track/5SQtZN2fhy96gQSYVHatfT"
+    },
+    {
+      "album": {
         "name": "Camp Rock",
         "url": "https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2454,
+  "num_followers": 2457,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALUzxPGwDxs0ykiC8xLuxyXURgUg",
+  "snapshot_id": "AAAAAHYbOXXZhPoBnHPmh3s+wgXyHAqh",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Unsolicited Joints",
         "url": "https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 378461,
       "name": "Joint 2",
       "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
     }
   ],
   "unique_name": "Night Shift",

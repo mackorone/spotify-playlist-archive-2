@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Yes Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,912 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,910 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 |
 | 100 | [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 |
 
-Snapshot ID: `AAAAAIOmcWdXLT83UB6Y+tQn0djBt+aT`
+Snapshot ID: `AAAAACEKwoxphBLCN4zV1b7RRAcxhzZy`

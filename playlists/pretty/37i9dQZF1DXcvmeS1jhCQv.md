@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,298 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,300 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [All About You](https://open.spotify.com/track/2hVlxeaMNN9VsOz8MPVsGn) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [modernlove.](https://open.spotify.com/album/4XDvxGdkDLvfUJO6gfVZ1x) | 3:04 |
 | 100 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 
-Snapshot ID: `AAAAANtjIJ3t4PnCrZRqLhGEgz2XN5pH`
+Snapshot ID: `AAAAABluqonO1au5TrSZtUuVQut+ww/h`

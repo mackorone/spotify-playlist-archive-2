@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-357 songs - 20 hr 18 min
+358 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Compute](https://open.spotify.com/track/7LNsgTO7ipNPLE10Nn7iR7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 4:23 | 2023-10-06 | 2024-01-02 |
 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2025-05-29 |  |
 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-03-01 | 2024-05-21 |
+| [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 | 2026-09-11 |  |
 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 | 2025-05-28 | 2025-06-01 |
 | [Dancing \(Again!\) \- Radio Edit](https://open.spotify.com/track/0Ky8528v9lxA86Fyz905ee) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Ron Costa](https://open.spotify.com/artist/5rm0DojzB3HDGjA2iS40cd), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Dancing \(Again!\)](https://open.spotify.com/album/5A50JBYq6suas94B59VPr7) | 3:19 | 2025-05-16 | 2026-05-02 |
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-07-18 | 2023-09-02 |
@@ -155,7 +156,7 @@
 | [HOLD DA PHONE](https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [HOLD DA PHONE](https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp) | 3:23 | 2026-08-27 |  |
 | [Hold Me](https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hold Me](https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ) | 2:32 | 2025-10-09 | 2025-10-22 |
 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 | 2026-05-01 | 2026-05-15 |
-| [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 | 2026-08-13 |  |
+| [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 | 2026-08-13 | 2026-09-15 |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-05-24 | 2024-05-28 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-07-18 | 2023-09-22 |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-26 | 2025-02-07 |

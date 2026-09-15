@@ -1,12 +1,12 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1631686,
+  "num_followers": 1631443,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9nXt/00UbT1zwCpcRBtPdlhd3u",
+  "snapshot_id": "AAAAABOGuUN7lpGuD2s9zi2KkkjJ8w0B",
   "tracks": [
     {
       "added_at": "2026-05-29 19:51:10",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
         "name": "GIRASOLES",
         "url": "https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 175775,
       "name": "Aveces Siempre",
       "url": "https://open.spotify.com/track/6sjJcNGklrIHox82sRxRpp"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Extra\u00f1os de Nuevo",
-        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
         "name": "M\u00fasica Buena Para D\u00edas Malos",
         "url": "https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
     },
     {
       "added_at": "2026-05-29 19:51:10",
@@ -787,6 +771,22 @@
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2026-05-29 19:51:10",

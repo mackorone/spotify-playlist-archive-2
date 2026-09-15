@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Averagekidluke, Ares ja Bizi, BESS..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,424 likes - 106 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,426 likes - 106 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 105 | [Kolmijalkainen koira](https://open.spotify.com/track/0E2dK015M42sGkJmW6kuoe) | [Anu Marin](https://open.spotify.com/artist/4ZnvzlyZN5JgSr62QF0Oxz) | [Kolmijalkainen koira](https://open.spotify.com/album/2aC0i4YL70TfR7KSiJD2lq) | 3:28 |
 | 106 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |
 
-Snapshot ID: `AAAAABB63X45HOPrraDhPZkLadKG8CZz`
+Snapshot ID: `AAAAAAGeOGwZNZ3XqmLtpUu92EWAh+9U`

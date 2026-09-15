@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,161 likes - 55 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,187 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 54 | [Cleo](https://open.spotify.com/track/2GcyaxeLcrIezbiQckjf2R) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Cleo](https://open.spotify.com/album/0aWFyB1vF49N30JATeTXOM) | 2:08 |
 | 55 | [Float](https://open.spotify.com/track/2Y8pQy5OPylJCILWSkBzT4) | [John Errol](https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP) | [Float](https://open.spotify.com/album/0JXreyw5AR1edcKzDsGvow) | 4:11 |
 
-Snapshot ID: `AAAAACTeZ3XJ99QKEdRNaiji9q9o4IE2`
+Snapshot ID: `AAAAANgDmWH2Hr33Xo1PVjAHQdy1vmtX`

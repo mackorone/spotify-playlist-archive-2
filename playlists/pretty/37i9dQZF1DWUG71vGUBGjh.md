@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,819 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,843 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 29 | [Foggy Mountain Breakdown](https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 2:08 |
 | 30 | [Hotel California](https://open.spotify.com/track/6keOvpOxtugHSLokIznZk8) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Ye Olde Space Bande Plays The Classic Rock Hits](https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk) | 6:34 |
 | 31 | [Suite bergamasque: Passepied](https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 3:23 |
-| 32 | [The Little Man From Mars](https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 2:28 |
+| 32 | [The Unidentified Flying Object](https://open.spotify.com/track/3JccctYY66FfSyFkd3JcbF) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 1:59 |
 | 33 | [You Moog Me](https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Moog Acid](https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G) | 3:50 |
 | 34 | [Topless Dancers Of Corfu](https://open.spotify.com/track/0Wh5Dveo8blNIfgio1Wfe7) | [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT) | [Moog: The Electric Eclectics Of Dick Hyman](https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY) | 3:05 |
 | 35 | [Pencerenin Perdesini](https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 2:24 |
 | 36 | [Folsom Prison Blues](https://open.spotify.com/track/4Lr58MKv45cz3du2fcN8jA) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 3:15 |
-| 37 | [The Unidentified Flying Object](https://open.spotify.com/track/3JccctYY66FfSyFkd3JcbF) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 1:59 |
+| 37 | [The Little Man From Mars](https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 2:28 |
 | 38 | [Cat In The Night](https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 3:34 |
 | 39 | [Bob's Funk](https://open.spotify.com/track/187OL8IkLAceM1zalrCZ5Q) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 5:11 |
 | 40 | [Romance](https://open.spotify.com/track/0kCQyuaJp2Rx6EKiENpB1q) | [Peter Baumann](https://open.spotify.com/artist/4u9mLb6exlbHuNehyJ11jq) | [Romance 76](https://open.spotify.com/album/5YE2KLhp2lfKULIqMw3gWX) | 6:08 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 89 | [Caravanas](https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Continuvm](https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK) | 5:05 |
 | 90 | [Another Year Away](https://open.spotify.com/track/4hxa6XR72iGXD3DBEEbIu8) | [Roger O'Donnell](https://open.spotify.com/artist/7uPA6aEnbQYWtCQcXTgg88) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 5:29 |
 | 91 | [Sonik Re\-Entry](https://open.spotify.com/track/2ozohxykp23xAoXBTs1IV7) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw), [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Electronic Music](https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU) | 2:33 |
-| 92 | [Words From The Underground](https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM) | [Electric Party](https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy) | [Play](https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7) | 2:18 |
-| 93 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 |
+| 92 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 |
+| 93 | [Words From The Underground](https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM) | [Electric Party](https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy) | [Play](https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7) | 2:18 |
 | 94 | [Meditation Moog 1968](https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B) | [Doug McKechnie](https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D) | [San Francisco Moog: 1968\-72 Vol\. 1](https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl) | 4:23 |
 | 95 | [Monsters](https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 7:45 |
 | 96 | [Song of the Second Moon](https://open.spotify.com/track/1Gb9oCSGST0crUDjBowD20) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 3:08 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 143 | [Theme from Music for Sensuous Lovers Part I \- Instrumental](https://open.spotify.com/track/5exiBWEuT9tkTUBeVv3adg) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha), [Z](https://open.spotify.com/artist/4Y7g10E15aIfaGngnQrmgh) | [Music from Patch Cord Productions](https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75) | 3:10 |
 | 144 | [Dragonfly](https://open.spotify.com/track/5txsuDBk4Eno0NUcn0sQ8u) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/0dKaijFd0UsW2ObxcoZL09) | 3:18 |
 
-Snapshot ID: `AAAAAE8v037cuqCSkQfjWG/w4PNAocNc`
+Snapshot ID: `AAAAAIKM1/LirdA7xMm3OR4rmmXWECV5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Şener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,724 likes - 149 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,754 likes - 149 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 148 | [Zulüm](https://open.spotify.com/track/7rq4goD6UUhJPQjXh2mv8x) | [Ceyhun Damla](https://open.spotify.com/artist/6Q7bg1oTjyhMKi0k3PHKnr), [Gülşah Kargılı](https://open.spotify.com/artist/0Rv0oxaxs1BG33dEpDUfx0) | [Zulüm](https://open.spotify.com/album/2htVD3i86pT7DVoC4lykxS) | 2:50 |
 | 149 | [zincirle](https://open.spotify.com/track/3kBvTct9ZAFMYMPe3RLMko) | [KAİDE](https://open.spotify.com/artist/77tQv12AjwzohiIxDlq6EF), [Sema](https://open.spotify.com/artist/47UxRIjDHIFhHRzeWsl33n) | [zincirle](https://open.spotify.com/album/2M8PQBIOq3IX0RPULtioYK) | 2:23 |
 
-Snapshot ID: `AAAAAK1Or8dvLedQxQhe6puemZivIevC`
+Snapshot ID: `AAAAAEhIQwseaq3xDQYHOjDu+rf010Zk`

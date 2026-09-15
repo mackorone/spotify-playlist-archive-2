@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Ikkimel, badmómzjay, Monet192, David Guetta, Jazeek, Ryan Castro & many more!
 
-24,174 songs - 49 day 22 hr 26 min
+24,175 songs - 49 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10517,6 +10517,7 @@
 | [Imaginary](https://open.spotify.com/track/37XitqFfR3YiWf9x3NCGVz) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Imaginary](https://open.spotify.com/album/5KZHjC5BKfUqunElvrZk4x) | 3:20 | 2024-04-18 | 2024-04-26 |
 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-15 | 2025-08-22 |
 | [Imagine](https://open.spotify.com/track/17wgCTpYHMSBz87L9r7V9M) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Imagine](https://open.spotify.com/album/2h79OZm2NyDExcpdpBxEBU) | 3:08 | 2024-12-12 | 2024-12-20 |
+| [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 | 2026-09-11 |  |
 | [Imitate You](https://open.spotify.com/track/5r7x38aIQtWbdRjX9oP3vb) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Imitate You](https://open.spotify.com/album/5c23dceIOBhxMbcQ36dNt4) | 2:29 | 2023-12-21 | 2024-01-05 |
 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 | 2025-08-15 | 2025-08-22 |
 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-05 | 2022-08-12 |

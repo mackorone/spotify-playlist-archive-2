@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,907 likes - 35 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,913 likes - 35 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 34 | [A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/1G2mAZQL8xfy9wRqC6fY6K) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonathan Morton](https://open.spotify.com/artist/0INqVvAUJG2oohHsZ2vRl2), [London Recording Orchestra](https://open.spotify.com/artist/0Uiss6Wjtadn5gitFaNaVH), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 2:27 |
 | 35 | [Made to Stray \- DJ Koze Remix](https://open.spotify.com/track/2eQog4rHlk8OVhJj2uiEHx) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Reincarnations, Pt\. 2 \- The Remix Chapter 2009 \- 2014](https://open.spotify.com/album/6FnFtxp19taWYbITDtdEfq) | 8:10 |
 
-Snapshot ID: `AAAAAFZ6oHGQcrVGABABWxRzI+SQo6ot`
+Snapshot ID: `AAAAAC3dJbnEun9+CRcfVgSqfWRSWHzi`

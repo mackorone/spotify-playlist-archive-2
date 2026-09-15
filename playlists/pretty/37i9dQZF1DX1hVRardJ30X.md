@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Camilo, Dalex, Ryan Castro, Lenny Tavarez, LAGOS & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,896 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,906 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [PILL](https://open.spotify.com/track/3GjmTKGOgnl2UAG6SeEgXN) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [PILL](https://open.spotify.com/album/6qZDsrm8u5RLmeUAdIZJJP) | 2:34 |
 | 40 | [Crecer](https://open.spotify.com/track/7GR2RzUYQr2ZK2IB67ktaA) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH) | [Crecer](https://open.spotify.com/album/3zhlCNC7vEDx2fSrnrYLKh) | 3:35 |
 
-Snapshot ID: `AAAAANqmdsaUHJ+keR7kJS2lT6y8ixap`
+Snapshot ID: `AAAAAI0QLNWj2cq8zyblmJIlUo068MVz`

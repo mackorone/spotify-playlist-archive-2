@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1069172,
+  "num_followers": 1069142,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIk42dRI9raN5K6ZG4drqBYvfzI6",
+  "snapshot_id": "AAAAAG15AWUedrFI/hnNExDvvIwQOtjn",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:40",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
+        "name": "In The Pines",
+        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 210504,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
+    },
+    {
+      "added_at": "2026-09-11 04:01:40",
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
-    },
-    {
-      "added_at": "2026-09-11 04:01:40",
-      "album": {
-        "name": "In The Pines",
-        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 210504,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+        "name": "Death Rolls Like Thunder",
+        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+      "duration_ms": 223366,
+      "name": "Death Rolls Like Thunder",
+      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Death Rolls Like Thunder",
-        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
       "artists": [
         {
@@ -1252,25 +1252,9 @@
           "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
         }
       ],
-      "duration_ms": 223366,
-      "name": "Death Rolls Like Thunder",
-      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
-    },
-    {
-      "added_at": "2026-09-11 04:01:40",
-      "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1287,6 +1271,22 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-09-11 04:01:40",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-09-11 04:01:40",
-      "album": {
         "name": "Days Of Unrest",
         "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 235560,
       "name": "Can\u2019t Stand Still",
       "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:40",
+      "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Plus One",
-        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Love Like Whiskey",
-      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
-    },
-    {
-      "added_at": "2026-09-11 04:01:40",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-09-11 04:01:40",
+      "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
+      "duration_ms": 288256,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1563,34 +1563,18 @@
     {
       "added_at": "2026-09-11 04:01:40",
       "album": {
-        "name": "Let's Get Loud",
-        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T"
       },
       "artists": [
         {
-          "name": "Zach Person",
-          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 288256,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:40",
-      "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+      "duration_ms": 202080,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK"
     },
     {
       "added_at": "2026-09-11 04:01:40",
@@ -1607,6 +1591,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:40",
+      "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
     },
     {
       "added_at": "2026-09-11 04:01:40",

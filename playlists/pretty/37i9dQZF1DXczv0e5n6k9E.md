@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Sadam
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,552 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,543 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [MYNHMA](https://open.spotify.com/track/50a2ZkZBCGKznLaV28NQ96) | [Megrel](https://open.spotify.com/artist/1K4CMTKtUibci2mZOIqFqx), [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [WANTED IMMIGRANT](https://open.spotify.com/album/2updlWgUc3xAfIqbeLmf2W) | 2:19 |
 | 60 | [Gucci Bag](https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [Gucci Bag](https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu) | 2:16 |
 
-Snapshot ID: `AAAAAB87wEHzhEl3WgMJr960FZ4kDQwX`
+Snapshot ID: `AAAAAGeLSby7EWWjfY0xGbPb+Vi/l8aZ`

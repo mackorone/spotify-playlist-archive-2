@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,183 likes - 80 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,172 likes - 80 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 80 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 
-Snapshot ID: `AAAAAFDvFHxlIOBmnYnVq4/4OhuhICdm`
+Snapshot ID: `AAAAAG8JgwNdA0JsoGfaS9gk81IGx+/j`

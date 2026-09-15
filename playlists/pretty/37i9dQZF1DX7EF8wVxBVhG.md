@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,275 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,559 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 84 | [Oscillations \(Gamma 111Hz \- 75.4Hz\)](https://open.spotify.com/track/6s2Z5i9oeZFgUvyIbGMWK0) | [Healing Signals](https://open.spotify.com/artist/1IBOCrBlxVCkPqAd1iKnVd) | [Oscillations \(Gamma 111Hz \- 75.4Hz\)](https://open.spotify.com/album/2nUSNysRM3FAwvUELSOgZe) | 2:20 |
 | 85 | [Trees Intimacy \(Gamma 90.6 \- 123Hz\)](https://open.spotify.com/track/2SVFlsBxh3mQNTY7TQN9pg) | [Forestalis](https://open.spotify.com/artist/0L6MnBoydHs8aZ3k3JAH3Y) | [Trees Intimacy \(Gamma 90.6 \- 123Hz\)](https://open.spotify.com/album/4P1Q8GZ5baCBq5tRGBsB2t) | 2:09 |
 
-Snapshot ID: `AAAAAL77pzuwdl6DCRCTnJYU7dJpVQgi`
+Snapshot ID: `AAAAAAro0RSgtmay8/OR2CCGibmIpm/S`

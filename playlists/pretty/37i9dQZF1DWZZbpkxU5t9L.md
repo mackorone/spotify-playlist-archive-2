@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: YAO \( Awich, CHICO CARLITO, ONE OK ROCK, Paledusk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,049 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,050 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [黄泉還](https://open.spotify.com/track/6RsBL3A3zAzSTwuddqnSmb) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [黄泉還](https://open.spotify.com/album/3QMAJbRGXpdWjTvtVuPe4H) | 3:52 |
 | 60 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 
-Snapshot ID: `AAAAAL9sGcYxYzJWfuO0Uteb+WpGN7RZ`
+Snapshot ID: `AAAAADoceQn3WkoMhig6rSoYsVpqkHv6`

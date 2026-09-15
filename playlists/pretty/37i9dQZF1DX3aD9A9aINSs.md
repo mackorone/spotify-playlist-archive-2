@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nil Karaibrahimgil
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,043 likes - 66 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,039 likes - 66 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 65 | [Aşk hayatım b\*k gibi](https://open.spotify.com/track/3S2dJ3PJvj2jM9M6kGzmDH) | [doğa lara](https://open.spotify.com/artist/4oYmUrYFzVvCQGtJqonfcP) | [Aşk hayatım b\*k gibi](https://open.spotify.com/album/20bG8nwqgniteWLjXZzADE) | 1:47 |
 | 66 | [Yarım](https://open.spotify.com/track/70GFUvSpdWcGG3ngBQv7HU) | [Alara Naz](https://open.spotify.com/artist/3VIU99FOU2Xn7mVBWRepMV) | [Yarım](https://open.spotify.com/album/35DN8KmNYmZawDvef4FUCr) | 4:18 |
 
-Snapshot ID: `AAAAALge8Y+/8zWAtxvIoutRCKm3p2QG`
+Snapshot ID: `AAAAABoXZYb903M57NpX1ATRF38h0A36`

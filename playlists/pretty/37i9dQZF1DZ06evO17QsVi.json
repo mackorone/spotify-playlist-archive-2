@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1237874,
+  "num_followers": 1237958,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAABGV/GAe8GaiaVYp/nQ3uZy",
+  "snapshot_id": "aqXngAAAAACD1eEd3ZQ2wpvSW2AecCE8",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of War: World War 2",
-        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 307986,
-      "name": "Thug Luv (feat. 2pac)",
-      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 203520,
       "name": "Loyal To The Game",
       "url": "https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of War: World War 2",
+        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Thug Luv (feat. 2pac)",
+      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
     },
     {
       "added_at": null,

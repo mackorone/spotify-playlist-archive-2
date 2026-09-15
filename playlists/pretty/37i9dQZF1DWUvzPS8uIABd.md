@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,872 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,867 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 98 | [Entiseen elämään](https://open.spotify.com/track/0M4OVohVXlUFJDT4PIxlTX) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Entiseen elämään](https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw) | 2:50 |
 | 99 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 |
 
-Snapshot ID: `AAAAANSis5JqtjlWGJjhVCUXUiTtjDxd`
+Snapshot ID: `AAAAAI9s1ZOJfnar4nXWVK0Fl63Lo/YW`

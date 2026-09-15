@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Key Glock, Lil Baby and Quavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,554,712 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,552,792 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
 | 50 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 |
 
-Snapshot ID: `AAAAALm5I5u1K4Nbiu/OrWoSTVxVq2aR`
+Snapshot ID: `AAAAAEVm84ZgoCNDdK2ThfSBV91mKVxw`

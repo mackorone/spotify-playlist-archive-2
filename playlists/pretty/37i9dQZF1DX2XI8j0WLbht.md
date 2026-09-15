@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Ed Maverick en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,613 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,659 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 69 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
 | 70 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 |
 
-Snapshot ID: `AAAAANP8IZpZuYihvO6il7UAChng8Xzc`
+Snapshot ID: `AAAAAA4yRjZKvnDvyFuYPfUGdYp3kOw2`

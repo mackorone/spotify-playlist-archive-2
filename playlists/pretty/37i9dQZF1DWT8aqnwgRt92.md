@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,692 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,639 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [この星でよかった](https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB) | [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [この星でよかった](https://open.spotify.com/album/3ZdBpZh8AFbjew07xq8qd8) | 3:19 |
 | 100 | [magic number](https://open.spotify.com/track/1DkfVO97InBEhVKQsYXnra) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [magic number](https://open.spotify.com/album/0SyV7KC8F9qm47ETNuLyrA) | 3:21 |
 
-Snapshot ID: `AAAAAKRCW+7FHBgqAyxD1uiFQ56WgE7m`
+Snapshot ID: `AAAAADQtyOSm1maCUY9MVb0JkWEfaRMK`

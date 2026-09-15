@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Nine Vicious
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,524 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,447 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 |
 | 100 | [Overly Sure](https://open.spotify.com/track/4cYPJYqTrNHrzzQXoCRtJa) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [The Gainer Way](https://open.spotify.com/album/7aif6ofzWS1FkhABjsuF1J) | 2:40 |
 
-Snapshot ID: `AAAAAFdik4m4ejSep3uTDtLFJQbYMEGB`
+Snapshot ID: `AAAAADVlQ7szI51RzeThodgd8encT6hq`

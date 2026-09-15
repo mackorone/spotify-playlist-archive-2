@@ -2,7 +2,7 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Lony Bway
+> What is your love language? Say it in Swahili\.  Cover: Dayoo
 
 389 songs - 21 hr 45 min
 

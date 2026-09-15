@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Ela Taubert
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,916 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,923 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |
 | 50 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 
-Snapshot ID: `AAAAAEO6vw3aV8o7bFgGcM6MnbSW03Xm`
+Snapshot ID: `AAAAAMUrp4/sH3h/SwmQJW16dlHWtg0n`

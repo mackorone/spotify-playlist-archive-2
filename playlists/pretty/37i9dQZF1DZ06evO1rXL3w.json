@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2691,
+  "num_followers": 2690,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAACa5eOCrfSOMZBVcCXc35oY",
+  "snapshot_id": "aqXngAAAAAAWWe/MAcingUy8pULXYKaU",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 136573,
-      "name": "I Am The Tea",
-      "url": "https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH"
+      "duration_ms": 54119,
+      "name": "Love Or Envy",
+      "url": "https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 54119,
-      "name": "Love Or Envy",
-      "url": "https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ"
+      "duration_ms": 136573,
+      "name": "I Am The Tea",
+      "url": "https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH"
     },
     {
       "added_at": null,

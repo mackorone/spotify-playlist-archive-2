@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Every Lollapalooza a new main pop girl rises
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,187 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,330 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 | 75 | [BANANA SHAKE \(SPED UP\)](https://open.spotify.com/track/6qXGfKR1JHtH18PbT15k6F) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [BANANA SHAKE \(SPED UP\)](https://open.spotify.com/album/1vRxza3P5wbnqfieA27DAn) | 4:39 |
 
-Snapshot ID: `AAAAANdDt5mxxAUfOX5F4+4QoRaen6FM`
+Snapshot ID: `AAAAAIPRxMUdeYOK8shZw/8lP/E7baDI`

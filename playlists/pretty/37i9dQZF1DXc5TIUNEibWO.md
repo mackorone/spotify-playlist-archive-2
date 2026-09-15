@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,329 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,337 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 33 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
 | 34 | [Kɔkɔɔkɔ](https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 4:48 |
 | 35 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
-| 36 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
-| 37 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
+| 36 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
+| 37 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
 | 38 | [Highlife Time](https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 6:15 |
 | 39 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
 | 40 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 73 | [Tena M'enkyɛn](https://open.spotify.com/track/1Wg78lyQpAwXJD4HmsXTLm) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8), [Paulina Oduro](https://open.spotify.com/artist/5czMkb80eV52LDbBsBoUaG) | [Paapa Yankson Classics](https://open.spotify.com/album/5kpW5ly02ny70LsLWsU9l3) | 5:28 |
 | 74 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 75 | [Odo Da Baabi](https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 5:17 |
-| 76 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
-| 77 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
+| 76 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
+| 77 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
 | 78 | [Show Your Love](https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8) | [Show Your Love](https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7) | 6:46 |
 | 79 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 | 80 | [Casanova](https://open.spotify.com/track/636hMHPfzNAfq21sUYnib1) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1) | [Casanova](https://open.spotify.com/album/3z0kDvxeiKXe9Du4K7rXFA) | 5:40 |
 
-Snapshot ID: `AAAAAEg7Bs8A5Tj2x7VooLNEZg5ERoWi`
+Snapshot ID: `AAAAAHb4Chy2vmVpgGmKFaz6gMP/AgvD`

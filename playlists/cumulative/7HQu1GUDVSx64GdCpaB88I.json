@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 211493,
       "name": "Gin And Juice (feat. Dat Nigga Daz)",
       "url": "https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70"
@@ -648,10 +648,28 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 229906,
       "name": "Hypnotize (feat. Pam Long) - 2016 Remaster",
       "url": "https://open.spotify.com/track/4mawtmv2xCPnGsR1oHusH9"
+    },
+    {
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "album": {
@@ -692,6 +710,32 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/7vfvZp6KZJpxiaW6rI9ieM"
+    },
+    {
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Angela Winbush",
+          "url": "https://open.spotify.com/artist/1EIgKOrzyOQRB3l43EfymN"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311533,
+      "name": "I Love The Dough (feat. Jay-Z & Angela Winbush) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2Uvwc7D5rhphlzfBDnpYpU"
     },
     {
       "album": {
@@ -789,6 +833,24 @@
     },
     {
       "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "album": {
         "name": "The Essentials",
         "url": "https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh"
       },
@@ -800,7 +862,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 260306,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3"
@@ -1230,10 +1292,36 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 285453,
       "name": "Only You (feat. The Notorious B.I.G., Ma$e) - Bad Boy Remix",
       "url": "https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Ma$e",
+          "url": "https://open.spotify.com/artist/34t9RzI5oDMZJVmcoUZnJE"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289413,
+      "name": "Only You (feat. The Notorious B.I.G., Ma$e) - Bad Boy Remix",
+      "url": "https://open.spotify.com/track/6zOg9gP62RJSsKFeOBAgvH"
     },
     {
       "album": {
@@ -1530,7 +1618,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 243200,
       "name": "The Choice Is Yours (Revisited)",
       "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Mudra D'Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,455 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,469 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Gundi II](https://open.spotify.com/track/4WElF8GBQ6W5uqVyI9FzWw) | [MIMI KAMPALA](https://open.spotify.com/artist/3wLP8my7yp4jjC4wKvg5kX), [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2) | [Gundi II](https://open.spotify.com/album/2Re4euq9Jhniua0vnf4Sh4) | 2:57 |
 | 60 | [Setting](https://open.spotify.com/track/1KlO3pDb3AS2Vi0SYMIB8L) | [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Setting](https://open.spotify.com/album/4qx633m4zSy8Z6q1BSDbtX) | 2:04 |
 
-Snapshot ID: `AAAAAPkol+LgRkO5u4/Q3GOJWX8wswaa`
+Snapshot ID: `AAAAAK4lSOqZDcrtS+s7CxqoCOxC48MA`

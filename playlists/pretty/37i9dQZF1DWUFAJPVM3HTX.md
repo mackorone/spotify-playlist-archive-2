@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/39ih1P31MkyoZE8lStQbZ3?si=5c12282d57b34e02">Ash Levi</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,822 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,859 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [Not a Love Song](https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Not a Love Song](https://open.spotify.com/album/0YsO6z3DZm5cVdb6biwWdO) | 3:04 |
 | 150 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
 
-Snapshot ID: `AAAAAHABqOREaJTwfnyUUKDXQgf8FQ/p`
+Snapshot ID: `AAAAABS6xHcLEVrnY5/5ACONtGD60MJ5`

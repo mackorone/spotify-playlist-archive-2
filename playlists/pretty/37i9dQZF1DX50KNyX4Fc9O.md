@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jack Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,850 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,832 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Glitter](https://open.spotify.com/track/5Flt4vizfIq7D73YfDZuXu) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glitter](https://open.spotify.com/album/5VPhIbXfPKlW8qlFXDlj5n) | 2:59 |
 | 100 | [You and I](https://open.spotify.com/track/1qLJeRAWb9NG1E0DxZgTqx) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [You and I](https://open.spotify.com/album/1pnXFpWIletaUntF7HmpP2) | 3:26 |
 
-Snapshot ID: `AAAAAOsvQhgO9aRvW/1mT4lQLRdS8W61`
+Snapshot ID: `AAAAAIKRBEptGXz2Msn7MoQY72pVLdx0`

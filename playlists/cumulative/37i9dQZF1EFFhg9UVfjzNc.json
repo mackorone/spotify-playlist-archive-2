@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 422333,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
@@ -2926,6 +2926,28 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "album": {
+        "name": "Tudo Novo | 25 anos - Parte 2: Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pUXoscu8IEaVcgsmky1VY"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617185,
+      "name": "Tudo Novo / Maranata - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf"
     },
     {
       "album": {

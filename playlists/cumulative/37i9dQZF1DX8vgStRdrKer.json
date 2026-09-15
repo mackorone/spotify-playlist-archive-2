@@ -6118,7 +6118,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 490133,
       "name": "Higher - Live",
       "url": "https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV"
@@ -15710,6 +15710,36 @@
       "duration_ms": 375625,
       "name": "UnguThixo Onomusa (Live)",
       "url": "https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi"
+    },
+    {
+      "album": {
+        "name": "Unseen",
+        "url": "https://open.spotify.com/album/01422x7wGqTnEt5epX6G7E"
+      },
+      "artists": [
+        {
+          "name": "Heart of God Church",
+          "url": "https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN"
+        },
+        {
+          "name": "Daniel Goh",
+          "url": "https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Joshua Artono",
+          "url": "https://open.spotify.com/artist/2CsQjrxOjnKlQlJ0zBOyuG"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327989,
+      "name": "Unseen",
+      "url": "https://open.spotify.com/track/7t9P8auS1hqsQWEMT2watl"
     },
     {
       "album": {

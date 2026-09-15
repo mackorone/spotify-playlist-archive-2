@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,552 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,568 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 23 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
 | 24 | [Ocean Dreams](https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh) | [Aquarian Summer](https://open.spotify.com/artist/5MzxA9B0PIgViurDxRhJh0) | [Ocean Dreams](https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E) | 1:53 |
 | 25 | [Static Discos 100](https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Static Discos 100](https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q) | 1:40 |
-| 26 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
-| 27 | [Timeless](https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Cycles](https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD) | 4:51 |
+| 26 | [Timeless](https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Cycles](https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD) | 4:51 |
+| 27 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 28 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
 | 29 | [Nothing Ends 2018](https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Nothing Is Objective](https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu) | 6:26 |
 | 30 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 37 | [Tilting On Windmills](https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Tilting On Windmills](https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg) | 8:18 |
 | 38 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 |
 | 39 | [Velluto](https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 8:42 |
-| 40 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
-| 41 | [Inocybe](https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Fungipedia](https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO) | 4:24 |
-| 42 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
-| 43 | [Into the void](https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 4:48 |
+| 40 | [Inocybe](https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Fungipedia](https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO) | 4:24 |
+| 41 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
+| 42 | [Into the void](https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 4:48 |
+| 43 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
 | 44 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 |
 | 45 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 |
 | 46 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 97 | [Accretion Disk](https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Spheres \(Original Score\)](https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR) | 3:43 |
 | 98 | [Mourning Shadows We Perish](https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 5:44 |
 | 99 | [Emerging from the Depths](https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Lost in Elastic Time](https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh) | 10:38 |
-| 100 | [Chrysanthemum \(Slow\)](https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0) | [Yuuki Matthews](https://open.spotify.com/artist/3ZvTKmYi30W43Fv6GhMsgU) | [Funny Morning](https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ) | 19:37 |
+| 100 | [Return Forever](https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK) | [Innere Tueren](https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y) | [Return Forever](https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT) | 4:41 |
 
-Snapshot ID: `AAAAABSle42W5PI3Cb+xjUdXacg/M0cR`
+Snapshot ID: `AAAAACQZALjb6bzS2gcigWyV8a8YW/hZ`

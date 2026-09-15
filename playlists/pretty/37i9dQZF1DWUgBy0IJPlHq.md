@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Angela Autumn
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,455 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,500 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
 | 100 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
 
-Snapshot ID: `AAAAACaPuWgHx6DWaReWWTjwAJhCl/DR`
+Snapshot ID: `AAAAAASr50KU9bl7pr3yh0MsraaIZWaD`

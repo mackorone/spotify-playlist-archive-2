@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: imase",
-  "num_followers": 65691,
+  "num_followers": 65690,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALX6uaPO0UIXJl8NCXXZMF2yHEBi",
+  "snapshot_id": "AAAAAE/Ze5ZbxWffCrtaTPZVRMeSxeuI",
   "tracks": [
     {
       "added_at": "2026-09-08 17:03:47",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "\u540d\u6b8b\u82b1",
-        "url": "https://open.spotify.com/album/0PjZtQv4wuulggoIDxPwQt"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "\u540d\u6b8b\u82b1",
-      "url": "https://open.spotify.com/track/6lErKN4EysaPnOHi2tIEz3"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "Fiction",
         "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 202258,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "\u540d\u6b8b\u82b1",
+        "url": "https://open.spotify.com/album/0PjZtQv4wuulggoIDxPwQt"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 194625,
+      "name": "\u540d\u6b8b\u82b1",
+      "url": "https://open.spotify.com/track/6lErKN4EysaPnOHi2tIEz3"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "once again",
-        "url": "https://open.spotify.com/album/2dxHjVn1wkpFyZuUnDDCL3"
+        "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/43VFHCMHiaQM6Vk1JTkdtr"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
-      "duration_ms": 178557,
-      "name": "once again",
-      "url": "https://open.spotify.com/track/18y8YQ7aticHws5V2jS5Nc"
+      "duration_ms": 222747,
+      "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u3001\u50d5\u304c\u8003\u3048\u305f\u3053\u3068",
+      "url": "https://open.spotify.com/track/4f0swjS3zCqcaue7MpYyrN"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
+        "name": "once again",
+        "url": "https://open.spotify.com/album/2dxHjVn1wkpFyZuUnDDCL3"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "once again",
+      "url": "https://open.spotify.com/track/18y8YQ7aticHws5V2jS5Nc"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
         "name": "abyss in the world",
         "url": "https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 235173,
       "name": "abyss in the world",
       "url": "https://open.spotify.com/track/7g0px70vi7BKiSyZcBre2Y"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
-        "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/43VFHCMHiaQM6Vk1JTkdtr"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 222747,
-      "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u3001\u50d5\u304c\u8003\u3048\u305f\u3053\u3068",
-      "url": "https://open.spotify.com/track/4f0swjS3zCqcaue7MpYyrN"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "BLACK",
-        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
-      },
-      "artists": [
-        {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
-        }
-      ],
-      "duration_ms": 182993,
-      "name": "BLACK",
-      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "\u672a\u7df4",
         "url": "https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 268166,
       "name": "\u672a\u7df4",
       "url": "https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "\u7537\u306e\u672c\u97f3",
-        "url": "https://open.spotify.com/album/6GOLcmGlgDhinVwzH0cxD2"
-      },
-      "artists": [
-        {
-          "name": "\u6749\u672c\u7422\u5f25",
-          "url": "https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "\u7537\u306e\u672c\u97f3",
-      "url": "https://open.spotify.com/track/3xU6ei0ah6cP8qI2W7Kr7M"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "\u30aa\u30ea\u30fc\u30d6",
         "url": "https://open.spotify.com/album/24KmMEZaA9H6jvjgWAWpMM"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 217660,
       "name": "\u30aa\u30ea\u30fc\u30d6",
       "url": "https://open.spotify.com/track/6BAlwGsVKqrJLoRtnnJgeu"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "\u7537\u306e\u672c\u97f3",
+        "url": "https://open.spotify.com/album/6GOLcmGlgDhinVwzH0cxD2"
+      },
+      "artists": [
+        {
+          "name": "\u6749\u672c\u7422\u5f25",
+          "url": "https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "\u7537\u306e\u672c\u97f3",
+      "url": "https://open.spotify.com/track/3xU6ei0ah6cP8qI2W7Kr7M"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "Circusm",
-        "url": "https://open.spotify.com/album/5L0zXvIwg5I42aB0CiKNmP"
-      },
-      "artists": [
-        {
-          "name": "Fukase",
-          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "twilight",
-      "url": "https://open.spotify.com/track/3UU1EJtx6Sa5OPPGlPuJh0"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "\u9ce5",
         "url": "https://open.spotify.com/album/1MPfuBv4jzqkpsRQzojdH3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 274333,
       "name": "\u9ce5",
       "url": "https://open.spotify.com/track/5rNM0UFvVV5O8sfEPxTb6R"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "Circusm",
+        "url": "https://open.spotify.com/album/5L0zXvIwg5I42aB0CiKNmP"
+      },
+      "artists": [
+        {
+          "name": "Fukase",
+          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/3UU1EJtx6Sa5OPPGlPuJh0"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "SAYONARA PENGUIN",
-        "url": "https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 111096,
-      "name": "SAYONARA PENGUIN",
-      "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "New Walk",
         "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 240398,
       "name": "New Walk",
       "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "SAYONARA PENGUIN",
+        "url": "https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 111096,
+      "name": "SAYONARA PENGUIN",
+      "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 241608,
-      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "\u30ce\u30fc\u30de\u30eb",
         "url": "https://open.spotify.com/album/4WUPtlNVOtxUZBaZWuYjAQ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 268586,
       "name": "\u30ce\u30fc\u30de\u30eb",
       "url": "https://open.spotify.com/track/2t16JXtOvW6Z5agduqqqmI"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 241608,
+      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
     },
     {
       "added_at": "2026-09-08 17:03:47",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "MOMENT",
-        "url": "https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS"
-      },
-      "artists": [
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
-        },
-        {
-          "name": "Keagan Raphael",
-          "url": "https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo"
-        }
-      ],
-      "duration_ms": 220821,
-      "name": "Future Heat feat. Keagan Raphael",
-      "url": "https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "\u30e2\u30ce\u30af\u30ed\u30de\u30f3",
         "url": "https://open.spotify.com/album/207k60g8YnO33umTyaLrb0"
       },
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
+        "name": "MOMENT",
+        "url": "https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        },
+        {
+          "name": "Keagan Raphael",
+          "url": "https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo"
+        }
+      ],
+      "duration_ms": 220821,
+      "name": "Future Heat feat. Keagan Raphael",
+      "url": "https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
         "name": "\u87ba\u65cb\u306e\u8857",
         "url": "https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-09-08 17:03:47",
       "album": {
-        "name": "Loved One",
-        "url": "https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc"
-      },
-      "artists": [
-        {
-          "name": "DEAN FUJIOKA",
-          "url": "https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Loved One",
-      "url": "https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0"
-    },
-    {
-      "added_at": "2026-09-08 17:03:47",
-      "album": {
         "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
         "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 219820,
       "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
       "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
+    },
+    {
+      "added_at": "2026-09-08 17:03:47",
+      "album": {
+        "name": "Loved One",
+        "url": "https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc"
+      },
+      "artists": [
+        {
+          "name": "DEAN FUJIOKA",
+          "url": "https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Loved One",
+      "url": "https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0"
     }
   ],
   "unique_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",

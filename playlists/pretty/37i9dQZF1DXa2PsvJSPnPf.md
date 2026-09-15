@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 ### [Front Porch](https://open.spotify.com/playlist/37i9dQZF1DXa2PsvJSPnPf)
 
-> Sweet sounds and welcoming vibes—come on in and stay for a while
+> Sweet sounds and welcoming vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,482 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,474 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 78 | [Drink The River](https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg) | 3:35 |
 | 79 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
 | 80 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
-| 81 | [Reason To Live](https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Reason To Live](https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby) | 3:15 |
-| 82 | [I'll Go Home From Here](https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Go Home From Here](https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy) | 3:52 |
-| 83 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
-| 84 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 81 | [I'll Go Home From Here](https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Go Home From Here](https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy) | 3:52 |
+| 82 | [Reason To Live](https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Reason To Live](https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby) | 3:15 |
+| 83 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 84 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 85 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 |
 | 86 | [One Of Those Things](https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [One Of Those Things](https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3) | 3:27 |
 | 87 | [The Stone](https://open.spotify.com/track/58lbaLOsFcMKVCzvFZKnJh) | [Paul Greene](https://open.spotify.com/artist/189CwQJhg4MhnnqhdSAnZD) | [Freedom for Your Soul](https://open.spotify.com/album/6az4x5KWY3mQ1PpQWDdC05) | 3:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 98 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 |
 | 99 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 |
 
-Snapshot ID: `AAAAAAaNiKPasWEms9gP8Bf/jD1tKChQ`
+Snapshot ID: `AAAAAG4R/gr5K9jE8LzK7dTeCY3nuC2D`

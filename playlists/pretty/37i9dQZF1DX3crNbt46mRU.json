@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases, including Ikkimel, badm\u00f3mzjay, Monet192, David Guetta, Jazeek, Ryan Castro & many more!\n",
-  "num_followers": 54440,
+  "num_followers": 54439,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWbOgA+Pt6NkWK1P99CsUb3urPY",
+  "snapshot_id": "AAAAAIce2CCvrZd5RMjsstF2SRa4oass",
   "tracks": [
     {
       "added_at": "2026-09-11 11:55:41",
@@ -1351,6 +1351,30 @@
       "duration_ms": 170000,
       "name": "DIFF\u00c9RENT",
       "url": "https://open.spotify.com/track/07bWqH57VKXxT6jbLzalCs"
+    },
+    {
+      "added_at": "2026-09-11 11:55:41",
+      "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
     },
     {
       "added_at": "2026-09-11 11:55:41",

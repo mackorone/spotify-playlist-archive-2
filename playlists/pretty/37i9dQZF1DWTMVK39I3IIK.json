@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOzvqQRHn5il4MRvcrJVz6TOILrP",
+  "snapshot_id": "AAAAAHpm4Ar68ObYa1ivLM1iaqh31ebM",
   "tracks": [
     {
       "added_at": "2026-09-11 10:18:41",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "gao dan dan",
-        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 132696,
-      "name": "nan peng you",
-      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
         "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
         "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 179312,
       "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
       "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -411,22 +427,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 206407,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 394340,
       "name": "Ring, n\u00e5r du har tid",
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 206407,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
+        "name": "Hvis jeg ku'",
+        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Hvis jeg ku'",
+      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "Hvis jeg ku'",
-        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
       },
       "artists": [
         {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Hvis jeg ku'",
-      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -863,22 +879,6 @@
       "duration_ms": 187422,
       "name": "Det sker alt for tit",
       "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
-        "name": "S\u00f8vnl\u00f8s",
-        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
-      },
-      "artists": [
-        {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
-        }
-      ],
-      "duration_ms": 149304,
-      "name": "S\u00f8vnl\u00f8s",
-      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "Walmart",
-        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Walmart",
-      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
         "name": "KOMMER DU HJEM",
         "url": "https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
+        "name": "Walmart",
+        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Walmart",
+      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "Venter Jo Bare",
-        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 200164,
-      "name": "Venter Jo Bare",
-      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
         "name": "S\u00f8mand Af Verden",
         "url": "https://open.spotify.com/album/4WvHCE652kNavAltBeL97h"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 208375,
       "name": "S\u00f8mand Af Verden",
       "url": "https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
     },
     {
       "added_at": "2026-09-11 10:18:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-11 10:18:41",
       "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
-    },
-    {
-      "added_at": "2026-09-11 10:18:41",
-      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
+    },
+    {
+      "added_at": "2026-09-11 10:18:41",
+      "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2026-09-11 10:18:41",

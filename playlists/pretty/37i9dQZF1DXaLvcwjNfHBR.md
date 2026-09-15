@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,381 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,379 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 |
 | 75 | [Anytime, Anywhere, Antoinette](https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Anytime, Anywhere, Antoinette](https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r) | 4:18 |
 
-Snapshot ID: `AAAAAOP/MDgQpwhg+hFe0mK1uZoMzGZy`
+Snapshot ID: `AAAAAOglUAsN1wt2RQx/NyXusrV+IsS2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Melike \u015eahin",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Melek Mosso, No.1",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 231680,
       "name": "Akl\u0131mda Hep Sen (Vera)",
       "url": "https://open.spotify.com/track/0m6qsQqYqPI0mv7X9C5hjO"
@@ -564,6 +564,24 @@
       "duration_ms": 148586,
       "name": "All\u0131 Turnam",
       "url": "https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi"
+    },
+    {
+      "album": {
+        "name": "Al\u0131\u015f\u0131l\u0131r M\u0131 A\u015fka",
+        "url": "https://open.spotify.com/album/4jLEKJNdK6VO0Wjdoq0GY7"
+      },
+      "artists": [
+        {
+          "name": "Sena \u015eener",
+          "url": "https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Al\u0131\u015f\u0131l\u0131r M\u0131 A\u015fka",
+      "url": "https://open.spotify.com/track/7fjvSBdeQlJW3eN0wc1IeQ"
     },
     {
       "album": {
@@ -1867,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "Bedduam Olsun",
+        "url": "https://open.spotify.com/album/1rz5Z4hI21NjtYE7pe34mb"
+      },
+      "artists": [
+        {
+          "name": "Linet",
+          "url": "https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170899,
+      "name": "Bedduam Olsun",
+      "url": "https://open.spotify.com/track/7zOS5X2z0Z0a2FH1EczC67"
+    },
+    {
+      "album": {
         "name": "Bedel",
         "url": "https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF"
       },
@@ -2276,6 +2316,24 @@
       "duration_ms": 188500,
       "name": "Benim \u0130\u00e7in N\u2019apard\u0131n",
       "url": "https://open.spotify.com/track/5iUd5rsxvW9JbdG08a9RkH"
+    },
+    {
+      "album": {
+        "name": "Benim Olsana",
+        "url": "https://open.spotify.com/album/294VZB9TyHpZnhktpxVQtY"
+      },
+      "artists": [
+        {
+          "name": "CRUSH",
+          "url": "https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Benim Olsana",
+      "url": "https://open.spotify.com/track/5PW7h2o6qYWUmwAultwZdf"
     },
     {
       "album": {
@@ -3109,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Bizi \u0130yi Hat\u0131rla",
+        "url": "https://open.spotify.com/album/6MqDgM6Auu5o72L0SGIWkC"
+      },
+      "artists": [
+        {
+          "name": "Perdenin Ard\u0131ndakiler",
+          "url": "https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187305,
+      "name": "Bizi \u0130yi Hat\u0131rla",
+      "url": "https://open.spotify.com/track/2cZMNT67IQMzdcR0CDIYe6"
+    },
+    {
+      "album": {
         "name": "B\u0130R GECE VARDIN",
         "url": "https://open.spotify.com/album/4CWZ8JSxm1QLkXTAqlZYLJ"
       },
@@ -3276,7 +3352,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 208013,
       "name": "Bu Gece",
       "url": "https://open.spotify.com/track/1U80UkkZBzIhUHPeK9IkAL"
@@ -3558,7 +3634,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 182666,
       "name": "Canavarlar",
       "url": "https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy"
@@ -5386,7 +5462,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 175199,
       "name": "Ge\u00e7ecek Sand\u0131m",
       "url": "https://open.spotify.com/track/2x7nxjx5GBZ1oB3IoNa0jm"
@@ -6896,7 +6972,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 175908,
       "name": "\u0130nsafs\u0131z",
       "url": "https://open.spotify.com/track/1P7WHzVwySxV7alzZbNanc"
@@ -9192,7 +9268,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 194318,
       "name": "Nas\u0131l Uyuyorsun - Akustik",
       "url": "https://open.spotify.com/track/7q3PSyal8VnxwkR6Nxhvs2"
@@ -9612,7 +9688,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 267750,
       "name": "O Beni S\u0131rt\u0131mdan Vurdu - Akustik",
       "url": "https://open.spotify.com/track/7FCvpTxPxUFQjCxpUgoOb5"
@@ -9910,6 +9986,24 @@
       "duration_ms": 172154,
       "name": "Olmu\u015fum Leyla",
       "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
+    },
+    {
+      "album": {
+        "name": "Onursuz Ozanlar",
+        "url": "https://open.spotify.com/album/1pQ9HlR8Q2ZNlGcmU8lZD7"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011fba Yurt",
+          "url": "https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Onursuz Ozanlar",
+      "url": "https://open.spotify.com/track/3s06lkT7UGXZR8VO0m36zB"
     },
     {
       "album": {
@@ -10352,7 +10446,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 172891,
       "name": "R\u00fczgar\u0131n K\u0131z\u0131",
       "url": "https://open.spotify.com/track/75u4mXzV41uNScPE3rSesb"
@@ -10480,6 +10574,24 @@
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
+    },
+    {
+      "album": {
+        "name": "Sana 1 \u015eark\u0131",
+        "url": "https://open.spotify.com/album/2TW8bZGccQtMir0nPLnHAR"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221077,
+      "name": "Sana 1 \u015eark\u0131",
+      "url": "https://open.spotify.com/track/2jwCkI6wnicF7JjiA6F2Kh"
     },
     {
       "album": {
@@ -12110,7 +12222,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 164690,
       "name": "Ta Burama",
       "url": "https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ"
@@ -12132,7 +12244,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 271603,
       "name": "Ta Kendisi",
       "url": "https://open.spotify.com/track/2LxTmI0WwugMKFrkAug6OY"
@@ -13679,6 +13791,24 @@
     },
     {
       "album": {
+        "name": "YARAMAZ",
+        "url": "https://open.spotify.com/album/0knYzYewHGHMP43iP3JXch"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115450,
+      "name": "YARAMAZ",
+      "url": "https://open.spotify.com/track/7n0bac0luTXhhkhtrfxL9M"
+    },
+    {
+      "album": {
         "name": "Yaram\u0131zda Kals\u0131n, G\u00fcvercin (Akustik)",
         "url": "https://open.spotify.com/album/0sv1VJZgi1MrDDvSo3pSoh"
       },
@@ -14078,6 +14208,28 @@
       "duration_ms": 197384,
       "name": "Yedek Anahtar\u0131m",
       "url": "https://open.spotify.com/track/3nB1gam8gNpXkZLWkHlXa3"
+    },
+    {
+      "album": {
+        "name": "Yediveren",
+        "url": "https://open.spotify.com/album/34r2E12DeCByExQ7vWFPKn"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        },
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233863,
+      "name": "Yediveren",
+      "url": "https://open.spotify.com/track/2OEalqENC2jUcS227aYabQ"
     },
     {
       "album": {
@@ -14516,6 +14668,24 @@
       "duration_ms": 161071,
       "name": "Yolun Sonu",
       "url": "https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K"
+    },
+    {
+      "album": {
+        "name": "Y\u00fcklerim Otelde (\u2726 simlerimi geceye sa\u00e7t\u0131m \u2726)",
+        "url": "https://open.spotify.com/album/2ncBtgd5DP8hHGd7ztcnaE"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f \u00d6zge\u00e7",
+          "url": "https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209187,
+      "name": "Y\u00fcklerim Otelde (\u2726 simlerimi geceye sa\u00e7t\u0131m \u2726)",
+      "url": "https://open.spotify.com/track/6xsT0GcL9aKrCWnk9vu5Ex"
     },
     {
       "album": {

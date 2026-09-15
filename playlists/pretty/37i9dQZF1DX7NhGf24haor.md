@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: DJ Isaac
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,080 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,134 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Dirty Bassline](https://open.spotify.com/track/3KFAczT5MjQPkZW8mHibML) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Dirty Bassline](https://open.spotify.com/album/1iezA1XBoMgZZkQfbZnmw6) | 2:33 |
 | 100 | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Diss Reaction](https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6) | [Jiiieehaaaa \(Warrior Workout 2026 OST\)](https://open.spotify.com/album/78QmadtrN5axEatsJPecBR) | 2:39 |
 
-Snapshot ID: `AAAAAEo//GKGm0dDnNv3evR5E4dSCaBT`
+Snapshot ID: `AAAAABhDgaQipKPANTrzL5Ln/CcPPSIm`

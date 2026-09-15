@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: &TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,673 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,721 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [AWAKE](https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL) | 2:36 |
 | 80 | [Voyager](https://open.spotify.com/track/4dUpvz6olaLXl3YIV3U6Kn) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [DEAD AND](https://open.spotify.com/album/4ZkG5DPuj47UvzoZ2bAVOU) | 3:54 |
 
-Snapshot ID: `AAAAAGIxQlcGdNNe0TgEPUtl2QwWAqnL`
+Snapshot ID: `AAAAADzlX0U7s1ZtQ1YGwLDb2nCu+R0V`

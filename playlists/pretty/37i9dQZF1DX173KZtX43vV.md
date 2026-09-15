@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,451 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,455 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 48 | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p) | 4:00 |
 | 49 | [Moneygram](https://open.spotify.com/track/63raMnrTzrCKwl2BPZreg8) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Moneygram](https://open.spotify.com/album/0RZrp52ozLtFIWJJtNfXT9) | 2:34 |
 
-Snapshot ID: `AAAAAMJApxnm0hmnky/aB2Gov/Ya5F8R`
+Snapshot ID: `AAAAAPqgYtdxRARLuU3E0lkEAL9ePeIE`

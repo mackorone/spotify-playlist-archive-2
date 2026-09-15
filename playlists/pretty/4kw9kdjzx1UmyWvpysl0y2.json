@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122741,
+  "num_followers": 122733,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVvtnQx5enuMzr2fI4NIy93VYUNuVJ",
+  "snapshot_id": "AAAVv7JuSBJvRbemMYRRzIgtkV6ZSUTK",
   "tracks": [
+    {
+      "added_at": "2026-09-14 14:04:05",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/45RySrc4bC7PzuqSeVLzAi"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "ARCTURA",
+          "url": "https://open.spotify.com/artist/0mBnq6ex1s5r5O1TmJ8oTN"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/50ANz85LHdZuL75bmlInED"
+    },
     {
       "added_at": "2026-09-11 14:20:04",
       "album": {

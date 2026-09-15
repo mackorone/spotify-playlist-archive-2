@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Julia Wieniawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,181 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,214 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [KID](https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KID](https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1) | 3:40 |
 | 65 | [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 |
 
-Snapshot ID: `AAAAAA3A1D+a4Y1AoVsyn94xEgG4kV9O`
+Snapshot ID: `AAAAALyoHWwn8izhZBQVqwJbxhtArkfR`

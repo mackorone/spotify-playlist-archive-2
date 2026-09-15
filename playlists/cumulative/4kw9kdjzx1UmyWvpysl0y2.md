@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,301 songs - 3 day 0 hr 6 min
+1,302 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
 | [Fine Lines](https://open.spotify.com/track/5Qasc8YPxKDGyUtYmdlTTW) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 4:05 | 2022-11-25 | 2023-02-22 |
 | [Fire](https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Elevate](https://open.spotify.com/album/11FB4HqkYVcitO6sD6MjlV) | 3:06 | 2021-12-07 | 2022-03-12 |
+| [Fire](https://open.spotify.com/track/50ANz85LHdZuL75bmlInED) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [ARCTURA](https://open.spotify.com/artist/0mBnq6ex1s5r5O1TmJ8oTN) | [Fire](https://open.spotify.com/album/45RySrc4bC7PzuqSeVLzAi) | 2:55 | 2026-09-14 |  |
 | [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 | 2023-06-02 |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
 | [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 | 2023-06-03 |

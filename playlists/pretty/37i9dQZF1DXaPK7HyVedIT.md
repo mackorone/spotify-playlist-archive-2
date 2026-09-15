@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: GOBAITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,240 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,090 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Flex](https://open.spotify.com/track/1TtkiapicAnn1NxK2aARnp) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Flex/Cardio](https://open.spotify.com/album/3575akg0Xr8XWOz2L83hR2) | 3:24 |
 | 80 | [O DJ Te Convoca](https://open.spotify.com/track/72YWCeiJ2AD7GGX2aAStLr) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD) | [O DJ Te Convoca](https://open.spotify.com/album/5kELhdKyNdX06S5o7fSC7V) | 3:02 |
 
-Snapshot ID: `AAAAAFczFFQxnKu2EXqftHgzglxXVFHL`
+Snapshot ID: `AAAAAOBFcUq9LFqn4IWWIcFe/jcH7XPe`

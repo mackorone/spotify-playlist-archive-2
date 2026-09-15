@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23456,
+  "num_followers": 23460,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJKHHgOCGdHEemn3jPi3FshxWUzk",
+  "snapshot_id": "AAAAAGGgdCxVTszKwAXGdz2OEc1VKJ3b",
   "tracks": [
     {
       "added_at": "2026-09-11 13:10:55",
@@ -863,30 +863,6 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
-      },
-      "artists": [
-        {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
         "name": "BRINDE",
         "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
@@ -903,6 +879,26 @@
       "duration_ms": 176400,
       "name": "BRINDE",
       "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
     },
     {
       "added_at": "2026-09-11 13:10:55",
@@ -927,22 +923,26 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
       "artists": [
         {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
         },
         {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         }
       ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
     },
     {
       "added_at": "2026-09-11 13:10:55",

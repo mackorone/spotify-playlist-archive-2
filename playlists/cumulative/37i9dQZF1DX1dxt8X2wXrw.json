@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -3414,7 +3414,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 227653,
       "name": "On the Level",
       "url": "https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd"
@@ -4758,6 +4758,24 @@
       "duration_ms": 166760,
       "name": "Test It",
       "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
+    },
+    {
+      "album": {
+        "name": "BEDROOM FILES",
+        "url": "https://open.spotify.com/album/47copqhMKAomtaGomasE2b"
+      },
+      "artists": [
+        {
+          "name": "Frank Sativa",
+          "url": "https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104023,
+      "name": "THAT'S MY GIRL",
+      "url": "https://open.spotify.com/track/60CWCjf0g1HxzmzL9dst2v"
     },
     {
       "album": {

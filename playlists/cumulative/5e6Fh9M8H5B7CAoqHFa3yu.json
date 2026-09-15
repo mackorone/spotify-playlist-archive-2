@@ -21433,6 +21433,24 @@
     },
     {
       "album": {
+        "name": "Jimny",
+        "url": "https://open.spotify.com/album/6K5j0nGfbdC3TwrDfWsp8B"
+      },
+      "artists": [
+        {
+          "name": "Mr Borin",
+          "url": "https://open.spotify.com/artist/6vpX2gCs3YdSuVcCuBunW9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197401,
+      "name": "Jimny",
+      "url": "https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G"
+    },
+    {
+      "album": {
         "name": "Christmas In My Heart",
         "url": "https://open.spotify.com/album/7MCvGIvm3bMyx4xnyQMkQH"
       },
@@ -29384,6 +29402,24 @@
       "duration_ms": 382120,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65"
+    },
+    {
+      "album": {
+        "name": "NO OTHER",
+        "url": "https://open.spotify.com/album/0nfXp673v2JUFjO85Dz5AB"
+      },
+      "artists": [
+        {
+          "name": "Lilly North",
+          "url": "https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420674,
+      "name": "NO OTHER",
+      "url": "https://open.spotify.com/track/5G8bWK2iFuuubSZubcIm0P"
     },
     {
       "album": {
@@ -45437,6 +45473,28 @@
     },
     {
       "album": {
+        "name": "We Have Harry Kane",
+        "url": "https://open.spotify.com/album/4foeESK3ga493y8vurna3l"
+      },
+      "artists": [
+        {
+          "name": "NextDoor Mage",
+          "url": "https://open.spotify.com/artist/5cO4cQqabqnH68zkTuv5gd"
+        },
+        {
+          "name": "Luke Bringer",
+          "url": "https://open.spotify.com/artist/45qgSwcEcW4UelBZB3WocF"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112727,
+      "name": "We Have Harry Kane",
+      "url": "https://open.spotify.com/track/6OXbPC5ncz1EstAgav1CbM"
+    },
+    {
+      "album": {
         "name": "We Lived (Radio Edit)",
         "url": "https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3"
       },
@@ -45774,6 +45832,24 @@
       "duration_ms": 190215,
       "name": "When The Tornado Comes",
       "url": "https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV"
+    },
+    {
+      "album": {
+        "name": "MEMORIES",
+        "url": "https://open.spotify.com/album/0Ds2lI1MLphRYZ1yYyaYtb"
+      },
+      "artists": [
+        {
+          "name": "Lilly North",
+          "url": "https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439434,
+      "name": "WHEN YOU'RE WITH ME",
+      "url": "https://open.spotify.com/track/0U4TXxTVQot0Sbl5jpfZpF"
     },
     {
       "album": {
@@ -46854,6 +46930,24 @@
       "duration_ms": 119919,
       "name": "Yoru no Ame - Special Version",
       "url": "https://open.spotify.com/track/7efCQGue3LeWfmTxyLw2fs"
+    },
+    {
+      "album": {
+        "name": "YOU (Remastered)",
+        "url": "https://open.spotify.com/album/4ybcTXiTG88eczVMTOy9cy"
+      },
+      "artists": [
+        {
+          "name": "Lilly North",
+          "url": "https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355533,
+      "name": "YOU (Remastered)",
+      "url": "https://open.spotify.com/track/5BYgkXLcMXEpwKBCZQhxj6"
     },
     {
       "album": {

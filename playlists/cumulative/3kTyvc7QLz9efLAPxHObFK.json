@@ -2932,6 +2932,28 @@
     {
       "album": {
         "name": "Ascension",
+        "url": "https://open.spotify.com/album/6zE8IU8B9qTBzNoAVoolwW"
+      },
+      "artists": [
+        {
+          "name": "Krysis",
+          "url": "https://open.spotify.com/artist/6hABDXl01y3emJbOCigCVG"
+        },
+        {
+          "name": "J-Stranger",
+          "url": "https://open.spotify.com/artist/5mOeIIdBZC9D0A7m1qDl73"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/4yspSVpO5IpEBTsMyDqUde"
+    },
+    {
+      "album": {
+        "name": "Ascension",
         "url": "https://open.spotify.com/album/4Ebm8q3XweFKcE7DZaZcCB"
       },
       "artists": [
@@ -40641,6 +40663,28 @@
     },
     {
       "album": {
+        "name": "Never Say Die Vol. 7",
+        "url": "https://open.spotify.com/album/7537m8jYEmlzaR2pZWjg07"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Phiso",
+          "url": "https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253790,
+      "name": "Nightshade",
+      "url": "https://open.spotify.com/track/57qKJuQZemdr8DVYiDpPqv"
+    },
+    {
+      "album": {
         "name": "Ravekick presents Makina X-Energy, Vol. 2",
         "url": "https://open.spotify.com/album/0WbC7mqKt9D2LETH2I9yEZ"
       },
@@ -48462,6 +48506,28 @@
       "duration_ms": 145500,
       "name": "Rhythm Is a Dancer",
       "url": "https://open.spotify.com/track/1fYbq1RVfyG6vRARAbUYq1"
+    },
+    {
+      "album": {
+        "name": "Rhythm Is My Key",
+        "url": "https://open.spotify.com/album/62LfdzsLsc2wF7CT3evGtB"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        },
+        {
+          "name": "Vortek's",
+          "url": "https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210757,
+      "name": "Rhythm Is My Key",
+      "url": "https://open.spotify.com/track/0wtYlgL4dbZi2417Z9dDS9"
     },
     {
       "album": {

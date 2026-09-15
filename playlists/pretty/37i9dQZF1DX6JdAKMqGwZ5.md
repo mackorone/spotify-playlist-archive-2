@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Cariño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,484 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,482 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [tengo, tengo pero quiero, quiero \(si tú me dices ven\)](https://open.spotify.com/track/0jG5AGUs2zoE1Iawvl50Wy) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [tengo, tengo pero quiero, quiero \(si tú me dices ven\)](https://open.spotify.com/album/07ekPEnRGyOSHLrlbIUGmN) | 2:45 |
 | 120 | [Alucinante](https://open.spotify.com/track/2oZJGQWqNfcfqLvjxlisJR) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Alucinante](https://open.spotify.com/album/1QW4bdzgkOdWLl3BMLakrB) | 3:20 |
 
-Snapshot ID: `AAAAAN8oAY3ghg6pu6sVb0VFuqUli9Bf`
+Snapshot ID: `AAAAAEp/oOKfIhXyY3jmQPmeEpvbBZeI`

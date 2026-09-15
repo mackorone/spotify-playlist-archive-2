@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-1,371 songs - 3 day 10 hr 21 min
+1,373 songs - 3 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-02-26 |  |
 | [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 |  |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2025-02-13 |  |
+| [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 | 2026-09-14 |  |
 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2022-01-19 |  |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-05 | 2024-04-19 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2022-01-19 |  |
@@ -991,6 +992,7 @@
 | [Rennen \- Jim Eno Sessions](https://open.spotify.com/track/5T2dvac8Il9OiQtI9pBkv0) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj) | 3:00 | 2022-07-05 | 2024-04-19 |
 | [Rennen \- Jim Eno Sessions](https://open.spotify.com/track/5V8MrjI3g5QSb51vWXW1W9) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/4fSaNjAg7IHk74gJloiZZL) | 3:00 | 2022-01-19 |  |
 | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/track/2M9fHntL6hK2Sqp4W34DXC) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Replay – Spotify Studio 100 Recording](https://open.spotify.com/album/6tnjHCd5Y5Lp7mtPtiZX3P) | 3:30 | 2025-02-13 |  |
+| [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 | 2026-09-14 |  |
 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 | 2022-01-19 |  |
 | [Ride \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:29 | 2022-01-19 |  |
 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 | 2025-02-13 |  |

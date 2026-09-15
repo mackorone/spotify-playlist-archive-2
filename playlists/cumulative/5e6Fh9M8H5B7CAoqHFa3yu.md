@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,554 songs - 6 day 5 hr 36 min
+2,559 songs - 6 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,6 +1134,7 @@
 | [Jesus I Worship I Worship You](https://open.spotify.com/track/67AIq5mtLr4jBPRLE4lm5M) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [Jesus I Worship I Worship You](https://open.spotify.com/album/2ZFpAGGKruAaXd2MwZh546) | 3:30 | 2025-10-02 |  |
 | [Jeune Africain](https://open.spotify.com/track/3goT0nlNjWMFfVp2CwFce1) | [Chebeen Teriya](https://open.spotify.com/artist/6jZVwySqf3fBefray4BUDa), [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl) | [Ajabro](https://open.spotify.com/album/0hcB4kAVrL5YYtws7hcIjH) | 3:39 | 2024-07-06 |  |
 | [Jeune Africain Dub](https://open.spotify.com/track/4mOsT3Q5YHIit0joaJhVN0) | [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl), [Chebeen Teriya](https://open.spotify.com/artist/6jZVwySqf3fBefray4BUDa) | [Ajabro](https://open.spotify.com/album/0hcB4kAVrL5YYtws7hcIjH) | 3:17 | 2024-07-06 |  |
+| [Jimny](https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G) | [Mr Borin](https://open.spotify.com/artist/6vpX2gCs3YdSuVcCuBunW9) | [Jimny](https://open.spotify.com/album/6K5j0nGfbdC3TwrDfWsp8B) | 3:17 | 2026-09-14 |  |
 | [Jingle Bells's Month](https://open.spotify.com/track/7aKoQCaa0h7eyqkNWtGffI) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Christmas In My Heart](https://open.spotify.com/album/7MCvGIvm3bMyx4xnyQMkQH) | 2:21 | 2025-11-15 |  |
 | [Joakim](https://open.spotify.com/track/5gdwmsCeG3xqES0lZfNwvX) | [Ubaye](https://open.spotify.com/artist/4lJw57BJeFpdkJ0CWegxCy) | [Ani](https://open.spotify.com/album/4RXVWWfxIi6fnVIgC0rRxT) | 3:34 | 2026-08-26 |  |
 | [John](https://open.spotify.com/track/0WBWJpspmMPt80vDKUF2g7) | [Chach'](https://open.spotify.com/artist/5zoGbldAsgbeYrOW4Zt0c2) | [John](https://open.spotify.com/album/5vVjl0OEwbT22s3kdkdRGm) | 2:39 | 2025-06-06 |  |
@@ -1553,6 +1554,7 @@
 | [No more Gunmen Dub \(cut 1\)](https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 3:50 | 2026-09-03 |  |
 | [No No No](https://open.spotify.com/track/4DcJqeEsFI9q31wGoSU9fQ) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [No No No](https://open.spotify.com/album/6BueIXrNmmvd1ShZAxja7m) | 2:42 | 2025-08-06 |  |
 | [No One Like You](https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65) | [Sandi Padilla](https://open.spotify.com/artist/2iSXutDQwaCqQX7xujsUWq) | [The Frequency of Healing](https://open.spotify.com/album/2klgeDpHJWUaO4ractZY05) | 6:22 | 2025-08-12 |  |
+| [NO OTHER](https://open.spotify.com/track/5G8bWK2iFuuubSZubcIm0P) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [NO OTHER](https://open.spotify.com/album/0nfXp673v2JUFjO85Dz5AB) | 7:00 | 2026-09-14 |  |
 | [No Other Dub](https://open.spotify.com/track/1TzsrmvHTedCaLDl1UKS2t) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:32 | 2024-03-25 |  |
 | [No Peace](https://open.spotify.com/track/6j1FRcO0AlBxkoFFqwhnCb) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu), [Pasnbesa](https://open.spotify.com/artist/5Y2bckLQhabsfHtaQ5rHZq) | [No Peace](https://open.spotify.com/album/4he5tNS0pe4NllI3n3sLVB) | 3:57 | 2024-09-21 |  |
 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 | 2026-03-26 |  |
@@ -2404,6 +2406,7 @@
 | [Waves Rollin' Through](https://open.spotify.com/track/2WfKsGWtrpdRMGY9wzmayZ) | [Patty C](https://open.spotify.com/artist/6hIMbinmaxmhlAse2uSiYF) | [Crash On The Beach](https://open.spotify.com/album/2ULldHFk7sPDTNXD0TwTzk) | 4:15 | 2026-05-23 |  |
 | [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 | 2026-02-24 |  |
 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 | 2026-01-04 |  |
+| [We Have Harry Kane](https://open.spotify.com/track/6OXbPC5ncz1EstAgav1CbM) | [NextDoor Mage](https://open.spotify.com/artist/5cO4cQqabqnH68zkTuv5gd), [Luke Bringer](https://open.spotify.com/artist/45qgSwcEcW4UelBZB3WocF) | [We Have Harry Kane](https://open.spotify.com/album/4foeESK3ga493y8vurna3l) | 1:52 | 2026-09-14 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |
 | [We Rize](https://open.spotify.com/track/0UbGz7ghXaSO0eg4qmr30V) | [Caspa Clark](https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [We Rize](https://open.spotify.com/album/0LsxEYjEh8BWZdjNOi0rPk) | 3:59 | 2025-10-07 |  |
 | [We were young in the late afternoon light](https://open.spotify.com/track/3K3YXpbYR8J64ISieik2ED) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [We were young in the late afternoon light](https://open.spotify.com/album/0V41WLKvJPIUthBlXDXCks) | 3:11 | 2026-04-29 |  |
@@ -2422,6 +2425,7 @@
 | [When the Locks Break](https://open.spotify.com/track/3567fY934M6ccN3LEV2k7j) | [Freddie](https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT) | [When the Locks Break](https://open.spotify.com/album/6JFZmJb1QZ23pMn437fFP9) | 3:54 | 2026-05-18 |  |
 | [When The Silence Breaks](https://open.spotify.com/track/6ye1n2cRLhITHu5oI49aon) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [When The Silence Breaks](https://open.spotify.com/album/7z8pnATQNsRzemYcrpoWbD) | 3:38 | 2025-06-21 |  |
 | [When The Tornado Comes](https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV) | [Adam Aronson](https://open.spotify.com/artist/5lrLb0jXN8RE9HMFLtnN9X) | [When The Tornado Comes](https://open.spotify.com/album/7ncobca1PIxSqABQGQEP4Z) | 3:10 | 2026-05-13 |  |
+| [WHEN YOU'RE WITH ME](https://open.spotify.com/track/0U4TXxTVQot0Sbl5jpfZpF) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [MEMORIES](https://open.spotify.com/album/0Ds2lI1MLphRYZ1yYyaYtb) | 7:19 | 2026-09-14 |  |
 | [Where Do I Start](https://open.spotify.com/track/5tlgrgkB96Smw5Ql8kw2jR) | [Rocky Neal](https://open.spotify.com/artist/0MP58FIbi8HPoGK6POckl6) | [Where Do I Start](https://open.spotify.com/album/6IX0njrofQ1mhfVT6ZnRdt) | 1:50 | 2025-10-07 |  |
 | [Where Is the Light](https://open.spotify.com/track/2SgVaHn2fQeU0ZgowXnFOI) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 3:24 | 2024-05-01 |  |
 | [Where Is the Love](https://open.spotify.com/track/0dkn8wqB6SH0m8vE5ldOXQ) | [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF), [Clement Roots](https://open.spotify.com/artist/0QPuRiQEXdhemNxYBSfGhg) | [Where Is the Love](https://open.spotify.com/album/6kDSUFCwsMhHW8OPdX7DPg) | 5:51 | 2024-03-23 |  |
@@ -2480,6 +2484,7 @@
 | [Yo no se](https://open.spotify.com/track/4ByNEf1JCjPkOKdsrPAwLz) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:27 | 2025-07-15 |  |
 | [Yolanda](https://open.spotify.com/track/7fkR2mRrMS234jXuLY3d2z) | [Zara Kuntu](https://open.spotify.com/artist/4f7Ca0yCZ5U94ATo5f7Gdz) | [Yolanda](https://open.spotify.com/album/3bDiKX5nlA6KGIBotmkRUp) | 2:15 | 2025-05-04 |  |
 | [Yoru no Ame \- Special Version](https://open.spotify.com/track/7efCQGue3LeWfmTxyLw2fs) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Yoru no Ame \(Special Version\)](https://open.spotify.com/album/6XnTNNOKweCgeLxEa8XoFw) | 1:59 | 2026-03-23 |  |
+| [YOU \(Remastered\)](https://open.spotify.com/track/5BYgkXLcMXEpwKBCZQhxj6) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU \(Remastered\)](https://open.spotify.com/album/4ybcTXiTG88eczVMTOy9cy) | 5:55 | 2026-09-14 |  |
 | [You and You and I](https://open.spotify.com/track/6JuVpxC5A6TmtMbAmhsPsJ) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Sink/Swim/Fly](https://open.spotify.com/album/2B5t2T1uQoJ3eMv5XH4skF) | 4:20 | 2025-07-12 |  |
 | [You Are Not Alone \(International\)](https://open.spotify.com/track/1sj2aqNHUyrTjEb7Yx2Bib) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [You Are Not Alone \(International\)](https://open.spotify.com/album/6nISCsqelx1ucXFCVc5Wtm) | 3:54 | 2025-05-02 |  |
 | [You Call Me](https://open.spotify.com/track/03BNEWTnyl9okHOWxgLg2v) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [You Call Me](https://open.spotify.com/album/1VXEenNuByH6jO9G09lXDX) | 2:21 | 2025-09-30 |  |

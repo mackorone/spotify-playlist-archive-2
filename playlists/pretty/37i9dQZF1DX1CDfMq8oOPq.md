@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,982 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,991 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 26 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |
 | 27 | [Eu tenho uma FACA o nome dela é RIMA](https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ), [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [BASE: Quem tá são ELAS](https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly) | 6:55 |
 | 28 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
-| 29 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
-| 30 | [MANIFESTO](https://open.spotify.com/track/6ipjYJ0rNu7c1WDmslQvYN) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 4:04 |
+| 29 | [MANIFESTO](https://open.spotify.com/track/6ipjYJ0rNu7c1WDmslQvYN) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 4:04 |
+| 30 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
 | 31 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 32 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 33 | [Milimetricamente](https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH) | [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili) | [Milimetricamente](https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAANtbSREHbTYZLX0BbIdvO3D/OBxH`
+Snapshot ID: `AAAAAIU65Ai8EDSUz09E1PQx2meDyDMU`

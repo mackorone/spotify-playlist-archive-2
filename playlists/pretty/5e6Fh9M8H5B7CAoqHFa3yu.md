@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,623 songs - 6 day 9 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,629 songs - 6 day 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2631,5 +2631,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2621 | [We Wish You a Merry Christmas \- Solo Piano](https://open.spotify.com/track/6Q5CCSQOERg5ju5BizbPUX) | [The Felt Piano](https://open.spotify.com/artist/0slAkI3VpM4E3oKSwb13AZ) | [Cozy Christmas Piano](https://open.spotify.com/album/1wYo3BFXSYxFkhLtamW7aR) | 1:08 |
 | 2622 | [beat x](https://open.spotify.com/track/2EmyaxffjQNyloEKtgUneD) | [yulue](https://open.spotify.com/artist/6gdxJk7ipZHIK1cDt6RoDN) | [Zen Cat](https://open.spotify.com/album/5NcS8qmncYciwBwudBXnWT) | 1:22 |
 | 2623 | [Chillin' on the Beach](https://open.spotify.com/track/1DJf4RFu7mjBm8CwycLWxw) | [ZZZSomnus](https://open.spotify.com/artist/5KW9n7z2wnatM8CwCO7krD) | [Chillin' on the Beach](https://open.spotify.com/album/3X8MNNmIHD6VB9sD5ZyOcf) | 1:10 |
+| 2624 | [Green Forest Ranger](https://open.spotify.com/track/1qrGQgCQ7DetST3eSYvokl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Green Forest Ranger](https://open.spotify.com/album/3ng12qkvyiIiH1GLtc00Ku) | 2:42 |
+| 2625 | [We Have Harry Kane](https://open.spotify.com/track/6OXbPC5ncz1EstAgav1CbM) | [NextDoor Mage](https://open.spotify.com/artist/5cO4cQqabqnH68zkTuv5gd), [Luke Bringer](https://open.spotify.com/artist/45qgSwcEcW4UelBZB3WocF) | [We Have Harry Kane](https://open.spotify.com/album/4foeESK3ga493y8vurna3l) | 1:52 |
+| 2626 | [NO OTHER](https://open.spotify.com/track/5G8bWK2iFuuubSZubcIm0P) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [NO OTHER](https://open.spotify.com/album/0nfXp673v2JUFjO85Dz5AB) | 7:00 |
+| 2627 | [YOU \(Remastered\)](https://open.spotify.com/track/5BYgkXLcMXEpwKBCZQhxj6) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU \(Remastered\)](https://open.spotify.com/album/4ybcTXiTG88eczVMTOy9cy) | 5:55 |
+| 2628 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/0U4TXxTVQot0Sbl5jpfZpF) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [MEMORIES](https://open.spotify.com/album/0Ds2lI1MLphRYZ1yYyaYtb) | 7:19 |
+| 2629 | [Jimny](https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G) | [Mr Borin](https://open.spotify.com/artist/6vpX2gCs3YdSuVcCuBunW9) | [Jimny](https://open.spotify.com/album/6K5j0nGfbdC3TwrDfWsp8B) | 3:17 |
 
-Snapshot ID: `AAALNWHK0oikzR7iMRnq59XBYLhvPVrC`
+Snapshot ID: `AAALO9XAFPEwGBcsoQyJEeTuzFj8YoWp`

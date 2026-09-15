@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Best new African artists to have on your radar
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,117 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,134 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 67 | [Backbencher](https://open.spotify.com/track/040zksag8ezHjbAN6aSAQY) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Backbencher](https://open.spotify.com/album/7lydZgu9oglnh5EDYEbG6z) | 2:53 |
 | 68 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 |
 
-Snapshot ID: `AAAAAFjbVRHQnEQS2BkP1Eq0/QQnvJZC`
+Snapshot ID: `AAAAAJIR+hh/vCtC3qOtrMKRj3cQfv5F`

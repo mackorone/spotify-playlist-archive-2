@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: CClaire 馬愷伶
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,089 likes - 37 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,113 likes - 37 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 36 | [回郵 \(Re:\)](https://open.spotify.com/track/4y1LtJIJGiJYReJJONM4hP) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [回郵 \(Re:\)](https://open.spotify.com/album/64ecbogy9LO3DiTXGgwZrk) | 4:22 |
 | 37 | [序章•漁夫](https://open.spotify.com/track/66s6gNhfiso7c2Ah5IGREJ) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V), [HenrV](https://open.spotify.com/artist/79k6W22oUEOBoquMIvQmh1) | [顏牧](https://open.spotify.com/album/4NdTkm4FlcRjbaAlnknHDF) | 3:34 |
 
-Snapshot ID: `AAAAAJNTVkCFbCVsjenQp1Z8clKdaTZm`
+Snapshot ID: `AAAAANwOWamPfrZb1Y7ngB85aasuTyzZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。FKJ, Ellie Goulding, Tinashe, Stray Kids, 細野晴臣 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,467 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,474 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Alogia](https://open.spotify.com/track/6MM1dTKvqvaaUfoMIFqJ1J) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Alogia](https://open.spotify.com/album/58TF0bXpganBLiPrTz8Xl8) | 3:24 |
 | 75 | [Ark](https://open.spotify.com/track/5qMs7tvw6eH7FffSmSdogR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Ark](https://open.spotify.com/album/241M4y81cqsEXb5xRCHS0B) | 1:03 |
 
-Snapshot ID: `AAAAAGHXdkzuLmKgbKFHezuCEs8pUMOm`
+Snapshot ID: `AAAAAFxOoVfUokd8fJMuRHsZS5ui3AJJ`

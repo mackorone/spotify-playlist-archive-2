@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di 22simba, Marracash e Guè,  Night Skinny,  Silent Bob,  Rico Mendossa con Inoki e tanti altri
 
-7,732 songs - 14 day 4 hr 40 min
+7,733 songs - 14 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1930,7 +1930,7 @@
 | [DAY BY DAY](https://open.spotify.com/track/2u9uRJgp5yxnAeRys7UzLb) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [DAY BY DAY](https://open.spotify.com/album/4BINRNlBhIdi95nbT0mqz0) | 2:48 | 2026-07-02 | 2026-07-25 |
 | [Day One](https://open.spotify.com/track/4GVno2kh1ZnUtp8OGvL2PO) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Day One](https://open.spotify.com/album/2suziCSZLvSFv3d3cpdU2J) | 1:21 | 2023-12-21 | 2024-01-19 |
 | [Daytona \(feat\. Crys\)](https://open.spotify.com/track/0jIAORMemI95srV3Prwpjd) | [JOLLY](https://open.spotify.com/artist/5hmpzUDlmjKEbjZYdxh7D0), [Crys](https://open.spotify.com/artist/3eleGhmhRe6TsOvHUYL7Oi) | [Daytona \(feat\. Crys\)](https://open.spotify.com/album/6hIoqqfusTW7QlrSQZNLNW) | 2:41 | 2025-05-15 | 2025-05-23 |
-| [DBoyz](https://open.spotify.com/track/78BANAfWg5oeFbsxiWsHMX) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [DBoyz](https://open.spotify.com/album/2EQfFGlA80o9y1W3qqQzaP) | 2:37 | 2026-07-30 |  |
+| [DBoyz](https://open.spotify.com/track/78BANAfWg5oeFbsxiWsHMX) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [DBoyz](https://open.spotify.com/album/2EQfFGlA80o9y1W3qqQzaP) | 2:37 | 2026-07-30 | 2026-09-15 |
 | [DDW](https://open.spotify.com/track/3BkXbWGCDnDBGxe1vBsV0j) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [DDW](https://open.spotify.com/album/1SlMUJR6p2ghrU8vrTpH9n) | 2:38 | 2025-07-10 | 2025-08-08 |
 | [DE PUTA MADRE](https://open.spotify.com/track/3NSpveEszoQpPBvMgCkMKg) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DE PUTA MADRE](https://open.spotify.com/album/2YJtwjWTyQbmBNhRV2uQv2) | 2:45 | 2024-01-18 | 2024-02-16 |
 | [DE PUTA MADRE 2](https://open.spotify.com/track/1kJ3mzPpluIXxbR79mBdVI) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DE PUTA MADRE 2](https://open.spotify.com/album/1qJnSVKoceZYnW4aCEcSlY) | 3:00 | 2024-10-03 | 2024-11-01 |
@@ -6622,6 +6622,7 @@
 | [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 | 2022-12-15 | 2023-01-13 |
 | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/track/6SSA409P7m2TMND2saQETo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/album/6Kgys8Kb1UfLjH9l3nGjDg) | 2:21 | 2025-03-06 | 2025-04-04 |
 | [Sport](https://open.spotify.com/track/4rsPWEFVg03jZD8pmPCsD7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Sport](https://open.spotify.com/album/5m58i182dIMwYftIhVcJvf) | 2:12 | 2025-12-05 | 2025-12-31 |
+| [SPORTLIFE](https://open.spotify.com/track/7l2vPfyoq0ssCGCOA8Af50) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [SPORTLIFE](https://open.spotify.com/album/78hhxZVZlrHJV4UxmirBUv) | 3:20 | 2026-09-14 |  |
 | [Spremuta](https://open.spotify.com/track/1dwhGJOOYMwtv6WULbZHWN) | [Kid Baby](https://open.spotify.com/artist/31Uc2EdmuVfsgTXkGDqpxd), [Rural2k](https://open.spotify.com/artist/6mpKwlUWC5LzlMp6UkLDFl) | [Spremuta](https://open.spotify.com/album/5Tk73G4psPhBLJZqDtJz7R) | 2:11 | 2023-03-30 | 2023-04-21 |
 | [Spring Breaker](https://open.spotify.com/track/063sIXbAOj1QS6feDrGnWz) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [The Spring Breaker](https://open.spotify.com/album/5CpEZQlrE4gao4muwNQXO7) | 2:20 | 2026-06-18 | 2026-07-10 |
 | [Springsteen](https://open.spotify.com/track/4YnVZJvjlBtyoKXhyeHzhQ) | [ren](https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI) | [Springsteen](https://open.spotify.com/album/3h8oHYvQxuwjN8DMv4jOeF) | 2:48 | 2026-04-23 | 2026-05-15 |

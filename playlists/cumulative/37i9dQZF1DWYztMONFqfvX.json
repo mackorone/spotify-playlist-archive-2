@@ -2021,6 +2021,36 @@
     },
     {
       "album": {
+        "name": "Jai Jai Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320136,
+      "name": "Jai Jai Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4y1KR84zpSoU0aVOdiAGIT"
+    },
+    {
+      "album": {
         "name": "Dilwale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
@@ -4224,7 +4254,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 225000,
       "name": "Tere Sang (Arijit Singh Reprise) [From \"Echoes Of Us\"]",
       "url": "https://open.spotify.com/track/1QBLCHKxit3hSl1cZjFYiR"

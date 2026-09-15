@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: amelie
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,088 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,061 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Augen sagen anders](https://open.spotify.com/track/583dmgoDGGs2Vj8S86LAFQ) | [LUCE](https://open.spotify.com/artist/6u460PcmxWWYqygFRNQu3w) | [Augen sagen anders](https://open.spotify.com/album/1nUnNActTU4lhGYbND0d59) | 3:58 |
 | 75 | [Tick Tack](https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [Tick Tack](https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG) | 2:22 |
 
-Snapshot ID: `AAAAAMu71H4mt20mjReMCODRoONF+tS2`
+Snapshot ID: `AAAAAH3uLTv89tMjlg9S2jSxkM2FisOD`

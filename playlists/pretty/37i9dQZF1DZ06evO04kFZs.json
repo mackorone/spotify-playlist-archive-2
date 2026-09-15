@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 498534,
+  "num_followers": 498539,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADA74QxrQBOwvTGKJILt+8j",
+  "snapshot_id": "aqXngAAAAACyhrXuPTkxdAgc3nvj3Hxq",
   "tracks": [
     {
       "added_at": null,
@@ -32,17 +32,21 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
+        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/4xVmPboqdKG78mkqZ0sn1m"
+      "duration_ms": 213333,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/5l0uFjA731wPYH8CkR7K1Y"
     },
     {
       "added_at": null,
@@ -100,21 +104,17 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
+        "url": "https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/5l0uFjA731wPYH8CkR7K1Y"
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/4xVmPboqdKG78mkqZ0sn1m"
     },
     {
       "added_at": null,

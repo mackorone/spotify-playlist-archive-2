@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73794,
+  "num_followers": 73792,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpdbKYOnKaGV9+iwZ3FbWvonwjO",
+  "snapshot_id": "AAAAAFpYTAVcujAQshZiizT5nnB3PKDL",
   "tracks": [
     {
       "added_at": "2024-08-05 06:00:58",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
-      },
-      "artists": [
-        {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 244893,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Divinyls",
+        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+      },
+      "artists": [
+        {
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Sound Of White",
         "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 213733,
       "name": "Scar",
       "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
       "artists": [
         {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
         }
       ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
+        "name": "Ivy & The Big Apples",
+        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
       },
       "artists": [
         {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+          "name": "Spiderbait",
+          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+      "duration_ms": 111293,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
-      },
-      "artists": [
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Be The Twilight",
         "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 227694,
       "name": "This Heart Attack",
       "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Innocent Eyes",
+        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Perennial",
-        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
+        "name": "LO LA RU",
+        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
       },
       "artists": [
         {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
         }
       ],
-      "duration_ms": 208146,
-      "name": "Regular Touch",
-      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
+      "duration_ms": 199786,
+      "name": "Never Ever (feat. Sarah)",
+      "url": "https://open.spotify.com/track/0EC0IDtHw47tkwWZ5VMF8r"
     }
   ],
   "unique_name": "Aussie Pop Classics",

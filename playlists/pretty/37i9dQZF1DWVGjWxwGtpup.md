@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : benny blanco, Selena Gomez & Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,019 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,016 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
 | 50 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |
 
-Snapshot ID: `AAAAABdKnrXkNqkbYd87s6dqidzMKUgc`
+Snapshot ID: `AAAAAKHlzpP0DnAWlXSRsXukftE+ghBO`

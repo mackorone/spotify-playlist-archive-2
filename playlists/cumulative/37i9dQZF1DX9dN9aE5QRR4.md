@@ -4,7 +4,7 @@
 
 > La playlist officielle de Nouvelle École\. Saison 5 dispo sur Netflix !
 
-204 songs - 9 hr 28 min
+205 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Impala \- Nouvelle École](https://open.spotify.com/track/0wSoCp7wxgDepwmZrgVCOf) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 4 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/30XbWO5hH3mY4JhP6QZMTx) | 2:48 | 2025-11-07 | 2026-08-27 |
 | [Indélébile \- Nouvelle École](https://open.spotify.com/track/71wjKJBxyH9RhcXcPVCCTk) | [Big D](https://open.spotify.com/artist/6MqaXU6XmxOYEda5HGSBg7), [Base 221](https://open.spotify.com/artist/1HfBe0SGyd0cXWXYhKmMxm), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 5 \| Partie 2 \(Série Netflix\)](https://open.spotify.com/album/3dYkxdOQoeEUrZf0iSLWTT) | 2:50 | 2026-09-02 |  |
 | [Insolent 5](https://open.spotify.com/track/0jzGDllueKRPQwUj6zgJyJ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Insolent 5](https://open.spotify.com/album/02SFZzedym01KxF96MRlzK) | 3:37 | 2025-10-31 | 2026-08-27 |
+| [Jamais rentré \- Nouvelle École x CUPRA](https://open.spotify.com/track/5TwMJ23A96w7M52AtjKRF7) | [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ), [YANAMKO](https://open.spotify.com/artist/3lGxtbddlGCF4KXwzRaPpi), [ANS](https://open.spotify.com/artist/08X9pFugWioR3ffyWORMsd), [Nayte](https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T), [MISCHA](https://open.spotify.com/artist/4jQJP7r2EqusqHqWaJ7KnA), [Typhee](https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH), [Kynn](https://open.spotify.com/artist/5OZiwRkXsFm4IMlCLf5h9G), [Base 221](https://open.spotify.com/artist/1HfBe0SGyd0cXWXYhKmMxm), [OZZY](https://open.spotify.com/artist/2zbCtMABpCQBjjpARTaOuH) | [Jamais rentré \- Nouvelle École x CUPRA](https://open.spotify.com/album/6K34SrMMMXtuw0yPCOVmOx) | 3:30 | 2026-09-15 |  |
 | [Je sais pas faire de Refrains \- Nouvelle École](https://open.spotify.com/track/2nqz8fkqxbWx373LdoxlvR) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 3:39 | 2024-07-18 | 2026-08-27 |
 | [JEUNE MALAGASY](https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [JEUNE MALAGASY](https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID) | 2:15 | 2024-07-04 | 2025-11-01 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-05-31 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,821 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,816 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 31 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
 | 32 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 |
 | 33 | [I Want To Come Home For Christmas](https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:40 |
-| 34 | [This Christmas](https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [This Christmas](https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj) | 3:01 |
-| 35 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
+| 34 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
+| 35 | [This Christmas](https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [This Christmas](https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj) | 3:01 |
 | 36 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 37 | [December 24](https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Ä Suburban Christmas](https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC) | 2:24 |
 | 38 | [Call On Christmas](https://open.spotify.com/track/4uSsKGPbDndA7ADyfacgFl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:56 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 85 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 86 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |
 | 87 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
-| 88 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
-| 89 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
-| 90 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
-| 91 | [Christmas, Love, and You](https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Christmas, Love And You](https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8) | 4:21 |
+| 88 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
+| 89 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
+| 90 | [Christmas, Love, and You](https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Christmas, Love And You](https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8) | 4:21 |
+| 91 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 92 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
 | 93 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
 | 94 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 99 | [Christmastime is here](https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Christmastime is here](https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO) | 5:17 |
 | 100 | [This Christmas \(Could Be The One\)](https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:43 |
 
-Snapshot ID: `AAAAAFsWskzxoFbGLp+6zmeL3rSDsu2Y`
+Snapshot ID: `AAAAANU8ytdT0XEfU62uhn+5owuwmNDt`

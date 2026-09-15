@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Twisted Teens
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,931 likes - 156 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,919 likes - 156 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 155 | [That Can't Be Normal](https://open.spotify.com/track/2joBKSiR7MYxuPOSq90DpG) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [That Can't Be Normal](https://open.spotify.com/album/1YYjPf0PIjom8fL9M8vswg) | 4:00 |
 | 156 | [I Don’t Need Anything from You](https://open.spotify.com/track/3Oozyv8HzJDXkM7wsF1SXl) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Esteban Flores](https://open.spotify.com/album/2FXxV895d9eOptfxtZsidl) | 2:13 |
 
-Snapshot ID: `AAAAAMhV7gsTnPe/QNBwlpn7EsPARDcg`
+Snapshot ID: `AAAAACDHkJyJ/aGXNOb/Q+WqTs07v7RT`

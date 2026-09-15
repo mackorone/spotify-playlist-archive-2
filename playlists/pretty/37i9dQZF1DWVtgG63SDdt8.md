@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Lanell Grant, TuKool Tiff, Tylynn, & Porsha Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,205 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,217 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Somebody's Praying](https://open.spotify.com/track/0M5wvjhQqG8kWc0ZcU2Hxx) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Somebody's Praying](https://open.spotify.com/album/2rnw1LnILnp3s2gChvWRu5) | 3:01 |
 | 99 | [Run The Streets \- Live](https://open.spotify.com/track/0TjlSJEpQH4EuREdhnEjJI) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Run The Streets \(Live\)](https://open.spotify.com/album/4YERLBdRwAIWASFSbvAbHW) | 3:26 |
 
-Snapshot ID: `AAAAAK96pYZZh/ytusNHLb8kg09D9F2P`
+Snapshot ID: `AAAAAE0usXlRqvHF78EBMpqqbFdm4aYH`

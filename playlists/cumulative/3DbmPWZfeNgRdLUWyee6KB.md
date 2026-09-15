@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,494 songs - 3 day 15 hr 6 min
+1,496 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Eyes Like Robin Eggs](https://open.spotify.com/track/5tMGSuQIlHud3aumM4JHwH) | [Harlem Night](https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd) | [Eyes Like Robin Eggs](https://open.spotify.com/album/4Cd2KxHQL6ixCD5tI9vGQp) | 3:07 | 2026-08-21 |  |
 | [Fade \- Remix](https://open.spotify.com/track/376ImRIk78DYFiY03n7s8L) | [GRAMZ NFT](https://open.spotify.com/artist/2W3A0iYZ114bkHssTcl3Cr) | [Blues & Rhythms](https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG) | 2:47 | 2026-04-16 | 2026-05-14 |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 | 2026-04-12 |
+| [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 | 2026-09-14 |  |
 | [Falling Down](https://open.spotify.com/track/70AmInWzDl41V550OVKcCQ) | [Pink Cat Empire](https://open.spotify.com/artist/6VYVR67DEM0pPXs617JuZH) | [Falling Down](https://open.spotify.com/album/5X7dPNRBbHIVcl58vusGGn) | 4:15 | 2026-09-10 |  |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |
 | [Falling In Love \(Pop Version\)](https://open.spotify.com/track/0KaO2d6SjeICD58unNz9dd) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling In Love \(Pop Version\)](https://open.spotify.com/album/5rIGxGR4QNlJF2gtoXR8rW) | 2:04 | 2026-06-30 | 2026-08-10 |
@@ -620,6 +621,7 @@
 | [James](https://open.spotify.com/track/27auLUTUz5zzFjkuffOEAN) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [James](https://open.spotify.com/album/03LbkbBHfZ90TWp9uUXl3R) | 2:25 | 2026-02-25 | 2026-03-25 |
 | [Jamie](https://open.spotify.com/track/2EMUuE86w3SIcmOLNAUm21) | [Lucas Emmanuel](https://open.spotify.com/artist/10Mtm0jM6uJHKLISzaVLqK) | [Jamie](https://open.spotify.com/album/5gmc8C7lR0X5x9yORfSYbv) | 4:42 | 2026-08-18 |  |
 | [Jane E\. \- Piano solo](https://open.spotify.com/track/7BSf8jEEVwaILkwMFgojua) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Jane E\. \(Piano solo\)](https://open.spotify.com/album/1yqNwUK4HmHSRoX3FOgey5) | 2:50 | 2024-04-11 | 2025-12-28 |
+| [Je Fly \- Live Studio](https://open.spotify.com/track/0zRR9U5YpMQP55nT8rsSqb) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Je Fly \(Live Studio\)](https://open.spotify.com/album/3DnKapbdYKAQA6uASP5Boj) | 3:07 | 2026-09-14 |  |
 | [Je suis une femme](https://open.spotify.com/track/2KabSGFaRYzlp6Xbk88eqt) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Je suis une femme](https://open.spotify.com/album/6LUj1exFNYytrCKKkoHEpU) | 3:40 | 2025-12-22 | 2026-01-24 |
 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Liatris](https://open.spotify.com/artist/4RraAVSR8PVm4fdCDoeM8m) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 | 2026-01-18 | 2026-02-20 |
 | [JEANS DE CONTREBANDE](https://open.spotify.com/track/6cDa8GkU1IsZj0A8fSvGjW) | [Franc White](https://open.spotify.com/artist/3xom0dL6ZYUpVSZAnGs9EE) | [JEANS DE CONTREBANDE](https://open.spotify.com/album/04tzyndXtPMjAlJpWMso0h) | 1:45 | 2026-01-26 | 2026-02-28 |

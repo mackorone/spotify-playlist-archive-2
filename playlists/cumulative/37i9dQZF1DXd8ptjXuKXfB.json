@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 270235,
       "name": "Aztakutyamindenit",
       "url": "https://open.spotify.com/track/2GaEyZHR26BL2XWUbQdd2M"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 146666,
       "name": "BOTR\u00c1NY",
       "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
@@ -3251,6 +3251,28 @@
     },
     {
       "album": {
+        "name": "EROTIKA",
+        "url": "https://open.spotify.com/album/766kyUsoDRPoX5EgDi7ZlH"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150035,
+      "name": "EROTIKA",
+      "url": "https://open.spotify.com/track/4LTSF1xHA0nyKS5g4wMkMN"
+    },
+    {
+      "album": {
         "name": "Esk\u00fcsz\u00fcnk",
         "url": "https://open.spotify.com/album/1HYnOeKKNvuQ7c4d0TKUOZ"
       },
@@ -3524,6 +3546,28 @@
       "duration_ms": 149186,
       "name": "FARKASOK",
       "url": "https://open.spotify.com/track/3hKKWN0YAYZlDEJ3Xjd0vS"
+    },
+    {
+      "album": {
+        "name": "FASTLIFE",
+        "url": "https://open.spotify.com/album/1W9kIYPCSuVz5f8O1XgDgO"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "FASTLIFE",
+      "url": "https://open.spotify.com/track/2jgafog6NqWrlSCiPJFouv"
     },
     {
       "album": {
@@ -4172,7 +4216,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 137686,
       "name": "Gipsyland",
       "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
@@ -5742,7 +5786,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 157000,
       "name": "J\u00d3F\u00c9LEEE",
       "url": "https://open.spotify.com/track/0gRuMHFMjr54uMVnQWkbfF"
@@ -8021,6 +8065,24 @@
     },
     {
       "album": {
+        "name": "Ne M\u00e9regess",
+        "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160765,
+      "name": "Ne M\u00e9regess",
+      "url": "https://open.spotify.com/track/6ROGowG1f2Yw7oTtzS9kqE"
+    },
+    {
+      "album": {
         "name": "Ne s\u00edrj\u00e1l \u00e9rtem any\u00e1m",
         "url": "https://open.spotify.com/album/7JmxHAwfDNgGYz2i3i9PvI"
       },
@@ -8384,6 +8446,28 @@
       "duration_ms": 180697,
       "name": "New Police",
       "url": "https://open.spotify.com/track/5iQVAVMIBoSI07oj57YGtd"
+    },
+    {
+      "album": {
+        "name": "NEXT N GO",
+        "url": "https://open.spotify.com/album/1sIWuAvNIdFeKQjrK4GryP"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "NEXT N GO",
+      "url": "https://open.spotify.com/track/7tMZJxocJKGse3klJpJXvD"
     },
     {
       "album": {
@@ -9196,6 +9280,24 @@
       "duration_ms": 209449,
       "name": "plusz egy (+1)",
       "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
+    },
+    {
+      "album": {
+        "name": "pog\u00e1nyindul\u00f3",
+        "url": "https://open.spotify.com/album/1QXnMeqzS2pvlDJ0roLnfb"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "pog\u00e1nyindul\u00f3",
+      "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
     },
     {
       "album": {
@@ -12048,7 +12150,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-15",
       "duration_ms": 202191,
       "name": "T\u00e9nyleg f\u00e1j",
       "url": "https://open.spotify.com/track/4jJjk27uJCZLn307KiE6mO"

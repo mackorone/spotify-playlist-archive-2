@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
-  "num_followers": 89626,
+  "num_followers": 89621,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5zTtm0/FbHmrpUGnDHNd6Am5RR",
+  "snapshot_id": "AAAAAFmR2HFGkQNGuQ8c7zZDuiC5/4pN",
   "tracks": [
     {
       "added_at": "2026-09-11 04:03:06",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "Douze sur douze",
-        "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        },
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 140268,
-      "name": "Signe (avec Statzz)",
-      "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "PIKET",
         "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 207915,
       "name": "PIKET",
       "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "Douze sur douze",
+        "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 140268,
+      "name": "Signe (avec Statzz)",
+      "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -779,22 +779,18 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
-        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
       },
       "artists": [
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
         }
       ],
-      "duration_ms": 245950,
-      "name": "SEPT ANS DE MALHEUR (titre permanent)",
-      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -819,18 +815,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "PRINCE",
-        "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
+        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
+        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
       },
       "artists": [
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
         }
       ],
-      "duration_ms": 167913,
-      "name": "Voyou, D\u00e9sol\u00e9",
-      "url": "https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv"
+      "duration_ms": 245950,
+      "name": "SEPT ANS DE MALHEUR (titre permanent)",
+      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -851,38 +851,34 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+        "name": "PRINCE",
+        "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
       },
       "artists": [
         {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+      "duration_ms": 167913,
+      "name": "Voyou, D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv"
     },
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "Le c\u0153ur \u00e0 la bonne place",
-        "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        },
-        {
-          "name": "Blynk",
-          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
         }
       ],
-      "duration_ms": 212586,
-      "name": "Le c\u0153ur \u00e0 la bonne place",
-      "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -903,18 +899,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+        "name": "Le c\u0153ur \u00e0 la bonne place",
+        "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
       },
       "artists": [
         {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
+      "duration_ms": 212586,
+      "name": "Le c\u0153ur \u00e0 la bonne place",
+      "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1167,6 +1167,42 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "BORA BORA",
+        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "BORA BORA",
+      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "Take the time",
+        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
+      },
+      "artists": [
+        {
+          "name": "Muhoza",
+          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+        },
+        {
+          "name": "Carson",
+          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Take the time",
+      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
       },
@@ -1179,26 +1215,6 @@
       "duration_ms": 160263,
       "name": "Danger",
       "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "Kesspass",
-        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        },
-        {
-          "name": "d\u00f8nnyr2k\u00e9bb",
-          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
-        }
-      ],
-      "duration_ms": 78406,
-      "name": "Kesspass",
-      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1223,22 +1239,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "Take the time",
-        "url": "https://open.spotify.com/album/3n6ECZY66jGVOibm8lm2bQ"
+        "name": "Kesspass",
+        "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
       },
       "artists": [
         {
-          "name": "Muhoza",
-          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
         },
         {
-          "name": "Carson",
-          "url": "https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn"
+          "name": "d\u00f8nnyr2k\u00e9bb",
+          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
         }
       ],
-      "duration_ms": 177562,
-      "name": "Take the time",
-      "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+      "duration_ms": 78406,
+      "name": "Kesspass",
+      "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "BORA BORA",
-        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
       },
       "artists": [
         {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 153000,
-      "name": "BORA BORA",
-      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-09-11 04:03:06",

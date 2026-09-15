@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 557457,
+  "num_followers": 557544,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqSWAAAAAADtkVVysBhyxfQNiYaXpwaV",
+  "snapshot_id": "aqXngAAAAAAYFxar+H1C25Zww86nU7t3",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/74n2zwxeFpTANK5e9z3LsK"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 255076,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1hrfvLgEC9lci0kB89QEQ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 285613,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/74n2zwxeFpTANK5e9z3LsK"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 255076,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1hrfvLgEC9lci0kB89QEQ0"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
+      "duration_ms": 259800,
+      "name": "Warmness On The Soul",
+      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounding The Seventh Trumpet",
-        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 259800,
-      "name": "Warmness On The Soul",
-      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 425264,
       "name": "Not Ready to Die - From \"Call of the Dead\"",
       "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 451160,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 538333,
       "name": "I Won't See You Tonight Part 1",
       "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 451160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STATICA",
-        "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0a5xxgUnr37QoacInvL2Pv"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 138916,
-      "name": "LIGHTS",
-      "url": "https://open.spotify.com/track/28YcWUfBEzk8cKrLmrIJww"
+      "duration_ms": 313918,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0pI6N08wMJoo4aWYEiKGwD"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0a5xxgUnr37QoacInvL2Pv"
+        "name": "STATICA",
+        "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 313918,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/0pI6N08wMJoo4aWYEiKGwD"
+      "duration_ms": 138916,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/28YcWUfBEzk8cKrLmrIJww"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-867 songs - 3 day 3 hr 36 min
+868 songs - 3 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Higher](https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Higher](https://open.spotify.com/album/1KKYyAZaITpEknUADTzAAt) | 2:27 | 2025-11-21 | 2026-01-06 |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 | 2025-02-05 |
 | [Higher](https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Higher](https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc) | 2:38 | 2024-06-14 | 2025-05-30 |
-| [Higher \- Live](https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Higher](https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG) | 8:10 | 2026-07-17 |  |
+| [Higher \- Live](https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Higher](https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG) | 8:10 | 2026-07-17 | 2026-09-15 |
 | [HOLD ME UP](https://open.spotify.com/track/5otqUM66dct6QElsKFmC3D) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [HOLD ME UP](https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90) | 4:48 | 2026-05-29 | 2026-08-01 |
 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 | 2025-02-19 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
@@ -772,6 +772,7 @@
 | [Ungukuphila \- Omit ST Remix](https://open.spotify.com/track/2ioJM3BtY6lWfZYAlKfbCy) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl) | [Ungukuphila \(Omit ST Remix\)](https://open.spotify.com/album/5pMlSTbCV5JrmpYZ3BAPsp) | 6:34 | 2025-07-04 | 2025-09-01 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-11-30 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-11-24 | 2023-12-20 |
+| [Unseen](https://open.spotify.com/track/7t9P8auS1hqsQWEMT2watl) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Joshua Artono](https://open.spotify.com/artist/2CsQjrxOjnKlQlJ0zBOyuG) | [Unseen](https://open.spotify.com/album/01422x7wGqTnEt5epX6G7E) | 5:27 | 2026-09-11 |  |
 | [Unusual \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 6:23 | 2024-03-15 | 2024-06-14 |
 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 | 2026-02-13 | 2026-05-22 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 | 2024-09-27 |
