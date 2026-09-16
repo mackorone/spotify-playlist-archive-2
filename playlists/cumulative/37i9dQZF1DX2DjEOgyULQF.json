@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 146014,
       "name": "Asterism (Sound Bath)",
       "url": "https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4"
@@ -4193,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "In the Shadows of the Forest",
+        "url": "https://open.spotify.com/album/3Klrrd6DHL5hNrMGR8oikZ"
+      },
+      "artists": [
+        {
+          "name": "Toni Ludwig-Grapha\u00fcs",
+          "url": "https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "In the Shadows of the Forest",
+      "url": "https://open.spotify.com/track/3dAvmfSDcltdpjFsI7K6g9"
+    },
+    {
+      "album": {
         "name": "Incandescent",
         "url": "https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg"
       },
@@ -5144,7 +5162,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 168889,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG"
@@ -7916,7 +7934,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 172800,
       "name": "The Breath of Nature",
       "url": "https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo"

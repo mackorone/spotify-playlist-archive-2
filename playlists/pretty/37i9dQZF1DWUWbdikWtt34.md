@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Zahra DA7, Eby
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,006 likes - 107 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,020 likes - 107 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 11 | [Oey](https://open.spotify.com/track/5OFFf5MNEEFhdDPWTrdcwf) | [Afan](https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD) | [Oey](https://open.spotify.com/album/0s1qmw1uBh9Lj7YbQ7TUX9) | 3:19 |
 | 12 | [Cincin Kepalsuan](https://open.spotify.com/track/635cvp7jE8hZXu8F85Ek4f) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cincin Kepalsuan](https://open.spotify.com/album/6Sjtc1kGTX45UfxOxqYZj8) | 5:36 |
 | 13 | [Ay](https://open.spotify.com/track/3F2SABxuCnGm2QvtFYf0yo) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN), [Zahra DA7](https://open.spotify.com/artist/0snMso9CwRUFq0IUQYredt) | [Ay](https://open.spotify.com/album/2EDSNZkY9bmeHholssPObo) | 3:37 |
-| 14 | [Seperti Mati Lampu](https://open.spotify.com/track/42v0kZBM2ZuurbBamHYMlT) | [King nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Seperti Mati Lampu](https://open.spotify.com/album/3rEM45bNPbJbhyc7AGgUcK) | 4:07 |
+| 14 | [Seperti Mati Lampu](https://open.spotify.com/track/42v0kZBM2ZuurbBamHYMlT) | [King Nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Seperti Mati Lampu](https://open.spotify.com/album/3rEM45bNPbJbhyc7AGgUcK) | 4:07 |
 | 15 | [Maunya Apa Sih?](https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY) | [Tommy Ali](https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha) | [Maunya Apa Sih?](https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e) | 3:40 |
 | 16 | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/track/5npmNVwv1aDEUGXh4XQGoo) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [PEPATAH \(Perantau Pantang Menyerah\)](https://open.spotify.com/album/2uveD0xqni46XNiKrQiclW) | 4:05 |
 | 17 | [Apalah Aku](https://open.spotify.com/track/5qNdXG74HaE7jYvzt6qhFU) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Apalah Aku](https://open.spotify.com/album/1UpzxWW3lbHoCRORcA1oxs) | 3:25 |

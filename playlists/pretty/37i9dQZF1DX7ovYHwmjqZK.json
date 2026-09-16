@@ -59,22 +59,18 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Perfei\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
+        "name": "Bossa Nova Covers",
+        "url": "https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Leo Rio Trio",
+          "url": "https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik"
         }
       ],
-      "duration_ms": 250880,
-      "name": "Perfei\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
+      "duration_ms": 165201,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -103,18 +99,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Bossa Nova Covers",
-        "url": "https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX"
+        "name": "Perfei\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
       },
       "artists": [
         {
-          "name": "Leo Rio Trio",
-          "url": "https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 165201,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw"
+      "duration_ms": 250880,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -419,6 +419,26 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Rabiscos",
+        "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
+      },
+      "artists": [
+        {
+          "name": "Projeto Caleidosc\u00f3pio",
+          "url": "https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW"
+        },
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Rabiscos",
+      "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Samba Doce",
         "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 253870,
       "name": "Samba Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Rabiscos",
-        "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
-      },
-      "artists": [
-        {
-          "name": "Projeto Caleidosc\u00f3pio",
-          "url": "https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW"
-        },
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Rabiscos",
-      "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
+      },
+      "artists": [
+        {
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
+        }
+      ],
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -691,42 +707,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Quase Mem\u00f3ria",
         "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 226653,
       "name": "Terra do Nunca",
       "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -815,30 +815,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Bossa nova - Girls from Bela Vista",
-        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
-      },
-      "artists": [
-        {
-          "name": "Petit Comit\u00e9",
-          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
-        },
-        {
-          "name": "Maur\u00edcio Tagliari",
-          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
-        },
-        {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
-        }
-      ],
-      "duration_ms": 264722,
-      "name": "Girls from Bela Vista",
-      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "As Cores das Flores",
         "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 164000,
       "name": "Voa",
       "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Bossa nova - Girls from Bela Vista",
+        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
+      },
+      "artists": [
+        {
+          "name": "Petit Comit\u00e9",
+          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
+        },
+        {
+          "name": "Maur\u00edcio Tagliari",
+          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
+        },
+        {
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
+        }
+      ],
+      "duration_ms": 264722,
+      "name": "Girls from Bela Vista",
+      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Oliveira",
-          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
-        }
-      ],
-      "duration_ms": 238310,
-      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 234973,
       "name": "Samba Dolente",
       "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Oliveira",
+          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+        }
+      ],
+      "duration_ms": 238310,
+      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Terra Papagali Coffee Shop",
-        "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
-      },
-      "artists": [
-        {
-          "name": "Piero Bianchi",
-          "url": "https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy"
-        },
-        {
-          "name": "Ricardo Chacon",
-          "url": "https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Allora Allor",
-      "url": "https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "A paz que desejamos",
         "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 191232,
       "name": "A paz que desejamos",
       "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Terra Papagali Coffee Shop",
+        "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
+      },
+      "artists": [
+        {
+          "name": "Piero Bianchi",
+          "url": "https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy"
+        },
+        {
+          "name": "Ricardo Chacon",
+          "url": "https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Allora Allor",
+      "url": "https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X"
     },
     {
       "added_at": "2026-08-14 03:00:55",

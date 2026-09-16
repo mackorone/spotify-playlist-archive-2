@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 169272,
       "name": "Kiedy jeste\u015b",
       "url": "https://open.spotify.com/track/3oIah1APUdIWNAnfeneenc"
@@ -12456,6 +12456,24 @@
       "duration_ms": 200250,
       "name": "Pozw\u00f3l mi czu\u0107",
       "url": "https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0"
+    },
+    {
+      "album": {
+        "name": "Eskapizm",
+        "url": "https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5"
+      },
+      "artists": [
+        {
+          "name": "oysterboy",
+          "url": "https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213088,
+      "name": "Po\u017cegnanie z Morzem",
+      "url": "https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH"
     },
     {
       "album": {

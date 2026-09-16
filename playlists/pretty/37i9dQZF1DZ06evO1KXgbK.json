@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6698,
+  "num_followers": 6700,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACb4MgOwlIw5s/3CoOszmXa",
+  "snapshot_id": "aqc5AAAAAABsGQ/NmJmTJ6Pc46UQhB55",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Because I'm A Woman",
-        "url": "https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Just Because I'm a Woman",
-      "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 183840,
       "name": "Creepin' In",
       "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Because I'm A Woman",
+        "url": "https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Just Because I'm a Woman",
+      "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 248275,
       "name": "When I Get Where I'm Going (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 311066,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "When Someone Wants to Leave",
-      "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son of Jolene",
         "url": "https://open.spotify.com/album/3VSABVCF9Ltk7mzeghLqUD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189772,
       "name": "Son of Jolene",
       "url": "https://open.spotify.com/track/0Yr2UODsf2rs7RHCuJqisL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "When Someone Wants to Leave",
+      "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwoods Barbie",
-        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 215826,
-      "name": "Better Get to Livin'",
-      "url": "https://open.spotify.com/track/1QG6K2bubjM976fKcZH5ZO"
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     }
   ],
   "unique_name": "This Is Dolly Parton",

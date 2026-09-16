@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Caiden Wallace, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,663 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,676 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 39 | [Road Signs](https://open.spotify.com/track/2ytm4ixV1Zph2OlYfZjS7L) | [Scott Wolverton](https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3) | [Road Signs](https://open.spotify.com/album/6XHt91ltppB1VsTBYqtsaN) | 6:38 |
 | 40 | [Where Does the Time Go?](https://open.spotify.com/track/1pQkb7fVaWqUKob0co9jVa) | [Julie Eddy](https://open.spotify.com/artist/3x7zsjJ0ooO3n1XVOVn1KQ) | [Where Does the Time Go?](https://open.spotify.com/album/60eJlCclVMeXhiLg7weDJi) | 3:26 |
 | 41 | [You Only Call When It's Raining](https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf) | [Lucas Ball](https://open.spotify.com/artist/1XiaAnuGK9mXdVLuJi1Jm3) | [You Only Call When It's Raining](https://open.spotify.com/album/22NDwyw6WvmhibstEFIqTK) | 3:15 |
-| 42 | [FEVER DREAM](https://open.spotify.com/track/5z1r39HsJBaRUxTnjFYQ2X) | [Chloe Wilson](https://open.spotify.com/artist/0RbbfFfJutsx6hxBgziiIH) | [FEVER DREAM](https://open.spotify.com/album/1cPLDn9QslTRXUGzESeVHX) | 3:48 |
+| 42 | [Fever Dream](https://open.spotify.com/track/5z1r39HsJBaRUxTnjFYQ2X) | [Chloe Wilson](https://open.spotify.com/artist/0RbbfFfJutsx6hxBgziiIH) | [Fever Dream](https://open.spotify.com/album/1cPLDn9QslTRXUGzESeVHX) | 3:48 |
 | 43 | [His Name Was John](https://open.spotify.com/track/1R117L3vHVFB243szqaVll) | [Jenna LaMaster](https://open.spotify.com/artist/1oaLEYuxR9MWqthwI6Qm0E) | [His Name Was John](https://open.spotify.com/album/5ijLuAMSj3QlpLcuEJxCwY) | 2:48 |
 | 44 | [Some Version of It](https://open.spotify.com/track/6iCbLjtyNNw8FOtRInlk5w) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Some Version of It](https://open.spotify.com/album/3lghlHFcnFtyq6povbIGNA) | 2:43 |
 | 45 | [If You Don't](https://open.spotify.com/track/5S1yABkY9HCkFULSbdQgB5) | [Brandon Jane](https://open.spotify.com/artist/5fNoqg6dLhthBhoEC9SMkZ), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Making Peace](https://open.spotify.com/album/15Q6TLcPreZ1KAZHb20zBT) | 3:10 |

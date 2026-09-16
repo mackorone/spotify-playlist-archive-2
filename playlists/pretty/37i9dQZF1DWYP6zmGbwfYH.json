@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Acept\u00e9moslo! Esa camiseta ya apesta y tienes poco tiempo para que se seque. ",
-  "num_followers": 403842,
+  "num_followers": 403917,
   "original_name": "Canciones para lavar la camiseta",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-07-02 17:59:45",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
-    },
-    {
-      "added_at": "2026-07-02 17:59:45",
-      "album": {
         "name": "Y Seguimos Con Duranguense",
         "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 166426,
       "name": "Si La Quieres",
       "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
+    },
+    {
+      "added_at": "2026-07-02 17:59:45",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2026-07-02 17:59:45",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-02 17:59:45",
       "album": {
-        "name": "En Tiempo de Amor",
-        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292773,
-      "name": "Te Va a Doler",
-      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
-    },
-    {
-      "added_at": "2026-07-02 17:59:45",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2026-07-02 17:59:45",
+      "album": {
+        "name": "En Tiempo de Amor",
+        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292773,
+      "name": "Te Va a Doler",
+      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
     },
     {
       "added_at": "2026-07-02 17:59:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-02 17:59:45",
       "album": {
-        "name": "Sonido La Conga \u201cForever\u201d",
-        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
-      },
-      "artists": [
-        {
-          "name": "Organazacion Bohio",
-          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Embrujo De Cumbia",
-      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
-    },
-    {
-      "added_at": "2026-07-02 17:59:45",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 157115,
       "name": "Cumbia de la Cadenita",
       "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
+    },
+    {
+      "added_at": "2026-07-02 17:59:45",
+      "album": {
+        "name": "Sonido La Conga \u201cForever\u201d",
+        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+      },
+      "artists": [
+        {
+          "name": "Organazacion Bohio",
+          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Embrujo De Cumbia",
+      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
     },
     {
       "added_at": "2026-07-02 17:59:45",

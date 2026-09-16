@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALO9XAFPEwGBcsoQyJEeTuzFj8YoWp",
+  "snapshot_id": "AAALPWoiJVL/gbF4AJ0keZ8AenZEqyV7",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -44595,6 +44595,38 @@
       "duration_ms": 197401,
       "name": "Jimny",
       "url": "https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G"
+    },
+    {
+      "added_at": "2026-09-15 10:53:48",
+      "album": {
+        "name": "Pizza Hawaii",
+        "url": "https://open.spotify.com/album/3OUpMXtVuSP3aBMSuG8aD1"
+      },
+      "artists": [
+        {
+          "name": "Lunamber",
+          "url": "https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1"
+        }
+      ],
+      "duration_ms": 145805,
+      "name": "Pizza Hawaii",
+      "url": "https://open.spotify.com/track/272AUltPkXuMvr07NRPNL5"
+    },
+    {
+      "added_at": "2026-09-15 21:20:02",
+      "album": {
+        "name": "I Eat Baked Beans Every Day",
+        "url": "https://open.spotify.com/album/0h7JzaxgIB59ve9NFPodOr"
+      },
+      "artists": [
+        {
+          "name": "The Junkoactive Wasteman",
+          "url": "https://open.spotify.com/artist/6j91xLGH7YJWvsUByNtJAt"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "I Eat Baked Beans Every Day",
+      "url": "https://open.spotify.com/track/2S3thDXoqumTQoq85ZgCEr"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

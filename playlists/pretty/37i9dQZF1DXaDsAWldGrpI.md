@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,382 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,383 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 43 | [Ours \- Live/2011](https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:05 |
 | 44 | [On the Road Again \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:36 |
 | 45 | [You'll Think Of Me \- Live](https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [You'll Think Of Me \(Live\)](https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay) | 3:58 |
-| 46 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 |
-| 47 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
+| 46 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 |
+| 47 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 |
 | 48 | [Sounds Like the Radio \- Live](https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio \(Live\)](https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD) | 3:34 |
 | 49 | [A Boy Named Sue \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 4:22 |
 | 50 | [Rockstar \(with Bailey Zimmerman\) \- Live From Nashville](https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Live From Nashville](https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF) | 4:41 |

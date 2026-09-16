@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 86789,
+  "num_followers": 86824,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAD5ixCyze7RBWYcgvfurYJu",
+  "snapshot_id": "aqc5AAAAAACHIexg105R01o902r8GJHr",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "You",
-      "url": "https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 169013,
       "name": "21st Century (Digital Boy)",
       "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 126520,
+      "name": "You",
+      "url": "https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "I Want to Conquer the World",
-      "url": "https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gray Race",
         "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 147173,
       "name": "Punk Rock Song",
       "url": "https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "I Want to Conquer the World",
+      "url": "https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Recipe For Hate",
-      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 133986,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Recipe For Hate",
+      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
-        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "We're Only Gonna Die",
-      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 115826,
       "name": "True North",
       "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 132866,
+      "name": "We're Only Gonna Die",
+      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95697,
-      "name": "1000 More Fools",
-      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 227506,
       "name": "Struck A Nerve",
       "url": "https://open.spotify.com/track/7KxBCQf83H3G7EwrIRU2gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95697,
+      "name": "1000 More Fools",
+      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
     },
     {
       "added_at": null,

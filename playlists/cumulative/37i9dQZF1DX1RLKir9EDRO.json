@@ -3002,6 +3002,24 @@
     {
       "album": {
         "name": "Benim Ol",
+        "url": "https://open.spotify.com/album/7uO1IhmvXUtWGnGg3gkxJ9"
+      },
+      "artists": [
+        {
+          "name": "Kalabal\u0131klar",
+          "url": "https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Benim Ol",
+      "url": "https://open.spotify.com/track/7G7lOeWRvfvlrXItorEv0P"
+    },
+    {
+      "album": {
+        "name": "Benim Ol",
         "url": "https://open.spotify.com/album/23lazW5hQ0S4wBKRO7CnsB"
       },
       "artists": [
@@ -5090,7 +5108,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 153382,
       "name": "Can\u0131m\u0131 Yak\u0131yor",
       "url": "https://open.spotify.com/track/0c7nChSeJHt6G6Ov7wkEGQ"
@@ -7230,6 +7248,24 @@
       "duration_ms": 226000,
       "name": "eskisi gibi de\u011filim",
       "url": "https://open.spotify.com/track/574keWO49U0va84EnMlx0j"
+    },
+    {
+      "album": {
+        "name": "Etik De\u011fil",
+        "url": "https://open.spotify.com/album/0brl0fT7vTO4yLqCKuDaQY"
+      },
+      "artists": [
+        {
+          "name": "Ilg\u0131n S\u0131la",
+          "url": "https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195605,
+      "name": "Etik De\u011fil",
+      "url": "https://open.spotify.com/track/5ttDuUg4iMHwlBmIdnP580"
     },
     {
       "album": {
@@ -11556,7 +11592,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 149142,
       "name": "kal koltukta",
       "url": "https://open.spotify.com/track/6vxeZBkIiAMG6eZTLHkQlh"
@@ -12406,7 +12442,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 192803,
       "name": "Ka\u00e7san Gitsen",
       "url": "https://open.spotify.com/track/0c7SlSDJwLh5P542TBS5cK"
@@ -12986,7 +13022,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 194634,
       "name": "Kirac\u0131",
       "url": "https://open.spotify.com/track/7DXyfVhx17Q0YBVOoGDV7R"
@@ -16777,6 +16813,24 @@
     },
     {
       "album": {
+        "name": "sadece durmak istiyorum.",
+        "url": "https://open.spotify.com/album/6ursJMLJnc7qMRrOHrcxRd"
+      },
+      "artists": [
+        {
+          "name": "Deniz Mert",
+          "url": "https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "sadece durmak istiyorum.",
+      "url": "https://open.spotify.com/track/2TUnIQKwrAD7MJNzY5JYxv"
+    },
+    {
+      "album": {
         "name": "YUNOTIZM",
         "url": "https://open.spotify.com/album/5noYGtoPiDQMgpGGNQ7c6x"
       },
@@ -18259,6 +18313,24 @@
     },
     {
       "album": {
+        "name": "Sevda Bul Beni",
+        "url": "https://open.spotify.com/album/1kbZxcbEGvRW83yulQXyW5"
+      },
+      "artists": [
+        {
+          "name": "Ali Yi\u011fit",
+          "url": "https://open.spotify.com/artist/51mA28CsIoIqpqEHHBq9gN"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Sevda Bul Beni",
+      "url": "https://open.spotify.com/track/1whaNr8Ei9KxqIMz1XKcfZ"
+    },
+    {
+      "album": {
         "name": "sevemedin san\u0131r\u0131m",
         "url": "https://open.spotify.com/album/2U0UGaXbjbVWrrn8BK1x4b"
       },
@@ -19114,7 +19186,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 174522,
       "name": "S\u00f6yle Bana",
       "url": "https://open.spotify.com/track/3KTrVGwzLc2w6xytuUMDcA"
@@ -20366,6 +20438,24 @@
       "duration_ms": 147529,
       "name": "Uzaklar",
       "url": "https://open.spotify.com/track/5d71xQp4kcfMHNmgWOqDu6"
+    },
+    {
+      "album": {
+        "name": "Uzaklarda",
+        "url": "https://open.spotify.com/album/3eVDk5hzbdshGqnednQDA8"
+      },
+      "artists": [
+        {
+          "name": "Rana Kara",
+          "url": "https://open.spotify.com/artist/4ggsAoogpxB4pm6TgiZp3e"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142447,
+      "name": "Uzaklarda",
+      "url": "https://open.spotify.com/track/3o82PFA2Dqo1O9KZemGkfJ"
     },
     {
       "album": {

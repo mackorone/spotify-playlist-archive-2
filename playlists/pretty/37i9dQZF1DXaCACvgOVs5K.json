@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 912056,
+  "num_followers": 912155,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Unique Moment",
         "url": "https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 180000,
       "name": "Unique Moment",
       "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -927,8 +927,8 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "We Not Tired",
-        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
       },
       "artists": [
         {
@@ -1036,25 +1036,9 @@
           "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 172921,
-      "name": "We Not Tired",
-      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Love\u2019s Theme",
-        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "Love\u2019s Theme",
-      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1071,6 +1055,22 @@
       "duration_ms": 244918,
       "name": "Te Doy La Libertad",
       "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+        "name": "Feel This Grip (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
       },
       "artists": [
         {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         },
         {
-          "name": "Ellia Jaya",
-          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Dream or Fantasy",
-      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
+      "duration_ms": 193846,
+      "name": "Feel This Grip (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Tell Me (feat. Pollena)",
-        "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
         },
         {
-          "name": "Pollena",
-          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
         }
       ],
-      "duration_ms": 212417,
-      "name": "Tell Me (feat. Pollena)",
-      "url": "https://open.spotify.com/track/1EtcVqPyMdcT9EhSeXxaqJ"
+      "duration_ms": 194198,
+      "name": "Dream or Fantasy",
+      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+        "name": "Tell Me (feat. Pollena)",
+        "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         },
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
         }
       ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+      "duration_ms": 212417,
+      "name": "Tell Me (feat. Pollena)",
+      "url": "https://open.spotify.com/track/1EtcVqPyMdcT9EhSeXxaqJ"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Feel This Grip (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
         },
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Feel This Grip (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Lets Get High",
+        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "Lets Get High",
+      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Watch Out Now",
         "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Lets Get High",
-        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "Lets Get High",
-      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "Too Bright",
+      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Too Bright",
-        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        },
-        {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "Too Bright",
-      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Wow - Edit",
-      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 213809,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Wow - Edit",
+      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Work Your Body",
         "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 186776,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "And When Love Speaks",
         "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
       },
@@ -1675,6 +1659,38 @@
       "duration_ms": 212177,
       "name": "And When Love Speaks",
       "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "The Montana Girl",
         "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 221538,
       "name": "The Montana Girl",
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-09-14 18:38:46",

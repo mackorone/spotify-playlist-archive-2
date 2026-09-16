@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,368 songs - 3 day 9 hr 21 min
+1,369 songs - 3 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [Lifeline](https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Lifeline](https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz) | 3:49 | 2026-01-23 | 2026-06-24 |
 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 | 2022-09-23 | 2023-05-20 |
 | [Lifeline \- Fisherman Remix](https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Lifeline \(Fisherman Remix\)](https://open.spotify.com/album/3RcHIST3XzCyqc5wOTxmPZ) | 3:34 | 2023-05-19 | 2023-11-11 |
-| [Lifting Me Higher](https://open.spotify.com/track/3BFzuTPJyikZnd5vauGkfu) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [Lifting Me Higher](https://open.spotify.com/album/4JSU4ebFMyXzzjNCgaqSdF) | 3:12 | 2026-07-16 |  |
+| [Lifting Me Higher](https://open.spotify.com/track/3BFzuTPJyikZnd5vauGkfu) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [Lifting Me Higher](https://open.spotify.com/album/4JSU4ebFMyXzzjNCgaqSdF) | 3:12 | 2026-07-16 | 2026-09-16 |
 | [Light & Shade](https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [re:boot](https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT) | [Fatum's Anjunabeats Worldwide 10 Collaborations EP](https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398) | 2:58 | 2022-07-29 | 2023-05-20 |
 | [Light In The Sky](https://open.spotify.com/track/2dNUiG7dynCHnHwKyg0YT9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Lauren Ray](https://open.spotify.com/artist/1X7h3UZ29XSP2XMoDT8WiA) | [Light In The Sky](https://open.spotify.com/album/7KyKMpRYJGr2AGWHKI47NI) | 3:32 | 2024-11-15 | 2025-09-27 |
 | [Light Up The Sky](https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Light Up the Sky](https://open.spotify.com/album/08dpmlrmw3XRon9u81knVM) | 2:31 | 2023-06-09 | 2024-01-06 |
@@ -1238,6 +1238,7 @@
 | [Toca's Miracle](https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle](https://open.spotify.com/album/19SdYXhuWPBITA4lILSj85) | 2:25 | 2024-12-06 |  |
 | [Today](https://open.spotify.com/track/79UxTfv0TRgly553eiphBt) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Today](https://open.spotify.com/album/3iCgYS2lyCQI71zlvQrgOJ) | 3:35 | 2023-03-10 | 2023-05-20 |
 | [Together](https://open.spotify.com/track/6CxxV9JSweebzhfQv6oqIe) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ), [Hal Stucker](https://open.spotify.com/artist/01HjiueGdSdynpvQiBsJ04) | [Together](https://open.spotify.com/album/7FgoElKaznGpdkB4klnBoD) | 3:32 | 2024-10-25 | 2025-09-27 |
+| [Together Again](https://open.spotify.com/track/5NdAS3uU4Au2fKejVFQfKk) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Together Again](https://open.spotify.com/album/3BSSmswBzNUAZTo9zZGauN) | 3:46 | 2026-09-10 |  |
 | [Together Forever](https://open.spotify.com/track/5kgPGFORn3jYjQXmvJzJ58) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [ThoBa](https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd) | [Together Forever](https://open.spotify.com/album/32PNO3ivzTh9bQK2roHY6Q) | 4:04 | 2024-05-03 | 2025-01-11 |
 | [Together We Rise](https://open.spotify.com/track/2Rqh32KeH2fB7RaKmXcVWL) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Together We Rise](https://open.spotify.com/album/78ib4pW80u75tuZBLCiQ17) | 3:22 | 2023-01-20 | 2023-11-16 |
 | [Torture](https://open.spotify.com/track/0nozR3GQJtFFjbEXQ1hGvy) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Torture](https://open.spotify.com/album/5QY3N522X0F33GXdGnMAoo) | 3:11 | 2022-04-08 | 2023-04-09 |

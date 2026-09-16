@@ -594,7 +594,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 142262,
       "name": "Frozen Torches",
       "url": "https://open.spotify.com/track/3tKJHTmNOupeV9bLy7Rngj"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Home, Los Angeles",
       "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 96100,
       "name": "preston ave",
       "url": "https://open.spotify.com/track/1O5njSbFQgwnsPpKqJ8UoL"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 167112,
       "name": "The Lighter",
       "url": "https://open.spotify.com/track/63xBi9Nng7SHubBf76ePjt"

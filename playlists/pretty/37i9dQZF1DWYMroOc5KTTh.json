@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 766077,
+  "num_followers": 766233,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Fara",
-        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182472,
-      "name": "Fara",
-      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
-    },
-    {
-      "added_at": "2026-09-11 08:02:27",
-      "album": {
         "name": "mr useless",
         "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-09-11 08:02:27",
       "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
+    },
+    {
+      "added_at": "2026-09-11 08:02:27",
+      "album": {
         "name": "Feelings Gone (feat. London Grammar)",
         "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-09-11 08:02:27",
       "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+        "name": "Fara",
+        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
+      "duration_ms": 182472,
+      "name": "Fara",
+      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
     }
   ],
   "unique_name": "Serotonin",

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-518 songs - 1 day 0 hr 28 min
+519 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2023-04-28 | 2024-08-24 |
 | [Aside](https://open.spotify.com/track/6oTfgFuWCMeSjVg6NV3s57) | [Van Monet](https://open.spotify.com/artist/7IB7yudcC4sArV1CWKpAiN) | [Aside](https://open.spotify.com/album/3MdhvRxenamLitlIhDVbSc) | 2:26 | 2026-08-19 |  |
 | [Assuaging](https://open.spotify.com/track/3SZDTQZNPO4Si4I61uR6bf) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Assuaging](https://open.spotify.com/album/5v1CdiroByl73eejx7hZlM) | 2:32 | 2026-01-28 |  |
-| [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 |  |
+| [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 | 2026-09-16 |
 | [Astrae In The Park](https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Astrae In The Park](https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy) | 3:05 | 2023-11-10 | 2025-12-26 |
 | [Astral Awakening](https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Astral Awakening](https://open.spotify.com/album/3qTdu32OsL4QwnfhJ6mP1I) | 2:46 | 2025-06-17 | 2026-03-26 |
 | [At Peace](https://open.spotify.com/track/19oPBpvNjztSjlhYpXqqwy) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [At Peace](https://open.spotify.com/album/3248pHS5hOWWi8XBxUyaIy) | 2:26 | 2025-10-15 | 2026-07-11 |
@@ -240,6 +240,7 @@
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 | 2025-05-22 |
 | [imperia](https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [imperia](https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb) | 2:42 | 2025-10-15 | 2025-12-18 |
 | [In Bloom](https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [In Bloom](https://open.spotify.com/album/7ntnH8GlYuOQRGH21fWKUg) | 2:45 | 2026-02-23 | 2026-04-04 |
+| [In the Shadows of the Forest](https://open.spotify.com/track/3dAvmfSDcltdpjFsI7K6g9) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [In the Shadows of the Forest](https://open.spotify.com/album/3Klrrd6DHL5hNrMGR8oikZ) | 2:56 | 2026-08-19 |  |
 | [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 | 2026-08-20 |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2026-02-26 |
@@ -292,7 +293,7 @@
 | [Mistember](https://open.spotify.com/track/6HcbLaRb6QtOe9E2MLTkXy) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Mistember](https://open.spotify.com/album/7GA20NRg7lToIYZN6Zq8qp) | 3:10 | 2025-03-19 | 2026-08-12 |
 | [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 | 2026-04-04 |
 | [Mitra´s Morning](https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Mitra´s Morning](https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y) | 2:35 | 2023-10-06 | 2025-12-18 |
-| [Morning Birds](https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG) | [Ørlund](https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y) | [Morning Birds](https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV) | 2:48 | 2026-07-03 | 2026-08-26 |
+| [Morning Birds](https://open.spotify.com/track/4MBvcwYaIfUY3Hf662LtzG) | [Ørlund](https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y) | [Morning Birds](https://open.spotify.com/album/1sxlE0lCbIN8n7ssEcgvZV) | 2:48 | 2026-07-03 |  |
 | [Morning Flourish](https://open.spotify.com/track/682ajrmPSRg9h9iAnT1Y3X) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Morning Flourish](https://open.spotify.com/album/5xCELqjiM5ClyW12ggx7Qz) | 2:40 | 2025-03-19 | 2026-04-04 |
 | [Morning Serenity](https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Morning Serenity](https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC) | 2:22 | 2026-02-23 | 2026-04-04 |
 | [Morning Song Of The Forest](https://open.spotify.com/track/1hJuOC8J64RPYKxhX9374D) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [Morning Song Of The Forest](https://open.spotify.com/album/7H02S49UW6E3BosVybXlEj) | 2:09 | 2026-06-26 |  |
@@ -446,7 +447,7 @@
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 | 2024-08-24 |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 | 2025-05-22 |
 | [The Body Softens](https://open.spotify.com/track/1G0KYHvwfoumBGOkK168SS) | [Quiet Draft](https://open.spotify.com/artist/6Qsq7Ue7mRKBWacCbRlXuO) | [The Body Softens](https://open.spotify.com/album/41Edg0QgS42otx7r9ulC0z) | 2:42 | 2026-08-19 |  |
-| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 |  |
+| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 | 2026-09-16 |
 | [The Breathing Woods](https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Live from Nature](https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p) | 2:13 | 2025-10-02 | 2026-05-28 |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-04-28 | 2026-02-24 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |

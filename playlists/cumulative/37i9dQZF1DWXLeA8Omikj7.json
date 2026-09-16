@@ -14358,13 +14358,13 @@
           "url": "https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O"
         },
         {
-          "name": "alva noto",
+          "name": "Alva Noto",
           "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 308560,
       "name": "Opto File 1",
       "url": "https://open.spotify.com/track/23bHroW7btyaM8KlPrCYAO"
@@ -15990,7 +15990,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 540493,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy"

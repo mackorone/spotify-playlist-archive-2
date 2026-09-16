@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 173920,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
@@ -998,6 +998,24 @@
       "duration_ms": 199186,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+    },
+    {
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/0AQneI6Ek7V7pQEcRZfPwF"
     },
     {
       "album": {

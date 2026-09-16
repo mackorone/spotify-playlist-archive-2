@@ -107695,6 +107695,28 @@
     },
     {
       "album": {
+        "name": "Spectral+",
+        "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Omotola",
+          "url": "https://open.spotify.com/artist/2ubMC1fvG1gAokMFhYFbmv"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261669,
+      "name": "Love Stays",
+      "url": "https://open.spotify.com/track/3oeju877poauSl65MQEUpQ"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/7gfAIiklAXOtyfSAAnRz0C"
       },

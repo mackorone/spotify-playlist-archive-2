@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,733 likes - 75 songs - 3 hr 52 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,723 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,20 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [wear my flag](https://open.spotify.com/track/5I0H39YAcrVuNAj9B3dgkQ) | [eh ok!](https://open.spotify.com/artist/7MLMfTl0MHZrqeZtmPevl5) | [wear my flag](https://open.spotify.com/album/4gzSFJMjhZLFrHdBtQqXoi) | 2:32 |
 | 59 | [FLUTTER](https://open.spotify.com/track/3qgaPjS5fA89Ebx3sIpMyI) | [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [FADENT](https://open.spotify.com/artist/6f5AzOjOcVck70QRfBhxvK) | [FLUTTER / STEP OUT](https://open.spotify.com/album/3wYw808RXboatWPT5ksOT9) | 2:51 |
 | 60 | [Cut Em Down](https://open.spotify.com/track/1G5w9cbAUXuI1wZRoqsiBM) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [DUX](https://open.spotify.com/artist/2SQIvDK5WYmadA8xuHyBY7) | [Cut Em Down](https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6) | 3:15 |
-| 61 | [Delilah](https://open.spotify.com/track/60cNwtuht41p3FAjoULpYp) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Delilah](https://open.spotify.com/album/39hXclK6hPWE49b0mOE9dJ) | 1:50 |
-| 62 | [Ego Check](https://open.spotify.com/track/2JrvzwUHptdMFSYgLzcvLF) | [WHOiSEE](https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH) | [Ego Check](https://open.spotify.com/album/3Gg4MSFkvm9jpmjWbUOSDI) | 3:34 |
-| 63 | [Think About Your Love](https://open.spotify.com/track/6Uo4h2tDpc8sKbgTH1Gt4A) | [OKO UK](https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV), [XLVR](https://open.spotify.com/artist/3fom1pernUdgyIJm1HgadE) | [Think About Your Love](https://open.spotify.com/album/44PN2pfrGSxF4RN8t9Cy4V) | 3:26 |
-| 64 | [RIDDEM](https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Allenora](https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [RIDDEM](https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g) | 3:27 |
-| 65 | [Never Look Back](https://open.spotify.com/track/7xH37SCST6ixrQeDKZeCKl) | [Tripleset](https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC) | [Never Look Back](https://open.spotify.com/album/4TZ2vabqb8E0I97jVrU8Tu) | 2:53 |
-| 66 | [Bigger Than Dreamers](https://open.spotify.com/track/5FQadK5jylSAZHAMZlKabN) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Bigger Than Dreamers](https://open.spotify.com/album/2LD06FNp9n2nIqFQYvPfxw) | 3:32 |
-| 67 | [HOURGLASS](https://open.spotify.com/track/0wejZszJesttJYEkgkpFWb) | [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [HOURGLASS / WORLDS AWAY](https://open.spotify.com/album/34ovE21vU00pHkmLzvM87P) | 3:52 |
-| 68 | [Sleepless](https://open.spotify.com/track/025rVqgYpAB1U5toovqASa) | [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Sleepless](https://open.spotify.com/album/156MLIjzxFGluyeaVzJKdX) | 2:59 |
-| 69 | [Stay](https://open.spotify.com/track/18StJiwbTUOylOsh8J2nBt) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay](https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik) | 2:52 |
-| 70 | [ghost](https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [osc444](https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj) | [ghost](https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq) | 4:02 |
-| 71 | [SURGE](https://open.spotify.com/track/4ZgjsB7wOo7GYjOVGZtEY5) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [SURGE](https://open.spotify.com/album/0w70TDSfkeqRlCoHEutHZe) | 3:13 |
-| 72 | [Midnight Sound](https://open.spotify.com/track/3SdVixMWNacYlpBIVXCgYD) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Midnight Sound](https://open.spotify.com/album/3l4iJcofJUCDJkfXTaTjgV) | 3:21 |
-| 73 | [ICARUS](https://open.spotify.com/track/7I476tfODLKX0ZydqPcZpX) | [TANTRON](https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Moneo](https://open.spotify.com/artist/6K6iokRdBoOaZiItaX6bYJ) | [ICARUS](https://open.spotify.com/album/2kF5dv4paXL6FrnULatMg9) | 3:27 |
-| 74 | [Who Knew](https://open.spotify.com/track/7cXmJP7TDbzzf9ONkSOhtt) | [Jay Mark](https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6), [Livvy Lauren](https://open.spotify.com/artist/7H525GcgGfiktDgxDHGcX1) | [Who Knew](https://open.spotify.com/album/4F2I2ZBLo2ncuhMIA1Dlr2) | 2:41 |
-| 75 | [BURST](https://open.spotify.com/track/57V2MhFR1RSbVrAsH2w5wN) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [BURST](https://open.spotify.com/album/1VMOFZeTj6zosipVpjiCiT) | 2:17 |
 
-Snapshot ID: `AAAVv7JuSBJvRbemMYRRzIgtkV6ZSUTK`
+Snapshot ID: `AAAVwIUJ+BfIvPVUAB6LIez06vkC5tBF`

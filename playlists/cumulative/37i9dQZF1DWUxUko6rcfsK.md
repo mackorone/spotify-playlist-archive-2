@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-256 songs - 14 hr 27 min
+257 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 | 2025-08-29 |  |
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-07-01 | 2025-03-08 |
 | [SummerRain](https://open.spotify.com/track/5Ma7lV5pCWTkkTpLOCbDMy) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [SummerRain](https://open.spotify.com/album/2kCJeuorQvvr4W7yetjHmF) | 3:24 | 2026-05-05 |  |
+| [Sunshine](https://open.spotify.com/track/2L9k8j6HNpssA40oDPe9H0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Sunshine](https://open.spotify.com/album/3tCzR7YJDG1x5r7pP9MrwO) | 2:26 | 2026-09-15 |  |
 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-01-29 |  |
 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-07-23 | 2025-04-25 |
 | [Take Me Home](https://open.spotify.com/track/6tAQOq9ezWVntk5gympCFB) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Take Me Home](https://open.spotify.com/album/0c3d9m7N9afCX5dwPyooyT) | 3:28 | 2026-04-13 |  |
@@ -255,7 +256,7 @@
 | [Wildfire](https://open.spotify.com/track/6oRFmBb9C6i3GgDpI9a9Uv) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Wildfire](https://open.spotify.com/album/2Z8Y6nIVFSbsQaVc4xvGK2) | 3:01 | 2025-04-24 | 2026-04-14 |
 | [With You](https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [With You](https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY) | 2:50 | 2026-06-26 |  |
 | [Without You](https://open.spotify.com/track/1IEoy0vZyeioQ727qJPfYX) | [Franco Rivers](https://open.spotify.com/artist/3vJzR1NZh8RxVYU7aPEHMh) | [Without You](https://open.spotify.com/album/6RWXsszBHm5YcyMQaykVgE) | 3:19 | 2024-10-21 | 2025-04-04 |
-| [Without You](https://open.spotify.com/track/3j6iEMMDEiecOAM4jJj9Hc) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Without You](https://open.spotify.com/album/0yMS3wofwmfOilZBlrdhBD) | 2:57 | 2026-01-10 |  |
+| [Without You](https://open.spotify.com/track/3j6iEMMDEiecOAM4jJj9Hc) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Without You](https://open.spotify.com/album/0yMS3wofwmfOilZBlrdhBD) | 2:57 | 2026-01-10 | 2026-09-16 |
 | [WOLFMAN](https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb) | [Jan Verstraeten](https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v) | [WOLFMAN](https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr) | 4:11 | 2025-02-17 | 2025-12-05 |
 | [Won't You Stay](https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL) | [Won't You Stay](https://open.spotify.com/album/0UMogPftzVp0O5CUkOEr0b) | 2:52 | 2024-07-01 | 2024-09-28 |
 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2025-02-17 | 2025-09-16 |

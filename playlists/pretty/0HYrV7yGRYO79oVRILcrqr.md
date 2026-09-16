@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,895 likes - 135 songs - 8 hr 49 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,896 likes - 137 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 133 | [Sweet November](https://open.spotify.com/track/1QglCGq2wHff9b9XyP9FPb) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Shot](https://open.spotify.com/album/554W9rIcQj8O2gkt2FReUi) | 4:58 |
 | 134 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 |
 | 135 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 |
+| 136 | [Recomeçar](https://open.spotify.com/track/1mF1agdfi1QMRxBjQn5xbM) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Recomeçar](https://open.spotify.com/album/6l2uBj66bAHppxXgObKV87) | 3:18 |
+| 137 | [Whatever You Want Is What It Means](https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Whatever You Want Is What It Means](https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr) | 2:58 |
 
-Snapshot ID: `AAAMgqfzW/Uj0I//yR5daYfiK4pdEsaB`
+Snapshot ID: `AAAMhMmjLRzsDUV2awYZiwTZFfRtowTa`

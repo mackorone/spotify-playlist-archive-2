@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,220 songs - 3 day 6 hr 38 min
+1,226 songs - 3 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-06-27 | 2023-05-17 |
 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 4:14 | 2023-08-14 | 2024-03-28 |
 | [All Things Go](https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 4:53 | 2023-01-22 |  |
+| [Allatonceness](https://open.spotify.com/track/4lDQdT9Uqy1bwKVSVoOWm5) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it don't give a fuck anymore](https://open.spotify.com/album/6dr9sFzpjzwoawzicFpTjc) | 4:28 | 2026-09-16 |  |
 | [Allison](https://open.spotify.com/track/3B0vMz20sN9UUwAwcP2QGQ) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:39 | 2022-06-28 |  |
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 | 2024-03-15 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
@@ -425,6 +426,7 @@
 | [Halfway Home](https://open.spotify.com/track/7J7PHMvf2i8ENxS4IS9jgl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Dear Science](https://open.spotify.com/album/5c310xauiTULqfhkqvZdBa) | 5:31 | 2023-12-16 | 2025-04-25 |
 | [Handle With Care](https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:19 | 2024-01-08 |  |
 | [Hands](https://open.spotify.com/track/6NjDSYmK9gIMXL05v55nql) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/1ehwJGN59cUxk9LuHRHJdv) | 5:41 | 2023-05-20 |  |
+| [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/4RB8o4DYcSCai4dVUAzTP0) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Croz Boyce](https://open.spotify.com/album/1DqAB49q6QhkUxs2qguMBj) | 4:59 | 2026-09-16 |  |
 | [Hangout at the Gallows](https://open.spotify.com/track/45EAxE8XCkBQyKDHOgSUvY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 4:55 | 2023-06-19 | 2023-06-29 |
 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 | 2024-01-06 | 2025-06-21 |
 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 | 2023-06-22 |  |
@@ -754,6 +756,7 @@
 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 | 2025-08-05 |  |
 | [Opening Night](https://open.spotify.com/track/7kdgWMeO6IBEvDMbfLYShG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:19 | 2026-03-29 |  |
 | [Opening Station](https://open.spotify.com/track/1Ouddr47W1oaAhj2ER32kq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 0:41 | 2025-10-27 | 2026-03-20 |
+| [Oracle Road](https://open.spotify.com/track/4vMFEE1IsOBV4Ct4RNizS7) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Can I Get A Pack Of Camel Lights?](https://open.spotify.com/album/1gBYIHCA0Hdn8BFCTK5TgV) | 5:23 | 2026-09-16 |  |
 | [orð vǫlu](https://open.spotify.com/track/5JKQnnTfMfHaTTDi8cjn76) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 3:47 | 2023-09-17 |  |
 | [Ostern](https://open.spotify.com/track/0Ohx8aU9KdLnvg36zY4SA5) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Radial Gate](https://open.spotify.com/album/71rikQrO1rt7hMQlDBBliD) | 2:19 | 2026-01-27 | 2026-01-29 |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-06-28 |  |
@@ -767,6 +770,7 @@
 | [Overture](https://open.spotify.com/track/7kKt9qTiXIdDvQ3soWsZ9a) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Madison](https://open.spotify.com/album/17FteLw9nXHusWd9vsVa2p) | 3:44 | 2025-08-17 | 2025-08-20 |
 | [Overture](https://open.spotify.com/track/71LskqrTcKZatME2lpbyum) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 4:25 | 2026-01-08 |  |
 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 | 2024-01-08 |  |
+| [Packs of Three](https://open.spotify.com/track/6ZqvM9Y20yEH9e63vVPbAS) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Philophobia](https://open.spotify.com/album/1JemlQwm0TzoMjbQmsqARk) | 3:23 | 2026-09-16 |  |
 | [painty paint pots](https://open.spotify.com/track/1CPoZksD5MBtt1bUr1de35) | [800 cherries](https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO) | [Romantico](https://open.spotify.com/album/3N9wv27gzl0UgFKxWiXwbZ) | 2:52 | 2025-12-03 | 2025-12-13 |
 | [Pangea](https://open.spotify.com/track/1DVrCUHIHQCKipeer1WnP0) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 2:48 | 2026-02-06 | 2026-02-17 |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
@@ -1034,6 +1038,7 @@
 | [The Dinosaur Where We Fell In Love](https://open.spotify.com/track/12GpylddMkhfIdrzGbCeNN) | [RM Hubbert](https://open.spotify.com/artist/6CTfJQCh41MSUkUDjBhol8) | [Telling The Trees](https://open.spotify.com/album/4NSsIjh6S7nvcpo5s2QQRe) | 3:38 | 2024-01-18 |  |
 | [The District Sleeps Alone Tonight](https://open.spotify.com/track/2Qyd6O0zzGrA8Ml2IClSW9) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:44 | 2022-12-09 | 2023-08-11 |
 | [The Dripping Tap](https://open.spotify.com/track/0o6rOggbaLEvtwUHNztuD2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 18:17 | 2024-01-15 |  |
+| [The Drums](https://open.spotify.com/track/3S4eppvnUjzSCwqKFNhGSS) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Spontaneous Music Live](https://open.spotify.com/album/6gzpfdTXwjYjsp9VTvTyNu) | 23:46 | 2026-09-15 |  |
 | [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 | 2024-01-08 |  |
 | [The Fall](https://open.spotify.com/track/3kMUw8BxwpzZWKSszhwuNh) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 1:36 | 2026-04-04 |  |
 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 | 2025-01-06 | 2025-01-07 |
@@ -1225,6 +1230,7 @@
 | [太陽とダァリヤ\(2021 Remastered\)](https://open.spotify.com/track/1kVfpUDx3ofFV71kPQZYQx) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [WORLD STANDARD（2021 Remastered）](https://open.spotify.com/album/4MUXGPluCvXfqz943sE7Oc) | 3:48 | 2026-06-17 |  |
 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 | 2025-12-31 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |
+| [睡蓮](https://open.spotify.com/track/6cX1oU47IhYnHhraczdskK) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [案山子](https://open.spotify.com/album/7LfndVfgDfB9e7BwHPDuOT) | 4:34 | 2026-09-16 |  |
 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 | 2025-10-31 |  |
 | [비](https://open.spotify.com/track/05i2MmHty5EdrZUwylGvw4) | [Herhums](https://open.spotify.com/artist/429xoA1jiH70HKoNMvi2iv) | [Binding Chimes](https://open.spotify.com/album/3rjIK9QiXzYSGVIn5aNCvj) | 2:43 | 2026-01-14 | 2026-09-11 |
 | [산 san](https://open.spotify.com/track/2EzCnAwsNSDRg0pbxth8Ve) | [khc](https://open.spotify.com/artist/6va4OhhPs4U1cXkqfZ44LR) | [아침놀 achimnol](https://open.spotify.com/album/5NBRIEH2i8U6IQx0KiTyVF) | 2:07 | 2026-01-14 |  |

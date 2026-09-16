@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73788,
+  "num_followers": 73792,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACsk1YR5ZhUc6Q4dsdAT1fj",
+  "snapshot_id": "aqc5AAAAAAANp3Xl+fn50oRQ3ybI6x3O",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279289,
-      "name": "A Tua Gl\u00f3ria Faz",
-      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 234103,
       "name": "Amo o Senhor",
       "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279289,
+      "name": "A Tua Gl\u00f3ria Faz",
+      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 202663,
+      "name": "Quebrantado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DUJZXdp0XGbRafeTKA3TJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 368666,
       "name": "Eu Vou Abrir o Meu Cora\u00e7\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 202663,
-      "name": "Quebrantado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DUJZXdp0XGbRafeTKA3TJ"
     },
     {
       "added_at": null,

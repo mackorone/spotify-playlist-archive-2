@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,559 songs - 6 day 6 hr 2 min
+2,561 songs - 6 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [I Don't Listen To You](https://open.spotify.com/track/63RGHd3E9rqdo0H1y0yK7e) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Don't Listen To You](https://open.spotify.com/album/69E1nz3zfEYnOqxOChoxPi) | 2:01 | 2024-03-04 |  |
 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 | 2026-08-21 |  |
 | [I Dub On A Sunday \- Dub\-I Remix](https://open.spotify.com/track/3QHR0VsH7hgVnr7Nfn6afg) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Dub\-I](https://open.spotify.com/artist/60P6fKJzqcWscbc9PeCtZw) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:47 | 2024-05-01 |  |
+| [I Eat Baked Beans Every Day](https://open.spotify.com/track/2S3thDXoqumTQoq85ZgCEr) | [The Junkoactive Wasteman](https://open.spotify.com/artist/6j91xLGH7YJWvsUByNtJAt) | [I Eat Baked Beans Every Day](https://open.spotify.com/album/0h7JzaxgIB59ve9NFPodOr) | 2:58 | 2026-09-15 |  |
 | [I Fell / Ocean Wave](https://open.spotify.com/track/3Enfhcrh3pHoeA6Au0DHFm) | [Mikefashoo\_](https://open.spotify.com/artist/1dSwpFodA4gdkSD982tCUn) | [A Bad Idea](https://open.spotify.com/album/0L1xcKniGRVcE6w8JRPFTU) | 2:11 | 2025-07-04 |  |
 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 | 2026-02-25 |  |
 | [I Give Dub](https://open.spotify.com/track/5AJoJjZ68estf4SdiyZrbU) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:24 | 2024-05-04 |  |
@@ -1685,6 +1686,7 @@
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |
 | [Pizza Chilli](https://open.spotify.com/track/5ApKuzKc6hoEYL3hBL4rkj) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Chilli](https://open.spotify.com/album/5K9urh9zUIBi3Uc8XCVdgt) | 2:29 | 2026-05-19 |  |
 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 | 2025-12-30 |  |
+| [Pizza Hawaii](https://open.spotify.com/track/272AUltPkXuMvr07NRPNL5) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Hawaii](https://open.spotify.com/album/3OUpMXtVuSP3aBMSuG8aD1) | 2:25 | 2026-09-15 |  |
 | [Pizza Margherita](https://open.spotify.com/track/4kgnunK2B5xNufsIe8LOMX) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Margherita](https://open.spotify.com/album/4Hh5YJKxTxrKu2Nab4mhJz) | 2:10 | 2026-03-17 |  |
 | [Pizza Pepperoni](https://open.spotify.com/track/0QesMcqtIJuPYELEnpIQIF) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Pepperoni](https://open.spotify.com/album/526zGbVmgH3mxUafAM80ov) | 2:21 | 2026-04-14 |  |
 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 | 2026-06-12 |  |

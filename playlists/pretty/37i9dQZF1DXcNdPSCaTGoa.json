@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 6706,
+  "num_followers": 6743,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Reach It",
-      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Reach It",
+      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Indigo Girl",
+      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 311400,
       "name": "Lwandle",
       "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
-      },
-      "artists": [
-        {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Indigo Girl",
-      "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 274053,
       "name": "Sondela (feat. Zano)",
       "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-04-24 07:22:05",

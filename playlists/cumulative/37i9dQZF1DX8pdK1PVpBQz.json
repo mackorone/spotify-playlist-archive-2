@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: takytheartist",
+  "description": "The best new music by independent artists and labels. Cover: Annika Rani",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 174545,
       "name": "Anotha' Way",
       "url": "https://open.spotify.com/track/6boBNBU8DOlmhiX6CHlz4i"
@@ -27084,7 +27084,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 252481,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/5s6nrEJAu6LOpaCDj6GYM1"
@@ -30352,7 +30352,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 182624,
       "name": "Good God (What Have We Become)",
       "url": "https://open.spotify.com/track/3UllmUHNOWaxjBSKNa26pF"
@@ -36171,6 +36171,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/370coWuZvo8rkv3ivRfUvp"
+      },
+      "artists": [
+        {
+          "name": "COD",
+          "url": "https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255767,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4An56EIHDAvx5Jkw5meV2A"
+    },
+    {
+      "album": {
         "name": "I Love You Babe",
         "url": "https://open.spotify.com/album/5v1bRmXMXp9zMQYiTaLSAh"
       },
@@ -36868,6 +36886,24 @@
       "duration_ms": 200195,
       "name": "I Want You Dead",
       "url": "https://open.spotify.com/track/6G7oIm5oIcd8cJ0513hYV5"
+    },
+    {
+      "album": {
+        "name": "I Want You To Know",
+        "url": "https://open.spotify.com/album/31JtWKxmzAse9S34BbXm7O"
+      },
+      "artists": [
+        {
+          "name": "Annika Rani",
+          "url": "https://open.spotify.com/artist/6UWuCJvOXmFa6bFrkPkodU"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251700,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/3wHEOCWnonWOIpWYqv6NNh"
     },
     {
       "album": {
@@ -39884,7 +39920,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 219071,
       "name": "It's All In My Head",
       "url": "https://open.spotify.com/track/1nDOj9RshykaZHUJT79QTU"
@@ -47046,6 +47082,24 @@
       "duration_ms": 274459,
       "name": "Make Time",
       "url": "https://open.spotify.com/track/74Y1ZxUMB0mUWkqXMYlflf"
+    },
+    {
+      "album": {
+        "name": "Super Tight Hoodie Pull",
+        "url": "https://open.spotify.com/album/0BzSl9sTgsDR3HmXIyU8o2"
+      },
+      "artists": [
+        {
+          "name": "Super Tight Hoodie Pull",
+          "url": "https://open.spotify.com/artist/778wMz8kNSVd88QUzpGAE7"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178968,
+      "name": "MAKE UP YOUR MIND",
+      "url": "https://open.spotify.com/track/4fOfvl0ibwAGxvURRhvHSH"
     },
     {
       "album": {
@@ -67608,7 +67662,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 215435,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5ebpFvMuxCpqkMb3KqWSWX"
@@ -67764,6 +67818,24 @@
       "duration_ms": 124736,
       "name": "slowdown",
       "url": "https://open.spotify.com/track/4CsFhhrZeg6wLvQAJdvr1o"
+    },
+    {
+      "album": {
+        "name": "Ozonia",
+        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
+      },
+      "artists": [
+        {
+          "name": "The Bures Band",
+          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344666,
+      "name": "SLPM",
+      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
     },
     {
       "album": {
@@ -70360,7 +70432,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 215683,
       "name": "State Line",
       "url": "https://open.spotify.com/track/5Nmcqs6F2oItBsCnrbZ8Mb"
@@ -73432,6 +73504,24 @@
       "duration_ms": 163274,
       "name": "Talk With Me",
       "url": "https://open.spotify.com/track/039PMmnkL9y5lvKJz0h4bg"
+    },
+    {
+      "album": {
+        "name": "talk2much",
+        "url": "https://open.spotify.com/album/5tXDc1fqjdlznTtwpwhVvi"
+      },
+      "artists": [
+        {
+          "name": "nKo",
+          "url": "https://open.spotify.com/artist/6U4eoLM6ZngPrEDmLsUQtY"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134705,
+      "name": "talk2much",
+      "url": "https://open.spotify.com/track/1AExnCrqnRv5aWR71exfCd"
     },
     {
       "album": {
@@ -76798,6 +76888,24 @@
       "duration_ms": 255891,
       "name": "Time for Us",
       "url": "https://open.spotify.com/track/1Crj72TC7BtnI8waRGsDdS"
+    },
+    {
+      "album": {
+        "name": "Time for You",
+        "url": "https://open.spotify.com/album/1qTzscUVtTr1XOQ2lj1TO9"
+      },
+      "artists": [
+        {
+          "name": "Tusekah",
+          "url": "https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Time for You",
+      "url": "https://open.spotify.com/track/3Uy7qK6J4XwXOSjEzizYG6"
     },
     {
       "album": {

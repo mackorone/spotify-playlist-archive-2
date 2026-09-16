@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: Mirv48",
-  "num_followers": 151260,
+  "num_followers": 151595,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyQDNo0z5DySIwGk73HklgP/0yA",
+  "snapshot_id": "AAAAAMQvJHD2zbpSikbU4eMs/F4OO5Z1",
   "tracks": [
     {
       "added_at": "2026-09-12 17:10:59",
@@ -115,6 +115,30 @@
       "duration_ms": 178800,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
+    },
+    {
+      "added_at": "2026-09-15 07:19:43",
+      "album": {
+        "name": "DEMMI MARROKI",
+        "url": "https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp"
+      },
+      "artists": [
+        {
+          "name": "Bayadis",
+          "url": "https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "DEMMI MARROKI",
+      "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
     },
     {
       "added_at": "2026-09-12 17:10:59",
@@ -891,22 +915,6 @@
       "duration_ms": 164409,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2"
-    },
-    {
-      "added_at": "2026-09-12 17:10:59",
-      "album": {
-        "name": "TABOUT",
-        "url": "https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN"
-      },
-      "artists": [
-        {
-          "name": "KALIL",
-          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
-        }
-      ],
-      "duration_ms": 199968,
-      "name": "TABOUT",
-      "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
     }
   ],
   "unique_name": "Hit Maghribi",

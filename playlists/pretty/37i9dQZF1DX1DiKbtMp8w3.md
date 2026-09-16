@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,540 likes - 211 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,538 likes - 211 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 113 | [my crush](https://open.spotify.com/track/6ASxrnYTdmbFp7doFRbuFf) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:40 |
 | 114 | [ブルーライト](https://open.spotify.com/track/7szRe1COShmdjV3TLfz5OH) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 3:54 |
 | 115 | [Buriburi](https://open.spotify.com/track/67jY28XGWZzr5YaOju8AIL) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:40 |
-| 116 | [JUST FUN!](https://open.spotify.com/track/20BxzpGJ18yF8JW9JkI5aB) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [JUST FUN! / LOOP?](https://open.spotify.com/album/0QMxX4ZCFZK3ku24sviec4) | 3:05 |
-| 117 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
+| 116 | [JUST FUN!](https://open.spotify.com/track/20BxzpGJ18yF8JW9JkI5aB) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Wonjin](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [JUST FUN! / LOOP?](https://open.spotify.com/album/0QMxX4ZCFZK3ku24sviec4) | 3:05 |
+| 117 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Wonjin](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
 | 118 | [暗流](https://open.spotify.com/track/2JZtLMTPaS2HCf2T9FVDc6) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [兄弟沒夢不應該](https://open.spotify.com/album/6vhazfA0TQFKtsk48iBPj7) | 7:12 |
 | 119 | [踅神夢](https://open.spotify.com/track/5gI6vgJNsI4pbQdwW8qh69) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [噪音公寓](https://open.spotify.com/album/3CRT9RpZhzxWi5lk8Uc0cz) | 3:22 |
 | 120 | [噪音公寓](https://open.spotify.com/track/0HxFauxKj5X1DIujxM404U) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [噪音公寓](https://open.spotify.com/album/3CRT9RpZhzxWi5lk8Uc0cz) | 3:18 |

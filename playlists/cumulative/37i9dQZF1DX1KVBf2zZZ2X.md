@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-368 songs - 17 hr 9 min
+369 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Hidden Trees](https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Hidden Trees](https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG) | 2:56 | 2025-12-03 | 2026-09-02 |
 | [Hidden Valley](https://open.spotify.com/track/3Qk1kmwicACrLOwY1wGQKc) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Hidden Valley](https://open.spotify.com/album/4Ob4bAUAuYhWCofsKg0vJc) | 2:39 | 2025-06-11 | 2026-03-21 |
 | [Hiking With Friends](https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Hiking With Friends](https://open.spotify.com/album/5cQah2fqRS6p4GyfxhM6se) | 3:54 | 2025-02-21 | 2026-03-21 |
-| [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 | 2025-09-24 |  |
+| [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 | 2025-09-24 | 2026-09-16 |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-03-03 | 2025-06-12 |
 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 | 2023-03-03 | 2025-06-12 |
 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 | 2024-02-06 | 2025-06-12 |
@@ -315,6 +315,7 @@
 | [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-09-09 |  |
 | [Stilled Air](https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Stilled Air](https://open.spotify.com/album/1TLRQyzf4CiddoZaqiNJg8) | 3:01 | 2026-03-20 |  |
 | [Stolen Stream Moments](https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR) | [Soul Pursuit](https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX) | [Stolen Stream Moments](https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD) | 3:08 | 2024-03-20 | 2025-09-24 |
+| [Sun Warmed](https://open.spotify.com/track/6wvxwPHGB3cUOZbjc7IZFH) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Sun Warmed](https://open.spotify.com/album/2YcsfJ8pux4NLSJQla2pha) | 2:50 | 2026-09-09 |  |
 | [Sunday By The Stream](https://open.spotify.com/track/3wRiGWZwwjpuTyefeclZ17) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [Sunday By The Stream](https://open.spotify.com/album/29uh6QeyvMnklMamZe96ZB) | 2:12 | 2026-06-18 |  |
 | [Sunflower Spring](https://open.spotify.com/track/56BvbwFPV24ABrFPtcoxwM) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Sunflower Spring](https://open.spotify.com/album/0GR9U47jNyHrUxZqHlh0xO) | 3:30 | 2025-02-21 | 2026-03-21 |
 | [Sunrise In Zen](https://open.spotify.com/track/15ykqWIK6EJzZZqOcClrtF) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Sunrise In Zen](https://open.spotify.com/album/6mNo4Z9EMW0iAvCkbMwtPq) | 2:36 | 2026-03-20 |  |

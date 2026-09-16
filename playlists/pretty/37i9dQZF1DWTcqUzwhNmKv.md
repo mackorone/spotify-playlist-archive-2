@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,656,208 likes - 90 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656,229 likes - 90 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 13 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 |
 | 14 | [I Want To Believe \(feat\. Dayseeker\)](https://open.spotify.com/track/0sM2Wl82HBAM0QsNyA0H8s) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Witch](https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO) | 4:41 |
 | 15 | [Suffer Divine](https://open.spotify.com/track/0IiYcf8o84PBk0jHr2hyfp) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Suffer Divine](https://open.spotify.com/album/4wnJ7Y8AR6DEqnBJiDaaxz) | 2:33 |
-| 16 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 16 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 17 | [Eyes Closed](https://open.spotify.com/track/1wOQJhcsofsjTO0ud2fRba) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH) | 3:26 |
 | 18 | [Arriba La L](https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT) | 3:43 |
 | 19 | [Dehumanized](https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Dehumanized](https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi) | 4:28 |

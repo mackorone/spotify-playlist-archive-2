@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,644 likes - 130 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 130 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 129 | [YOU](https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so) | [Elly C](https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda) | [YOU](https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs) | 4:09 |
 | 130 | [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 |
 
-Snapshot ID: `AAAAAFiQwrdzcag0fo/of03EwrYXpqf9`
+Snapshot ID: `AAAAAHsLjTpsD4ptTgmv/iZl+wL0ilct`

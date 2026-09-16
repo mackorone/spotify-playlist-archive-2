@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 120364,
+  "num_followers": 120401,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Tamuno",
-        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
-      },
-      "artists": [
-        {
-          "name": "Mera Owili",
-          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
-        }
-      ],
-      "duration_ms": 256148,
-      "name": "Tamuno",
-      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
-    },
-    {
       "added_at": "2025-08-01 00:01:33",
       "album": {
         "name": "God Will Work It Out",
@@ -739,6 +723,22 @@
       "duration_ms": 392870,
       "name": "God Will Work It Out",
       "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Tamuno",
+        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "duration_ms": 256148,
+      "name": "Tamuno",
+      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Me & My Jesus",
+      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
+    },
+    {
       "added_at": "2024-06-10 13:52:15",
       "album": {
         "name": "Give Me Chance",
@@ -943,22 +959,6 @@
       "duration_ms": 255735,
       "name": "Give Me Chance",
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
-    },
-    {
-      "added_at": "2025-10-31 00:01:29",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Me & My Jesus",
-      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
-      "added_at": "2026-05-29 00:01:47",
-      "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 154743,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Ebenezeri",
@@ -1131,6 +1115,22 @@
       "duration_ms": 239036,
       "name": "In The Room (feat. Annatoria) - Afro Beat Version",
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
+    },
+    {
+      "added_at": "2026-05-29 00:01:47",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 154743,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -1213,26 +1213,6 @@
       "url": "https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq"
     },
     {
-      "added_at": "2026-06-12 08:45:30",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 501003,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
-    },
-    {
       "added_at": "2025-07-25 00:01:13",
       "album": {
         "name": "Generation Intimacy (Live)",
@@ -1251,6 +1231,26 @@
       "duration_ms": 817168,
       "name": "Jesu - Live",
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
+    },
+    {
+      "added_at": "2026-06-12 08:45:30",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
     },
     {
       "added_at": "2026-05-15 00:01:30",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl"
     },
     {
-      "added_at": "2026-05-22 00:01:30",
-      "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
-    },
-    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "NEVER BOW TO BAAL",
@@ -1315,6 +1299,22 @@
       "duration_ms": 538000,
       "name": "NEVER BOW TO BAAL",
       "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
+    },
+    {
+      "added_at": "2026-05-22 00:01:30",
+      "album": {
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1389,6 +1389,30 @@
       "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
     },
     {
+      "added_at": "2026-08-28 00:01:37",
+      "album": {
+        "name": "FAVOUR",
+        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "FAVOUR",
+      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
+    },
+    {
       "added_at": "2025-09-26 00:01:31",
       "album": {
         "name": "Prayer",
@@ -1461,46 +1485,6 @@
       "url": "https://open.spotify.com/track/7lLr3Efp2y6NgBMSR81wh4"
     },
     {
-      "added_at": "2026-08-28 00:01:37",
-      "album": {
-        "name": "FAVOUR",
-        "url": "https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mylez",
-          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "FAVOUR",
-      "url": "https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
-      },
-      "artists": [
-        {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        }
-      ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
-    },
-    {
       "added_at": "2025-10-03 00:01:16",
       "album": {
         "name": "Do It Now (Agbanilagbatan)",
@@ -1519,6 +1503,22 @@
       "duration_ms": 279000,
       "name": "Do It Now (Agbanilagbatan)",
       "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2026-01-23 00:01:16",
@@ -1541,24 +1541,24 @@
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
-      "added_at": "2026-08-21 00:01:30",
+      "added_at": "2025-05-30 00:01:31",
       "album": {
-        "name": "Taloto",
-        "url": "https://open.spotify.com/album/0up89TNBGPTwNPcow20AvR"
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
       },
       "artists": [
         {
-          "name": "Tope Alabi",
-          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         },
         {
-          "name": "Aremmic",
-          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
+          "name": "Praise Umali",
+          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
         }
       ],
-      "duration_ms": 342613,
-      "name": "Taloto",
-      "url": "https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C"
+      "duration_ms": 166000,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
     }
   ],
   "unique_name": "Be Lifted ",

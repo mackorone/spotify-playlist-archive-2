@@ -174,7 +174,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 125920,
       "name": "Auf der Jagd, Op.373 - for Piano Duet: Polka (Schnell)",
       "url": "https://open.spotify.com/track/25YxY0FalWMuH9IA5plcw5"
@@ -192,7 +192,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 130542,
       "name": "Avril 14",
       "url": "https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 50546,
       "name": "Colin-Maillard",
       "url": "https://open.spotify.com/track/22YpuJPcOdfcv8vFdpGvZC"
@@ -337,6 +337,72 @@
     },
     {
       "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362280,
+      "name": "Concerto pour 2 pianos solo: 1. Con moto",
+      "url": "https://open.spotify.com/track/0sw3pWr90aBoR6bEBb3Kj1"
+    },
+    {
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67880,
+      "name": "Concerto pour 2 pianos solo: 3. Quattro Variazioni. Variation I",
+      "url": "https://open.spotify.com/track/0kJQP54pkZfuI9QKs2GuXA"
+    },
+    {
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47120,
+      "name": "Concerto pour 2 pianos solo: 4. Quattro Variazioni. Variation II",
+      "url": "https://open.spotify.com/track/1492vV8uTGCZZpgHYXiE79"
+    },
+    {
+      "album": {
         "name": "Piano Zen - Tchaikovsky, Scriabin, Stravinsky",
         "url": "https://open.spotify.com/album/6Y0wCkSsQACfy6ZoixPomA"
       },
@@ -374,7 +440,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 198920,
       "name": "Concerto pour 2 pianos solo: 8. Fugue",
       "url": "https://open.spotify.com/track/73ztMVLXIDFVQuoFyg0PzA"
@@ -554,7 +620,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 98440,
       "name": "Gnossienne n\u00b0 6",
       "url": "https://open.spotify.com/track/0OdA7VEnKhxRKlNGXS0D2r"
@@ -572,7 +638,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 65346,
       "name": "I. Idylle, \u00e0 Debussy",
       "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
@@ -638,7 +704,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 34960,
       "name": "La Balan\u00e7oire",
       "url": "https://open.spotify.com/track/0sMVmDkRN74UeMU7xzjmOr"
@@ -696,10 +762,28 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 73240,
       "name": "Le Tango perp\u00e9tuel",
       "url": "https://open.spotify.com/track/2IqqLeEMUJdN9qhuRFrYAo"
+    },
+    {
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36626,
+      "name": "Le Water-Chute",
+      "url": "https://open.spotify.com/track/0rg9jqB6p5XBqas1EaN2Ez"
     },
     {
       "album": {
@@ -946,7 +1030,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 352066,
       "name": "Nazareno: VI. Procesi\u00f3n (Arr. Gonzalo Grau)",
       "url": "https://open.spotify.com/track/2hReCGfkv9vw0zlUlOQ9jd"
@@ -1024,7 +1108,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 263320,
       "name": "Prelude, Fugue and Riffs: III. Riffs for Everyone",
       "url": "https://open.spotify.com/track/2SQs3ciOpLomWNwWLb9SHt"
@@ -1046,7 +1130,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 900280,
       "name": "Rhapsody in Blue - Arr. for 2 Pianos: Rhapsody in Blue",
       "url": "https://open.spotify.com/track/2rMwQWnuDdZZ3Oxff7qUif"
@@ -1098,10 +1182,36 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 114280,
       "name": "Star-Cross'd Lovers: Act I: Prologue",
       "url": "https://open.spotify.com/track/3P5tFLRBkgkcLuJ2fr3ZlS"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116253,
+      "name": "Star-Cross'd Lovers: Act I: Star-Cross'd Lovers",
+      "url": "https://open.spotify.com/track/0VY2FCyUvqAdO28kAGPr8v"
     },
     {
       "album": {
@@ -1128,6 +1238,58 @@
       "duration_ms": 105226,
       "name": "Star-Cross'd Lovers: Act I: Street Fight",
       "url": "https://open.spotify.com/track/2xdnMl3BwAPrmTZGjGYOFE"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Star-Cross'd Lovers: Act I: The Party",
+      "url": "https://open.spotify.com/track/1hFhplytZnI9IwNUUpFEOh"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83440,
+      "name": "Star-Cross'd Lovers: Act III: Mercutio's Death",
+      "url": "https://open.spotify.com/track/1rVNt8SZHzTMrr2QXXytJu"
     },
     {
       "album": {
@@ -1176,7 +1338,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 35653,
       "name": "Star-Cross'd Lovers: Act III: Tybalt's Death",
       "url": "https://open.spotify.com/track/6UGMI4j3e9AhvM7TWxw2XQ"
@@ -1200,12 +1362,60 @@
           "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
         }
       ],
-      "date_added": "2026-06-13",
+      "date_added": "2026-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 75920,
+      "name": "Star-Cross'd Lovers: Act V: Romeo's Poison",
+      "url": "https://open.spotify.com/track/09C7g6ngDxPpUYUBpp9Ey7"
+    },
+    {
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/6ATtDU7yIgqeYBmOpMl2bb"
+      },
+      "artists": [
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        },
+        {
+          "name": "Rapha\u00ebl Seguinier",
+          "url": "https://open.spotify.com/artist/3PWCvY1xg68UCLnviD8rFy"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-16",
       "duration_ms": 70146,
       "name": "Star-Cross'd Lovers: Act V: Romeo's Rage",
       "url": "https://open.spotify.com/track/5QRMgXiKa46S0KDt30xTqa"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky Piano Moods",
+        "url": "https://open.spotify.com/album/78NYSjPfoRN8bcpIhhx8nj"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264973,
+      "name": "Swan Lake, Op. 20, TH.12 - Arr. for piano duet: Russian dance",
+      "url": "https://open.spotify.com/track/2JX2Jkpv8IlkzhVIt9UZOB"
     },
     {
       "album": {
@@ -1462,7 +1672,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 172933,
       "name": "Troisi\u00e8me Gymnop\u00e9die",
       "url": "https://open.spotify.com/track/3WYT0pMVrBgKe6f7m0He8l"
@@ -1484,7 +1694,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 395242,
       "name": "Water Dances, Arr. for two pianos: II. Stroking",
       "url": "https://open.spotify.com/track/5lCKepSseNL8heedzNoXWl"
@@ -1506,7 +1716,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 283489,
       "name": "Water Dances, Arr. for two pianos: IV. Gliding",
       "url": "https://open.spotify.com/track/3TKciQVui6nteCM6Tr4qgj"

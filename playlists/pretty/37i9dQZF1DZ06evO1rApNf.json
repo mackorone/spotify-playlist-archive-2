@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127604,
+  "num_followers": 127608,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAABhxxSzjlI+Owm4riacW+uJ",
+  "snapshot_id": "aqc5AAAAAAD4gsg1C4V5wOinxGnH25DE",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 142150,
-      "name": "AMAPOLA",
-      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
+      "duration_ms": 179980,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/3Whi7ZFkEc21gRmahglUf3"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 179980,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/3Whi7ZFkEc21gRmahglUf3"
+      "duration_ms": 142150,
+      "name": "AMAPOLA",
+      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "noche de luna",
+        "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 184763,
+      "name": "noche de luna",
+      "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "noche de luna",
-        "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 184763,
-      "name": "noche de luna",
-      "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Puede Ser (con Eladio Carrion)",
+        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "No Puede Ser - con Eladio Carrion",
+      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 159360,
       "name": "Tocando Madera",
       "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Puede Ser (con Eladio Carrion)",
-        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Puede Ser - con Eladio Carrion",
-      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
       "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 225106,
-      "name": "Tan Buena",
-      "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
+      "duration_ms": 155242,
+      "name": "Japonesa",
+      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
     },
     {
       "added_at": null,

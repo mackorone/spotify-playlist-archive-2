@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Celebrate the timeless bond of Siya Ram\. 'Jai Jai Ram' from Ramayana is out\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,079 likes - 74 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,122 likes - 74 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

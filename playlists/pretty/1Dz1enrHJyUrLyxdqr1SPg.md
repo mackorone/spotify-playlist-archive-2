@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,022 likes - 91 songs - 5 hr 9 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,023 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 89 | [Ritual Machine](https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs) | [RA MAJOR](https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj), [Silvr Sage](https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf), [Suffolk](https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe) | [Ritual Machine](https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u) | 4:09 |
 | 90 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
 | 91 | [Forever](https://open.spotify.com/track/6uMJNnzsWizuk6RNjOPeIG) | [WAS Music](https://open.spotify.com/artist/3IqAQfmvqry08s3o5YVYew), [Gaz Twist](https://open.spotify.com/artist/52MTNuYffSQRjZcZ7KiSam) | [Carpe Diem](https://open.spotify.com/album/5pVHrBjnuOWKXshWKJaVil) | 4:04 |
+| 92 | [Welcome To The Show](https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw) | [Bunyin Yang](https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o) | [The Power Of Being Human](https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G) | 5:40 |
 
-Snapshot ID: `AABjxXjUxPFLE0Q0aElPjhUsQLRUG4wo`
+Snapshot ID: `AABjxl+FIdWwoVK40+t5sPqN27L+W5E5`

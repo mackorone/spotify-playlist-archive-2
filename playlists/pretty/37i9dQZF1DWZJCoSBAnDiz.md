@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Nicole Scherzinger in Sunset Boulevard
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,671 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,680 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 | 2 | [On My Own](https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx) | [Frances Ruffelle](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) | [Les Misérables \(Original 1985 London Cast Recording\)](https://open.spotify.com/album/6czYnhVAHQF0UiAilCvFMP) | 3:59 |
 | 3 | [For Forever](https://open.spotify.com/track/0ZWW07BD8W85lUbgx2sn7E) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 5:01 |
 | 4 | [Burn](https://open.spotify.com/track/1UBnaSpAAm28lgLlHesz80) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/19CCWdJcg0C2t9OrfCdDUp) | 3:45 |
-| 5 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 |
+| 5 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["The Phantom Of The Opera" Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 |
 | 6 | [My Days](https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU) | [Joy Woods](https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW) | [The Notebook \(Original Broadway Cast Recording\)](https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La) | 3:42 |
 | 7 | [She Used to Be Mine](https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:20 |
 | 8 | [I'm Not That Girl \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/5HZCMnScUwekum55mcRdjK) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked \(Original Broadway Cast Recording / Deluxe Edition\)](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) | 2:58 |

@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 234440,
       "name": "As Weird as the Elfin Lights",
       "url": "https://open.spotify.com/track/2acdYxDitKA80W4su8rHP7"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463600,
+      "name": "Cannon Hill",
+      "url": "https://open.spotify.com/track/5t4HONVZYujUsxoj27sLZ0"
+    },
+    {
+      "album": {
         "name": "Birmingham Frequencies (Remastered)",
         "url": "https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 464000,
       "name": "Cannon Hill - Remastered",
       "url": "https://open.spotify.com/track/4Uf984atP2nWLtxmTVFdpV"
@@ -1279,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426869,
+      "name": "Gas Street Basin",
+      "url": "https://open.spotify.com/track/0NpCF7hVj9tWAzK9xZ1PYB"
+    },
+    {
+      "album": {
         "name": "Birmingham Frequencies (Remastered)",
         "url": "https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o"
       },
@@ -1294,7 +1338,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 427500,
       "name": "Gas Street Basin - Remastered",
       "url": "https://open.spotify.com/track/79hmgGF1XH1bMQ4Cqfnq3q"
@@ -2229,6 +2273,28 @@
     },
     {
       "album": {
+        "name": "Birmingham Frequencies",
+        "url": "https://open.spotify.com/album/6JwgvolUNr44c64wn94Rwm"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 677669,
+      "name": "Midpoint",
+      "url": "https://open.spotify.com/track/56YnIVeZSJI4ejjJxzIySC"
+    },
+    {
+      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -3048,7 +3114,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 276967,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"

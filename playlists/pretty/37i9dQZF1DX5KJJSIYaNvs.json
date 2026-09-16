@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Shreya Jain",
-  "num_followers": 109273,
+  "num_followers": 109352,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -667,30 +667,6 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "Musafir Cafe (Songs from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mishra",
-          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
-        },
-        {
-          "name": "Neel Adhikari",
-          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
-        },
-        {
-          "name": "Amrita Saluja",
-          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "Rozaana",
-      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
-    },
-    {
-      "added_at": "2026-09-11 04:18:53",
-      "album": {
         "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 193767,
       "name": "Ghoom Ghoom - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/3TZ0uKl0RVbc7vAfcc1Qle"
+    },
+    {
+      "added_at": "2026-09-11 04:18:53",
+      "album": {
+        "name": "Musafir Cafe (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Neel Adhikari",
+          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "Rozaana",
+      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
       "added_at": "2026-09-11 04:18:53",
@@ -939,30 +939,6 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "Na Lage Nazar",
-        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Aditya Bisht",
-          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
-        },
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Na Lage Nazar",
-      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
-    },
-    {
-      "added_at": "2026-09-11 04:18:53",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 313283,
       "name": "Voh Tere Mere Ishq Ka",
       "url": "https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs"
+    },
+    {
+      "added_at": "2026-09-11 04:18:53",
+      "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
     },
     {
       "added_at": "2026-09-11 04:18:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "PARINDA",
-        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Malang",
-      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
-    },
-    {
-      "added_at": "2026-09-11 04:18:53",
-      "album": {
         "name": "Raanjhan Mora",
         "url": "https://open.spotify.com/album/6GUcCKMAaa9c3uoaoABKxf"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 218851,
       "name": "Raanjhan Mora",
       "url": "https://open.spotify.com/track/0gOfLXsd8bnQX44x3OBUqt"
+    },
+    {
+      "added_at": "2026-09-11 04:18:53",
+      "album": {
+        "name": "PARINDA",
+        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/5tKrD1fGCAx02LVqE5HvS0"
     },
     {
       "added_at": "2026-09-11 04:18:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
-      },
-      "artists": [
-        {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
-        }
-      ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
-    },
-    {
-      "added_at": "2026-09-11 04:18:53",
-      "album": {
         "name": "Asla Najaij",
         "url": "https://open.spotify.com/album/46cJtfiJmMzUYoKhkefiQU"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 141900,
       "name": "Asla Najaij",
       "url": "https://open.spotify.com/track/1gp9frbLJZRdvu7GFfTKbX"
+    },
+    {
+      "added_at": "2026-09-11 04:18:53",
+      "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
     },
     {
       "added_at": "2026-09-11 04:18:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "Aaye Kuchh Abr",
-        "url": "https://open.spotify.com/album/2fp4rorUnQFS7KgaPqs2BE"
-      },
-      "artists": [
-        {
-          "name": "Nupoor Khedkar",
-          "url": "https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Aaye Kuchh Abr",
-      "url": "https://open.spotify.com/track/2iHlihJoqJZ4DyUBc0AhhQ"
-    },
-    {
-      "added_at": "2026-09-11 04:18:53",
-      "album": {
         "name": "Adatein",
         "url": "https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 197142,
       "name": "Adatein",
       "url": "https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i"
+    },
+    {
+      "added_at": "2026-09-11 04:18:53",
+      "album": {
+        "name": "Aaye Kuchh Abr",
+        "url": "https://open.spotify.com/album/2fp4rorUnQFS7KgaPqs2BE"
+      },
+      "artists": [
+        {
+          "name": "Nupoor Khedkar",
+          "url": "https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Aaye Kuchh Abr",
+      "url": "https://open.spotify.com/track/2iHlihJoqJZ4DyUBc0AhhQ"
     },
     {
       "added_at": "2026-09-11 04:18:53",
@@ -1667,26 +1667,18 @@
     {
       "added_at": "2026-09-11 04:18:53",
       "album": {
-        "name": "Barkha",
-        "url": "https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69"
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
       },
       "artists": [
         {
           "name": "Sunidhi Chauhan",
           "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 261631,
-      "name": "Barkha",
-      "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
+      "duration_ms": 268989,
+      "name": "Tu Kuja",
+      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
     },
     {
       "added_at": "2026-09-11 04:18:53",

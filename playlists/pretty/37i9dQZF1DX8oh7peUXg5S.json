@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352976,
+  "num_followers": 352998,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
-        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 251373,
-      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
+        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Pasaba por Aqui",
+      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 179480,
       "name": "Rueda eterna",
       "url": "https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Pasaba por Aqui",
-      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "inCubando",
-        "url": "https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9"
-      },
-      "artists": [
-        {
-          "name": "Carmen Paris",
-          "url": "https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "25 a\u00f1os",
-      "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "El \u00c1rbol y el Bosque",
         "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 196547,
       "name": "A Tu Vida",
       "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "inCubando",
+        "url": "https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9"
+      },
+      "artists": [
+        {
+          "name": "Carmen Paris",
+          "url": "https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "25 a\u00f1os",
+      "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
     },
     {
       "added_at": "2026-08-06 22:01:18",

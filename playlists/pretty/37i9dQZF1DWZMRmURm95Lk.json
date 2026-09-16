@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49095,
+  "num_followers": 49098,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "D.O.G.O. (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Faccio Quello Che Voglio",
         "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
       },
@@ -691,22 +711,6 @@
       "duration_ms": 270293,
       "name": "Non Piove",
       "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -751,22 +755,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 224526,
-      "name": "D.O.G.O. (feat. Marracash)",
-      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
+      "duration_ms": 295160,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "PALAZZINE",
         "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 151999,
       "name": "PALAZZINE",
       "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -919,8 +919,8 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Sacrosanto",
-        "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
       },
       "artists": [
         {
@@ -928,17 +928,17 @@
           "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 167416,
-      "name": "El Cl\u00e1sico",
-      "url": "https://open.spotify.com/track/1o3zBspiPekHlbnewhq7Nf"
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Blocknotes",
         "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
       },
       "artists": [
         {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
         }
       ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1039,6 +1023,22 @@
       "duration_ms": 265840,
       "name": "Chiedi Alla Polvere 2008",
       "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Lealt\u00e0 e rispetto",
-        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Capeesh",
-      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1483,26 +1483,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Lato B (feat. Mecna, Gu\u00e8)",
-        "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
       "artists": [
         {
-          "name": "Big Fish",
-          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
         },
         {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 176860,
-      "name": "Lato B (feat. Mecna, Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1527,22 +1523,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+        "name": "Lato B (feat. Mecna, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
       },
       "artists": [
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
         },
         {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+      "duration_ms": 176860,
+      "name": "Lato B (feat. Mecna, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2483,22 +2483,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Guns & Butter",
-        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
+        "name": "Fuori di qua! (Stories) [2022 Remastered]",
+        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
       "artists": [
         {
-          "name": "Click Head",
-          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
         },
         {
-          "name": "Lvnar",
-          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 191120,
-      "name": "C.L.I.C.K.",
-      "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
+      "duration_ms": 159000,
+      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2527,22 +2527,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fuori di qua! (Stories) [2022 Remastered]",
-        "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
+        "name": "Guns & Butter",
+        "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
       },
       "artists": [
         {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+          "name": "Click Head",
+          "url": "https://open.spotify.com/artist/56aUoplmbKn4XspyEbhAfs"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Lvnar",
+          "url": "https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+      "duration_ms": 191120,
+      "name": "C.L.I.C.K.",
+      "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/214vCBQmCXS0AdXwB7K6rz"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        }
-      ],
-      "duration_ms": 131162,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/5AituxD4v7K00yqjQx851p"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Malastrada",
         "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/214vCBQmCXS0AdXwB7K6rz"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        }
+      ],
+      "duration_ms": 131162,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5AituxD4v7K00yqjQx851p"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2807,30 +2807,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Ora Che La Musica Non C'\u00e8",
-        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Ze in the Clouds",
-          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Ora Che La Musica Non C'\u00e8",
-      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2871,6 +2847,30 @@
       "duration_ms": 229588,
       "name": "Nostra Signora delle Lacrime",
       "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Ora Che La Musica Non C'\u00e8",
+        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Ora Che La Musica Non C'\u00e8",
+      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
     },
     {
       "added_at": "2026-05-29 09:57:53",

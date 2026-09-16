@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
+  "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -5402,7 +5402,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 219886,
       "name": "\u3067\u3043\u3059\u3053\u307f\u3085\u30fc\u305f\u3093\u3068\uff01",
       "url": "https://open.spotify.com/track/28BbapjlYpNr7etU0nqEv4"
@@ -7544,7 +7544,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 179872,
       "name": "\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/6xNwd1pjUjTfHwzN2yyndS"
@@ -8134,7 +8134,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 163682,
       "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
       "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
@@ -10542,7 +10542,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 158838,
       "name": "\u30ec\u30e0",
       "url": "https://open.spotify.com/track/7jknqnVScv1P6ed2b7YCh1"
@@ -12875,6 +12875,28 @@
     },
     {
       "album": {
+        "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/7LJsGjKF8UNlsvBeXezspq"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211892,
+      "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2oiylllT3beeY5RsyDbJwF"
+    },
+    {
+      "album": {
         "name": "\u6551\u6e08\u4e16\u754c",
         "url": "https://open.spotify.com/album/1onXEvibvFkGKJmTrf4rKl"
       },
@@ -13060,6 +13082,24 @@
       "duration_ms": 171955,
       "name": "\u6ce1\u6cab\u672a\u6765 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1dV1V1xgkrnWE1GcK5fsdw"
+    },
+    {
+      "album": {
+        "name": "\u6d17\u8133",
+        "url": "https://open.spotify.com/album/66CtC6WwCqspUDDbir6Mna"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171384,
+      "name": "\u6d17\u8133",
+      "url": "https://open.spotify.com/track/6EoeFqo0doIQQPjerATRdi"
     },
     {
       "album": {
@@ -13555,6 +13595,28 @@
     },
     {
       "album": {
+        "name": "\u77e5\u3089\u3093\u304c\u306a\uff01",
+        "url": "https://open.spotify.com/album/3Xv19rLj52Kp8F3bTIuLpF"
+      },
+      "artists": [
+        {
+          "name": "TakoyakiKZY",
+          "url": "https://open.spotify.com/artist/6r4rZhVWa9yEgNw3HPk3oZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "\u77e5\u3089\u3093\u304c\u306a\uff01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7LqhDtY3bdnhng57oYJOfE"
+    },
+    {
+      "album": {
         "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
         "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
       },
@@ -13620,7 +13682,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 195693,
       "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"

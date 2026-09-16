@@ -166,9 +166,27 @@
           "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
         }
       ],
-      "date_added": "2026-09-13",
+      "date_added": "2026-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195750,
+      "name": "AIRPLANE DRAGONS",
+      "url": "https://open.spotify.com/track/7bN4ufQWjbzjn5VzZWHvRA"
+    },
+    {
+      "album": {
+        "name": "AIRPLANE DRAGONS",
+        "url": "https://open.spotify.com/album/7q8TFgYGUEI9SDCXIgvsTE"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "date_added": "2026-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-16",
       "duration_ms": 195779,
       "name": "AIRPLANE DRAGONS - flipnote version",
       "url": "https://open.spotify.com/track/04m91Hv55D7E0DY8l2T3fN"

@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-159 songs - 9 hr 20 min
+160 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Want You to Know](https://open.spotify.com/track/7wBTPkvp26iTn9I2lw0jTq) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Want You to Know](https://open.spotify.com/album/6yELUYbON9ksIFpsH5jMsq) | 4:07 | 2024-04-04 |  |
 | [Watermelon Sugar \- Acoustic Version](https://open.spotify.com/track/79yxkSM5D7qDqgPmePLdwt) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Watermelon Sugar \(Acoustic Version\)](https://open.spotify.com/album/0HKAF4Lr3SArymKJyDFWwH) | 3:59 | 2026-08-21 |  |
 | [We'll Carve Our Fate in Light \- Original Motion Picture Soundtrack](https://open.spotify.com/track/2bg7EQZklsa91JDVrU60OL) | [Globotom](https://open.spotify.com/artist/4pmDtJQcRGtd8HrzrUzpp0) | [HOLY B3 \(Original Motion Picture Soundtrack, Additional Draft 2\)](https://open.spotify.com/album/2PPikUayZ5ulUCvRKyJXjo) | 2:20 | 2025-11-28 |  |
+| [Welcome To The Show](https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw) | [Bunyin Yang](https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o) | [The Power Of Being Human](https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G) | 5:40 | 2026-09-15 |  |
 | [What Does Bob Think?](https://open.spotify.com/track/41Mfjkvgz4I7QZDTRKUQyV) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [What Does Bob Think?](https://open.spotify.com/album/1r3Fgt7pAhlcpVtV3aJ5lE) | 2:36 | 2025-10-17 |  |
 | [Which Way Do We Go Joe](https://open.spotify.com/track/6dERKxXSWO7O8B3T3Iceaa) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Which Way Do We Go Joe](https://open.spotify.com/album/6MX0RKmyvnO8bXyFaAFVwv) | 3:36 | 2024-08-25 | 2026-09-07 |
 | [Which Way Home](https://open.spotify.com/track/5gypSjbATM00GdWh4VoKl2) | [Simon Watt](https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx) | [Which Way Home](https://open.spotify.com/album/1IIFgNoe9XmkCVCFuIKeta) | 3:20 | 2026-09-02 |  |

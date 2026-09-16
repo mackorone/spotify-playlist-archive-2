@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549079,
+  "num_followers": 549099,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Bury Me in Smoke",
-      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Bury Me in Smoke",
+      "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162866,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Tumuli Schroomaroom",
-        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
-      },
-      "artists": [
-        {
-          "name": "Acrimony",
-          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
-        }
-      ],
-      "duration_ms": 599683,
-      "name": "Heavy Feather",
-      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 311546,
       "name": "Gold",
       "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Tumuli Schroomaroom",
+        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
+      },
+      "artists": [
+        {
+          "name": "Acrimony",
+          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
+        }
+      ],
+      "duration_ms": 599683,
+      "name": "Heavy Feather",
+      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
       "artists": [
         {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
         }
       ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+      "duration_ms": 3809026,
+      "name": "Dopesmoker - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Seven Thunders Roar",
         "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 961942,
       "name": "I'm the Mountain",
       "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1387,18 +1387,34 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
       "artists": [
         {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
         }
       ],
-      "duration_ms": 3809026,
-      "name": "Dopesmoker - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
         }
       ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Acid Roulette",
+        "url": "https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei"
+      },
+      "artists": [
+        {
+          "name": "Scorpion Child",
+          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
+        }
+      ],
+      "duration_ms": 349466,
+      "name": "Acid Roulette",
+      "url": "https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Blast Tyrant (Deluxe Version)",
         "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 526293,
       "name": "Aquamaria",
       "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa"
     },
     {
       "added_at": "2026-03-13 04:00:13",

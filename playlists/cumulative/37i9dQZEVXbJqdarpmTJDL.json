@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 156992,
       "name": "APROVEITAR",
       "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
@@ -44372,7 +44372,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 165239,
       "name": "Pagkosmia Mera Tou Psefti",
       "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
@@ -55099,6 +55099,24 @@
     },
     {
       "album": {
+        "name": "Ta Isia Anapoda",
+        "url": "https://open.spotify.com/album/7jmBZ2HsLdfSmVbAufYtDE"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261328,
+      "name": "Stigmes Pou De S'eho (Duvar)",
+      "url": "https://open.spotify.com/track/7miJgzcdCPfS7OZTx4LIPX"
+    },
+    {
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/0El9I9tw2H0ZgUj8HAmGc2"
       },
@@ -58184,7 +58202,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 258959,
       "name": "Thelo Na Gyriso",
       "url": "https://open.spotify.com/track/4cFR2teyX5ruLaIsC1InGw"
@@ -58206,7 +58224,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 259160,
       "name": "Thelo Na Gyriso (feat. Giorgos Mazonakis)",
       "url": "https://open.spotify.com/track/1qeTn4M8h8IJpyVz9mfJDK"
@@ -59314,6 +59332,24 @@
       "duration_ms": 171042,
       "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
       "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"
+    },
+    {
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320586,
+      "name": "To Gucci Forema",
+      "url": "https://open.spotify.com/track/4lCRX28Mg4THeZ70wyqi2U"
     },
     {
       "album": {
@@ -64702,7 +64738,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 172161,
       "name": "YAMAS",
       "url": "https://open.spotify.com/track/7gDcMIJpUEgVU9uLcQttTE"
@@ -65194,7 +65230,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 189586,
       "name": "Zilevo",
       "url": "https://open.spotify.com/track/0szmijpnvC2vy9fZtET0Fd"

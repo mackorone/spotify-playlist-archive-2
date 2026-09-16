@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 363863,
+  "num_followers": 364156,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Fallen Down",
-        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+        "name": "You Are Here / Ataraxia",
+        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
       },
       "artists": [
         {
-          "name": "Duncan Cox",
-          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 141219,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
+      "duration_ms": 199960,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -575,22 +575,6 @@
       "duration_ms": 376000,
       "name": "I'm Going to Do It",
       "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "You Are Here / Ataraxia",
-        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -615,6 +599,22 @@
       "duration_ms": 93225,
       "name": "father\u00b4s love",
       "url": "https://open.spotify.com/track/6F7xtmh542Czm54izE7RIe"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
       "artists": [
         {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
         }
       ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1011,6 +995,22 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -1459,22 +1439,6 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1495,18 +1459,38 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Common",
-        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 155186,
-      "name": "Common",
-      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1523,6 +1507,22 @@
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Common",
+      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Dance of Seasons",
         "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 422853,
       "name": "Dance of Seasons",
       "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Canneto",
-        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
+        "name": "Hidden Lights",
+        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
       },
       "artists": [
         {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        },
-        {
-          "name": "G.U.P. Alcaro",
-          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
         }
       ],
-      "duration_ms": 114500,
-      "name": "Canneto",
-      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+      "duration_ms": 176000,
+      "name": "Hidden Lights",
+      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Hidden Lights",
-        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+        "name": "Canneto",
+        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
       "artists": [
         {
-          "name": "\u00d8rlund",
-          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        },
+        {
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Hidden Lights",
-      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
+      "duration_ms": 114500,
+      "name": "Canneto",
+      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
     },
     {
       "added_at": "2026-08-18 13:05:46",

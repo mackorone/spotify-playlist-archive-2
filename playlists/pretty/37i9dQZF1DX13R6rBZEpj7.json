@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 285922,
+  "num_followers": 285978,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,18 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
+        "name": "We Want Bass",
+        "url": "https://open.spotify.com/album/4aXFpQRlFuW6bE8Fyq5ML7"
       },
       "artists": [
         {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
-        },
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
         }
       ],
-      "duration_ms": 154098,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
+      "duration_ms": 154525,
+      "name": "Foxtrot Oscar",
+      "url": "https://open.spotify.com/track/1BgZyTf26WaeUMeDtBspC2"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -71,18 +67,22 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "We Want Bass",
-        "url": "https://open.spotify.com/album/4aXFpQRlFuW6bE8Fyq5ML7"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
       },
       "artists": [
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
         }
       ],
-      "duration_ms": 154525,
-      "name": "Foxtrot Oscar",
-      "url": "https://open.spotify.com/track/1BgZyTf26WaeUMeDtBspC2"
+      "duration_ms": 154098,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -507,22 +507,22 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "I've Got A Crush",
-        "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
+        "name": "Bun It Down",
+        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
       },
       "artists": [
         {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
         },
         {
-          "name": "Laurena Volant\u00e9",
-          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         }
       ],
-      "duration_ms": 148956,
-      "name": "I've Got A Crush",
-      "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
+      "duration_ms": 173871,
+      "name": "Bun It Down",
+      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -547,22 +547,22 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "Bun It Down",
-        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
+        "name": "I've Got A Crush",
+        "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
       },
       "artists": [
         {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
         },
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
         }
       ],
-      "duration_ms": 173871,
-      "name": "Bun It Down",
-      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
+      "duration_ms": 148956,
+      "name": "I've Got A Crush",
+      "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -583,58 +583,6 @@
       "duration_ms": 183070,
       "name": "What Do I Need To Do",
       "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
-        "name": "If You Could Be My Sweetheart",
-        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
-      },
-      "artists": [
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "If You Could Be My Sweetheart",
-      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
-        "name": "Moment (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 123242,
-      "name": "Moment (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -663,6 +611,74 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
+        "name": "Moment (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 123242,
+      "name": "Moment (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
+        "name": "If You Could Be My Sweetheart",
+        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "If You Could Be My Sweetheart",
+      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
+        "name": "Bassline Girl",
+        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Bassline Girl",
+      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
       },
@@ -687,42 +703,6 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "Bassline Girl",
-        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Bassline Girl",
-      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
-        "name": "Rewind Crew",
-        "url": "https://open.spotify.com/album/2gfHvl5pbe42rnIlWvIkJk"
-      },
-      "artists": [
-        {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
-        },
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Rewind Crew",
-      "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
         "name": "If You Let Me (Denon Reed Remix)",
         "url": "https://open.spotify.com/album/1Ngm0SCK04iTjyHSRnKF00"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 160116,
       "name": "If You Let Me - Denon Reed Remix",
       "url": "https://open.spotify.com/track/5rkAi06XtpP0hCvWjhHiSU"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
+        "name": "Rewind Crew",
+        "url": "https://open.spotify.com/album/2gfHvl5pbe42rnIlWvIkJk"
+      },
+      "artists": [
+        {
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+        },
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Rewind Crew",
+      "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "Sofa Soup",
-        "url": "https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs"
+        "name": "It Wasn't Me",
+        "url": "https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck"
       },
       "artists": [
         {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Mike Jasom",
+          "url": "https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Sofa Soup",
-      "url": "https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2"
+      "duration_ms": 134673,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "It Wasn't Me",
-        "url": "https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck"
+        "name": "Sofa Soup",
+        "url": "https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs"
       },
       "artists": [
         {
-          "name": "Mike Jasom",
-          "url": "https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB"
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
         }
       ],
-      "duration_ms": 134673,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3"
+      "duration_ms": 169714,
+      "name": "Sofa Soup",
+      "url": "https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
+        "name": "Bad Boi Selecta",
+        "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Bad Boi Selecta",
+      "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
+    },
+    {
+      "added_at": "2026-09-03 23:00:40",
+      "album": {
         "name": "Inside The Rider (DJ Q Edit)",
         "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
       },
@@ -1259,22 +1279,22 @@
     {
       "added_at": "2026-09-03 23:00:40",
       "album": {
-        "name": "Bad Boi Selecta",
-        "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
+        "name": "I Would Like (Chad Harrison Remix)",
+        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
       },
       "artists": [
         {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
         },
         {
-          "name": "JACK MARLOW",
-          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
         }
       ],
-      "duration_ms": 168351,
-      "name": "Bad Boi Selecta",
-      "url": "https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt"
+      "duration_ms": 187708,
+      "name": "I Would Like - Chad Harrison Remix",
+      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
     },
     {
       "added_at": "2026-09-03 23:00:40",
@@ -1299,26 +1319,6 @@
       "duration_ms": 204315,
       "name": "Little Bitta This",
       "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
-    },
-    {
-      "added_at": "2026-09-03 23:00:40",
-      "album": {
-        "name": "I Would Like (Chad Harrison Remix)",
-        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        },
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 187708,
-      "name": "I Would Like - Chad Harrison Remix",
-      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
     },
     {
       "added_at": "2026-09-03 23:00:40",

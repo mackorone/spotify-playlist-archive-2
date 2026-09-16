@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,018 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,008 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 19 | [onde mora meu desejo](https://open.spotify.com/track/4K6elD9HLi1ocFVwELmxGV) | [Luiz Barata](https://open.spotify.com/artist/4byypTzEl6KXXo34lETP2P), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Nitcho](https://open.spotify.com/artist/4YgGAofWf2S64SvMbRQdb1) | [onde mora meu desejo](https://open.spotify.com/album/3WRgiTGoeMF7RjQGpaNlfV) | 2:43 |
 | 20 | [Humor Negro](https://open.spotify.com/track/4IYnoK3HhazCbNBICzLMBO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Humor Negro](https://open.spotify.com/album/6g9pABLzsklAKdyFIi9ifx) | 3:29 |
 | 21 | [Epitáfio de um ex apaixonado](https://open.spotify.com/track/63Wj0neC5ebBTyudDg2G4U) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc), [Pulim](https://open.spotify.com/artist/1bz6GpkRZaeBbkUeDbVkW9), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Fiquei o tempo que precisei](https://open.spotify.com/album/5gAO1YnNTdb2hoSHLLNk4T) | 3:01 |
-| 22 | [RABISCOS ILÍCITOS](https://open.spotify.com/track/6tOBRh1vwUNSrl5AiKpxSG) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF) | [RABISCOS ILÍCITOS](https://open.spotify.com/album/2xi7Qssdt89llpuNJNPdOv) | 2:03 |
+| 22 | [RABISCOS ILÍCITOS](https://open.spotify.com/track/6tOBRh1vwUNSrl5AiKpxSG) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [RABISCOS ILÍCITOS](https://open.spotify.com/album/2xi7Qssdt89llpuNJNPdOv) | 2:03 |
 | 23 | [Bicho Solto](https://open.spotify.com/track/2CKtHtFfYBHDVmLNFoJxbM) | [Gbz7n](https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Caixa Baixa](https://open.spotify.com/album/3dy6judBYkEZjGRB83V4pP) | 2:00 |
 | 24 | [Pilacagem](https://open.spotify.com/track/6tcvzxSFQjvDjbUxRihSng) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Pilacagem](https://open.spotify.com/album/52PyFbb81Chc7K1LWvqKke) | 3:04 |
 | 25 | [2002](https://open.spotify.com/track/5PT6rLT40t7fIn5pyUa2Xm) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920) | [2002](https://open.spotify.com/album/2YQg0nD77wMMUxO13lHXq9) | 2:04 |

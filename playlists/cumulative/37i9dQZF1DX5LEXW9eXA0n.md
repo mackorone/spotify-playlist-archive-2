@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,794 songs - 4 day 20 hr 30 min
+1,795 songs - 4 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 | 2023-06-13 | 2023-10-20 |
 | [Forsake](https://open.spotify.com/track/4riSqVzNeyDqCADUJkf2G8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Forsake \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4rHwtJnjD7UAPrptbyutVd) | 5:11 | 2025-05-22 | 2025-10-02 |
 | [Forsake](https://open.spotify.com/track/59DN9dv9Eve47ueymquSDH) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Monday Kiz's Footprints Vol.2](https://open.spotify.com/album/7Hr4bSfZcLSUNaZmFToUOe) | 5:23 | 2026-02-09 | 2026-07-02 |
+| [Four seasons, and you](https://open.spotify.com/track/0WG8bF9hcCRTptbNk9xySb) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Lee;Make \(Fragmenta Amoris\)](https://open.spotify.com/album/73LurXJRbbvB7xUZWox1ST) | 3:53 | 2026-09-15 |  |
 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-05 | 2024-06-05 |
 | [From Love](https://open.spotify.com/track/77jx4JT1UDC00OE6aR8cbG) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [From Love](https://open.spotify.com/album/3nRi3fNa4jP1ezEKjANq1M) | 3:29 | 2025-11-02 | 2026-02-02 |
 | [Full Bloom](https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Full Bloom](https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r) | 4:13 | 2022-02-25 | 2022-05-08 |
@@ -1744,7 +1745,7 @@
 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-23 | 2025-11-29 |
 | [미친 사랑의 속삭임](https://open.spotify.com/track/6ebK8ZX2wcBrO6rx6Sp7nu) | [장미미](https://open.spotify.com/artist/2XFA9KevNHVt4y6Zl5dYkh), [서울레트로보이](https://open.spotify.com/artist/6MfvU7HGkuPXvT6Jxijt2T) | [사랑...그 곳의 속삭임](https://open.spotify.com/album/1eWZs5BG7F8rufONzAZVZh) | 4:38 | 2022-03-24 | 2022-04-19 |
 | [바라던 이별은 마음에 드나요](https://open.spotify.com/track/45aFlbSfWtHMznVdTzgcgL) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [바라던 이별은 마음에 드나요](https://open.spotify.com/album/2KhTt4Xjbiy9vzKu2I0PLz) | 3:42 | 2026-01-02 | 2026-04-16 |
-| [발라드, 려요 \- 김나영](https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [발라드, 려요 \- 김나영](https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X) | 0:03 | 2023-05-15 |  |
+| [발라드, 려요 \- 김나영](https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [발라드, 려요 \- 김나영](https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X) | 0:03 | 2023-05-15 | 2026-09-16 |
 | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/track/6BfjwiYI0pz3IJlJvGF2Cn) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [벗 \(왕과 사는 남자 Original Soundtrack\)](https://open.spotify.com/album/7blbjKGb1p8TQR4ZLWJipu) | 3:30 | 2026-04-03 |  |
 | [보고 싶은 순간](https://open.spotify.com/track/2OM8UY7YROyhDcgfCEnyux) | [Marmalade Kitchen](https://open.spotify.com/artist/4HgQ22crYOIRhaxRkJKXaf), [전동욱](https://open.spotify.com/artist/18btmeYXREZ1TBpvQznG1u) | [보고 싶은 순간](https://open.spotify.com/album/29Ko3a0Sqbbx6jZWvKEyCr) | 3:37 | 2022-07-07 | 2022-07-27 |
 | [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 | 2025-02-10 | 2025-05-31 |

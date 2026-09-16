@@ -1,6 +1,6 @@
 {
   "description": "Escape with these melodic liquid drum & bass beats",
-  "num_followers": 142696,
+  "num_followers": 142720,
   "original_name": "Chilled Drum & Bass",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-08-27 23:00:32",
       "album": {
+        "name": "Rumination",
+        "url": "https://open.spotify.com/album/3HPZHv2gZFbDDV3qwIs37q"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 280444,
+      "name": "Rumination",
+      "url": "https://open.spotify.com/track/5YY9X4MXksJ5oJ1cfGFQPN"
+    },
+    {
+      "added_at": "2026-08-27 23:00:32",
+      "album": {
         "name": "ARP2600 (LOVE ME/LEFT ME)",
         "url": "https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 176551,
       "name": "ARP2600 (LOVE ME/LEFT ME)",
       "url": "https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F"
-    },
-    {
-      "added_at": "2026-08-27 23:00:32",
-      "album": {
-        "name": "Rumination",
-        "url": "https://open.spotify.com/album/3HPZHv2gZFbDDV3qwIs37q"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 280444,
-      "name": "Rumination",
-      "url": "https://open.spotify.com/track/5YY9X4MXksJ5oJ1cfGFQPN"
     },
     {
       "added_at": "2026-08-27 23:00:32",

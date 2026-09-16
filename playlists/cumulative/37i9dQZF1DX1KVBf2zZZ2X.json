@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 161927,
       "name": "Holding Quiet",
       "url": "https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0"
@@ -5544,6 +5544,24 @@
       "duration_ms": 188500,
       "name": "Stolen Stream Moments",
       "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"
+    },
+    {
+      "album": {
+        "name": "Sun Warmed",
+        "url": "https://open.spotify.com/album/2YcsfJ8pux4NLSJQla2pha"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "Sun Warmed",
+      "url": "https://open.spotify.com/track/6wvxwPHGB3cUOZbjc7IZFH"
     },
     {
       "album": {

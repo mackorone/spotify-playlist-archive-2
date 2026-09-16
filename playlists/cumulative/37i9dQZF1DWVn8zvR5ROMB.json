@@ -209861,6 +209861,24 @@
     },
     {
       "album": {
+        "name": "Take My Time",
+        "url": "https://open.spotify.com/album/6ei5ORifYf5LgjPVE85JBZ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Take My Time",
+      "url": "https://open.spotify.com/track/2Nqx1u8Gq38wse9NsXklCb"
+    },
+    {
+      "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/0diogpeOTG17IyygwU6bVQ"
       },
@@ -247558,6 +247576,24 @@
       "duration_ms": 181065,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/3ZC8vUJMOpy6wsCamiLyGl"
+    },
+    {
+      "album": {
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172446,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt"
     },
     {
       "album": {

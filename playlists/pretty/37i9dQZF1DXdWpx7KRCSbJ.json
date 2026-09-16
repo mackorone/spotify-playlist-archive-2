@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 326043,
+  "num_followers": 326027,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd"
+      },
+      "artists": [
+        {
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+        }
+      ],
+      "duration_ms": 144222,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd"
-      },
-      "artists": [
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
-        }
-      ],
-      "duration_ms": 144222,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Deixa Eu Te Fazer Feliz",
+        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Deixa Eu Te Fazer Feliz",
+      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Pra voc\u00ea acreditar (Ao vivo)",
         "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
       },
@@ -1055,26 +1075,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixa Eu Te Fazer Feliz",
-        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Deixa Eu Te Fazer Feliz",
-      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "O Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 177740,
+      "name": "O Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "S\u00e9culo 21",
         "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 167838,
       "name": "S\u00e9culo 21",
       "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "O Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 177740,
-      "name": "O Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA"
     },
     {
       "added_at": "2023-01-17 01:33:36",

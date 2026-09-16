@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-1,108 songs - 2 day 15 hr 23 min
+1,109 songs - 2 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Go to tomorrow](https://open.spotify.com/track/24tHNTYko3kd6FBcGtLdup) | [Ryu Ji Kwang](https://open.spotify.com/artist/7GjsbJgT9M7DpYIKEV9E1W) | [Taepung's Bride \(Original Soundtrack\), Pt.20](https://open.spotify.com/album/7AzzizLooEwnORg1VctocL) | 3:43 | 2023-01-27 | 2023-02-04 |
 | [Go Your Own Way](https://open.spotify.com/track/1nW1VIqmVYEAOQOOknTKKm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Live your own life OST Part\. 2 \(Soundtrack\)](https://open.spotify.com/album/7h2R9ip3aRPTmaErj3aD6p) | 2:55 | 2024-08-13 | 2025-09-16 |
 | [Godsaeng](https://open.spotify.com/track/24A8oxjZjXIK8Hzddo4VrP) | [SUNGMIN](https://open.spotify.com/artist/2O46GIp2cr4sZaVPcP0ket) | [UNLIMIT](https://open.spotify.com/album/2xqTYpN2O90wzuMTSKCpCY) | 2:55 | 2026-02-06 | 2026-05-14 |
+| [GOGO](https://open.spotify.com/track/7ohN5ImOsaOF7OO3lNCEIm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [GOGO](https://open.spotify.com/album/3qfAHtZCxR0cdelIWF0omH) | 2:37 | 2026-09-15 |  |
 | [Gold spoon](https://open.spotify.com/track/3Crmxpt9piIRXEgBoR2Dbf) | [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l) | [Music Source of Mr\. Trot3 TOP7 New song](https://open.spotify.com/album/2AmJJUywYpDsV7Sgn5Z9Mx) | 3:24 | 2025-04-23 | 2025-07-06 |
 | [Gombaeryung](https://open.spotify.com/track/4FgouUB2bPqy3gSz0He1yg) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:35 | 2022-05-03 | 2022-07-29 |
 | [Gone with the wind](https://open.spotify.com/track/6ti2584f9lgsO34iX4ywsK) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:52 | 2022-05-03 | 2022-06-13 |

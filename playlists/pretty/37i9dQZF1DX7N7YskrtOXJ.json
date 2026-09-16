@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 128419,
+  "num_followers": 128460,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+        "name": "Mentirosa Remix",
+        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+      "duration_ms": 179405,
+      "name": "Mentirosa Remix",
+      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -323,22 +319,26 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Mentirosa Remix",
-        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 179405,
-      "name": "Mentirosa Remix",
-      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Estaba Aqu\u00ed Pensando",
         "url": "https://open.spotify.com/album/2hw5TTZ931aY4nYBMhXX2C"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 187009,
       "name": "Estaba Aqu\u00ed Pensando",
       "url": "https://open.spotify.com/track/7fLicsIMv7WlXGTeLL089c"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Nectar Internacional",
-        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 226602,
-      "name": "Tu Vives Equivocada",
-      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "La Pulguita",
         "url": "https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 212369,
       "name": "La Pulguita",
       "url": "https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 226602,
+      "name": "Tu Vives Equivocada",
+      "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 226882,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Divorcio",
         "url": "https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 241583,
       "name": "El Divorcio",
       "url": "https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "duration_ms": 226882,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        },
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 190736,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Sigo Enamorado de Ti",
         "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 190736,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2026-09-04 18:44:34",

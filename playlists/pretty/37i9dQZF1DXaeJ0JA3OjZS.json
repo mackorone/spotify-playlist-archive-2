@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 234862,
+  "num_followers": 234919,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "El Caballo Y El Carro",
-        "url": "https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e"
+        "name": "El Puente Roto",
+        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
       },
       "artists": [
         {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 149851,
-      "name": "El Caballo Y El Carro",
-      "url": "https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P"
+      "duration_ms": 160466,
+      "name": "Caballos de la Cordada",
+      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -895,18 +891,22 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "El Puente Roto",
-        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+        "name": "El Caballo Y El Carro",
+        "url": "https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Caballos de la Cordada",
-      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
+      "duration_ms": 149851,
+      "name": "El Caballo Y El Carro",
+      "url": "https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P"
     },
     {
       "added_at": "2026-01-05 19:29:05",

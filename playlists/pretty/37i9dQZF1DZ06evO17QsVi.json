@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1237958,
+  "num_followers": 1238066,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACD1eEd3ZQ2wpvSW2AecCE8",
+  "snapshot_id": "aqc5AAAAAAABF6pOiwHWge/NcgwhwxUN",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Hit 'Em Up - Single Version",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": null,
@@ -116,13 +96,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Talent",
-          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": null,
@@ -186,11 +166,15 @@
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
         }
       ],
-      "duration_ms": 312373,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP"
+      "duration_ms": 268826,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
     },
     {
       "added_at": null,
@@ -247,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
       "artists": [
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Digital Underground",
-          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
         }
       ],
-      "duration_ms": 259000,
-      "name": "I Get Around",
-      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
+      "duration_ms": 312373,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP"
     },
     {
       "added_at": null,
@@ -283,6 +263,26 @@
       "duration_ms": 287546,
       "name": "How Do U Want It (ft. K-Ci & JoJo)",
       "url": "https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "To Live & Die In L.A.",
-      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 330760,
       "name": "Can't C Me",
       "url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Troublesome '96",
-      "url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 296906,
       "name": "Only God Can Judge Me (ft. Rappin' 4-Tay)",
       "url": "https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Troublesome '96",
+      "url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
       "duration_ms": 235333,
       "name": "Letter 2 My Unborn",
       "url": "https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Unconditional Love",
-      "url": "https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl"
     },
     {
       "added_at": null,
@@ -951,6 +935,22 @@
       "duration_ms": 241400,
       "name": "Living in Pain (feat. 2Pac, Mary J. Blige & Nas)",
       "url": "https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Unconditional Love",
+      "url": "https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl"
     }
   ],
   "unique_name": "This Is 2Pac",

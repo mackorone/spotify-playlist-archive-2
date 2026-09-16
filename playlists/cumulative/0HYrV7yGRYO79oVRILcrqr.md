@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-747 songs - 1 day 22 hr 35 min
+749 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
 | [Reavolution In My Heart](https://open.spotify.com/track/69kTUQgmVL6ZmiPCgMvL2X) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Reavolution In My Heart](https://open.spotify.com/album/2CxbbzofbA3QHPUGdGautI) | 3:45 | 2026-07-21 |  |
 | [Recipe](https://open.spotify.com/track/0Ym4Dc0ohJCHsYLjCWSj9m) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Recipe](https://open.spotify.com/album/0rbqeuSrlS68u3gMD0qvN0) | 4:36 | 2026-07-18 | 2026-08-01 |
+| [Recomeçar](https://open.spotify.com/track/1mF1agdfi1QMRxBjQn5xbM) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Recomeçar](https://open.spotify.com/album/6l2uBj66bAHppxXgObKV87) | 3:18 | 2026-09-15 |  |
 | [Red Flags](https://open.spotify.com/track/38RZyMyR07gV4f9Fbc6O6a) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Red Flags](https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc) | 3:10 | 2026-07-08 | 2026-08-01 |
 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
@@ -714,6 +715,7 @@
 | [What If I told you ?](https://open.spotify.com/track/5p9tGySB7Rd3fvDLAEHvhE) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [What If I told you ?](https://open.spotify.com/album/1FPaYkXAZG65aGw9G4AOzJ) | 5:41 | 2026-06-16 | 2026-06-25 |
 | [What You Mean To Me](https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e) | [CulturalException](https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [What You Mean To Me](https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz) | 4:11 | 2026-05-27 | 2026-06-18 |
 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 | 2026-05-12 | 2026-05-26 |
+| [Whatever You Want Is What It Means](https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Whatever You Want Is What It Means](https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr) | 2:58 | 2026-09-15 |  |
 | [When I Get Old](https://open.spotify.com/track/6yFzWY5DuTVibHfhUF4H8C) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [When I Get Old](https://open.spotify.com/album/4gLSznIkD0X8ndqSGe5rZn) | 2:27 | 2026-03-28 | 2026-05-26 |
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 | 2026-05-26 |
 | [When I Try](https://open.spotify.com/track/5dLLViRjSxKkkjJsfRBJ3i) | [Phil Headway](https://open.spotify.com/artist/6tpCZkSzWlh8GvohFl8zhe) | [The Answers](https://open.spotify.com/album/4mWlq6c2crzdg8Il3iV570) | 2:59 | 2026-05-21 | 2026-06-18 |

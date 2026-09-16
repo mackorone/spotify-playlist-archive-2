@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Co je\u015bli",
+        "url": "https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "Co je\u015bli",
+      "url": "https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh"
+    },
+    {
+      "album": {
         "name": "Co mi tam",
         "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
       },
@@ -16760,7 +16778,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 205810,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG"

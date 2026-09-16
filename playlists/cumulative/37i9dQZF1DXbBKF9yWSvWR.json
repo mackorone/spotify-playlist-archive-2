@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: CHARLOT",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Ciska Ciska",
   "name": "Indie Update",
   "tracks": [
     {
@@ -5603,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
+    },
+    {
+      "album": {
         "name": "getting used to",
         "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
       },
@@ -5618,6 +5636,24 @@
       "duration_ms": 227141,
       "name": "getting used to",
       "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "album": {
+        "name": "Gevoel van September",
+        "url": "https://open.spotify.com/album/1HYUKCEPL9RDR9UXTndxPa"
+      },
+      "artists": [
+        {
+          "name": "Thom\u00e0s",
+          "url": "https://open.spotify.com/artist/4t227VD2X2d3BFbHJWTV7d"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167468,
+      "name": "Gevoel van September",
+      "url": "https://open.spotify.com/track/7pFhEfmFHVcfpndltiiXWE"
     },
     {
       "album": {
@@ -6664,7 +6700,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
@@ -7202,7 +7238,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 226755,
       "name": "I WANT IT!",
       "url": "https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM"
@@ -7675,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Page Of Cups (Reversed)",
+        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150213,
+      "name": "Indoctrinate Me",
+      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
+    },
+    {
+      "album": {
         "name": "Nebulosity",
         "url": "https://open.spotify.com/album/2ijQiIGCkX456WhDSgfayq"
       },
@@ -8046,7 +8100,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 186947,
       "name": "Just My Friend",
       "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
@@ -8988,7 +9042,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 161374,
       "name": "Love Is All",
       "url": "https://open.spotify.com/track/0owKuy8OjZorj3sl1nizkG"
@@ -10492,6 +10546,24 @@
       "duration_ms": 224114,
       "name": "No Surprise",
       "url": "https://open.spotify.com/track/3CwHonJzs4dZuASYwTjEYf"
+    },
+    {
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
     },
     {
       "album": {
@@ -13520,7 +13592,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 151853,
       "name": "Something Coming",
       "url": "https://open.spotify.com/track/7Mccn5WVVxJSfZJtYIwr2C"
@@ -15301,6 +15373,24 @@
     },
     {
       "album": {
+        "name": "The Singer in My Band",
+        "url": "https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254961,
+      "name": "The Kid With the Crown",
+      "url": "https://open.spotify.com/track/67mmg6cNrlhAzJVQpP7NYc"
+    },
+    {
+      "album": {
         "name": "The Kitchen",
         "url": "https://open.spotify.com/album/1kwc8B8ugCKe0GLGuCSF9k"
       },
@@ -17073,6 +17163,24 @@
     },
     {
       "album": {
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
+    },
+    {
+      "album": {
         "name": "hickey",
         "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
       },
@@ -17156,7 +17264,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 208333,
       "name": "WISH YOU WOULD",
       "url": "https://open.spotify.com/track/7KxIlGSa3o4n41CdeCSfpI"

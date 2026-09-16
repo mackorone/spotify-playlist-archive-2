@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-896 songs - 1 day 20 hr 33 min
+897 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [LA VIDA!](https://open.spotify.com/track/3Ittcr9JPeJl27tQgd5HYO) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [MVRPHiN](https://open.spotify.com/artist/4eUFpo56q5J9sN6tUfdPSg), [Lucy Malfroy](https://open.spotify.com/artist/06fuqnVk4qjdjbLW0VbJQE) | [LA VIDA!](https://open.spotify.com/album/66o86Y3LaFbPBesQBnAJWE) | 1:13 | 2025-11-21 |  |
 | [LABELS](https://open.spotify.com/track/10QU20w7EtwdmgWty5ePIq) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [LABELS](https://open.spotify.com/album/5fRlErO9wTjsowLapItSS0) | 2:12 | 2026-08-28 |  |
 | [Lachrymose](https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:29 | 2023-06-23 | 2023-08-10 |
+| [LAST TIME](https://open.spotify.com/track/0QkqW1yKmwCsSdaaI7hbtC) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [LAST TIME](https://open.spotify.com/album/0jI3QUzIvuxH2gge3D9qTC) | 2:19 | 2026-09-15 |  |
 | [Late At Night](https://open.spotify.com/track/0JB5SP9rDrbk2dsZD2781h) | [CiDE](https://open.spotify.com/artist/5LaVL7OUazcgstNz0MmnUb), [Vide](https://open.spotify.com/artist/6NvLDPalJ0Xdf58b6JABvn), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Late At Night](https://open.spotify.com/album/1lLaZy31zYDLJ7B7GrJdE8) | 2:34 | 2024-01-31 | 2024-08-28 |
 | [Lay Low](https://open.spotify.com/track/38mVIN91Aj49QHLU7uTWNQ) | [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Lay Low](https://open.spotify.com/album/40YfdgbzqhYALCcepymqTB) | 3:07 | 2025-02-05 |  |
 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 | 2024-02-23 | 2024-08-28 |

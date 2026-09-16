@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Brighter Blue",
+        "url": "https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188164,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs"
+    },
+    {
+      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 208110,
       "name": "Rollin\u2019 and Tumblin\u2019",
       "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"

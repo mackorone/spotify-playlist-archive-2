@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 344133,
+  "num_followers": 344118,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "Curita Para El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "mil preguntas",
+      "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "X-sex",
         "url": "https://open.spotify.com/album/5FayNByW0emcrthHzDHihF"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 201300,
       "name": "Bitches like me",
       "url": "https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "Curita Para El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
-      },
-      "artists": [
-        {
-          "name": "Zhamira ",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        }
-      ],
-      "duration_ms": 178512,
-      "name": "mil preguntas",
-      "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "La Traici\u00f3n y El Contrabando",
+        "url": "https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 222230,
+      "name": "quiero saber",
+      "url": "https://open.spotify.com/track/7LcAEdMc225cgfTAOalK0O"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 160000,
       "name": "Porquer\u00eda",
       "url": "https://open.spotify.com/track/4zUjrwurtASSlrtMQJFvO6"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "La Traici\u00f3n y El Contrabando",
-        "url": "https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 222230,
-      "name": "quiero saber",
-      "url": "https://open.spotify.com/track/7LcAEdMc225cgfTAOalK0O"
     }
   ],
   "unique_name": "Mujeres latinas del 2025",

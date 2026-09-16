@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 
 > Powerful Classical 💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,677 likes - 92 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,760 likes - 92 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

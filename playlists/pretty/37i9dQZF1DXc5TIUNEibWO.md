@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,337 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,351 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 16 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
 | 17 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
 | 18 | [Ozimzim](https://open.spotify.com/track/2wa2RsqjLqQUxcbINOm2sg) | [Marriot Int Band](https://open.spotify.com/artist/5vxZG4pzTu8Coa6ykFgYHs), [Amarh Pino](https://open.spotify.com/artist/4vlPEDUHrQc07AyMY80Ksf) | [10 Years of Highlife](https://open.spotify.com/album/1Ebou0ZQ5HEdfH3ZZzPDAD) | 5:19 |
-| 19 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
-| 20 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
+| 19 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
+| 20 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
 | 21 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 |
 | 22 | [Afia Donkor \(feat\. Bradez\)](https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Bradez](https://open.spotify.com/artist/43tnhN2d1a8ZTfSV8KImA3) | [Afia Donkor](https://open.spotify.com/album/52I8bvUNNV7N7N4ZpZKD3R) | 6:14 |
 | 23 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 73 | [Tena M'enkyɛn](https://open.spotify.com/track/1Wg78lyQpAwXJD4HmsXTLm) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8), [Paulina Oduro](https://open.spotify.com/artist/5czMkb80eV52LDbBsBoUaG) | [Paapa Yankson Classics](https://open.spotify.com/album/5kpW5ly02ny70LsLWsU9l3) | 5:28 |
 | 74 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 75 | [Odo Da Baabi](https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 5:17 |
-| 76 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
-| 77 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
+| 76 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
+| 77 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
 | 78 | [Show Your Love](https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8) | [Show Your Love](https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7) | 6:46 |
 | 79 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 | 80 | [Casanova](https://open.spotify.com/track/636hMHPfzNAfq21sUYnib1) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1) | [Casanova](https://open.spotify.com/album/3z0kDvxeiKXe9Du4K7rXFA) | 5:40 |

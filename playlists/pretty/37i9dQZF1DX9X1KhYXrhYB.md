@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 
 > Secrets will be spilled\. Listen to the music from Yellowjackets, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,659 likes - 138 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,672 likes - 138 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,9 +130,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 | 120 | [Freak Out](https://open.spotify.com/track/4A7KmLT5PbXil3ntchAsvF) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Bambie](https://open.spotify.com/artist/6dziONGk8cc7ZFza0Am9vU) | [Freak Out](https://open.spotify.com/album/6AOsBT1D5gNyzeYzZcNLtt) | 3:19 |
 | 121 | [Munich](https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Back Room](https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5) | 3:46 |
 | 122 | [Love Comes Close](https://open.spotify.com/track/5GHjhiMYYSCfCGHHfoNVhV) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Love Comes Close \(Deluxe Edition\)](https://open.spotify.com/album/2XNJcFlzfBOvL8SzihQ2E3) | 4:25 |
-| 123 | [Overture](https://open.spotify.com/track/37u4N8Nje0UIJINbW7QULX) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 3:05 |
+| 123 | [Overture](https://open.spotify.com/track/37u4N8Nje0UIJINbW7QULX) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["The Phantom Of The Opera" Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 3:05 |
 | 124 | [S P A C E](https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:25 |
-| 125 | [The Music Of The Night](https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Michael Crawford](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 5:41 |
+| 125 | [The Music Of The Night](https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["The Phantom Of The Opera" Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Michael Crawford](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 5:41 |
 | 126 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 |
 | 127 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 128 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |

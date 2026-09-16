@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 669400,
+  "num_followers": 669528,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Eu Tenho a Promessa",
+        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 336271,
+      "name": "Abra os Meus Olhos",
+      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Mem\u00f3rias 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 264164,
       "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
       "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Eu Tenho a Promessa",
-        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 336271,
-      "name": "Abra os Meus Olhos",
-      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 513960,
+      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 210651,
       "name": "Ele \u00c9 Exaltado - Ao Vivo",
       "url": "https://open.spotify.com/track/0BegvnQ1vYEVWg7HHRbwYl"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 513960,
-      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
     },
     {
       "added_at": "2025-10-17 18:07:08",

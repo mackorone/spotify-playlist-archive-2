@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18526,
+  "num_followers": 18545,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -183,8 +183,8 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "GIRLFRIEND",
-        "url": "https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy"
+        "name": "Fleur froide",
+        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
       },
       "artists": [
         {
@@ -192,29 +192,25 @@
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 259053,
-      "name": "GIRLFRIEND",
-      "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
+      "duration_ms": 212013,
+      "name": "N'y pense plus",
+      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
     },
     {
-      "added_at": "2026-08-19 09:34:09",
+      "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 148292,
-      "name": "Yaya (feat. Aya Nakamura)",
-      "url": "https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl"
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -255,38 +251,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "4 Kamp\u00e9",
-        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 214971,
-      "name": "4 Kamp\u00e9",
-      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Fleur froide",
-        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "N'y pense plus",
-      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -303,6 +267,42 @@
       "duration_ms": 232986,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "GIRLFRIEND",
+        "url": "https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
+    },
+    {
+      "added_at": "2026-08-19 09:34:09",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "Yaya (feat. Aya Nakamura)",
+      "url": "https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -903,22 +903,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Fire in your Eyes",
-        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 215384,
-      "name": "Fire in your Eyes",
-      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
+      "duration_ms": 188871,
+      "name": "Lover Boy (feat. Tayc & Dadju)",
+      "url": "https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -943,26 +947,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 188871,
-      "name": "Lover Boy (feat. Tayc & Dadju)",
-      "url": "https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe"
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1075,18 +1075,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+        "name": "En Haut",
+        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 208484,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+      "duration_ms": 172394,
+      "name": "En Haut",
+      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1137,46 +1145,6 @@
       "url": "https://open.spotify.com/track/3Ra075Q3EScqTP5xr5z0Fk"
     },
     {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
-      },
-      "artists": [
-        {
-          "name": "RJ Kanierra",
-          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "En Haut",
-        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Jr La Melo",
-          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
-        },
-        {
-          "name": "Tam Sir",
-          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
-        }
-      ],
-      "duration_ms": 172394,
-      "name": "En Haut",
-      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
-    },
-    {
       "added_at": "2026-08-21 10:56:34",
       "album": {
         "name": "M\u00c9TAMORPHOSE",
@@ -1195,6 +1163,38 @@
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
+      },
+      "artists": [
+        {
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
     },
     {
       "added_at": "2026-07-24 11:14:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,414 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 9 | [Save some love](https://open.spotify.com/track/5u5dSkp9hURaQVc7URKg1u) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Save some love](https://open.spotify.com/album/79R1zJEokq6UGPQISmHFSk) | 3:03 |
 | 10 | [Pinky Swear](https://open.spotify.com/track/0BAbeScfU1HaFwHUxkr8G6) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [AFTERPART1](https://open.spotify.com/album/0KzqnvgP2lhKHKLLIxGNct) | 3:49 |
 | 11 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
-| 12 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
-| 13 | [Comedown](https://open.spotify.com/track/1ghjUA9djGikWBwVypSSWd) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Comedown](https://open.spotify.com/album/3ivmLoncFu49ItSzbluu5l) | 3:35 |
-| 14 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
-| 15 | [you did not sign up for this](https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [you did not sign up for this](https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl) | 3:15 |
+| 12 | [Comedown](https://open.spotify.com/track/1ghjUA9djGikWBwVypSSWd) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Comedown](https://open.spotify.com/album/3ivmLoncFu49ItSzbluu5l) | 3:35 |
+| 13 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
+| 14 | [you did not sign up for this](https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [you did not sign up for this](https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl) | 3:15 |
+| 15 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
 | 16 | [Bring Me Silence](https://open.spotify.com/track/67TydXvsDGZhxEmV3TOmRm) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Bring Me Silence](https://open.spotify.com/album/48dUmHLMg1vnYD9wwNAm8s) | 3:13 |
 | 17 | [Bad Gurl Summah](https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Bad Gurl Summah](https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4) | 2:34 |
 | 18 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 27 | [Prioriteiten](https://open.spotify.com/track/01hPYoieXsm1xb1s1038JK) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Prioriteiten](https://open.spotify.com/album/4x7Q7iigaDoNT2MmW7KBZj) | 2:59 |
 | 28 | [Oh Zo Hopeloos](https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Oh Zo Hopeloos](https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik) | 2:46 |
 | 29 | [Rode Roos](https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Rode Roos](https://open.spotify.com/album/5cmmeEkArv1qaXxgEczNET) | 2:36 |
-| 30 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
-| 31 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 30 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 31 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
 | 32 | [Meditation](https://open.spotify.com/track/4NizFdh2kwoZmtMEzcPAe6) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Meditation](https://open.spotify.com/album/3r2RmZl4F0CuhQXHPPKK0t) | 3:05 |
 | 33 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
 | 34 | [Alleen](https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Alleen](https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz) | 2:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 40 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
 | 41 | [It’s Your Call](https://open.spotify.com/track/4tJCmU5ZPlucAktrTn23Nt) | [SUUS](https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu) | [It’s Your Call](https://open.spotify.com/album/2uAUPx9qQuoA3uy1Rve2hj) | 2:57 |
 | 42 | [Echo En Toi](https://open.spotify.com/track/3A8jY0pokq2wMg52dPLV1x) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [My Kind of Drama](https://open.spotify.com/album/55ZHaZsdFqRIXy87OTVsaB) | 4:19 |
-| 43 | [Sanguine](https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Sanguine](https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H) | 3:46 |
-| 44 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 43 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 44 | [Sanguine](https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Sanguine](https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H) | 3:46 |
 | 45 | [Buy Me at a Store](https://open.spotify.com/track/7xJB4ubzKGpiKfVqYzy7sC) | [XXJULÍA](https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi), [Ruby Mus](https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5) | [Buy Me at a Store](https://open.spotify.com/album/0hK9R9efmalyI7zqinRd4n) | 2:50 |
 | 46 | [Poco a Poco](https://open.spotify.com/track/4FOPqnLfIp4VkHWLNGEM4U) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Verano de Caracol](https://open.spotify.com/album/26SBFarv1SVOSf2w9dOBuG) | 3:07 |
 | 47 | [Stay](https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Stay](https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE) | 4:16 |

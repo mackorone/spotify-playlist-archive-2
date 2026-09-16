@@ -1,12 +1,12 @@
 {
   "description": "LV, VL Disappear, YV, Riffi, Ella John en meer..",
-  "num_followers": 158369,
+  "num_followers": 158365,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAODztE2xqLY4PGh4tacUe8tYIFYj",
+  "snapshot_id": "AAAAAHyxZdaKKWvQdI8xHd8mzO6HA/E3",
   "tracks": [
     {
       "added_at": "2026-09-11 11:12:14",
@@ -59,6 +59,38 @@
     {
       "added_at": "2026-09-11 11:12:14",
       "album": {
+        "name": "Spoedassistentie",
+        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
+      },
+      "artists": [
+        {
+          "name": "BVL",
+          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
+        }
+      ],
+      "duration_ms": 127659,
+      "name": "Spoedassistentie",
+      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "'T Moest Echt Zo Zijn",
+        "url": "https://open.spotify.com/album/4mX4nvMn4GAiKviF2J5h39"
+      },
+      "artists": [
+        {
+          "name": "SHEP",
+          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "'T Moest Echt Zo Zijn",
+      "url": "https://open.spotify.com/track/7jEj8ZgKCfLT7pg8oQjpcT"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
         "name": "QUARTERBACK",
         "url": "https://open.spotify.com/album/0mz1WZQyuEsbc1oTh6NvY5"
       },
@@ -71,50 +103,6 @@
       "duration_ms": 132110,
       "name": "Beethoven",
       "url": "https://open.spotify.com/track/5SRoSeQTeEVL9krVBTF2em"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "UNO",
-        "url": "https://open.spotify.com/album/0Gmg3TOZpQE1wtHW25IB7T"
-      },
-      "artists": [
-        {
-          "name": "Ella John",
-          "url": "https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "UNO",
-      "url": "https://open.spotify.com/track/5hPmrAINaIwu80f2h89cWw"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "A.U.B. (REMIX)",
-        "url": "https://open.spotify.com/album/523CACEYnibQEKJc2ieHpl"
-      },
-      "artists": [
-        {
-          "name": "Adfbigga",
-          "url": "https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l"
-        },
-        {
-          "name": "Loopey",
-          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
-        },
-        {
-          "name": "Suilju",
-          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
-        },
-        {
-          "name": "Chrisjeboy",
-          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "A.U.B. - REMIX",
-      "url": "https://open.spotify.com/track/7iyZBfIPkK0oKwzOWf3VqS"
     },
     {
       "added_at": "2026-09-11 11:12:14",
@@ -151,54 +139,18 @@
     {
       "added_at": "2026-09-11 11:12:14",
       "album": {
-        "name": "Spoedassistentie",
-        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
+        "name": "UNO",
+        "url": "https://open.spotify.com/album/0Gmg3TOZpQE1wtHW25IB7T"
       },
       "artists": [
         {
-          "name": "BVL",
-          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
+          "name": "Ella John",
+          "url": "https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9"
         }
       ],
-      "duration_ms": 127659,
-      "name": "Spoedassistentie",
-      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "WGWD 2",
-        "url": "https://open.spotify.com/album/1EbxF8EgXSIXlHEwxTl24V"
-      },
-      "artists": [
-        {
-          "name": "Yenko Forever",
-          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
-        },
-        {
-          "name": "Nerra",
-          "url": "https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "WGWD 2",
-      "url": "https://open.spotify.com/track/4Tigx9UzvLsQtKN5lTMDRX"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/6YlREZf2fV3P4BplAysyCX"
-      },
-      "artists": [
-        {
-          "name": "A3",
-          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/5u0CBegNBOFwjBwtqoMJgU"
+      "duration_ms": 215000,
+      "name": "UNO",
+      "url": "https://open.spotify.com/track/5hPmrAINaIwu80f2h89cWw"
     },
     {
       "added_at": "2026-09-11 11:12:14",
@@ -267,6 +219,194 @@
     {
       "added_at": "2026-09-11 11:12:14",
       "album": {
+        "name": "Bezig",
+        "url": "https://open.spotify.com/album/0MmSCrcGOyvAq3dNOgsHzg"
+      },
+      "artists": [
+        {
+          "name": "FOCUS",
+          "url": "https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Bezig",
+      "url": "https://open.spotify.com/track/1ftKIzEbUiGUO7UN4Pjpom"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "Matcha & Labubu (Remix)",
+        "url": "https://open.spotify.com/album/3yTwfssWK6UPvm4DVzoRHH"
+      },
+      "artists": [
+        {
+          "name": "Chrisjeboy",
+          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
+        },
+        {
+          "name": "Loopey",
+          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
+        },
+        {
+          "name": "$KEER&BOO$",
+          "url": "https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B"
+        },
+        {
+          "name": "YGN KAMII",
+          "url": "https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5"
+        }
+      ],
+      "duration_ms": 198994,
+      "name": "Matcha & Labubu - Remix",
+      "url": "https://open.spotify.com/track/1vroYCgoKNVQ7syMBdS7JN"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "D2F",
+        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "duration_ms": 123273,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "WGWD 2",
+        "url": "https://open.spotify.com/album/1EbxF8EgXSIXlHEwxTl24V"
+      },
+      "artists": [
+        {
+          "name": "Yenko Forever",
+          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
+        },
+        {
+          "name": "Nerra",
+          "url": "https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "WGWD 2",
+      "url": "https://open.spotify.com/track/4Tigx9UzvLsQtKN5lTMDRX"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "DIXI",
+        "url": "https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS"
+      },
+      "artists": [
+        {
+          "name": "TOBI",
+          "url": "https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG"
+        }
+      ],
+      "duration_ms": 139370,
+      "name": "DIXI",
+      "url": "https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/6YlREZf2fV3P4BplAysyCX"
+      },
+      "artists": [
+        {
+          "name": "A3",
+          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/5u0CBegNBOFwjBwtqoMJgU"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "A.U.B. (REMIX)",
+        "url": "https://open.spotify.com/album/523CACEYnibQEKJc2ieHpl"
+      },
+      "artists": [
+        {
+          "name": "Adfbigga",
+          "url": "https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l"
+        },
+        {
+          "name": "Loopey",
+          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
+        },
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        },
+        {
+          "name": "Chrisjeboy",
+          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "A.U.B. - REMIX",
+      "url": "https://open.spotify.com/track/7iyZBfIPkK0oKwzOWf3VqS"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "Nicki Minaj",
+        "url": "https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Devv Tenkay",
+          "url": "https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5"
+        },
+        {
+          "name": "T.y",
+          "url": "https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Nicki Minaj",
+      "url": "https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB"
+      },
+      "artists": [
+        {
+          "name": "ENDS",
+          "url": "https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu"
+        },
+        {
+          "name": "Willybeatsz",
+          "url": "https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
+    },
+    {
+      "added_at": "2026-09-11 11:12:14",
+      "album": {
         "name": "Clock it",
         "url": "https://open.spotify.com/album/6E0VmUqC0izxyLYiu558Hi"
       },
@@ -303,26 +443,6 @@
     {
       "added_at": "2026-09-11 11:12:14",
       "album": {
-        "name": "Bezig",
-        "url": "https://open.spotify.com/album/0MmSCrcGOyvAq3dNOgsHzg"
-      },
-      "artists": [
-        {
-          "name": "FOCUS",
-          "url": "https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn"
-        },
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "Bezig",
-      "url": "https://open.spotify.com/track/1ftKIzEbUiGUO7UN4Pjpom"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
         "name": "Narcist",
         "url": "https://open.spotify.com/album/6zG0EOzUel83kH3h7RvTzb"
       },
@@ -335,82 +455,6 @@
       "duration_ms": 121752,
       "name": "Narcist",
       "url": "https://open.spotify.com/track/4wSwdlW8tbJJxSihYxDXdt"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "Matcha & Labubu (Remix)",
-        "url": "https://open.spotify.com/album/3yTwfssWK6UPvm4DVzoRHH"
-      },
-      "artists": [
-        {
-          "name": "Chrisjeboy",
-          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
-        },
-        {
-          "name": "Loopey",
-          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
-        },
-        {
-          "name": "$KEER&BOO$",
-          "url": "https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B"
-        },
-        {
-          "name": "YGN KAMII",
-          "url": "https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5"
-        }
-      ],
-      "duration_ms": 198994,
-      "name": "Matcha & Labubu - Remix",
-      "url": "https://open.spotify.com/track/1vroYCgoKNVQ7syMBdS7JN"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "'T Moest Echt Zo Zijn",
-        "url": "https://open.spotify.com/album/4mX4nvMn4GAiKviF2J5h39"
-      },
-      "artists": [
-        {
-          "name": "SHEP",
-          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "'T Moest Echt Zo Zijn",
-      "url": "https://open.spotify.com/track/7jEj8ZgKCfLT7pg8oQjpcT"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "DIXI",
-        "url": "https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS"
-      },
-      "artists": [
-        {
-          "name": "TOBI",
-          "url": "https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG"
-        }
-      ],
-      "duration_ms": 139370,
-      "name": "DIXI",
-      "url": "https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "D2F",
-        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
-      },
-      "artists": [
-        {
-          "name": "JANE",
-          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
-        }
-      ],
-      "duration_ms": 123273,
-      "name": "D2F",
-      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
     },
     {
       "added_at": "2026-09-11 11:12:14",
@@ -435,30 +479,6 @@
       "duration_ms": 293164,
       "name": "Zaandam",
       "url": "https://open.spotify.com/track/4HDfsNig80fz2a8kMePyfl"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "Nicki Minaj",
-        "url": "https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Devv Tenkay",
-          "url": "https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5"
-        },
-        {
-          "name": "T.y",
-          "url": "https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Nicki Minaj",
-      "url": "https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr"
     },
     {
       "added_at": "2026-09-11 11:12:14",
@@ -495,26 +515,6 @@
       "duration_ms": 138000,
       "name": "Skims",
       "url": "https://open.spotify.com/track/4PlKqffPizCk62Ai3YGdhq"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB"
-      },
-      "artists": [
-        {
-          "name": "ENDS",
-          "url": "https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu"
-        },
-        {
-          "name": "Willybeatsz",
-          "url": "https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
     },
     {
       "added_at": "2026-09-11 11:12:14",
@@ -1175,22 +1175,6 @@
       "duration_ms": 144478,
       "name": "Vollgas",
       "url": "https://open.spotify.com/track/4Loq1Zsw5NkBO9B0KUGT05"
-    },
-    {
-      "added_at": "2026-09-11 11:12:14",
-      "album": {
-        "name": "Stemmetjes",
-        "url": "https://open.spotify.com/album/4tfiw6kXeev2TrvgQbD8Br"
-      },
-      "artists": [
-        {
-          "name": "Vurr Flashy",
-          "url": "https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "Stemmetjes",
-      "url": "https://open.spotify.com/track/2hVkWemDRVGB0LXdgxWNki"
     },
     {
       "added_at": "2026-09-11 11:12:14",

@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 235615,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
@@ -592,6 +592,24 @@
       "duration_ms": 449706,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/35tQ5Q2wgJl616mdInRYYL"
+    },
+    {
+      "album": {
+        "name": "Aorta",
+        "url": "https://open.spotify.com/album/6VuLnAhZAGKihUDSpFOvCu"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Aorta",
+      "url": "https://open.spotify.com/track/1u2WDPiNzPJfL15PvBTAj2"
     },
     {
       "album": {
@@ -1223,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/73qXUd7lTWf2XJGYnzBAwH"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200865,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2p2xEilqBI6qF3hLHUotYh"
+    },
+    {
+      "album": {
         "name": "Body Control",
         "url": "https://open.spotify.com/album/1FWQwkUm9Yr11Ul0Y8VxIf"
       },
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 219130,
       "name": "Break",
       "url": "https://open.spotify.com/track/5MXbWODgfuPMdXqwBeb4dn"
@@ -2673,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mess With Us",
+        "url": "https://open.spotify.com/album/2v0hdlwY4ZlfWy4uDkHGAZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403384,
+      "name": "Don\u2019t Mess With Us",
+      "url": "https://open.spotify.com/track/7aYuudVpLDpY3d3I4YoXUQ"
+    },
+    {
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2"
       },
@@ -3003,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Enter the Volt",
+        "url": "https://open.spotify.com/album/48kj6yJS8Nh6jELQJnqjSY"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        },
+        {
+          "name": "LUCRE",
+          "url": "https://open.spotify.com/artist/31FDUyAPKlGqQPbDGuSjf6"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235034,
+      "name": "Enter the Volt",
+      "url": "https://open.spotify.com/track/1B6RSEFSMC5AtsxfPVEpzL"
+    },
+    {
+      "album": {
         "name": "Equanimity",
         "url": "https://open.spotify.com/album/1gWtPlXfn8frWnF8imD7qF"
       },
@@ -3014,7 +3094,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 294857,
       "name": "Equanimity",
       "url": "https://open.spotify.com/track/1WBPqL80sKLv0GNzjruqOt"
@@ -3120,6 +3200,24 @@
       "duration_ms": 305477,
       "name": "Everything Collapses",
       "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
+    },
+    {
+      "album": {
+        "name": "Everything Done",
+        "url": "https://open.spotify.com/album/10nrViNTsSsIPRHPfj1Pgr"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Everything Done",
+      "url": "https://open.spotify.com/track/3UVaW3o9svUTYiHW2FJLYw"
     },
     {
       "album": {
@@ -4984,7 +5082,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 292676,
       "name": "Hypercube",
       "url": "https://open.spotify.com/track/02ghfn0EsNDwJIqpIljQa5"
@@ -5134,7 +5232,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 244007,
       "name": "I Wish I Had Met You Earlier - Radio-Edit",
       "url": "https://open.spotify.com/track/3OW1EDGYIQD4kDbS56UJOE"
@@ -5264,7 +5362,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 194782,
       "name": "In Berlin",
       "url": "https://open.spotify.com/track/6PYkcjJAUpkR3p4iM3RvaE"
@@ -5594,7 +5692,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 283777,
       "name": "Joya - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
@@ -6283,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/50X3Olwaec3hhUu6Bjf1jc"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231115,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/73Ei57TGqXMgTSDYeQFDDP"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },
@@ -6474,7 +6590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 191230,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p"
@@ -6774,6 +6890,24 @@
       "duration_ms": 429025,
       "name": "Lyot - Maurizio Mix",
       "url": "https://open.spotify.com/track/52s4racNrmo1iPwZyYQq08"
+    },
+    {
+      "album": {
+        "name": "Reality Check",
+        "url": "https://open.spotify.com/album/0NAvHnCl6vIBendC5PGPkX"
+      },
+      "artists": [
+        {
+          "name": "Mark Broom",
+          "url": "https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "M-Tallic",
+      "url": "https://open.spotify.com/track/7i4jk4dE9uAsIFp0B1lsZ4"
     },
     {
       "album": {
@@ -7098,7 +7232,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 319147,
       "name": "Morgana",
       "url": "https://open.spotify.com/track/27myzkMUyZTPaR6VBcxKwZ"
@@ -8163,6 +8297,28 @@
     },
     {
       "album": {
+        "name": "Outbreak",
+        "url": "https://open.spotify.com/album/5YvlPdrtr5ONXQJ8r1yWoP"
+      },
+      "artists": [
+        {
+          "name": "Superstrobe",
+          "url": "https://open.spotify.com/artist/7rbWK7Usi7mOfrigaWHD6d"
+        },
+        {
+          "name": "Patricio AMC",
+          "url": "https://open.spotify.com/artist/3fJHzSur5EcdxghnVtOMBv"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270676,
+      "name": "Outbreak",
+      "url": "https://open.spotify.com/track/7EoELfQR2s3JsyQmeyehvF"
+    },
+    {
+      "album": {
         "name": "Outside Time",
         "url": "https://open.spotify.com/album/6XskRNKES3V9dY2SSZ0H6s"
       },
@@ -8334,7 +8490,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 261346,
       "name": "Partners of Destiny",
       "url": "https://open.spotify.com/track/6VfxcjXxjJrXhK2EXXbkKy"
@@ -8482,7 +8638,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 338211,
       "name": "Planet XX - Extended Mix",
       "url": "https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss"
@@ -8500,7 +8656,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 615506,
       "name": "Plastic Dreams",
       "url": "https://open.spotify.com/track/5mES4lfufA5pVgj9JAHbUI"
@@ -8961,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/1gOT7jyrd5FabUdWno57wg"
+      },
+      "artists": [
+        {
+          "name": "Mattia Saviolo",
+          "url": "https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/7BnZO7HxjFL5DRgysSoHaz"
+    },
+    {
+      "album": {
         "name": "Rainbow Serpent",
         "url": "https://open.spotify.com/album/0wViuI1B7HvaOOfUB50kvW"
       },
@@ -9110,7 +9284,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 224887,
       "name": "REESE",
       "url": "https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8"
@@ -9900,7 +10074,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 354626,
       "name": "Scorpio - HNGT Remix",
       "url": "https://open.spotify.com/track/1L7jvrxk3JyldKkQdJV0E6"
@@ -11404,7 +11578,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 392386,
       "name": "The Fortunate Ones - Johannes Heil's Back to 95 Mix",
       "url": "https://open.spotify.com/track/3kNfJgteSH4f8voiXdbo9Y"
@@ -12852,7 +13026,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 294542,
       "name": "Wild Within",
       "url": "https://open.spotify.com/track/4dPaL7YwLMOqoCPXB632av"
@@ -12972,6 +13146,28 @@
       "duration_ms": 407482,
       "name": "Your Hands on Me",
       "url": "https://open.spotify.com/track/4u3rHonyMW7pmkB4nZq0JX"
+    },
+    {
+      "album": {
+        "name": "Your Mind On Acid",
+        "url": "https://open.spotify.com/album/0TVVBuBwyK8D8oYDgJjuKs"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202048,
+      "name": "Your Mind On Acid",
+      "url": "https://open.spotify.com/track/6m9y6bdEEdNqJw3wz5CUUB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6Qpx391Wkce"

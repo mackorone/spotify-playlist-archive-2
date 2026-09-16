@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Netherlands.",
-  "num_followers": 51101,
+  "num_followers": 51109,
   "original_name": "Top Songs - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjtsgAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mjy7qAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-09-11 14:05:44",
@@ -167,8 +167,8 @@
     {
       "added_at": "2026-09-11 14:05:44",
       "album": {
-        "name": "So Incredible",
-        "url": "https://open.spotify.com/album/7vT9FjutoZJ6stgHxouGaa"
+        "name": "Incredible",
+        "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 177760,
+      "duration_ms": 177120,
       "name": "So Incredible",
-      "url": "https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou"
+      "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
     },
     {
       "added_at": "2026-09-11 14:05:44",
@@ -488,10 +488,6 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
@@ -562,6 +558,10 @@
         {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
         }
       ],
       "duration_ms": 201700,
@@ -848,7 +848,7 @@
       "added_at": "2026-09-11 14:05:44",
       "album": {
         "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "url": "https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+      "duration_ms": 258816,
+      "name": "Dreams - 2001 Remaster",
+      "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
     },
     {
       "added_at": "2026-09-11 14:05:44",

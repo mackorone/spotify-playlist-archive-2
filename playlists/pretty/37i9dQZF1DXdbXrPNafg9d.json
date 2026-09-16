@@ -1,12 +1,12 @@
 {
   "description": "The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei ",
-  "num_followers": 1288321,
+  "num_followers": 1288276,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjjO53QzwPSOKXa9u73hRihRAHJ",
+  "snapshot_id": "AAAAADpjcgB18L8G2s/yy55+lYyvoiQo",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:55",
@@ -151,6 +151,26 @@
       "duration_ms": 233522,
       "name": "Believer",
       "url": "https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9"
+    },
+    {
+      "added_at": "2026-09-15 22:12:08",
+      "album": {
+        "name": "Spectral+",
+        "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Omotola",
+          "url": "https://open.spotify.com/artist/2ubMC1fvG1gAokMFhYFbmv"
+        }
+      ],
+      "duration_ms": 261669,
+      "name": "Love Stays",
+      "url": "https://open.spotify.com/track/3oeju877poauSl65MQEUpQ"
     },
     {
       "added_at": "2026-09-11 04:01:55",

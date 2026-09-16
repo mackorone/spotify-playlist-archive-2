@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/0Xb71lL4YTtHSM36dWYn9L"
+      },
+      "artists": [
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        },
+        {
+          "name": "Coldwaterchris",
+          "url": "https://open.spotify.com/artist/2ipT1DoIRr7UK9G2PqmMT9"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Gum\u2019s Groove",
+      "url": "https://open.spotify.com/track/2wVhp1yFVDV3mUEWygWkUJ"
+    },
+    {
+      "album": {
         "name": "Neon Future Odyssey",
         "url": "https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK"
       },

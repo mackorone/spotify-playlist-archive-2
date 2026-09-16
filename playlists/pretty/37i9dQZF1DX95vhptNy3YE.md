@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,225 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,194 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 39 | [Cancelado \- Ao Vivo](https://open.spotify.com/track/0I3qO1WoxLiCvEqmrxnO9T) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Cancelado \(Ao Vivo\)](https://open.spotify.com/album/231P6DLf8gwN0frya1Z56y) | 2:49 |
 | 40 | [Pique B.I.G](https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY) | [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI), [Bomfino](https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Rugal & Bomfino](https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf) | 3:24 |
 | 41 | [SALTO 15](https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:49 |
-| 42 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
-| 43 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
+| 42 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
+| 43 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 44 | [Fiz Quase Tudo \- Ao Vivo](https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Fiz Quase Tudo \(Ao Vivo\)](https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48) | 2:47 |
 | 45 | [Malandro TouchScreen](https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PORNOGRAFIA AUDITIVA](https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q) | 2:04 |
 | 46 | [Preta f\* quente](https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% , Vol.2](https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG) | 2:19 |

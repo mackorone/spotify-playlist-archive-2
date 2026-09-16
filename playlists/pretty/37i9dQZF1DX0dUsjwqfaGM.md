@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,298 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,302 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 12 | [Cúc Hoạ Mi](https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:13 |
 | 13 | [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:58 |
 | 14 | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY) | 2:32 |
-| 15 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
+| 15 | [AUYEM](https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [AUYEM](https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV) | 3:31 |
 | 16 | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/track/34haywJFfkSihAmCo67j01) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [ZLAB](https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684) | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ) | 2:34 |
 | 17 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:18 |
 | 18 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 19 | [traplock](https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 3:10 |
-| 20 | [AUYEM](https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [AUYEM](https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV) | 3:31 |
+| 20 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
 | 21 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 |
 | 22 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 |
 | 23 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 |

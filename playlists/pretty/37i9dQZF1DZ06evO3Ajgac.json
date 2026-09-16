@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 15368,
+  "num_followers": 15401,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAAPnMYBIZP3q0Y1JSNkwfZz",
+  "snapshot_id": "aqc5AAAAAAAXLatBBJwFfy9Uy/pIuZaT",
   "tracks": [
     {
       "added_at": null,
@@ -611,54 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Dance",
-        "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 88722,
-      "name": "Elmo's Got the Moves",
-      "url": "https://open.spotify.com/track/4icHZi7HYdg9pv3pvkYhZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: Kids' Favorite Songs",
-        "url": "https://open.spotify.com/album/6KsjfGFU2k0fJCQwgxQpJj"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Snuffleupagus",
-          "url": "https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 88306,
-      "name": "Row Row Row Your Boat",
-      "url": "https://open.spotify.com/track/6ypRf4n3EjiX9S1rTFTNeU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We All Sing with the Same Voice",
         "url": "https://open.spotify.com/album/66VccuRSZZaqTimWLdjxsv"
       },
@@ -707,6 +659,54 @@
       "duration_ms": 154316,
       "name": "We All Sing with the Same Voice",
       "url": "https://open.spotify.com/track/45jZ6FcHe6HYQCJhdcb2gD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: Kids' Favorite Songs",
+        "url": "https://open.spotify.com/album/6KsjfGFU2k0fJCQwgxQpJj"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Snuffleupagus",
+          "url": "https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 88306,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/6ypRf4n3EjiX9S1rTFTNeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Dance",
+        "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 88722,
+      "name": "Elmo's Got the Moves",
+      "url": "https://open.spotify.com/track/4icHZi7HYdg9pv3pvkYhZs"
     },
     {
       "added_at": null,
@@ -1071,50 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 141769,
-      "name": "I Can Sing",
-      "url": "https://open.spotify.com/track/3apa0NM5TSx3PiPD9ZHMjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: The Best of Elmo",
-        "url": "https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Off to School",
-      "url": "https://open.spotify.com/track/0OSJ0z0oPkmVq0vXqdtc1v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Dance",
         "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
       },
@@ -1139,6 +1095,50 @@
       "duration_ms": 120389,
       "name": "Do the Dinosaur Dance",
       "url": "https://open.spotify.com/track/55Z9D9rmgFEg0sPhX6wq2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: The Best of Elmo",
+        "url": "https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Off to School",
+      "url": "https://open.spotify.com/track/0OSJ0z0oPkmVq0vXqdtc1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 141769,
+      "name": "I Can Sing",
+      "url": "https://open.spotify.com/track/3apa0NM5TSx3PiPD9ZHMjB"
     },
     {
       "added_at": null,
@@ -1195,30 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 117257,
-      "name": "Best Friends Song",
-      "url": "https://open.spotify.com/track/20YGBkMNJNXQtjRKbieoja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blippi And Sesame Street Adventures",
         "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 73440,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street: What's the Number?",
+        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 117257,
+      "name": "Best Friends Song",
+      "url": "https://open.spotify.com/track/20YGBkMNJNXQtjRKbieoja"
     },
     {
       "added_at": null,
@@ -1399,26 +1399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesame Street (Songs from Season 56)",
-        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 83333,
-      "name": "Just Imagine",
-      "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Many Ways to Be Me",
         "url": "https://open.spotify.com/album/2fqxLORpEJViGrvDYsmIo8"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 90191,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2rEXY5RRWr9z0DxtnQx1Cp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 83333,
+      "name": "Just Imagine",
+      "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
     },
     {
       "added_at": null,

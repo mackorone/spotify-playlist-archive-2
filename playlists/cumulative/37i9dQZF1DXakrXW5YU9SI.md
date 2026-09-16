@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,089 songs - 2 day 12 hr 58 min
+1,090 songs - 2 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Co chcę, to mam](https://open.spotify.com/track/0enBmAajlaCMkgBrEGSGGj) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Co chcę, to mam](https://open.spotify.com/album/0YIWD4DhUgHRNaz0ub1tW1) | 2:54 | 2026-06-09 | 2026-06-27 |
 | [co do joty \(wersja zima\)](https://open.spotify.com/track/6xJdoCgXLI7M0nrCbtwhYp) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [co do joty \(wersja zima\)](https://open.spotify.com/album/7txc26kZ23Entx9WEk4pRD) | 3:15 | 2025-01-17 | 2025-01-25 |
 | [co jest nie tak?](https://open.spotify.com/track/2alDhwpcOlSrkhuPZ4JhvM) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2), [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [co jest nie tak?](https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis) | 3:10 | 2024-11-21 | 2024-11-30 |
+| [Co jeśli](https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [Co jeśli](https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9) | 2:57 | 2026-09-10 |  |
 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 | 2026-06-26 | 2026-07-18 |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-05-01 | 2025-06-01 |
 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 | 2024-12-09 | 2025-02-14 |
@@ -882,7 +883,7 @@
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-21 | 2025-06-01 |
 | [Takie Jak Ty](https://open.spotify.com/track/2gcZYpILe02niCNP9NNGVf) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Takie Jak Ty](https://open.spotify.com/album/237gwWoHj5bnmq2Y3TvQIO) | 3:05 | 2026-04-17 | 2026-04-25 |
 | [Taking It Easy](https://open.spotify.com/track/1Qm6oqgMJZQSlAIBgo16xJ) | [Meila](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [Taking It Easy](https://open.spotify.com/album/0mSdps1rVEgwr0PtYGA9vr) | 3:59 | 2025-05-31 | 2025-06-10 |
-| [Talk To Me](https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Talk To Me](https://open.spotify.com/album/5DTJe70P5QE5s6ImL4efUG) | 3:25 | 2026-09-10 |  |
+| [Talk To Me](https://open.spotify.com/track/4mb7PjVRrMs0HtbzmwrQLG) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Talk To Me](https://open.spotify.com/album/5DTJe70P5QE5s6ImL4efUG) | 3:25 | 2026-09-10 | 2026-09-16 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-15 | 2025-10-11 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb) | 3:13 | 2025-10-10 | 2025-12-06 |
 | [Tam słońce, gdzie my](https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tam słońce, gdzie my](https://open.spotify.com/album/73wEkOKWj6NZqOLRj0EhH0) | 3:15 | 2024-06-28 | 2024-09-13 |

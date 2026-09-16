@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-97 songs - 8 hr 56 min
+98 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Rompe Saragüey](https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante De Los Cantantes](https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8) | 6:29 | 2025-10-10 | 2026-02-28 |
 | [Rompe Saragüey](https://open.spotify.com/track/50T8GUjGq1SMxsMWMLu0fl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 6:30 | 2022-09-08 | 2025-10-10 |
 | [Rompe Saragüey \- Remastered 2023](https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz \(Remastered 2023\)](https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW) | 6:32 | 2026-02-28 |  |
-| [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 | 2022-09-08 |  |
+| [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 | 2022-09-08 | 2026-09-16 |
+| [Siento \- Remastered 2026](https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboleo \(Remastered 2026\)](https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU) | 6:35 | 2026-09-16 |  |
 | [Sombras Nada Mas](https://open.spotify.com/track/6V6WHlb3UdiSJh9TcslxPe) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Recordando A Felipe Pirela](https://open.spotify.com/album/7CNpJIewzQkN1aI7137zED) | 4:04 | 2024-05-12 | 2024-05-21 |
 | [Songoro Cosongo](https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 7:50 | 2022-09-08 | 2026-08-27 |
 | [Soy Vagabundo](https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 5:58 | 2026-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 352401,
+  "num_followers": 352473,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "El Chancho Come Caviar",
-      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186435,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "El Chancho Come Caviar",
+      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1246,11 +1246,15 @@
         {
           "name": "Los Lirios",
           "url": "https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A"
+        },
+        {
+          "name": "Leo Matioli",
+          "url": "https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR"
         }
       ],
-      "duration_ms": 244360,
-      "name": "A Decirme Que",
-      "url": "https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw"
+      "duration_ms": 267666,
+      "name": "Donde Estar\u00e1 Mi Primavera",
+      "url": "https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1275,18 +1279,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+        "name": "Los M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+      "duration_ms": 185077,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1311,18 +1315,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Los M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1334,15 +1338,11 @@
         {
           "name": "Los Lirios",
           "url": "https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A"
-        },
-        {
-          "name": "Leo Matioli",
-          "url": "https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Donde Estar\u00e1 Mi Primavera",
-      "url": "https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex"
+      "duration_ms": 244360,
+      "name": "A Decirme Que",
+      "url": "https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
+      "duration_ms": 196414,
+      "name": "Voy a Olvidarme de M\u00ed",
+      "url": "https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh"
     }
   ],
   "unique_name": "Cumbia Santafesina",

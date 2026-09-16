@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 102511,
+  "num_followers": 102548,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAA+jpM4woKBTsmEBrgnU5ZT",
+  "snapshot_id": "aqc5AAAAAAA+yKKWiUFGtP7lSNVqjb/T",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": null,
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 174880,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": null,
@@ -208,9 +192,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 168040,
-      "name": "Stateside",
-      "url": "https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8"
+      "duration_ms": 174880,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
     },
     {
       "added_at": null,
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 141866,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
+      "duration_ms": 168040,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8"
     },
     {
       "added_at": null,
@@ -344,9 +328,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 154213,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK"
+      "duration_ms": 141866,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
     },
     {
       "added_at": null,
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 170466,
-      "name": "Nice to Know You",
-      "url": "https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn"
+      "duration_ms": 154213,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK"
     },
     {
       "added_at": null,
@@ -659,22 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK STAR",
-        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+        "name": "The Melodic Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 218117,
-      "name": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
-      "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
+      "duration_ms": 215679,
+      "name": "killstreaks (with Don Toliver & PinkPantheress)",
+      "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
     },
     {
       "added_at": null,
@@ -699,26 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melodic Blue (Deluxe)",
-        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         },
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 215679,
-      "name": "killstreaks (with Don Toliver & PinkPantheress)",
-      "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
+      "duration_ms": 218117,
+      "name": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+      "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 166514,
       "name": "Romeo + Rachel Chinouriri",
       "url": "https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "Nice to Know You",
+      "url": "https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn"
     }
   ],
   "unique_name": "This Is PinkPantheress",

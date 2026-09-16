@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Antoine Corriveau
 
-664 songs - 1 day 13 hr 32 min
+665 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Je sais pas c'que j'fais icitte](https://open.spotify.com/track/5XSGWaTq7dBb5mJjyOnShv) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Je sais pas c'que j'fais icitte](https://open.spotify.com/album/4xW82Kdpz7CXdeuI6WPUJ7) | 4:29 | 2026-05-01 | 2026-08-22 |
 | [Je suis une coquerelle](https://open.spotify.com/track/12DDbBVEmkRjLk1QOwrZ9w) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [En mille morceaux](https://open.spotify.com/album/4pzDKoWzW32t71N8hINVaw) | 2:52 | 2026-01-09 | 2026-04-18 |
 | [Jean Leloup](https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM) | [Bandit Voyage](https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW) | [Québec Core](https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc) | 2:59 | 2025-10-17 | 2025-12-19 |
-| [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 | 2026-08-14 |  |
+| [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 | 2026-08-14 | 2026-09-16 |
 | [Jeune chien](https://open.spotify.com/track/6BZ8Eq0dl6jQmmkfWHlAzu) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [LOUIS\-CHARLES II](https://open.spotify.com/album/5wN8YooaUGu6Y7uhEuSz8i) | 3:00 | 2026-01-16 | 2026-07-04 |
 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 | 2026-04-24 | 2026-05-23 |
 | [Journal d'un loup\-garou](https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 3:39 | 2024-11-29 | 2025-11-15 |
@@ -343,6 +343,7 @@
 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 | 2023-10-20 | 2024-06-06 |
 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 | 2023-02-10 | 2025-10-11 |
 | [Le gros boutte du bâton](https://open.spotify.com/track/1sFlUEHa1EA9ZDLECwOWdV) | [Yohann Francoz](https://open.spotify.com/artist/2UWwR5mhtN5Fh29wADoRnT) | [Le gros boutte du bâton](https://open.spotify.com/album/5uzjOGSGDwzD8wcJsjiHrX) | 3:39 | 2025-11-07 | 2026-01-24 |
+| [Le Lièvre](https://open.spotify.com/track/4XR6yH3yB0HZmcN3c3XA3B) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Le Lièvre](https://open.spotify.com/album/2RsZWt9W1PV0KOEfxiYFID) | 3:44 | 2026-09-11 |  |
 | [Le mentor](https://open.spotify.com/track/7s3nBEwqvALj5cbWP3OC2h) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Le mentor](https://open.spotify.com/album/2tVLPshzDAglfg4Bv3urO1) | 2:54 | 2026-04-03 | 2026-05-02 |
 | [Le Monstre](https://open.spotify.com/track/5JCkJaMwK4TR9D9MBH0aqH) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Le Monstre](https://open.spotify.com/album/7rtHoWvUA7jRdzpSvw83Yi) | 3:03 | 2026-03-20 | 2026-05-23 |
 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 | 2026-04-17 |  |

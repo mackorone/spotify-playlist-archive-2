@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 51 min
+106 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [I Am In Love](https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:36 | 2025-04-15 |  |
 | [I Can't Stand the Rain](https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Traveler's Soul](https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly) | 4:08 | 2023-11-10 | 2026-09-11 |
 | [I Sit And Sew](https://open.spotify.com/track/16sWmqLd64CCetLwCQMMkt) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS) | [I Sit And Sew](https://open.spotify.com/album/7zIrKWmGEYjI70qqStg9He) | 2:17 | 2024-08-18 | 2024-10-31 |
+| [I'll Fly Away](https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Brighter Blue](https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS) | 3:08 | 2026-09-16 |  |
 | [If And](https://open.spotify.com/track/0xnirEyt7tGGvC63fpYfrb) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:30 | 2022-09-18 | 2022-10-13 |
 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 | 2022-09-16 | 2026-05-25 |
 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 | 2025-04-13 |  |
@@ -65,7 +66,7 @@
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2022-09-18 |  |
 | [Rain Dance](https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:47 | 2023-11-10 | 2025-01-15 |
 | [Reclaim All Of Your Time \(feat\. Valerie June and Wynonna\)](https://open.spotify.com/track/6VMrXWENo5E7PbIb2cVGfH) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 4:08 | 2026-06-21 |  |
-| [Rollin’ and Tumblin’](https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Rollin' and Tumblin'](https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1) | 3:28 | 2025-11-14 |  |
+| [Rollin’ and Tumblin’](https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Rollin' and Tumblin'](https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1) | 3:28 | 2025-11-14 | 2026-09-16 |
 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/2mm8ljAmffVasjOkWVIgfW) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Gifts, Presents, and Treats from Valerie June](https://open.spotify.com/album/60XcRMgP7sDsFnXPctWmVb) | 1:46 | 2024-11-17 | 2024-12-15 |
 | [Runnin' and Searchin'](https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Runnin' and Searchin'](https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI) | 3:06 | 2025-10-26 |  |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-09-16 |  |

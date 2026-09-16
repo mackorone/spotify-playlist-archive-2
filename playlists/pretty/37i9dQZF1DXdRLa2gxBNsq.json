@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 117037,
+  "num_followers": 117047,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Todos Amigos",
-        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
+        "name": "\u00a1A LA MIERDA!",
+        "url": "https://open.spotify.com/album/1ZZasheU97SoO6OkibmsVv"
       },
       "artists": [
         {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+          "name": "Perfecto Desorden",
+          "url": "https://open.spotify.com/artist/4yqMB9jPazIBx0oraEmeEb"
         }
       ],
-      "duration_ms": 207265,
-      "name": "Disp\u00e1rame",
-      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
+      "duration_ms": 132071,
+      "name": "\u00a1A LA MIERDA!",
+      "url": "https://open.spotify.com/track/0mCorFodrVvrhGInkxli9R"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "\u00a1A LA MIERDA!",
-        "url": "https://open.spotify.com/album/1ZZasheU97SoO6OkibmsVv"
+        "name": "Todos Amigos",
+        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
       },
       "artists": [
         {
-          "name": "Perfecto Desorden",
-          "url": "https://open.spotify.com/artist/4yqMB9jPazIBx0oraEmeEb"
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
         }
       ],
-      "duration_ms": 132071,
-      "name": "\u00a1A LA MIERDA!",
-      "url": "https://open.spotify.com/track/0mCorFodrVvrhGInkxli9R"
+      "duration_ms": 207265,
+      "name": "Disp\u00e1rame",
+      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 230724,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Noches sin Luna",
-        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
-      },
-      "artists": [
-        {
-          "name": "La Mercury Punk",
-          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Noches sin Luna",
-      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "added_at": "2026-07-30 22:01:19",

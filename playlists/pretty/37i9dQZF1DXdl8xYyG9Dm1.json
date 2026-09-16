@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Kayode",
-  "num_followers": 231403,
+  "num_followers": 231413,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
+        "name": "SUN SHERIF",
+        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 176013,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/2z4BvfN4Ce4kwnAFLvq9EV"
+    },
+    {
+      "added_at": "2026-09-11 00:01:31",
+      "album": {
         "name": "Dont Come Too Close II",
         "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 186932,
       "name": "Dont Come Too Close II",
       "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
-    },
-    {
-      "added_at": "2026-09-11 00:01:31",
-      "album": {
-        "name": "SUN SHERIF",
-        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/2z4BvfN4Ce4kwnAFLvq9EV"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "Power House",
+      "url": "https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn"
+    },
+    {
+      "added_at": "2026-09-11 00:01:31",
+      "album": {
         "name": "Aimoye",
         "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 190270,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
-    },
-    {
-      "added_at": "2026-09-11 00:01:31",
-      "album": {
-        "name": "NO DAYS OFF",
-        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "Power House",
-      "url": "https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4"
+    },
+    {
+      "added_at": "2026-09-11 00:01:31",
+      "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-09-11 00:01:31",
-      "album": {
-        "name": "NO DAYS OFF",
-        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 140526,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -567,6 +567,26 @@
       "duration_ms": 147169,
       "name": "Gaou la (feat. 6uff)",
       "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-09-11 00:01:31",
+      "album": {
+        "name": "IRON ORE II",
+        "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Turbulent Fellow",
+      "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -723,26 +743,6 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
-        "name": "IRON ORE II",
-        "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 150588,
-      "name": "Turbulent Fellow",
-      "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
-    },
-    {
-      "added_at": "2026-09-11 00:01:31",
-      "album": {
         "name": "REVIVAL",
         "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
       },
@@ -827,22 +827,22 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+        "name": "Sounds of the Diaspora 2",
+        "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+      "duration_ms": 212146,
+      "name": "RAPPER",
+      "url": "https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -887,22 +887,22 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
-        "name": "Sounds of the Diaspora 2",
-        "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         },
         {
-          "name": "Toxic Lyrikali",
-          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 212146,
-      "name": "RAPPER",
-      "url": "https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ"
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
       "added_at": "2026-09-11 00:01:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-09-11 00:01:31",
       "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
+    },
+    {
+      "added_at": "2026-09-11 00:01:31",
+      "album": {
         "name": "Sexy Highlife",
         "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 127969,
       "name": "Akosua Broni",
       "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
-    },
-    {
-      "added_at": "2026-09-11 00:01:31",
-      "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 169793,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
       "added_at": "2026-09-11 00:01:31",

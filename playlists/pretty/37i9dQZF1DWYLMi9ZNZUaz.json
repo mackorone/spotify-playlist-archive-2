@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 124080,
+  "num_followers": 124091,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "JustaTee",
-          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Tr\u1edf V\u1ec1",
-      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Tr\u1edf V\u1ec1",
+      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -855,6 +855,30 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "\u0110\u00d4I CH\u00c2N \u0110I",
         "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 192000,
       "name": "Em B\u00e9",
       "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
-      },
-      "artists": [
-        {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
-        },
-        {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
     },
     {
       "added_at": "2026-08-20 17:00:23",

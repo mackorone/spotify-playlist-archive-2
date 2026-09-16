@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 97 | [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 |
 | 98 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 |
 | 99 | [Last Night of Summer](https://open.spotify.com/track/0E1eQ3J38CBV47oXH5glqA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Last Night of Summer](https://open.spotify.com/album/442FNRYuadNpLEV83zVtJ3) | 2:10 |
-| 100 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
-| 101 | [WHY DON'T YOU STAY](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [WHY DON'T YOU STAY](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 100 | [WHY DON'T YOU STAY](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [WHY DON'T YOU STAY](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 |
+| 101 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
 | 102 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
 | 103 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
 | 104 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 161 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 162 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AccUZAAAAADK4JtnH6TAfOwAwwH9D5es`
+Snapshot ID: `AccZyAAAAAA8SsBys9oVhpxh8Vih8d/b`

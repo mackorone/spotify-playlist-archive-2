@@ -5615,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "GOGO",
+        "url": "https://open.spotify.com/album/3qfAHtZCxR0cdelIWF0omH"
+      },
+      "artists": [
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "GOGO",
+      "url": "https://open.spotify.com/track/7ohN5ImOsaOF7OO3lNCEIm"
+    },
+    {
+      "album": {
         "name": "Music Source of Mr. Trot3 TOP7 New song",
         "url": "https://open.spotify.com/album/2AmJJUywYpDsV7Sgn5Z9Mx"
       },

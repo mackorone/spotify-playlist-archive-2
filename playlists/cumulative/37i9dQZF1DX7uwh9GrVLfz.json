@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: The BONEZ",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -4458,6 +4458,24 @@
       "duration_ms": 136533,
       "name": "IF I Could",
       "url": "https://open.spotify.com/track/39dIa1CWSiVQme195v0mdO"
+    },
+    {
+      "album": {
+        "name": "IMAGINATION",
+        "url": "https://open.spotify.com/album/1tFoA5QGvlmgFr11ecSsvy"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120233,
+      "name": "IMAGINATION",
+      "url": "https://open.spotify.com/track/65QicSAJpJEJZHvGetuSUQ"
     },
     {
       "album": {
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 159399,
       "name": "Skull Skater",
       "url": "https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo"
@@ -13596,7 +13614,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 203960,
       "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl"
@@ -14444,6 +14462,24 @@
       "duration_ms": 267066,
       "name": "\u540d\u72ac\u30cb\u30c3\u30d1\u30fc\u30fb\u30c9\u30c3\u30b0\u30f3\u30ed\u30fc\u30eb",
       "url": "https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z"
+    },
+    {
+      "album": {
+        "name": "\u541b\u304c\u7b11\u3063\u305f\uff01",
+        "url": "https://open.spotify.com/album/27GMHUeJtccejECNeJAV4I"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192709,
+      "name": "\u541b\u304c\u7b11\u3063\u305f\uff01",
+      "url": "https://open.spotify.com/track/1zB0qeXt2VrUL3qlVThKYj"
     },
     {
       "album": {

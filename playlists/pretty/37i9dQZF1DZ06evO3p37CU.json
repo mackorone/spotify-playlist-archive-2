@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAB8I7Yu5IBhOLm8rPQdMxW5",
+  "snapshot_id": "aqc5AAAAAADb7HsRq/TPTkBrxHGmkwnv",
   "tracks": [
     {
       "added_at": null,
@@ -81,7 +81,7 @@
         },
         {
           "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx"
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
         }
       ],
       "duration_ms": 204453,
@@ -1151,8 +1151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Revenge Of The Dreamers III: Director's Cut",
+        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
       },
       "artists": [
         {
@@ -1160,13 +1160,21 @@
           "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 203419,
-      "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
-      "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
+      "duration_ms": 199706,
+      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,

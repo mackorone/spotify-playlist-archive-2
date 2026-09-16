@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 194482,
       "name": "Adam si Eva",
       "url": "https://open.spotify.com/track/3ekGBSPyEOcr72kkzGykS7"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 188307,
       "name": "Alo, Scuze!",
       "url": "https://open.spotify.com/track/3SJ4jIR6QGX8QSth1NDwuw"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -15781,6 +15781,28 @@
     },
     {
       "album": {
+        "name": "Eu plec cu ea",
+        "url": "https://open.spotify.com/album/0yRv33H5HFsBAecArLFeqP"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161843,
+      "name": "Eu plec cu ea",
+      "url": "https://open.spotify.com/track/6Kb5cFq5B3hGj5WPNSTg1T"
+    },
+    {
+      "album": {
         "name": "D3MON",
         "url": "https://open.spotify.com/album/1PASwQvHiqKSeRomINxh4P"
       },
@@ -18418,7 +18440,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 133886,
       "name": "Gangsta Luv",
       "url": "https://open.spotify.com/track/3aMVeiJKtSSwhYwafOSZnM"
@@ -22880,7 +22902,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -29964,7 +29986,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 233281,
       "name": "MODEL",
       "url": "https://open.spotify.com/track/0g0CvffYlfUznjEGe86Fpd"
@@ -30160,7 +30182,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -32036,6 +32058,24 @@
       "duration_ms": 148800,
       "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -35602,7 +35642,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 198837,
       "name": "Peter Parker - Balkanic Version",
       "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"
@@ -44053,6 +44093,32 @@
     },
     {
       "album": {
+        "name": "Studenta",
+        "url": "https://open.spotify.com/album/4mjxq6Eyhi56zMFN8gcCnV"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/6lgB8CZ719FFhLvGe9Opg8"
+        },
+        {
+          "name": "George Hora",
+          "url": "https://open.spotify.com/artist/4uHCVd0E4sjWhy6ipMfALw"
+        },
+        {
+          "name": "STUDIO 66",
+          "url": "https://open.spotify.com/artist/0Jhs6SrEBujkOWQU472Jap"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Studenta",
+      "url": "https://open.spotify.com/track/0IG4FSWfErzYC3fumFeMkL"
+    },
+    {
+      "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
       },
@@ -44868,7 +44934,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -44988,7 +45054,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -52510,7 +52576,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 190415,
       "name": "Zboara Banii",
       "url": "https://open.spotify.com/track/7dHrYWXiuJxotCS6tZrWPT"

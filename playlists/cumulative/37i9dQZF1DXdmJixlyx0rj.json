@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "DSMN (Don't Stop Me Now)",
+        "url": "https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu"
+      },
+      "artists": [
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "DSMN (Don't Stop Me Now)",
+      "url": "https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O"
+    },
+    {
+      "album": {
         "name": "Dynamite (DayTime Version)",
         "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"

@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 173630,
       "name": "Ah Be Manolya",
       "url": "https://open.spotify.com/track/7tuPXzVX9o3Gl8etdFHgGU"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 163809,
       "name": "Amat\u00f6r",
       "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
@@ -8846,7 +8846,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 127187,
       "name": "diva",
       "url": "https://open.spotify.com/track/4uBPQy3fLP8t6XFRTMLmHT"
@@ -10294,7 +10294,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "en baba r\u00fczgarda yanar ate\u015f (GODBLESS)",
       "url": "https://open.spotify.com/track/2GJ2xsbWkrQNOgy45RRKU4"
@@ -11724,7 +11724,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP"
@@ -11992,7 +11992,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 225570,
       "name": "Gidi\u015fat",
       "url": "https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6"
@@ -17872,7 +17872,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 153081,
       "name": "KISKAN\u00c7",
       "url": "https://open.spotify.com/track/5s0NsfcDicif5VsZdI8lY5"
@@ -25315,6 +25315,24 @@
     },
     {
       "album": {
+        "name": "Savruldum \u00d6yle",
+        "url": "https://open.spotify.com/album/7mHBesVwRo3DsOQ7gP9aQ4"
+      },
+      "artists": [
+        {
+          "name": "Nebi Demir",
+          "url": "https://open.spotify.com/artist/4Ys9T6FpNzgWFDshsftmcQ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134999,
+      "name": "Savruldum \u00d6yle",
+      "url": "https://open.spotify.com/track/18Neffq5r4SIyg0q9L0UBb"
+    },
+    {
+      "album": {
         "name": "Kan II",
         "url": "https://open.spotify.com/album/1kdUoniEe1g2Fwgyt614Hn"
       },
@@ -26680,7 +26698,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 149711,
       "name": "Snap",
       "url": "https://open.spotify.com/track/2mW1SMo4VbI2MFCTKOBZ6W"
@@ -30868,6 +30886,24 @@
       "duration_ms": 158974,
       "name": "y\u00e2r",
       "url": "https://open.spotify.com/track/4pdrlGq6TtXXxDSiBuGri2"
+    },
+    {
+      "album": {
+        "name": "Y\u00fcce A\u015fk",
+        "url": "https://open.spotify.com/album/3vZ9bADF6C9wP8POFHAWUm"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Y\u00fcce A\u015fk",
+      "url": "https://open.spotify.com/track/4nmGipl4hRBing7os8hAVM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 32 min
+98 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Erin](https://open.spotify.com/track/0ppufzTucCX1bs6B4A4Oq0) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Quiet Miles](https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ) | 2:30 | 2026-01-18 |  |
 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 | 2024-08-23 |  |
 | [Float](https://open.spotify.com/track/69iPLMNd0d3sxmW52mwLZN) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 2:25 | 2023-12-13 | 2024-01-16 |
+| [Gum’s Groove](https://open.spotify.com/track/2wVhp1yFVDV3mUEWygWkUJ) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Coldwaterchris](https://open.spotify.com/artist/2ipT1DoIRr7UK9G2PqmMT9), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Time Traveler](https://open.spotify.com/album/0Xb71lL4YTtHSM36dWYn9L) | 3:20 | 2026-09-16 |  |
 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/1bUqaX8ucv4VTMtKlAd8mW) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 | 2025-09-29 | 2026-05-31 |
 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 | 2023-12-13 |  |
 | [How Can It Be](https://open.spotify.com/track/6bhlt3X3iXMs3WqPpKFpEh) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [How Can It Be](https://open.spotify.com/album/0lmDyjMsjpGmPJ5a8ABjHM) | 4:00 | 2023-12-29 | 2024-08-25 |

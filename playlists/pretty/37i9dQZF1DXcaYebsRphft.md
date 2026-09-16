@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 TWS TOUR '24/7:FOR:YOU' IN JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,523 likes - 24 songs - 52 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 40,867 likes - 24 songs - 52 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

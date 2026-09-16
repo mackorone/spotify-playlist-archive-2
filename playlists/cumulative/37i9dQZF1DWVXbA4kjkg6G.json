@@ -1803,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Spectral+",
+        "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Olive Kimoto",
+          "url": "https://open.spotify.com/artist/2mtgDA3i2MqqAeRw8AGVY6"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207571,
+      "name": "No Space For Love",
+      "url": "https://open.spotify.com/track/1ZJig4lLPrUHeaGW0TcYoa"
+    },
+    {
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -2522,7 +2544,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 279933,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"

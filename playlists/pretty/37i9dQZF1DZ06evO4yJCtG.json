@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 160414,
+  "num_followers": 160432,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAADORKLkLG8H+EAII4HHBN6e",
+  "snapshot_id": "aqc5AAAAAACgXtiUDF8CQmtwyMEx8Son",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 196569,
-      "name": "Piece of Me (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -335,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 196569,
+      "name": "Piece of Me (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 251990,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/3KVlk3I9qKGTPFpkWA20nh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 221522,
       "name": "24/7 (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 251990,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/3KVlk3I9qKGTPFpkWA20nh"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHANGE",
         "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 230240,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Don't Want You",
-      "url": "https://open.spotify.com/track/7mlUgG3YkaE8AWRzsdEcNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHANGE",
         "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186120,
       "name": "Found",
       "url": "https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Don't Want You",
+      "url": "https://open.spotify.com/track/7mlUgG3YkaE8AWRzsdEcNn"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 191503,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHANGE",
         "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 253520,
       "name": "Down",
       "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 191503,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,141 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,129 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 37 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
 | 38 | [Talismã](https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Talismã](https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX) | 2:35 |
 | 39 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 |
-| 40 | [OBRA PRIMA](https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [OBRA PRIMA](https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N) | 2:49 |
-| 41 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 40 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 41 | [OBRA PRIMA](https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [OBRA PRIMA](https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N) | 2:49 |
 | 42 | [Mais Além](https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j), [Lobo](https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ), [Ricca](https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc) | [Mais Além](https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN) | 3:13 |
 | 43 | [AIRBNB](https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [AIRBNB](https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x) | 2:26 |
 | 44 | [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 |

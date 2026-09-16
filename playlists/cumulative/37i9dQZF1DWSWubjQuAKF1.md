@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Lotta
 
-976 songs - 1 day 23 hr 39 min
+977 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 | 2025-06-19 | 2025-07-18 |
 | [KEEPITUP](https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [KEEPITUP](https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV) | 3:58 | 2025-11-18 | 2026-02-05 |
 | [KID](https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KID](https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1) | 3:40 | 2026-09-03 |  |
-| [Kiedy jesteś](https://open.spotify.com/track/3oIah1APUdIWNAnfeneenc) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kiedy jesteś](https://open.spotify.com/album/5h2Z4crCXk6N2vqJO8NUxn) | 2:49 | 2026-07-09 |  |
+| [Kiedy jesteś](https://open.spotify.com/track/3oIah1APUdIWNAnfeneenc) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kiedy jesteś](https://open.spotify.com/album/5h2Z4crCXk6N2vqJO8NUxn) | 2:49 | 2026-07-09 | 2026-09-16 |
 | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [KIEDYŚ NAS ZABRAKNIE](https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl) | 2:13 | 2025-02-20 | 2025-04-18 |
 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 | 2025-07-10 | 2025-11-12 |
 | [kill for me?](https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [kill for me?](https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk) | 2:40 | 2025-09-16 | 2025-12-12 |
@@ -657,6 +657,7 @@
 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 | 2026-06-26 |
 | [poza Tobą nic](https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [poza Tobą nic](https://open.spotify.com/album/6NLJMNdUdNY3Mv2jnlxKWv) | 2:53 | 2026-09-03 |  |
 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 | 2026-02-05 | 2026-05-01 |
+| [Pożegnanie z Morzem](https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Eskapizm](https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5) | 3:33 | 2026-09-10 |  |
 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 | 2026-05-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |
 | [Press Pause](https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Press Pause](https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD) | 3:19 | 2025-03-27 | 2025-07-04 |

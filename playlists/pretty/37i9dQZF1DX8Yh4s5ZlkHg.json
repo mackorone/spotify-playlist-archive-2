@@ -1,12 +1,12 @@
 {
   "description": "Intimate, sultry, satisfying. =",
-  "num_followers": 1049820,
+  "num_followers": 1050274,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN8WS1VNZhjyUk4UF+HRlqntr0oR",
+  "snapshot_id": "AAAAAABDOcr69n0QBNocSSUHbaOP+14l",
   "tracks": [
     {
       "added_at": "2026-09-08 20:59:27",
@@ -585,6 +585,30 @@
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
+      "added_at": "2026-09-15 22:17:05",
+      "album": {
+        "name": "Spectral+",
+        "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Natasha Morrow",
+          "url": "https://open.spotify.com/artist/2QrCrPo69hbeZeXP5BhnhS"
+        },
+        {
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
+        }
+      ],
+      "duration_ms": 219321,
+      "name": "Long Distance Lover",
+      "url": "https://open.spotify.com/track/17TlxQYxHLcdxvG99QB5w7"
+    },
+    {
       "added_at": "2026-09-08 20:59:27",
       "album": {
         "name": "Killshot (Slowed + Reverb)",
@@ -831,22 +855,6 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2026-09-08 20:59:27",
-      "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 341533,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
     }
   ],
   "unique_name": "sexy indie",

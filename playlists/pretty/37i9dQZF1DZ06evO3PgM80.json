@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACEGgqid0Tyt9H2I7q+7/Sr",
+  "snapshot_id": "aqc5AAAAAAD4epq7K5o1IvqM2+feehPl",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 312386,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 312386,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
     },
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, Meu Amigo, Meu Salvador (Jesus, My Savior, Jesus, My Friend) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6cGaYskHOZQVdgpLBwvUaY"
+        "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 464210,
-      "name": "Jesus, Meu Amigo, Meu Salvador (Jesus, My Savior, Jesus, My Friend) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7B9wlQrha0ZbHORHFDOXaF"
+      "duration_ms": 516000,
+      "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
+        "name": "Jesus, Meu Amigo, Meu Salvador (Jesus, My Savior, Jesus, My Friend) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6cGaYskHOZQVdgpLBwvUaY"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 516000,
-      "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
+      "duration_ms": 464210,
+      "name": "Jesus, Meu Amigo, Meu Salvador (Jesus, My Savior, Jesus, My Friend) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7B9wlQrha0ZbHORHFDOXaF"
     },
     {
       "added_at": null,

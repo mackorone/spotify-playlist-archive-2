@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Junior Mesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,369 likes - 95 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,386 likes - 95 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

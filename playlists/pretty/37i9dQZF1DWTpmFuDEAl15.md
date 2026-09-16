@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,586 likes - 111 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,596 likes - 111 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 66 | [Alfonso Muskedunder](https://open.spotify.com/track/3MXQyrtpSbucjnO7wAiLSI) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 3:24 |
 | 67 | [Dont You Know](https://open.spotify.com/track/7kBpCEmqLrRFQ4OGXn4rT3) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Dont You Know](https://open.spotify.com/album/7GO9gaB8qohpGp0ngJdPCf) | 3:20 |
 | 68 | [IMMUNE](https://open.spotify.com/track/0CvwKQegBVpsnUIRD7MKU6) | [Benjamin Earl Turner](https://open.spotify.com/artist/2TUB08yLNa9nOKoPDxh7mv) | [IMMUNE](https://open.spotify.com/album/2cJiQN5dokp4OGadg8aNnz) | 2:29 |
-| 69 | [IJUST](https://open.spotify.com/track/2FvORP4Dcd5v7GiLVEXnR0) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LEHGOLAND](https://open.spotify.com/album/3JdvJoZXav0juSyap9qlpT) | 3:06 |
+| 69 | [IJUST](https://open.spotify.com/track/2FvORP4Dcd5v7GiLVEXnR0) | [Len Lucci](https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LEHGOLAND](https://open.spotify.com/album/3JdvJoZXav0juSyap9qlpT) | 3:06 |
 | 70 | [Empty Pages](https://open.spotify.com/track/4Dsfjmjaa8DQ4fM5xR6Bhu) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 4:14 |
 | 71 | [Dream police](https://open.spotify.com/track/7gvh80lWlcPBsbctsWoIBJ) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 2:49 |
 | 72 | [Cruise](https://open.spotify.com/track/0vybyrCk6ANFFmDTBWq74f) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Just for Us](https://open.spotify.com/album/6qQXg2HhcISQpBK7HOEPal) | 3:36 |

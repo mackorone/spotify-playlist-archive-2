@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAABqEtax7UUkbL/IefTooFKk",
+  "snapshot_id": "aqc5AAAAAAANQR3RdftDS79D0svZD2+l",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flicka",
-        "url": "https://open.spotify.com/album/1OmoePoGTxRMnwpZGKRxEz"
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
       },
       "artists": [
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        },
-        {
-          "name": "Bandi2",
-          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
-        },
-        {
-          "name": "Panchito7",
-          "url": "https://open.spotify.com/artist/1jaFWeTddSp6FaFEu4F0VE"
         }
       ],
-      "duration_ms": 210260,
-      "name": "Flicka",
-      "url": "https://open.spotify.com/track/7qRV8RjurS5tMLbFprMuGH"
+      "duration_ms": 215869,
+      "name": "Whiskey and Tequila",
+      "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
     },
     {
       "added_at": null,
@@ -363,18 +355,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+        "name": "Flicka",
+        "url": "https://open.spotify.com/album/1OmoePoGTxRMnwpZGKRxEz"
       },
       "artists": [
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Bandi2",
+          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
+        },
+        {
+          "name": "Panchito7",
+          "url": "https://open.spotify.com/artist/1jaFWeTddSp6FaFEu4F0VE"
         }
       ],
-      "duration_ms": 215869,
-      "name": "Whiskey and Tequila",
-      "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
+      "duration_ms": 210260,
+      "name": "Flicka",
+      "url": "https://open.spotify.com/track/7qRV8RjurS5tMLbFprMuGH"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+      "duration_ms": 157080,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 157080,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": null,

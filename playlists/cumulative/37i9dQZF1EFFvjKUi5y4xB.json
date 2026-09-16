@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267684,
+      "name": "Horoscope",
+      "url": "https://open.spotify.com/track/2fpsRkgqV1Kpaj17M6C5Yu"
+    },
+    {
+      "album": {
         "name": "I'm Gone",
         "url": "https://open.spotify.com/album/2KiZIVRoJqrOWUgqOWsB0Y"
       },

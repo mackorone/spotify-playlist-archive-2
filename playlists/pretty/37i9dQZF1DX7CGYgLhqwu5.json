@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387520,
+  "num_followers": 387529,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential George Jones",
-        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
+      "duration_ms": 177333,
+      "name": "The Image of Me",
+      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -911,18 +907,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
+        "name": "The Essential George Jones",
+        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 177333,
-      "name": "The Image of Me",
-      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
+      "duration_ms": 140733,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
     },
     {
       "added_at": "2026-02-17 04:47:51",

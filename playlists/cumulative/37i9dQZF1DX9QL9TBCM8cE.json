@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 226433,
       "name": "Give me some more...",
       "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 243720,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2hTddlDcHo4nghlfINF8Jt"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 216626,
       "name": "Overdrive Emotion",
       "url": "https://open.spotify.com/track/4QS85NG0Sq6kMSJZUZdnvW"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 241333,
       "name": "SOS",
       "url": "https://open.spotify.com/track/7MYtESHP0QTH6bE1E0RXtw"
@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS -Sol-",
+        "url": "https://open.spotify.com/album/3F0YTwRzW0hHYAvktUw1HV"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u5bae\u3081\u3050\u308b (CV.\u5cef\u7530\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/1GZdVDLat5KC60IzjjySDn"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217105,
+      "name": "Take Ur Time",
+      "url": "https://open.spotify.com/track/3KXtITSlRpHPXRdAv1A3uv"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 06",
         "url": "https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp"
       },
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 200866,
       "name": "Tracing Defender",
       "url": "https://open.spotify.com/track/1XEU5o0qG4P0pHJeyAW00Q"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 286920,
       "name": "\u30a2\u30b9\u30d5\u30a1\u30eb\u30c8\u3092\u9cf4\u3089\u3057\u3066",
       "url": "https://open.spotify.com/track/5IbCoJ5pzcTVAe2FNG7ymA"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 255653,
       "name": "\u30d0\u30d9\u30eb\u30b7\u30c6\u30a3\u30fb\u30b0\u30ec\u30a4\u30b9 - 2023 Version",
       "url": "https://open.spotify.com/track/62lybkotsQ6EcgDn5Q7VWr"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 244706,
       "name": "\u5e7b\u60d1SILHOUETTE - 2023 Version",
       "url": "https://open.spotify.com/track/69RJYAtS52Iko5yDbCh4pu"
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 251546,
       "name": "\u9752\u3068\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/1Cpk6loUsHtZmSrzu25ips"

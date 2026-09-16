@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 262232,
+  "num_followers": 262227,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -863,38 +863,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "TYPHOON",
         "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 196222,
       "name": "what can i do?",
       "url": "https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "all in",
-        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "all in",
-      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "don't matter",
         "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "all in",
+        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "all in",
+      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "Maybe?",
-        "url": "https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt"
-      },
-      "artists": [
-        {
-          "name": "RADi",
-          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
-        }
-      ],
-      "duration_ms": 174152,
-      "name": "Maybe?",
-      "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1527,6 +1511,22 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "Maybe?",
+        "url": "https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt"
+      },
+      "artists": [
+        {
+          "name": "RADi",
+          "url": "https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd"
+        }
+      ],
+      "duration_ms": 174152,
+      "name": "Maybe?",
+      "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "would you be mine?",
+        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "duration_ms": 190432,
+      "name": "would you be mine?",
+      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "would you be mine?",
-        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        }
-      ],
-      "duration_ms": 190432,
-      "name": "would you be mine?",
-      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "RABBITHOLE",
-        "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 141443,
-      "name": "RABBITHOLE",
-      "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Questionnaire",
         "url": "https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 132043,
       "name": "Questionnaire",
       "url": "https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
     },
     {
       "added_at": "2026-08-07 04:12:22",

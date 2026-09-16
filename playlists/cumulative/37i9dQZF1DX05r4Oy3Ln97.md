@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-533 songs - 1 day 4 hr 20 min
+534 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 | 2025-06-29 |
 | [Human](https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Human](https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo) | 2:25 | 2021-10-29 | 2023-03-11 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-08-09 |  |
+| [I Could Be Madonna](https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Could Be Madonna](https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3) | 3:15 | 2026-09-11 |  |
 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 | 2023-01-27 | 2023-10-06 |
 | [I Feel Fine](https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7) | 3:18 | 2022-09-09 | 2022-11-09 |
 | [I Feel It Too](https://open.spotify.com/track/7q1HTi8JRpHEr73M6m0Z9h) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [I Feel It Too](https://open.spotify.com/album/0z8ZRKGJ2PVFuki4UhguLT) | 3:45 | 2021-10-29 | 2022-01-19 |
@@ -336,7 +337,7 @@
 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 | 2024-09-20 | 2026-03-14 |
 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-03 |  |
 | [Nanana!](https://open.spotify.com/track/38oMTlrjQtVexRPEGDzcgd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [Nanana!](https://open.spotify.com/album/56cw2xCvU4kgA5CJQs5AE0) | 2:42 | 2023-05-12 | 2023-05-27 |
-| [Natural Blues \(TECIE\)](https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Natural Blues \(TECIE\)](https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7) | 4:12 | 2026-08-21 |  |
+| [Natural Blues \(TECIE\)](https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Natural Blues \(TECIE\)](https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7) | 4:12 | 2026-08-21 | 2026-09-16 |
 | [Never Ever](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz) | [Robert Burian](https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg) | [Never Ever](https://open.spotify.com/album/19mWO6N3Aho1cJe5P29oBQ) | 3:40 | 2023-01-24 | 2023-03-11 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2025-06-02 |  |
 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 | 2022-03-25 | 2023-09-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2432,
+  "num_followers": 2433,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAB7nVwlNEZoMsjBqfM+J7Fw",
+  "snapshot_id": "aqc5AAAAAACMik39Yj6SqcthdJG4bZdu",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak Anniversary (H&M&REDSTAGE)",
+        "url": "https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Heartbreak Anniversary - H&M&REDSTAGE",
+      "url": "https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRINCESS OF POWER (DELUXE)",
         "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 247846,
       "name": "EVERYBODY KNOWS I'M SAD - REMIX",
       "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak Anniversary (H&M&REDSTAGE)",
-        "url": "https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Heartbreak Anniversary - H&M&REDSTAGE",
-      "url": "https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 198356,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
+      "duration_ms": 174973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
+      "duration_ms": 198356,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Julia Sabat\u00e9.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: GAMBOA.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -15430,7 +15430,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 186513,
       "name": "Azul",
       "url": "https://open.spotify.com/track/09wFZTljEFzOvXXCJseHQP"
@@ -18200,7 +18200,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 175000,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/6ku18eEhcG1wfQudZRSPvC"
@@ -49884,7 +49884,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 147857,
       "name": "En mi calle",
       "url": "https://open.spotify.com/track/7D1Yxetsj5LWWDSDEu7p33"
@@ -56738,7 +56738,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 199907,
       "name": "Fiesta Transparente",
       "url": "https://open.spotify.com/track/0ajs3dBKcFGUWdiYjwKOVA"
@@ -59998,7 +59998,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 174185,
       "name": "Gata Negra",
       "url": "https://open.spotify.com/track/26D5RiQJmbvQQ6HNxhyYHK"
@@ -78504,6 +78504,24 @@
       "duration_ms": 234133,
       "name": "Lis\u00e8rgica espardenya (Conjur)",
       "url": "https://open.spotify.com/track/308eSqbXX9re5C81RxpovE"
+    },
+    {
+      "album": {
+        "name": "Little bby",
+        "url": "https://open.spotify.com/album/1zrytswi2HaQRp43hQsLVo"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/2d02RQhsOoN4LfbaU4EBQm"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162835,
+      "name": "Little bby",
+      "url": "https://open.spotify.com/track/63bptDHuzxkbitLizA46SR"
     },
     {
       "album": {
@@ -97726,6 +97744,24 @@
     {
       "album": {
         "name": "Nada Es Suficiente",
+        "url": "https://open.spotify.com/album/5EjlUoU0ACXIRUvcePAmFt"
+      },
+      "artists": [
+        {
+          "name": "Floridablanca",
+          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236557,
+      "name": "Nada Es Suficiente",
+      "url": "https://open.spotify.com/track/3NGTjCfYOzD4V7gdXej9om"
+    },
+    {
+      "album": {
+        "name": "Nada Es Suficiente",
         "url": "https://open.spotify.com/album/48LQAdfRyD41DSt3HqBju1"
       },
       "artists": [
@@ -113427,6 +113463,24 @@
     },
     {
       "album": {
+        "name": "Pastis de Fe",
+        "url": "https://open.spotify.com/album/2d41rArBGlc7kSLlskaSyB"
+      },
+      "artists": [
+        {
+          "name": "Hikigaeru",
+          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122068,
+      "name": "Pastis de Fe",
+      "url": "https://open.spotify.com/track/5MeUQT53MAOtIl4R7u16Lh"
+    },
+    {
+      "album": {
         "name": "PATATA",
         "url": "https://open.spotify.com/album/250Tx07fNyKL3hAznkpYoh"
       },
@@ -115988,6 +116042,24 @@
       "duration_ms": 134604,
       "name": "Photobooth",
       "url": "https://open.spotify.com/track/1tPMOUB4DhxNslBn5YJexB"
+    },
+    {
+      "album": {
+        "name": "picapica",
+        "url": "https://open.spotify.com/album/1AH8Id3umjlv9ghvNXNP7Q"
+      },
+      "artists": [
+        {
+          "name": "julia de arco",
+          "url": "https://open.spotify.com/artist/1xcWruysQvgQWZw3VIgYgI"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "picapica",
+      "url": "https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8"
     },
     {
       "album": {
@@ -123109,6 +123181,24 @@
     },
     {
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/730lT9Uays1BDTDnn3Q5ny"
+      },
+      "artists": [
+        {
+          "name": "diego de diego",
+          "url": "https://open.spotify.com/artist/4SJMUB5rJOzw4Y9v7n0NYi"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/4ncTDMFz72Ud8pyDpkdVCp"
+    },
+    {
+      "album": {
         "name": "Quiero irme a casa",
         "url": "https://open.spotify.com/album/19204Y30zr8IdoC3LyZFft"
       },
@@ -123726,7 +123816,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 177548,
       "name": "Qu\u00e9 nombre, qu\u00e9 cara, qu\u00e9 rara",
       "url": "https://open.spotify.com/track/61RkUDqdl3YZERVTo6LUP0"
@@ -156842,6 +156932,24 @@
       "duration_ms": 220073,
       "name": "Volver a casa",
       "url": "https://open.spotify.com/track/207WZPHj0C8EYDk5WJIV50"
+    },
+    {
+      "album": {
+        "name": "Volver a coincidir",
+        "url": "https://open.spotify.com/album/39h8p37gSJ06dB7OcUpo1W"
+      },
+      "artists": [
+        {
+          "name": "SANTAS",
+          "url": "https://open.spotify.com/artist/16l67fUztUuv919jgXP7BZ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Volver a coincidir",
+      "url": "https://open.spotify.com/track/2rBPMKd1ACNoM1hyQfHvkw"
     },
     {
       "album": {

@@ -1,822 +1,418 @@
 {
-  "description": "Rueda el bal\u00f3n a ritmo de La Madre de Todas las Bandas. ",
-  "num_followers": 57992,
-  "original_name": "F\u00fatbol y Tambora con Banda El Recodo",
+  "description": "Pura pieza cara con las que Alfredo Olivas se pone a echar ag\u00fcita. ",
+  "num_followers": 58001,
+  "original_name": "Piezas Caras: Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALact9NpXy3R31w+zYySWdMJxqfz",
+  "snapshot_id": "AAAAAMkNQQbiwWyEAyH+h2VsJV+FC1Gg",
   "tracks": [
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "Ponte La Verde",
-        "url": "https://open.spotify.com/album/3l5joYyJUMBU6YvA3zt1Hq"
+        "name": "Rey de Corazones",
+        "url": "https://open.spotify.com/album/1kFeG9pDy49ZmEYQmkNRPJ"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 182670,
-      "name": "Ponte La Verde",
-      "url": "https://open.spotify.com/track/3lndb7gIgxC2SSVPYR0Vtv"
+      "duration_ms": 199866,
+      "name": "Amarga Derrota",
+      "url": "https://open.spotify.com/track/6SBGbOfDmCwbaM0rri5peb"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "El Corrido De Mazatl\u00e1n",
-        "url": "https://open.spotify.com/album/5qVope1SMLb5JdchrKUlEw"
+        "name": "Celos del Viento y Corridos Impactantes",
+        "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
         }
       ],
-      "duration_ms": 133520,
-      "name": "El Corrido De Mazatl\u00e1n",
-      "url": "https://open.spotify.com/track/3KqC0BCykXIBLd1No2I55Y"
+      "duration_ms": 178560,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/5j2dek65Soj3dDexrWxpCW"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "El Subteniente De Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Micha Por Adela",
+      "url": "https://open.spotify.com/track/6iCM5Odmvap2jY2gpQCYxe"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Estrellas Y Diamantes",
+        "url": "https://open.spotify.com/album/3ZYyblwHzp9uMlKVXy0568"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Juan Corona",
+      "url": "https://open.spotify.com/track/7FdQQ9D7xlKWypeRJA3mxm"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Me Esta Fallando la Vida",
+        "url": "https://open.spotify.com/album/7oSNV2qRQMSgdafnRepqmV"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Me Esta Fallando la Vida",
+      "url": "https://open.spotify.com/track/4OHLiyGkJGXf1I7G98WCMo"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Las Mananitas",
+        "url": "https://open.spotify.com/album/59nureviycFEwHY7L1jfjD"
+      },
+      "artists": [
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "El Sabio Salomon",
+      "url": "https://open.spotify.com/track/7nnhkMvzavk5aVtZ4MdHyz"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Con Olor a Hierba",
+        "url": "https://open.spotify.com/album/2KjnHYLIk6xTTiWW0Kwk2b"
+      },
+      "artists": [
+        {
+          "name": "Los Rayos del Norte de Sergio Vega",
+          "url": "https://open.spotify.com/artist/0ZuK3prklYGd0N3meInndk"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "A Trav\u00e9s de la Luna",
+      "url": "https://open.spotify.com/track/30vY5SqW81HLcb4zWpOUt1"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 206730,
+      "name": "As\u00ed Se Usa En Los Ranchos",
+      "url": "https://open.spotify.com/track/0LP83DVouCnJ9w1j2TZN8a"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "En Vivo - Fiesta Privada",
+        "url": "https://open.spotify.com/album/59BaFl2GHwAHNkkdvOvhAc"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 158272,
+      "name": "Enamorado - En Vivo",
+      "url": "https://open.spotify.com/track/5Hb4jVeO0srdVGjlrc84Hh"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "El Monarca de Sinaloa 17 Exitos",
+        "url": "https://open.spotify.com/album/0fWAh9nS78mEloxXoLy0ac"
+      },
+      "artists": [
+        {
+          "name": "El Monarca De Sinaloa",
+          "url": "https://open.spotify.com/artist/77tqxIanLn23dytqgkIXFF"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "Regalo Equivocado",
+      "url": "https://open.spotify.com/track/6itlessENcFJd94SqhOXpN"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Muy Alegres, Vol. 2",
+        "url": "https://open.spotify.com/album/7bTASqDwxCIUOj56OLW2CA"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MM",
+          "url": "https://open.spotify.com/artist/6fgCB45zXDURhJVchnPA0S"
+        }
+      ],
+      "duration_ms": 147440,
+      "name": "Arriba Yecora",
+      "url": "https://open.spotify.com/track/1t0hvxScuLphYikChz8XXL"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Orgullo Y Tradicion Sinaloence",
+        "url": "https://open.spotify.com/album/36J2RQKab09nGifAkUywZu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Portenos De Don Miguel Velasquez",
+          "url": "https://open.spotify.com/artist/2weMRNLbLxSWoNOQmgpuhO"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "El Collar De Guamuchil",
+      "url": "https://open.spotify.com/track/2PUjUr2FIK0g2ozXe23cXB"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "No Eres Tu, Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/1BDiRkCpPtBh0A9uFiXhCd"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Al Que Se Animo (Con Banda)",
+      "url": "https://open.spotify.com/track/6WQDCwOY30AFNJFXjDju5Q"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 146878,
+      "name": "Comer\u00e9 Callado",
+      "url": "https://open.spotify.com/track/0akutH2Mayw1fKtpdew2o7"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Ave Cautiva",
+      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
+    },
+    {
+      "added_at": "2026-09-15 22:04:12",
+      "album": {
+        "name": "El Cuerdo",
+        "url": "https://open.spotify.com/album/5qCOgfrctHU9yJ5GS2NDRO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         },
         {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Yo S\u00e9 Que Te Acordar\u00e1s - 80 Aniversario",
-      "url": "https://open.spotify.com/track/6BlHb98Dl7Dv6jv74cdejY"
+      "duration_ms": 188086,
+      "name": "El Cuerdo",
+      "url": "https://open.spotify.com/track/4DGJawbFteCWOvieWU1bBK"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
+        "name": "El Rock del Sapo",
+        "url": "https://open.spotify.com/album/0GJq7UYxFQjS5yw2kGgNWE"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        },
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Tengo Una Ilusi\u00f3n - 80 Aniversario",
-      "url": "https://open.spotify.com/track/6NrAUiO6o7egmINdxDxi8g"
+      "duration_ms": 224040,
+      "name": "El Rock del Sapo",
+      "url": "https://open.spotify.com/track/5QEARMIZIxMnaSmVScBKIx"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 209293,
-      "name": "La Mejor De Todas - Version 2021",
-      "url": "https://open.spotify.com/track/723aHyqcZjSJay0J5NtQek"
+      "duration_ms": 164026,
+      "name": "P\u00e1jaro Prieto",
+      "url": "https://open.spotify.com/track/05PzIP09rqcfXrMGBvNqYi"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "Concierto Mundial Digital Live",
-        "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
+        "name": "Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 285221,
-      "name": "Popurr\u00ed Seis Pies Abajo/No Me S\u00e9 Rajar - En Vivo",
-      "url": "https://open.spotify.com/track/2D8rkGvhOQCU8gBpBNe9GF"
+      "duration_ms": 262800,
+      "name": "Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+        "name": "Ultimas Noticias",
+        "url": "https://open.spotify.com/album/4s3BTX3ekS3FJEBPUYhQfM"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Alte\u00f1os De La Sierra",
+          "url": "https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK"
         }
       ],
-      "duration_ms": 378743,
-      "name": "La Quebradora / V\u00e1monos De Fiesta - En Vivo",
-      "url": "https://open.spotify.com/track/5F1Mrz56k3u8muoVK7t6pj"
+      "duration_ms": 183093,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/40Vgcv7uct81pWRcHIVQP8"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 292065,
-      "name": "Qu\u00e9 Bonita / El Farol - En Vivo",
-      "url": "https://open.spotify.com/track/67nMeE7X39HTFTKPeh6UDN"
+      "duration_ms": 163082,
+      "name": "Veinte Mujeres De Negro",
+      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
     },
     {
-      "added_at": "2026-06-30 18:09:10",
+      "added_at": "2026-09-15 22:04:12",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 195318,
-      "name": "La Culebra - En Vivo",
-      "url": "https://open.spotify.com/track/6tcqKDm6Xvm2feQDqRBEfO"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 236504,
-      "name": "La Crazy Loca - En Vivo",
-      "url": "https://open.spotify.com/track/5sGbSIGsB2v5GVht2qMvqQ"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 193249,
-      "name": "Pu\u00f1o De Tierra - En Vivo",
-      "url": "https://open.spotify.com/track/2Ani3qJhZWvmnVpVTEbJqS"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Concierto Mundial Digital Live",
-        "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 363186,
-      "name": "Popurr\u00ed Y Llegaste T\u00fa/Te Quiero A Morir - En Vivo",
-      "url": "https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 373885,
-      "name": "El Sinaloense / El Corrido De Mazatl\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/58qbMIwIgJA7uLYv5491uz"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Concierto Mundial Digital Live",
-        "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 211168,
-      "name": "Te Presumo - En Vivo",
-      "url": "https://open.spotify.com/track/0o7bP9OCcgm6ipUZhhvxxL"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Con la No. 1: La Pelea del Siglo",
-        "url": "https://open.spotify.com/album/0ipFmuKZLgVJPiAAuKuZDR"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "La Tabaquera",
-      "url": "https://open.spotify.com/track/2oahGF49v5IkWz6tfxXZNJ"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "Entierrenme con La Banda",
-      "url": "https://open.spotify.com/track/0dUGmwjvHXmuPREv0xfdTC"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176269,
-      "name": "La Peligrosa",
-      "url": "https://open.spotify.com/track/4qJylr6M0smswsVjpPQvTs"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 187022,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "El Pato Juan",
-      "url": "https://open.spotify.com/track/1iJlcg3vmGbe0s3s7HYWb3"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "En Memoria: Las Canciones Preferidas de Don Cruz",
-        "url": "https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo - Homenaje P\u00f3stumo",
-          "url": "https://open.spotify.com/artist/6qMTJaiqfbD7HTT8Dl4L2W"
-        }
-      ],
-      "duration_ms": 132706,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Como El Primer D\u00eda",
-      "url": "https://open.spotify.com/track/56ztKm9mnRxqrAMEtfE07J"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "60 Aniversario, Vol. 1",
-        "url": "https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Contigo Por Siempre",
-        "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Y Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Contigo Por Siempre",
-        "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Cada Vez Te Extra\u00f1o Mas",
-      "url": "https://open.spotify.com/track/5aMNyHXPssxFQitvrvyF7q"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Contigo Por Siempre",
-        "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "La Crazy Loca",
-      "url": "https://open.spotify.com/track/7FPJBfDvf83vU4LmVxre9O"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "No Me Se Rajar",
-        "url": "https://open.spotify.com/album/3fEqgA5b4SrsCU1WTjgRBg"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "No Me Se Rajar",
-      "url": "https://open.spotify.com/track/4AZ5uxFyqkhArno8BTtt10"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Hay Amor",
-        "url": "https://open.spotify.com/album/2yvdvfj2gjnAEWfBHSpq7u"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Camaron Pelao",
-      "url": "https://open.spotify.com/track/3n6Ne0aeUxttPF4S4y2vuy"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "Te Ofrezco Un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0Y7t0yxq86MFEWQ1rTTN89"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "Lo Mejor De Mi Vida",
-      "url": "https://open.spotify.com/track/7JJsBWPem6EpYmmbQMOdHE"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
-        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Pena Tras Pena",
-      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "M\u00e1s Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Tus Palabras",
-      "url": "https://open.spotify.com/track/4nmKe7dKATZcG1ttfvWIiI"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "M\u00e1s Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3lhHsnoOc8n1Xz2XZu2Q5Z"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Que Te Ruegue Quien Te Quiera",
-      "url": "https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Y Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/2i61WI2fawXqjs1NuMPW3A"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Te Presumo",
-      "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Vas A Llorar Por M\u00ed",
-      "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Mi Vicio M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Mi Vicio M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Coraz\u00f3n De Texas",
-      "url": "https://open.spotify.com/track/1sIsXmTW9LFqzro0CYnmDp"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/07k1iv2UI0SFD3aczEzzUa"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Conga Roja",
-      "url": "https://open.spotify.com/track/3Hnh0OkZ8tSWGydI03AOHp"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Sones Ra\u00edces",
-        "url": "https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/5A40LJZRgmHQuXd9U8tMqD"
-    },
-    {
-      "added_at": "2026-06-30 18:09:10",
-      "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/2EnTOzm8U9gSfGoRlKGuhN"
+      "duration_ms": 238586,
+      "name": "Cien Charolas",
+      "url": "https://open.spotify.com/track/2SjQ6wfhDn5ozfJK4F5ogi"
     }
   ],
-  "unique_name": "F\u00fatbol y Tambora con Banda El Recodo",
+  "unique_name": "Piezas Caras: Alfredo Olivas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSv06P6ZnVVG"
 }

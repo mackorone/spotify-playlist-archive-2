@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604429,
+  "num_followers": 604434,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Is This What I\u2019m Made Of",
-        "url": "https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Is This What I\u2019m Made Of",
-      "url": "https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Is This What I\u2019m Made Of",
+        "url": "https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Is This What I\u2019m Made Of",
+      "url": "https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Vodka Soda",
-        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Vodka Soda",
-      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Live Laugh Toaster Bath",
         "url": "https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 142769,
       "name": "Live Laugh Toaster Bath",
       "url": "https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Vodka Soda",
+        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Vodka Soda",
+      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Probable Claws",
-        "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Cooler",
-      "url": "https://open.spotify.com/track/7eKabJnGgkzWctW0F237Fr"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Stare at the Sun",
         "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172941,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Probable Claws",
+        "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Cooler",
+      "url": "https://open.spotify.com/track/7eKabJnGgkzWctW0F237Fr"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 145458,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145458,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 183375,
       "name": "Someone You Need",
       "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Sumerian Pictures",
-          "url": "https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW"
-        }
-      ],
-      "duration_ms": 222550,
-      "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
-      "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 339878,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Sumerian Pictures",
+          "url": "https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW"
+        }
+      ],
+      "duration_ms": 222550,
+      "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
+      "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

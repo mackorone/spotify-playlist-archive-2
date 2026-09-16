@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 30353,
+  "num_followers": 30354,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAADfQC5yV2u9pT45TYMluqOL",
+  "snapshot_id": "aqc5AAAAAABpczmh6FLvxPcA+QPX78OK",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Trendy Winds",
-      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 219504,
       "name": "Shut You Out",
       "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Trendy Winds",
+      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Diznee Time",
-      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+      "duration_ms": 158280,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 112733,
-      "name": "Fazil's Friend",
-      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 79533,
-      "name": "Silent Suicide",
-      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,

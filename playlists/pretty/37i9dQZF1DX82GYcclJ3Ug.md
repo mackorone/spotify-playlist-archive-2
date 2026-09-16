@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,158 likes - 156 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,183 likes - 156 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 131 | [Pretty Face](https://open.spotify.com/track/3hanCvNUzTmshvCNQkYV3H) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Pretty Face](https://open.spotify.com/album/5rMUdBQwV67qqoEVXqhSaT) | 3:10 |
 | 132 | [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 |
 | 133 | [August](https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [August](https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB) | 3:33 |
-| 134 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis.](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
+| 134 | [Runaway](https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T) | [Tiger Lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC) | 2:34 |
 | 135 | [Misbehave](https://open.spotify.com/track/4V5MKIbOWMNrMA63qDZzZD) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Misbehave](https://open.spotify.com/album/3wwtalcjQ2XkOYEVl8wGrp) | 2:52 |
 | 136 | [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 |
 | 137 | [happiest day of my life](https://open.spotify.com/track/64IXtVAa45ZNBkSpsUBoWJ) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [HAPPIEST DAY OF MY LIFE](https://open.spotify.com/album/3rlyTtl7dFB1F3qPcIUL1j) | 3:22 |

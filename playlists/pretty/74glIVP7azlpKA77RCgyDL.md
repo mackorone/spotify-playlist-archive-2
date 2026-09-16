@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,175 likes - 302 songs - 18 hr 53 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,174 likes - 302 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 6 | [Nuclear God](https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nuclear God](https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH) | 5:08 |
 | 7 | [Without You](https://open.spotify.com/track/4kwpYZxSMhp8sETJ77csWc) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Without You](https://open.spotify.com/album/3w0DTk4Sbocn0So22geTLR) | 4:05 |
 | 8 | [Fear Based Life](https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Fear Based Life](https://open.spotify.com/album/086eMd4hJaJxTRj33KmRFN) | 2:34 |
-| 9 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 9 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 10 | [Suffer Divine](https://open.spotify.com/track/0IiYcf8o84PBk0jHr2hyfp) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Suffer Divine](https://open.spotify.com/album/4wnJ7Y8AR6DEqnBJiDaaxz) | 2:33 |
 | 11 | [She Let The World Run Rampant](https://open.spotify.com/track/148UAJP2wh1gLJVOswtqc9) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [She Let The World Run Rampant](https://open.spotify.com/album/5CC73evnntFNwkgOPcsdgY) | 3:02 |
 | 12 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |

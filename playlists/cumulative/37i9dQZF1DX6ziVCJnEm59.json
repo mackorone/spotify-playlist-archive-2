@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/2vjh5Oj4WLUlXXmbk1vmB0"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/0dOfSGBykLsCT3gTNsUlY6"
+    },
+    {
+      "album": {
         "name": "Traveling Mercies",
         "url": "https://open.spotify.com/album/3BoKmWy9vzG7gKR9DqrlfZ"
       },
@@ -1509,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "double cup",
+        "url": "https://open.spotify.com/album/2B0YlJyPNmPIChgiiOu3Xt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220184,
+      "name": "double cup",
+      "url": "https://open.spotify.com/track/676UGPoceFxnlyPXa01uNk"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
       },
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 256875,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl"
@@ -2240,6 +2276,24 @@
       "duration_ms": 285786,
       "name": "Golden Embers",
       "url": "https://open.spotify.com/track/7HdyKsr1RXenJRtMKcyQ3K"
+    },
+    {
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/42ZLcsAyICGppuqfnQ6nDu"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/3LmkUHLn8uCpslDDc6sgBy"
     },
     {
       "album": {
@@ -2344,7 +2398,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 243867,
       "name": "Hate the Way You Love Me",
       "url": "https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT"
@@ -2366,6 +2420,24 @@
       "duration_ms": 139626,
       "name": "Heavy Crown",
       "url": "https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2"
+    },
+    {
+      "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
     },
     {
       "album": {
@@ -2470,7 +2542,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/3orSucDgEQvX0i2elZ7Lhd"
@@ -2488,7 +2560,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
@@ -2890,6 +2962,24 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/3tQm2Uoq0IkIMBZswennUI"
+    },
+    {
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
     },
     {
       "album": {
@@ -3448,7 +3538,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
@@ -3470,6 +3560,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
     },
     {
       "album": {
@@ -3707,6 +3815,42 @@
     },
     {
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/1Ju744dXpBffHJ2NqcpEZk"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178424,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/61ng94Niz1ZJUhjMyGHyx8"
+    },
+    {
+      "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/2IfjQuxrgdhZNdxaFFnhF2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "One of These Days",
+      "url": "https://open.spotify.com/track/3AKtREZAncNfBwZo3aIwHV"
+    },
+    {
+      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -3726,6 +3870,24 @@
       "duration_ms": 237126,
       "name": "Only Children",
       "url": "https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy"
+    },
+    {
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "album": {
@@ -4468,7 +4630,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 228480,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/1Ne8Bps9vPxCmmSetoJSBd"
@@ -4886,7 +5048,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
@@ -5019,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
+    },
+    {
+      "album": {
         "name": "13 Reasons Why (Season 2)",
         "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
       },
@@ -5070,7 +5250,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 281865,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/0eVYGqIPngJQUeRwGeVeXG"
@@ -5460,7 +5640,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 196173,
       "name": "Turntable",
       "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
@@ -5719,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "Sweet Thief",
+        "url": "https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230916,
+      "name": "Wanna Get Free",
+      "url": "https://open.spotify.com/track/5xOwaw30UPg9u1yJOQFujy"
+    },
+    {
+      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ"
       },
@@ -5889,6 +6087,42 @@
     },
     {
       "album": {
+        "name": "Big World",
+        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "What I Had",
+      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
+    },
+    {
+      "album": {
+        "name": "What Would I Do Without You",
+        "url": "https://open.spotify.com/album/4xpkymIOVlcCtBqczfTHrV"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "What Would I Do Without You",
+      "url": "https://open.spotify.com/track/3HcpEXMCAoqSEhx0zNuMzR"
+    },
+    {
+      "album": {
         "name": "And You Evade Him / Born in the Blood",
         "url": "https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr"
       },
@@ -5918,7 +6152,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 169805,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/4vBkvYa9N58KTGtaZeGfxK"
@@ -5958,6 +6192,42 @@
       "duration_ms": 183293,
       "name": "Why Woman",
       "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+    },
+    {
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "album": {
+        "name": "I\u2019m afraid to be in love with someone who crashes their car that much",
+        "url": "https://open.spotify.com/album/7x55HpFEMlUn7tN4YJJyTA"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/3L7pNo1cJAZ4xJ2lHBocvi"
     },
     {
       "album": {

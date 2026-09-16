@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,212 likes - 137 songs - 7 hr 10 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,222 likes - 137 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 135957,
+  "num_followers": 135997,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
+        "name": "Man Of The Moon",
+        "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "duration_ms": 174056,
+      "name": "Moon Rise",
+      "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
         "name": "Baarish Ban Jaana",
         "url": "https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 200250,
       "name": "Baarish Ban Jaana",
       "url": "https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
-        "name": "Man Of The Moon",
-        "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Sanjoy",
-          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
-        }
-      ],
-      "duration_ms": 174056,
-      "name": "Moon Rise",
-      "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
     },
     {
       "added_at": "2026-09-02 09:14:00",

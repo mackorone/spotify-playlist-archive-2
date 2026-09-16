@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 22 | [Bad Boys](https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Bad Boys](https://open.spotify.com/album/7y1StXusceaQtsO3YCUNFe) | 3:43 |
 | 23 | [Играчка](https://open.spotify.com/track/3t3WvabJwAMzeZkn2bNc4r) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Играчка](https://open.spotify.com/album/7DWfFpMpU94KPsg1j7kMo2) | 3:34 |
 | 24 | [Злобари](https://open.spotify.com/track/7G2NBshHNMyHsKknSYcLCc) | [Krasyo](https://open.spotify.com/artist/0MpqjrVgdUO07oY6JcgTeG) | [Злобари](https://open.spotify.com/album/3nBOYAjd5jb7x52nw8wxtc) | 3:19 |
-| 25 | [Movin' To The Sun](https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:22 |
+| 25 | [Movin' To The Sun](https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:22 |
 | 26 | [Целувка с Tequila](https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X) | [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i), [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN) | [Целувка с Tequila](https://open.spotify.com/album/2gmJvWl4USCfxzk6LHz3GH) | 3:14 |
 | 27 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
 | 28 | [Danoto kopay](https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/5VZ7ACYZjoPVerXbmtIcAt) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Yako mi e](https://open.spotify.com/track/55ly0w81L3r7MicGng6QiS) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Chuy me](https://open.spotify.com/album/1OrxRpoUuXak1x8qBRFvD2) | 3:09 |
 | 50 | [Дискотека](https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL) | [Krissy](https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дискотека](https://open.spotify.com/album/4kA6BN3gGjzYUk97RCvJzS) | 3:25 |
 
-Snapshot ID: `MjtsgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mjy7qAAAAAAAAAAAAAAAAAAAAAAAAGVu`

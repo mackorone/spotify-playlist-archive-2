@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,673 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,684 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 24 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
 | 25 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
 | 26 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
-| 27 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
-| 28 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
+| 27 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
+| 28 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
 | 29 | [OH YEAH](https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN) | [Killer Hertz](https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [OH YEAH](https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP) | 3:47 |
 | 30 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
 | 31 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |

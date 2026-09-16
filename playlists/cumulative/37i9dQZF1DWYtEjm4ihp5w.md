@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-551 songs - 1 day 4 hr 31 min
+553 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [AFRAID OF LOVIN' U](https://open.spotify.com/track/0Y3tOqjb0k4vAXUZQpWkdv) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 3:35 | 2025-07-24 | 2025-09-11 |
 | [Again \- Prototype2020](https://open.spotify.com/track/3AC9GHZudMPxEFbhks2qqP) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Again \(Prototype2020\)](https://open.spotify.com/album/3kMyU0f3ZcOnO4SuwG9mUz) | 2:45 | 2025-04-12 | 2025-05-15 |
 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 | 2026-06-18 |  |
-| [AI9](https://open.spotify.com/track/6R2n4QbKaGEq1tSBxMSDV4) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [AI9](https://open.spotify.com/album/02A1XjlZUuqqnzjJ1dz3yc) | 2:00 | 2026-06-25 |  |
+| [AI9](https://open.spotify.com/track/6R2n4QbKaGEq1tSBxMSDV4) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [AI9](https://open.spotify.com/album/02A1XjlZUuqqnzjJ1dz3yc) | 2:00 | 2026-06-25 | 2026-09-16 |
 | [AIN'T NO MERCY](https://open.spotify.com/track/1UyoLF9J88jvOimhEy6jnm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [AIN'T NO MERCY](https://open.spotify.com/album/1oorWXeTEMNlDYJWcHYkNZ) | 2:30 | 2025-01-01 | 2025-02-04 |
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie \(DELUXE\)](https://open.spotify.com/album/5KH7VsdG6AuFxZygl3osgS) | 2:43 | 2024-09-01 | 2025-02-13 |
@@ -84,7 +84,7 @@
 | [BOOM](https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [BOOM](https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw) | 2:05 | 2025-10-22 | 2025-11-22 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-19 | 2026-06-05 |
 | [BOOS](https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [NSR](https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B) | 2:56 | 2024-02-17 | 2024-05-18 |
-| [Bottega](https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC) | [Bottega](https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK) | 2:00 | 2026-06-09 |  |
+| [Bottega](https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC) | [Bottega](https://open.spotify.com/album/4OYLJaP4aK1mLVNqv9oEyK) | 2:00 | 2026-06-09 | 2026-09-16 |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 | 2023-12-12 |
 | [Bubbaloo](https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Bubbaloo](https://open.spotify.com/album/5ewr5yE9tQ3f6wRljkGUqw) | 2:11 | 2026-07-24 |  |
 | [Business](https://open.spotify.com/track/0m329rtCU8m21ddjEjn9qB) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Business](https://open.spotify.com/album/6dImfvOvOjXN6x9WB1IUvH) | 3:06 | 2022-11-14 | 2022-11-19 |
@@ -181,6 +181,7 @@
 | [Ferga3 l'flow](https://open.spotify.com/track/5x4XZE1oBOJRBUWz4Y0iml) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 2:39 | 2024-07-13 | 2024-09-20 |
 | [FEUTAH](https://open.spotify.com/track/3J7Kmg4rbb4G3q5z5X64Rz) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [FEUTAH](https://open.spotify.com/album/7qSKmrrrE0o8mZd98Z6PSr) | 3:12 | 2024-05-10 | 2024-05-25 |
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-09-24 | 2025-08-29 |
+| [FICTION](https://open.spotify.com/track/73wbcZPiPGWedxVdRVm5dR) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SOSUPER](https://open.spotify.com/album/5tSUsZjO0icTcjxWs8sQ95) | 2:44 | 2026-09-15 |  |
 | [Fidèle](https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S) | [7mad](https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF) | [Fidèle](https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB) | 3:01 | 2025-10-30 | 2025-11-08 |
 | [FIGHT CLUB](https://open.spotify.com/track/57hUYwfxMmWgtJ6oOyogQA) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Acceptleo](https://open.spotify.com/artist/5SeNqmLhe3EIGBpOsxqOWT) | [FIGHT CLUB](https://open.spotify.com/album/0WZJKi8phNjpDOtDEkh8nd) | 2:26 | 2026-05-14 | 2026-05-22 |
 | [Flouka](https://open.spotify.com/track/6er3lHDqA1L9IXtf8Nej9g) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Flouka](https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA) | 3:28 | 2022-11-14 | 2022-12-25 |
@@ -342,6 +343,7 @@
 | [Mora ya hayat](https://open.spotify.com/track/3F2IUteIxmngWHAUh54Z5L) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [The Plug](https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km) | 2:57 | 2025-11-28 | 2025-12-30 |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-14 | 2023-06-14 |
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-11-14 | 2023-12-08 |
+| [MOVETA](https://open.spotify.com/track/1Hz1pOM8l26uUbXXEtpDWI) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Moovd](https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR) | [MOVETA](https://open.spotify.com/album/59rB9alwvRVHevXkNvTjd9) | 2:45 | 2026-09-15 |  |
 | [MSN](https://open.spotify.com/track/4LzUZ8rJFQoCEUgzDf238L) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [MSN](https://open.spotify.com/album/4vZGalyyPhXYctz7QEn84B) | 3:31 | 2025-04-12 | 2025-05-22 |
 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 | 2024-02-16 | 2024-10-23 |
 | [Murray](https://open.spotify.com/track/5ec36tT5RBowyUPB0AZLUl) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Murray](https://open.spotify.com/album/6GysYHx4p5DkTXcp54uK5m) | 3:18 | 2025-01-27 | 2025-06-06 |

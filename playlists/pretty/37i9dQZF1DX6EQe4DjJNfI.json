@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191753,
+  "num_followers": 191756,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
+        "name": "Deixa eu Te Amar",
+        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
+      },
+      "artists": [
+        {
+          "name": "Drana",
+          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 240326,
+      "name": "Deixa Eu Te Amar",
+      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 245952,
       "name": "COMO ELA FAZ",
       "url": "https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
-        "name": "Deixa eu Te Amar",
-        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
-      },
-      "artists": [
-        {
-          "name": "Drana",
-          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 240326,
-      "name": "Deixa Eu Te Amar",
-      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
     },
     {
       "added_at": "2026-09-10 03:01:31",

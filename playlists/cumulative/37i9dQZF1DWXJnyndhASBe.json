@@ -353,7 +353,7 @@
     },
     {
       "album": {
-        "name": "1DAY IN POLAND",
+        "name": "1DAY IN PL",
         "url": "https://open.spotify.com/album/17eR0hUqi9g3jtSUUhobxm"
       },
       "artists": [
@@ -370,7 +370,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146250,
-      "name": "1DAY IN POLAND",
+      "name": "1DAY IN PL",
       "url": "https://open.spotify.com/track/16YDIubLgVHRGoFDtEzZb1"
     },
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 195254,
       "name": "BEZ EMOCJI",
       "url": "https://open.spotify.com/track/0pGnd27lqa2vUQLC5nuhZz"
@@ -13680,7 +13680,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 187317,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/1JLUBlDbfOzeWcAmhbiWT7"
@@ -13916,6 +13916,28 @@
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
+    },
+    {
+      "album": {
+        "name": "Zwolnij?",
+        "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148310,
+      "name": "Mini Man",
+      "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
     },
     {
       "album": {
@@ -20798,6 +20820,28 @@
       "duration_ms": 184153,
       "name": "RIO / NA \u017bYWO",
       "url": "https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq"
+    },
+    {
+      "album": {
+        "name": "RIOTT",
+        "url": "https://open.spotify.com/album/3sALW0CyyMGTHFvCuCHDCc"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "RIOTT",
+      "url": "https://open.spotify.com/track/2TeuRk4Z1bwV61QQyw0FoM"
     },
     {
       "album": {

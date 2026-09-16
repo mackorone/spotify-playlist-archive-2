@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Monique Smit & Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,787 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,802 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beter Af Alleen](https://open.spotify.com/track/38BoNGQvfhuOSzZrsseCY3) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv), [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Beter Af Alleen](https://open.spotify.com/album/0EkDnXSqADfI0b6xdTRyYF) | 2:14 |
 | 2 | [Hard To Get](https://open.spotify.com/track/1rUjgtpKXHLEEKvJ7S2oGz) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Hard To Get](https://open.spotify.com/album/16SCvjPxjZT0pBmPIymJwf) | 2:23 |
 | 3 | [Ik Weet Niet Waarom](https://open.spotify.com/track/5gLAbNaOOaH7rCxc74t9CY) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Marlous](https://open.spotify.com/artist/5Eld7TocuB1kAsvOnssFUf) | [Ik Weet Niet Waarom](https://open.spotify.com/album/5xIvod0nhaiWuN4N3RrNoL) | 2:40 |
-| 4 | [Perfecto](https://open.spotify.com/track/3EmoZpRUBvhpSVbBQIO016) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Perfecto](https://open.spotify.com/album/6LdYWC2sgbjDNcpDIu1XNA) | 2:34 |
-| 5 | [Eén Blik Is Genoeg](https://open.spotify.com/track/3wQjSUkmpuNp8ML9ZUFJ7W) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Eén Blik Is Genoeg](https://open.spotify.com/album/4iKPCNI3dTkjFLFwMEkqX1) | 2:52 |
-| 6 | [Ons Pakken Ze Niet](https://open.spotify.com/track/0GAIzlQ5qhNvMVcCRxSoVZ) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Ons Pakken Ze Niet](https://open.spotify.com/album/6FcyAdvCd5bpBl9eUeP8fk) | 2:56 |
-| 7 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
-| 8 | [Likkie Likkie](https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U) | [Timothy](https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS) | [Likkie Likkie](https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo) | 2:31 |
-| 9 | [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 |
-| 10 | [Eén Nacht Met Jou](https://open.spotify.com/track/0gO1hVU1WmNTZuYoDj5oJZ) | [Milan Kirstein](https://open.spotify.com/artist/5TVNyQeOLjtOh2a0nXI5eb) | [Eén Nacht Met Jou](https://open.spotify.com/album/5HGDS8HbfQg4I6dpaJiwmQ) | 3:08 |
-| 11 | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/track/5UysfpU2WgtpUyFjW11ooB) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/album/2FzIvKYfWp6btKRE77aNuz) | 2:48 |
-| 12 | [Griekse nacht](https://open.spotify.com/track/6SA5rOg6OhuHThoonvTyrz) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Griekse nacht](https://open.spotify.com/album/7FHW8uGbUn9oTiyxRDENVU) | 3:23 |
-| 13 | [Blote Brasa](https://open.spotify.com/track/77QPtv7G21PG5emqXyP7o3) | [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Blote Brasa](https://open.spotify.com/album/1evDDrEhN7CiyscrGGvYX9) | 2:16 |
+| 4 | [Eén Nacht Met Jou](https://open.spotify.com/track/0gO1hVU1WmNTZuYoDj5oJZ) | [Milan Kirstein](https://open.spotify.com/artist/5TVNyQeOLjtOh2a0nXI5eb) | [Eén Nacht Met Jou](https://open.spotify.com/album/5HGDS8HbfQg4I6dpaJiwmQ) | 3:08 |
+| 5 | [Perfecto](https://open.spotify.com/track/3EmoZpRUBvhpSVbBQIO016) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Perfecto](https://open.spotify.com/album/6LdYWC2sgbjDNcpDIu1XNA) | 2:34 |
+| 6 | [Eén Blik Is Genoeg](https://open.spotify.com/track/3wQjSUkmpuNp8ML9ZUFJ7W) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Eén Blik Is Genoeg](https://open.spotify.com/album/4iKPCNI3dTkjFLFwMEkqX1) | 2:52 |
+| 7 | [Ons Pakken Ze Niet](https://open.spotify.com/track/0GAIzlQ5qhNvMVcCRxSoVZ) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Ons Pakken Ze Niet](https://open.spotify.com/album/6FcyAdvCd5bpBl9eUeP8fk) | 2:56 |
+| 8 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
+| 9 | [Likkie Likkie](https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U) | [Timothy](https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS) | [Likkie Likkie](https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo) | 2:31 |
+| 10 | [Blote Brasa](https://open.spotify.com/track/77QPtv7G21PG5emqXyP7o3) | [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Blote Brasa](https://open.spotify.com/album/1evDDrEhN7CiyscrGGvYX9) | 2:16 |
+| 11 | [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 |
+| 12 | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/track/5UysfpU2WgtpUyFjW11ooB) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/album/2FzIvKYfWp6btKRE77aNuz) | 2:48 |
+| 13 | [Griekse nacht](https://open.spotify.com/track/6SA5rOg6OhuHThoonvTyrz) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Griekse nacht](https://open.spotify.com/album/7FHW8uGbUn9oTiyxRDENVU) | 3:23 |
 | 14 | [Vloek van Barcelona](https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vloek van Barcelona](https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb) | 2:25 |
 | 15 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
 | 16 | [Ik Rot Op Naar Spanje](https://open.spotify.com/track/68ApfWwxzGgqBDKjOwjLuE) | [Jeffrey Kuipers](https://open.spotify.com/artist/3VW8sZ0BxGjRtexeVDGQXH) | [Ik Rot Op Naar Spanje](https://open.spotify.com/album/5o7lXonw9bmDbOKFiRSEdg) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Veel Te Lang Geduurd](https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd) | [Kevin Le Nuyt](https://open.spotify.com/artist/74E3cdn2wI6ja2ncKQ7auO) | [Veel Te Lang Geduurd](https://open.spotify.com/album/1HCq6EgAPe1G62eIvgfj0S) | 2:32 |
 | 100 | [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 |
 
-Snapshot ID: `AAAAAOmMSaxZjIK2SuAa+1hWqJjZSTmn`
+Snapshot ID: `AAAAAPgtwAtFHA9plr0kyYpQ6cKkCDqt`

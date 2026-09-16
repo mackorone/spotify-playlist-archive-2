@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Aranea",
+        "url": "https://open.spotify.com/album/1rAhIbXSKN3RUdf4jSS5tp"
+      },
+      "artists": [
+        {
+          "name": "Ahkiir Kungumo",
+          "url": "https://open.spotify.com/artist/5Kka3iWOBZyFaKvfiaToMC"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Aranea",
+      "url": "https://open.spotify.com/track/7qEORe8KebfCnejnjrkleL"
+    },
+    {
+      "album": {
         "name": "Armour Hill",
         "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
       },
@@ -1899,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "big nothing",
+        "url": "https://open.spotify.com/album/36tHpAalmOcSUGTT4cA4fl"
+      },
+      "artists": [
+        {
+          "name": "telekura",
+          "url": "https://open.spotify.com/artist/4RVcjmP8ppJczQZCUn25NV"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191575,
+      "name": "big nothing",
+      "url": "https://open.spotify.com/track/6p2AOyMRZDNeNKkQiUmaU9"
+    },
+    {
+      "album": {
         "name": "Tomorrowland",
         "url": "https://open.spotify.com/album/3n98iKhdff6wzGuXoB27Eb"
       },
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 223636,
       "name": "Call me",
       "url": "https://open.spotify.com/track/3Q6rbXJHcFHVvDOeX3tBFB"
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -5076,7 +5112,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 268466,
       "name": "Fairy Child - 2002 the Dreamside Remix",
       "url": "https://open.spotify.com/track/33XIjROsKXHUaySCPEEDIA"
@@ -9444,7 +9480,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 214838,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/3b7LUnkdTWsYuUuApewI02"
@@ -14331,6 +14367,24 @@
     },
     {
       "album": {
+        "name": "ONEITIS",
+        "url": "https://open.spotify.com/album/3SjbF9PDZQ1amKYjteqtk7"
+      },
+      "artists": [
+        {
+          "name": "Matthew Azrieli",
+          "url": "https://open.spotify.com/artist/760u0zcRCXws0rF4EqIovu"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189344,
+      "name": "Postal Strike",
+      "url": "https://open.spotify.com/track/31IiVEn5N8SQEzBM9UV4g6"
+    },
+    {
+      "album": {
         "name": "POV",
         "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
       },
@@ -14848,7 +14902,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 237881,
       "name": "Remaker Redeemer",
       "url": "https://open.spotify.com/track/7dQBano4fvrCuZdmhSFQOB"
@@ -15162,7 +15216,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 234230,
       "name": "Rowing To Zion",
       "url": "https://open.spotify.com/track/5rn5rurRAWRYfTZwG1DdC4"
@@ -15368,7 +15422,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 185142,
       "name": "Sadchester",
       "url": "https://open.spotify.com/track/4Ns6AKwQoICsbzhwWmRsdY"
@@ -16540,7 +16594,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 184073,
       "name": "sleep_walk",
       "url": "https://open.spotify.com/track/3LoihMhzPeZQ1X6vTxz7Kx"
@@ -19668,7 +19722,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Three Stones",
       "url": "https://open.spotify.com/track/7688pfxu05ESLo17iv3tuH"
@@ -20494,7 +20548,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -20736,7 +20790,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 275902,
       "name": "Velvet Goodbye",
       "url": "https://open.spotify.com/track/4gKVoKdVpGJdRLEV8sOvvZ"
@@ -22099,6 +22153,24 @@
     },
     {
       "album": {
+        "name": "My Dinner With Crumar",
+        "url": "https://open.spotify.com/album/3MOu8peIXDCz0oyWZYHz1A"
+      },
+      "artists": [
+        {
+          "name": "The Exbats",
+          "url": "https://open.spotify.com/artist/7gDtEXhShKhmqrdh2lpSsD"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331599,
+      "name": "Will You See Me in the Morning",
+      "url": "https://open.spotify.com/track/7H05vzE2NAT1scp79NBlXZ"
+    },
+    {
+      "album": {
         "name": "Astra Alma",
         "url": "https://open.spotify.com/album/5UrYq9dpGFgCSIHAZdIRhD"
       },
@@ -22532,7 +22604,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

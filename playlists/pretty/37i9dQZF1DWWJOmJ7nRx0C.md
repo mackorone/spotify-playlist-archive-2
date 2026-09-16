@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,814 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,781 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 35 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 36 | [Ants](https://open.spotify.com/track/6ukoKgaAueZa5CSMxpJTqp) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Ants](https://open.spotify.com/album/36v0xY6ZNf6xorboxUqbeD) | 3:17 |
 | 37 | [Blindfold](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
-| 38 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 38 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 39 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
 | 40 | [Calvary Drive](https://open.spotify.com/track/4dHi0ke5ncQfI8gUv2eFRP) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Calvary Drive](https://open.spotify.com/album/0JOOdfELgtztjIz9bdvkxs) | 2:45 |
 | 41 | [Katy Bar the Door](https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Katy Bar the Door / Living Undercover](https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs) | 3:25 |

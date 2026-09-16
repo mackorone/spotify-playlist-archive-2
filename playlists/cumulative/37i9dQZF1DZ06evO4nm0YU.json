@@ -1580,10 +1580,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 391320,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
+    },
+    {
+      "album": {
+        "name": "Bamboleo (Remastered 2026)",
+        "url": "https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395030,
+      "name": "Siento - Remastered 2026",
+      "url": "https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK"
     },
     {
       "album": {

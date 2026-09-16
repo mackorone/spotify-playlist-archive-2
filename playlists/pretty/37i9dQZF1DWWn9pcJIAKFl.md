@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn9pcJIAKFl.md) - [plain]
 
 > The official playlist of Tomorrowland Festival\. Live today, love tomorrow, unite forever
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,123 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,289 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

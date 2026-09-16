@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 76 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,796 likes - 76 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 27 | [Glory](https://open.spotify.com/track/4WWogojK9PF7sbMvmqXGMV) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 3:42 |
 | 28 | [I Need More Than This](https://open.spotify.com/track/5ApakVfvVz1GbRtVMdCSE2) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 4:24 |
 | 29 | [DEMOLITION MAN](https://open.spotify.com/track/4jgt5xF9YT7hIKyQ0QGkZA) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:20 |
-| 30 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 |
+| 30 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Constance Power](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 |
 | 31 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
 | 32 | [CONTROL BABY](https://open.spotify.com/track/5vQZx1fJP94gDdECHuI4ZR) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [TRUST CEREMONY](https://open.spotify.com/album/0qlhHGeAVsdJNiKJbHFuEY) | 3:19 |
 | 33 | [Yes I Do](https://open.spotify.com/track/3W03eT9OVb9mBxKYsrXBTD) | [Leon Knight](https://open.spotify.com/artist/0TfMzqbHEk3a4CZ1usZfOY), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Yes I Do](https://open.spotify.com/album/0oghh1nmoNqnx7vLHdKebm) | 2:44 |

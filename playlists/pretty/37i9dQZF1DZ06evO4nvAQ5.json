@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16615,
+  "num_followers": 16616,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAABOPF6PWlObu20ToDXDvGUN",
+  "snapshot_id": "aqc5AAAAAAD1dXLiAHUSIEXLmN7IxcZK",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 268654,
+      "name": "Aye Ok",
+      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Options (Deluxe)",
         "url": "https://open.spotify.com/album/0aixn2g2N7u3U2vburaP6G"
       },
@@ -367,42 +403,6 @@
       "duration_ms": 200523,
       "name": "Catching Feelings (feat. J Boog) - Bimwala Remix",
       "url": "https://open.spotify.com/track/6qHOK4qaE62rAjq6pjLsHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 268654,
-      "name": "Aye Ok",
-      "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juggling Sweet",
-        "url": "https://open.spotify.com/album/45rDTa2S0arXLPVIXDMX9i"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Juggling Sweet",
-      "url": "https://open.spotify.com/track/0KRWxnOK6sw6VBKXVhKHR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juggling Sweet",
+        "url": "https://open.spotify.com/album/45rDTa2S0arXLPVIXDMX9i"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Juggling Sweet",
+      "url": "https://open.spotify.com/track/0KRWxnOK6sw6VBKXVhKHR9"
     },
     {
       "added_at": null,

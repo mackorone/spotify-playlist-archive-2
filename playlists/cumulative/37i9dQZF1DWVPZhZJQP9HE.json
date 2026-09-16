@@ -10642,7 +10642,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 215361,
       "name": "Nettotto",
       "url": "https://open.spotify.com/track/4gyJNevPPkX5ZHYyVLm9LV"
@@ -16732,6 +16732,28 @@
       "duration_ms": 161400,
       "name": "Vaanavil Pole (From \"Karthik & Kika\")",
       "url": "https://open.spotify.com/track/7o67V6N8WkCytc1KoUisMx"
+    },
+    {
+      "album": {
+        "name": "VAANMATHI",
+        "url": "https://open.spotify.com/album/7GcOPlA5qDwqvklRdxxjL1"
+      },
+      "artists": [
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160161,
+      "name": "VAANMATHI",
+      "url": "https://open.spotify.com/track/6OBigDNxPz7c9P5YWnnecH"
     },
     {
       "album": {

@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -12680,7 +12680,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -13884,7 +13884,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
       "url": "https://open.spotify.com/track/21lNFbYE1iSBYtNcW2U8Vm"
@@ -15786,7 +15786,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 210138,
       "name": "\u05d1\u05df 32",
       "url": "https://open.spotify.com/track/3CdPL5qF03DtSPZMhECaqu"
@@ -16586,7 +16586,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 180681,
       "name": "\u05d3\u05d9\u05dc\u05df - 3898*",
       "url": "https://open.spotify.com/track/5rm62ItlvYYw08RxpeI2IP"
@@ -17996,7 +17996,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 179807,
       "name": "\u05d5\u05d0\u05e0\u05d9 \u05d1\u05d7\u05e1\u05d3\u05da \u05d1\u05d8\u05d7\u05ea\u05d9",
       "url": "https://open.spotify.com/track/6EuV78LSE0PCdmYvVklGD7"
@@ -20948,7 +20948,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 165333,
       "name": "\u05dc\u05d5\u05e4 \u05e9\u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
       "url": "https://open.spotify.com/track/0XN0qo1SvJeiiV6yoPP85V"
@@ -22422,7 +22422,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 247135,
       "name": "\u05de\u05d7\u05d6\u05d9\u05e7 \u05dc\u05da \u05d0\u05ea \u05d4\u05d9\u05d3",
       "url": "https://open.spotify.com/track/3IQz49JrOqwhWoSF62zMgW"
@@ -24179,6 +24179,24 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay"
+      },
+      "artists": [
+        {
+          "name": "young buta",
+          "url": "https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d7\u05e0\u05d9\u05dd \u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR"
       },
@@ -25134,7 +25152,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 208000,
       "name": "\u05e2\u05d5\u05e3 \u05de\u05d5\u05d6\u05e8",
       "url": "https://open.spotify.com/track/7nCe56CzvRKGqTIs5k1dYm"

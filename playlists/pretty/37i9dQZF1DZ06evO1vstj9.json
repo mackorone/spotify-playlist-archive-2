@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 11103,
+  "num_followers": 11119,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAB/6yXpKeBZO+TKy0TkTGch",
+  "snapshot_id": "aqc5AAAAAACbr8MvIJlbu0FmcxkXCz6m",
   "tracks": [
     {
       "added_at": null,
@@ -366,15 +366,11 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 234469,
-      "name": "Light By The Window",
-      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
+      "duration_ms": 169171,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 169171,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/0WAFfVSUu7ynXpg8zM5aUw"
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
     },
     {
       "added_at": null,

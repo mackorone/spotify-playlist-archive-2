@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: Nsqk",
-  "num_followers": 1542594,
+  "num_followers": 1542388,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 194727,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
+        "name": "si la ves",
+        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 177829,
+      "name": "si la ves",
+      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
         "name": "HABLAR DE TI (...)",
         "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 218190,
       "name": "HABLAR DE TI (...)",
       "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
-        "name": "si la ves",
-        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 177829,
-      "name": "si la ves",
-      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
         "name": "Ya No Regreses",
         "url": "https://open.spotify.com/album/1K2vyn9zRYRLXImeLuDe3L"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 180526,
       "name": "Ya No Regreses",
       "url": "https://open.spotify.com/track/0epL8uV1kkMnUGlKxGT4yH"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
     },
     {
       "added_at": "2026-09-04 04:01:56",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
+        "name": "milveces",
+        "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "milveces",
+      "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
         "name": "TRX",
         "url": "https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 200250,
       "name": "TRX",
       "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
-        "name": "milveces",
-        "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "milveces",
-      "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
     },
     {
       "added_at": "2026-09-04 04:01:56",

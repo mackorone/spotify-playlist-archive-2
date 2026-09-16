@@ -1,12 +1,12 @@
 {
   "description": "\u221e On and on and on \u221e",
-  "num_followers": 258705,
+  "num_followers": 258688,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxgGMKLKzCKSx8VTGpGshBv+r8c",
+  "snapshot_id": "AAAAAMhPhEvM473tcmUKu6lswldRpkBt",
   "tracks": [
     {
       "added_at": "2026-09-10 22:01:41",
@@ -39,6 +39,26 @@
       "duration_ms": 175686,
       "name": "Vem du \u00e4n \u00e4r",
       "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"
+    },
+    {
+      "added_at": "2026-09-15 09:20:32",
+      "album": {
+        "name": "Here I Am (Int'l Version)",
+        "url": "https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/3nIrIytGbcXAK7huhwiXiW"
     },
     {
       "added_at": "2026-09-10 22:01:41",
@@ -252,7 +272,7 @@
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Connie Constance",
+          "name": "Constance Power",
           "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],

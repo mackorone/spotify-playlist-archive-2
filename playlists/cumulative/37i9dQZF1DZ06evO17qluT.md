@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-170 songs - 10 hr 45 min
+171 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [O Mundo é Nosso](https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 3:43 | 2026-08-29 |  |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:06 | 2023-09-18 | 2024-04-02 |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 | 2025-05-29 | 2025-11-27 |
-| [O Próximo Nascer do Sol](https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:06 | 2025-11-27 |  |
+| [O Próximo Nascer do Sol](https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:06 | 2025-11-27 | 2026-09-16 |
 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 | 2023-09-18 | 2025-12-19 |
+| [O Que Sobra Disso Tudo](https://open.spotify.com/track/06y977jqu2JnTiAx3CMNGR) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 2:39 | 2026-09-16 |  |
 | [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 | 2024-05-24 | 2024-07-16 |
 | [Outra Hora \(Remix\)](https://open.spotify.com/track/4CzY9IOwpNuDycKKvioSWd) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:36 | 2024-07-16 | 2024-12-20 |
 | [Paraíso Que Me Cerca](https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:37 | 2023-09-18 | 2025-11-24 |

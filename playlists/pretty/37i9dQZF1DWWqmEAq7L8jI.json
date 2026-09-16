@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 349324,
+  "num_followers": 349317,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "21 de agosto",
         "url": "https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 192064,
       "name": "21 de agosto",
       "url": "https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "Te Quiero Tanto",
         "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 208068,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Rojo Rub\u00ed",
+      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Rojo Rub\u00ed",
-      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1443,26 +1463,6 @@
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "Yo No Te Pido la Luna",
-        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "50 Horas",
+        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 164758,
+      "name": "50 Horas",
+      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "ni una foto juntos",
         "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 183000,
       "name": "Tan f\u00e1cil",
       "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "50 Horas",
-        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 164758,
-      "name": "50 Horas",
-      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "added_at": "2026-09-11 18:59:39",

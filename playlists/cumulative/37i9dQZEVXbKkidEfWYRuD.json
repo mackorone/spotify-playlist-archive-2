@@ -13104,7 +13104,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -28606,7 +28606,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/5cuSyLoYilFJQsI1Yta8GT"
@@ -30410,7 +30410,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 174344,
       "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
@@ -37132,7 +37132,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 125575,
       "name": "\u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043a\u0438\u043b\u043b",
       "url": "https://open.spotify.com/track/1FxcGrzFaxNWR9YXfdNQKX"
@@ -37728,6 +37728,28 @@
       "duration_ms": 141538,
       "name": "\u041f\u043e\u043f\u043e\u043b\u0430\u043c",
       "url": "https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL"
+    },
+    {
+      "album": {
+        "name": "\u043f\u043e\u0440\u0435\u0437\u044b \u043d\u0430 \u0440\u0443\u043a\u0430\u0445",
+        "url": "https://open.spotify.com/album/2IMxL0CBz4b6ZJVWspRESp"
+      },
+      "artists": [
+        {
+          "name": "FORTUNA 812",
+          "url": "https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH"
+        },
+        {
+          "name": "elox1m",
+          "url": "https://open.spotify.com/artist/0wmjDpXCckJ8zVOMWePyKh"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143785,
+      "name": "\u043f\u043e\u0440\u0435\u0437\u044b \u043d\u0430 \u0440\u0443\u043a\u0430\u0445",
+      "url": "https://open.spotify.com/track/0EtY92q4WMdgY4nBQchLPt"
     },
     {
       "album": {
@@ -44922,7 +44944,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

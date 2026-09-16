@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Eric Church, Luke Bryan, Warren Zeiders with Bellah Mae and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,502 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,571 likes - 47 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,18 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 30 | [Wasting Time](https://open.spotify.com/track/0v3NVNmc2OTq1jrXYvW6R0) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Wasting Time](https://open.spotify.com/album/3g2YIJRTtqyPhDcUPTgIrT) | 3:21 |
 | 31 | [Cross My Mind](https://open.spotify.com/track/1TudBiMRhFPo80Kha237bT) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Cross My Mind](https://open.spotify.com/album/5JWZdWA5xDZTE7xo84CpOM) | 2:52 |
 | 32 | [Let It Kill Me](https://open.spotify.com/track/0VIPQbUKj3b2OAGn6KPw5q) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Let It Kill Me](https://open.spotify.com/album/2u8es8usfsDNPhHgRtKj73) | 2:54 |
-| 33 | [No Place Like Home](https://open.spotify.com/track/7vb8bUKIjSvxnb97EmQxAI) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [No Place Like Home](https://open.spotify.com/album/5X6xbh6sj11fbmXeZIxudZ) | 3:09 |
-| 34 | [Run Wild](https://open.spotify.com/track/57HKpT6eaGaFoUe445qQ6t) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Run Wild](https://open.spotify.com/album/5PkKajQlnuhZuOY3CqhYDr) | 3:23 |
-| 35 | [Came With a Warning](https://open.spotify.com/track/6bLtHS1H56BJU7TtUFtbt1) | [Jaxen James](https://open.spotify.com/artist/3y2zQQBZhucp5nBgkcXBy0) | [Came With a Warning](https://open.spotify.com/album/4S5W176DkhsUSMP6GyuaVz) | 2:55 |
-| 36 | [Drag It Back](https://open.spotify.com/track/2DV2xdUhjkaisgzSg0KEXO) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7) | [Drag It Back](https://open.spotify.com/album/5klA8ipKUK3fA1nh6wjOtI) | 2:54 |
-| 37 | [All in My Head](https://open.spotify.com/track/4a7LRkfHQaj3oIXgSbYfrh) | [Saige Davis](https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS) | [All in My Head](https://open.spotify.com/album/217FheY0sNX1r1DpRXf3UZ) | 3:40 |
-| 38 | [Dirt in My Teeth](https://open.spotify.com/track/79Svg8losKkveT1bBFPo2E) | [Joe Bryson](https://open.spotify.com/artist/0lTfi8js2RsrwkmETK9xdK) | [Dirt in My Teeth](https://open.spotify.com/album/07yhFhYpc9Q2D8CZ78q0Tq) | 2:28 |
-| 39 | [Wish It Was You](https://open.spotify.com/track/3tcsTnOPpu9NxwteukewAs) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [Wish It Was You](https://open.spotify.com/album/63tj34mqSd5UOJV3Pvijmj) | 3:27 |
-| 40 | [Tear Me Down](https://open.spotify.com/track/0lUMG4zxLcpijvTxp1YcAA) | [Owen MacDonald](https://open.spotify.com/artist/1989AHylmjutoOnyegLT05) | [Tear Me Down](https://open.spotify.com/album/7DLhXV6f77TXJBV0N8ty2H) | 2:48 |
-| 41 | [Be The Whiskey](https://open.spotify.com/track/2GgKtn00VCc5ZLt8PhyuAN) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Be The Whiskey](https://open.spotify.com/album/5pDCuZMHEIHxOLuXNhuEwg) | 3:12 |
-| 42 | [Whole 'Nother High](https://open.spotify.com/track/00FcfqbL9i71toO13YTyvY) | [Dan Alley](https://open.spotify.com/artist/6mOaDIBpmWwmIomB44G25s), [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Keepin' On](https://open.spotify.com/album/7hDDBx3exHOgE7xivyL51c) | 3:11 |
-| 43 | [Hard Habits](https://open.spotify.com/track/6XWdkutw4M3KMseTt3fkBi) | [Davis Corley](https://open.spotify.com/artist/5iiwq0atOoHOY67cS2Za9x) | [Hard Habits](https://open.spotify.com/album/0m3kuexRhRKMvEsFLLfeUc) | 3:38 |
-| 44 | [Old Reliable](https://open.spotify.com/track/6zU9wUGHvVQnxGRY7aWsPZ) | [Alison Elena](https://open.spotify.com/artist/7mWYxYewRAHcVWTe1WrTDD) | [Old Reliable](https://open.spotify.com/album/28zq9ZBVcpIr5CevWCMS3d) | 3:33 |
-| 45 | [2 For](https://open.spotify.com/track/0Ver8cnSaLLAbsVrlzIOUD) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [2 For](https://open.spotify.com/album/2kDH1jR4n3gTAIGDsExdTw) | 2:45 |
+| 33 | [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 |
+| 34 | [No Place Like Home](https://open.spotify.com/track/7vb8bUKIjSvxnb97EmQxAI) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [No Place Like Home](https://open.spotify.com/album/5X6xbh6sj11fbmXeZIxudZ) | 3:09 |
+| 35 | [Run Wild](https://open.spotify.com/track/57HKpT6eaGaFoUe445qQ6t) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Run Wild](https://open.spotify.com/album/5PkKajQlnuhZuOY3CqhYDr) | 3:23 |
+| 36 | [Came With a Warning](https://open.spotify.com/track/6bLtHS1H56BJU7TtUFtbt1) | [Jaxen James](https://open.spotify.com/artist/3y2zQQBZhucp5nBgkcXBy0) | [Came With a Warning](https://open.spotify.com/album/4S5W176DkhsUSMP6GyuaVz) | 2:55 |
+| 37 | [Drag It Back](https://open.spotify.com/track/2DV2xdUhjkaisgzSg0KEXO) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7) | [Drag It Back](https://open.spotify.com/album/5klA8ipKUK3fA1nh6wjOtI) | 2:54 |
+| 38 | [All in My Head](https://open.spotify.com/track/4a7LRkfHQaj3oIXgSbYfrh) | [Saige Davis](https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS) | [All in My Head](https://open.spotify.com/album/217FheY0sNX1r1DpRXf3UZ) | 3:40 |
+| 39 | [Take My Time](https://open.spotify.com/track/2Nqx1u8Gq38wse9NsXklCb) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Take My Time](https://open.spotify.com/album/6ei5ORifYf5LgjPVE85JBZ) | 4:08 |
+| 40 | [Dirt in My Teeth](https://open.spotify.com/track/79Svg8losKkveT1bBFPo2E) | [Joe Bryson](https://open.spotify.com/artist/0lTfi8js2RsrwkmETK9xdK) | [Dirt in My Teeth](https://open.spotify.com/album/07yhFhYpc9Q2D8CZ78q0Tq) | 2:28 |
+| 41 | [Wish It Was You](https://open.spotify.com/track/3tcsTnOPpu9NxwteukewAs) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [Wish It Was You](https://open.spotify.com/album/63tj34mqSd5UOJV3Pvijmj) | 3:27 |
+| 42 | [Tear Me Down](https://open.spotify.com/track/0lUMG4zxLcpijvTxp1YcAA) | [Owen MacDonald](https://open.spotify.com/artist/1989AHylmjutoOnyegLT05) | [Tear Me Down](https://open.spotify.com/album/7DLhXV6f77TXJBV0N8ty2H) | 2:48 |
+| 43 | [Be The Whiskey](https://open.spotify.com/track/2GgKtn00VCc5ZLt8PhyuAN) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Be The Whiskey](https://open.spotify.com/album/5pDCuZMHEIHxOLuXNhuEwg) | 3:12 |
+| 44 | [Whole 'Nother High](https://open.spotify.com/track/00FcfqbL9i71toO13YTyvY) | [Dan Alley](https://open.spotify.com/artist/6mOaDIBpmWwmIomB44G25s), [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Keepin' On](https://open.spotify.com/album/7hDDBx3exHOgE7xivyL51c) | 3:11 |
+| 45 | [Hard Habits](https://open.spotify.com/track/6XWdkutw4M3KMseTt3fkBi) | [Davis Corley](https://open.spotify.com/artist/5iiwq0atOoHOY67cS2Za9x) | [Hard Habits](https://open.spotify.com/album/0m3kuexRhRKMvEsFLLfeUc) | 3:38 |
+| 46 | [Old Reliable](https://open.spotify.com/track/6zU9wUGHvVQnxGRY7aWsPZ) | [Alison Elena](https://open.spotify.com/artist/7mWYxYewRAHcVWTe1WrTDD) | [Old Reliable](https://open.spotify.com/album/28zq9ZBVcpIr5CevWCMS3d) | 3:33 |
+| 47 | [2 For](https://open.spotify.com/track/0Ver8cnSaLLAbsVrlzIOUD) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [2 For](https://open.spotify.com/album/2kDH1jR4n3gTAIGDsExdTw) | 2:45 |
 
-Snapshot ID: `AAAAAMN/U7lSEqxJlgNwxV+K4rtEkrO5`
+Snapshot ID: `AAAAALGVI7PkFM4WTchj1r/gE990KMWh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u7d62\u9999",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Chilli Beans.",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 165853,
       "name": "Cheese (feat. Manaka)",
       "url": "https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3"
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 206946,
       "name": "CHERRY COKE",
       "url": "https://open.spotify.com/track/2QQJy4BnIdCDZheXgGF8Km"
@@ -9284,6 +9284,24 @@
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u3057\u3044\u304a\u304b\u3048\u308a",
+        "url": "https://open.spotify.com/album/62oMK9YcKnRnkMYw8NNkvd"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4eca\u5bb5",
+          "url": "https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239216,
+      "name": "Discover",
+      "url": "https://open.spotify.com/track/5mc6xsUhFTkQZwLDGLOOTT"
     },
     {
       "album": {
@@ -23326,7 +23344,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 207641,
       "name": "Midsummer",
       "url": "https://open.spotify.com/track/1DxeySt90h5kcfv6EeYdZE"
@@ -28846,6 +28864,24 @@
       "duration_ms": 209852,
       "name": "Prince Shoutoku",
       "url": "https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC"
+    },
+    {
+      "album": {
+        "name": "HONESTY",
+        "url": "https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "princess",
+      "url": "https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT"
     },
     {
       "album": {
@@ -49486,6 +49522,24 @@
       "duration_ms": 274742,
       "name": "\u30aa\u30ea\u30d3\u30a2\u3092\u8074\u304d\u306a\u304c\u3089",
       "url": "https://open.spotify.com/track/6kya3wW9tpnXhe8D6oUhsp"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30ea\u30fc\u30d6",
+        "url": "https://open.spotify.com/album/4TN5rvYtw92VnfRiG2auyP"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275416,
+      "name": "\u30aa\u30ea\u30fc\u30d6",
+      "url": "https://open.spotify.com/track/56XMo48qEtAlwP2iVX0hKh"
     },
     {
       "album": {

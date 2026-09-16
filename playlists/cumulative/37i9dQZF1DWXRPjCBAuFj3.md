@@ -4,7 +4,7 @@
 
 > Dieci anni di Santeria 🐎🐎🐎
 
-1,096 songs - 2 day 8 hr 10 min
+1,097 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-03-01 | 2024-06-23 |
 | [GRANATA \(feat\. 22Simba\)](https://open.spotify.com/track/0ECuLZrYdjiIGbZgqtCKXb) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 3:07 | 2026-02-19 |  |
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-30 | 2023-07-08 |
+| [Guapparia \(feat\. Frezza & Pepp 'O Red\)](https://open.spotify.com/track/71MY60HAgdEWVt6i6ssl4d) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Pepp 'O Red](https://open.spotify.com/artist/0wF47dWCTiDlqm5FkNkr1B) | [Guapparia \(feat\. Frezza & Pepp 'O Red\)](https://open.spotify.com/album/7DnxDz3BkGLfaIGYcdz4bA) | 2:45 | 2026-09-16 |  |
 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 | 2025-07-03 | 2026-02-06 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-06-16 | 2023-06-23 |
 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w) | 3:08 | 2026-06-22 | 2026-08-28 |

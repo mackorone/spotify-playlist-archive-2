@@ -1,13 +1,57 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20350,
+  "num_followers": 20349,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArTb5bnI4b7kKzXZRZjCGkBg9m5azO",
+  "snapshot_id": "AAArV7MX2aBHLS82FrA1hFR2csfHH1yv",
   "tracks": [
+    {
+      "added_at": "2026-09-15 18:22:50",
+      "album": {
+        "name": "All Things Fall Away",
+        "url": "https://open.spotify.com/album/02Wm0LLZlu5hz50Rupmxmu"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Yetti",
+          "url": "https://open.spotify.com/artist/1Z98Ovf0sHPSZU3DTIbeQ0"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "All Things Fall Away",
+      "url": "https://open.spotify.com/track/01LUUZPRT7tW7daEf6FIOv"
+    },
+    {
+      "added_at": "2026-09-15 18:23:36",
+      "album": {
+        "name": "SUFFOCATING (with Adalaide Adams)",
+        "url": "https://open.spotify.com/album/4yV2olLPyN2fXujzf7wmlL"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "SUFFOCATING (with Adalaide Adams)",
+      "url": "https://open.spotify.com/track/48Uh86xRi2vWHwh47e5hOn"
+    },
     {
       "added_at": "2026-07-25 00:00:02",
       "album": {
@@ -987,6 +1031,66 @@
       "duration_ms": 197241,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
+    },
+    {
+      "added_at": "2026-09-15 18:25:56",
+      "album": {
+        "name": "Life is meant to be lived",
+        "url": "https://open.spotify.com/album/2LaCmwwsFk3XK0mAm2xsIX"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarkissian",
+          "url": "https://open.spotify.com/artist/46zXKKtvAVTkUl7pyO287V"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Life is meant to be lived",
+      "url": "https://open.spotify.com/track/1Bidpii7j5mO4FsNEZYwNr"
+    },
+    {
+      "added_at": "2026-09-15 18:26:17",
+      "album": {
+        "name": "sofardown",
+        "url": "https://open.spotify.com/album/5lGHetlsWUiP9Hr8ncROdf"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "sofardown",
+      "url": "https://open.spotify.com/track/6G0dfZka1NETRzvh9oQxHH"
+    },
+    {
+      "added_at": "2026-09-15 18:26:30",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
     }
   ],
   "unique_name": "Moving Castle Monthly",

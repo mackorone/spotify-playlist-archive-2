@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,169 likes - 60 songs - 3 hr 25 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,176 likes - 64 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 58 | [DND](https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS) | [Mila Sidhu](https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk) | [DND](https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT) | 2:41 |
 | 59 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
 | 60 | [The Leap](https://open.spotify.com/track/4XnrMlrVHHcAmITgLRwcoZ) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr\. Sun](https://open.spotify.com/album/2InfXnHrTN8TCFycbq7HqO) | 2:48 |
+| 61 | [Right person, wrong timing](https://open.spotify.com/track/1Dll6Tecy4sZvgw8NeaTT9) | [UDrimmy](https://open.spotify.com/artist/1z4UTJXpmJbT6kgP7hjhMl) | [Right person, wrong timing](https://open.spotify.com/album/0Ydn5Nf80UORKungVBdMOp) | 2:28 |
+| 62 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
+| 63 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
+| 64 | [Hold On](https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Hold On](https://open.spotify.com/album/4XELXp2l8b4kVxlz6bprXg) | 3:31 |
 
-Snapshot ID: `AAAEXuAvDRYIS9T/isaVTAtsYGeeF1VC`
+Snapshot ID: `AAAEYuE4efsi5EOItIJn5HVKjNqhdEkH`

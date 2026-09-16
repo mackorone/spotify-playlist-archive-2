@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 
 > Our favorite subject? Their chemistry\. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,276 likes - 86 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,289 likes - 86 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfDwyMAX9yi.md) - [plain]
 | 33 | [An Embrace In Fear \- From "Maxton Hall"](https://open.spotify.com/track/473HXUbatUqR9yJjghRFBf) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 0:53 |
 | 34 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 |
 | 35 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 36 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
+| 36 | [Heaven Takes You Home \(feat\. Connie Constance\) \- Alternative Mix](https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Constance Power](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Heaven Takes You Home \(Alternative Mix\)](https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ) | 3:29 |
 | 37 | [I'm Out \- From "Maxton Hall"](https://open.spotify.com/track/6fouTL1OvjUccPAxNsRrTx) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 3:10 |
 | 38 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
 | 39 | [Plans For The Future \- From "Maxton Hall"](https://open.spotify.com/track/01zMrAMB73rjn5Z9bEF6oO) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 2\) \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/3eUhERPCrMicJgO3oAQfil) | 2:19 |

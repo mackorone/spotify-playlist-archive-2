@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 121719,
+  "num_followers": 121757,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Tambora",
-        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
-      },
-      "artists": [
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 150660,
-      "name": "Tambora",
-      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Beso (Fruta Fresca) [MichaelBM Remix]",
         "url": "https://open.spotify.com/album/6ZAVp3cuWAyj0FHy7CeC0C"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 221249,
       "name": "Beso (Fruta Fresca) - MichaelBM Remix",
       "url": "https://open.spotify.com/track/0KD920X1MFe2r3DxTflT2o"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "Tambora",
+        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 150660,
+      "name": "Tambora",
+      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1823,26 +1823,26 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
       "artists": [
         {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         },
         {
-          "name": "GotSome",
-          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
         },
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
         }
       ],
-      "duration_ms": 116361,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1883,26 +1883,26 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
         },
         {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
         },
         {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+      "duration_ms": 116361,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
     },
     {
       "added_at": "2026-09-11 04:01:26",

@@ -9551,6 +9551,24 @@
     },
     {
       "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6l2uBj66bAHppxXgObKV87"
+      },
+      "artists": [
+        {
+          "name": "Roger Silva",
+          "url": "https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198983,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/1mF1agdfi1QMRxBjQn5xbM"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc"
       },
@@ -13070,6 +13088,24 @@
       "duration_ms": 157173,
       "name": "What's the Deal",
       "url": "https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE"
+    },
+    {
+      "album": {
+        "name": "Whatever You Want Is What It Means",
+        "url": "https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr"
+      },
+      "artists": [
+        {
+          "name": "Steve Hines",
+          "url": "https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Whatever You Want Is What It Means",
+      "url": "https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP"
     },
     {
       "album": {

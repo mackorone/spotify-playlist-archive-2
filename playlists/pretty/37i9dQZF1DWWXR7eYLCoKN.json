@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 169719,
+  "num_followers": 169727,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
     },
     {
       "added_at": "2026-07-27 16:20:33",

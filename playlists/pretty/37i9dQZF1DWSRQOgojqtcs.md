@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,756 likes - 336 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,759 likes - 336 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,7 +295,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 285 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 | 286 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
 | 287 | [Love Whatcha Doin To Me](https://open.spotify.com/track/0HvwTJKj0oCOl67HHkEJPb) | [Robert Luke Harshman](https://open.spotify.com/artist/4EtkYbJx7o70koLTkzok8s) | [Rockabilly Pioneers: The Origins of Rockabilly](https://open.spotify.com/album/3LFHxKzfoMceMqhIKRQ2LU) | 1:56 |
-| 288 | [ICYY](https://open.spotify.com/track/0VVVt454Lkm4OgUZ0PxvZl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ICYY](https://open.spotify.com/album/4zPRnjsf4e82c3S44NssLx) | 2:35 |
+| 288 | [ICYY](https://open.spotify.com/track/0VVVt454Lkm4OgUZ0PxvZl) | [Pania](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ICYY](https://open.spotify.com/album/4zPRnjsf4e82c3S44NssLx) | 2:35 |
 | 289 | [Boogie Man](https://open.spotify.com/track/1ZgD3hoPFZUj4JKLVnW0KF) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ), [Jimmy Bryant](https://open.spotify.com/artist/6IKq5gnh3GQrnxztypZKZR) | [For the Last Time](https://open.spotify.com/album/2rQafUioxY5UDqcwyFzaim) | 2:49 |
 | 290 | [\#3allmyteam](https://open.spotify.com/track/2JulhUijvUexOhAG3JK9QJ) | [Snoee Badman](https://open.spotify.com/artist/5xNfUAoQGkcNnNDn2CnXKm) | [\#3badman](https://open.spotify.com/album/1JXjUfTih1xgq1VT2OCYRO) | 2:59 |
 | 291 | [Natural Beauty](https://open.spotify.com/track/0WEnEhULdWHeKDr4gsropA) | [LJ Waiters](https://open.spotify.com/artist/67wGdNGk0xWzIN4J86W9Iz) | [Lost in Sound \- Rare Soul & Funk Essentials](https://open.spotify.com/album/6BbMWc3YyOT6BXQP1I36OV) | 3:03 |

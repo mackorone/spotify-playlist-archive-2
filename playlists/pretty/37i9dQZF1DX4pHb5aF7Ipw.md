@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Armaan Gill\-Arnaaz Gill, Sahil Cheema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,470 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,480 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 19 | [KALGIDHAR](https://open.spotify.com/track/2VRjVRpUBn52jIjFtEsUKa) | [HUNR](https://open.spotify.com/artist/0x1ULB2bOjM2O6sn0AMLa6), [Meet Rai](https://open.spotify.com/artist/391qJoLlk34EPns4JWj1Ah) | [KALGIDHAR](https://open.spotify.com/album/5LDM3GO5M82xuhmR5Wm7ug) | 3:33 |
 | 20 | [Carbon](https://open.spotify.com/track/4nxDJuY5VFGzpyWXH7f75p) | [Turban Beats](https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE), [Gammy](https://open.spotify.com/artist/7xjjktWTKRlzBcu176C29D) | [Carbon](https://open.spotify.com/album/3FUFIc6s9gm1wzUvWTgDG3) | 2:21 |
 | 21 | [Overdrive](https://open.spotify.com/track/2sfiMASW9CNcjIRbfsBPKZ) | [Arsh Deol](https://open.spotify.com/artist/1AyVZzDrLfFJcc8uF5T7lC) | [Overdrive](https://open.spotify.com/album/5D3YI2jx3usIr4Dcej9Z5p) | 2:16 |
-| 22 | [Squad](https://open.spotify.com/track/2CGhyoLCmldQuibx099WQz) | [Gurmanter](https://open.spotify.com/artist/7wUItI9mWFKUN9WzyMe0T5) | [Squad](https://open.spotify.com/album/2ZDBXg4rrNLGha6qqJ8vrj) | 2:29 |
+| 22 | [Squad](https://open.spotify.com/track/2CGhyoLCmldQuibx099WQz) | [Gurmanter](https://open.spotify.com/artist/7wUItI9mWFKUN9WzyMe0T5), [Karan Thabal](https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Squad](https://open.spotify.com/album/2ZDBXg4rrNLGha6qqJ8vrj) | 2:29 |
 | 23 | [Zulfan](https://open.spotify.com/track/5JeUqi1ll1jkfWNGiheV9u) | [Enbbee](https://open.spotify.com/artist/2chdi8uhxVik1Ar6xnU12A), [Biswal Rohan](https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY), [RBX](https://open.spotify.com/artist/19pivfYwhaVznIRpjaS6pt) | [Zulfan](https://open.spotify.com/album/4XnAP93Z6JvPZK3e5VLgIY) | 2:12 |
 | 24 | [Bawra](https://open.spotify.com/track/3D5ZYGYpaNJIong55JbGOf) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Simran Jhanjharya](https://open.spotify.com/artist/3kxNZjg8GD2XbaRffgXmBY) | [BAWRA \(Deluxe\)](https://open.spotify.com/album/6bbYghs89y0cLzeWOtRZC1) | 3:30 |
 | 25 | [Uchiyan Imartan](https://open.spotify.com/track/0B22loiOMCm0ZACciEuUYe) | [J Shah](https://open.spotify.com/artist/3NbLclPcOgudNlKUQvDumP), [Happy](https://open.spotify.com/artist/01mKRTRvD2laDg7z7dmZyG) | [Uchiyan Imartan](https://open.spotify.com/album/1LucpxjfAd94mZu5w9MIbi) | 2:12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 51131,
+  "num_followers": 51179,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAB20+HJaop/15huWY7zAFSp",
+  "snapshot_id": "aqc5AAAAAABruF2HgAs5LL2uMkcsvPOL",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
-      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -216,13 +196,13 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         },
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 166480,
-      "name": "LIGHT DESIGN: OKLOU VERSION",
-      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
+      "duration_ms": 168213,
+      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
+      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
     },
     {
       "added_at": null,
@@ -352,13 +332,13 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         },
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 180386,
-      "name": "CEILING: HAYLEY WILLIAMS VERSION",
-      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
+      "duration_ms": 166480,
+      "name": "LIGHT DESIGN: OKLOU VERSION",
+      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
     },
     {
       "added_at": null,
@@ -420,13 +400,13 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         },
         {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 189226,
-      "name": "NEVER ENOUGH: PORCHES VERSION",
-      "url": "https://open.spotify.com/track/0jKddrlPSO6I7UXO4lTJt5"
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 190394,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "NEVER ENOUGH: PORCHES VERSION",
+      "url": "https://open.spotify.com/track/0jKddrlPSO6I7UXO4lTJt5"
     }
   ],
   "unique_name": "This Is Turnstile",

@@ -2925,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "The Power Of Being Human",
+        "url": "https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G"
+      },
+      "artists": [
+        {
+          "name": "Bunyin Yang",
+          "url": "https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340957,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw"
+    },
+    {
+      "album": {
         "name": "What Does Bob Think?",
         "url": "https://open.spotify.com/album/1r3Fgt7pAhlcpVtV3aJ5lE"
       },

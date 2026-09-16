@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "\u30b6\u30fb\u30a4\u30f3\u30c8\u30a5\u30eb\u30fc\u30c0\u30fc\u30ba\u30fb\u30a2\u30fc\u30fb\u30c8\u30a5\u30b2\u30b6\u30fc",
+        "url": "https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129146,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/2ChIzSUiDAn9D7nf6MyLOv"
+    },
+    {
+      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -392,7 +410,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 133413,
       "name": "Dance Boy",
       "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"

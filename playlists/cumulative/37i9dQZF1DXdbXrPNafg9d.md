@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei
 
-10,781 songs - 26 day 4 hr 2 min
+10,782 songs - 26 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5779,6 +5779,7 @@
 | [Love Ruins Everything](https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Love Ruins Everything](https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx) | 3:20 | 2026-08-28 |  |
 | [Love Song](https://open.spotify.com/track/0SOUQwfAlpvurIBdPurgrd) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Love Song](https://open.spotify.com/album/0qiKuGeaGlsWoPtrFcwiDc) | 3:11 | 2023-09-15 | 2023-11-11 |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 | 2024-11-16 |
+| [Love Stays](https://open.spotify.com/track/3oeju877poauSl65MQEUpQ) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N), [Omotola](https://open.spotify.com/artist/2ubMC1fvG1gAokMFhYFbmv) | [Spectral+](https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6) | 4:21 | 2026-09-15 |  |
 | [Love Story](https://open.spotify.com/track/3FAgUjS7OqRoXl4WjowcKS) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Love Story](https://open.spotify.com/album/7gfAIiklAXOtyfSAAnRz0C) | 3:46 | 2026-03-20 | 2026-05-02 |
 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2024-12-06 | 2025-01-25 |
 | [love that 4 u](https://open.spotify.com/track/2OBFtPB0f1inbUj4XHXxHm) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [love that 4 u](https://open.spotify.com/album/4eBsIQph3T5ZqFQZ3WkF8l) | 4:19 | 2022-08-12 | 2022-09-24 |

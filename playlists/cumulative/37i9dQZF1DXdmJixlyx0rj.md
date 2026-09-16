@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Kim Ximya\)
 
-335 songs - 18 hr 53 min
+336 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 | 2024-06-29 |
 | [DOWNFALL](https://open.spotify.com/track/3B6FXHASndfG4AymIFJVIV) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [DOWNFALL](https://open.spotify.com/album/76u6XROCDq6ruK7x5Z4DRt) | 2:47 | 2024-07-16 | 2024-08-11 |
 | [DRIFT](https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:26 | 2025-05-13 |  |
+| [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu) | 3:02 | 2026-09-10 |  |
 | [Dynamite \(EDM Remix\)](https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:18 | 2024-06-28 | 2026-06-23 |
 | [d☆ct \(soccer banger\)](https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [d☆ct \(soccer banger\)](https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z) | 3:04 | 2026-06-23 |  |
 | [E E A \(Feat\. JUE\)](https://open.spotify.com/track/0nQSuLnjOAWdV1gtaNqDzO) | [KONA](https://open.spotify.com/artist/6E1vNiOCUfC7BmxAvwIYIr), [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [A Kind of Animal](https://open.spotify.com/album/7yTtPy6yQ7YZXEmgi16kOL) | 4:06 | 2025-07-01 | 2025-07-25 |
@@ -158,7 +159,7 @@
 | [Iab](https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Iab](https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr) | 3:10 | 2025-10-23 | 2026-07-09 |
 | [Icarus \(Artronic Waves Remix\)](https://open.spotify.com/track/6hR8Qr0JATi43cPQ9zhqJy) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus Remix>](https://open.spotify.com/album/1X7qXXLGo8pyjdWQYONAXs) | 4:10 | 2025-08-14 | 2025-09-23 |
 | [IFall](https://open.spotify.com/track/6PxIy5w30O0noEkOs4BrxG) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 03](https://open.spotify.com/album/1itk8bs4vByhAvS5PSTpqA) | 3:15 | 2025-10-14 | 2025-12-25 |
-| [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 |  |
+| [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 | 2026-09-16 |
 | [INSA](https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [INSA](https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK) | 2:39 | 2026-07-17 |  |
 | [INVU \- GINJO Remix](https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:40 | 2024-04-18 | 2024-06-29 |
 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 | 2024-04-18 | 2025-02-04 |

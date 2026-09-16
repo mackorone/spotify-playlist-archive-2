@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111289,
+  "num_followers": 111302,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Pit Stop",
         "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 253544,
       "name": "Pit Stop",
       "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/6H55FrOOybLadaCeXnBGSn"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "501",
         "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 127592,
       "name": "501",
       "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "We Doen Ons Best",
-        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Niet Zo",
-      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Paper Zien (Remix)",
         "url": "https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "We Doen Ons Best",
+        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Niet Zo",
+      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "BON VIBES",
+        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "BON VIBES",
+      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4iaiyS8tLR6ub2WlSMd9SE"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 204878,
       "name": "Van Mij (feat. Jandro & Zefanio)",
       "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "BON VIBES",
-        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
-      },
-      "artists": [
-        {
-          "name": "Chip Charlez",
-          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "BON VIBES",
-      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
     },
     {
       "added_at": "2024-07-19 06:38:33",

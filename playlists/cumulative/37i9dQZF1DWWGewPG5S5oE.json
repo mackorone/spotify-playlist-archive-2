@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u77f3\u82e5 \u99ff",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u4f50\u702c\u60a0\u8f14",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Who's Who",
+        "url": "https://open.spotify.com/album/5v7Jhz4YOk42ms9S77HoZX"
+      },
+      "artists": [
+        {
+          "name": "Yosuke Inoue",
+          "url": "https://open.spotify.com/artist/28M2J3CpDZMe7Qv177TM0L"
+        },
+        {
+          "name": "\u6d77\u91ce \u96c5\u5a01",
+          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384773,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3WPFmDNnI5aqFHWyZmUzwV"
+    },
+    {
+      "album": {
         "name": "A Gift for You",
         "url": "https://open.spotify.com/album/5Nlj7ixqkpgloUZZWFdOKM"
       },
@@ -1887,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Cross Again",
+        "url": "https://open.spotify.com/album/5PLuPCKFm8xyJGdYqs22Zf"
+      },
+      "artists": [
+        {
+          "name": "tsuqiyomu",
+          "url": "https://open.spotify.com/artist/0hwEAShEVaObGI3FcfLx0b"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Cross Again",
+      "url": "https://open.spotify.com/track/2iTijsnmas6C4ezW1f5YAr"
+    },
+    {
+      "album": {
         "name": "Cross View (from \"UNTITLED\" 2026 Take)",
         "url": "https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U"
       },
@@ -2499,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Camping Music",
+        "url": "https://open.spotify.com/album/5UUH3V1AePhGd2v7HMIRKr"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136960,
+      "name": "embers",
+      "url": "https://open.spotify.com/track/0lMsQ242U1HEo7OXnm2afH"
+    },
+    {
+      "album": {
         "name": "LINK",
         "url": "https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA"
       },
@@ -2798,6 +2856,32 @@
       "duration_ms": 281624,
       "name": "Family Mate",
       "url": "https://open.spotify.com/track/4Xu7MtszWBQXB34P2om65e"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4GnFsm5X8ChxeZRf85tet4"
+      },
+      "artists": [
+        {
+          "name": "miki et nana",
+          "url": "https://open.spotify.com/artist/6VJbP7sFsIyu2nILJEQkcZ"
+        },
+        {
+          "name": "\u5bae\u672c\u7f8e\u5b63",
+          "url": "https://open.spotify.com/artist/61Z9gC4wurRMsYQPPbueOE"
+        },
+        {
+          "name": "Miku Yonezawa",
+          "url": "https://open.spotify.com/artist/74un9WJ6c4Ak1wqQIxZ920"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307494,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3SHBfBhaNvxeFm9rk4upHM"
     },
     {
       "album": {
@@ -3939,6 +4023,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4VkSdd90QRjjSdMHY7rEE6"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275011,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/0PQuarvcROuxW2AckOLxFt"
+    },
+    {
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/5yyPyZIv4Y959ffZrFfb6R"
       },
@@ -4230,6 +4332,24 @@
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+    },
+    {
+      "album": {
+        "name": "GEMINI:zed",
+        "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/18xs07gssFmMSrpEJCJ8MD"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387428,
+      "name": "Kind of Green",
+      "url": "https://open.spotify.com/track/01uo0AI05inhNsuMDyHFs7"
     },
     {
       "album": {
@@ -4678,6 +4798,28 @@
       "duration_ms": 232000,
       "name": "Lucky Cookie",
       "url": "https://open.spotify.com/track/1Mv9PQtywsX4dzfJzgmiC2"
+    },
+    {
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/6CL2SL0en6wpiUTRBhtslD"
+      },
+      "artists": [
+        {
+          "name": "Jacob Koller",
+          "url": "https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o"
+        },
+        {
+          "name": "Toru Yokosawa",
+          "url": "https://open.spotify.com/artist/2qjdhtDLFDdvzb1mSkYFWB"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "LUPIN THE 3RD '78\uff08\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de\u2019\uff17\uff18\uff09",
+      "url": "https://open.spotify.com/track/3gwuI3dcmEs9oomvtDrqU5"
     },
     {
       "album": {
@@ -5406,6 +5548,24 @@
       "duration_ms": 397400,
       "name": "My Cerebellum",
       "url": "https://open.spotify.com/track/1TTxIFl6TyNmbk21G7HnOO"
+    },
+    {
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/0XAlbqmK1fx3FJklYwbtgb"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u6c34\u884c\u4eba",
+          "url": "https://open.spotify.com/artist/1906PXVv6B7rCZRtM7Icpt"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407293,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/7lQYOQGQ5V4pBFWRRIbetj"
     },
     {
       "album": {
@@ -7047,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/15XmtpPZ4a3cgLLhEoaqeg"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "SAVAGE",
+      "url": "https://open.spotify.com/track/3xSad8IMbiLhSsKK6x9ymw"
+    },
+    {
+      "album": {
         "name": "CALM&CLASH",
         "url": "https://open.spotify.com/album/4oIMx6MSXISy3iC2EQRnJB"
       },
@@ -7158,6 +7336,24 @@
       "duration_ms": 462994,
       "name": "Sepiageshiki",
       "url": "https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0"
+    },
+    {
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/6SZzZyniZk9pAT53fV7110"
+      },
+      "artists": [
+        {
+          "name": "epice",
+          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604607,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/7LDzhQDvT8HcGw1faHEBBU"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50244,
+  "num_followers": 50249,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Red Moon: To You My Light",
-        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
         }
       ],
-      "duration_ms": 265586,
-      "name": "To You My Light (feat. LEE RAON)",
-      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+      "duration_ms": 216000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -207,18 +203,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi"
+        "name": "Red Moon: To You My Light",
+        "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
       "artists": [
         {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6"
+      "duration_ms": 265586,
+      "name": "To You My Light (feat. LEE RAON)",
+      "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 182253,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "Bird On The Edge",
+        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Bird On The Edge",
+      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "WHO WE ARE",
         "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Bird On The Edge",
-        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
+        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
       },
       "artists": [
         {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Bird On The Edge",
-      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+      "duration_ms": 219991,
+      "name": "On Such a Day",
+      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -467,18 +483,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
       },
       "artists": [
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 219991,
-      "name": "On Such a Day",
-      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -495,22 +511,6 @@
       "duration_ms": 211999,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/6cxe7wIuwH7ul9XI7D853w"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Soar - The 2nd Album",
-        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wake From The Dark",
-      "url": "https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Still the Same",
         "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 148002,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "Soar - The 2nd Album",
+        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wake From The Dark",
+      "url": "https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "GO FOR IT",
+        "url": "https://open.spotify.com/album/4z3TLVNdST1A1awgGGxl07"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "GO FOR IT",
+      "url": "https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "You don\u2019t have to be a star",
         "url": "https://open.spotify.com/album/6OhmLQUKQfh10tr3stKRD6"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 200592,
       "name": "You don\u2019t have to be a star",
       "url": "https://open.spotify.com/track/2B8YSN8znuRfYSkwJusNfQ"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
-        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
-      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

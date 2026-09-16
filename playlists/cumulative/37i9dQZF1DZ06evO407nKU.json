@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 249789,
       "name": "El Signo Libra",
       "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 220055,
       "name": "Esta Es Otra Pa Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/3fs7nOUED72HjcppWMCvkw"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 189846,
       "name": "Hoy Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/2T1bNHE9P5ionffAVsLuII"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 217849,
       "name": "Lo Que Yo Sentia",
       "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "Luchon",
       "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
@@ -1642,6 +1642,28 @@
       "duration_ms": 194500,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
+    },
+    {
+      "album": {
+        "name": "Me Tienes Enamorado",
+        "url": "https://open.spotify.com/album/5TRTcKElL8hp3a2Neaq1KU"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/4AB3FqTXBxJhJaAvp7jHdF"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172931,
+      "name": "Me Tienes Enamorado",
+      "url": "https://open.spotify.com/track/2GBh5nyW1OeLxRXtT6Dzko"
     },
     {
       "album": {
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
@@ -2066,7 +2088,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 187094,
       "name": "No Te Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/0jsofQtfJhAcaOJ8lvLThX"
@@ -2084,7 +2106,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 217531,
       "name": "No Vuelvo A Extranarte",
       "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
@@ -2128,7 +2150,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 276665,
       "name": "Nomas Este Rey",
       "url": "https://open.spotify.com/track/0Oj5ltXaALCMB6ZaST0hDa"
@@ -2146,7 +2168,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 197007,
       "name": "Nuestro Adios",
       "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
@@ -2510,6 +2532,24 @@
       "duration_ms": 144791,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
+    },
+    {
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/5Lz3Qx9T1AGlxJcrrMTm6X"
     },
     {
       "album": {

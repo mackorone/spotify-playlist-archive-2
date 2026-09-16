@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,518 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,516 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 11 | [Küçük Hanımın Öyküsü](https://open.spotify.com/track/5TY78HrCLxdMsgIjFm5Alz) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp) | [Okyanustaki Sesler, Vol.2 / Cananım](https://open.spotify.com/album/3KbAvYAjZrwFJ5MSVlMVNc) | 2:48 |
 | 12 | [Fikrimin İnce Gülü](https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:11 |
 | 13 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
-| 14 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
+| 14 | [Uşşak Saz Semaisi](https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP) | [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Vahdet Sırrının Sadası "Tanbur"](https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3) | 4:09 |
 | 15 | [Kayıkçı \(Navavar\)](https://open.spotify.com/track/6hY2JKtW8bVFG8MgiqZbSc) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD), [Suren Asaduryan](https://open.spotify.com/artist/2NYsV8cVDAZ5APi9r1UVxk) | [Vuslat](https://open.spotify.com/album/3z5rHDWpsVH1KXgrP4Tbhj) | 3:07 |
 | 16 | [Yeniden Doğmak](https://open.spotify.com/track/0kFXWLSog6fxmZsZmbECq2) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Ceyhun Çelikten](https://open.spotify.com/artist/00Cjagp6pAVNHfzbPYzzki) | [Boğaziçi Hayal Gibi](https://open.spotify.com/album/26rfwfgXgdB8XU74eincXS) | 7:02 |
 | 17 | [Acemişiran Saz Semaisi](https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 4:59 |
-| 18 | [Uşşak Saz Semaisi](https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP) | [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Vahdet Sırrının Sadası "Tanbur"](https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3) | 4:09 |
+| 18 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
 | 19 | [Suzidil Saz Semaisi](https://open.spotify.com/track/3egyYFEXZkLRTpU7sr01P9) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s) | [Necdet Yasar \- Arşiv](https://open.spotify.com/album/1B7RURis6INcah8BBeO7td) | 5:15 |
 | 20 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
 | 21 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 45 | [Şarkılar Söylüyorsan \(Nihavent Şarkı\)](https://open.spotify.com/track/4BEPW6QrhMA7FyKcMzuaW8) | [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 6:09 |
 | 46 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
 | 47 | [Serenat \(Hicaz Medhal\)](https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 3:41 |
-| 48 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
-| 49 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
+| 48 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
+| 49 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
 | 50 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
 
 Snapshot ID: `AAAAAO5WNlMfkrWJnJtvESHmJCiX2hf2`

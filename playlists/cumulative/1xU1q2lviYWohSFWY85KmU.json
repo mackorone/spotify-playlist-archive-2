@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "HARMONIE",
+        "url": "https://open.spotify.com/album/33fYfXzFpzb5c1PrsIFrML"
+      },
+      "artists": [
+        {
+          "name": "Jamie Paige",
+          "url": "https://open.spotify.com/artist/790JtoMXsEVQqzkerV3xuf"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Nothing Ever (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6uIKwXgBnnj5j5NGTcuGki"
+    },
+    {
+      "album": {
         "name": "NULL\u3092\u88fd\u9020\u4e2d",
         "url": "https://open.spotify.com/album/4UAGVQ3NAXl4HzWY2EA6lo"
       },
@@ -1692,6 +1714,28 @@
       "duration_ms": 241000,
       "name": "STAGE OF SEKAI (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0QHQJ7CXzo2Cb2vKQgcr5F"
+    },
+    {
+      "album": {
+        "name": "Walking alone",
+        "url": "https://open.spotify.com/album/3PWEqImZNNbFnUynEz0HWc"
+      },
+      "artists": [
+        {
+          "name": "okameP",
+          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Stare into the grey (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4AHfs27iYTWmLNxShMR6xn"
     },
     {
       "album": {
@@ -7418,7 +7462,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 180036,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30d3\u30eb\u30c9\u30fb\u30a2\u30f3\u30bb\u30e0 (Version 2.0) (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/52AOguyn6vCNg9rVBMD2RP"
@@ -8104,7 +8148,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 196418,
       "name": "\u565b\u307f\u3064\u3051\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3aItN6IKiO2KRV3VHkuxMU"
@@ -8480,6 +8524,28 @@
       "duration_ms": 251712,
       "name": "\u5984\u60f3invitation (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1Wa47CEUOXo6Dbe6wGu0Da"
+    },
+    {
+      "album": {
+        "name": "\u5b58\u5728\u306e\u5b9f\u50cf",
+        "url": "https://open.spotify.com/album/0zfgIcjGo4Bg7ZcUmkq4eI"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30a2\u30f3\u30fb\u30ad\u30ce",
+          "url": "https://open.spotify.com/artist/6rLC4Qo8xgDTC759EkUqMv"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234224,
+      "name": "\u5b58\u5728\u306e\u5b9f\u50cf (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3wClW6bJVsAYxx0QrRtbGb"
     },
     {
       "album": {
@@ -9558,7 +9624,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 188651,
       "name": "\u6b8b\u97ff - Afterglow (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/7Fz7dt7eXKvgIuODyD7ooq"
@@ -9632,6 +9698,32 @@
       "duration_ms": 188219,
       "name": "\u6c37\u306e\u30bb\u30ab\u30a4 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/2oKdBm7n99To9MDxqlc3MG"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u3081\u3089\u308c\u305f\u30eb\u30fc\u30eb\u306e\u4e2d\u3067\u751f\u304d\u308b\u306e\u306b\u75b2\u308c\u3066\u304d\u305f\u306e\u3067\u5c11\u3057\u3060\u3051\u30ba\u30eb\u3057\u3066\u307f\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/6kMbWEMi9o72FFfxnhzrbc"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u4e39",
+          "url": "https://open.spotify.com/artist/2n6XWhZaj4eIij2sH19zV9"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202622,
+      "name": "\u6c7a\u3081\u3089\u308c\u305f\u30eb\u30fc\u30eb\u306e\u4e2d\u3067\u751f\u304d\u308b\u306e\u306b\u75b2\u308c\u3066\u304d\u305f\u306e\u3067\u5c11\u3057\u3060\u3051\u30ba\u30eb\u3057\u3066\u307f\u307e\u3057\u305f (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/3CjBhwEN6NmK97r3odfLhU"
     },
     {
       "album": {
@@ -9996,7 +10088,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 191386,
       "name": "\u75c5\u7684\u30d4\u30e5\u30fc\u30d0\u30c6\u30a3",
       "url": "https://open.spotify.com/track/7kKKFlPLdeVZ5uR8SvVywo"
@@ -10325,6 +10417,28 @@
     },
     {
       "album": {
+        "name": "\u7f70\u70b9_da",
+        "url": "https://open.spotify.com/album/0rhXm7wdyGLBKoeZ0W7Swc"
+      },
+      "artists": [
+        {
+          "name": "OtuQ",
+          "url": "https://open.spotify.com/artist/4aR1U3I9Fa7m6XmkDBcT3s"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "\u7f70\u70b9_da (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7c1LrGTSSozAyOdZ5qUUGv"
+    },
+    {
+      "album": {
         "name": "\u8133\u5185\u30f2\u30ab\u30bf\u30c5\u30b1\u4ee3\u884c\u30b5\u30fc\u30d3\u30b9",
         "url": "https://open.spotify.com/album/7Am9LoAzoPaNgGYkDKoErz"
       },
@@ -10530,7 +10644,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 210565,
       "name": "\u892a\u305b\u308b\u30bb\u30eb\u30d5\u30a3\u30fc",
       "url": "https://open.spotify.com/track/0LnNPQnP7giYQIbTLOx6iB"

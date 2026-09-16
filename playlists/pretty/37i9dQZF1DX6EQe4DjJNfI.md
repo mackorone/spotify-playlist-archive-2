@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,753 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,756 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 64 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
 | 65 | [Carta](https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Carta](https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST) | 2:24 |
 | 66 | [Me Deixa Ser Pausa](https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Deixa Ser Pausa](https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0) | 2:07 |
-| 67 | [COMO ELA FAZ](https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [SKY](https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl) | 4:05 |
-| 68 | [Deixa Eu Te Amar](https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC) | [Drana](https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Deixa eu Te Amar](https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8) | 4:00 |
+| 67 | [Deixa Eu Te Amar](https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC) | [Drana](https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Deixa eu Te Amar](https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8) | 4:00 |
+| 68 | [COMO ELA FAZ](https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [SKY](https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl) | 4:05 |
 | 69 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 70 | [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 |
 | 71 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |

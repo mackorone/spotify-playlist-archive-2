@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
-  "num_followers": 89621,
+  "num_followers": 89619,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
-        "name": "SNAKEYEZ",
-        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
         "name": "MON TOUR",
         "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 151384,
       "name": "MON TOUR",
       "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
+        "name": "SNAKEYEZ",
+        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "BORA BORA",
+        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "BORA BORA",
+      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Helen Quelle Heure",
         "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
       },
@@ -1083,6 +1099,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "SOLO SOLO",
+        "url": "https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq"
+      },
+      "artists": [
+        {
+          "name": "KDS Requinzer",
+          "url": "https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3"
+        }
+      ],
+      "duration_ms": 152225,
+      "name": "SOLO SOLO",
+      "url": "https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "514-50 Dans mon r\u00e9seau (\u00c9dition 20e anniversaire)",
         "url": "https://open.spotify.com/album/4WfwdFaRrXE83b4biyPhlK"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 352600,
       "name": "L'\u00e9tage souterrain",
       "url": "https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "SOLO SOLO",
-        "url": "https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq"
-      },
-      "artists": [
-        {
-          "name": "KDS Requinzer",
-          "url": "https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3"
-        }
-      ],
-      "duration_ms": 152225,
-      "name": "SOLO SOLO",
-      "url": "https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1163,22 +1179,6 @@
       "duration_ms": 145295,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/4A0lJihI3xYaJ0EtW7s3aF"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "BORA BORA",
-        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
-      },
-      "artists": [
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "BORA BORA",
-      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-09-11 04:03:06",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-09-11 04:03:06",
       "album": {
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
+    },
+    {
+      "added_at": "2026-09-11 04:03:06",
+      "album": {
         "name": "Vraiment",
         "url": "https://open.spotify.com/album/3TBaJSjuMMVwD9JnmlWYYz"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 153203,
       "name": "Vraiment",
       "url": "https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX"
-    },
-    {
-      "added_at": "2026-09-11 04:03:06",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 227211,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

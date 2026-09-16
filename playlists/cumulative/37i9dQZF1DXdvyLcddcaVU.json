@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 172630,
       "name": "Boys",
       "url": "https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs"
@@ -8948,6 +8948,28 @@
       "duration_ms": 180000,
       "name": "Histoire d'un soir (Bye bye les gal\u00e8res) - Blutch Radio Edit",
       "url": "https://open.spotify.com/track/7qZV8Zzk8fHU2eR6ilqvRs"
+    },
+    {
+      "album": {
+        "name": "Histoire sans fin",
+        "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "MATHILDE",
+          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209617,
+      "name": "Histoire sans fin",
+      "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
     },
     {
       "album": {

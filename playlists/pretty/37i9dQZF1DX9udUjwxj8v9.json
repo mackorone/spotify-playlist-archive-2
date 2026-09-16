@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154350,
+  "num_followers": 154353,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Esta\u00e7\u00e3o da Luz",
+        "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 202005,
+      "name": "Esta\u00e7\u00e3o da Luz",
+      "url": "https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "20 Grandes \u00caxitos",
         "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 225546,
       "name": "Portela Na Avenida",
       "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Esta\u00e7\u00e3o da Luz",
-        "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 202005,
-      "name": "Esta\u00e7\u00e3o da Luz",
-      "url": "https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk"
     },
     {
       "added_at": "2025-07-11 03:00:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Θυμόμαστε τον Γιώργο Μαζωνάκη και την μουσική κληρονομιά του.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,365 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,516 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 39 | [I Kardia Mou](https://open.spotify.com/track/6Ueg5EDfszVrgNsxzvnWTu) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [I Kardia Mou](https://open.spotify.com/album/0j2InohDPy1DCd28b1OU4Q) | 4:39 |
 | 40 | [Savvato](https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq) | [M.Hustler](https://open.spotify.com/artist/4DQVXkgvUChjlRvkwoLc1a), [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Savvato](https://open.spotify.com/album/1NkUIqDz4AEyWcIH8z13sk) | 3:54 |
 
-Snapshot ID: `AAAAADhSOuN2c7mFjwzCTrgpIZG82lIV`
+Snapshot ID: `AAAAAGd44FS51f6uyX8IXBQJ0HHeBoXk`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 157940,
+  "num_followers": 157968,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACmsI/OMGBcAUIW8J/arRSM",
+  "snapshot_id": "aqc5AAAAAAD5ip+DmX2/FUUWUVWQAfbm",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 197681,
-      "name": "Dry Spell",
-      "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
     },
     {
       "added_at": null,
@@ -116,7 +100,7 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
       "artists": [
         {
@@ -124,9 +108,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 231419,
-      "name": "Back On The Wagon",
-      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
     },
     {
       "added_at": null,
@@ -190,15 +174,11 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213382,
-      "name": "Uncertain, TX (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
+      "duration_ms": 231419,
+      "name": "Back On The Wagon",
+      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
     },
     {
       "added_at": null,
@@ -258,11 +238,15 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 231253,
-      "name": "I Believe In Ghosts",
-      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
+      "duration_ms": 213382,
+      "name": "Uncertain, TX (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ"
     },
     {
       "added_at": null,
@@ -320,7 +304,7 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 256475,
-      "name": "Loneliest Girl",
-      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
+      "duration_ms": 231253,
+      "name": "I Believe In Ghosts",
+      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
     },
     {
       "added_at": null,
@@ -384,21 +368,17 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
       "artists": [
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 219357,
-      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
-      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
+      "duration_ms": 256475,
+      "name": "Loneliest Girl",
+      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
     },
     {
       "added_at": null,
@@ -935,6 +915,26 @@
       "duration_ms": 206306,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 219357,
+      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
     }
   ],
   "unique_name": "This Is Kacey Musgraves",

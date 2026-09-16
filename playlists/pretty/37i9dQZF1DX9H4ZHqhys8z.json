@@ -1,12 +1,12 @@
 {
   "description": "\u0393\u03b9\u03bf\u03c1\u03c4\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 5 \u03a7\u03c1\u03cc\u03bd\u03b9\u03b1 EQUAL. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Danae",
-  "num_followers": 29047,
+  "num_followers": 29046,
   "original_name": "EQUAL Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHitkkSQWmKM183M/jFoBO1wnvMW",
+  "snapshot_id": "AAAAAHLY9cNrLMVU/qz9CGyXPwrMoesE",
   "tracks": [
     {
       "added_at": "2026-09-01 21:00:37",
@@ -131,6 +131,26 @@
       "duration_ms": 191304,
       "name": "LOCA",
       "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
+    },
+    {
+      "added_at": "2026-09-01 21:00:37",
+      "album": {
+        "name": "Tha Tha",
+        "url": "https://open.spotify.com/album/5Izp0q7zGruZeSGZgRA49Y"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "duration_ms": 151007,
+      "name": "Tha Tha",
+      "url": "https://open.spotify.com/track/6rB1MPGqlPvziOpkYwFoYT"
     },
     {
       "added_at": "2026-09-01 21:00:37",

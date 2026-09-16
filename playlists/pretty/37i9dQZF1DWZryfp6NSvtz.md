@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,856 likes - 165 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,915 likes - 165 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 88 | [Sleepwalker](https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Blood Of Your Empire](https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k) | 3:48 |
 | 89 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |
 | 90 | [Landfall](https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Landfall](https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE) | 3:42 |
-| 91 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 91 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 92 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
 | 93 | [Kid](https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Kid](https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp) | 3:40 |
 | 94 | [Chewing Gum \- Live from El Coyote](https://open.spotify.com/track/5wn9lYbD54JqAnly1aa88H) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Truth or Consequence \(Live from El Coyote\)](https://open.spotify.com/album/5kSISO8iA676CFlKo2fU0R) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Francis Mercier's favorite tracks. Updated regularly. Curated by Francis Mercier. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 26891,
+  "num_followers": 26919,
   "original_name": "Francis Mercier's Track IDs",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
         }
       ],
       "duration_ms": 201700,

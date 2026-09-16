@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Bovska, po prostu Kajtek
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,041 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,040 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 29 | [Postscriptum](https://open.spotify.com/track/33giI3FG6oQ29n1WWCkj95) | [Marcin Januszkiewicz](https://open.spotify.com/artist/7hwkYGtvw8dtGvxncSwlez) | [Postscriptum](https://open.spotify.com/album/3DU5E93qXESUvq5umRrQKI) | 5:12 |
 | 30 | [psikus](https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [psikus](https://open.spotify.com/album/4Exm7BKeJN8FBxRACtbkcd) | 2:53 |
 | 31 | [Sentymental](https://open.spotify.com/track/5PZXKZWNWUGCVDpiPYmtBc) | [Pełnia](https://open.spotify.com/artist/39XQyulUHjrvqGQ1bo5rtF) | [Sentymental](https://open.spotify.com/album/7l6wWWYZA6ke25pMNpNWfB) | 3:20 |
-| 32 | [Hypnotize](https://open.spotify.com/track/7yLPQTKxwBYBmOs41PievW) | [James Arp](https://open.spotify.com/artist/4Vwe0NpRHHqoDbExkdFOJV), [Karol Tufter](https://open.spotify.com/artist/6WSqeOXjDtdHfSeYrszmPH), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud) | [Hypnotize](https://open.spotify.com/album/4WBhnMUsykpgG1lOvZ6SGY) | 3:29 |
+| 32 | [Hypnotize](https://open.spotify.com/track/7yLPQTKxwBYBmOs41PievW) | [James Arp](https://open.spotify.com/artist/4Vwe0NpRHHqoDbExkdFOJV), [karol tufter](https://open.spotify.com/artist/0GkF3eeF3LCNLLBNicKCrg), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud) | [Hypnotize](https://open.spotify.com/album/4WBhnMUsykpgG1lOvZ6SGY) | 3:29 |
 | 33 | [Schron](https://open.spotify.com/track/3JsSSnOvCje1nip7yLiymz) | [Ana Andrzejewska](https://open.spotify.com/artist/2D37AVlAm1JBWFTpMfjJpW), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [Schron](https://open.spotify.com/album/7oQKhZEFbzS8xCLWx2sq3S) | 3:02 |
 | 34 | [KID](https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KID](https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1) | 3:40 |
 | 35 | [MELINDA](https://open.spotify.com/track/0pOFujPBURzzSaqwnuIRS2) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [MELINDA](https://open.spotify.com/album/6YswSoEJCuRkg7n9dn2nS2) | 3:45 |

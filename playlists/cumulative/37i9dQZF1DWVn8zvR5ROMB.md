@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Eric Church, Luke Bryan, Warren Zeiders with Bellah Mae and more.
 
-13,863 songs - 31 day 14 hr 13 min
+13,865 songs - 31 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11344,6 +11344,7 @@
 | [Take My Breath Away](https://open.spotify.com/track/04i1Sf3VI5zM4T8wPrAjOT) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [Take My Breath Away](https://open.spotify.com/album/4sHY9lhzS7Ky3IOEPonbLx) | 2:29 | 2022-11-11 | 2022-11-19 |
 | [Take My Life](https://open.spotify.com/track/6mJTy9XoiJIHXzVLMXwTYj) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Take My Life](https://open.spotify.com/album/4WRZE2BUfEylXIHFskmg85) | 3:20 | 2022-05-20 | 2022-05-28 |
 | [Take My Man](https://open.spotify.com/track/4ti0ZVt37jTpTGRsP54eOO) | [Madison Olivia](https://open.spotify.com/artist/2lgnSJZ6C0xFNqPRQBtJDM) | [Take My Man](https://open.spotify.com/album/0mxykhTJ0DQB9o8jq2IFGn) | 3:57 | 2026-01-23 | 2026-02-07 |
+| [Take My Time](https://open.spotify.com/track/2Nqx1u8Gq38wse9NsXklCb) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Take My Time](https://open.spotify.com/album/6ei5ORifYf5LgjPVE85JBZ) | 4:08 | 2026-09-15 |  |
 | [Take Off](https://open.spotify.com/track/1KhJOoLDbOuL6yyhDszzqA) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Take Off](https://open.spotify.com/album/0diogpeOTG17IyygwU6bVQ) | 2:42 | 2023-05-12 | 2023-05-20 |
 | [Take on Me](https://open.spotify.com/track/5q4BaPcqJ5gmAcWMk3nm0O) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [The Blue Canyon Sessions](https://open.spotify.com/album/6U2dMDLBUWY1oagZMmDJhz) | 3:09 | 2026-02-20 | 2026-02-28 |
 | [TAKE ONLY WHAT YOU NEED](https://open.spotify.com/track/1WlnYflBTcXj2er9qe1svq) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [TAKE ONLY WHAT YOU NEED](https://open.spotify.com/album/3NUnsXehARg3ABsFq0LqCG) | 3:46 | 2021-12-31 | 2022-01-22 |
@@ -13376,6 +13377,7 @@
 | [Wild West](https://open.spotify.com/track/3FIhBQpEGebgXTOFtWQCzZ) | [Nick Davisson](https://open.spotify.com/artist/1at890go0vxaofaRfn9Qfd) | [Wild West](https://open.spotify.com/album/6HDInScQ8RwZ2MtjlHi0da) | 3:02 | 2022-06-17 | 2022-06-25 |
 | [Wild West Woman](https://open.spotify.com/track/7wSmfa2OKfieWQ5hIc1Ak0) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Wild West Woman](https://open.spotify.com/album/43DcPmpLJOkAjf7oSprEhS) | 2:30 | 2022-09-30 | 2022-10-22 |
 | [Wild Wild West](https://open.spotify.com/track/3ZC8vUJMOpy6wsCamiLyGl) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Wild Wild West](https://open.spotify.com/album/4KDC3O88LIjOdyLCtryqtq) | 3:01 | 2024-06-14 | 2024-06-22 |
+| [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 | 2026-09-15 |  |
 | [Wild Wind](https://open.spotify.com/track/72EbGRAdgdlTcn3vNGfqgG) | [Joey Hendricks](https://open.spotify.com/artist/3QhaBtqxJgyreg7CO1wjCV) | [Wild Wind](https://open.spotify.com/album/20BjnjLcpcDGhxTyzg9Ipz) | 2:54 | 2023-03-31 | 2023-04-09 |
 | [Wild Woman](https://open.spotify.com/track/01E4jtXV2RosSGCZTaintB) | [Everette](https://open.spotify.com/artist/7LsMipSvTHNPCHQwuKuz2C) | [Kings of the Dairy Queen Parking Lot \- Side B](https://open.spotify.com/album/3aJbT8r2f8gFTtkPnQTK6M) | 2:30 | 2022-10-07 | 2022-10-15 |
 | [Wild Woman](https://open.spotify.com/track/7rPTDfIQHCKrm7BJWKR1b5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:08 | 2022-06-10 | 2022-06-18 |

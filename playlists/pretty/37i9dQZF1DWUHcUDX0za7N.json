@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Kayode",
-  "num_followers": 86133,
+  "num_followers": 86149,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -635,22 +635,6 @@
       "duration_ms": 170000,
       "name": "Splendid (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 153070,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -695,6 +679,38 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 153070,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
+    },
+    {
+      "added_at": "2026-09-11 00:01:40",
+      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 195692,
       "name": "BITCH & MONEY",
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": "2026-09-11 00:01:40",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Pass By",
-        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
+        "name": "Aimoye",
+        "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
       },
       "artists": [
         {
-          "name": "Yan Yan",
-          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
         }
       ],
-      "duration_ms": 189675,
-      "name": "Pass By",
-      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
+      "duration_ms": 134265,
+      "name": "Aimoye",
+      "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
     },
     {
       "added_at": "2026-09-11 00:01:40",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-09-11 00:01:40",
       "album": {
-        "name": "Aimoye",
-        "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
+        "name": "Pass By",
+        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+          "name": "Yan Yan",
+          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
         }
       ],
-      "duration_ms": 134265,
-      "name": "Aimoye",
-      "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
+      "duration_ms": 189675,
+      "name": "Pass By",
+      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
     }
   ],
   "unique_name": "Naija Bars ",

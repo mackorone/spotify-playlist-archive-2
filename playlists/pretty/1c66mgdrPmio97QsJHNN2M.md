@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,951 likes - 204 songs - 10 hr 53 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,950 likes - 215 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,16 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 202 | [Yellow Road](https://open.spotify.com/track/4uC8hjDLHMbx7bs6gvn5QX) | [noa swan](https://open.spotify.com/artist/2aBAMK4lA2eqroAgPkBvwX) | [Yellow Road](https://open.spotify.com/album/1Tigu0m6sNPzu2PSpa6MEv) | 3:25 |
 | 203 | [Take a Bow](https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:46 |
 | 204 | [Winter To stay](https://open.spotify.com/track/0tA86NToB1ZO71M5V5OWeL) | [Lane Buwalda](https://open.spotify.com/artist/1GE6zHJlUPT7ZLeNuXNnKN) | [Winter To stay](https://open.spotify.com/album/48KpyK8AzqZd8jRkL3CRil) | 3:15 |
+| 205 | [The Original Soundtrack](https://open.spotify.com/track/7ATeXj7NWzOtk6C0z6uNyu) | [NOAA CAIRŌ](https://open.spotify.com/artist/7BulwXcTiaSWLyWFieF5mq) | [The Original Soundtrack](https://open.spotify.com/album/4KtHPaxICyGUKO0hLPTdfO) | 2:41 |
+| 206 | [FUN](https://open.spotify.com/track/6eabxGMsVX3e2gTXESpG8Z) | [MayowaWld](https://open.spotify.com/artist/5ohZgJHjQvCrPHnE11Byky) | [FUN](https://open.spotify.com/album/4I7QQya3FqxfG8AqsELtAe) | 2:27 |
+| 207 | [CAPITULO 3](https://open.spotify.com/track/4d4Yn8sxrdWss0lrQN6aEN) | [Cata Quiqui](https://open.spotify.com/artist/0eXr3CcKd4H7gDSO4Pwn40) | [CAPITULO 3](https://open.spotify.com/album/2khvQeuGiqnTlSp9WyXV2d) | 3:04 |
+| 208 | [The Pen Remembers](https://open.spotify.com/track/32fx89KRrrXLzM5XO4Gqao) | [Lisa Sanders](https://open.spotify.com/artist/2BQg25aaLNzcIM8EuDMDvv) | [The Pen Remembers](https://open.spotify.com/album/44Ixw7AgWAUBKLPIIlMZ25) | 2:38 |
+| 209 | [Blissful Nights](https://open.spotify.com/track/6WuTRGya3Ld30Hi1BE2yPx) | [Lefteris Anastasopoulos](https://open.spotify.com/artist/1STZF1jgnSEOebvMExqcK9) | [Almirra, Vol\. 1](https://open.spotify.com/album/282bLDrWTksaeBk3Jvz3rc) | 4:01 |
+| 210 | [The Girl with the Lantern](https://open.spotify.com/track/3KBYlKNVk6pAF8IHBtrav2) | [Armando Iaccarino](https://open.spotify.com/artist/0E7SMzYXeQO7QkDxGnp42w) | [The Girl with the Lantern](https://open.spotify.com/album/21PkLNYmDADkO9245ONRca) | 3:16 |
+| 211 | [Over U \- Radio Edit](https://open.spotify.com/track/0E4SsT8F4pXtEWgtsMu0J1) | [Rob le Duc](https://open.spotify.com/artist/1sTi49hyM8Eu6oqU39raFt) | [Over U](https://open.spotify.com/album/7klShxUc3WVeKcHZE1nivz) | 3:23 |
+| 212 | [Feel the Vibes](https://open.spotify.com/track/2Yn3ht6bIMQiJhY8IRIKdn) | [Eva Ku](https://open.spotify.com/artist/2g0TDqQxF7SeIZpyloApb0) | [Feel the Vibes](https://open.spotify.com/album/7lgV9Fkn6XwxrWCQrp15zG) | 2:27 |
+| 213 | [Tan Lines and State Lines](https://open.spotify.com/track/23crcffz1ZBlrB5AdrNOd8) | [DonMac](https://open.spotify.com/artist/19GLJWGupNCtNBW2bVxDJV) | [Tan Lines and State Lines](https://open.spotify.com/album/2AGGfIkjuUi7VovRmJeHse) | 3:09 |
+| 214 | [Khwaab \- A Night and an Unfinished Melody](https://open.spotify.com/track/0jFSvjCDmIdhjWHHTi82LP) | [Suchetana Sinha](https://open.spotify.com/artist/4ZJMwITPhUFmoAejtf95cC) | [Khwaab \- A Night and an Unfinished Melody](https://open.spotify.com/album/7GFwGjR9uxshu6nFsyMHcq) | 3:08 |
+| 215 | [Big Balls](https://open.spotify.com/track/17Zn1bqw3V8qkqUqDPooZ2) | [Sergio Brooklyn](https://open.spotify.com/artist/27OHfprA8m8vtPOsF5oBSl), [Jessie Wagner](https://open.spotify.com/artist/1GOWkEyghfYevfkCg4yych) | [Big Balls](https://open.spotify.com/album/56yG8gjTEmoOqYEcksfv62) | 2:32 |
 
-Snapshot ID: `AAA8U6S/p4hA6TCQFk8BAib3eAuGNo20`
+Snapshot ID: `AAA8XojQC1zZoz0cXyAjeGepNLRYR6VR`

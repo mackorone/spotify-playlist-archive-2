@@ -2775,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "S'il suffisait d'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248093,
+      "name": "On ne change pas",
+      "url": "https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU"
+    },
+    {
+      "album": {
         "name": "Impossible \u00e0 aimer",
         "url": "https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX"
       },

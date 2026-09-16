@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AIRPLANE DRAGONS \- flipnote version](https://open.spotify.com/track/04m91Hv55D7E0DY8l2T3fN) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [AIRPLANE DRAGONS](https://open.spotify.com/album/7q8TFgYGUEI9SDCXIgvsTE) | 3:15 |
+| 1 | [AIRPLANE DRAGONS](https://open.spotify.com/track/7bN4ufQWjbzjn5VzZWHvRA) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [AIRPLANE DRAGONS](https://open.spotify.com/album/7q8TFgYGUEI9SDCXIgvsTE) | 3:15 |
 | 2 | [everything tonight](https://open.spotify.com/track/3TOvGHN3gxa4LlwI529y4U) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 3:00 |
 | 3 | [THE ANTIHUMAN](https://open.spotify.com/track/2PLUQi0nRbx5lT2ncSJYYG) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [THE ANTIHUMAN](https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq) | 3:50 |
 | 4 | [DRUG](https://open.spotify.com/track/2Q7pPuFjPq1ox862ry93nQ) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [DRUG](https://open.spotify.com/album/5wtETLQm5TUNJwhl8fnEll) | 2:02 |
@@ -431,4 +431,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 421 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 422 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFyX2q6CmdQomhKsqPL6LgEQ9qsNMz`
+Snapshot ID: `AAAFy7rIyzAWXuoRJomxDUKBS3b3SWxG`

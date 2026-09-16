@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26665,
+  "num_followers": 26669,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Get Litty?",
-        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
-      },
-      "artists": [
-        {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
-        },
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Fan",
-      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "BRAND NEW",
         "url": "https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 170115,
       "name": "BRAND NEW",
       "url": "https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Fan",
+      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
     },
     {
       "added_at": "2026-08-19 00:34:26",

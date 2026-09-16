@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "DON",
+        "url": "https://open.spotify.com/album/5v3vzw90OLxBR4eagYjD9y"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "DON",
+      "url": "https://open.spotify.com/track/7frAypBRuiy1v89gqBciwz"
+    },
+    {
+      "album": {
         "name": "I-Popstar Tamil | Ep 02",
         "url": "https://open.spotify.com/album/1H4XAUBpojjbzOlg94Tipk"
       },
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 136853,
       "name": "FTS",
       "url": "https://open.spotify.com/track/6OSdeUa6eQzhxRwdv4NQCv"
@@ -2923,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "JALSA",
+        "url": "https://open.spotify.com/album/4dKVRp7yPmLsbQQwT1upW7"
+      },
+      "artists": [
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        },
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "JALSA",
+      "url": "https://open.spotify.com/track/6U9u32BeswErszKG7mBOAj"
+    },
+    {
+      "album": {
         "name": "I-popstar Tamil | Ep 10",
         "url": "https://open.spotify.com/album/7lLPmCYhvJymJ0t01Xm3J0"
       },
@@ -3598,7 +3638,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 184273,
       "name": "KidShot",
       "url": "https://open.spotify.com/track/7v0j5B4ty1vbJ2MStc98KZ"
@@ -4792,7 +4832,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 155200,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/6gaan240UVb7yUakqUvhdu"
@@ -7094,7 +7134,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 158078,
       "name": "Straight From The Underground",
       "url": "https://open.spotify.com/track/7w9Pbf9XCspTKS6s94YUzB"
@@ -7242,6 +7282,28 @@
       "duration_ms": 222026,
       "name": "Surviva (feat. Yogi B & Mali)",
       "url": "https://open.spotify.com/track/0jvNc73pMCkyHTchaQu6NV"
+    },
+    {
+      "album": {
+        "name": "Swag Thamizhachi",
+        "url": "https://open.spotify.com/album/76xGvhXI7KtCkljpSKYg5s"
+      },
+      "artists": [
+        {
+          "name": "Tupakeys",
+          "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
+        },
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228358,
+      "name": "Swag Thamizhachi",
+      "url": "https://open.spotify.com/track/5I6nniRor9GxNV7fOL5ElK"
     },
     {
       "album": {

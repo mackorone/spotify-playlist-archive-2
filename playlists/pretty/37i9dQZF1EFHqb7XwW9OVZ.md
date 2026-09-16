@@ -10,4 +10,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 |
 
-Snapshot ID: `AccUPAAAAAC3lMuVoM6i/1tWg9ncUrrr`
+Snapshot ID: `AccZ3AAAAACyX6R/xyLeb71RIyK7RZOA`

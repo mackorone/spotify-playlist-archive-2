@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tinashe, The Avalanches, Te Wehi, daine, Jhené Aiko, Kendrick Lamar + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,256 likes - 83 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,223 likes - 83 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322237,
+  "num_followers": 322246,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Coping Habits",
-        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 159863,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 169997,
       "name": "Lurk - Mixed",
       "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -975,38 +991,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "baby\u2019s out of luck again",
-        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "carry you on my broken wings",
-      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Back Into Your Arms",
         "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 263801,
       "name": "Back Into Your Arms",
       "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "baby\u2019s out of luck again",
+        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "carry you on my broken wings",
+      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
-        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        },
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 187364,
-      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
-      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Blue Arcade",
         "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
       },
@@ -1331,6 +1307,22 @@
       "duration_ms": 217647,
       "name": "Blue Arcade",
       "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2025-05-01 21:52:32",

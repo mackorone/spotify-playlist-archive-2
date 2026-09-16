@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 71029,
+  "num_followers": 71036,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAAyhsPEqe5Q2aKtVo15Mnhm",
+  "snapshot_id": "aqc5AAAAAACsrB7mJnOb5s5vchUtgu7L",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia M\u00e1s",
-        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165355,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
-        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/6uIWZPoki2fcKQ2oRLAHxf"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 202320,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/1Whtxte94G9RYoJSAVCSCz"
     },
     {
       "added_at": null,
@@ -923,26 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 187704,
-      "name": "Otra Vez Borracho - En Vivo",
-      "url": "https://open.spotify.com/track/15cYgEP54Ep1dhq0rPGuEQ"
+      "duration_ms": 194146,
+      "name": "En Mil Pedazos",
+      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
     },
     {
       "added_at": null,
@@ -963,18 +955,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 187560,
-      "name": "Me Regalo Contigo",
-      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
+      "duration_ms": 187704,
+      "name": "Otra Vez Borracho - En Vivo",
+      "url": "https://open.spotify.com/track/15cYgEP54Ep1dhq0rPGuEQ"
     }
   ],
   "unique_name": "This Is Lalo Mora",

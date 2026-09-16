@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Dells TMX and Holy Drill
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,992 likes - 98 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,021 likes - 98 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

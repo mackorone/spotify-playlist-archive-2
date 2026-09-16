@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 23382,
+  "num_followers": 23398,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/0xqUYNcjJFagQmOfPYNvzP"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "I Think I Like Am (Radio Edit)",
+      "url": "https://open.spotify.com/track/1des1aVesUVx42QDkrMkYK"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Life Is Rough & Smooth",
         "url": "https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 283219,
       "name": "Swagger",
       "url": "https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Progress",
-        "url": "https://open.spotify.com/album/0xqUYNcjJFagQmOfPYNvzP"
-      },
-      "artists": [
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "I Think I Like Am (Radio Edit)",
-      "url": "https://open.spotify.com/track/1des1aVesUVx42QDkrMkYK"
     },
     {
       "added_at": "2026-03-16 11:45:06",

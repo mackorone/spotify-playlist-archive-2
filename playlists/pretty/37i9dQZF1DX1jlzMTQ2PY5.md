@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,696 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,720 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 40 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 41 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
 | 42 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
-| 43 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
-| 44 | [Rumination](https://open.spotify.com/track/5YY9X4MXksJ5oJ1cfGFQPN) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Rumination](https://open.spotify.com/album/3HPZHv2gZFbDDV3qwIs37q) | 4:40 |
+| 43 | [Rumination](https://open.spotify.com/track/5YY9X4MXksJ5oJ1cfGFQPN) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Rumination](https://open.spotify.com/album/3HPZHv2gZFbDDV3qwIs37q) | 4:40 |
+| 44 | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [ARP2600 \(LOVE ME/LEFT ME\)](https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX) | 2:56 |
 | 45 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
 | 46 | [Time \- Nu: Tone Remix](https://open.spotify.com/track/4fVU6IM0HNStUA3Qkp9Brb) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ) | [Time \(Nu:Tone Remix\)](https://open.spotify.com/album/1kX2nhwX2PebPYl06D3BZ9) | 5:20 |
 | 47 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |

@@ -4,7 +4,7 @@
 
 > mostly furry
 
-538 songs - 1 day 2 hr 6 min
+540 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Hell’s Greatest Dad](https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Sarah Stiles](https://open.spotify.com/artist/7AdaaN0SN1NF24cTg9RPga), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 2:13 | 2024-05-14 |  |
 | [Hi I'm](https://open.spotify.com/track/5AvBmieGHigPWbnBAbOYac) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 0:53 | 2025-04-22 |  |
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2026-07-17 |  |
+| [HOMESICK WANDERLUST](https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Homesick Wanderlust](https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy) | 4:30 | 2026-09-15 |  |
 | [Howl](https://open.spotify.com/track/1mRrCv92xkktbJFAihMIw2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Howl](https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g) | 3:57 | 2024-05-15 |  |
 | [Howl at the Moon](https://open.spotify.com/track/4DDWkXK6qUNdsHlz9fwnC9) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:34 | 2023-11-20 |  |
 | [Hyperactive](https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Hyperactive](https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG) | 2:34 | 2025-04-09 |  |
@@ -277,12 +278,13 @@
 | [Lost in the Moment](https://open.spotify.com/track/4Z8iLTWlUz1FpJBnPCCVOD) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 3:12 | 2023-12-07 |  |
 | [Love & Romance](https://open.spotify.com/track/6etKUfEA3a9zhh7DnFIWPV) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH) | [Roommates](https://open.spotify.com/album/4Cwb4MFZhF8AWM7Olrv5Eq) | 3:07 | 2024-08-03 |  |
 | [Love and Affection](https://open.spotify.com/track/7rPUcqE7gKUE0BO8lX85bt) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Love and Affection](https://open.spotify.com/album/0aeQr5BmaWYJeQ5JJqDqFh) | 3:40 | 2023-11-18 |  |
+| [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 | 2026-09-15 |  |
 | [Love my fursuit but what about me](https://open.spotify.com/track/0ZcQhlsqYvdjf4OyUDRTcG) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:48 | 2025-04-21 |  |
 | [LOVESICK](https://open.spotify.com/track/03JIcQe4Z1te3Ct7gXDYk2) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LOVESICK](https://open.spotify.com/album/6MwQkbIxD6S2H8bB3gTsT0) | 4:10 | 2024-05-14 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2026-08-24 |  |
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-05-14 |  |
 | [Luminescence](https://open.spotify.com/track/2jCB04KfiEgG2PjFF56hwo) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/6Azh0ISCBfxivr4685Q28P) | 4:25 | 2026-09-08 |  |
-| [Luminescence \- Instrumental](https://open.spotify.com/track/4Evj10o7OnHyyEftjyEIkL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-07-19 |  |
+| [Luminescence \- Instrumental](https://open.spotify.com/track/4Evj10o7OnHyyEftjyEIkL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-07-19 | 2026-09-16 |
 | [M3 N MIN3](https://open.spotify.com/track/5TwX6zzWeK15M0mm6StdLA) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [M3 N MIN3](https://open.spotify.com/album/02zERHR9Le4zISwtKCSmpq) | 2:11 | 2026-08-24 |  |
 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 | 2026-08-24 |  |
 | [Majira Strawberry](https://open.spotify.com/track/4u1c96LXUkj0aIms8TlSSD) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:19 | 2024-05-15 |  |

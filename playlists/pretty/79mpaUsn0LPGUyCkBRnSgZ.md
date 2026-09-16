@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 767 songs - 2 day 1 hr 16 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 773 songs - 2 day 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,5 +775,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 765 | [Among a Hundred Faces](https://open.spotify.com/track/4sUfJz2S09CH9UUro6eSOZ) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Dystopian](https://open.spotify.com/album/5gz3T0p4QmHrKoSklRwyD6) | 3:05 |
 | 766 | [Hey Chicken](https://open.spotify.com/track/79lxyBUahh6PdMgRtKscFV) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:02 |
 | 767 | [ENGLISH PARTY](https://open.spotify.com/track/70hWEnSlRAI5ibDlB8LI8Q) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 3:26 |
+| 768 | [The Drums](https://open.spotify.com/track/3S4eppvnUjzSCwqKFNhGSS) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Spontaneous Music Live](https://open.spotify.com/album/6gzpfdTXwjYjsp9VTvTyNu) | 23:46 |
+| 769 | [Packs of Three](https://open.spotify.com/track/6ZqvM9Y20yEH9e63vVPbAS) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Philophobia](https://open.spotify.com/album/1JemlQwm0TzoMjbQmsqARk) | 3:23 |
+| 770 | [Allatonceness](https://open.spotify.com/track/4lDQdT9Uqy1bwKVSVoOWm5) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it don't give a fuck anymore](https://open.spotify.com/album/6dr9sFzpjzwoawzicFpTjc) | 4:28 |
+| 771 | [睡蓮](https://open.spotify.com/track/6cX1oU47IhYnHhraczdskK) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [案山子](https://open.spotify.com/album/7LfndVfgDfB9e7BwHPDuOT) | 4:34 |
+| 772 | [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/4RB8o4DYcSCai4dVUAzTP0) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Croz Boyce](https://open.spotify.com/album/1DqAB49q6QhkUxs2qguMBj) | 4:59 |
+| 773 | [Oracle Road](https://open.spotify.com/track/4vMFEE1IsOBV4Ct4RNizS7) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Can I Get A Pack Of Camel Lights?](https://open.spotify.com/album/1gBYIHCA0Hdn8BFCTK5TgV) | 5:23 |
 
-Snapshot ID: `AAAJqBGurpazOaJ879kOdhDKqtt/6WLt`
+Snapshot ID: `AAAJsAy7jePzpSByQJTyzGe4lhi8Ua3Z`

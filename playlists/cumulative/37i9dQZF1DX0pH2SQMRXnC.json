@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1BdEeKu1QwHrrikFShyAIb"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222817,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/6aIUXMntfKupgvs552qTTZ"
+    },
+    {
+      "album": {
         "name": "Above Heaven",
         "url": "https://open.spotify.com/album/75tfVG2HRiW7ztY7LhIBw2"
       },
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 199941,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
@@ -3917,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "D13MENSION",
+        "url": "https://open.spotify.com/album/36ch95F2O1NqYke8C9DvN2"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "D13MENSION",
+      "url": "https://open.spotify.com/track/2BDomGju8g74Iywz15Vqa4"
+    },
+    {
+      "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/77vCE2hnQJrDj2ADGtiW1D"
       },
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 127500,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
@@ -4647,6 +4683,28 @@
     },
     {
       "album": {
+        "name": "Dirty Bassline",
+        "url": "https://open.spotify.com/album/1iezA1XBoMgZZkQfbZnmw6"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153375,
+      "name": "Dirty Bassline",
+      "url": "https://open.spotify.com/track/3KFAczT5MjQPkZW8mHibML"
+    },
+    {
+      "album": {
         "name": "Dirty Money",
         "url": "https://open.spotify.com/album/1zmpt4KQ7ePMwy1CQrX6Qq"
       },
@@ -5070,7 +5128,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 206437,
       "name": "DOWN DOWN",
       "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
@@ -10117,6 +10175,28 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203334,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
+    },
+    {
+      "album": {
         "name": "Irrenhaus",
         "url": "https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif"
       },
@@ -10516,7 +10596,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 139500,
       "name": "Kann es sein\u2026 (dass Du dumm bist?)",
       "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
@@ -16502,7 +16582,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
@@ -16658,6 +16738,24 @@
       "duration_ms": 185209,
       "name": "Runaway (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/3y2QrAjiVUzCCAyO35HYOH"
+    },
+    {
+      "album": {
+        "name": "Runaway (U & I)",
+        "url": "https://open.spotify.com/album/3GiRVHT6OamD78C6zwIzWh"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/2GU0nAkkzivhIbTEpebuXo"
     },
     {
       "album": {
@@ -22328,7 +22426,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 152293,
       "name": "When You\u2019re Gone",
       "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
@@ -22800,7 +22898,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX"

@@ -2,7 +2,7 @@
 
 ### [Farmers Market](https://open.spotify.com/playlist/37i9dQZF1DX9pryhDLql25)
 
-> fresh produce, iced coffee, & all the lovely spring things
+> fresh air, hot coffee, & fall harvests
 
 277 songs - 17 hr 13 min
 

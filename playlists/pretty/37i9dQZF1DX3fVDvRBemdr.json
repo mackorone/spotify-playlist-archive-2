@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop. Cover: Monique Smit & Quido van de Graaf",
-  "num_followers": 156787,
+  "num_followers": 156802,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmMSaxZjIK2SuAa+1hWqJjZSTmn",
+  "snapshot_id": "AAAAAPgtwAtFHA9plr0kyYpQ6cKkCDqt",
   "tracks": [
     {
       "added_at": "2026-09-10 22:01:39",
@@ -63,6 +63,22 @@
       "duration_ms": 160985,
       "name": "Ik Weet Niet Waarom",
       "url": "https://open.spotify.com/track/5gLAbNaOOaH7rCxc74t9CY"
+    },
+    {
+      "added_at": "2026-09-10 22:01:39",
+      "album": {
+        "name": "E\u00e9n Nacht Met Jou",
+        "url": "https://open.spotify.com/album/5HGDS8HbfQg4I6dpaJiwmQ"
+      },
+      "artists": [
+        {
+          "name": "Milan Kirstein",
+          "url": "https://open.spotify.com/artist/5TVNyQeOLjtOh2a0nXI5eb"
+        }
+      ],
+      "duration_ms": 188922,
+      "name": "E\u00e9n Nacht Met Jou",
+      "url": "https://open.spotify.com/track/0gO1hVU1WmNTZuYoDj5oJZ"
     },
     {
       "added_at": "2026-09-10 22:01:39",
@@ -151,6 +167,22 @@
     {
       "added_at": "2026-09-10 22:01:39",
       "album": {
+        "name": "Blote Brasa",
+        "url": "https://open.spotify.com/album/1evDDrEhN7CiyscrGGvYX9"
+      },
+      "artists": [
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "Blote Brasa",
+      "url": "https://open.spotify.com/track/77QPtv7G21PG5emqXyP7o3"
+    },
+    {
+      "added_at": "2026-09-10 22:01:39",
+      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66"
       },
@@ -167,22 +199,6 @@
       "duration_ms": 150432,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK"
-    },
-    {
-      "added_at": "2026-09-10 22:01:39",
-      "album": {
-        "name": "E\u00e9n Nacht Met Jou",
-        "url": "https://open.spotify.com/album/5HGDS8HbfQg4I6dpaJiwmQ"
-      },
-      "artists": [
-        {
-          "name": "Milan Kirstein",
-          "url": "https://open.spotify.com/artist/5TVNyQeOLjtOh2a0nXI5eb"
-        }
-      ],
-      "duration_ms": 188922,
-      "name": "E\u00e9n Nacht Met Jou",
-      "url": "https://open.spotify.com/track/0gO1hVU1WmNTZuYoDj5oJZ"
     },
     {
       "added_at": "2026-09-10 22:01:39",
@@ -215,22 +231,6 @@
       "duration_ms": 203437,
       "name": "Griekse nacht",
       "url": "https://open.spotify.com/track/6SA5rOg6OhuHThoonvTyrz"
-    },
-    {
-      "added_at": "2026-09-10 22:01:39",
-      "album": {
-        "name": "Blote Brasa",
-        "url": "https://open.spotify.com/album/1evDDrEhN7CiyscrGGvYX9"
-      },
-      "artists": [
-        {
-          "name": "SHQQ",
-          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "Blote Brasa",
-      "url": "https://open.spotify.com/track/77QPtv7G21PG5emqXyP7o3"
     },
     {
       "added_at": "2026-09-10 22:01:39",

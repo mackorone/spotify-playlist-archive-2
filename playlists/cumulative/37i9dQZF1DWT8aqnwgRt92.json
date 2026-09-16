@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "A Song Of Romance (from EP \"\u795e\u306e\u540d\u3092\")",
+        "url": "https://open.spotify.com/album/2TVH1hQVFINWeRcgutbgCJ"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "A Song Of Romance - from EP \"\u795e\u306e\u540d\u3092\"",
+      "url": "https://open.spotify.com/track/7eeuJS8GJeKJKfSPomUIWb"
+    },
+    {
+      "album": {
         "name": "\u751f\u307e\u308c\u3066\u304d\u305f\u3053\u3068\u306b\u611f\u8b1d\u3057\u306a\u3055\u3044\uff01",
         "url": "https://open.spotify.com/album/27WuW2wGrF1BI6RoB5hcFq"
       },
@@ -8152,7 +8170,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 219266,
       "name": "FLASHBULB",
       "url": "https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj"
@@ -15612,7 +15630,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 201901,
       "name": "magic number",
       "url": "https://open.spotify.com/track/1DkfVO97InBEhVKQsYXnra"
@@ -17180,6 +17198,24 @@
       "duration_ms": 255054,
       "name": "My Factor",
       "url": "https://open.spotify.com/track/5CWKezKmBJlclkNnrka4sL"
+    },
+    {
+      "album": {
+        "name": "MY LiFE!",
+        "url": "https://open.spotify.com/album/61TDRwHq2GZ08i6CUhHqIg"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "MY LiFE!",
+      "url": "https://open.spotify.com/track/0qHgDhRfR3NcaABW03sNTE"
     },
     {
       "album": {
@@ -24826,7 +24862,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 230453,
       "name": "Summer Challenger",
       "url": "https://open.spotify.com/track/6z4V5L4qXritj0Fj1vB2n4"
@@ -31596,10 +31632,28 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 199058,
       "name": "\u3053\u306e\u661f\u3067\u3088\u304b\u3063\u305f",
       "url": "https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB"
+    },
+    {
+      "album": {
+        "name": "\u3053\u306e\u84bc\u304d\u95c7\u3068\u5149",
+        "url": "https://open.spotify.com/album/0C1hyWKsJmt2Z41HDXt5bR"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "\u3053\u306e\u84bc\u304d\u95c7\u3068\u5149",
+      "url": "https://open.spotify.com/track/2f9IHIuwU2XqExsYjxADqi"
     },
     {
       "album": {
@@ -33626,6 +33680,28 @@
       "duration_ms": 207500,
       "name": "\u308f\u305f\u3057\u3060\u3051\u306e\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/5r5EKsza9KklcLYGWnr2i2"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u306fLAYRA",
+        "url": "https://open.spotify.com/album/2G460PN28z6VNCphs2DkhP"
+      },
+      "artists": [
+        {
+          "name": "LAYRA",
+          "url": "https://open.spotify.com/artist/5KYXkRu8aqzOE9aiuQ2MaV"
+        },
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172661,
+      "name": "\u308f\u305f\u3057\u306fLAYRA starring miwa",
+      "url": "https://open.spotify.com/track/1uoLyAaDI8rPQENyuYaEba"
     },
     {
       "album": {

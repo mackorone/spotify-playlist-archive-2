@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: น้ำแข็ง ทิพวรรณ
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,488 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,487 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [พ่อเธอชื่อไร? \(crazy question\)](https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3) | [chaopimburabha](https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err) | [พ่อเธอชื่อไร? \(crazy question\)](https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a) | 4:20 |
 | 50 | [OUTLAW](https://open.spotify.com/track/3SHFwAjs5axUfB75c2BCqZ) | [NATTIST](https://open.spotify.com/artist/5NZYOaq8K4iGEyIPvYsWF3) | [JAILBREAK](https://open.spotify.com/album/2MmDwg0GTKhz468gU485EN) | 3:38 |
 
-Snapshot ID: `AAAAACZOatS/kbsugecgVMjMh+MfuYUw`
+Snapshot ID: `AAAAAIvDwtLgFCCbrSHVhgz+M49TgPkP`

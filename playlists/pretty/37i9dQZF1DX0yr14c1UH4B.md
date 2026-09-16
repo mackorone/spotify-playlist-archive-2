@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Dermot Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,475 likes - 119 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,468 likes - 119 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-582 songs - 1 day 9 hr 3 min
+586 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Everyday Grind](https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH) | [Mr Boswell Thomas](https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo), [Declaime](https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw), [Dudley Perkins](https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW) | [Everyday Grind](https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK) | 2:46 | 2026-08-08 |  |
 | [Exurbia](https://open.spotify.com/track/709623tJrfsBIS0EYzRf4a) | [Gianna Sanzen](https://open.spotify.com/artist/0dOmfZPNH7WYPXVtUGG58d) | [Exurbia](https://open.spotify.com/album/35nM4mGD7u3f89almFVhxv) | 3:45 | 2025-11-17 | 2026-01-05 |
 | [Fading Inbetween](https://open.spotify.com/track/2gDwnYkg9beSsnTuLcOALl) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Hidden Fears EP](https://open.spotify.com/album/09ppLzddbk0ZuEB6rfDYsd) | 3:23 | 2025-11-01 | 2025-12-01 |
+| [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 | 2026-09-15 |  |
 | [Faith](https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:57 | 2026-01-24 | 2026-02-21 |
 | [Falling](https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk) | [Twin Phase](https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q) | [Falling](https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr) | 2:27 | 2026-08-14 |  |
 | [Falling For You](https://open.spotify.com/track/1WY1neK4eNnB4H00p2uzr1) | [MaXimum Boost](https://open.spotify.com/artist/0turMaNvhFbQANB1QKyvmN) | [Falling For You](https://open.spotify.com/album/05uHmKHapnjqAlG9QLYpU9) | 1:23 | 2025-11-17 | 2026-01-05 |
@@ -236,6 +237,7 @@
 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 | 2025-11-22 | 2026-01-05 |
 | [HITTING ON THE GAS](https://open.spotify.com/track/2yJjRs0Yr4kdrJCThvOGDu) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [HITTING ON THE GAS](https://open.spotify.com/album/2Nov4ezCXoKsjhTctOs0Sx) | 3:17 | 2026-03-09 | 2026-05-26 |
 | [Hold On](https://open.spotify.com/track/4Wo7nXA54eJJ42tzRaED3i) | [Dono](https://open.spotify.com/artist/2X3HWlSgzq0vYKsR7kACxn) | [Hold On](https://open.spotify.com/album/1MoZcHm6ZFVNzm8R7OJeSl) | 2:33 | 2025-12-23 | 2026-01-15 |
+| [Hold On](https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Hold On](https://open.spotify.com/album/4XELXp2l8b4kVxlz6bprXg) | 3:31 | 2026-09-15 |  |
 | [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 | 2026-03-24 | 2026-05-10 |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-30 | 2026-01-25 |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-11-17 | 2026-01-05 |
@@ -414,6 +416,7 @@
 | [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 | 2026-05-26 | 2026-07-02 |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 | 2026-03-10 |
 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 | 2026-04-14 |
+| [Right person, wrong timing](https://open.spotify.com/track/1Dll6Tecy4sZvgw8NeaTT9) | [UDrimmy](https://open.spotify.com/artist/1z4UTJXpmJbT6kgP7hjhMl) | [Right person, wrong timing](https://open.spotify.com/album/0Ydn5Nf80UORKungVBdMOp) | 2:28 | 2026-09-15 |  |
 | [Rise Above](https://open.spotify.com/track/1k0XOuHNzU3xsv7FtqMhuu) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:22 | 2026-06-08 | 2026-08-08 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-08-25 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
@@ -465,6 +468,7 @@
 | [Stuck](https://open.spotify.com/track/0VW5b6h9FUJSlYAqiPo6iB) | [Moneyville Dot](https://open.spotify.com/artist/6i8H73dU6MOZwkWde7OR09), [Verrion](https://open.spotify.com/artist/5qOOudA17iFKYk1qeLMpih) | [Stuck](https://open.spotify.com/album/4vzdUqBAcCskW3ACr0IKO0) | 2:59 | 2026-05-25 |  |
 | [Stuck On You](https://open.spotify.com/track/6lrSKUxM1wZaONPYU4qwWf) | [Edwin Watson](https://open.spotify.com/artist/68laXP2B5cpq7uJmP1jBS2) | [Stuck On You](https://open.spotify.com/album/03KUtQ2bJt9DYNbrTmyiDf) | 3:12 | 2025-11-08 | 2025-12-01 |
 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2026-04-17 | 2026-05-26 |
+| [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 | 2026-09-15 |  |
 | [Summertime](https://open.spotify.com/track/5tBQWcTJilTJC0PHmTmVlY) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Summertime](https://open.spotify.com/album/7BvYjg5CS0YE8SBM8v32m3) | 2:19 | 2026-04-19 | 2026-05-17 |
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
 | [Super Nova](https://open.spotify.com/track/3QTVlqPnfNKTXTOOE9Pio4) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Super Nova](https://open.spotify.com/album/6sK6GnKodPG8Xanv3feAJq) | 3:43 | 2026-05-18 | 2026-06-14 |

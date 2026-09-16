@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 381658,
+  "num_followers": 381704,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "M\u00e3e, Me Defende do Mal",
         "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 300184,
       "name": "M\u00e3e, Me Defende do Mal",
       "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Ora\u00e7\u00e3o pela Paz",
-        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
-      },
-      "artists": [
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "Ora\u00e7\u00e3o pela Paz",
-      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -891,6 +871,26 @@
       "duration_ms": 247792,
       "name": "Mostra a Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Ora\u00e7\u00e3o pela Paz",
+        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "Ora\u00e7\u00e3o pela Paz",
+      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
     },
     {
       "added_at": "2026-08-07 14:21:56",

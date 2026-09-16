@@ -2,9 +2,9 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 市川空
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-180 songs - 13 hr 45 min
+181 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [after heat](https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Color & Monochrome 3](https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev) | 4:16 | 2025-02-20 | 2025-11-09 |
 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 | 2024-02-27 | 2026-02-23 |
 | [al dente](https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [al dente](https://open.spotify.com/album/0wx01Tl9zG9tp9ezSXuEWx) | 5:01 | 2023-11-14 | 2024-12-18 |
-| [All Blues \(ending\) \- Live](https://open.spotify.com/track/4I7h1RAp269JQPafkZ0QJx) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Sora Ichikawa Concept Band \(Live\)](https://open.spotify.com/album/2aiWIkuBCn2SgeznqARzSe) | 13:45 | 2026-09-02 |  |
+| [All Blues \(ending\) \- Live](https://open.spotify.com/track/4I7h1RAp269JQPafkZ0QJx) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Sora Ichikawa Concept Band \(Live\)](https://open.spotify.com/album/2aiWIkuBCn2SgeznqARzSe) | 13:45 | 2026-09-02 | 2026-09-16 |
 | [ARISTOTELES](https://open.spotify.com/track/7AYVvhSHziAX3Myjr1glEp) | [TRIX](https://open.spotify.com/artist/6bQlQn3QZhhTtcO4TG9lkE) | [CHANCE](https://open.spotify.com/album/23zLtoecBw8w0K9HOFO4tS) | 5:23 | 2025-12-10 | 2026-08-05 |
 | [ASAYAKE](https://open.spotify.com/track/4PIeBIHVlS9rPoJBTbUPpy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MIRACLE NIGHT LIVE \(SOUND VERSION\)](https://open.spotify.com/album/1k8Aoiiz773XMXLF7S5RTl) | 4:56 | 2026-05-26 | 2026-08-05 |
 | [atom](https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [story](https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8) | 4:10 | 2023-03-14 | 2024-04-19 |
@@ -113,6 +113,7 @@
 | [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 | 2024-02-27 | 2026-01-17 |
 | [SALVALAI](https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Start Over Focus](https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092) | 4:02 | 2026-02-04 | 2026-03-03 |
 | [SAMBA DE 恋して](https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [スズ虫](https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe) | 4:17 | 2026-02-18 | 2026-06-05 |
+| [SAVAGE](https://open.spotify.com/track/3xSad8IMbiLhSsKK6x9ymw) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [SAVAGE](https://open.spotify.com/album/15XmtpPZ4a3cgLLhEoaqeg) | 3:44 | 2026-09-15 |  |
 | [seiren](https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 4:23 | 2023-04-04 | 2024-04-19 |
 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 | 2023-03-14 | 2023-04-29 |
 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 | 2023-03-14 | 2024-04-19 |

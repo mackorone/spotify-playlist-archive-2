@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2942,
+  "num_followers": 2947,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAACEWA3pZDLeFO4QMUfktsMO",
+  "snapshot_id": "aqc5AAAAAAA94GK05v3k6VEmo8XoaSKS",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las De Infante",
         "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 199498,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/48KrbONsrASr5k3xUvjvY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Consejo",
+        "url": "https://open.spotify.com/album/5WkRqZkVSZNJ1Oyr4Me3el"
+      },
+      "artists": [
+        {
+          "name": "Lety L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1ertdtyDaz22UDqYNA4CVp"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 175980,
+      "name": "Un Consejo",
+      "url": "https://open.spotify.com/track/5aru21ww1W92GM4zuWZiEu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Facilito",
         "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 194932,
       "name": "Luna de Octubre",
       "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Consejo",
-        "url": "https://open.spotify.com/album/5WkRqZkVSZNJ1Oyr4Me3el"
-      },
-      "artists": [
-        {
-          "name": "Lety L\u00f3pez",
-          "url": "https://open.spotify.com/artist/1ertdtyDaz22UDqYNA4CVp"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 175980,
-      "name": "Un Consejo",
-      "url": "https://open.spotify.com/track/5aru21ww1W92GM4zuWZiEu"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 385994,
+  "num_followers": 385964,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,18 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "Stayed Up Late (Sunrise Version)",
-        "url": "https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk"
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        },
-        {
-          "name": "paris jackson",
-          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 206165,
-      "name": "Stayed Up Late - Sunrise Version",
-      "url": "https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss"
+      "duration_ms": 209986,
+      "name": "Crying Wolf",
+      "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+        "name": "Stayed Up Late (Sunrise Version)",
+        "url": "https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk"
       },
       "artists": [
         {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
         }
       ],
-      "duration_ms": 209986,
-      "name": "Crying Wolf",
-      "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
+      "duration_ms": 206165,
+      "name": "Stayed Up Late - Sunrise Version",
+      "url": "https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/6JfAojXzbUT88dpgIjANAG"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4JUYaHt43h8SZQ4lYGsGJP"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 171576,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T"
     }
   ],
   "unique_name": "Rainy Day",

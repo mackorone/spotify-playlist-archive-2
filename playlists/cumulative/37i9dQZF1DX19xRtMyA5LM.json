@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'T Moest Echt Zo Zijn",
+        "url": "https://open.spotify.com/album/4mX4nvMn4GAiKviF2J5h39"
+      },
+      "artists": [
+        {
+          "name": "SHEP",
+          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "'T Moest Echt Zo Zijn",
+      "url": "https://open.spotify.com/track/7jEj8ZgKCfLT7pg8oQjpcT"
+    },
+    {
+      "album": {
         "name": "1+1 (Outside)",
         "url": "https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 140689,
       "name": "208 & Polo's",
       "url": "https://open.spotify.com/track/4EfuG976Yv7VEErj0Bm3mb"
@@ -4276,6 +4294,28 @@
       "duration_ms": 153128,
       "name": "H!GHEST FLEX",
       "url": "https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp"
+    },
+    {
+      "album": {
+        "name": "Haast",
+        "url": "https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
+        },
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Haast",
+      "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
     },
     {
       "album": {
@@ -8780,7 +8820,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 149629,
       "name": "Proces",
       "url": "https://open.spotify.com/track/0M5Plpj3jEOMxBObus0OsA"
@@ -9959,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "Spoedassistentie",
+        "url": "https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF"
+      },
+      "artists": [
+        {
+          "name": "BVL",
+          "url": "https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "Spoedassistentie",
+      "url": "https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9"
+    },
+    {
+      "album": {
         "name": "Spoil Her",
         "url": "https://open.spotify.com/album/6ZkYP7u5ckhoRs6NmyWF7M"
       },
@@ -10428,7 +10486,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 186164,
       "name": "Technisch",
       "url": "https://open.spotify.com/track/1EgJppxmTVC8lkvab5kndk"

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33893,
+  "num_followers": 33892,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "The Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
+      },
+      "artists": [
+        {
+          "name": "Jodymoon",
+          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "The Machine - Radio Edit",
+      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "The Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
-      },
-      "artists": [
-        {
-          "name": "Jodymoon",
-          "url": "https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "The Machine - Radio Edit",
-      "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Nashville Dreaming",
         "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 234584,
       "name": "Nashville Dreaming",
       "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
-      },
-      "artists": [
-        {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
-        }
-      ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-05-21 22:00:09",

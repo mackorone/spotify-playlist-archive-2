@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,836 songs - 39 day 21 hr 47 min
+16,839 songs - 39 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4721,6 +4721,7 @@
 | [Found you](https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15) | [Found you](https://open.spotify.com/album/56YzyNc2YZk4CX9wNcC30t) | 4:11 | 2023-12-16 | 2024-01-09 |
 | [Four Seasons](https://open.spotify.com/track/3k0hgUmTDVosCNHYr8zIPO) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Four Seasons \(Hear Me: Our Summer\)](https://open.spotify.com/album/3Bism8E4WaVGFt4oaS9hrZ) | 3:03 | 2024-11-05 | 2024-11-30 |
 | [Four Seasons](https://open.spotify.com/track/0ZBb57iNqoGilw96rKNxSx) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [Four Seasons](https://open.spotify.com/album/78tFElLlN8JYVK8F3GKGeq) | 3:38 | 2024-11-04 | 2024-11-30 |
+| [Four seasons, and you](https://open.spotify.com/track/0WG8bF9hcCRTptbNk9xySb) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Lee;Make \(Fragmenta Amoris\)](https://open.spotify.com/album/73LurXJRbbvB7xUZWox1ST) | 3:53 | 2026-09-15 |  |
 | [Fourth Crack](https://open.spotify.com/track/01u4yoR2vEjSin4b4e1zTd) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Fourth Crack](https://open.spotify.com/album/20pw3sGEheWBU2wNpDb2DN) | 3:22 | 2024-04-24 | 2024-05-10 |
 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-03 | 2024-03-14 |
 | [Fragile](https://open.spotify.com/track/6hpAKSB4fzoitGfEmfJftz) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Fragile](https://open.spotify.com/album/2PXnQ8BOXGra5vjksZnc9s) | 3:37 | 2023-07-14 | 2023-08-10 |
@@ -4931,6 +4932,7 @@
 | [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-29 | 2025-07-08 |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-18 | 2025-01-17 |
 | [Ghost](https://open.spotify.com/track/4RKVOAMQBga2Ayh83Kz0C1) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Ghost](https://open.spotify.com/album/7d3yY286DKbpEtlIKGfsKY) | 4:23 | 2024-07-29 | 2024-09-20 |
+| [GHOST](https://open.spotify.com/track/2pkjhe80J4A2DXoEa0IwX2) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [PINK TAPE](https://open.spotify.com/album/3FjHrEQ1bJcFEKCoHHvXFQ) | 3:29 | 2026-09-15 |  |
 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 | 2023-11-10 | 2023-12-14 |
 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 | 2022-07-04 | 2022-07-12 |
 | [Ghost in the Flames](https://open.spotify.com/track/6VVvYxNRIu7wjzqe35T1M1) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Choi Eunseo](https://open.spotify.com/artist/3fP6Iszyd6eeevpfuURTtY) | [Ghost in the Flames](https://open.spotify.com/album/7FvMZsDLQbUqNaWAUNWhrk) | 3:52 | 2024-05-24 | 2024-06-20 |
@@ -10492,6 +10494,7 @@
 | [pat! Pat!](https://open.spotify.com/track/2BKA6uR1GSUltzELgmGjx8) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [pat! Pat!](https://open.spotify.com/album/1byus0k8w2IqdwWfhbwUBz) | 2:52 | 2024-08-15 | 2024-09-20 |
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-14 | 2022-07-28 |
 | [Patience](https://open.spotify.com/track/1TSBlZ6gKely1giDlfOTta) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe) | [Patience](https://open.spotify.com/album/6B1d33dUpDz2vZwaM2C3ir) | 3:00 | 2022-07-06 | 2022-07-12 |
+| [patience \(feat\. GANGGA\)](https://open.spotify.com/track/3EQcRDK8hxb1cLeUkLqy3T) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [patience \(feat\. GANGGA\)](https://open.spotify.com/album/6j3nsCzQpHfrN7y8ATLgaB) | 2:31 | 2026-09-15 |  |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-09-22 | 2025-10-05 |
 | [Pause](https://open.spotify.com/track/3lZMOm5uZsXScFH0pa1khj) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Pause](https://open.spotify.com/album/2Ln0JgHkiMSBJBhRnWQc2Z) | 3:02 | 2024-10-22 | 2024-11-05 |
 | [Pause \(feat\. KURO\)](https://open.spotify.com/track/0nYYZ2E7PmRtqRfAmBBBbX) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Pause \(feat\. KURO\)](https://open.spotify.com/album/2Av0ZO94UlX8ajHEr4vlpj) | 2:33 | 2024-09-09 | 2024-10-10 |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:2EFsfh1zewsSWhDINv7j1I\">Logic1000's </a> favourite tracks.  Updated regularly. Curated by Logic1000. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 21968,
+  "num_followers": 21971,
   "original_name": "Logic1000's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCBS5/ne5wTq6d11KIL2mu9m7EI",
+  "snapshot_id": "AAAAAKsuj17BExvjswovmLQ8cJwaaHXy",
   "tracks": [
     {
       "added_at": "2026-09-06 22:15:25",
@@ -950,10 +950,14 @@
         {
           "name": "Stacy Kidd",
           "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
+        },
+        {
+          "name": "XL",
+          "url": "https://open.spotify.com/artist/6QTKaCHDYYKOCVFKH0RQVJ"
         }
       ],
       "duration_ms": 365866,
-      "name": "The Movement",
+      "name": "The Movement - Video Mix",
       "url": "https://open.spotify.com/track/3lPjwANDQz8X3zLQyv8aOP"
     },
     {

@@ -4,7 +4,7 @@
 
 > Some of the most beautiful love songs en français <3
 
-206 songs - 12 hr 37 min
+207 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Nu devant moi](https://open.spotify.com/track/6f3J6oNS9C1hiY8mw6O8CW) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Paris Tristesse](https://open.spotify.com/album/56YDneI8SOsYZBgfd0oSeb) | 3:14 | 2022-01-18 | 2022-07-29 |
 | [On brûlera](https://open.spotify.com/track/52APn0QJbjtcHRK0fiXpL6) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [À peu près](https://open.spotify.com/album/65JwIioaq6D5ExpRdtYpCM) | 3:27 | 2023-01-26 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2022-01-18 | 2022-07-29 |
+| [On ne change pas](https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il suffisait d'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 4:08 | 2026-09-15 |  |
 | [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 | 2022-01-18 | 2023-01-27 |
 | [On va s'aimer encore](https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/1nGMO1npqc1fweNbJ7hLbj) | 4:18 | 2021-01-30 |  |
 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 | 2021-01-30 | 2023-01-27 |

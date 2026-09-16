@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Hoshi, David Guetta x Hypaton, Rema et Mylène Farmer au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,632 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,600 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,629 songs - 6 day 10 hr 3 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,631 songs - 6 day 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2637,5 +2637,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2627 | [YOU \(Remastered\)](https://open.spotify.com/track/5BYgkXLcMXEpwKBCZQhxj6) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [YOU \(Remastered\)](https://open.spotify.com/album/4ybcTXiTG88eczVMTOy9cy) | 5:55 |
 | 2628 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/0U4TXxTVQot0Sbl5jpfZpF) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [MEMORIES](https://open.spotify.com/album/0Ds2lI1MLphRYZ1yYyaYtb) | 7:19 |
 | 2629 | [Jimny](https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G) | [Mr Borin](https://open.spotify.com/artist/6vpX2gCs3YdSuVcCuBunW9) | [Jimny](https://open.spotify.com/album/6K5j0nGfbdC3TwrDfWsp8B) | 3:17 |
+| 2630 | [Pizza Hawaii](https://open.spotify.com/track/272AUltPkXuMvr07NRPNL5) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Hawaii](https://open.spotify.com/album/3OUpMXtVuSP3aBMSuG8aD1) | 2:25 |
+| 2631 | [I Eat Baked Beans Every Day](https://open.spotify.com/track/2S3thDXoqumTQoq85ZgCEr) | [The Junkoactive Wasteman](https://open.spotify.com/artist/6j91xLGH7YJWvsUByNtJAt) | [I Eat Baked Beans Every Day](https://open.spotify.com/album/0h7JzaxgIB59ve9NFPodOr) | 2:58 |
 
-Snapshot ID: `AAALO9XAFPEwGBcsoQyJEeTuzFj8YoWp`
+Snapshot ID: `AAALPWoiJVL/gbF4AJ0keZ8AenZEqyV7`

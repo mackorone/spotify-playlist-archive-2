@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 120064,
       "name": "AI9",
       "url": "https://open.spotify.com/track/6R2n4QbKaGEq1tSBxMSDV4"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 120740,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/5P5SfhoiSf4P9MkfeHIAEB"
@@ -3404,6 +3404,24 @@
       "duration_ms": 183947,
       "name": "Fi Derbi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
+    },
+    {
+      "album": {
+        "name": "SOSUPER",
+        "url": "https://open.spotify.com/album/5tSUsZjO0icTcjxWs8sQ95"
+      },
+      "artists": [
+        {
+          "name": "Dony",
+          "url": "https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164048,
+      "name": "FICTION",
+      "url": "https://open.spotify.com/track/73wbcZPiPGWedxVdRVm5dR"
     },
     {
       "album": {
@@ -6594,6 +6612,28 @@
       "duration_ms": 172941,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
+    },
+    {
+      "album": {
+        "name": "MOVETA",
+        "url": "https://open.spotify.com/album/59rB9alwvRVHevXkNvTjd9"
+      },
+      "artists": [
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        },
+        {
+          "name": "Moovd",
+          "url": "https://open.spotify.com/artist/4WnGLrDSdRM7jnJjSVdBeR"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165376,
+      "name": "MOVETA",
+      "url": "https://open.spotify.com/track/1Hz1pOM8l26uUbXXEtpDWI"
     },
     {
       "album": {

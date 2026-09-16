@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: サバシスター
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: The BONEZ
 
-915 songs - 2 day 0 hr 16 min
+917 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 | 2023-12-19 | 2024-04-19 |
 | [I'm Outstripped](https://open.spotify.com/track/6B5iD68uJ9y5GeT9e1owAI) | [OLD SCHOOL](https://open.spotify.com/artist/568OoWJTmExiW0OWpDEZqo) | [I Keep The Fire Alive](https://open.spotify.com/album/1TjcNKyJslwy1g9Z3MWdAr) | 3:11 | 2022-05-12 | 2022-06-25 |
 | [IF I Could](https://open.spotify.com/track/39dIa1CWSiVQme195v0mdO) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [At Nightfall](https://open.spotify.com/album/6friLA3zsuTIwhUAFl6OWI) | 2:16 | 2022-05-31 | 2022-07-26 |
+| [IMAGINATION](https://open.spotify.com/track/65QicSAJpJEJZHvGetuSUQ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [IMAGINATION](https://open.spotify.com/album/1tFoA5QGvlmgFr11ecSsvy) | 2:00 | 2026-09-15 |  |
 | [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 | 2026-07-08 |
 | [Indian Burn](https://open.spotify.com/track/0oNJdh57wG3gHDDodlPnZC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 1:47 | 2024-02-27 | 2024-03-06 |
 | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/track/58SMHxrvd06350OdteKmQ0) | [Someday's Gone](https://open.spotify.com/artist/79SvxaP9S35Y7A5R9IPYgx) | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/album/0k3w60tGFB6KrTgE4J2Ywt) | 3:43 | 2022-07-19 | 2022-08-10 |
@@ -502,7 +503,7 @@
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 | 2026-02-27 |
-| [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 |  |
+| [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 | 2026-09-16 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 | 2026-05-25 |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [sleeps](https://open.spotify.com/track/13xF5hSOJOBbv2jNNEwY7F) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [sleeps](https://open.spotify.com/album/2isLTYuqfrBPQXwXuIgSe7) | 4:22 | 2024-04-16 | 2024-09-18 |
@@ -754,7 +755,7 @@
 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 | 2022-07-12 |  |
 | [ハレルヤ](https://open.spotify.com/track/6g66QtDXdhf2QudckRtHoc) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [ハレルヤ](https://open.spotify.com/album/4f6WQyEKjZvScNnSzvWNTM) | 4:05 | 2022-05-12 | 2024-10-09 |
 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2022-07-21 | 2024-04-19 |
-| [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2022-05-12 |  |
+| [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2022-05-12 | 2026-09-16 |
 | [バイバイ、僕の恋人。](https://open.spotify.com/track/4i8d4saakaXrCEOrX0tFiM) | [The コットンクラブ](https://open.spotify.com/artist/4oBFYe6sg5cUiw70Weu1l6) | [バイバイ、僕の恋人。](https://open.spotify.com/album/2UmsrxD48XfQTeBHYOqwu9) | 2:48 | 2022-08-18 | 2022-09-07 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [パンクロックが鳴る夜に](https://open.spotify.com/track/6Ej9KwxT2SidCUHm8vBic7) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [陽はまた昇る](https://open.spotify.com/album/2tLjocfsUK0d21YTfRnwgT) | 3:28 | 2022-06-28 | 2022-07-18 |
@@ -801,6 +802,7 @@
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
 | [分岐点](https://open.spotify.com/track/1tB2Lz6LWAaQ4EJMDnlXyQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [分岐点](https://open.spotify.com/album/5b08OcgRSens2yg0lXwYPF) | 2:56 | 2025-07-01 | 2025-09-24 |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
+| [君が笑った！](https://open.spotify.com/track/1zB0qeXt2VrUL3qlVThKYj) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [君が笑った！](https://open.spotify.com/album/27GMHUeJtccejECNeJAV4I) | 3:12 | 2026-09-15 |  |
 | [嘔吐く！！！](https://open.spotify.com/track/3QecP5LKr4AEW2dtS5id75) | [清 竜人TOWN](https://open.spotify.com/artist/6jnNnpti0hsYXCgVYnwvXB) | [嘔吐く！！！](https://open.spotify.com/album/4dQmWJOzfnQcp0kJ3Crfj6) | 1:16 | 2025-06-05 | 2025-07-09 |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
 | [地獄と地獄](https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 1:31 | 2022-11-16 | 2023-03-22 |

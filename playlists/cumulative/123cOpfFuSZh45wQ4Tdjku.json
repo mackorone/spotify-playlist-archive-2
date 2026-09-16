@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Homesick Wanderlust",
+        "url": "https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "HOMESICK WANDERLUST",
+      "url": "https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH"
+    },
+    {
+      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g"
       },
@@ -5231,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215802,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
+    },
+    {
+      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16"
       },
@@ -5336,7 +5372,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 265842,
       "name": "Luminescence - Instrumental",
       "url": "https://open.spotify.com/track/4Evj10o7OnHyyEftjyEIkL"

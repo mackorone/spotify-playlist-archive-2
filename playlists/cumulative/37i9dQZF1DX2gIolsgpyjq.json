@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Carlina de Place",
+  "description": "The best new music by independent artists in the Nordics. Cover: louii lane",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 218523,
       "name": "Alar\u00f3",
       "url": "https://open.spotify.com/track/7wKvF2X3Xu8fR3hvef6Gz7"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 204092,
       "name": "ANOTHER HOT DAY IN FRONT OF THE TV",
       "url": "https://open.spotify.com/track/1gbUMAbVnNBpSHPgMoHS0r"
@@ -8287,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/57wv3zOHTw2QW13JRt6tPX"
+      },
+      "artists": [
+        {
+          "name": " louii lane",
+          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164441,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/2V3vjSqRbYfhPkUrczYnxo"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/3ejmd075cFfLxw24XVAJoT"
       },
@@ -10664,7 +10682,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 197687,
       "name": "Grease Baby",
       "url": "https://open.spotify.com/track/7CzAEvBvbEqZfFQlkDSQ6G"
@@ -11554,6 +11572,24 @@
       "duration_ms": 175288,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4PTh4Tu8zgGZKTLD9uWwM0"
+    },
+    {
+      "album": {
+        "name": "Hello Kitty",
+        "url": "https://open.spotify.com/album/5cEFQvbjxLJHtgki72W6BW"
+      },
+      "artists": [
+        {
+          "name": "Clutter",
+          "url": "https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/5Qe1ATk7do6QocoKqGklW5"
     },
     {
       "album": {
@@ -15904,6 +15940,24 @@
       "duration_ms": 124897,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/6fUOkiiQTO2nVazyl5VrU1"
+    },
+    {
+      "album": {
+        "name": "Lights Off",
+        "url": "https://open.spotify.com/album/0OWBJgZxGorifobbQTiHZ4"
+      },
+      "artists": [
+        {
+          "name": "lene 3000",
+          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/1XUhkF8S4ZB4sOdw00vIbc"
     },
     {
       "album": {
@@ -20374,7 +20428,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 165975,
       "name": "One Life To Give",
       "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
@@ -22027,6 +22081,24 @@
     },
     {
       "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179014,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66"
+    },
+    {
+      "album": {
         "name": "Power Loving",
         "url": "https://open.spotify.com/album/1Sg6nPm5MzpQaKPjP5Eb1x"
       },
@@ -23180,7 +23252,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 178750,
       "name": "Robot",
       "url": "https://open.spotify.com/track/5g3G4clUYxB0ojG3lWAMjh"
@@ -30456,6 +30528,24 @@
       "duration_ms": 483199,
       "name": "Whatever We Call It",
       "url": "https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG"
+    },
+    {
+      "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
     },
     {
       "album": {

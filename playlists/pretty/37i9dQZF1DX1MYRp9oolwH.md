@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
+> Bringing out the best of latest love tracks<br/>Cover : Idupu Kayitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,483 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,485 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Sukumari Title Song \(From "Oh Sukumari"\)](https://open.spotify.com/track/0EzsIQXT3U7E6fk0WukmQF) | [Bharath Manchiraju](https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Oh Sukumari Title Song \(From "Oh Sukumari"\)](https://open.spotify.com/album/0UNygN2hxn43nKH6zoW6En) | 4:11 |
 | 50 | [Jigithara \(From "Chennai Love Story"\)](https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Jigithara \(From "Chennai Love Story"\)](https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ) | 4:12 |
 
-Snapshot ID: `AAAAAMnCaiKcH+zqRAkaXb0qqQmp3zN5`
+Snapshot ID: `AAAAAPRlAerU3MR+zL+8S5jSj7KAs/74`

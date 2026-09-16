@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -4424,7 +4424,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 146913,
       "name": "As Planned",
       "url": "https://open.spotify.com/track/7mJ8e4pYEs9Sx1MhnAVfv4"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 269867,
       "name": "BAHAMBA BONKE",
       "url": "https://open.spotify.com/track/5lzo1kyHFgALFzPblQlnmI"
@@ -10074,7 +10074,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -21532,7 +21532,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 201133,
       "name": "He Belongs",
       "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
@@ -23890,7 +23890,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 330466,
       "name": "I'd Rather Be Alone",
       "url": "https://open.spotify.com/track/1X72M0iMgbyUpTwP5cS7JH"
@@ -24682,7 +24682,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 296100,
       "name": "Imfene Yakho",
       "url": "https://open.spotify.com/track/6OZCjoMHM7V0xL0IJ87Fhl"
@@ -50830,7 +50830,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 264586,
       "name": "Skhethe (feat. Westboy, Caeser & DJ Janisto)",
       "url": "https://open.spotify.com/track/5NCLQtEbyUslIyZpzkNuTj"
@@ -53946,7 +53946,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -58650,7 +58650,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 304448,
       "name": "uBhanyazile",
       "url": "https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne"
@@ -59855,6 +59855,40 @@
     },
     {
       "album": {
+        "name": "uMoya 2.0 (Tycoon Remix)",
+        "url": "https://open.spotify.com/album/48pXjU8aOvXbV56KFCeY5C"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Zawadi Yamungu",
+          "url": "https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl"
+        },
+        {
+          "name": "Tycoon",
+          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
+        },
+        {
+          "name": "Soulful Disciple",
+          "url": "https://open.spotify.com/artist/6gmMSMt9vm3YYJ5JoBG5my"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518274,
+      "name": "uMoya 2.0 - Tycoon Remix",
+      "url": "https://open.spotify.com/track/4iQGPl0iUSUJiAlHPNRkdJ"
+    },
+    {
+      "album": {
         "name": "Umsebenzi Wethu",
         "url": "https://open.spotify.com/album/6TMWGIRUs3jSz8ZIfjVrRS"
       },
@@ -60314,7 +60348,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "Ungenzani",
       "url": "https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1"
@@ -62036,7 +62070,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 278804,
       "name": "Vuka Vuka Ksile!!! - Remix",
       "url": "https://open.spotify.com/track/0Dh9VhB2hjN4pkvPvreIzw"

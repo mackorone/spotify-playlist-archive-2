@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving Delany..
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,581 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,562 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 7 | [Simpel \(feat\. Carel\)](https://open.spotify.com/track/0uwMEiOmeztwtktROczxk6) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Just A Lover Girl \(Deluxe\)](https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0) | 3:08 |
 | 8 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 9 | [CONCENTRATIE](https://open.spotify.com/track/1ZWVlsrzRPbkdLpXNxQcMk) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:20 |
-| 10 | [Everything](https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ) | [Amani](https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3) | [Everything](https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha) | 3:04 |
-| 11 | [Fine thing](https://open.spotify.com/track/2rI95e4MLq74FeSK5I74mX) | [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Fine thing](https://open.spotify.com/album/7lDwC0Jj8M442T8YTUve1P) | 2:10 |
+| 10 | [Fine thing](https://open.spotify.com/track/2rI95e4MLq74FeSK5I74mX) | [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Fine thing](https://open.spotify.com/album/7lDwC0Jj8M442T8YTUve1P) | 2:10 |
+| 11 | [Everything](https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ) | [Amani](https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3) | [Everything](https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha) | 3:04 |
 | 12 | [Potalie](https://open.spotify.com/track/5uOYAWNEzKjwwg7QzUvUF5) | [Youngboss](https://open.spotify.com/artist/6vChB94kuUcUATWQBQGTdz), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [ZeroDix](https://open.spotify.com/artist/6EQLccuGwNd5J4mIeFR7hc) | [Potalie](https://open.spotify.com/album/7KHUdCu391UF3ZolU2du5M) | 2:45 |
 | 13 | [Karma](https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Karma](https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT) | 2:21 |
 | 14 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 79 | [FOCUS](https://open.spotify.com/track/2hOSYZ9hfeTA4aonT095Vu) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [FOCUS](https://open.spotify.com/album/3fvYg8i5lO0buTg72J2rwb) | 2:49 |
 | 80 | [Falling 4 Ya](https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Gemengde Gevoelens](https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK) | 3:24 |
 
-Snapshot ID: `AAAAAKmUOpHyDab/MsQZtSedV+hsJbCD`
+Snapshot ID: `AAAAAP+qev2CdNJmHX/Yu8O+xPpR/WRf`

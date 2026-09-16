@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 614142,
+  "num_followers": 614086,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9ebkU23k2/s2oBdtc4wxYJe7+G",
+  "snapshot_id": "AAAAAHhgKSZ4DvPSjgvjFDpxmpKRJoSc",
   "tracks": [
+    {
+      "added_at": "2026-09-15 18:42:04",
+      "album": {
+        "name": "\"Tell Me of Love!\"",
+        "url": "https://open.spotify.com/album/0IwaPeZeRMSlBVzb4vdEaR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 89905,
+      "name": "Changing Weather",
+      "url": "https://open.spotify.com/track/4iHQD9zlgUrs531IE5r1tG"
+    },
     {
       "added_at": "2026-02-20 05:00:32",
       "album": {
@@ -33,6 +49,38 @@
       "url": "https://open.spotify.com/track/7E9oJdTDHgdYgvpEVfkRsW"
     },
     {
+      "added_at": "2026-09-15 18:42:04",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/5DXt6r5vMeQxUOZ8vfz0qE"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "Worth Waiting For",
+      "url": "https://open.spotify.com/track/7CliCE9dBj6Agy9IEbgLGJ"
+    },
+    {
+      "added_at": "2026-09-15 18:42:04",
+      "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "My Balloon",
+      "url": "https://open.spotify.com/track/1Jj9ll0J1EeJriq3Dc4yPE"
+    },
+    {
       "added_at": "2025-08-01 04:00:35",
       "album": {
         "name": "Somethin",
@@ -49,6 +97,46 @@
       "url": "https://open.spotify.com/track/0UrIpHECkxkxCvckR0PLRJ"
     },
     {
+      "added_at": "2026-09-15 18:42:04",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 191977,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/004Qq3TN7YhCiVDlh4usJ0"
+    },
+    {
+      "added_at": "2026-09-15 18:42:04",
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
+    },
+    {
       "added_at": "2025-02-28 05:00:30",
       "album": {
         "name": "Maya, Maya, Maya",
@@ -63,26 +151,6 @@
       "duration_ms": 179919,
       "name": "Maya, Maya, Maya",
       "url": "https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa"
-    },
-    {
-      "added_at": "2025-06-13 04:00:39",
-      "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
-      },
-      "artists": [
-        {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "I\u2019ll Be Seeing You",
-      "url": "https://open.spotify.com/track/7GxdrY0KdI3JbF6OgTtIRd"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -231,22 +299,6 @@
     {
       "added_at": "2024-09-20 14:04:29",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/07suX8OpgxaBUKBVAmsNyx"
       },
@@ -299,30 +351,6 @@
     {
       "added_at": "2024-09-20 14:04:29",
       "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/1jBOO1ozjaMOgRAN7jaEPU"
-    },
-    {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB"
       },
@@ -357,22 +385,6 @@
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
     },
     {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
-        "name": "A Grey Area",
-        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm"
-    },
-    {
       "added_at": "2024-10-25 14:53:44",
       "album": {
         "name": "\u201c&\u201d (Ampersand)",
@@ -387,26 +399,6 @@
       "duration_ms": 221946,
       "name": "Drawbridge & The Baroness",
       "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
-    },
-    {
-      "added_at": "2024-09-20 14:04:29",
-      "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Monday Comes Around (Sleeping At Last Version)",
-      "url": "https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL"
     },
     {
       "added_at": "2024-09-20 14:04:29",

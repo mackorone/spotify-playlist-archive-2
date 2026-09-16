@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12890,
+  "num_followers": 12893,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "It\u2019s secret",
+        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "It\u2019s secret",
+      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "It\u2019s secret",
-        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "It\u2019s secret",
-      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
     },
     {
       "added_at": "2026-07-03 07:31:26",

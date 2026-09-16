@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 299356,
+  "num_followers": 299378,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAAc7NkU44g9iEDSKPXY3zO3",
+  "snapshot_id": "aqc5AAAAAACAvpHeDAth1jxbW7G9MFy/",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama Said (Deluxe)",
-        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
-      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Said (Deluxe)",
+        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
+      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 293466,
       "name": "Eleutheria",
       "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 268786,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/51fEz8VT1OlCYjU8ItAgQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242440,
-      "name": "5 More Days 'Til Summer",
-      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Meet the future\. Cover: quiet morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,461 likes - 58 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,462 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

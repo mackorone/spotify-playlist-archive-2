@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "21 Questions (House Mix)",
+        "url": "https://open.spotify.com/album/2WirAi6VZSAcvcix0XrGYO"
+      },
+      "artists": [
+        {
+          "name": "DJ Kash",
+          "url": "https://open.spotify.com/artist/0PZHBDr7z6CoGckACRD1ZV"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "21 Questions - House Edit",
+      "url": "https://open.spotify.com/track/4MygaFT5FjSvx2ynmSyf7h"
+    },
+    {
+      "album": {
         "name": "2B Luv (Radio Cut)",
         "url": "https://open.spotify.com/album/3uD29aAjW4mA5IGa7FMfTZ"
       },
@@ -120,6 +138,24 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "album": {
+        "name": "Addicted Love",
+        "url": "https://open.spotify.com/album/7lwpjD8t1DlOnzYt6irHQ8"
+      },
+      "artists": [
+        {
+          "name": "Hobbs (UK)",
+          "url": "https://open.spotify.com/artist/5LsXfPPDHsHlD5cjWoLwSX"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Addicted Love - Radio Edit",
+      "url": "https://open.spotify.com/track/6gZo48omtIoXNMNgp1hpKr"
     },
     {
       "album": {
@@ -721,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Bounce UR Body",
+        "url": "https://open.spotify.com/album/0fTPlvWCBV1nfynDXRDDgV"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149336,
+      "name": "Bounce UR Body",
+      "url": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90"
+    },
+    {
+      "album": {
         "name": "Breathe & Push / Watch Wut You Say",
         "url": "https://open.spotify.com/album/0VGEKMUfTZ3OYlmlf2YMy9"
       },
@@ -842,6 +900,28 @@
       "duration_ms": 151451,
       "name": "Brutal",
       "url": "https://open.spotify.com/track/78nZzYLqdPSNBYZW5vjiWM"
+    },
+    {
+      "album": {
+        "name": "BURIAL (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/3jEd2CV2xvEfnRE7kvSqID"
+      },
+      "artists": [
+        {
+          "name": "Jumpin Jack Frost",
+          "url": "https://open.spotify.com/artist/4ATb2sOmVCBIURq5P3Fkn8"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "BURIAL - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/0epZ6644XDW2rYNgkPCmLz"
     },
     {
       "album": {
@@ -1877,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Disco Dancin'",
+        "url": "https://open.spotify.com/album/6keUqxKhBENaTz57AkYhSh"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177903,
+      "name": "Disco Dancin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1bDFv3aHnz0jX6zvx0XbuL"
+    },
+    {
+      "album": {
         "name": "DM (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/3TqsYRWpK1BM6O5QBEl6qh"
       },
@@ -1910,7 +2008,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 161356,
       "name": "Do What You Want - Edit",
       "url": "https://open.spotify.com/track/6LYbAi2TaXhHwubQrg5EWy"
@@ -2274,7 +2372,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 170390,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
@@ -3014,7 +3112,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 179887,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
@@ -3234,7 +3332,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
@@ -3278,7 +3376,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 209062,
       "name": "H2DAIZZO - Josh Baker Remix",
       "url": "https://open.spotify.com/track/3sZekai9TXKtdB6OBy2SFm"
@@ -3511,6 +3609,32 @@
     },
     {
       "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
+    },
+    {
+      "album": {
         "name": "Hit It (feat. NEZ)",
         "url": "https://open.spotify.com/album/60TvAeH7kQLbPKxmdYFXD6"
       },
@@ -3548,7 +3672,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
@@ -4038,7 +4162,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 176645,
       "name": "I Need U (feat. Ellie Maxwell)",
       "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
@@ -4334,7 +4458,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 185904,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2Tv6wuhj1VHVL9IV3YyjQT"
@@ -4352,7 +4476,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 190079,
       "name": "In The Quiet Of My Soul",
       "url": "https://open.spotify.com/track/3LU7wdjko5Ph5oCmi59VXL"
@@ -4516,7 +4640,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 203250,
       "name": "It's a Party (PRX002)",
       "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
@@ -5546,7 +5670,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 204336,
       "name": "Luv U",
       "url": "https://open.spotify.com/track/54hGclRSQFoAcQAgWsqYmX"
@@ -5944,17 +6068,13 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
@@ -5984,6 +6104,24 @@
       "duration_ms": 206250,
       "name": "Moving All Around (Jumpin') (feat. Kim English) - John Summit Remix",
       "url": "https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M"
+    },
+    {
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/5lbjbjRwV4Qtx5z5NTCkDi"
+      },
+      "artists": [
+        {
+          "name": "LEFTI",
+          "url": "https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Muchacho",
+      "url": "https://open.spotify.com/track/25SkGp1mc3qk6wsEPGKtNt"
     },
     {
       "album": {
@@ -6168,7 +6306,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 175748,
       "name": "Mystified - Radio Edit",
       "url": "https://open.spotify.com/track/7bH2zrJOpnY8f8tfDBXhVs"
@@ -6304,10 +6442,36 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 167619,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
+    },
+    {
+      "album": {
+        "name": "No One Like You (Ridney Remix)",
+        "url": "https://open.spotify.com/album/7eUswzPjGNGK171HDgIrtq"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lyn Jada",
+          "url": "https://open.spotify.com/artist/5QD9BTJb8QvdHog0dec7QD"
+        },
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "No One Like You - Ridney Remix",
+      "url": "https://open.spotify.com/track/2mPvJi3VWNUOYhb13AC1OV"
     },
     {
       "album": {
@@ -6797,6 +6961,28 @@
     },
     {
       "album": {
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/6pXQWdDC3HPpJKJDNGU1hw"
+      },
+      "artists": [
+        {
+          "name": "Denis Sulta",
+          "url": "https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178172,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/57LMnOWONP6EpFPAGThXgM"
+    },
+    {
+      "album": {
         "name": "Put A Spell On You",
         "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
       },
@@ -7256,7 +7442,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 169523,
       "name": "Say What - Radio Edit",
       "url": "https://open.spotify.com/track/6ZPLh8aqBDq3FzxXXxmihz"
@@ -7308,7 +7494,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 177142,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/1bjzv93PtbOyiRjhSYkVGJ"
@@ -7690,6 +7876,24 @@
       "duration_ms": 388837,
       "name": "Spin It",
       "url": "https://open.spotify.com/track/13TNR1gt8pNNYG4gi9oPoV"
+    },
+    {
+      "album": {
+        "name": "Lift You Up EP",
+        "url": "https://open.spotify.com/album/6uMRH8OlAVsyrG6oMOAWdV"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199980,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/4nOyOFs0XrCGTAcxOez5Ig"
     },
     {
       "album": {
@@ -9334,7 +9538,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 166750,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/1NNNeTW6y2FHp0N6jHEukS"
@@ -9592,7 +9796,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 196363,
       "name": "You Are In My System - Philip George Remix",
       "url": "https://open.spotify.com/track/0hIa0aOhFV9sZhtRdNcYPo"

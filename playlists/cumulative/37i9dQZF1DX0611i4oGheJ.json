@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 207551,
       "name": "Aaron",
       "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 253314,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je"
@@ -338,10 +338,32 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/1kSdbaUZOEQTC8RmoxOYeA"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "album": {
@@ -813,6 +835,24 @@
     },
     {
       "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/5fPUD2TBb1DugPHDj7ylgF"
+      },
+      "artists": [
+        {
+          "name": "Liv Romano",
+          "url": "https://open.spotify.com/artist/0880SwmMnloU70bjrwbdOa"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/0jcMqjt7AYtDkn5INK1aDb"
+    },
+    {
+      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -1040,7 +1080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
@@ -1290,6 +1330,24 @@
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/60JNdhZYnjqjq8AhVW9nYb"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5Hzr7wCSPtnlWLHzKiLMCN"
     },
     {
       "album": {
@@ -1734,7 +1792,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 263933,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
@@ -1806,7 +1864,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 187211,
       "name": "Fixed",
       "url": "https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9"
@@ -2499,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/7nhmuSa4VnloZWAQhKCmtn"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264524,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz"
+    },
+    {
+      "album": {
         "name": "Orphan Offering",
         "url": "https://open.spotify.com/album/13Mv60XAKeUqr12McFiz2y"
       },
@@ -2854,7 +2930,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 177573,
       "name": "I Only See the Moon",
       "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
@@ -3060,7 +3136,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 221297,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/21kHCWDfAwBvATkFWOsa47"
@@ -3483,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "like home",
+        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182055,
+      "name": "like home",
+      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
       },
@@ -3672,6 +3766,28 @@
       "duration_ms": 267080,
       "name": "Love Part Three",
       "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/7MhufBtdJednkSpwropIDs"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196730,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/04Z33OTaMmg1tm0mNgiDlK"
     },
     {
       "album": {
@@ -4332,7 +4448,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 166706,
       "name": "No Fooling Me",
       "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
@@ -4354,6 +4470,28 @@
       "duration_ms": 175293,
       "name": "No Place Like You",
       "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
+    },
+    {
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        },
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287999,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
     },
     {
       "album": {
@@ -4596,6 +4734,24 @@
       "duration_ms": 227279,
       "name": "Our Remains - Acoustic",
       "url": "https://open.spotify.com/track/3r4KCd4tNnLHvDwZKGsl82"
+    },
+    {
+      "album": {
+        "name": "Owes You Nothing",
+        "url": "https://open.spotify.com/album/6jBbrk4E2qzbt03aO0d4Yx"
+      },
+      "artists": [
+        {
+          "name": "Zach Seabaugh",
+          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176214,
+      "name": "Owes You Nothing",
+      "url": "https://open.spotify.com/track/60pPrOi7lH1pPWd7u8p1KU"
     },
     {
       "album": {
@@ -4974,7 +5130,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 219245,
       "name": "Reliance",
       "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
@@ -5068,6 +5224,28 @@
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
+    },
+    {
+      "album": {
+        "name": "Running To",
+        "url": "https://open.spotify.com/album/3BJvOQFOkeSVnO0bTD3HLN"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        },
+        {
+          "name": "Yannick Lowack",
+          "url": "https://open.spotify.com/artist/4jKjq3qWxfwNoijxhD57fu"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232845,
+      "name": "Running To",
+      "url": "https://open.spotify.com/track/3GpopR6hCJ2m9LYgO7czZZ"
     },
     {
       "album": {
@@ -5223,6 +5401,28 @@
     },
     {
       "album": {
+        "name": "Sentimental (Reimagined)",
+        "url": "https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe"
+      },
+      "artists": [
+        {
+          "name": "Dillan Witherow",
+          "url": "https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl"
+        },
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Sentimental (Reimagined)",
+      "url": "https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM"
+    },
+    {
+      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -5310,10 +5510,28 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+    },
+    {
+      "album": {
+        "name": "So Long Baby",
+        "url": "https://open.spotify.com/album/5MOUosVXRt2KvTmpy091xD"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "So Long Baby",
+      "url": "https://open.spotify.com/track/2gvRGKDwoBys2tuLpSc2ij"
     },
     {
       "album": {
@@ -5400,7 +5618,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 222294,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
@@ -6871,6 +7089,24 @@
     },
     {
       "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "album": {
         "name": "This Heart",
         "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
@@ -6900,7 +7136,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 191700,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
@@ -7408,7 +7644,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 162099,
       "name": "Wildflowers In The Sky",
       "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
@@ -7433,6 +7669,24 @@
     },
     {
       "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "album": {
         "name": "Young In All The Wrong Ways",
         "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
@@ -7448,6 +7702,24 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
     },
     {
       "album": {

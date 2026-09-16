@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "SYNK : COMPLaeXITY - 2026 Special Digital Single",
+        "url": "https://open.spotify.com/album/6IKPRi6kQgW1HoI8yzEuTQ"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "16 Bit (KARINA Solo)",
+      "url": "https://open.spotify.com/track/5XwL05UFnI8UwaxMl2UzlC"
+    },
+    {
+      "album": {
         "name": "Ceramics Runway",
         "url": "https://open.spotify.com/album/1seGyT8ATQOf4G8c9QR8sP"
       },
@@ -20252,7 +20270,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 350833,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/4MEn5CNtwf4VVEfmZVcpTC"
@@ -21982,7 +22000,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 253764,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
       "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
@@ -23188,7 +23206,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 289847,
       "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e21\u0e31\u0e19\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e01\u0e34\u0e14 (feat. \u0e27\u0e07 PAUSE) - From \"\u0e2d\u0e31\u0e19\u0e42\u0e01\u0e30 \u0e01\u0e25\u0e23\u0e31\u0e01\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e48\"",
       "url": "https://open.spotify.com/track/0JG4BZohRtuj6AE09xW7AC"

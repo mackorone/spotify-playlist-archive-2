@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Tailtiu",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Otik",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -11152,7 +11152,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 254122,
       "name": "Clip Empty",
       "url": "https://open.spotify.com/track/71tXfgTNTxwVMZRM6wEm0K"
@@ -14482,7 +14482,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 194291,
       "name": "DEGENERATE",
       "url": "https://open.spotify.com/track/6yhRDR8pjoEIXJBOxsijW0"
@@ -19814,7 +19814,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 234023,
       "name": "Feeling It All",
       "url": "https://open.spotify.com/track/4QvE2zr6HWLZ0SCW4JPzKP"
@@ -22696,6 +22696,24 @@
       "duration_ms": 237640,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4dmoS6ipyMbjhXOCGdCIJ8"
+    },
+    {
+      "album": {
+        "name": "GirlMagnet",
+        "url": "https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk"
+      },
+      "artists": [
+        {
+          "name": "Jacklyn",
+          "url": "https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143444,
+      "name": "GirlMagnet",
+      "url": "https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ"
     },
     {
       "album": {
@@ -28872,6 +28890,24 @@
       "duration_ms": 159975,
       "name": "i just want to dance",
       "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
+    },
+    {
+      "album": {
+        "name": "i keep falling in love",
+        "url": "https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz"
+      },
+      "artists": [
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "i keep falling in love",
+      "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
     },
     {
       "album": {
@@ -53577,6 +53613,24 @@
     },
     {
       "album": {
+        "name": "sideit",
+        "url": "https://open.spotify.com/album/3XE26GS5XrHQpJnOXP34tT"
+      },
+      "artists": [
+        {
+          "name": "ffolliott",
+          "url": "https://open.spotify.com/artist/0LznsDgbblksEJsSty0Xbz"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144219,
+      "name": "sideit",
+      "url": "https://open.spotify.com/track/0z9St5nevsTxFsR5JEgMvL"
+    },
+    {
+      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/04btx0pbz6p1qHPQU9lLqC"
       },
@@ -55658,6 +55712,24 @@
       "duration_ms": 109918,
       "name": "Spirit, Pt. 1",
       "url": "https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d"
+    },
+    {
+      "album": {
+        "name": "SPITE",
+        "url": "https://open.spotify.com/album/1ObibQ5LdfVofQNihoNAA7"
+      },
+      "artists": [
+        {
+          "name": "AMINAT",
+          "url": "https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145482,
+      "name": "SPITE",
+      "url": "https://open.spotify.com/track/4naIp61Fl4k54Zr1TIS5c5"
     },
     {
       "album": {
@@ -58006,7 +58078,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 195652,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/0SYjEiPyndroLEBElOtWdH"
@@ -61188,7 +61260,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 212307,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL"
@@ -63366,6 +63438,24 @@
       "duration_ms": 245897,
       "name": "Universe",
       "url": "https://open.spotify.com/track/0cxBEfW0ezfq0Jz29tzdcf"
+    },
+    {
+      "album": {
+        "name": "Unquiet",
+        "url": "https://open.spotify.com/album/6MIvVDCq7XgFiG5VIeVmvS"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "Unquiet",
+      "url": "https://open.spotify.com/track/15Uu1CX29BRj53cZAZWnm4"
     },
     {
       "album": {

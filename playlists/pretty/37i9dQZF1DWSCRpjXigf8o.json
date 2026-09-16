@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88628,
+  "num_followers": 88625,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Note of Mothership",
-        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Note of Mothership",
-      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u30d1\u30ec\u30fc\u30c9 (Original Soundtrack)",
@@ -663,6 +647,22 @@
       "duration_ms": 288586,
       "name": "\u306a\u307f\u3057\u3050\u3055",
       "url": "https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -1057,20 +1041,20 @@
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
+      "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
       },
       "artists": [
         {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
         }
       ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1103,6 +1087,22 @@
       "duration_ms": 217080,
       "name": "My Way Home",
       "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "added_at": "2026-05-21 15:00:24",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "TIME SLIP",
+        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 268060,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+    },
+    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "The other day,",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "TIME SLIP",
-        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+        "name": "NEW ERA",
+        "url": "https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv"
       },
       "artists": [
         {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
         }
       ],
-      "duration_ms": 268060,
-      "name": "PERFECT",
-      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+      "duration_ms": 279000,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1243,22 +1259,6 @@
       "duration_ms": 228398,
       "name": "Pools of Colour",
       "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "NEW ERA",
-        "url": "https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "NEW ERA",
-      "url": "https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "MY\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "MY\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u9f13\u52d5",
-        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
+        "name": "MY\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
       },
       "artists": [
         {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 161720,
-      "name": "\u9f13\u52d5",
-      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
+      "duration_ms": 249000,
+      "name": "MY\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1411,6 +1395,22 @@
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "duration_ms": 161720,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
-      },
-      "artists": [
-        {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Place Your Hands",
         "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 267933,
       "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",

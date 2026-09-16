@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 203035,
       "name": "A Ride With The FourHorse Men in 1888",
       "url": "https://open.spotify.com/track/3MeSjeR3lu0vUPGUPweKDT"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 162200,
       "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
       "url": "https://open.spotify.com/track/08UtDhh6FVO4t0RMaVBRzU"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 303108,
       "name": "Blissful Sanguine",
       "url": "https://open.spotify.com/track/77w2k8O21mGQEai3KfFlrM"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 255518,
       "name": "Change to Come",
       "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 217667,
       "name": "Concealed",
       "url": "https://open.spotify.com/track/1qAov2LFg6zhvCKqGn54q3"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 299000,
       "name": "Definition Of Fun",
       "url": "https://open.spotify.com/track/3F1kea4h1Mr8IyZS6BCC9K"
@@ -4754,7 +4754,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -4916,7 +4916,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -5356,10 +5356,28 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 173684,
       "name": "FOLD ME",
       "url": "https://open.spotify.com/track/3aiaYy0BKfgfcFgXP8Zv3q"
+    },
+    {
+      "album": {
+        "name": "Fool Me Twice",
+        "url": "https://open.spotify.com/album/4q71EwwSaAThpcHQEcMzkT"
+      },
+      "artists": [
+        {
+          "name": "DanielTidwell14",
+          "url": "https://open.spotify.com/artist/3KAA7RvgIRc1KagYTCCw8e"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205157,
+      "name": "Fool Me Twice",
+      "url": "https://open.spotify.com/track/42B7HBPvR3eAoyu5bPkzG1"
     },
     {
       "album": {
@@ -5428,7 +5446,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 238104,
       "name": "Forever Tomorrow",
       "url": "https://open.spotify.com/track/3rHVYx9G4xnW3ntyuu2HK3"
@@ -6468,7 +6486,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 257952,
       "name": "HISS",
       "url": "https://open.spotify.com/track/12ZpVGHTxzavvVz96gTtrI"
@@ -6648,7 +6666,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 249560,
       "name": "Hothouse Flowers",
       "url": "https://open.spotify.com/track/22NbzS5eeEyWilq9HH1DoL"
@@ -7286,7 +7304,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 214838,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/3b7LUnkdTWsYuUuApewI02"
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 288758,
       "name": "Inn \u00ed h\u00f6f\u00f0i m\u00e9r",
       "url": "https://open.spotify.com/track/4v0NfFOLyoy54DqYJrqXuA"
@@ -7452,7 +7470,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "InstantFamous",
       "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
@@ -7560,7 +7578,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 196852,
       "name": "Isobel",
       "url": "https://open.spotify.com/track/5nR2RHSFmhlKN2dLK7ucOW"
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -9408,7 +9426,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Melodies of Movement",
       "url": "https://open.spotify.com/track/5LADnb8ITeBulXFQK3o5Xl"
@@ -9484,7 +9502,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -10148,7 +10166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -10386,7 +10404,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 195483,
       "name": "Nightfall - GSCX Version",
       "url": "https://open.spotify.com/track/2lxPyVP4qX13yl53SZeMPS"
@@ -10744,7 +10762,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 267546,
       "name": "Nuda Veritas - Re-Recording from 2007",
       "url": "https://open.spotify.com/track/0Z4629KIriqTE0KkUQfYJg"
@@ -11138,7 +11156,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 366101,
       "name": "One Millionth Happy Customer - GSCX Version",
       "url": "https://open.spotify.com/track/0nfF8XITwJOTa5xoiA7DT0"
@@ -11192,7 +11210,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -11354,7 +11372,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
@@ -11950,7 +11968,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -12200,7 +12218,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 285552,
       "name": "RAMMIT!",
       "url": "https://open.spotify.com/track/3oxPn44jchGV9YvSuXumnm"
@@ -12712,7 +12730,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 97906,
       "name": "Sealed with Blood",
       "url": "https://open.spotify.com/track/6wTYDMvqvGlsOU0Mx8tMzw"
@@ -13112,7 +13130,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 245000,
       "name": "Ship of Sorrow",
       "url": "https://open.spotify.com/track/4nM1YRktjwhcRg41vBbKaA"
@@ -13818,6 +13836,24 @@
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
+    },
+    {
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/4nrubr35FBqe4IFSSVjohv"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Fisher",
+          "url": "https://open.spotify.com/artist/2VClRDJzSEBRnZzD4DRy0b"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416668,
+      "name": "Starve",
+      "url": "https://open.spotify.com/track/7w85MLY7Z6XpvzkhTjKgOj"
     },
     {
       "album": {
@@ -15080,7 +15116,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -15416,7 +15452,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 207800,
       "name": "The Sheep",
       "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
@@ -15680,7 +15716,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -16814,7 +16850,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -16958,7 +16994,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 128600,
       "name": "Virus Potus",
       "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
@@ -17276,7 +17312,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 223004,
       "name": "Watching The Moon",
       "url": "https://open.spotify.com/track/6Do7fjz4t1JW8AaPRix7Tf"
@@ -17402,7 +17438,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 208025,
       "name": "What Can I Do For You - GSCX Version",
       "url": "https://open.spotify.com/track/2vSy9KIDIrA8CECsUczbF8"
@@ -17528,7 +17564,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 314080,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/0GK1BREHwx001Q5LXbocaQ"
@@ -18170,7 +18206,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"

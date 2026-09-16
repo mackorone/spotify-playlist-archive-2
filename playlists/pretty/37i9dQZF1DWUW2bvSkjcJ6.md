@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ikkimel, badmómzjay, David Guetta, Jazeek, Luciano & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,982 likes - 76 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,890 likes - 76 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

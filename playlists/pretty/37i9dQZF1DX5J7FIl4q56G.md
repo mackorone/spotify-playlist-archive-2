@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,135 likes - 185 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,363 likes - 185 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 57 | [Paradise/Parasite II](https://open.spotify.com/track/6rRwnlLNQCDrkSMHXONuWY) | [Cell Rot](https://open.spotify.com/artist/7JqFTs8Mo8KmaMWwPaAeBl) | [Paradise/Parasite II](https://open.spotify.com/album/0lhRXXF3FyHcm7zKwiDUY1) | 1:40 |
 | 58 | [The Road Not Taken](https://open.spotify.com/track/4Dla04OWfwXUicRrMjAW0g) | [Godslave](https://open.spotify.com/artist/5xLkB61DNBnrx3GmQplSK2) | [Godslave](https://open.spotify.com/album/4qkQUQCqPdSyBaTIWr6iVx) | 4:52 |
 | 59 | [Mercy Dies With You](https://open.spotify.com/track/7LPAvJUfZGbH3PlPjGM29a) | [Echoes in Ashes](https://open.spotify.com/artist/5yj3leg0AWcDRTTZM2WMrc) | [Mercy Dies With You](https://open.spotify.com/album/00Cz026TAZ3bCbh4cI8GMM) | 3:21 |
-| 60 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 60 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 61 | [Landfall](https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Landfall](https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE) | 3:42 |
 | 62 | [Sleepwalker](https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Blood Of Your Empire](https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k) | 3:48 |
 | 63 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |

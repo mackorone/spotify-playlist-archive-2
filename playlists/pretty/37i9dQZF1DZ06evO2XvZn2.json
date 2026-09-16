@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15962,
+  "num_followers": 15966,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqXngAAAAAAiugvYzoO1NxoH9sfsTG8R",
+  "snapshot_id": "aqc5AAAAAACIcGGE9DBNGH7o/SjyKU32",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "La Medalla",
+      "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 380373,
       "name": "La Gloria de Dios (feat. Evaluna Montaner)",
       "url": "https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "La Medalla",
-      "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236843,
+      "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 166140,
       "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236843,
-      "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
     },
     {
       "added_at": null,
@@ -779,30 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eva (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
     },
     {
       "added_at": null,

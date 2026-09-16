@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78252,
+  "num_followers": 78249,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "God I'm Just Grateful (Radio Version)",
-        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "God I'm Just Grateful - Radio Version",
-      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Hymns For The Christian Life",
         "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 305023,
       "name": "Lamb Of God/The Rock Won't Move (Medley) - Cathedral Sessions",
       "url": "https://open.spotify.com/track/3GTZSEFF0oaD6DEpD7r1iU"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
-      },
-      "artists": [
-        {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "For the Beauty of the Earth",
         "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 262643,
       "name": "For the Beauty of the Earth",
       "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "It is Finished (Acoustic)",
+        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "It is Finished - Acoustic",
+      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "It is Finished (Acoustic)",
-        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "It is Finished - Acoustic",
-      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Million Lifetimes",
+        "url": "https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Hope Has a Name",
+      "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "To the One",
         "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
       },
@@ -2535,26 +2551,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Jesus Victorious",
-        "url": "https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy"
-      },
-      "artists": [
-        {
-          "name": "Mozaiek Worship",
-          "url": "https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ"
-        },
-        {
-          "name": "Kees Kraayenoord",
-          "url": "https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070"
-        }
-      ],
-      "duration_ms": 378451,
-      "name": "Jesus Victorious",
-      "url": "https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Let There Be Light (Deluxe)",
         "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
@@ -2575,6 +2571,26 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Jesus Victorious",
+        "url": "https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy"
+      },
+      "artists": [
+        {
+          "name": "Mozaiek Worship",
+          "url": "https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ"
+        },
+        {
+          "name": "Kees Kraayenoord",
+          "url": "https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070"
+        }
+      ],
+      "duration_ms": 378451,
+      "name": "Jesus Victorious",
+      "url": "https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
       },
@@ -2587,22 +2603,6 @@
       "duration_ms": 271533,
       "name": "Lion and the Lamb",
       "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Million Lifetimes",
-        "url": "https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Hope Has a Name",
-      "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Canyons",
         "url": "https://open.spotify.com/album/57mkNBrzh5e29JZE9PMp5R"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 306585,
       "name": "Canyons - Live",
       "url": "https://open.spotify.com/track/1t8gqoON8xpcB7uAtm1TiW"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2026-04-04 06:11:10",

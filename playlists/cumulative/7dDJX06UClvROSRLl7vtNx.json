@@ -328,7 +328,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 137213,
       "name": "Adore",
       "url": "https://open.spotify.com/track/0JCqtgn8TEormw39j9SImc"
@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "All We Really Need",
+        "url": "https://open.spotify.com/album/0KKU3qPSaJLO1nCAklpLoc"
+      },
+      "artists": [
+        {
+          "name": "Honest Regrets",
+          "url": "https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg"
+        },
+        {
+          "name": "Tropical Tide",
+          "url": "https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "All We Really Need",
+      "url": "https://open.spotify.com/track/15CYXXQTfyDdmR8HEsuWFg"
+    },
+    {
+      "album": {
         "name": "Almost a Lover",
         "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
       },
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 204652,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/02aaSHVfwSflVPJEFswy1z"
@@ -3990,7 +4012,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 112504,
       "name": "Can't Dream Without You",
       "url": "https://open.spotify.com/track/37zPsrT0n4ncyEl7OyB0Tw"
@@ -4119,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Carry Me Into The Quiet",
+        "url": "https://open.spotify.com/album/7gxJUtd1EnO2udzRjYIwLb"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173552,
+      "name": "Carry Me Into The Quiet",
+      "url": "https://open.spotify.com/track/3dV5atFofHSQlhsQqiVNTt"
+    },
+    {
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/5lyz9rew3cKgJwP4OAx8Fi"
       },
@@ -4208,6 +4248,28 @@
       "duration_ms": 193714,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/1akulsmCT8i9lmAFlFNjRO"
+    },
+    {
+      "album": {
+        "name": "Caught Up In The Feeling",
+        "url": "https://open.spotify.com/album/13D21fyKDJidAlmKc2JKs1"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "Caught Up In The Feeling",
+      "url": "https://open.spotify.com/track/3O7MDoPEl7v36ur2gwTAFc"
     },
     {
       "album": {
@@ -15372,6 +15434,28 @@
     {
       "album": {
         "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/1X64eB8NHjNVuZgPxD51y1"
+      },
+      "artists": [
+        {
+          "name": "Madom",
+          "url": "https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM"
+        },
+        {
+          "name": "uast\u00e9",
+          "url": "https://open.spotify.com/artist/0OweHeYvHClQA06RdwNLUu"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/1oDaecZJpZnRPMWLPxR5B5"
+    },
+    {
+      "album": {
+        "name": "La Isla Bonita",
         "url": "https://open.spotify.com/album/70fZK2pDUWMEXv9xwfsAiC"
       },
       "artists": [
@@ -19036,7 +19120,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 119040,
       "name": "Miss Malibu",
       "url": "https://open.spotify.com/track/1FtKlW8ZYeKRpdnXVTqqCa"

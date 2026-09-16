@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,559 likes - 147 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,557 likes - 147 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 29 | [Loving Kind](https://open.spotify.com/track/1HLo7TR69LhFwAfae1kwWb) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Loving Kind](https://open.spotify.com/album/33kiHnAHL5LnmkjgDub1Db) | 2:26 |
 | 30 | [Ants](https://open.spotify.com/track/6ukoKgaAueZa5CSMxpJTqp) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Ants](https://open.spotify.com/album/36v0xY6ZNf6xorboxUqbeD) | 3:17 |
 | 31 | [time loop at hot slit](https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [time loop at hot slit](https://open.spotify.com/album/6pTyAyVoNqlOIEmDRPcgsZ) | 1:56 |
-| 32 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
+| 32 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/2yX9SLuaK4tCOltkGokW5D) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 |
 | 33 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
 | 34 | [know you know me better](https://open.spotify.com/track/6YUbMNn1eFHkQ8SKsQ5Igd) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [know you know me better](https://open.spotify.com/album/1f7NI9maMFDY7YcQHd0DMi) | 4:14 |
 | 35 | [The Beat of My Heart Goes](https://open.spotify.com/track/4PbDKtg3XUrvB04OEPkoqT) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT) | [The Beat Of My Heart Goes](https://open.spotify.com/album/0EqwVQsmMCpqlO5cDvhjGJ) | 3:27 |

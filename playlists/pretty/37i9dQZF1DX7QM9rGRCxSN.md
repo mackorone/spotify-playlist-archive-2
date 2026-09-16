@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,314 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,312 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pont des Arts \(Todo por ti\)](https://open.spotify.com/track/60cIaGeOltpsQuvdehmylx) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Apicultura para principiantes](https://open.spotify.com/album/4347ivXcsLTFkPFnL8ZXqP) | 4:08 |
 | 2 | [Ma](https://open.spotify.com/track/3AdRo34s0VgB8V3KDhfT6L) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Ma](https://open.spotify.com/album/0X22JBdLY3mDTgq7CPduvp) | 5:56 |
-| 3 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
+| 3 | [Canciones Tristes](https://open.spotify.com/track/5ZsQpjV1QPglW8R9ANYsPh) | [Cursi no muere](https://open.spotify.com/artist/6UQZ3J3hDBh29n2DUYRmMR) | [De Canciones Tristes](https://open.spotify.com/album/6pAkobibIhGzAiHEkvyfMS) | 2:01 |
 | 4 | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/track/6XOMy8PcSUZC44p1r5DKMZ) | [San Venus](https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ) | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/album/70yU5kh1YMIlwbY1Ua16Jn) | 2:35 |
-| 5 | [Canciones Tristes](https://open.spotify.com/track/5ZsQpjV1QPglW8R9ANYsPh) | [Cursi no muere](https://open.spotify.com/artist/6UQZ3J3hDBh29n2DUYRmMR) | [De Canciones Tristes](https://open.spotify.com/album/6pAkobibIhGzAiHEkvyfMS) | 2:01 |
+| 5 | [Quebrada](https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Quebrada](https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG) | 3:30 |
 | 6 | [micheladas](https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [micheladas](https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B) | 2:16 |
 | 7 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
 | 8 | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi) | 2:38 |
-| 9 | [Piel](https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Apoyo Emocional](https://open.spotify.com/album/657j47iSoFWivyz6e55mph) | 2:14 |
+| 9 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 10 | [El Camino de Morir Triste](https://open.spotify.com/track/4ogBUSzG4ZuxdAzFUmeV2L) | [Canciones Tristes Para Gente Fea](https://open.spotify.com/artist/4PNJEsAAKAR84J0bkyVic6) | [El Camino de Morir Triste](https://open.spotify.com/album/1hUgqfi21opxvTslhKNkcU) | 3:07 |
-| 11 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
+| 11 | [Piel](https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Apoyo Emocional](https://open.spotify.com/album/657j47iSoFWivyz6e55mph) | 2:14 |
 | 12 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
 | 13 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
 | 14 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 22 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
 | 23 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
 | 24 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
-| 25 | [Despertar](https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Despertar](https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG) | 3:48 |
-| 26 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
+| 25 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
+| 26 | [Despertar](https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Despertar](https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG) | 3:48 |
 | 27 | [U/T](https://open.spotify.com/track/1GUxYyg4Hg49icIJC9p0qA) | [Un Viejo Arcoiris](https://open.spotify.com/artist/2DmfnifKTOqFOMBBj7pPbb) | [Hace Dos Veranos](https://open.spotify.com/album/1PRTHcesi1VKgVWtkjIS6j) | 2:47 |
 | 28 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
 | 29 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 46 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |
 | 47 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
 | 48 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
-| 49 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
-| 50 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
+| 49 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
+| 50 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
 
 Snapshot ID: `AAAAAAg+G9qoqh7oz5S4/Ya1LZZYdNwR`

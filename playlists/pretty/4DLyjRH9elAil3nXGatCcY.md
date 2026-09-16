@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,574 likes - 575 songs - 1 day 13 hr 33 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,575 likes - 594 songs - 1 day 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -583,5 +583,24 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 573 | [Strangers](https://open.spotify.com/track/7lTwzE6Pa0BI9O1ok3KYZW) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Secret Level](https://open.spotify.com/album/5q0ZYZXvNOMPSUIoDxHPCd) | 4:43 |
 | 574 | [eternal spell](https://open.spotify.com/track/3gMcNUCdCFVvpeUEJjgUwv) | [cupsy](https://open.spotify.com/artist/75jzqyFMR0AvSPNB9qne7S), [4evrx](https://open.spotify.com/artist/25iVu5L3b8XUxDj1jdTPwh) | [recursus\*](https://open.spotify.com/album/4AMO4wrdcCCDcdUmuhZv2k) | 3:49 |
 | 575 | [Money](https://open.spotify.com/track/2iHzRnacYLM0bTo1LKE2zy) | [Nacho Picasso](https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0) | [Stoned and Dethroned](https://open.spotify.com/album/5Xu1V0bHgoOguvwbbILH8p) | 3:31 |
+| 576 | [It's Alive](https://open.spotify.com/track/5f3DeK86Zn8GUmMzRDq3PN) | [CHROMERA](https://open.spotify.com/artist/4cAX0NsvfsbmiSy4uFEUMx) | [It's Alive](https://open.spotify.com/album/0O6wOaHPMbyJoer27VBHcn) | 3:08 |
+| 577 | [HAYABUSA](https://open.spotify.com/track/4zkjn2Dr5XnDgLxEAkd6QF) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6) | [HAYABUSA / AYANE](https://open.spotify.com/album/6ApRGEL26T2oUtnmygixA3) | 3:31 |
+| 578 | [sustain++; \- Russian Version](https://open.spotify.com/track/5BDr43tS2rBu7bgcm32tAK) | [Misato](https://open.spotify.com/artist/7GcbnbEO8ss7dx46G4zDCK) | [sustain++; \(Russian Version\)](https://open.spotify.com/album/5emUQKqqflwRzqhqTCwDOE) | 5:57 |
+| 579 | [Let Me Fade Away](https://open.spotify.com/track/6H8ZfBKKKGMcZTjMQM0Yb7) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [Let Me Fade Away](https://open.spotify.com/album/2Af7L9Hj2IOmjsO0zbIQ68) | 3:18 |
+| 580 | [Heaven Punisher](https://open.spotify.com/track/1S71ul29hlkK2Wd6jsw9wx) | [Dusqk](https://open.spotify.com/artist/0qtZVPcLT2hRZ9FHQvrPTj) | [Heaven Punisher](https://open.spotify.com/album/3pHnfP2eiwJa78prwEyFNz) | 5:00 |
+| 581 | [Seraphim Tears](https://open.spotify.com/track/4WfHK4FCbNyZU0VfGYorU6) | [Dusqk](https://open.spotify.com/artist/0qtZVPcLT2hRZ9FHQvrPTj) | [Seraphim Tears](https://open.spotify.com/album/5eJbGW1S7Ha1GaDfLGuzvQ) | 3:02 |
+| 582 | [Major Threat](https://open.spotify.com/track/20cPJWh835WOAgnq3r1mda) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Leather Temple](https://open.spotify.com/album/0Cxr3NtS1eloIc1xPQCWDw) | 4:48 |
+| 583 | [Mannequin Love](https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 3:27 |
+| 584 | [Do Hot Girls Like Chords?](https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [KNOWER FOREVER](https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L) | 3:32 |
+| 585 | [D1g\-g2r](https://open.spotify.com/track/3SGSbhakB4ocITs3Fr5O96) | [Seibin](https://open.spotify.com/artist/74Xl4AiGLucUvFwjqneSvx), [SHIFT UP](https://open.spotify.com/artist/7mX1UO1Yztf0Jyh90SZIk7) | [STELLAR BLADE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0ImRpX3Ce1Gr7MWH4vehzw) | 2:15 |
+| 586 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
+| 587 | [For Free?](https://open.spotify.com/track/5qhwVYHhnuDR3Jzqqskqb6) | [Caroline Konstnar](https://open.spotify.com/artist/0zySf6MZDNGa0gsCx3lJgw) | [For Free?](https://open.spotify.com/album/7tLAjIzROnSPWkBjfwWsuC) | 1:20 |
+| 588 | [From the Aquarium City \(I\_006\_lyric\)](https://open.spotify.com/track/1Zw44xjbPAL0bZN75al4jV) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Maria MIki \(NOMELON NOLEMON\)](https://open.spotify.com/artist/7hUKf6ObGhAN5rfVh3XRnB) | [From the Aquarium City \(I\_006\_lyric\)](https://open.spotify.com/album/2ne6TBz3spmG4Wx4Tgt6BD) | 3:51 |
+| 589 | [Reality Check \(Slipping Away\)](https://open.spotify.com/track/1nD5yt2YUbhXia7jvb5GBY) | [Mildreda](https://open.spotify.com/artist/4urB3ruRWnEw1Z9Dy33lxg) | [Realities](https://open.spotify.com/album/2rVkUU93Hjwr3CMbfTVODc) | 5:48 |
+| 590 | [Constellations](https://open.spotify.com/track/4bYKp0DuNEPnCLiIWWI641) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [月世界遊泳\(Moonworld Playground\)](https://open.spotify.com/album/4LC9YNAQ271h2hj4U2MDzU) | 6:31 |
+| 591 | [Thinking of You](https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Thinking of You](https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob) | 2:59 |
+| 592 | [新緑の巨人](https://open.spotify.com/track/4rzvUqOj7uapoqjJ9inVEZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [愛をあるだけ、すべて](https://open.spotify.com/album/1nkblBF6TXGOXe3AGOxbEO) | 4:49 |
+| 593 | [温度](https://open.spotify.com/track/5hBfJo3UqMsotAdODz47CK) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 2:44 |
+| 594 | [Leeloo](https://open.spotify.com/track/0gClZf1PIct2glwGN8LdD2) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Annihilation](https://open.spotify.com/album/3Rs3vGktWThcePuUgjmvxN) | 4:16 |
 
-Snapshot ID: `AAABgljvoQ2dfbVHrlCMso9qFlILWGeB`
+Snapshot ID: `AAABlZZjfO6O/lzR6kQBpY/DN1kQGFni`

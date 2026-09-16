@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 絢香
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,881 songs - 10 day 6 hr 51 min
+3,884 songs - 10 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,9 +369,9 @@
 | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL) | 2:34 | 2023-11-21 | 2023-12-20 |
 | [CHEAT LIFE \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/5JKA7tGFrOFULXalGDdsr1) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [CHEAT LIFE \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/5SrwSVphcftHJVl3QvbRrp) | 2:34 | 2023-11-21 | 2023-11-23 |
 | [Cheers!Cheers!](https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [BUTTERFLY EFFECT](https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas) | 3:11 | 2023-06-27 | 2023-07-19 |
-| [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 | 2026-05-12 |  |
+| [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 | 2026-05-12 | 2026-09-16 |
 | [CHERISH](https://open.spotify.com/track/3meFYMFEP0xmCc650Zef5Z) | [Tsukasa Inoue](https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn), [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [CHERISH](https://open.spotify.com/album/5DiE9FTagQnBzoOS80repU) | 4:03 | 2023-01-26 | 2023-02-01 |
-| [CHERRY COKE](https://open.spotify.com/track/2QQJy4BnIdCDZheXgGF8Km) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [CHERRY COKE](https://open.spotify.com/album/652CAnbrC6xHKad2VLbL0M) | 3:26 | 2026-09-01 |  |
+| [CHERRY COKE](https://open.spotify.com/track/2QQJy4BnIdCDZheXgGF8Km) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [CHERRY COKE](https://open.spotify.com/album/652CAnbrC6xHKad2VLbL0M) | 3:26 | 2026-09-01 | 2026-09-16 |
 | [CHERRY PIE](https://open.spotify.com/track/3TmQjOgyKtYqu6wKGZL2GA) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [CHERRY PIE](https://open.spotify.com/album/5bTJO3Nx3Ii8Y23nWgbG0z) | 3:28 | 2023-01-19 | 2023-01-25 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-08 | 2022-12-14 |
 | [Cho\-chocolate drip](https://open.spotify.com/track/6mrv5bDHrD72t0nYwPKFLW) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Cho\-chocolate drip](https://open.spotify.com/album/3wDDXAgLY3IGNdHsX3imyf) | 2:56 | 2023-04-04 | 2023-04-12 |
@@ -497,6 +497,7 @@
 | [DISCO de DISCO](https://open.spotify.com/track/6B9LgmbNd03iVVVdUiUeaE) | [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [DISCO de DISCO](https://open.spotify.com/album/3Swvxt0q49yvXl1GfsKjOr) | 2:58 | 2024-07-30 | 2024-08-07 |
 | [Disco Revenge](https://open.spotify.com/track/4U4refyIcriFQ4LqwfzacM) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [AZK](https://open.spotify.com/artist/2sLu25h7FN3IoNikCXI6Py) | [Disco Revenge](https://open.spotify.com/album/4XLKv50XufwkcT65xIudP6) | 3:52 | 2022-08-09 | 2022-08-17 |
 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 | 2023-10-10 | 2024-01-05 |
+| [Discover](https://open.spotify.com/track/5mc6xsUhFTkQZwLDGLOOTT) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [新しいおかえり](https://open.spotify.com/album/62oMK9YcKnRnkMYw8NNkvd) | 3:59 | 2026-09-15 |  |
 | [DISTANCE](https://open.spotify.com/track/7m3SM2A5hitFgvAz4oqPFs) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [INTO THE DISTANCE](https://open.spotify.com/album/2o8DLlwvgmW0voRJLIPkPQ) | 4:00 | 2024-11-13 | 2024-11-20 |
 | [Ditty \- NV](https://open.spotify.com/track/5RsahemEpfCPpRXu7pdiih) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NV](https://open.spotify.com/album/6NebdhrFtfzmuCqMTxXoU3) | 2:37 | 2025-04-01 | 2025-04-09 |
 | [Dive](https://open.spotify.com/track/4f4x2kMaLHM34iI3Mf5Oqv) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [VIA](https://open.spotify.com/album/4GOFbrXksrL1KmBrKF5OMm) | 3:37 | 2025-05-21 | 2025-05-28 |
@@ -1239,7 +1240,7 @@
 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 | 2022-08-17 | 2022-08-24 |
 | [Midnight Phone](https://open.spotify.com/track/7CnGvZnLIawI3CxWP9cXRu) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [Midnight Phone](https://open.spotify.com/album/0qxY6Gw7UVYGWKDELpQwGD) | 3:42 | 2022-09-06 | 2022-09-15 |
 | [Midnight Whisper \- feat\. Masahiro Sengoku](https://open.spotify.com/track/1aPeIT8OXsQMByZQgv5VSj) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt) | [Midnight Whisper \(feat\. Masahiro Sengoku\)](https://open.spotify.com/album/1rQnK2vDkNQMSrqtLv3Q3v) | 2:56 | 2022-08-17 | 2022-08-31 |
-| [Midsummer](https://open.spotify.com/track/1DxeySt90h5kcfv6EeYdZE) | [RêRA](https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5) | [Midsummer](https://open.spotify.com/album/7Ij1SpiUf6B8cWbaXWk3ap) | 3:27 | 2026-09-08 |  |
+| [Midsummer](https://open.spotify.com/track/1DxeySt90h5kcfv6EeYdZE) | [RêRA](https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5) | [Midsummer](https://open.spotify.com/album/7Ij1SpiUf6B8cWbaXWk3ap) | 3:27 | 2026-09-08 | 2026-09-16 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 | 2025-12-19 |
 | [Mimi O Sumasu](https://open.spotify.com/track/548JbCzzAo5Vm283DQ0ZXt) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Hitotozukushizu \(Another Edition\)](https://open.spotify.com/album/3KKLO623sFUcK964j2dmPD) | 5:35 | 2022-12-20 | 2023-01-04 |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-09-29 | 2022-10-05 |
@@ -1530,6 +1531,7 @@
 | [Present](https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Present](https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6) | 4:26 | 2024-02-13 | 2024-03-20 |
 | [PRETTY IN SUMMER](https://open.spotify.com/track/4ZgkgfXqQ006VnR2d38z2e) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [PRETTY IN SUMMER](https://open.spotify.com/album/71zcnPovrrMNTzVoXepl5C) | 4:52 | 2024-11-13 | 2024-11-20 |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-19 | 2023-12-13 |
+| [princess](https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [HONESTY](https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg) | 2:27 | 2026-09-15 |  |
 | [prism](https://open.spotify.com/track/7E9OpXvD1Eqx2X87Fbk9Fo) | [Riho Sayashi](https://open.spotify.com/artist/1YTdqGyGxK0qx14Yn4lDnh) | [prism](https://open.spotify.com/album/0aKxXwDyzFs35vjlNCLa6b) | 3:08 | 2026-02-17 | 2026-03-04 |
 | [Private](https://open.spotify.com/track/7cHHIwZfGVue2yLk1QKljw) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Private](https://open.spotify.com/album/6HoymW6UA6u77eJcmDPYkQ) | 2:58 | 2025-02-04 | 2025-02-19 |
 | [PRLNPLR!](https://open.spotify.com/track/4AfstesiHWgjnaYIOewhVF) | [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [ONIGIRI HOUSE theme](https://open.spotify.com/album/0bRNCdpCVCSOsmcKBaCnN8) | 2:52 | 2025-07-22 | 2025-07-30 |
@@ -2622,6 +2624,7 @@
 | [オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:26 | 2026-06-30 |  |
 | [オリビアを聴きながら](https://open.spotify.com/track/0WaK9BPHv29BVAUizjvJod) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [TWIN\-SONGs〜尾崎亜美作品集 \(Self\-Cover Edition\)](https://open.spotify.com/album/1UthbTUSUv09U3wyQ6L0JL) | 3:39 | 2025-04-22 | 2025-04-30 |
 | [オリビアを聴きながら](https://open.spotify.com/track/6kya3wW9tpnXhe8D6oUhsp) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [オリビアを聴きながら](https://open.spotify.com/album/1nileDksBHaWXG0vn5HRjC) | 4:34 | 2022-11-03 | 2022-11-09 |
+| [オリーブ](https://open.spotify.com/track/56XMo48qEtAlwP2iVX0hKh) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [オリーブ](https://open.spotify.com/album/4TN5rvYtw92VnfRiG2auyP) | 4:35 | 2026-09-15 |  |
 | [オルフェウスと檸檬](https://open.spotify.com/track/0swb7p3lEEZI4SnrJ5Yc1r) | [Ritomo](https://open.spotify.com/artist/64iQeyx5NWyir3zQTWqM1I) | [beautiful junks](https://open.spotify.com/album/4kZ3q9peszYggPyEYuDak0) | 4:44 | 2025-09-09 | 2025-09-17 |
 | [オーバーラップ](https://open.spotify.com/track/73ajM2Yj0ce3MiAz0sBpRG) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [オーバーラップ](https://open.spotify.com/album/7D3vhF0b956sGCSzh98sRV) | 3:14 | 2025-01-14 | 2025-02-05 |
 | [オーマイガール](https://open.spotify.com/track/1XPFgODkUkGZSSL7LJh8Ql) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [オーマイガール](https://open.spotify.com/album/5OKmOrFqjASXboXwZQKEkP) | 2:29 | 2022-06-07 | 2022-07-28 |

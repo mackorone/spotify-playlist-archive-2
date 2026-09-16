@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists.\nCover: Tsumyoki",
+  "description": "English songs from Indian artists.\nCover: KAVYA & Goya",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -2532,6 +2532,28 @@
       "duration_ms": 248320,
       "name": "Give Up",
       "url": "https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu"
+    },
+    {
+      "album": {
+        "name": "Glass Trees",
+        "url": "https://open.spotify.com/album/0lCg1DYr6Skt0IIAfUkZeR"
+      },
+      "artists": [
+        {
+          "name": "KAVYA",
+          "url": "https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2"
+        },
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154645,
+      "name": "Glass Trees",
+      "url": "https://open.spotify.com/track/1gPtNF5njxHqJCNgJfAXIT"
     },
     {
       "album": {

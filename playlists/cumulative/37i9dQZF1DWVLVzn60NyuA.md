@@ -4,7 +4,7 @@
 
 > Hot songs for the hot summer.
 
-617 songs - 1 day 8 hr 13 min
+618 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Occuper](https://open.spotify.com/track/4V8y5OWqDxnoDIJ291i95B) | [Kiba](https://open.spotify.com/artist/0bz2VW1nPJpBXuPgZ8zMeY) | [Occuper](https://open.spotify.com/album/3vl9xM1ZhrdrnujGxeSvDH) | 2:24 | 2021-12-16 | 2022-07-29 |
 | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/track/4fGEopuAuQMFOv0aw7DjZa) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ogen Dicht \(Wowo Será\)](https://open.spotify.com/album/0IExXLUzrIO6R9MJjmjDYh) | 3:17 | 2021-12-16 | 2022-02-24 |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-07-07 | 2026-09-08 |
+| [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 | 2026-09-15 |  |
 | [Ojoro](https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ojoro](https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ) | 3:12 | 2021-12-16 | 2026-09-08 |
 | [Ojuelegba](https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:36 | 2021-12-16 | 2022-06-13 |
 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2024-01-31 | 2025-11-08 |
@@ -529,7 +530,7 @@
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2023-04-07 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-05-24 |  |
 | [Table For Two](https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Quarantime: The Lost Files](https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0) | 2:34 | 2021-12-16 | 2023-03-01 |
-| [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 | 2024-11-21 |  |
+| [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 | 2024-11-21 | 2026-09-16 |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/6ISN7qvnXR0EdxE0l7vTRK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 4:41 | 2026-07-07 |  |
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-07-07 |  |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2026-07-07 |  |

@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-16",
       "duration_ms": 247666,
       "name": "A Touch Of Love (The Butterfly Sting)",
       "url": "https://open.spotify.com/track/5omPAWbtgbQvsSrRKex9JP"
@@ -1743,6 +1743,36 @@
     },
     {
       "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Steve Barton",
+          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254440,
+      "name": "All I Ask of You",
+      "url": "https://open.spotify.com/track/7uq8865MVnUPMFJ8dLnedm"
+    },
+    {
+      "album": {
         "name": "You\u2019ll Never Walk Alone",
         "url": "https://open.spotify.com/album/7v9b5Wm7zyhHGmkYb3ln2a"
       },
@@ -1844,36 +1874,6 @@
       "duration_ms": 294160,
       "name": "All I Ask of You",
       "url": "https://open.spotify.com/track/5WkpesyPvnmhbJNUeOKpGa"
-    },
-    {
-      "album": {
-        "name": "The Phantom of the Opera",
-        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
-      },
-      "artists": [
-        {
-          "name": "Phantom Of The Opera Original London Cast",
-          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
-        },
-        {
-          "name": "Steve Barton",
-          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
-        },
-        {
-          "name": "Sarah Brightman",
-          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
-        },
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254440,
-      "name": "All I Ask of You",
-      "url": "https://open.spotify.com/track/7uq8865MVnUPMFJ8dLnedm"
     },
     {
       "album": {
@@ -6586,7 +6586,7 @@
           "url": "https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         }
       ],
@@ -10090,7 +10090,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -10540,7 +10540,7 @@
           "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         },
         {
@@ -13308,7 +13308,7 @@
           "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         },
         {
@@ -14172,7 +14172,7 @@
           "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         }
       ],
@@ -16759,6 +16759,28 @@
     },
     {
       "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3xKuAMBlaf5GVMx2R7NmE0"
+    },
+    {
+      "album": {
         "name": "The Phantom of the Opera (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fs1YLCt6JVsLcfRM9kVzQ"
       },
@@ -16818,28 +16840,6 @@
       "duration_ms": 154840,
       "name": "Overture",
       "url": "https://open.spotify.com/track/2s6QTpxzdh42bMg6TrzP37"
-    },
-    {
-      "album": {
-        "name": "The Phantom of the Opera",
-        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
-      },
-      "artists": [
-        {
-          "name": "Phantom Of The Opera Original London Cast",
-          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
-        },
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        }
-      ],
-      "date_added": "2025-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184800,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3xKuAMBlaf5GVMx2R7NmE0"
     },
     {
       "album": {
@@ -17614,7 +17614,7 @@
       },
       "artists": [
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         },
         {
@@ -18104,7 +18104,7 @@
           "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         }
       ],
@@ -18748,7 +18748,7 @@
           "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         },
         {
@@ -27949,6 +27949,40 @@
     },
     {
       "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
+      },
+      "artists": [
+        {
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Michael Crawford",
+          "url": "https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG"
+        },
+        {
+          "name": "Steve Barton",
+          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384040,
+      "name": "Wandering Child / Bravo, Monsieur",
+      "url": "https://open.spotify.com/track/4G6n2b25ZgNpzVgzEETDr8"
+    },
+    {
+      "album": {
         "name": "The Phantom Of The Opera",
         "url": "https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6"
       },
@@ -27980,40 +28014,6 @@
       "duration_ms": 384040,
       "name": "Wandering Child / Bravo, Monsieur",
       "url": "https://open.spotify.com/track/6hrnZnUl70iElye8lbjoI5"
-    },
-    {
-      "album": {
-        "name": "The Phantom of the Opera",
-        "url": "https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr"
-      },
-      "artists": [
-        {
-          "name": "Phantom Of The Opera Original London Cast",
-          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
-        },
-        {
-          "name": "Sarah Brightman",
-          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
-        },
-        {
-          "name": "Michael Crawford",
-          "url": "https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG"
-        },
-        {
-          "name": "Steve Barton",
-          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
-        },
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        }
-      ],
-      "date_added": "2025-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 384040,
-      "name": "Wandering Child / Bravo, Monsieur",
-      "url": "https://open.spotify.com/track/4G6n2b25ZgNpzVgzEETDr8"
     },
     {
       "album": {
@@ -28780,7 +28780,7 @@
           "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         },
         {
-          "name": "Phantom Of The Opera Original London Cast",
+          "name": "\"The Phantom Of The Opera\" Original London Cast",
           "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
         },
         {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,047 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,075 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 36 | [Quitate La Mascara](https://open.spotify.com/track/4k7UQjVkgyqAJ3pEK511YS) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [From the Beginning](https://open.spotify.com/album/3nr9RkYkXpSjmuoyK3IosZ) | 4:31 |
 | 37 | [Salome](https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw) | 4:42 |
 | 38 | [Estamos en Salsa](https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa](https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G) | 4:50 |
-| 39 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |
-| 40 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
-| 41 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
-| 42 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
-| 43 | [Agua De Clavelito](https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g) | 6:22 |
-| 44 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 5:33 |
-| 45 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
+| 39 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
+| 40 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 41 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
+| 42 | [Agua De Clavelito](https://open.spotify.com/track/7I9d2fIkGK7r4Wjv4p2EJW) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g) | 6:22 |
+| 43 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 5:33 |
+| 44 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
+| 45 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |
 | 46 | [Quítate Tú](https://open.spotify.com/track/2KOiIR272UwNz61tWNhouU) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Fania All Stars Campeones](https://open.spotify.com/album/2OY2VLc3Bt8HjtHaIg2hyH) | 5:31 |
 | 47 | [Cucala](https://open.spotify.com/track/068Vh4J8cy4k5YyIBXRfwK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Viva la Reina de la Salsa](https://open.spotify.com/album/39MP5U6g9wL90ieQzXWAb7) | 3:49 |
 | 48 | [El Watusi](https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG) | 2:39 |
