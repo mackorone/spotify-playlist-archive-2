@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 64 songs - 3 hr 40 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 66 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 62 | [Spy Theme](https://open.spotify.com/track/7n1hddb7fPRDnbOncqkwNB) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [Spy Theme](https://open.spotify.com/album/5ozFsg4dHIhCs82ns81HL4) | 3:00 |
 | 63 | [Ghost](https://open.spotify.com/track/1X0SFZray8E9nkhka4kvAB) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ghost](https://open.spotify.com/album/3kaHd8JpRPfVAXvaIz4lyW) | 3:24 |
 | 64 | [Love Your Country](https://open.spotify.com/track/6p0X6WIUT2hIQ4ElJZgsmc) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Love Your Country](https://open.spotify.com/album/6WSDhO1ccOFKABv08pXHFA) | 2:58 |
+| 65 | [Who am I?](https://open.spotify.com/track/20AnxJsqczyZNi9IEqP6N3) | [Giuliana May](https://open.spotify.com/artist/10tQbQdPOA3TwUQzyZl8Cr) | [Who am I?](https://open.spotify.com/album/0LHr1EzCGPpStPJuSdMeiT) | 2:46 |
+| 66 | [good stuff](https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM) | [string lights](https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV) | [good stuff](https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0) | 1:10 |
 
-Snapshot ID: `AAAQHq2EzSaPZprsOZegES18HO3z8waI`
+Snapshot ID: `AAAQIKLxXFQGTDTV93iW5Dpuzg2/ysvV`

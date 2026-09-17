@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ONE OR EIGHT
 
-1,119 songs - 2 day 12 hr 27 min
+1,120 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [Spacecraft](https://open.spotify.com/track/0zSghGGFtB2riQEwUUrU96) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft](https://open.spotify.com/album/2NOfMu6QwFqseghQm1OMEw) | 3:13 | 2025-02-04 | 2025-04-24 |
 | [Sparkle Summer](https://open.spotify.com/track/69dL4ZFvQFW0Aq0OHnMkTu) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4jA7yKF3SEALY8YmmCPzw1) | 3:10 | 2025-07-08 | 2025-07-15 |
 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 | 2023-12-21 | 2024-01-20 |
+| [Spring Rain](https://open.spotify.com/track/0ltaXvuHBpqi5PycCLD6go) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [KAKERA \-運命のピース\-](https://open.spotify.com/album/5TSAFWfETbm03LBwwStD0R) | 4:18 | 2026-09-15 |  |
 | [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/track/6dlZBdjZKDrm94ukNDQAs4) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [SSS \(Sending Secret Signals\) feat\. HYDE](https://open.spotify.com/album/13MAyPPM3zdF5B1ywBWPm8) | 3:07 | 2026-01-25 | 2026-04-29 |
 | [Stage of the Universe](https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Stage of the Universe](https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z) | 3:33 | 2024-01-02 | 2024-01-10 |
 | [Stagefright](https://open.spotify.com/track/2x3VhcIKHbRZa5ItTo3Qtl) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [\[8.X\]](https://open.spotify.com/album/1fE0XTysCTDDO4Pm9SZMkR) | 2:40 | 2026-07-21 | 2026-09-16 |

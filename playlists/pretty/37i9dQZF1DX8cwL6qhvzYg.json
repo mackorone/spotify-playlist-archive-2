@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe DENNA LA PORRI y 8Uno en portada",
-  "num_followers": 459768,
+  "num_followers": 459805,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-11 18:00:16",
       "album": {
-        "name": "La Charamusca",
-        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
-      },
-      "artists": [
-        {
-          "name": "Sonido La Conga",
-          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "La Charamusca",
-      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
-    },
-    {
-      "added_at": "2026-09-11 18:00:16",
-      "album": {
         "name": "Adicto a Tu Piel (Rebajada)",
         "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-09-11 18:00:16",
       "album": {
-        "name": "Ya No Hay Beatles (2026 Remasterizada)",
-        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
+        "name": "La Charamusca",
+        "url": "https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG"
       },
       "artists": [
         {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Sonido La Conga",
+          "url": "https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex"
         }
       ],
-      "duration_ms": 168917,
-      "name": "Ya No Hay Beatles - 2026 Remasterizada",
-      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+      "duration_ms": 216106,
+      "name": "La Charamusca",
+      "url": "https://open.spotify.com/track/5FhS4o00eET27gljoXscDw"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -1327,6 +1311,22 @@
       "duration_ms": 709545,
       "name": "Medley Apache - En Vivo",
       "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
+    },
+    {
+      "added_at": "2026-09-11 18:00:16",
+      "album": {
+        "name": "Ya No Hay Beatles (2026 Remasterizada)",
+        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 168917,
+      "name": "Ya No Hay Beatles - 2026 Remasterizada",
+      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-09-11 18:00:16",
       "album": {
+        "name": "El Zapatazo Tribal (Remix)",
+        "url": "https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        }
+      ],
+      "duration_ms": 197462,
+      "name": "El Zapatazo Tribal (Remix)",
+      "url": "https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB"
+    },
+    {
+      "added_at": "2026-09-11 18:00:16",
+      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2026-09-11 18:00:16",
       "album": {
-        "name": "El Zapatazo Tribal (Remix)",
-        "url": "https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh"
-      },
-      "artists": [
-        {
-          "name": "DISTINTO NORTE",
-          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "El Zapatazo Tribal (Remix)",
-      "url": "https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB"
-    },
-    {
-      "added_at": "2026-09-11 18:00:16",
-      "album": {
         "name": "20vo Aniversario",
         "url": "https://open.spotify.com/album/79bgGXUJ95LrJ7uL4o8unR"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 156400,
       "name": "Peque\u00f1a y Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3IbfRWQ9IFrK2Lwd0lmxaE"
+    },
+    {
+      "added_at": "2026-09-11 18:00:16",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "La Pobreza - Rebajada",
+      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -1891,22 +1907,6 @@
       "duration_ms": 130666,
       "name": "pa' vailar pegaditos",
       "url": "https://open.spotify.com/track/5FU6M9qGz18iFL9ZfG6vq0"
-    },
-    {
-      "added_at": "2026-09-11 18:00:16",
-      "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "La Pobreza - Rebajada",
-      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
     },
     {
       "added_at": "2026-09-11 18:00:16",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-09-11 18:00:16",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/338PArRoNVAL7dTcmT5DZV"
-      },
-      "artists": [
-        {
-          "name": "Llama Y Azul El Nuevo Sonido Andino De La Cumbia",
-          "url": "https://open.spotify.com/artist/2OnCxDKWQ8afvPJ2R6Gc6b"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Claudia",
-      "url": "https://open.spotify.com/track/72V24MGd2YS7eyjMakPpHA"
-    },
-    {
-      "added_at": "2026-09-11 18:00:16",
-      "album": {
         "name": "Cumbia De Las Velas",
         "url": "https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 293362,
       "name": "Cumbia De Las Velas",
       "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
+    },
+    {
+      "added_at": "2026-09-11 18:00:16",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/338PArRoNVAL7dTcmT5DZV"
+      },
+      "artists": [
+        {
+          "name": "Llama Y Azul El Nuevo Sonido Andino De La Cumbia",
+          "url": "https://open.spotify.com/artist/2OnCxDKWQ8afvPJ2R6Gc6b"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/72V24MGd2YS7eyjMakPpHA"
     },
     {
       "added_at": "2026-09-11 18:00:16",

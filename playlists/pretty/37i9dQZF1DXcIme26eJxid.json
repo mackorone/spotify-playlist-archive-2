@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 135182,
+  "num_followers": 135223,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Fatteliku (Live in Athens 1987)",
         "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
       },
       "artists": [
         {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
+      "duration_ms": 264306,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
     },
     {
       "added_at": "2025-09-30 11:32:09",

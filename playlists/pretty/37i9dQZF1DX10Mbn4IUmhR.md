@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,735 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,734 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 29 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 30 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
 | 31 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
-| 32 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
-| 33 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
+| 32 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
+| 33 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
 | 34 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
 | 35 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 36 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 62 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 63 | [Back To You](https://open.spotify.com/track/0fe3svhDknO3X0F2Cy3KXP) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Back To You](https://open.spotify.com/album/6OVeXNQHYeRWkRtnEcm9EC) | 3:14 |
 | 64 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
-| 65 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
-| 66 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
-| 67 | [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 |
-| 68 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
+| 65 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
+| 66 | [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 |
+| 67 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
+| 68 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
 | 69 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
-| 70 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
+| 70 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 71 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
 | 72 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 |
 | 73 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 75 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
 | 76 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 |
 | 77 | [Work Like That](https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Not My Circus](https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ) | 2:51 |
-| 78 | [Lighthouse](https://open.spotify.com/track/0e7gzyPH40qnJWJzCt7qOX) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [Seasons](https://open.spotify.com/album/0hjPhlvKTwUFXvphvv9LBG) | 3:12 |
-| 79 | [Net Ek en Jy](https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP) | [Donkerbaai](https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL), [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Net Ek en Jy](https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY) | 3:17 |
+| 78 | [Net Ek en Jy](https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP) | [Donkerbaai](https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL), [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Net Ek en Jy](https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY) | 3:17 |
+| 79 | [Lighthouse](https://open.spotify.com/track/0e7gzyPH40qnJWJzCt7qOX) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [Seasons](https://open.spotify.com/album/0hjPhlvKTwUFXvphvv9LBG) | 3:12 |
 | 80 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 
 Snapshot ID: `AAAAANc+TN6W//dkrATaOYbDK9So2ie6`

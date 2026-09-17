@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 186285,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
@@ -9013,6 +9013,24 @@
     },
     {
       "album": {
+        "name": "GUM&DROP",
+        "url": "https://open.spotify.com/album/1UrRVoRFsslGvbiUDUvtIQ"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171796,
+      "name": "GUM&DROP",
+      "url": "https://open.spotify.com/track/52mNHkd1oWF0LVKy549iOO"
+    },
+    {
+      "album": {
         "name": "The Veil",
         "url": "https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9"
       },
@@ -9024,7 +9042,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 145266,
       "name": "Gut",
       "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
@@ -12154,6 +12172,24 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "album": {
+        "name": "Kodoku EP",
+        "url": "https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "Kodoku",
+      "url": "https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp"
     },
     {
       "album": {
@@ -17904,7 +17940,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 172615,
       "name": "pink flamingo",
       "url": "https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c"
@@ -22298,6 +22334,24 @@
       "duration_ms": 256000,
       "name": "Stroll",
       "url": "https://open.spotify.com/track/6ROEvtwxMEFIAwZNsQLivQ"
+    },
+    {
+      "album": {
+        "name": "Born with Love Pt. 1",
+        "url": "https://open.spotify.com/album/5hQNCPx6siJpJQ600eN2Lx"
+      },
+      "artists": [
+        {
+          "name": "HALLEY",
+          "url": "https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282538,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/64uYTJCN56usmGJ1aOEyps"
     },
     {
       "album": {
@@ -27409,6 +27463,40 @@
     },
     {
       "album": {
+        "name": "\u3042\u308a\u3075\u308c\u305f\u4e16\u754c\u306e\u679c\u3066\u306b (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+        "url": "https://open.spotify.com/album/6KTsZEbfsMrOl60ApHL7hK"
+      },
+      "artists": [
+        {
+          "name": "YAO",
+          "url": "https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "\u3042\u308a\u3075\u308c\u305f\u4e16\u754c\u306e\u679c\u3066\u306b (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+      "url": "https://open.spotify.com/track/7HNGIBi7xkcN1YGyhdjPkA"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3057\u3093",
         "url": "https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO"
       },
@@ -27562,7 +27650,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 152546,
       "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
       "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
@@ -27982,6 +28070,24 @@
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
+    },
+    {
+      "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
     },
     {
       "album": {
@@ -30292,7 +30398,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 221000,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
@@ -32812,7 +32918,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 174082,
       "name": "\u660e\u308b\u3044\u90e8\u5c4b",
       "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
@@ -35032,6 +35138,24 @@
       "duration_ms": 220236,
       "name": "\u982c\u6756",
       "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+        "url": "https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236856,
+      "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+      "url": "https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob"
     },
     {
       "album": {

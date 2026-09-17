@@ -4,7 +4,7 @@
 
 > The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.
 
-385 songs - 22 hr 47 min
+386 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2026-06-05 | 2026-09-11 |
 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 | 2022-11-07 | 2026-06-06 |
 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 | 2022-11-07 | 2026-06-06 |
-| [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 | 2026-06-05 |  |
+| [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 | 2026-06-05 | 2026-09-17 |
 | [Independent](https://open.spotify.com/track/5kDDKAqJydefwW7oFiXRFo) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Die gute Seite \(Die lange Seite\)](https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq) | 2:58 | 2026-06-26 | 2026-07-04 |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2026-06-05 |  |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-11-07 |  |
@@ -238,6 +238,7 @@
 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 | 2026-07-03 | 2026-07-11 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2026-07-03 | 2026-07-11 |
 | [Now And Forever \- 2024 Remastered](https://open.spotify.com/track/48v8YUQ14b8uDNvqEPjr1U) | [DJ Kaos](https://open.spotify.com/artist/25IdOX2HbRLOCP98XoJujb), [Khan](https://open.spotify.com/artist/5065aHa5E9M7GUqXpcpCxC) | [Hello Stranger \(2024 Remastered\)](https://open.spotify.com/album/11qx2Tf2NTiGqnpI0dQtHa) | 6:27 | 2026-06-26 | 2026-07-04 |
+| [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 | 2026-09-10 |  |
 | [Não É Proibido](https://open.spotify.com/track/5mhB5No6cwsFLZ7rXKVAks) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Ao Meu Redor](https://open.spotify.com/album/7g6uYHzZxJaXJ2QgWprsjw) | 3:32 | 2026-06-19 | 2026-06-27 |
 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4) | 2:50 | 2026-06-19 | 2026-06-27 |
 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 | 2026-06-05 |  |

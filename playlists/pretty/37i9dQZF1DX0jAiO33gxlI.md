@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,008 likes - 74 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,998 likes - 74 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 2 | [Ensinamentos de Mama](https://open.spotify.com/track/6Uy3HnE9oc4n541vNuZbN6) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9) | [Entre Praças, Papéis e Pastéis de Nata](https://open.spotify.com/album/71Su9gwBJWGZfcALMbK73I) | 3:47 |
 | 3 | [ELEVADOR](https://open.spotify.com/track/0JcVjccKJElZqLx24bVebN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Jenni Rocha](https://open.spotify.com/artist/3JFNge4eb1nMMOwa0txAuV), [Nemésio Skillz](https://open.spotify.com/artist/6hr5UIHSzPW2h4qGle7ycG), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [ELEVADOR](https://open.spotify.com/album/7GqmyQYow2nvutcu4J3hdu) | 3:27 |
 | 4 | [Serpentes](https://open.spotify.com/track/59NUSlztfc0aR3BSeMC1ch) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [Serpentes](https://open.spotify.com/album/4zb0zdfIkeBbCJ8cMbst7I) | 2:50 |
-| 5 | [Bigodi de Leite Ninho](https://open.spotify.com/track/6J0wu8a2eiYwWdCrIJrCOO) | [A\-Ka](https://open.spotify.com/artist/1MxsjPNCsjvisnuwt88jKu), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX), [Cleópatra](https://open.spotify.com/artist/2bQ3dlII8WIoe95MJV2w46) | [Bigodi de Leite Ninho](https://open.spotify.com/album/1XHurWoICFdkzKJ0MdMrHx) | 2:36 |
+| 5 | [Bigodi de Leite Ninho](https://open.spotify.com/track/6J0wu8a2eiYwWdCrIJrCOO) | [A\-Ka](https://open.spotify.com/artist/1MxsjPNCsjvisnuwt88jKu), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX), [CLÉO](https://open.spotify.com/artist/7fSKaRJxt5oLMKT01pLGHj) | [Bigodi de Leite Ninho](https://open.spotify.com/album/1XHurWoICFdkzKJ0MdMrHx) | 2:36 |
 | 6 | [Miragem](https://open.spotify.com/track/1L0TyU4DV9y3ReGgjdLZCv) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Curiosidadista](https://open.spotify.com/album/1OHHUmEW4CSk5NmZPovKWN) | 2:52 |
 | 7 | [9090 \(Te Ligam\)](https://open.spotify.com/track/0Q66y1Jie4uJXkMmd2S0mj) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [9090 \(Te Ligam\)](https://open.spotify.com/album/6HZjCjtzO4VjMVDzf9EKBY) | 3:41 |
 | 8 | [Encontro](https://open.spotify.com/track/1FPm76VfDY4Y6itfVoJOK6) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [outro lado](https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6) | [Encontro e Recomeço](https://open.spotify.com/album/3PFNQdlspYrW0dJQ7VBBrc) | 4:05 |

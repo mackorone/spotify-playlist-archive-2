@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-464 songs - 1 day 5 hr 54 min
+465 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 | 2026-08-10 |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2026-02-02 |
 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-09-07 |
+| [Gotta Be](https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be](https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T) | 3:22 | 2026-09-11 |  |
 | [GROOVINU](https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [GROOVINU](https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks) | 2:46 | 2026-04-03 |  |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
 | [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 | 2024-08-30 | 2024-09-19 |
@@ -314,7 +315,7 @@
 | [Out Of My Mind](https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Out Of My Mind](https://open.spotify.com/album/20Aptp7qjkR10TZjVCx6B2) | 3:39 | 2025-08-15 | 2025-09-03 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-07-24 |  |
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 |  |
-| [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 |  |
+| [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 | 2026-09-17 |
 | [Patti](https://open.spotify.com/track/4T5Z0tSggegOb89AORT6AM) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Patti](https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s) | 3:22 | 2021-07-24 | 2023-06-25 |
 | [Pawa!](https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Pawa!](https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3) | 4:06 | 2026-03-13 | 2026-09-09 |
 | [Petite Etoile](https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:35 | 2025-03-28 |  |

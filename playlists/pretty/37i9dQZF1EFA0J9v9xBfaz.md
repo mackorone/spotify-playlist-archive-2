@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202 likes - 185 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 185 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 112 | [Sin Ti](https://open.spotify.com/track/3PYvLYdjqxpyDLtsNNvWBY) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 3:31 |
 | 113 | [Tu y yo](https://open.spotify.com/track/2YHR2QhK6nWta7rbY1on6i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chris Marshall](https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:26 |
 | 114 | [Crazy](https://open.spotify.com/track/1GBUwfPIMLV5PMuM4TmYIi) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 4:03 |
-| 115 | [Mi Ex](https://open.spotify.com/track/6oSmQTvt30dgjTwd3VAXYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:03 |
-| 116 | [VÁMONOS](https://open.spotify.com/track/56oworO3N4afW1jVPA6TCR) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:31 |
+| 115 | [VÁMONOS](https://open.spotify.com/track/56oworO3N4afW1jVPA6TCR) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:31 |
+| 116 | [Mi Ex](https://open.spotify.com/track/6oSmQTvt30dgjTwd3VAXYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:03 |
 | 117 | [Me Olvidé](https://open.spotify.com/track/1mfMlthHXTmgbQd2MtF1tA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:37 |
 | 118 | [Puesto Pa' Ti \(feat\. FARIANA\)](https://open.spotify.com/track/28TVPUoiGSAheJW3EnI184) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:23 |
 | 119 | [EL ROYCE \(feat\. Natti Natasha, iZaak\)](https://open.spotify.com/track/475Alro27tSTuCgaBPaqfx) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:54 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 184 | [Definitivamente](https://open.spotify.com/track/2Dms2O1sG4cAzEMHbBp5ST) | [Tomy DJ](https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z) | [Definitivamente](https://open.spotify.com/album/2CjZWrOpdiFhSR6eZlFbUO) | 3:23 |
 | 185 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AccZyAAAAACbgsvqYsLAyQtretOAPvP8`
+Snapshot ID: `AccfmgAAAAAr1PhTEeUOy5Z3v25TNR5/`

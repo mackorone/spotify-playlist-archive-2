@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,187 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,221 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 46 | [You're Not Alone](https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [You're Not Alone](https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy) | 3:19 |
 | 47 | [The Scientist](https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Scientist](https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb) | 3:27 |
 | 48 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
-| 49 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
-| 50 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
+| 49 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
+| 50 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
 | 51 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
 | 52 | [Dancing In The Moonlight](https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Dancing In The Moonlight](https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl) | 3:03 |
 | 53 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |

@@ -303,22 +303,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Capacity",
         "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 306813,
       "name": "Mythological Beauty",
       "url": "https://open.spotify.com/track/3DM9c4wXXe0FBIBE6sgahF"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Book Cover",
-        "url": "https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Book Cover",
-      "url": "https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 356522,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Book Cover",
+        "url": "https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Book Cover",
+      "url": "https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Meet You There",
-        "url": "https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR"
-      },
-      "artists": [
-        {
-          "name": "Katie Lynne Sharbaugh",
-          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
-        }
-      ],
-      "duration_ms": 220072,
-      "name": "Meet You There",
-      "url": "https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 235593,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR"
+      },
+      "artists": [
+        {
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
+        }
+      ],
+      "duration_ms": 220072,
+      "name": "Meet You There",
+      "url": "https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Reason To Live",
-        "url": "https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby"
-      },
-      "artists": [
-        {
-          "name": "Fruition",
-          "url": "https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8"
-        }
-      ],
-      "duration_ms": 195395,
-      "name": "Reason To Live",
-      "url": "https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
+        "name": "Reason To Live",
+        "url": "https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby"
+      },
+      "artists": [
+        {
+          "name": "Fruition",
+          "url": "https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8"
+        }
+      ],
+      "duration_ms": 195395,
+      "name": "Reason To Live",
+      "url": "https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
         "name": "Love Me Today",
         "url": "https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 231200,
       "name": "Love Me Today",
       "url": "https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "One Of Those Things",
+        "url": "https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "One Of Those Things",
+      "url": "https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1427,22 +1443,6 @@
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
-        "name": "One Of Those Things",
-        "url": "https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Clearwater",
-          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "One Of Those Things",
-      "url": "https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN"
     },
     {
       "added_at": "2026-07-10 04:01:48",

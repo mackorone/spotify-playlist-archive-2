@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Babet
+> Frisse Nederlandse pop\. Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
 1,445 songs - 2 day 20 hr 54 min
 

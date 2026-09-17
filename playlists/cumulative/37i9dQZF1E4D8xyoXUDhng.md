@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Walter Hawkins, Amber Bullock and more
+> With Kelontae Gavin, Mikael Karlsson, Daryl Coley and more
 
 2,027 songs - 6 day 13 hr 3 min
 

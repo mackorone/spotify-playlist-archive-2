@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: owellciao\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Hema 郑诗妮\. Artwork: Isu Kim.
 
-1,520 songs - 3 day 11 hr 23 min
+1,521 songs - 3 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1469,6 +1469,7 @@
 | [別流淚](https://open.spotify.com/track/4W4AX6oBDpBNkOXbbE4azp) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [別流淚](https://open.spotify.com/album/7uxLUqubu1VrRn0BOnRxMc) | 2:03 | 2025-09-12 | 2025-11-08 |
 | [发呀发大财 Huat Ah Huat](https://open.spotify.com/track/0dpDVHtL0E85c1biQFllWm) | [大牛 DANIEL LOO](https://open.spotify.com/artist/39b1jqdiHFU7srcWyxrAja), [咏瑄 Miki Tew](https://open.spotify.com/artist/3oA1twSg0b7fpUdXAFQHcj), [林展申 Robin Lim](https://open.spotify.com/artist/7g8iippcHY86xLVRVX3o7b), [蓝雯琦 Celine lam](https://open.spotify.com/artist/5fuPkfTLV4bQuTnZ0SgesD) | [发呀发大财 Huat Ah Huat](https://open.spotify.com/album/5jWFgSiGFuMdhesgE7JCZt) | 3:14 | 2026-01-30 | 2026-03-21 |
 | [只是朋友](https://open.spotify.com/track/12g2g9t7VYNwdp5yrWNTGb) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [只是朋友](https://open.spotify.com/album/1wVtLjvq5hCScvfLEmrI2a) | 3:34 | 2026-08-26 |  |
+| [存在的意义](https://open.spotify.com/track/3DfJsaGfl7G1nd0lnm9GoB) | [Hema 郑诗妮](https://open.spotify.com/artist/7vDkKjLyEjcjlBnAuj3N6s) | [存在的意义](https://open.spotify.com/album/1YAC9npXGDgzqBALlABto2) | 4:21 | 2026-09-16 |  |
 | [家](https://open.spotify.com/track/4VwDUUSNtsj7N1vaAoH3VS) | [Jasmine C](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [家](https://open.spotify.com/album/1JMkKYEodLF0dHrlo2r6Bq) | 4:14 | 2026-09-02 |  |
 | [寫好的手信](https://open.spotify.com/track/6Lpb3G0DjLMwwcpczu2lEp) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj), [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [寫好的手信](https://open.spotify.com/album/3V4KbORBPdPfx3Jto0B8Kk) | 5:09 | 2025-10-24 | 2026-03-14 |
 | [寻找梦（超级宝贝2025主题曲）](https://open.spotify.com/track/0fd2Ggyjf27pnT0oxVswOE) | [Zyann](https://open.spotify.com/artist/6szARpNac5jGl7hBsby0kZ) | [寻找梦](https://open.spotify.com/album/2WAx4u1GJh3gcU6wQfzips) | 4:00 | 2025-07-31 | 2025-09-06 |

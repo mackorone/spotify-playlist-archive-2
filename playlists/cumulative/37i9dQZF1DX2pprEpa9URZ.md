@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-534 songs - 2 day 4 hr 14 min
+535 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Jangal](https://open.spotify.com/track/3IdFbXj1lsIXJmvESPmFFL) | [Mikah](https://open.spotify.com/artist/3jPTUhclHgDcj0RdPcWaqJ) | [Jangal EP](https://open.spotify.com/album/6LnZlCh9FixolLKG28HGLY) | 6:48 | 2020-01-01 | 2020-01-04 |
 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 | 2025-03-28 | 2026-02-07 |
 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 |  |
-| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-11-14 |  |
+| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-11-14 | 2026-09-17 |
 | [Kabsa](https://open.spotify.com/track/5QAnwHfL5QsI8fcUzvlBBJ) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Kabsa](https://open.spotify.com/album/3rsx9zNkL5gBM6njN11P0n) | 5:21 | 2019-08-02\* | 2021-07-06 |
 | [Kadhalan](https://open.spotify.com/track/5Hgy1fbnRHGqlihV2KjZjE) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Nadeem Karim](https://open.spotify.com/artist/6AAytbOXZu5W6P0dFCCgDa), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn) | [Kadhalan](https://open.spotify.com/album/0T1TvwQouoafwmhBsiCl5L) | 3:31 | 2026-07-28 | 2026-08-18 |
 | [Kairosmind](https://open.spotify.com/track/0wmsIEMUdPD7NUfS5LzsJ3) | [Geju](https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e), [Waxwood](https://open.spotify.com/artist/6Yu6Z8MkOoeLpHtTU0IE3c) | [Water Elements](https://open.spotify.com/album/2pSt4WkO1z5pyNM673d9g9) | 8:34 | 2019-08-02\* | 2021-01-18 |
@@ -305,6 +305,7 @@
 | [Memphis](https://open.spotify.com/track/5xVCf8z2hgLCa7Vmp7L9c7) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Memphis](https://open.spotify.com/album/2gLRbGdOqB0o67CGffy25z) | 6:57 | 2022-11-25 | 2023-02-01 |
 | [Mencitaimu](https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Mencitaimu](https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf) | 8:08 | 2021-10-16 | 2022-07-28 |
 | [Mendy](https://open.spotify.com/track/5Q7qGtuvkWMyx0P3wlDIWp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mendy](https://open.spotify.com/album/036KVUHoYSZvCHZMoH561d) | 5:54 | 2025-06-09 | 2025-06-13 |
+| [Mercy Of Time \- Louie Vega Mix](https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Mercy Of Time](https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8) | 10:15 | 2026-09-16 |  |
 | [Mesta](https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS) | 6:11 | 2023-04-20 | 2024-04-19 |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-22 | 2023-04-30 |
 | [Mewo Fie](https://open.spotify.com/track/57BW34co2n3tc5FqICspGE) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Jonny Bluestone](https://open.spotify.com/artist/6EO3NB21YCVQwcxc7tSSLL), [EL Waves](https://open.spotify.com/artist/0A3ZPfG5yGOmuFh5UzNZBH), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3) | [Mewo Fie](https://open.spotify.com/album/1pi1UPs8SNwOENkI7AVqhe) | 4:07 | 2025-08-22 | 2025-09-20 |

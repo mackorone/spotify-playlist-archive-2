@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,070 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,082 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 13 | [WAY MORE](https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:34 |
 | 14 | [Betcha Can’t](https://open.spotify.com/track/6EARKaEpV7JnCCwVtR8Gfm) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Betcha Can’t](https://open.spotify.com/album/3gIEFKQ4GM911VAUIUwCdR) | 3:22 |
 | 15 | [TAKE NOBODY \(featuring J Hus & Skillibeng\)](https://open.spotify.com/track/66wdUEnKRH807QA6xWQThB) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TAKE NOBODY \(featuring J Hus & Skillibeng\)](https://open.spotify.com/album/1bvNWdNuPA2mljpVbGWgo9) | 2:33 |
-| 16 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 16 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 17 | [Fondue](https://open.spotify.com/track/0P1YXwBVeswsOdR1KNb41N) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Fondue](https://open.spotify.com/album/0IUE3ufXt32bwvXmw9eV3j) | 2:14 |
 | 18 | [QUEEN \[THE WHACK VERSION\]](https://open.spotify.com/track/6H6bBK59BXJKvWH0omXHyI) | [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [QUEEN \[THE WHACK VERSION\]](https://open.spotify.com/album/5xflxmgfN5O2FSZE1dwP4Z) | 2:05 |
 | 19 | [Yiccen](https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Yiccen](https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh) | 2:18 |

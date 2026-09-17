@@ -4,7 +4,7 @@
 
 > cry all day party all night\. cover: Sophia Stel <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-3,979 songs - 9 day 2 hr 9 min
+3,981 songs - 9 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [2023](https://open.spotify.com/track/6zIycyd4Fp0pJ7zmLmmO2I) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [2023](https://open.spotify.com/album/3hvl1jHmHMJjTHOAyCuucv) | 2:30 | 2021-10-14 | 2022-01-08 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-02-20 | 2021-05-19 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-05-12 | 2022-06-16 |
+| [2222222222222222 + Climbing](https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8) | [Veronica Everheart](https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL), [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [2222222222222222 + Climbing](https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2) | 1:59 | 2026-09-16 |  |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-24 | 2022-03-11 |
 | [23's A Baby](https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [23's A Baby](https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt) | 4:13 | 2025-04-22 | 2025-05-14 |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-02-22 |
@@ -701,6 +702,7 @@
 | [Circle Games](https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Circle Games](https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD) | 4:09 | 2024-09-27 | 2024-10-26 |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2019-09-02 | 2020-02-05 |
 | [Circles](https://open.spotify.com/track/0IoKg9lAThGvbsrIxDZG08) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now \- EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:41 | 2020-10-30 | 2021-01-23 |
+| [City](https://open.spotify.com/track/7uob5cXigwzyKqJhI7fDeX) | [Lo\-Fi\-Fnk](https://open.spotify.com/artist/3m7kkYCoZ7yaJB00zs0Jok) | [Boylife](https://open.spotify.com/album/2xbWfJQBH6AlI3MFiQ5NEj) | 3:44 | 2026-09-16 |  |
 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 | 2021-05-22 | 2021-07-29 |
 | [Clayboy](https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Clayboy](https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI) | 2:35 | 2025-03-21 | 2025-04-05 |
 | [Clean Me Up](https://open.spotify.com/track/6zUw4QJytKkTBhwbRC6OiM) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Clean Me Up](https://open.spotify.com/album/3EzxxqIyKOmLlP5agpW0Tm) | 2:45 | 2020-01-28 | 2020-05-14 |

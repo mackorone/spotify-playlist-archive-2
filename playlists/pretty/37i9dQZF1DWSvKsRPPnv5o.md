@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Buddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,530 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,484 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Officer Blackman](https://open.spotify.com/track/7MaBbSrilprZz8Xp7vifg0) | [The Drop \- Cast](https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Rydah \(From "The Drop: A Snowfall Saga"\)](https://open.spotify.com/album/4bP9H04X9fRg9yLFcArTlD) | 1:49 |
-| 2 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 2 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 3 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 4 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 |
 | 5 | [No Brakes \(feat\. Drake\)](https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 2:18 |

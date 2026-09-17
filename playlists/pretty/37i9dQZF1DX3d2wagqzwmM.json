@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Quintino",
-  "num_followers": 653554,
+  "num_followers": 653674,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2026-09-10 22:01:51",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/2tno51mcmBQPpFxAbldEeM"
-      },
-      "artists": [
-        {
-          "name": "R3SPAWN",
-          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
-        },
-        {
-          "name": "Stereohats",
-          "url": "https://open.spotify.com/artist/5mXk5yufaVz1wTuEAiaBN6"
-        },
-        {
-          "name": "Linnea Schossow",
-          "url": "https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT"
-        }
-      ],
-      "duration_ms": 125241,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/16kXvWISs9PlN8k8fR1Bjn"
-    },
-    {
-      "added_at": "2026-09-10 22:01:51",
-      "album": {
         "name": "Bad Behaviour",
         "url": "https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn"
       },
@@ -1635,6 +1611,26 @@
       "duration_ms": 155359,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu"
+    },
+    {
+      "added_at": "2026-09-10 22:01:51",
+      "album": {
+        "name": "Logical Song",
+        "url": "https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "BFOUR",
+          "url": "https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Logical Song",
+      "url": "https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w"
     },
     {
       "added_at": "2026-09-10 22:01:51",

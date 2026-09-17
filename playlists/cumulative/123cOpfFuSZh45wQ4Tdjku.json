@@ -9293,6 +9293,28 @@
     },
     {
       "album": {
+        "name": "this thought",
+        "url": "https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        },
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "this thought",
+      "url": "https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K"
+    },
+    {
+      "album": {
         "name": "Song Every Day For 30 Days",
         "url": "https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe"
       },

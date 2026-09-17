@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 11 | [Clocks \- Live](https://open.spotify.com/track/0bzkoPXiSr3iyAmlHKNtne) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/42qAGTpcGpDei6HEOraqoI) | 4:44 |
 | 12 | [Beautiful Disaster \- Live](https://open.spotify.com/track/30bC3YZlG6JggfU5A6xoaI) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 4:37 |
 | 13 | [In Your Atmosphere \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/0EUSbTvyZfo9QOcxunL9Ro) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 5:45 |
-| 14 | [Tessellate \- Acoustic; Live from Spotify Sessions, New York City, NY \[Live From Spotify NYC\]](https://open.spotify.com/track/18SIkbgrzHfxB4aQ0Ig7mZ) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Session](https://open.spotify.com/album/4V02rWRnzkfPqqiicUWxwj) | 3:01 |
+| 14 | [Tessellate \- Acoustic; Live from Spotify Sessions, New York City, NY](https://open.spotify.com/track/18SIkbgrzHfxB4aQ0Ig7mZ) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Session](https://open.spotify.com/album/4V02rWRnzkfPqqiicUWxwj) | 3:01 |
 | 15 | [Lightning Bolt \- Live From Spotify London](https://open.spotify.com/track/57viCi5dDuuvIIFwVWWbYC) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Spotify Sessions \(Live From Spotify London\)](https://open.spotify.com/album/0NpsdXBFgkARjG9sV0T8DV) | 2:18 |
 | 16 | [Colours \- Spotify Sessions](https://open.spotify.com/track/1CwCOaxLVECC70M4g0OcwT) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Sessions](https://open.spotify.com/album/5Jn1wIS3KhaUnDHWch4IIY) | 4:28 |
 | 17 | [No Way Down \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/4M0EavawZTth4hjAbIWGkl) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: GAMBOA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,210 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,211 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [AUTÓMATA](https://open.spotify.com/track/5oik3K9Zah7EUZkMMRZAim) | [Martes Mal](https://open.spotify.com/artist/55kgOTb4zLb5sHTZJ49mVR) | [LAS INCREÍBLES AVENTURAS DE TOÑO TERREMOTO](https://open.spotify.com/album/20CcwSEJkwFWqR7WATrpQl) | 2:31 |
 | 50 | [NINGUNARESPUESTA](https://open.spotify.com/track/53VoctCQFJ9WWvRuou1IXq) | [Radio Palmer](https://open.spotify.com/artist/5ERh7l2QU2n5g0YxrHATe3) | [NINGUNARESPUESTA](https://open.spotify.com/album/44Q88HjANNVUsS0vBzRiGy) | 3:19 |
 
-Snapshot ID: `AAAAAK8yhGRxQ72TqmbNY8ySk03i0yVQ`
+Snapshot ID: `AAAAANU4c/3hCUhvISldEs+OgxstXcJR`

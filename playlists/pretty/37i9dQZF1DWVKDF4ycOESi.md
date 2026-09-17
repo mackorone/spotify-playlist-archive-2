@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Marracash e Guè,  BLANCO, Geolier e Achille Lauro, prima stanza a destra e Angelica Bove, Elisa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,732 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,729 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

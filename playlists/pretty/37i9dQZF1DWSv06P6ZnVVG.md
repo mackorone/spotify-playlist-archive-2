@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > Pura pieza cara con las que Alfredo Olivas se pone a echar agüita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,001 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,017 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

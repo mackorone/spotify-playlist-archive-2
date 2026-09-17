@@ -4651,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Memories of You",
+        "url": "https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa"
+      },
+      "artists": [
+        {
+          "name": "Oliver John",
+          "url": "https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM"
+    },
+    {
+      "album": {
         "name": "Mercy on the Skyline",
         "url": "https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2"
       },

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-661 songs - 1 day 16 hr 46 min
+662 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2026-02-04 | 2026-02-23 |
 | [Losing You](https://open.spotify.com/track/45fRaHQs6hOtqtnMjmXdA8) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Losing You](https://open.spotify.com/album/6PEwi2VdrTDb4DVYSo6pom) | 4:19 | 2026-08-18 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2026-08-29 |  |
+| [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 | 2026-09-16 |  |
 | [Lost On Queen Street](https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Lost On Queen Street](https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH) | 3:32 | 2026-04-21 | 2026-05-26 |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2026-01-19 | 2026-02-18 |
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2026-02-09 | 2026-03-04 |

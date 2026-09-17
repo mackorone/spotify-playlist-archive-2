@@ -44825,6 +44825,24 @@
     },
     {
       "album": {
+        "name": "\u98a8\u795e\u901a\u308a",
+        "url": "https://open.spotify.com/album/1KlbSOSMiMo8RLadYbRbdR"
+      },
+      "artists": [
+        {
+          "name": "HUGEN",
+          "url": "https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "\u9f8d\u306e\u56fd",
+      "url": "https://open.spotify.com/track/71OrP4C8KrSw6K6ujlNpN1"
+    },
+    {
+      "album": {
         "name": "\uff03\u66d6\u6627\u4eba\u751f",
         "url": "https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm"
       },

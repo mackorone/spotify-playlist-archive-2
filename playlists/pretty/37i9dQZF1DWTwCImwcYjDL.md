@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,530 likes - 59 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,502 likes - 59 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

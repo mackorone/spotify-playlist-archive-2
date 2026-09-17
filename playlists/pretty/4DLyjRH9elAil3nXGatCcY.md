@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,575 likes - 594 songs - 1 day 14 hr 47 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,572 likes - 594 songs - 1 day 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

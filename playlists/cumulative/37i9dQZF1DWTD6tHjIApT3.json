@@ -45623,6 +45623,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u307e\u307e\u3067\u3044\u3044\u3088",
         "url": "https://open.spotify.com/album/6J3yU2qxCvzTNFpwHLJnyz"
       },
@@ -71878,7 +71896,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 223233,
       "name": "\u96ea\u5504 - yukiuta",
       "url": "https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2"

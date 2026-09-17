@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,207 likes - 65 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,218 likes - 65 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 27 | [La Gente Pide](https://open.spotify.com/track/7npSNwapk5Nh95T4y9V3ez) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [La Gente Pide](https://open.spotify.com/album/7fEGyyt4qPXd7XKusUrvL5) | 4:13 |
 | 28 | [La Rebelión](https://open.spotify.com/track/6zOXdmW4919xmAjDnRyyLh) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Salsa Rumbera](https://open.spotify.com/album/72HdNGXuNQ9hD5fdIJUIVW) | 4:45 |
 | 29 | [Dia Tras Dia](https://open.spotify.com/track/6EJadbufi05YD8vQb98Poq) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Intimo](https://open.spotify.com/album/10DIlwJ4c3NS9t8erEpM0W) | 4:26 |
-| 30 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 |
+| 30 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Juan Carlos Pellegrino](https://open.spotify.com/artist/3IiTDAZyuJTFlzh4XgZRAC) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 |
 | 31 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/5Ru99vS2BaLyBCH1PXFiJo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:52 |
 | 32 | [Devórame Otra Vez](https://open.spotify.com/track/1JOaoxY1MAPUg41HvDW2vu) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Tributo 7 / 80](https://open.spotify.com/album/0BOyJjTxR09DlNQxIV292R) | 4:16 |
 | 33 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 |

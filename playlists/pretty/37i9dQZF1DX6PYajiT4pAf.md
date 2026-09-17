@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes & Myke Towers, Rvfv & Yapi, Natos y Waor & GRECAS, Camilo, Rigoberta Bandini y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,554 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,556 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 219708,
+  "num_followers": 219742,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
-        "name": "is it cool? (feat. SZA)",
-        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "is it cool? (feat. SZA)",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
-    },
-    {
-      "added_at": "2026-08-30 05:34:59",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -67,6 +47,26 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-08-30 05:34:59",
+      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -83,22 +83,6 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
-    },
-    {
-      "added_at": "2026-08-30 05:34:59",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -127,18 +111,18 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 215386,
-      "name": "West Coast Love",
-      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -163,6 +147,22 @@
       "duration_ms": 256396,
       "name": "To The Moon (Plan C) - feat. Steve Lacy",
       "url": "https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV"
+    },
+    {
+      "added_at": "2026-08-30 05:34:59",
+      "album": {
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "West Coast Love",
+      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 212483,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2026-08-30 05:34:59",
+      "album": {
         "name": "LOVE, LOVE, LOVE",
         "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
       },
@@ -687,18 +703,22 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
+        "name": "Don\u2019t Look Any Further",
+        "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 212483,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+      "duration_ms": 242842,
+      "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
+      "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -723,26 +743,6 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
-    },
-    {
-      "added_at": "2026-08-30 05:34:59",
-      "album": {
-        "name": "Don\u2019t Look Any Further",
-        "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 242842,
-      "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
-      "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Funny Friends",
-      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "added_at": "2026-08-30 05:34:59",
-      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2026-08-30 05:34:59",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-08-30 05:34:59",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-30 05:34:59",
       "album": {
-        "name": "Labor Of Love",
-        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Something Bout It",
-      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
-    },
-    {
-      "added_at": "2026-08-30 05:34:59",
-      "album": {
         "name": "Ain't I Good For You",
         "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
       },
@@ -1095,6 +1079,26 @@
       "duration_ms": 161805,
       "name": "Ain't I Good For You",
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
+    },
+    {
+      "added_at": "2026-08-30 05:34:59",
+      "album": {
+        "name": "Callin (feat. Blu june)",
+        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu June",
+          "url": "https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     }
   ],
   "unique_name": "aloe",

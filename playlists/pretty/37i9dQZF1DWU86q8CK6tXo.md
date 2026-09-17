@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,330 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,335 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 4 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 5 | [my way](https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:00 |
 | 6 | [Summer Bummer \(Lights On\)](https://open.spotify.com/track/3V6Hf8K6be5xJxlgaxqh5f) | [RhyRhy](https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7) | [Summer Bummer \(Lights On\)](https://open.spotify.com/album/6vEhMAUKb40qMrilvcrsCl) | 3:04 |
-| 7 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
+| 7 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 |
 | 8 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
-| 9 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 |
+| 9 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
 | 10 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 11 | [Outside](https://open.spotify.com/track/66akDgOGJi139ys0umhBns) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside](https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT) | 3:04 |
 | 12 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 45 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
 | 46 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 | 47 | [Pathetic](https://open.spotify.com/track/13QihOzLoI07UwMONgspKh) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Pathetic](https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK) | 3:22 |
-| 48 | [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 |
-| 49 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
-| 50 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
-| 51 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
-| 52 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 |
+| 48 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
+| 49 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
+| 50 | [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 |
+| 51 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 |
+| 52 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
 | 53 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 |
-| 54 | [Happy For Myself](https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Happy For Myself](https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e) | 2:45 |
+| 54 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 
 Snapshot ID: `AAAAAL19I0Qyeu4TMFMH5erG/N9xpRvb`

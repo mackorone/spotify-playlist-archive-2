@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Sammi Heaney",
+  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Mynolia",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -2935,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "Backstreet Baby",
+        "url": "https://open.spotify.com/album/6exaUQcdnSZ0OsuC35lNBA"
+      },
+      "artists": [
+        {
+          "name": "Zach Meadows",
+          "url": "https://open.spotify.com/artist/2EVgNIwOWFXvUgiMtW5NuX"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Backstreet Baby",
+      "url": "https://open.spotify.com/track/0gVi1jCQV7IfIxNqGjQy1H"
+    },
+    {
+      "album": {
         "name": "Shoulder to Shoulder",
         "url": "https://open.spotify.com/album/5yeTh5dL2kF3D8WXecMgYh"
       },
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192843,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/1W5f9cOuGV3lU2pNtfSC4z"
@@ -8542,7 +8560,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 167444,
       "name": "Dead End Street",
       "url": "https://open.spotify.com/track/4TXtYsbr9NVejCAA7jUxxK"
@@ -9669,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "Don't Get Me Wrong - Reflection",
+        "url": "https://open.spotify.com/album/1JCv1BRTfAq82FSTw4Cu8w"
+      },
+      "artists": [
+        {
+          "name": "Brophy",
+          "url": "https://open.spotify.com/artist/6Gbjxbs7UmtB30nAepotYT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Don't Get Me Wrong - Reflection",
+      "url": "https://open.spotify.com/track/2DmETb6RGVMMqjcHZHVWbb"
+    },
+    {
+      "album": {
         "name": "don't look down",
         "url": "https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4"
       },
@@ -9752,7 +9788,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 216840,
       "name": "Dove or the Devil",
       "url": "https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl"
@@ -16169,6 +16205,24 @@
     },
     {
       "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
+      "album": {
         "name": "Holy Roller",
         "url": "https://open.spotify.com/album/4FRh6up7J0ZI2rb5AI4ZhB"
       },
@@ -18231,6 +18285,24 @@
     },
     {
       "album": {
+        "name": "If I Could Do It Again",
+        "url": "https://open.spotify.com/album/06Xz2LHByWWb0XXdfv3zbe"
+      },
+      "artists": [
+        {
+          "name": "Baby Fischgrund",
+          "url": "https://open.spotify.com/artist/0Rbuhq8x1rEiXiWEDiNsYD"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274927,
+      "name": "If I Could Do It Again",
+      "url": "https://open.spotify.com/track/4HwwRFuOx6cz1WSGEuy8ba"
+    },
+    {
+      "album": {
         "name": "Body Break",
         "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
@@ -20056,7 +20128,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 258742,
       "name": "Keepers",
       "url": "https://open.spotify.com/track/3dNl03eiowb21tyOaDT0Wt"
@@ -20132,6 +20204,24 @@
       "duration_ms": 179786,
       "name": "Kentucky Blue",
       "url": "https://open.spotify.com/track/61dWdbJ1UbcyudwtQNXqAJ"
+    },
+    {
+      "album": {
+        "name": "Key and my Kite",
+        "url": "https://open.spotify.com/album/2k870WoEPvJhavRG5ykfNU"
+      },
+      "artists": [
+        {
+          "name": "Genna Matthew",
+          "url": "https://open.spotify.com/artist/2uXcdOHR9FrOl74Nogujyz"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "Key and my Kite",
+      "url": "https://open.spotify.com/track/07x1gdfjLICtEA881UqBGr"
     },
     {
       "album": {
@@ -25298,7 +25388,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 185626,
       "name": "No One Else\u2019s Pen",
       "url": "https://open.spotify.com/track/2C3x6mHNcxhwhDa0LzxmYY"
@@ -25904,6 +25994,24 @@
       "duration_ms": 118773,
       "name": "O The Sun",
       "url": "https://open.spotify.com/track/0edxc446WSeOD1tjkrCuKY"
+    },
+    {
+      "album": {
+        "name": "Oak & Ache",
+        "url": "https://open.spotify.com/album/4fpEDFldtvzcjW8R0wNQXM"
+      },
+      "artists": [
+        {
+          "name": "Jude Brothers",
+          "url": "https://open.spotify.com/artist/0sT6F223HT3WK1syT4s9RW"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340612,
+      "name": "Oak & Ache",
+      "url": "https://open.spotify.com/track/57ZKWcgJvK0HWEFHUthZCn"
     },
     {
       "album": {
@@ -26848,7 +26956,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 239640,
       "name": "orange : v2",
       "url": "https://open.spotify.com/track/1dLW515RvXJektDP5NBPBK"
@@ -28465,6 +28573,24 @@
     },
     {
       "album": {
+        "name": "Put in the Work",
+        "url": "https://open.spotify.com/album/2Ev6roAnWF541iL8XYFfoW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174911,
+      "name": "Put in the Work",
+      "url": "https://open.spotify.com/track/2aynsQbRIeF2Ju0Qe747EV"
+    },
+    {
+      "album": {
         "name": "Quarterback",
         "url": "https://open.spotify.com/album/4LqCH60hYJiiwYp1hIHIgj"
       },
@@ -28966,7 +29092,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 268104,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/1qqnMYAYR2nNZyiGJzSTNU"
@@ -29276,6 +29402,24 @@
       "duration_ms": 89189,
       "name": "Rocket Ship",
       "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
+    },
+    {
+      "album": {
+        "name": "I Called It!",
+        "url": "https://open.spotify.com/album/5nZOzzRazVVJpe4s7KHya3"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162568,
+      "name": "Rocking",
+      "url": "https://open.spotify.com/track/7uJ1Bf4GoIrEOikWoI4Acb"
     },
     {
       "album": {
@@ -37408,7 +37552,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 212893,
       "name": "Virginia Pastoral",
       "url": "https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc"

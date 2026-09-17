@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Hercules & Love Affair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,833 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,827 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

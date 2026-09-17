@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Massendefekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,010 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,028 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 97 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 98 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
 | 99 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
-| 100 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
+| 100 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 
 Snapshot ID: `AAAAAHUibHZDk8NEH2D6UWuxCP80k4NY`

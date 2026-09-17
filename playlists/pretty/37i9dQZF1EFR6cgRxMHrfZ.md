@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 176 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 176 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 95 | [Burn It Down](https://open.spotify.com/track/5m3MtTi4XzSfqdjj86KgUF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
 | 96 | [King For A Day](https://open.spotify.com/track/0sibWY7yGsr4UO7lxrKy1M) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 3:11 |
 | 97 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
-| 98 | [Roll the Credits](https://open.spotify.com/track/4XBsD43QzoPt4wLDdDtEqL) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:19 |
-| 99 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 98 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 99 | [Roll the Credits](https://open.spotify.com/track/4XBsD43QzoPt4wLDdDtEqL) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:19 |
 | 100 | [Fall](https://open.spotify.com/track/0ARnA1zH4FXjheCl3tCNbF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:08 |
 | 101 | [NSFW](https://open.spotify.com/track/2R1KN7ppqgLaon8zZX04Kv) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [NSFW](https://open.spotify.com/album/2ydYkG9c2X6ldQh7kEawqT) | 2:57 |
 | 102 | [Gentleman](https://open.spotify.com/track/5NRc6DohCDMHBCrg6ItGFz) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/5Mp6dxzFDVOxzQFCQgkHK6) | 2:48 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 175 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 176 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AccZ5gAAAAANhwAgwd/FKDTILe5+hS8E`
+Snapshot ID: `AccffAAAAADXu6wjFUCuamFpOQ/g87G5`

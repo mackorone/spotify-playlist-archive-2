@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
@@ -7714,7 +7714,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184222,
       "name": "Ekdantaya Vakratundaya",
       "url": "https://open.spotify.com/track/2HGRManU666g8RqyuOrqKT"
@@ -8652,7 +8652,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 213707,
       "name": "Gajanana (Sukhkarta Dukhharta) - Ganpati 2026",
       "url": "https://open.spotify.com/track/18gR81d2sDtnHi4ROqgii6"
@@ -12518,7 +12518,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 271158,
       "name": "Jai Ganesh Deva",
       "url": "https://open.spotify.com/track/7CbN6PWesr1uYxwSvI7UHW"
@@ -19842,7 +19842,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 236071,
       "name": "Nallaru Po",
       "url": "https://open.spotify.com/track/0OGCIlWSbpGq1u99jfglFI"
@@ -21474,7 +21474,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
@@ -21492,7 +21492,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
@@ -21976,6 +21976,28 @@
       "duration_ms": 187585,
       "name": "Permission to Dance (Instrumental)",
       "url": "https://open.spotify.com/track/0gptQQwXDtDYkkgoQl1V9T"
+    },
+    {
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "album": {
@@ -22896,7 +22918,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Raga of Revenge",
       "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
@@ -25220,7 +25242,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 194253,
       "name": "Shendur Laal Chadhayo (Aarti)",
       "url": "https://open.spotify.com/track/7rwnt8fPJ6OlDrEsbxko85"
@@ -25488,7 +25510,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 405306,
       "name": "Shree Ganeshay Dheemahi",
       "url": "https://open.spotify.com/track/1YtnlLlzdH2VHhTsuqytMT"
@@ -25514,7 +25536,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

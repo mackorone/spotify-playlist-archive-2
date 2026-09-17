@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Marstein & Tobias Rahim, Alessandra, Stig Brenner og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,153 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,140 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 45 | [Overboda](https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Overboda](https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd) | 3:11 |
 | 46 | [Whatyoufeellike](https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Whatyoufeellike](https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM) | 2:46 |
 | 47 | [Rocket Man](https://open.spotify.com/track/2fHQPo9sximD6l8UpbtTWn) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [KIDSDOSHROOMS](https://open.spotify.com/artist/0c7DbjJmjWRfhVik192Kvw) | [Rocket Man](https://open.spotify.com/album/5y7Ealij3ltGKFxAu17k1Y) | 2:22 |
-| 48 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 48 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 49 | [I Could Be Madonna](https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Could Be Madonna](https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3) | 3:15 |
 | 50 | [Você](https://open.spotify.com/track/4ej8flc7BS5ODGxEZKKgN6) | [Candura](https://open.spotify.com/artist/70EAkqgYhmUNtxYVtJhQ51) | [Você](https://open.spotify.com/album/69J0tbb94oJxf7XADlVEk6) | 3:17 |
 | 51 | [Hold ut](https://open.spotify.com/track/2cIJx8dxLaj5y9o8hbSm8W) | [Sigrun Loe Sparboe](https://open.spotify.com/artist/28ZzzJhBEW1bHtFs1hW5R5) | [Hold ut](https://open.spotify.com/album/6NjwKhP4V1338ncYfcPYTZ) | 3:16 |

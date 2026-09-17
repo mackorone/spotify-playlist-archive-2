@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 349317,
+  "num_followers": 349302,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 232655,
-      "name": "Lo siento (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "21 de agosto",
         "url": "https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 181914,
       "name": "Algo de m\u00ed",
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 232655,
+      "name": "Lo siento (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "Acar\u00ed\u00f1ame",
         "url": "https://open.spotify.com/album/5cggbtEsbsZPcxdjumrBo6"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 201293,
       "name": "Acar\u00ed\u00f1ame",
       "url": "https://open.spotify.com/track/2kXeAEpGBN874ZKJPV24fr"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "Te Quiero Tanto",
-        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "cool",
         "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1723,54 +1723,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "ACELERAO",
-        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 151115,
-      "name": "ACELERAO",
-      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "MALDITA",
-        "url": "https://open.spotify.com/album/0sLn4jBVelPl50LtJ9Qx3o"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 161147,
-      "name": "MALDITA",
-      "url": "https://open.spotify.com/track/2P54TV1BnSzX1IL8kpjeyF"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "PUERTA DEL SOL",
-      "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "50 Horas",
         "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
       },
@@ -1791,22 +1743,50 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "ni una foto juntos",
-        "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
+        "name": "ACELERAO",
+        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
       },
       "artists": [
         {
-          "name": "c n d",
-          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
-        },
-        {
-          "name": "Fede Guelmos",
-          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 157857,
-      "name": "ni una foto juntos",
-      "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
+      "duration_ms": 151115,
+      "name": "ACELERAO",
+      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 220964,
+      "name": "PUERTA DEL SOL",
+      "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "MALDITA",
+        "url": "https://open.spotify.com/album/0sLn4jBVelPl50LtJ9Qx3o"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 161147,
+      "name": "MALDITA",
+      "url": "https://open.spotify.com/track/2P54TV1BnSzX1IL8kpjeyF"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1827,6 +1807,26 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "ni una foto juntos",
+        "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
+      },
+      "artists": [
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        },
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "ni una foto juntos",
+      "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
     },
     {
       "added_at": "2026-09-11 18:59:39",

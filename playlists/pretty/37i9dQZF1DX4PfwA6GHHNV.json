@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23464,
+  "num_followers": 23466,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207085,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207085,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
     },
     {
       "added_at": "2026-09-11 13:10:55",

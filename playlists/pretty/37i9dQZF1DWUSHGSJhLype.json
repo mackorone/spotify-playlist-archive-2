@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762932,
+  "num_followers": 762963,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFu8CcdS7jfmif7tSrE2KfhoKUGH",
+  "snapshot_id": "AAAAAIecQJTTeA6s8DvYLhmcGnatnoqA",
   "tracks": [
     {
       "added_at": "2026-08-14 13:34:48",
@@ -167,30 +167,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Saudade do Carai",
-        "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 170777,
-      "name": "Saudade do Carai",
-      "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Saudade do Carai",
+        "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 170777,
+      "name": "Saudade do Carai",
+      "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Turma no Quintal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 216818,
       "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
       "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
       "added_at": "2026-08-14 13:34:48",

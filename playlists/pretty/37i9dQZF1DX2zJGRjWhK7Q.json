@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 248075,
+  "num_followers": 248120,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Una Dimension De Exitos",
+        "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
+      },
+      "artists": [
+        {
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        }
+      ],
+      "duration_ms": 231944,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Celia y Johnny",
         "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Una Dimension De Exitos",
-        "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
-      },
-      "artists": [
-        {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        }
-      ],
-      "duration_ms": 231944,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
     },
     {
       "added_at": "2024-09-24 20:30:16",

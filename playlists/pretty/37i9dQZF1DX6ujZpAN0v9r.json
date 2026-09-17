@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 703083,
+  "num_followers": 703161,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Wax and Wane - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 319226,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Wax and Wane - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dandys Rule OK",
-        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 249962,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "m b v",
         "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 330906,
       "name": "in another way",
       "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dandys Rule OK",
+        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 249962,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Strangely Isolated Place",
-        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
       "artists": [
         {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 399720,
-      "name": "On My Own - 2019 remaster",
-      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "A Strangely Isolated Place",
+        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 399720,
+      "name": "On My Own - 2019 remaster",
+      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -947,18 +947,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
       },
       "artists": [
         {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
         }
       ],
-      "duration_ms": 223013,
-      "name": "It's Tomorrow Now",
-      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
+      "duration_ms": 253013,
+      "name": "A House Wife Love Song",
+      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
       "artists": [
         {
-          "name": "Starflyer 59",
-          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
         }
       ],
-      "duration_ms": 253013,
-      "name": "A House Wife Love Song",
-      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
+      "duration_ms": 223013,
+      "name": "It's Tomorrow Now",
+      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
     },
     {
       "added_at": "2024-08-30 21:12:37",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Flying Saucer Attack",
         "url": "https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 372000,
       "name": "My Dreaming Hill",
       "url": "https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dance AM",
         "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Bout des doigts",
         "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 426331,
       "name": "Bout des doigts",
       "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Methodrone",
         "url": "https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 204800,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
       "added_at": "2021-06-03 02:39:04",

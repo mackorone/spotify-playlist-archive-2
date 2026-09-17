@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,019 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,046 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 46 | [Talk To The Animals](https://open.spotify.com/track/5fgTo7JRzxTJzQPi1IuAne) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 2:31 |
 | 47 | [Some of My Best Friends Are Predators](https://open.spotify.com/track/5KS98tHQwUkSLf7g87V8x5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 3:47 |
 | 48 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/6FbER5h2bkMjPQ38It5jJ8) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/2KTIE0zh1TQiBh3jtHniTX) | 2:26 |
-| 49 | [Oso Azul](https://open.spotify.com/track/6YSFYrDmxaE54vxii1ignx) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 3:05 |
+| 49 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
 | 50 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Masha and the Bear](https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 
 Snapshot ID: `AAAAAH9KOEYRDWTD5o94BjYNADjfnaom`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ezra Collective, Rachel Chinouriri, Slayyyter, Unknown T and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,836 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,766 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 56 | [Tears From Heaven \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/3xEZUwiQQPV1jAxEx65dIp) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Tears from Heaven](https://open.spotify.com/album/7yEAQXN4HnmdwKulsMGElL) | 3:41 |
 | 57 | [black33](https://open.spotify.com/track/1corH4C9dbYGfhfUR3dwIH) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [black33](https://open.spotify.com/album/7LweLc9XWdl1pXgKBSNJuX) | 4:33 |
 | 58 | [Anarchy](https://open.spotify.com/track/0LiVCnDdwJDdsmLXn1yrh7) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Anarchy](https://open.spotify.com/album/2uIeZH1M6WlbROSA8UkAN4) | 3:59 |
-| 59 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 59 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 60 | [Yeah I Guess](https://open.spotify.com/track/4WCHu8S9Ft3b5N5St0TSfr) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Yeah I Guess](https://open.spotify.com/album/0S7IG0zCJOtLSqHcKYAAL1) | 3:04 |
 | 61 | [GODIN](https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [GODIN](https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5) | 2:44 |
 | 62 | [troubled man](https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [troubled man](https://open.spotify.com/album/3PquX6lQsOxFvmv8pRdT5g) | 2:27 |

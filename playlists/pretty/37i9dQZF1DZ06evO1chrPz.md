@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,526 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,528 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Deep Cries Out](https://open.spotify.com/track/7slaRD6KI0uceNvGBih9yF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:14 |
 | 50 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
 
-Snapshot ID: `aqc5AAAAAACeJQ2OrN7E/lIlIRE6Sdqr`
+Snapshot ID: `aqc5AAAAAABvUg85aOl8BEZcXuv/Lp53`

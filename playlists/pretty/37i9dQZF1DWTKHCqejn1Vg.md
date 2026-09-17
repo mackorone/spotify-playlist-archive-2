@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,702 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,699 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 12 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 |
 | 13 | [CAKE](https://open.spotify.com/track/7DFxvlzyT4thkXhtcio8Tu) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 3:13 |
 | 14 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
-| 15 | [Kiss](https://open.spotify.com/track/6iirdwpyu2Ohg3iVdu4vXl) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 3:00 |
+| 15 | [GIRLFRIEND \(feat\. CAMO\)](https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [METAMORPHOSIS](https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4) | 3:06 |
 | 16 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
-| 17 | [GIRLFRIEND \(feat\. CAMO\)](https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [METAMORPHOSIS](https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4) | 3:06 |
+| 17 | [Kiss](https://open.spotify.com/track/6iirdwpyu2Ohg3iVdu4vXl) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 3:00 |
 | 18 | [MIA](https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [MIA](https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V) | 3:15 |
 | 19 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 |
 | 20 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |

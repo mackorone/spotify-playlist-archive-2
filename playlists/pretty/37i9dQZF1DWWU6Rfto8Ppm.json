@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4045848,
+  "num_followers": 4046426,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 227853,
       "name": "Hola Beb\u00e9",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "A La Reconquista",
         "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 216440,
       "name": "Felina",
       "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Rompiendo El Hielo",
-        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
-      },
-      "artists": [
-        {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
-        },
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Gata Celosa",
-      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2331,6 +2311,26 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Rompiendo El Hielo",
+        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
+      },
+      "artists": [
+        {
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Gata Celosa",
+      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Papi Chulo... Te Traigo El Mmmm",
+        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Papi Chulo... Te Traigo El Mmmm - Original",
+      "url": "https://open.spotify.com/track/54imcQLSCe7MxGGJ7idPtt"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "The Pitbulls",
         "url": "https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 189480,
       "name": "Ag\u00e1rrale el Pantal\u00f3n (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Papi Chulo... Te Traigo El Mmmm",
-        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
-      },
-      "artists": [
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Papi Chulo... Te Traigo El Mmmm - Original",
-      "url": "https://open.spotify.com/track/54imcQLSCe7MxGGJ7idPtt"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Dame Lo Que Quiero",
-      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -2947,6 +2931,22 @@
       "duration_ms": 214560,
       "name": "Suave",
       "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Dame Lo Que Quiero",
+      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 212401,
-      "name": "Ella Se Arrebata",
-      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 174626,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/1Mej30kFOYBVtr5fkaLdHx"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 212401,
+      "name": "Ella Se Arrebata",
+      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3559,6 +3559,26 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 281813,
+      "name": "Lo Grande Que Es Perdonar",
+      "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "La Reunion",
         "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
       },
@@ -3579,26 +3599,6 @@
       "duration_ms": 303542,
       "name": "Aparentemente",
       "url": "https://open.spotify.com/track/5RCcvZz5i0rckjbCTSPL1s"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 281813,
-      "name": "Lo Grande Que Es Perdonar",
-      "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3639,6 +3639,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
@@ -3655,38 +3671,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
-        "url": "https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
       "artists": [
         {
-          "name": "Sammy & Falsetto",
-          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         }
       ],
-      "duration_ms": 208117,
-      "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Reggaeton Diamond Collection",
-        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 199367,
-      "name": "Yo No Soy Tu Marido",
-      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3723,34 +3719,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "All Summer Long",
-        "url": "https://open.spotify.com/album/3yTzMpvST867rWlCx4LDg4"
+        "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms"
       },
       "artists": [
         {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Tempted to Touch (Old #2)",
-      "url": "https://open.spotify.com/track/3hWSIQ6kE8o5dcZ4MV74zZ"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
-      },
-      "artists": [
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        },
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 199110,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
+      "duration_ms": 208117,
+      "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3775,6 +3759,42 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "All Summer Long",
+        "url": "https://open.spotify.com/album/3yTzMpvST867rWlCx4LDg4"
+      },
+      "artists": [
+        {
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Tempted to Touch (Old #2)",
+      "url": "https://open.spotify.com/track/3hWSIQ6kE8o5dcZ4MV74zZ"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "Drag\u00f3n & Caballero",
         "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
       },
@@ -3787,22 +3807,6 @@
       "duration_ms": 218928,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Rankiaera",
-        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
-      },
-      "artists": [
-        {
-          "name": "Kino Rankins",
-          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

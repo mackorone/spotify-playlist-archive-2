@@ -79,6 +79,28 @@
     },
     {
       "album": {
+        "name": "knot",
+        "url": "https://open.spotify.com/album/1G07OTDLnYIK6tJubaXwLJ"
+      },
+      "artists": [
+        {
+          "name": "R Sound Design",
+          "url": "https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW"
+        },
+        {
+          "name": "\u521d\u97f3\u30df\u30af",
+          "url": "https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "knot",
+      "url": "https://open.spotify.com/track/1vWiegsmy2Ei9GdbLPin8h"
+    },
+    {
+      "album": {
         "name": "LADY BUG",
         "url": "https://open.spotify.com/album/5EeMqkdxDHwhGhhj0NdiKD"
       },
@@ -204,6 +226,32 @@
       "duration_ms": 154835,
       "name": "PPPP (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC"
+    },
+    {
+      "album": {
+        "name": "QED (feat. saewool & \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/18IGwjLKExVjaI98RILO3Q"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "saewool",
+          "url": "https://open.spotify.com/artist/621DmfGPiOp5IVlZEXZUqk"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "QED (feat. saewool & \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/1n1SY8dmPtb60yy7LZS31i"
     },
     {
       "album": {
@@ -700,7 +748,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "\u3055\u308c\u3069\u7a7a\u8ee2",
       "url": "https://open.spotify.com/track/1VgOIDYl4gC4pPqESHNOVQ"
@@ -1765,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
+        "url": "https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4 (long ver.)",
+      "url": "https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr"
+    },
+    {
+      "album": {
         "name": "\u30c6\u30ec\u30d1\u30b7",
         "url": "https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh"
       },
@@ -1798,6 +1864,24 @@
       "duration_ms": 172307,
       "name": "\u30c7\u30a3\u30b9\u30af\u30ed\u30fc\u30ba\u30fb\u30d5\u30ea\u30c3\u30af",
       "url": "https://open.spotify.com/track/6XAJz6Anhuc2qQZugXQYnr"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30c3\u30c8\u30d3\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/21GgJqz5CNcAHq8aXwD5PN"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30dc\u30ac\u30c96",
+          "url": "https://open.spotify.com/artist/7egGCs59AmbQMrEARlQcuU"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "\u30c7\u30d3\u30c3\u30c8\u30d3\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0rRVGPfIWnkBfzGINFLf6b"
     },
     {
       "album": {
@@ -2116,7 +2200,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 131389,
       "name": "\u30d5\u30a9\u30fc\u30e2",
       "url": "https://open.spotify.com/track/4nfy4uNZASRTRyrmlLDoqW"
@@ -2426,7 +2510,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 156972,
       "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
@@ -2542,7 +2626,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 147307,
       "name": "\u30e4\u30e9\u30e9\u30e9(YARARARA)",
       "url": "https://open.spotify.com/track/48RMyQppwW0YxtcSBdY9fS"
@@ -2850,7 +2934,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163764,
       "name": "\u4e00\u5468\u56de\u3063\u3066\u671d (feat. asa)",
       "url": "https://open.spotify.com/track/1wqykSAzUzcvPEeDdLASjt"
@@ -3184,7 +3268,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 289616,
       "name": "\u5c11\u5973\u30ec\u30a4",
       "url": "https://open.spotify.com/track/1k5F2EwzptN821wy7cPggG"
@@ -3424,7 +3508,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 200500,
       "name": "\u6700\u9ad8\u306eMV\u306e\u4f5c\u308a\u304b\u305f (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1v1Qkz2MM9SitFD0kH0Kqh"
@@ -3828,6 +3912,28 @@
       "duration_ms": 155341,
       "name": "\u89e3\u6bd2\u4e0d\u80fd\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/3DXPKZVOkqAfpRPxbqUkbc"
+    },
+    {
+      "album": {
+        "name": "\u8b0e\u306e\u6c11\u65cf\u30cc\u30f3\u30d0\u30d0\u30e6\u30ab\u30ea (feat. \u7d50\u6708\u3086\u304b\u308a)",
+        "url": "https://open.spotify.com/album/5MPMB4JYOSx7HamVPZHA3u"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30b3\u307e\u308b",
+          "url": "https://open.spotify.com/artist/2oSp3TcO9oJ7gxDYvSSBBL"
+        },
+        {
+          "name": "Yuzuki Yukari",
+          "url": "https://open.spotify.com/artist/4TLOK31nZoLdRthANKgEK4"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "\u8b0e\u306e\u6c11\u65cf\u30cc\u30f3\u30d0\u30d0\u30e6\u30ab\u30ea (feat. \u7d50\u6708\u3086\u304b\u308a)",
+      "url": "https://open.spotify.com/track/0KyfA5VGSI32H1HZVKabvR"
     },
     {
       "album": {

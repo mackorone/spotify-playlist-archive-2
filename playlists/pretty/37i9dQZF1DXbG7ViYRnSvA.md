@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,624 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,627 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 9 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 |
 | 10 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
 | 11 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 12 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 |
-| 13 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
+| 12 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
+| 13 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 |
 | 14 | [Lions, Tigers & Bears](https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:11 |
 | 15 | [Roses](https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 4:05 |
 | 16 | [Can't Believe \(feat\. Carl Thomas\)](https://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Carl Thomas](https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 5:00 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 37 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 | 38 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 39 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
-| 40 | [Can't You See \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/174UISK3l7VRbigEHxEev7) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:41 |
+| 40 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 |
 | 41 | [Finding Home in Rwanda](https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Munyakazi Deo](https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD), [1key](https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 6:14 |
 | 42 | [No Room in the Limo](https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [Middle America](https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6) | 3:50 |
-| 43 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 |
+| 43 | [Can't You See \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/174UISK3l7VRbigEHxEev7) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:41 |
 | 44 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
 | 45 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
 | 46 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |

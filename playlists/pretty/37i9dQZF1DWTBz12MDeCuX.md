@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,849 likes - 99 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,816 likes - 99 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 50 | [girls will be girls \(feat\. WILLOW\)](https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 3:22 |
 | 51 | [Peeptoe](https://open.spotify.com/track/2thpa4k75FoOASuYQoyzWn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Peeptoe](https://open.spotify.com/album/1bsGXgHqWNNN7b9jZ3bUII) | 2:28 |
 | 52 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
-| 53 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 53 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 54 | [Andere Liga](https://open.spotify.com/track/1iBVYIiJezY9pZAxkCs1eB) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Andere Liga](https://open.spotify.com/album/1ItmPp47g6AcjrEtQOGVVb) | 2:29 |
 | 55 | [Für immer](https://open.spotify.com/track/5lfrv9rNFHIfdF0IWNWg5U) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Für immer](https://open.spotify.com/album/1gRjCkne7aC5q2GQ7UE5qN) | 2:12 |
 | 56 | [fassade](https://open.spotify.com/track/1UqpBql6vks9Fp3bqms3pn) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [fassade](https://open.spotify.com/album/5GTTRcqnTUryZvIyUz13Lw) | 2:36 |

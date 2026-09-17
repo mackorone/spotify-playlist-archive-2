@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ikkimel, badmómzjay, Monet192, David Guetta, Jazeek, Ryan Castro & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,434 likes - 94 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,436 likes - 94 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 80 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 |
 | 81 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
 | 82 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 |
-| 83 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 83 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 84 | [Spielzeugladen](https://open.spotify.com/track/4dMtXAh4N8W9hEUQBTnVtQ) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [unverschämt](https://open.spotify.com/album/61UHbEXOgNZAwaB939kToS) | 3:11 |
 | 85 | [WEIL ICH KANN](https://open.spotify.com/track/2ftvIrRMS9kRGg6A7DxcaI) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [WEIL ICH KANN](https://open.spotify.com/album/2dzD69xFI24lkhR1MXtola) | 3:16 |
 | 86 | [Spinn](https://open.spotify.com/track/29yyfXOAN64VaFFUlVeuh2) | [Nina Valotti](https://open.spotify.com/artist/3IzKj6J6R0KsejbwmC4NbW) | [Spinn](https://open.spotify.com/album/5NjVa98SwdULHr0QZqW8Az) | 2:47 |

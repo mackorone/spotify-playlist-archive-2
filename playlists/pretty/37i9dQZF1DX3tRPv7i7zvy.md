@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,448 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,467 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 10 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 | 11 | [TARGET](https://open.spotify.com/track/6EsrWgxRfGjmXYwtIIjRcu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [TARGET](https://open.spotify.com/album/0vLMIEdRFpotqEiG1nZWyn) | 1:54 |
 | 12 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
-| 13 | [Signature \(with Lasmid\)](https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Signature \(with Lasmid\)](https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO) | 2:42 |
-| 14 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 13 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 14 | [Signature \(with Lasmid\)](https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Signature \(with Lasmid\)](https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO) | 2:42 |
 | 15 | [Gen Z](https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Gen Z](https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l) | 2:25 |
 | 16 | [EVERLASTING](https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [EVERLASTING](https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q) | 2:19 |
 | 17 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 41 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 42 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 43 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
-| 44 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 |
-| 45 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 44 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 45 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 |
 | 46 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
 | 47 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 |
 | 48 | [Trapper Sem](https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Trapper Sem](https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3) | 2:18 |

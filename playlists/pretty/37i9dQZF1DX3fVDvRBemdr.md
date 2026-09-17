@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Monique Smit & Quido van de Graaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,802 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,795 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Veel Te Lang Geduurd](https://open.spotify.com/track/6EZs07WfzJbS9eGzEgR0gd) | [Kevin Le Nuyt](https://open.spotify.com/artist/74E3cdn2wI6ja2ncKQ7auO) | [Veel Te Lang Geduurd](https://open.spotify.com/album/1HCq6EgAPe1G62eIvgfj0S) | 2:32 |
 | 100 | [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 |
 
-Snapshot ID: `AAAAAPgtwAtFHA9plr0kyYpQ6cKkCDqt`
+Snapshot ID: `AAAAANvB96ahKHiW1OWf2X/ldzCiYEQN`

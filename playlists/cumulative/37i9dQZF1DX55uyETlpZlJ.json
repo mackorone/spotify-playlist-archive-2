@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 173674,
       "name": "Awat Iwat",
       "url": "https://open.spotify.com/track/4JJ3C6fTzrcMk5b4E0ovjB"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 224000,
       "name": "Baanancha Daati",
       "url": "https://open.spotify.com/track/3iaNuA2lJwM4fE66tnDEEU"
@@ -3050,6 +3050,24 @@
       "duration_ms": 227994,
       "name": "Doora",
       "url": "https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7"
+    },
+    {
+      "album": {
+        "name": "Doora",
+        "url": "https://open.spotify.com/album/5TPp4krPiOtsgp5F0WGoDy"
+      },
+      "artists": [
+        {
+          "name": "Sagar Simha",
+          "url": "https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271490,
+      "name": "Doora",
+      "url": "https://open.spotify.com/track/0j6QbbtyE4zJyIpR7Vz9f5"
     },
     {
       "album": {
@@ -8368,6 +8386,28 @@
       "duration_ms": 144625,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0qPN8o1cxVZr8IlUKxIj5K"
+    },
+    {
+      "album": {
+        "name": "Meravanige",
+        "url": "https://open.spotify.com/album/71W4tZRy5inMM8R6wA9KET"
+      },
+      "artists": [
+        {
+          "name": "Trap Raag",
+          "url": "https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181757,
+      "name": "Meravanige",
+      "url": "https://open.spotify.com/track/7m870UBsNZsAdfy72ACwK4"
     },
     {
       "album": {
@@ -13754,7 +13794,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 153812,
       "name": "Taare",
       "url": "https://open.spotify.com/track/3Djy0T9KXRU1qISYUMhb9e"
@@ -14296,7 +14336,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 213241,
       "name": "Tulasi",
       "url": "https://open.spotify.com/track/1CQ7sRQeHw1xIzLSOkGXHn"
@@ -14904,6 +14944,28 @@
       "duration_ms": 329643,
       "name": "Yelladi Nanna Gelati 2",
       "url": "https://open.spotify.com/track/7vvVvF2haaaBRikZEQh57P"
+    },
+    {
+      "album": {
+        "name": "Yellidde Hegidde",
+        "url": "https://open.spotify.com/album/2Kge52sCwPy0X20uezJ6dH"
+      },
+      "artists": [
+        {
+          "name": "Shashank Achhu",
+          "url": "https://open.spotify.com/artist/2aYjMmsbyIJFf15Vd5LusN"
+        },
+        {
+          "name": "Kushal BV",
+          "url": "https://open.spotify.com/artist/1YnS2v2AFXn52QKusFqus7"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131105,
+      "name": "Yellidde Hegidde",
+      "url": "https://open.spotify.com/track/4V4ddC5ha6om3HuMXgcHxq"
     },
     {
       "album": {

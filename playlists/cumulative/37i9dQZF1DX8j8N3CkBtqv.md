@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Janisht Joshi, Bharg, NAALAYAK, Anand Bhaskar Collective and other exciting artists.
 
-1,583 songs - 3 day 15 hr 11 min
+1,584 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-11-14 | 2026-01-24 |
 | [Avadhu Mera Mann Matwara](https://open.spotify.com/track/7gotKqm3LlGZ79VoVyzDsv) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Avadhu Mera Mann Matwara](https://open.spotify.com/album/227EEQ9GIH8BrmTuf4HDMl) | 4:52 | 2023-12-15 | 2024-02-03 |
 | [Awaaz De](https://open.spotify.com/track/7IoHsgosn84V7GSHUh4esd) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Layla](https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2) | 3:47 | 2026-03-06 | 2026-06-12 |
+| [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 | 2026-09-11 |  |
 | [Awara](https://open.spotify.com/track/7bTwiyIvTfHVcK7K8IwobP) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Awara](https://open.spotify.com/album/1U0TEHs3g5krkngr6ZA8xW) | 3:01 | 2023-11-17 | 2023-12-09 |
 | [Azaad](https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0), [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP) | [Azaad](https://open.spotify.com/album/2gmUnXKrtzsaFQaaQAacHb) | 3:51 | 2023-08-18 | 2023-09-16 |
 | [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 | 2024-09-20 | 2024-11-09 |
@@ -1057,7 +1058,7 @@
 | [O Piya](https://open.spotify.com/track/2VBz6QJFqhi497KuKvWgHl) | [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Raqib](https://open.spotify.com/artist/59zGJREnuFBI2XxO7OXqIV) | [O Piya](https://open.spotify.com/album/4Xr1KqCvDm2KcS9i6bVIwL) | 2:46 | 2026-07-10 |  |
 | [O Piya](https://open.spotify.com/track/1KkRWq9CYNSiE6bRlmlHFB) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [O Piya](https://open.spotify.com/album/3BG5oKUAYWvOY9PxS1B9WS) | 2:52 | 2023-11-10 | 2024-01-06 |
 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 | 2024-02-23 | 2024-07-27 |
-| [O Ri Sakhi](https://open.spotify.com/track/18yjs7DmApG0CwkrWnO72q) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P), [Khan Brothers](https://open.spotify.com/artist/7CQUElcdptsAEXI3YGQ1Wd) | [O Ri Sakhi](https://open.spotify.com/album/5z6qZlAKzm29zDtVazWMfm) | 3:39 | 2026-08-07 |  |
+| [O Ri Sakhi](https://open.spotify.com/track/18yjs7DmApG0CwkrWnO72q) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P), [Khan Brothers](https://open.spotify.com/artist/7CQUElcdptsAEXI3YGQ1Wd) | [O Ri Sakhi](https://open.spotify.com/album/5z6qZlAKzm29zDtVazWMfm) | 3:39 | 2026-08-07 | 2026-09-17 |
 | [OH HI!](https://open.spotify.com/track/3A52BQhCsK3jpf9TvhnXoL) | [AB!](https://open.spotify.com/artist/2yphmQ5UUwp5IUCssQe9z5), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [OH HI!](https://open.spotify.com/album/1QJKVfRNGYi1O4XWdqNaWR) | 2:38 | 2023-09-29 | 2023-11-11 |
 | [Oh My](https://open.spotify.com/track/1RBoCMoHMs3fWFOHNC4zCz) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs) | [Oh My](https://open.spotify.com/album/0VmJ3busCjjVnW21lFjDLn) | 3:19 | 2024-01-26 | 2024-02-17 |
 | [Oh Soniye Tu](https://open.spotify.com/track/2y8PfjfbW36qNIGmjIoyWa) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev), [Archana Choudhary](https://open.spotify.com/artist/1VZPPlMnJP0RBgj5GOiw4S) | [Oh Soniye Tu](https://open.spotify.com/album/68W5ST894rgUUGIFWZwREi) | 2:28 | 2024-09-27 | 2024-10-26 |

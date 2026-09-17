@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: レトロリロン（RETRORIRON）
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,263 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,258 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 95 | [落下するデジャヴ](https://open.spotify.com/track/7mwX7Zu6RyxYUVM3lSdRSX) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [avenue](https://open.spotify.com/album/3ctgFQlPy4mCq5UClgSV3x) | 3:25 |
 | 96 | [Polaris](https://open.spotify.com/track/0NT5EDpQyKEFPhzGK9cMrp) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Polaris](https://open.spotify.com/album/29Fubm4fxL6p47RvDRrnq1) | 4:46 |
 | 97 | [人生のエレベーター](https://open.spotify.com/track/01KhEjO3U5HexdebrrObLQ) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [人生のエレベーター](https://open.spotify.com/album/0Cjn5Fc2PI4PoByfVG5U2u) | 4:00 |
-| 98 | [Track 5](https://open.spotify.com/track/2v4HM1HdEBmo5v84JBUxz0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [はなしのつづき](https://open.spotify.com/album/60fXdQjhvDwBGKWNDhTTtk) | 0:00 |
+| 98 | [Boo](https://open.spotify.com/track/2v4HM1HdEBmo5v84JBUxz0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [はなしのつづき](https://open.spotify.com/album/60fXdQjhvDwBGKWNDhTTtk) | 4:16 |
 | 99 | [極夜行](https://open.spotify.com/track/19dVVMvToKKIUuThb8t3V2) | [NIGHTMARE](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [極夜行](https://open.spotify.com/album/6QRsUjZNkcB1sboVV75nTK) | 3:49 |
 | 100 | [Emotion](https://open.spotify.com/track/4a2ZEFAFFtubbRxqUWmsyv) | [Aぇ! group](https://open.spotify.com/artist/2d2y9tvbA63vy8bPgNPKLV) | [Emotion](https://open.spotify.com/album/14xH7U0Z7PMwgaHbvOuAjJ) | 3:50 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Turma do Pagode, Jorge Vercilo, Rafa e Junior com Zé Felipe,  Jhéne Aiko, As Cristinas, Ryan Fidelis e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,732 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,305 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

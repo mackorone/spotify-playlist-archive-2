@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59458,
+  "num_followers": 59467,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -219,78 +219,6 @@
       "duration_ms": 460640,
       "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/0FleQccRXoBoIqHKYbF7sp"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
-        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Boris Giltburg",
-          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Papillons, Op. 2: XII. Finale",
-      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
-        "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Thomas E. Bauer",
-          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
-        },
-        {
-          "name": "Susanne Bernhard",
-          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
-      "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
-        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Thomas E. Bauer",
-          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
-      "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -563,30 +491,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -623,6 +527,30 @@
       "duration_ms": 436266,
       "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
       "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -867,6 +795,26 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
         "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
       },
@@ -887,26 +835,6 @@
       "duration_ms": 289400,
       "name": "Symphony No. 4 in D Minor, Op. 120: II. Romanze. Ziemlich langsam",
       "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -1211,6 +1139,78 @@
       "duration_ms": 256320,
       "name": "Adagio & Allegro, Op. 70: Adagio",
       "url": "https://open.spotify.com/track/0pMWKxBFETorT82gydM61q"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
+      "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
+      "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
     },
     {
       "added_at": "2025-12-15 12:40:07",

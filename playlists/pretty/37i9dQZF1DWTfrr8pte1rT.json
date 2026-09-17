@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 357585,
+  "num_followers": 357628,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1611,42 +1611,6 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
-        "name": "The Death of Peace of Mind",
-        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "The Death of Peace of Mind",
-      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1667,6 +1631,42 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
+        "name": "The Death of Peace of Mind",
+        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "The Death of Peace of Mind",
+      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2026-09-11 17:57:45",
@@ -2103,6 +2103,26 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
         "name": "STOMPERS",
         "url": "https://open.spotify.com/album/2aOfGuE41IPzgXYhRbBjvX"
       },
@@ -2139,26 +2159,6 @@
       "duration_ms": 200000,
       "name": "Being One",
       "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2026-09-11 17:57:45",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2026-09-11 17:57:45",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
-        "name": "Kore",
-        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
-        }
-      ],
-      "duration_ms": 156863,
-      "name": "Kore",
-      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
         "name": "RAVEN",
         "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
+        "name": "Kore",
+        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+        }
+      ],
+      "duration_ms": 156863,
+      "name": "Kore",
+      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
     },
     {
       "added_at": "2026-09-11 17:57:45",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
         "name": "Bad Blood (Weird Genius Remix)",
         "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 197334,
       "name": "Bad Blood - Weird Genius Remix",
       "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2026-09-11 17:57:45",
@@ -2475,26 +2475,6 @@
     {
       "added_at": "2026-09-11 17:57:45",
       "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
-    },
-    {
-      "added_at": "2026-09-11 17:57:45",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2511,6 +2491,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2026-09-11 17:57:45",
+      "album": {
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+        }
+      ],
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     }
   ],
   "unique_name": "Rocktronic",

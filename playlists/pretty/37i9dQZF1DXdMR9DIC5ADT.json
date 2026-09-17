@@ -1,6 +1,6 @@
 {
   "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Sofia Stel",
-  "num_followers": 9973,
+  "num_followers": 9974,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-11 04:00:31",
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "added_at": "2026-09-11 04:00:31",
+      "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 172313,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
-    },
-    {
-      "added_at": "2026-09-11 04:00:31",
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 156856,
-      "name": "EMERALD EYES",
-      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "added_at": "2026-09-11 04:00:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-09-11 04:00:31",
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2026-09-11 04:00:31",
+      "album": {
         "name": "MOTION (feat. Juicy J)",
         "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": "2026-09-11 04:00:31",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": "2026-09-11 04:00:31",
@@ -823,26 +843,6 @@
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
-    },
-    {
-      "added_at": "2026-09-11 04:00:31",
-      "album": {
-        "name": "Indecision (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Indecision (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     }
   ],
   "unique_name": "The WISHLIST",

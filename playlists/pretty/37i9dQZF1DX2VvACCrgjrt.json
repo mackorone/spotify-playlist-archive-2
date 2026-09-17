@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311303,
+  "num_followers": 1311287,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -46,6 +46,14 @@
         {
           "name": "Bryce Alakai",
           "url": "https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
         }
       ],
       "duration_ms": 196363,
@@ -1639,22 +1647,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
       },
@@ -1671,6 +1663,22 @@
       "duration_ms": 152288,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-06-15 17:48:38",
@@ -1713,6 +1721,22 @@
       "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
       "added_at": "2026-08-21 04:01:29",
       "album": {
         "name": "Take It Higher",
@@ -1735,22 +1759,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "About To Lose It",
         "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
@@ -1763,22 +1771,6 @@
       "duration_ms": 195942,
       "name": "About To Lose It",
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Monopoly Man",
-        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 202101,
-      "name": "Monopoly Man",
-      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -1795,6 +1787,22 @@
       "duration_ms": 181417,
       "name": "No Bite",
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+    },
+    {
+      "added_at": "2026-07-24 04:02:19",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1817,36 +1825,20 @@
       "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
     },
     {
-      "added_at": "2026-07-24 04:02:19",
+      "added_at": "2026-08-14 04:01:19",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
       },
       "artists": [
         {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 183692,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
-    },
-    {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1867,6 +1859,22 @@
       "duration_ms": 170307,
       "name": "Grove St. Party",
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1969,6 +1977,26 @@
       "url": "https://open.spotify.com/track/0RwWAkqInG2e4zDO1lJc99"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "Move It 2 The Drum",
@@ -1993,26 +2021,6 @@
       "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Miami Bass EP",
@@ -2020,7 +2028,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
@@ -2035,6 +2043,22 @@
       "duration_ms": 208593,
       "name": "Miami Bass",
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2059,38 +2083,6 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-07-31 04:01:22",
-      "album": {
-        "name": "SO HYPE",
-        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
-      },
-      "artists": [
-        {
-          "name": "MAXARKA",
-          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
-        }
-      ],
-      "duration_ms": 175805,
-      "name": "SO HYPE",
-      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -2131,6 +2123,22 @@
       "duration_ms": 212307,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+    },
+    {
+      "added_at": "2026-07-31 04:01:22",
+      "album": {
+        "name": "SO HYPE",
+        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
+      },
+      "artists": [
+        {
+          "name": "MAXARKA",
+          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
+        }
+      ],
+      "duration_ms": 175805,
+      "name": "SO HYPE",
+      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
       "added_at": "2026-04-24 04:01:50",
@@ -2205,6 +2213,42 @@
       "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
     },
     {
+      "added_at": "2026-08-28 04:01:56",
+      "album": {
+        "name": "Thirsty (feat. Datti)",
+        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+    },
+    {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Baddies Going Out",
+        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Baddies Going Out",
+      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
+    },
+    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "9PM",
@@ -2223,46 +2267,6 @@
       "duration_ms": 163790,
       "name": "Heaven Or Hell",
       "url": "https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3"
-    },
-    {
-      "added_at": "2026-07-24 04:02:19",
-      "album": {
-        "name": "UNA UNA",
-        "url": "https://open.spotify.com/album/4mu4ocN6f2RAzAgIS4bsjS"
-      },
-      "artists": [
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
-        },
-        {
-          "name": "CURE97",
-          "url": "https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO"
-        },
-        {
-          "name": "bauti",
-          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "UNA UNA",
-      "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
-    },
-    {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Baddies Going Out",
-        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Baddies Going Out",
-      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2301,24 +2305,28 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
-      "added_at": "2026-08-28 04:01:56",
+      "added_at": "2026-07-24 04:02:19",
       "album": {
-        "name": "Thirsty (feat. Datti)",
-        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+        "name": "UNA UNA",
+        "url": "https://open.spotify.com/album/4mu4ocN6f2RAzAgIS4bsjS"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
         },
         {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+          "name": "CURE97",
+          "url": "https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO"
+        },
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
         }
       ],
-      "duration_ms": 194545,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
+      "duration_ms": 186315,
+      "name": "UNA UNA",
+      "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
     },
     {
       "added_at": "2026-01-09 16:39:37",

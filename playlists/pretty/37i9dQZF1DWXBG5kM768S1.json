@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81525,
+  "num_followers": 81530,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+      },
+      "artists": [
+        {
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
-      },
-      "artists": [
-        {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Ramler mot hverandre",
+        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Ramler mot hverandre",
+      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Kniven i hjertet",
         "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 182316,
       "name": "Kniven i hjertet",
       "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Ramler mot hverandre",
-        "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Ramler mot hverandre",
-      "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
     },
     {
       "added_at": "2026-03-12 23:00:43",

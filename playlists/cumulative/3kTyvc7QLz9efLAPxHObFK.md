@@ -4,7 +4,7 @@
 
 > 
 
-3,195 songs - 6 day 20 hr 27 min
+3,196 songs - 6 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1624,6 +1624,7 @@
 | [LET THE BASS GO](https://open.spotify.com/track/6Nu8Ek8HhQLthr9OcoqZKe) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [LOCO / LET THE BASS GO](https://open.spotify.com/album/0A5BBNeMiYjoFu2gaON8cW) | 2:09 | 2023-06-09 |  |
 | [Let The Bass Pump](https://open.spotify.com/track/0usDNqnYYCPF5T677ZMcW4) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Let The Bass Pump](https://open.spotify.com/album/2TFAFWqLI1fN2YyCsWBu0K) | 3:13 | 2025-09-09 |  |
 | [Let the Music Take Control](https://open.spotify.com/track/1wMK3UMlBqSUzUgeBeAT9r) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Let the Music Take Control](https://open.spotify.com/album/1QQovynrzb6OmP3qlUYbnI) | 2:37 | 2025-03-09 |  |
+| [Let You Go](https://open.spotify.com/track/4Im2UkS32aOdleo2rPGRSI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Let You Go](https://open.spotify.com/album/55grqWLVREV5VoPPDC4hM6) | 2:30 | 2026-09-16 |  |
 | [Let You Go](https://open.spotify.com/track/4stHUglyODej8EeAWwr7r5) | [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW), [Slice N Dice](https://open.spotify.com/artist/3WidLZ58DQjM525pYif1VW), [Sebastian Hansson](https://open.spotify.com/artist/54UEo4InT0mMpgLJj18mG7) | [Let You Go](https://open.spotify.com/album/0oJfPAysgFF0KUKs3aZzBB) | 4:08 | 2024-11-24 |  |
 | [Let You Go](https://open.spotify.com/track/0hcu80huViWXXgblBH9STD) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Let You Go](https://open.spotify.com/album/1T23jgHKLzraqMGiIa5c4L) | 4:41 | 2022-08-14 |  |
 | [Let Yourself Go](https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Let Yourself Go](https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S) | 2:53 | 2026-03-26 |  |

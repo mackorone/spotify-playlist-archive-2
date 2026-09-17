@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 251946,
+  "num_followers": 251938,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "This Is A Life (From the Original Motion Picture \"Everything Everywhere All at Once\")",
-        "url": "https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR"
+        "name": "Breakfast At Tiffany's",
+        "url": "https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh"
       },
       "artists": [
         {
-          "name": "Son Lux",
-          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        },
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 161022,
-      "name": "This Is A Life",
-      "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"
+      "duration_ms": 161520,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -863,18 +855,26 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Breakfast At Tiffany's",
-        "url": "https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh"
+        "name": "This Is A Life (From the Original Motion Picture \"Everything Everywhere All at Once\")",
+        "url": "https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         }
       ],
-      "duration_ms": 161520,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx"
+      "duration_ms": 161022,
+      "name": "This Is A Life",
+      "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"
     },
     {
       "added_at": "2024-01-23 19:55:12",

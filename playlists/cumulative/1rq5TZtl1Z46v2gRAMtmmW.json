@@ -4255,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "Give Me Some More",
+        "url": "https://open.spotify.com/album/6sXCIzPdC0mtqmtvVTVl2T"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338823,
+      "name": "Give Me Some More",
+      "url": "https://open.spotify.com/track/1ajfFcWgOnVpPLfg6S8gTt"
+    },
+    {
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },

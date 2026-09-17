@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Jhené Aiko, Slayyyter, NAV, Dove Cameron, Spiritbox, Sophia Stel, Connor Price, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,721 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,659 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 61 | [Protégé](https://open.spotify.com/track/23uXxwZcuhuk4V8cx8YAoG) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Protégé](https://open.spotify.com/album/79Fvi89pb2gaC0DLSIKju9) | 3:06 |
 | 62 | [BusyForYa \(feat\. Planet Giza, Shibo\)](https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [BusyForYa](https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX) | 3:34 |
 | 63 | [I Could Be Madonna](https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Could Be Madonna](https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3) | 3:15 |
-| 64 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 64 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 65 | [Too Bad](https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Too Bad](https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb) | 2:42 |
 | 66 | [A Fleeting Thought Becomes Another Fleeting Thought](https://open.spotify.com/track/0PbMqL2y33Tovplkaqmx7n) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [A Fleeting Thought Becomes Another Fleeting Thought](https://open.spotify.com/album/6gZur2qXCpv4FmQ3Afm9bv) | 3:32 |
 | 67 | [J'veux te voir grandir avec moi](https://open.spotify.com/track/4hrTuKGaqIHsSoph6Yq891) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [J'veux te voir grandir avec moi](https://open.spotify.com/album/6pIr0iN7ws19jF3lunNHpT) | 2:02 |

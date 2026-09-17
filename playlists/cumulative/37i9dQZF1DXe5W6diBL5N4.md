@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,839 songs - 39 day 21 hr 57 min
+16,841 songs - 39 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Again, Winter Vacation \(feat\. Boramiyu\)](https://open.spotify.com/track/4Ru7bMuJgrHTTpYHnXfzO1) | [Smilegate RPG](https://open.spotify.com/artist/6IfYKjeEJsEv9RCUOyuwlV), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [LOST ARK \(Original Game Soundtrack\): VOL.4 VOCAL TRACK](https://open.spotify.com/album/2N14kgQjNuZLmQXnTGtJux) | 5:17 | 2024-02-20 | 2024-05-01 |
 | [Against All](https://open.spotify.com/track/6ww9HKp0vTZ6fhiybyvKkR) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Against All](https://open.spotify.com/album/1xZEsqpilYTHelBVflnYNY) | 3:48 | 2025-10-30 | 2025-11-07 |
 | [AGASSY](https://open.spotify.com/track/2DkO9y7DB9S9nBg5u0VDoW) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [AGASSY](https://open.spotify.com/album/5FzkGrCoC8PIz1yz6oy8RK) | 2:45 | 2023-11-10 | 2023-12-14 |
+| [Ageha](https://open.spotify.com/track/2OvHhFmU5ZDDO7peuECatG) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Memory](https://open.spotify.com/album/19ynk7wADPNmrY0B1uw5bO) | 3:19 | 2026-09-16 |  |
 | [Ah Ae Ee Oh Woo Uh?! 2024 \(Feat\. Keem Hyo\-Eun, QM, KAMBO, Donutman, Ambid Jack, Swervy\)](https://open.spotify.com/track/19rfr1lmFZuYuzNRtG1KHU) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [KAMBO](https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc), [Ambid Jack](https://open.spotify.com/artist/5IdbGGFIdD7WGPxemC2naJ), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Ah Ae Ee Oh Woo Uh?! 2024](https://open.spotify.com/album/79p8pct4tdBd92uCTgwQn5) | 2:32 | 2024-07-30 | 2024-09-20 |
 | [Ah, Life!](https://open.spotify.com/track/6CcNThj8CLxIJLrMNM8FSw) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj), [Jemin](https://open.spotify.com/artist/29oZAikRPf1ePHkyBcIYs8) | [Ah, Life!](https://open.spotify.com/album/0GOS9MA6prnDZ17fuHwyun) | 3:15 | 2025-06-04 | 2025-06-17 |
 | [Ah\-Yeah \(feat\. Polodared\)](https://open.spotify.com/track/6RziGEwAqRmGCur6ZUz5Pc) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Tray Show](https://open.spotify.com/album/5qhtTUHbINUWv1f1bjcL5s) | 3:04 | 2024-10-30 | 2024-11-08 |
@@ -7989,6 +7990,7 @@
 | [Locked In Your Love](https://open.spotify.com/track/5pplVsI0yjlLZTD4yMEPB0) | [taeone](https://open.spotify.com/artist/2CHJRTzDuQZ3l7noK8VOyh) | [Locked In Your Love](https://open.spotify.com/album/3xzFhF8PivL92bXs8TgUWh) | 4:24 | 2026-01-15 | 2026-01-24 |
 | [Locked On](https://open.spotify.com/track/1jRru0uo655c4HPGkVihOe) | [VVUP](https://open.spotify.com/artist/2zy0MxCWDb4XOziNuyEHtb) | [Locked On](https://open.spotify.com/album/2KOyXfulQ7w35Ok4KYtxBw) | 3:09 | 2024-04-01 | 2024-05-01 |
 | [LOCKED UP \(Feat\. Hash Swan\)](https://open.spotify.com/track/2RHDaiknHWYvUf70m1dhzm) | [Ji Chanel](https://open.spotify.com/artist/48iTyl4MallIyN0R89N8u3), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [LOCKED UP](https://open.spotify.com/album/5EweMpmn3yCsLddNps6XKM) | 2:54 | 2024-08-23 | 2024-09-20 |
+| [Locket](https://open.spotify.com/track/2UiKt8mTjly9fJGxSGgtx7) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [fourofour](https://open.spotify.com/artist/5hklBDFXK7o5qeDUlzN4Sv) | [Locket](https://open.spotify.com/album/14lKaSOBlt0gVnVu0AxmV9) | 2:29 | 2026-09-16 |  |
 | [LOCO](https://open.spotify.com/track/4DWzM8o2nOUSYpsIYnHlHq) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [LOCO](https://open.spotify.com/album/2x0KVj0JKQbyEnEHfCnRgt) | 3:34 | 2023-11-17 | 2023-12-14 |
 | [LOGOUT](https://open.spotify.com/track/6Imse0fqaBxsPgicbMUg5z) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [LOGOUT](https://open.spotify.com/album/5S3VYoRR2XxCBQbxLVUlO9) | 3:19 | 2023-02-21 | 2023-03-28 |
 | [Logout](https://open.spotify.com/track/702jjsTw6kPl8wox04T9Me) | [Shin Jiyoon](https://open.spotify.com/artist/0IKjPDzRyZql95nda6ZgKe) | [사랑해 악마 X 신지윤 \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1VCyunBOlD4bddxylKqdDm) | 3:29 | 2026-04-08 | 2026-04-20 |

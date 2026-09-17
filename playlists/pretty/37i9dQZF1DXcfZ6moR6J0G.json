@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2313345,
+  "num_followers": 2313861,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
+        "name": "Best Of (Chapter One 1997-2004)",
+        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 247253,
       "name": "Southtown",
       "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
-        "name": "Best Of (Chapter One 1997-2004)",
-        "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
+        "name": "Sevendust (Definitive Edition)",
+        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 182200,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
-        "name": "Sevendust (Definitive Edition)",
-        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
     },
     {
       "added_at": "2026-07-16 22:35:35",

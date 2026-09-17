@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,075 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,082 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 25 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
 | 26 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
 | 27 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
-| 28 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
-| 29 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
+| 28 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
+| 29 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 30 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 31 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
 | 32 | [play \(feat\. kamasi washington\)](https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:10 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 46 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 47 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 48 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
-| 49 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 |
-| 50 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
+| 49 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
+| 50 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 |
 | 51 | [All the Way Down \(unplugged\)](https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [In The Blue Light](https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu) | 5:39 |
 | 52 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 53 | [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 |
 | 54 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
-| 55 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
-| 56 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 |
+| 55 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 |
+| 56 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
 | 57 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 58 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |
 | 59 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |

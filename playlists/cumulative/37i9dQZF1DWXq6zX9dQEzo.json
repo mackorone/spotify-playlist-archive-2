@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 138668,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4"
@@ -12282,6 +12282,24 @@
       "duration_ms": 144246,
       "name": "N.L.L.Y",
       "url": "https://open.spotify.com/track/6GkSuVt98hzriYQgyyUSeB"
+    },
+    {
+      "album": {
+        "name": "NASDAQ",
+        "url": "https://open.spotify.com/album/4orZ3ivs9lPVbz6wqei6RJ"
+      },
+      "artists": [
+        {
+          "name": "International Show",
+          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "NASDAQ",
+      "url": "https://open.spotify.com/track/1JfxzF5iyMaj7TZHrdJVqc"
     },
     {
       "album": {

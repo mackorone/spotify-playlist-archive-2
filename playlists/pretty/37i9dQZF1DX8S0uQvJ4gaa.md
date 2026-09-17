@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340,367 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340,445 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 92 | [Made You Look](https://open.spotify.com/track/2PNFJjCgX9FYjkpGttjZbC) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Made You Look](https://open.spotify.com/album/5jz9JF2g8WpsGqfc36R48A) | 3:03 |
 | 93 | [I Won't](https://open.spotify.com/track/3fovAdkpa74BGQCHBRse0u) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [I Won't](https://open.spotify.com/album/6IvxNs36zhE5UFSNC1Sxl5) | 2:42 |
 | 94 | [The Way That It Wasn’t](https://open.spotify.com/track/4c5l3LR7lWFtvwKVhJD46P) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [The Way That It Wasn’t](https://open.spotify.com/album/7iaQaNp61VXLEhPdoIvvAO) | 4:09 |
-| 95 | [Goldfish](https://open.spotify.com/track/5O69peW9EeytnJ84HFfS43) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Goldfish \(feat\. Lily Meola\)](https://open.spotify.com/album/2W6SenvzH0sU2fLjsV8Fbt) | 3:04 |
+| 95 | [Goldfish](https://open.spotify.com/track/5O69peW9EeytnJ84HFfS43) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Goldfish](https://open.spotify.com/album/2W6SenvzH0sU2fLjsV8Fbt) | 3:04 |
 | 96 | [Kicked Out Of Bars](https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Kicked Out Of Bars](https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP) | 2:44 |
 | 97 | [Take Me Home](https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Take Me Home](https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh) | 3:05 |
 | 98 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |

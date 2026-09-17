@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63656,
+  "num_followers": 63674,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "A Reef Where Two Seas Met",
-        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
       "artists": [
         {
-          "name": "The Riverside",
-          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
         }
       ],
-      "duration_ms": 139000,
-      "name": "A Reef Where Two Seas Met",
-      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
-      },
-      "artists": [
-        {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Woven",
         "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 149369,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "A Reef Where Two Seas Met",
+        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "A Reef Where Two Seas Met",
+      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "West Dakota Rose",
-        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Christopher Henry",
-          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
-        }
-      ],
-      "duration_ms": 354847,
-      "name": "West Dakota Rose",
-      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 283000,
       "name": "Grandfather's Clock",
       "url": "https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "West Dakota Rose",
+        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Christopher Henry",
+          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
+        }
+      ],
+      "duration_ms": 354847,
+      "name": "West Dakota Rose",
+      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+      },
+      "artists": [
+        {
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Flight Pattern",
+      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -1167,38 +1167,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Addie Levy",
-        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Addie Levy",
-          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Flight Pattern",
-      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1219,6 +1199,26 @@
       "duration_ms": 264840,
       "name": "Big Daddy Rabbit",
       "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Concrete and Steel",
         "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 251047,
       "name": "Concrete and Steel",
       "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+        "name": "Blue Collared Dog and His Green Eyed Friend",
+        "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 242431,
-      "name": "Two Rivers Waltz",
-      "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
+      "duration_ms": 222000,
+      "name": "Blue Collared Dog and His Green Eyed Friend",
+      "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

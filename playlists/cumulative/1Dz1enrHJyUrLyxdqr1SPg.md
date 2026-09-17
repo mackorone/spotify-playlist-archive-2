@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-160 songs - 9 hr 26 min
+161 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Only on the Dance Floor \- Phoenix Lord Remix \- Extended Mix](https://open.spotify.com/track/5hCMPYvos9CIy3YaqpAZoc) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Phoenix Lord](https://open.spotify.com/artist/7t2PIR1ijQPCyTyRAtTzWQ) | [Only on the Dance Floor \(Phoenix Lord Remix \- Extended Mix\)](https://open.spotify.com/album/442fYhv7p04cSnPtEZGK9I) | 4:34 | 2024-12-20 | 2026-08-08 |
 | [Our Father](https://open.spotify.com/track/5Vd8tLiD2K06PRKA18eDSp) | [Paul Vens & Friends](https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0) | [Our Father](https://open.spotify.com/album/6ENFdnIuXTVCuIT5JhO9a0) | 3:24 | 2025-03-01 |  |
 | [Pale Shelter](https://open.spotify.com/track/1RLzufJY0HcUCJvyHcOk8V) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 4:12 | 2025-11-06 | 2025-11-24 |
+| [Peruvian Order](https://open.spotify.com/track/3D2yelidsyWytazDCEfPY8) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Peruvian Order](https://open.spotify.com/album/5wBfWVVyQHL8bGhLFR9Uuq) | 3:52 | 2026-09-16 |  |
 | [Rainbows](https://open.spotify.com/track/099QNnhccADj016aDyFnfK) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Rainbows](https://open.spotify.com/album/2SE9JJtLa3MXV9q0IyctMf) | 3:41 | 2025-08-20 |  |
 | [Ritual Machine](https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs) | [RA MAJOR](https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj), [Silvr Sage](https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf), [Suffolk](https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe) | [Ritual Machine](https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u) | 4:09 | 2026-09-02 |  |
 | [Rubber Mask of Holy Wrath](https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Rubber Mask of Holy Wrath](https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV) | 8:31 | 2026-08-30 |  |
@@ -121,7 +122,7 @@
 | [Soul Flower](https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe) | [Mojo Flows](https://open.spotify.com/artist/3fpD5vtZUbFpcP8yhA42gZ), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Soul Flower](https://open.spotify.com/album/32llxqKo294oatISYV8rzu) | 2:53 | 2026-08-07 |  |
 | [Soulful Voices](https://open.spotify.com/track/1ona7GxXxe6QQbbiqXSjf7) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Soulful Voices](https://open.spotify.com/album/1qwVe0uGm8SW1j0YHI92lK) | 3:50 | 2025-12-16 | 2026-02-02 |
 | [Spring flow](https://open.spotify.com/track/6bfDxRfn9l0SakKPBu5nEq) | [Tropicalmonroe](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ) | [Spring flow](https://open.spotify.com/album/6YHSQHMf0xOBDgQK0pOl5c) | 2:33 | 2025-03-16 | 2025-12-17 |
-| [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 |  |
+| [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 | 2026-09-17 |
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-02-09 |  |
 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
 | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb) | 2:55 | 2026-06-05 |  |
@@ -135,7 +136,7 @@
 | [Tara](https://open.spotify.com/track/3wbfNm0iqSoV4plNLUpL8M) | [Denise Glover](https://open.spotify.com/artist/28V15gh4m18DQnV04TEVXr), [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Tara](https://open.spotify.com/album/0a8Ah1nOni4As3myEW0weF) | 3:12 | 2024-05-16 |  |
 | [Tell Me Lies](https://open.spotify.com/track/7uDwWou3CbkEtwp6YWBMvu) | [Steve Marks](https://open.spotify.com/artist/2d2IafdfrktjgsgZWdC85K) | [Tell Me Lies](https://open.spotify.com/album/2pnnjqDp1J0raq09vuftlC) | 2:38 | 2025-10-24 |  |
 | [The Black Swan Love Song](https://open.spotify.com/track/6KPkN8ogwmXIvO9N2LJHJr) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [The Black Swan Love Song](https://open.spotify.com/album/0w3vUW84HgnGNGfEBbx45g) | 4:42 | 2025-08-31 | 2026-08-22 |
-| [The Dance of Wednesday](https://open.spotify.com/track/5CelbysfQNPKFjTKCg8zfN) | [Simon Watt](https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx) | [The Dance of Wednesday](https://open.spotify.com/album/2hRNd6UVawKQF36DmAQL9A) | 3:17 | 2025-04-02 |  |
+| [The Dance of Wednesday](https://open.spotify.com/track/5CelbysfQNPKFjTKCg8zfN) | [Simon Watt](https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx) | [The Dance of Wednesday](https://open.spotify.com/album/2hRNd6UVawKQF36DmAQL9A) | 3:17 | 2025-04-02 | 2026-09-17 |
 | [The Eagle](https://open.spotify.com/track/5p7k4s2aRrU3qfF2VF4lJw) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [The Eagle](https://open.spotify.com/album/6hXloA8sjPIQ8YIghxirh0) | 3:54 | 2023-10-13 |  |
 | [the gem](https://open.spotify.com/track/1ZbeUC4zHzVtXgvoQrSlz6) | [Tanay Gagrani](https://open.spotify.com/artist/15csmQInogzFI82oHveV1G), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12) | [the gem](https://open.spotify.com/album/5AzKWogVQI2tdB7jdC56IZ) | 2:41 | 2026-02-01 |  |
 | [The Labyrinth](https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Errant Knights](https://open.spotify.com/album/4bUoHxBO9UqYndN3JwgBoC) | 4:26 | 2024-11-18 |  |

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-558 songs - 1 day 9 hr 15 min
+559 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 | 2025-09-18 | 2026-03-17 |
 | [Is It Real? \(feat\. Salena Mastroianni\) \- Acoustic](https://open.spotify.com/track/4nSzmDBXKSqzw7MySbv5pU) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Is It Real? \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/1vBlvh8xYucADAfrBNYrPM) | 3:35 | 2022-10-20 | 2022-11-02 |
 | [It Don't Matter](https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 3:06 | 2024-03-07 | 2025-07-11 |
-| [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-23 |  |
+| [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-23 | 2026-09-17 |
 | [it's been a year](https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [it's been a year](https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4) | 3:36 | 2023-05-02 | 2023-08-25 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2024-03-07 | 2024-04-19 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-10-20 | 2024-02-29 |
@@ -325,6 +325,7 @@
 | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/track/4PC50SVpunelqtTeXUAG41) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [東川亜希子](https://open.spotify.com/artist/26wUFJYN45UPECKEFcocoq) | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/album/5fYd5VD8XTRV9nQenYzmKf) | 3:01 | 2025-09-04 | 2025-10-03 |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2022-12-13 | 2023-02-10 |
+| [Off The Wall](https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:11 | 2026-03-12 |  |
 | [Old Man](https://open.spotify.com/track/56LNNaTpa4fNuduLV6S0zs) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Old Man](https://open.spotify.com/album/7DbA9Ybpa35tJY2Z9RmLGg) | 3:28 | 2022-10-20 | 2022-11-02 |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-20 | 2025-07-11 |
 | [Old Note](https://open.spotify.com/track/0K3HWnhWB2EWCy2rPeCPFW) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Old Note](https://open.spotify.com/album/3Hpmybx1qnm2ZRXysWOKjL) | 6:07 | 2022-11-15 | 2022-11-23 |

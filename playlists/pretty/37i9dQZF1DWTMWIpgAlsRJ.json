@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 396418,
+  "num_followers": 396442,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
@@ -621,6 +621,26 @@
       "url": "https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso"
     },
     {
+      "added_at": "2026-09-10 17:00:38",
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
       "added_at": "2026-07-17 11:00:02",
       "album": {
         "name": "Two Vines (Deluxe)",
@@ -651,26 +671,6 @@
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
-    },
-    {
-      "added_at": "2026-09-10 17:00:38",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
         "name": "Ahora y Siempre",
         "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -859,22 +875,6 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
     },
     {
+      "added_at": "2026-09-10 17:00:38",
+      "album": {
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
+    },
+    {
       "added_at": "2026-07-17 11:00:02",
       "album": {
         "name": "Neverender",
@@ -1139,6 +1155,22 @@
       "duration_ms": 214149,
       "name": "Walk",
       "url": "https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro"
+    },
+    {
+      "added_at": "2026-09-10 17:00:38",
+      "album": {
+        "name": "Dying In Reverse",
+        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 234276,
+      "name": "Dying In Reverse",
+      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1213,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
     },
     {
-      "added_at": "2026-09-10 17:00:38",
-      "album": {
-        "name": "Who's That",
-        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
-    },
-    {
       "added_at": "2026-07-17 11:00:02",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2026-09-10 17:00:38",
-      "album": {
-        "name": "Dying In Reverse",
-        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 234276,
-      "name": "Dying In Reverse",
-      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C"
     },
     {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
-    },
-    {
       "added_at": "2026-09-10 17:00:38",
       "album": {
         "name": "FREE SPIRITS",
@@ -1571,18 +1555,34 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered 2009",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 157837,
+      "name": "UYUNI",
+      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 157837,
-      "name": "UYUNI",
-      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered 2009",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
     },
     {
+      "added_at": "2026-09-10 17:49:52",
+      "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
       "added_at": "2026-09-10 17:00:38",
       "album": {
         "name": "(((((ultraSOUND)))))+",
@@ -1727,22 +1743,6 @@
       "duration_ms": 191466,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 157937,
-      "name": "IMPOSTOR",
-      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
     }
   ],
   "unique_name": "EA SPORTS FC Ultimate Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,493,178 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,492,535 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 7 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 |
 | 8 | [Say Dat](https://open.spotify.com/track/4CDeoyvqhzDYcpzED8vnz3) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [iyrus](https://open.spotify.com/artist/0N8nXapCBAIztfpKiKwrCj), [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [Slime Language 3](https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB) | 3:16 |
 | 9 | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
-| 10 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 10 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 11 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
 | 12 | [I See Why](https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I See Why](https://open.spotify.com/album/4HzdDbgWaDHLkLbhOuBb82) | 3:03 |
 | 13 | [Ca$ino](https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:20 |

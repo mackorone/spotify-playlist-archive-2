@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11664,
+  "num_followers": 11663,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "HOLLYWOOD SMILE",
-        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        }
-      ],
-      "duration_ms": 183018,
-      "name": "COWABONGA",
-      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Zwolnij?",
         "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "HOLLYWOOD SMILE",
+        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "duration_ms": 183018,
+      "name": "COWABONGA",
+      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Rajzefiber",
+        "url": "https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse"
+      },
+      "artists": [
+        {
+          "name": "Shellerini",
+          "url": "https://open.spotify.com/artist/0mGMdkeDynbGXSVd0PY8Oq"
+        },
+        {
+          "name": "AZ-YL",
+          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
+        },
+        {
+          "name": "Sher7ock",
+          "url": "https://open.spotify.com/artist/3FmbA2vDCuf2XOKzSaAmXq"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Nie \u015api\u0119",
+      "url": "https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Tenten",
         "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
       },
@@ -1171,30 +1195,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Rajzefiber",
-        "url": "https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse"
-      },
-      "artists": [
-        {
-          "name": "Shellerini",
-          "url": "https://open.spotify.com/artist/0mGMdkeDynbGXSVd0PY8Oq"
-        },
-        {
-          "name": "AZ-YL",
-          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
-        },
-        {
-          "name": "Sher7ock",
-          "url": "https://open.spotify.com/artist/3FmbA2vDCuf2XOKzSaAmXq"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Nie \u015api\u0119",
-      "url": "https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC"
     },
     {
       "added_at": "2026-04-09 22:12:46",

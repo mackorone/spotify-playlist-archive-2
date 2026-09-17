@@ -27,6 +27,22 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
+        "name": "Iris (Goes Metal)",
+        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 244145,
+      "name": "Iris (Goes Metal)",
+      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
         "name": "Westside Whimsy",
         "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 237250,
       "name": "So Good (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "Iris (Goes Metal)",
-        "url": "https://open.spotify.com/album/3SajuZq2VmFMmFIPV9zdiV"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 244145,
-      "name": "Iris (Goes Metal)",
-      "url": "https://open.spotify.com/track/2WXQuFXyp7XCbh3CLIvALK"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -119,26 +119,6 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Same Old Blues (feat. Jessi Colter)",
-        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 158899,
-      "name": "Same Old Blues (feat. Jessi Colter)",
-      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/67sDEVCYNUuRHnLg8ly7v7"
       },
@@ -183,7 +163,27 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "Look Like My Mama (feat. Tyler, The Creator)",
+        "name": "Same Old Blues (feat. Jessi Colter)",
+        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 158899,
+      "name": "Same Old Blues (feat. Jessi Colter)",
+      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Look Like My Mama",
         "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
       },
       "artists": [
@@ -197,8 +197,24 @@
         }
       ],
       "duration_ms": 196800,
-      "name": "Look Like My Mama (feat. Tyler, The Creator)",
+      "name": "Look Like My Mama",
       "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
+        "name": "Eight Legs of Thunder",
+        "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Eight Legs of Thunder",
+      "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -216,25 +232,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 260695,
-      "name": "40 Nights",
-      "url": "https://open.spotify.com/track/2CTwK5KZryhCTxLwv0TAJg"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
-        "name": "Eight Legs of Thunder",
-        "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Eight Legs of Thunder",
-      "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
+      "duration_ms": 133639,
+      "name": "LA Monster",
+      "url": "https://open.spotify.com/track/1qm3M8J8lssVFLahS12OAE"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 236505,
-      "name": "By Any Means - Film Version",
-      "url": "https://open.spotify.com/track/29JlmxdWXF6rbDPMbK2m4X"
-    },
-    {
-      "added_at": "2026-09-11 04:00:00",
-      "album": {
         "name": "SO GOOD",
         "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
@@ -540,13 +520,13 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 195074,
-      "name": "I Know That Man - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
+      "duration_ms": 256590,
+      "name": "Black Box - feat. Kamasi Washington",
+      "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
     },
     {
       "added_at": "2026-09-11 04:00:00",
@@ -571,6 +551,26 @@
     {
       "added_at": "2026-09-11 04:00:00",
       "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 236505,
+      "name": "By Any Means - Film Version",
+      "url": "https://open.spotify.com/track/29JlmxdWXF6rbDPMbK2m4X"
+    },
+    {
+      "added_at": "2026-09-11 04:00:00",
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 256590,
-      "name": "Black Box - feat. Kamasi Washington",
-      "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
+      "duration_ms": 195074,
+      "name": "I Know That Man - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
     },
     {
       "added_at": "2026-09-11 04:00:00",

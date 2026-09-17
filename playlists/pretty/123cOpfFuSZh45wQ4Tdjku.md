@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,281 likes - 527 songs - 1 day 1 hr 45 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,283 likes - 528 songs - 1 day 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -535,5 +535,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 525 | [Luminescence](https://open.spotify.com/track/2jCB04KfiEgG2PjFF56hwo) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/6Azh0ISCBfxivr4685Q28P) | 4:25 |
 | 526 | [HOMESICK WANDERLUST](https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Homesick Wanderlust](https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy) | 4:30 |
 | 527 | [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 |
+| 528 | [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 |
 
-Snapshot ID: `AAAB/Mo0TEUNZ906Gh2duL3AN2g3WENF`
+Snapshot ID: `AAAB/SP1zFVg7DwLaRhUmL5eafppAJZp`

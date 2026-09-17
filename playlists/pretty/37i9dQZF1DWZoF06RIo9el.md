@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,388 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,257 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 31 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
 | 32 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 33 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
-| 34 | [TRX](https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [TRX](https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO) | 3:20 |
-| 35 | [Contacto Cero](https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Contacto Cero](https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW) | 2:49 |
+| 34 | [Contacto Cero](https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Contacto Cero](https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW) | 2:49 |
+| 35 | [TRX](https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [TRX](https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO) | 3:20 |
 | 36 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
 | 37 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
 | 38 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |

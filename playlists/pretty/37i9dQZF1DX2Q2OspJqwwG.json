@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia.",
-  "num_followers": 38746,
+  "num_followers": 38751,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
         "name": "SHAKE IT TO THE MAX (FLY) (REMIX)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 178775,
       "name": "SHAKE IT TO THE MAX (FLY) - REMIX",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
         "name": "Ma Tnsani (Yalla Habibi)",
         "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-09-14 09:45:41",
       "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1571,6 +1555,38 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "added_at": "2026-09-14 09:45:41",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
     },
     {
       "added_at": "2026-09-14 09:45:41",
@@ -1603,22 +1619,6 @@
       "duration_ms": 151632,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44"
-    },
-    {
-      "added_at": "2026-09-14 09:45:41",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
     },
     {
       "added_at": "2026-09-14 09:45:41",

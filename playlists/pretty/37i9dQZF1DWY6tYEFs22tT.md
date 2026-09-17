@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Quavo, Yeat,  NAV, Nemzzz, 2 Chainz, Casper TNG, and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,184 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,061 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 3 | [WOAH](https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WOAH](https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM) | 2:25 |
 | 4 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
 | 5 | [Reign](https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Reign](https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2) | 3:05 |
-| 6 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 6 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 7 | [Spend Dat \(feat\. Lil Baby & Kodak Black\) \- Remix](https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Spend Dat \(Remix\)](https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5) | 3:14 |
 | 8 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 9 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |

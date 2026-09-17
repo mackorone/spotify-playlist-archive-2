@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring HARTY (UK). Curated with love by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -4011,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "album": {
         "name": "Asap",
         "url": "https://open.spotify.com/album/0zoLQ93QxZPF5LiNYw6vFi"
       },
@@ -7841,6 +7859,24 @@
     },
     {
       "album": {
+        "name": "Boombox",
+        "url": "https://open.spotify.com/album/5GfO1efzZocCPrepWEvhHC"
+      },
+      "artists": [
+        {
+          "name": "Saoirse",
+          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282431,
+      "name": "Boombox",
+      "url": "https://open.spotify.com/track/2Bjbh92ZGKdWugmlroHJSY"
+    },
+    {
+      "album": {
         "name": "Booth Lingerer Anthem",
         "url": "https://open.spotify.com/album/3HsRkMpSYeVpYIhJvn3pFp"
       },
@@ -9018,7 +9054,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 175984,
       "name": "BRONX",
       "url": "https://open.spotify.com/track/2lFdLsPwPddCUfI6SvmFVC"
@@ -11336,7 +11372,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 148607,
       "name": "cherry spice",
       "url": "https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9"
@@ -23245,6 +23281,24 @@
     },
     {
       "album": {
+        "name": "Free in this House",
+        "url": "https://open.spotify.com/album/2JsFKeINbWGIw5NJO29VV9"
+      },
+      "artists": [
+        {
+          "name": "Malix",
+          "url": "https://open.spotify.com/artist/4qlZWwvpGlUWkRE2Yvot4c"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Free in this House",
+      "url": "https://open.spotify.com/track/4WTBMXwdrklK66gC3h68DR"
+    },
+    {
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/1FxNjgjCJAW1OkS6fSFfTY"
       },
@@ -30224,7 +30278,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 225563,
       "name": "i got you",
       "url": "https://open.spotify.com/track/6NazFWRTXIpqsuVGQiaDB0"
@@ -41151,6 +41205,24 @@
     },
     {
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1yw9QRhC3aj8PBgMWQ8ihz"
+      },
+      "artists": [
+        {
+          "name": "ACA (YU)",
+          "url": "https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347076,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/42sh19iYGReVErKTOKaAJy"
+    },
+    {
+      "album": {
         "name": "Music In Our House",
         "url": "https://open.spotify.com/album/0HQSRt5NNUuQxOZpZfCCIg"
       },
@@ -47418,7 +47490,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 243200,
       "name": "Play it Loud (Keep it Going)",
       "url": "https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,016 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,937 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 39 | [Savage Love \(Laxed – Siren Beat\) \[BTS Remix\]](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Savage Love \(Laxed \- Siren Beat\) \[BTS Remix\]](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) | 3:04 |
 | 40 | [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:57 |
 | 41 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
-| 42 | [911](https://open.spotify.com/track/23KVefoON2iEz1dh940quQ) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Chaotic](https://open.spotify.com/album/6nUQsCdTK0xbG6FjyqJUXq) | 3:08 |
-| 43 | [Paraiso](https://open.spotify.com/track/4AdM5EcWPehGPXivufXQj7) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Paraiso](https://open.spotify.com/album/5VdRN37AB08PPnwgGQYXRf) | 2:27 |
+| 42 | [Paraiso](https://open.spotify.com/track/4AdM5EcWPehGPXivufXQj7) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Paraiso](https://open.spotify.com/album/5VdRN37AB08PPnwgGQYXRf) | 2:27 |
+| 43 | [911](https://open.spotify.com/track/23KVefoON2iEz1dh940quQ) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Chaotic](https://open.spotify.com/album/6nUQsCdTK0xbG6FjyqJUXq) | 3:08 |
 | 44 | [Old Town Road \(feat\. RM of BTS\) \- Seoul Town Road Remix](https://open.spotify.com/track/6woeVu3fVMflqen1t4N6pg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Old Town Road \(feat\. RM of BTS\) \[Seoul Town Road Remix\]](https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW) | 1:54 |
 | 45 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 |
 | 46 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 |

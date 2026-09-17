@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Nee Sneham",
+        "url": "https://open.spotify.com/album/0VYX0zTqQjrLRF8BzutdR4"
+      },
+      "artists": [
+        {
+          "name": "R. P. Patnaik",
+          "url": "https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy"
+        },
+        {
+          "name": "Usha Munukutla",
+          "url": "https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299911,
+      "name": "Chinuku Thadiki",
+      "url": "https://open.spotify.com/track/4hgBH5iu5TWIc2lwk4pbDr"
+    },
+    {
+      "album": {
         "name": "Awaara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0UKhCWkRL6X4Kwbjz8Pf0q"
       },
@@ -2336,6 +2358,32 @@
       "duration_ms": 235102,
       "name": "Dheema",
       "url": "https://open.spotify.com/track/2zQREkxHQql1oW7NvMCaZk"
+    },
+    {
+      "album": {
+        "name": "Mirapakay",
+        "url": "https://open.spotify.com/album/380smKj84hUe7VrSC6oSyl"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284782,
+      "name": "Dhinaku Dhin Jiya",
+      "url": "https://open.spotify.com/track/1QpG2abn4lfZUYWiBrxMYU"
     },
     {
       "album": {
@@ -4642,7 +4690,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 244149,
       "name": "Karthika Maasam",
       "url": "https://open.spotify.com/track/2ApmzYE7xij7lo84T6iA7d"
@@ -8626,7 +8674,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 256901,
       "name": "Sanna Sanna Biyyame",
       "url": "https://open.spotify.com/track/2v2Nkd45rM8TldGWy1HKcb"
@@ -8792,6 +8840,32 @@
       "duration_ms": 285040,
       "name": "Sehari Sehari",
       "url": "https://open.spotify.com/track/7CLHccpmQ2McY7vj6gmSGP"
+    },
+    {
+      "album": {
+        "name": "Mirapakay",
+        "url": "https://open.spotify.com/album/380smKj84hUe7VrSC6oSyl"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277330,
+      "name": "Silakaaa",
+      "url": "https://open.spotify.com/track/6ZSwjKwuoYF513glgH2Uzr"
     },
     {
       "album": {
@@ -9748,7 +9822,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 267675,
       "name": "Varsham Munduga",
       "url": "https://open.spotify.com/track/0LZVBuMjBypnzwHLNQVSnv"

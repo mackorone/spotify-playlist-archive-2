@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: شاهين
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,644 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,652 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 21 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 |
 | 22 | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/track/6uPZpAw51X73ORLBydHizI) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/album/0RwZOf3Ryy01VKgt3MtRrp) | 2:04 |
 | 23 | [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 |
-| 24 | [بكرة تشوف](https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [Bokra Teshouf](https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR) | 3:14 |
+| 24 | [بكرة تشوف](https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5) | [TOTTI](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [Bokra Teshouf](https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR) | 3:14 |
 | 25 | [FLEXIN](https://open.spotify.com/track/4hilPZuJldFY5ACcNRAzQv) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 1:33 |
 | 26 | [Hara](https://open.spotify.com/track/7ub5fhbNNWur3SiI9d7JUI) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj), [ELKVP](https://open.spotify.com/artist/29LG4T58zgrsL4DD9BeABK) | [Hara](https://open.spotify.com/album/6WnlpolsQvUORW7LK64LTP) | 3:01 |
 | 27 | [BANATY](https://open.spotify.com/track/2MwSGlOF7IyO08qtGpSbTg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [BANATY](https://open.spotify.com/album/4X6VG09XMAHdEy7Gj8fYql) | 1:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Spanish Love Songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,247 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,263 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 73 | [Longer](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 4:58 |
 | 74 | [Shadows](https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Shadows](https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj) | 3:17 |
 | 75 | [You Hate Me](https://open.spotify.com/track/5Vpb3sJeb6pWjkPuEZchEG) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You Hate Me](https://open.spotify.com/album/601KLtTDsvxaDKgtGIJFOS) | 3:32 |
-| 76 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ), [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
+| 76 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
 | 77 | [Pain In My Chest](https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Pain In My Chest](https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4) | 3:42 |
 | 78 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
 | 79 | [Kindly, wash yourself](https://open.spotify.com/track/3yLXkE4NWsT9oOc0Vn3CM2) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [The weathervane is my body](https://open.spotify.com/album/2fVzzo8IRKjQOVpkcUnRQD) | 4:25 |

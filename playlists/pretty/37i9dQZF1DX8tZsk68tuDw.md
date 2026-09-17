@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with J\. Worra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,599 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,814,439 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 72 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 | 73 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
 | 74 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
-| 75 | [So Good \(feat\. Kuuda\)](https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8) | 3:03 |
+| 75 | [So Good \(feat\. Kuuda\)](https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8) | 3:03 |
 
 Snapshot ID: `AAAAAKxBSv0dVc1Zv9ZjJYBsJ6Wb/Zal`

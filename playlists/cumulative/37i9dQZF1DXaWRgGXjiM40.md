@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-134 songs - 6 hr 52 min
+135 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,11 +79,12 @@
 | [Menina De Ouro \- Ao Vivo](https://open.spotify.com/track/1nJCPEoH9NzaCpBw2ZYHUK) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Sonho \(Ao Vivo\)](https://open.spotify.com/album/71eeIN3URvqIaZc9CL66wL) | 2:39 | 2025-06-06 | 2025-10-26 |
 | [Mentes Tão Bem \(Mientes Tan Bien\)](https://open.spotify.com/track/1VEyDlRdDIKopb4YRgbCFe) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions 2](https://open.spotify.com/album/68OY0mYlWfoIDE30464mi6) | 3:40 | 2025-11-28 | 2025-12-19 |
 | [Mentiras](https://open.spotify.com/track/1IidwGEnODlsduaXG3WtHY) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Mentiras](https://open.spotify.com/album/1Ko1EtETj6MMQJhLEFiCFK) | 2:49 | 2026-03-20 | 2026-05-08 |
-| [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 | 2025-12-12 |  |
+| [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 | 2025-12-12 | 2026-09-17 |
 | [Moleque](https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI) | [Pacheco](https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Moleque](https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt) | 3:14 | 2023-02-10 | 2023-02-27 |
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2023-02-10 | 2026-05-08 |
 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 | 2024-03-14 |  |
 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 | 2024-03-14 |  |
+| [Mural Dos Sonhos](https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Mural Dos Sonhos](https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn) | 2:38 | 2026-09-04 |  |
 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 | 2023-02-10 |  |
 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 | 2023-02-10 |  |
 | [Namora Ela \- Ao Vivo](https://open.spotify.com/track/28lX0N3Fa1L5YzzPfklvc0) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Namora Ela \(Ao Vivo\)](https://open.spotify.com/album/5fadpHFKpJUfyLr1kcPwpA) | 2:37 | 2025-01-23 | 2025-02-08 |

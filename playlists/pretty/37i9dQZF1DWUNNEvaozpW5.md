@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa con Kiko Veneno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,009 likes - 120 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,101 likes - 120 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

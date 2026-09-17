@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Kings of Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,915 likes - 165 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,216 likes - 165 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

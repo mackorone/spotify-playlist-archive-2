@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 292391,
+  "num_followers": 292464,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Camale\u00f3n",
-        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "El Camale\u00f3n",
-      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Provocame",
         "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 189653,
       "name": "Provocame",
       "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Camale\u00f3n",
+        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "El Sandwich",
-      "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 174333,
       "name": "Con Zapatos de Tac\u00f3n",
       "url": "https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "El Sandwich",
+      "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 198791,
       "name": "La Guitarra de Lolo (Huapango)",
       "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1975,6 +1975,58 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Puras Pa' Trapear",
+        "url": "https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "Huapangos Perros",
+      "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+        }
+      ],
+      "duration_ms": 128073,
+      "name": "Me Aceptaste - En Vivo",
+      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 180337,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -2075,42 +2127,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "JJ Araujo",
-          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
-        }
-      ],
-      "duration_ms": 128073,
-      "name": "Me Aceptaste - En Vivo",
-      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Acuerdate De Mi",
         "url": "https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 185388,
       "name": "Ya No Me Mires Asi",
       "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Puras Pa' Trapear",
-        "url": "https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "Huapangos Perros",
-      "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
     },
     {
       "added_at": "2024-11-28 22:59:11",

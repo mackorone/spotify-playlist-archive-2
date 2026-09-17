@@ -1,6 +1,6 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 235187,
+  "num_followers": 235221,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,30 @@
     {
       "added_at": "2026-09-08 12:00:04",
       "album": {
+        "name": "The Sinner",
+        "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Raakmo",
+          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
+    },
+    {
+      "added_at": "2026-09-08 12:00:04",
+      "album": {
         "name": "It Must Have Been Love (feat. Charla K)",
         "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
-    },
-    {
-      "added_at": "2026-09-08 12:00:04",
-      "album": {
-        "name": "The Sinner",
-        "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Raakmo",
-          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
     },
     {
       "added_at": "2026-09-08 12:00:04",

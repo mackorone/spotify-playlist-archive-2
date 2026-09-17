@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,650 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,732 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 18 | [The Entertainer](https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Fingerbreaker: Classics Of Ragtime And Early Jazz Piano](https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ) | 3:53 |
 | 19 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 |
 | 20 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
-| 21 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
-| 22 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 21 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 22 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 23 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 24 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
 | 25 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 46 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
 | 47 | [Billy Jack's Theme \- from the motion picture Born Losers](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [Mike Curb](https://open.spotify.com/artist/3K03NMtKNyd0jemLuLYcLf), [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 48 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 |
-| 49 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
-| 50 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 49 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
+| 50 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 51 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 52 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
 | 53 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |

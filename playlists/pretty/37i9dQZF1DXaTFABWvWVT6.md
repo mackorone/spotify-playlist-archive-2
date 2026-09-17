@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,175 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,186 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 53 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 |
 | 54 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
 | 55 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
-| 56 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
+| 56 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 | 57 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
 | 58 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 59 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,240 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,379 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 115 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
 | 116 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 117 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
-| 118 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
-| 119 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 118 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 119 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
 | 120 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |
 | 121 | [Is This Thing On?](https://open.spotify.com/track/5dgyKLZKxfreuDaDQwEj9U) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 3:37 |
 | 122 | [Summer](https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Maybe This Place Is The Same And We're Just Changing](https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln) | 3:21 |

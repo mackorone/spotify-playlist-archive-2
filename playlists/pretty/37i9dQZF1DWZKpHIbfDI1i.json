@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Bogueto",
-  "num_followers": 871238,
+  "num_followers": 871277,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,22 @@
     {
       "added_at": "2026-09-11 06:00:24",
       "album": {
-        "name": "No Quiero Ser",
-        "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
       },
       "artists": [
         {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "IMA",
-          "url": "https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
         }
       ],
-      "duration_ms": 189333,
-      "name": "No Quiero Ser",
-      "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
+      "duration_ms": 153745,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
     },
     {
       "added_at": "2026-09-11 06:00:24",
@@ -1119,22 +1115,26 @@
     {
       "added_at": "2026-09-11 06:00:24",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
+        "name": "No Quiero Ser",
+        "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
         },
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "IMA",
+          "url": "https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 153745,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
+      "duration_ms": 189333,
+      "name": "No Quiero Ser",
+      "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
     },
     {
       "added_at": "2026-09-11 06:00:24",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-09-11 06:00:24",
       "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
-      },
-      "artists": [
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        },
-        {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "La Misi\u00f3n",
-      "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
-    },
-    {
-      "added_at": "2026-09-11 06:00:24",
-      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 262269,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
+    },
+    {
+      "added_at": "2026-09-11 06:00:24",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
+      },
+      "artists": [
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
     },
     {
       "added_at": "2026-09-11 06:00:24",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Babet
+> Frisse Nederlandse pop\. Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,262 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,265 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [wat doe je nou](https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [wat doe je nou](https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n) | 2:48 |
-| 2 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
+| 1 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
+| 2 | [wat doe je nou](https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [wat doe je nou](https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n) | 2:48 |
 | 3 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
 | 4 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
 | 5 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Lekker Liedje](https://open.spotify.com/track/1xEGuvwku0VTWNqk5jTnNz) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Lekker Liedje](https://open.spotify.com/album/3uEfJJvJfnwz5Oe3FOEAmU) | 2:21 |
 | 80 | [Wat Blijft Er Over?](https://open.spotify.com/track/05yLLrsDwNhgBD99q6d7IJ) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Wat Blijft Er Over?](https://open.spotify.com/album/4pktN68uPfRqFWH0mb6ko0) | 2:45 |
 
-Snapshot ID: `AAAAAPTp0YU3DIvRLTvlUBa4430SNbNc`
+Snapshot ID: `AAAAAIyzS94f8D52u4D45twKiehqHvoO`

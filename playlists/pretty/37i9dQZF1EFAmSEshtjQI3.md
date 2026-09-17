@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 7 | [Si por Mí Fuera](https://open.spotify.com/track/07MS3RfBJMZlEljzO492xD) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:13 |
 | 8 | [Placebo](https://open.spotify.com/track/6rsjtGqye3l0ItzLzooMlm) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:14 |
 | 9 | [Tú Me Delatas](https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Me Delatas](https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT) | 3:17 |
-| 10 | [Trepando Paredes](https://open.spotify.com/track/5fer2wUUzZnYtEuOzG7nCZ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mi Norte & Mi Sur](https://open.spotify.com/album/051zeHA45MBAZR0iqp1gyB) | 3:53 |
-| 11 | [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 |
+| 10 | [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 |
+| 11 | [Trepando Paredes](https://open.spotify.com/track/5fer2wUUzZnYtEuOzG7nCZ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mi Norte & Mi Sur](https://open.spotify.com/album/051zeHA45MBAZR0iqp1gyB) | 3:53 |
 | 12 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 |
 | 13 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:35 |
 | 14 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 50 | [HELADO DE VAINILLA](https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [HELADO DE VAINILLA](https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG) | 3:09 |
 | 51 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `AccZyAAAAAAfpsDVTO2K7CcKIw6ynxRD`
+Snapshot ID: `AccfmgAAAAACy6Hxwu4J5tm8FDZz/3qH`

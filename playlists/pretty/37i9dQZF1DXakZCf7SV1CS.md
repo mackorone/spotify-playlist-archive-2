@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,694 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,707 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 82 | [USA](https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:23 |
 | 83 | [hide me here](https://open.spotify.com/track/0kuloMBECT7y3E0a5oMduc) | [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [hide me here](https://open.spotify.com/album/3hwJTjrj7A1JibjYJVc0Gh) | 3:21 |
 | 84 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
-| 85 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 |
-| 86 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
+| 85 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
+| 86 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 |
 | 87 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 |
 | 88 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 |
 | 89 | [scawy monstews and nice spwites :3](https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O) | [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [scawy monstews and nice spwites :3](https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp) | 1:36 |

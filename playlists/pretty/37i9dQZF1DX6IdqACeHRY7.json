@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157879,
+  "num_followers": 157875,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Nice To Meet You (Mistletoe Version)",
         "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Dine Venner",
-        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Elsker Dig S\u00e5 Meget",
-      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Dine Venner",
+        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Elsker Dig S\u00e5 Meget",
+      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Should Probably Go To Bed",
         "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2026-05-21 12:03:22",

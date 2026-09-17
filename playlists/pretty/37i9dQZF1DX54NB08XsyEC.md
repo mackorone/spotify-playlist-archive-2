@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: minhas favs / Foto: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,309 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,263 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,20 +65,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 55 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
 | 56 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 | 57 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 |
-| 58 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
-| 59 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 |
+| 58 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 |
+| 59 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 | 60 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
 | 61 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
 | 62 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 63 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
 | 64 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 65 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 |
-| 66 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
+| 65 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
+| 66 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 |
 | 67 | [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 |
 | 68 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
-| 69 | [LOCA](https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LOCA](https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E) | 3:11 |
-| 70 | [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 |
-| 71 | [THE CINEMA](https://open.spotify.com/track/04MiLGH0wL7swnkPl4GXl2) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [THE CINEMA](https://open.spotify.com/album/0jxv8m0QoX7RyuVOHr1gFd) | 3:22 |
+| 69 | [THE CINEMA](https://open.spotify.com/track/04MiLGH0wL7swnkPl4GXl2) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [THE CINEMA](https://open.spotify.com/album/0jxv8m0QoX7RyuVOHr1gFd) | 3:22 |
+| 70 | [LOCA](https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LOCA](https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E) | 3:11 |
+| 71 | [Us Against The World](https://open.spotify.com/track/3RHtI2W6ZlAuM0r96nLhC9) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [On Your Side](https://open.spotify.com/album/5H8h2QQ48TwqBpi6jXNDyr) | 2:43 |
 | 72 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 73 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 |
 | 74 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Stella Lefty",
-  "num_followers": 4340995,
+  "num_followers": 4340588,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Evolve (CLUBSOS VOL. 1)",
-        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 194649,
-      "name": "Evolve - CLUBSOS VOL. 1",
-      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+        "name": "Evolve (CLUBSOS VOL. 1)",
+        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+      "duration_ms": 194649,
+      "name": "Evolve - CLUBSOS VOL. 1",
+      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -963,6 +943,26 @@
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -1053,24 +1033,24 @@
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
-      "added_at": "2026-08-21 04:02:19",
+      "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Danceteria (Harry Romero Remix)",
-        "url": "https://open.spotify.com/album/7EaFbFXzgMJDKfZBdLDCRb"
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 427881,
-      "name": "Danceteria - Harry Romero Remix",
-      "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1091,6 +1071,26 @@
       "duration_ms": 193743,
       "name": "Midnight Sun - Alex Chapman Remix",
       "url": "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:19",
+      "album": {
+        "name": "Danceteria (Harry Romero Remix)",
+        "url": "https://open.spotify.com/album/7EaFbFXzgMJDKfZBdLDCRb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "duration_ms": 427881,
+      "name": "Danceteria - Harry Romero Remix",
+      "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2026-09-04 04:00:35",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "like JENNIE",
-        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "like JENNIE - Peggy Gou Remix",
-      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "like JENNIE",
+        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "like JENNIE - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
       "added_at": "2026-08-14 13:13:41",

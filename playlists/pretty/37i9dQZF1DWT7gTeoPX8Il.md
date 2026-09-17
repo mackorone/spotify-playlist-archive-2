@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,888 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,911 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 41 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
 | 42 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
 | 43 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
-| 44 | [Cinta Mati](https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy) | [Apau Qhaliff](https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk) | [Cinta Mati](https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M) | 4:10 |
-| 45 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
+| 44 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
+| 45 | [Cinta Mati](https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy) | [Apau Qhaliff](https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk) | [Cinta Mati](https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M) | 4:10 |
 | 46 | [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 |
 | 47 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
 | 48 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
-| 49 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
-| 50 | [Cuba Jadi Aku](https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cuba Jadi Aku](https://open.spotify.com/album/1qgC2Fz9a4OArCfO8iuFzf) | 4:13 |
+| 49 | [Cuba Jadi Aku](https://open.spotify.com/track/30zVgttK8R9wmnyXbtrXZm) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cuba Jadi Aku](https://open.spotify.com/album/1qgC2Fz9a4OArCfO8iuFzf) | 4:13 |
+| 50 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 
 Snapshot ID: `AAAAAEPA7gHaC7IYkZ7cmrYWj3L/gwej`

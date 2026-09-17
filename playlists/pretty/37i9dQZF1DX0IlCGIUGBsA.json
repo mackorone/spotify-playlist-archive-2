@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 918112,
+  "num_followers": 918115,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "At Worst...The Best Of Boy George And Culture Club",
-        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Karma Chameleon",
-      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Fore!",
         "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 245466,
       "name": "Hip To Be Square",
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "At Worst...The Best Of Boy George And Culture Club",
+        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Karma Chameleon",
+      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
     },
     {
       "added_at": "2024-07-12 09:33:21",

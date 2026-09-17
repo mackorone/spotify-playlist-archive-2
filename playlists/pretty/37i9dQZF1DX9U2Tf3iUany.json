@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 60221,
+  "num_followers": 60231,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "MacArthur Park - Single Version",
-      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Moondance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 300800,
       "name": "Caravan - 2013 Remaster",
       "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Gangsta Blues",
-        "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
-      },
-      "artists": [
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "It's A Pity",
-      "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 248626,
       "name": "Down And Out",
       "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Gangsta Blues",
+        "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "It's A Pity",
+      "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
     },
     {
       "added_at": "2022-10-01 16:00:00",

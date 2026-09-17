@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 538859,
+  "num_followers": 539305,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-09-04 00:01:19",
+      "album": {
         "name": "Dance In The Light",
         "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 230886,
       "name": "Dance In The Light",
       "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
-    },
-    {
-      "added_at": "2026-09-04 00:01:19",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "NEVER SAY",
-        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
-      },
-      "artists": [
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 187507,
-      "name": "NEVER SAY",
-      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
-    },
-    {
-      "added_at": "2026-09-04 00:01:19",
-      "album": {
         "name": "Omnes EP",
         "url": "https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 289472,
       "name": "All In This - Original mix",
       "url": "https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z"
+    },
+    {
+      "added_at": "2026-09-04 00:01:19",
+      "album": {
+        "name": "NEVER SAY",
+        "url": "https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "NEVER SAY",
+      "url": "https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1431,26 +1431,18 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "One Reason",
-        "url": "https://open.spotify.com/album/0g9RmIKOLej4A9IkiRgeIg"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
       },
       "artists": [
         {
-          "name": "THOMM",
-          "url": "https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L"
-        },
-        {
-          "name": "Charlie Sparks (UK)",
-          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
-        },
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
         }
       ],
-      "duration_ms": 197600,
-      "name": "One Reason",
-      "url": "https://open.spotify.com/track/2NYA4tspSM9YuGMwY7KElC"
+      "duration_ms": 294207,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1483,6 +1475,30 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
+        "name": "One Reason",
+        "url": "https://open.spotify.com/album/0g9RmIKOLej4A9IkiRgeIg"
+      },
+      "artists": [
+        {
+          "name": "THOMM",
+          "url": "https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L"
+        },
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "One Reason",
+      "url": "https://open.spotify.com/track/2NYA4tspSM9YuGMwY7KElC"
+    },
+    {
+      "added_at": "2026-09-04 00:01:19",
+      "album": {
         "name": "TASTE MY LOVE",
         "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 185343,
       "name": "TASTE MY LOVE",
       "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
-    },
-    {
-      "added_at": "2026-09-04 00:01:19",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
-      },
-      "artists": [
-        {
-          "name": "Luciid",
-          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
-        }
-      ],
-      "duration_ms": 294207,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "Orbit Motion",
-        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Orbit Motion",
-      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
-    },
-    {
-      "added_at": "2026-09-04 00:01:19",
-      "album": {
         "name": "CRACK!",
         "url": "https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
+        "name": "Orbit Motion",
+        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Orbit Motion",
+      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
+    },
+    {
+      "added_at": "2026-09-04 00:01:19",
+      "album": {
         "name": "HOMEWARD BOUND",
         "url": "https://open.spotify.com/album/77qphqm55wE28WErICmvo5"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 232000,
       "name": "HOMEWARD BOUND",
       "url": "https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu"
+    },
+    {
+      "added_at": "2026-09-04 00:01:19",
+      "album": {
+        "name": "Move My Body",
+        "url": "https://open.spotify.com/album/3hG7U6qi0m4vD6iVcUFQ0i"
+      },
+      "artists": [
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 148298,
+      "name": "Move My Body",
+      "url": "https://open.spotify.com/track/4QBalEUaLE8zJixp6fdt2Y"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "Move My Body",
-        "url": "https://open.spotify.com/album/3hG7U6qi0m4vD6iVcUFQ0i"
-      },
-      "artists": [
-        {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
-        }
-      ],
-      "duration_ms": 148298,
-      "name": "Move My Body",
-      "url": "https://open.spotify.com/track/4QBalEUaLE8zJixp6fdt2Y"
-    },
-    {
-      "added_at": "2026-09-04 00:01:19",
-      "album": {
         "name": "Check This Out",
         "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
       },
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "Adagio For Strings",
-        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
+        "name": "Touch It (feat. Jazmine Johnson)",
+        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
       },
       "artists": [
         {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
+      "duration_ms": 142454,
+      "name": "Touch It (feat. Jazmine Johnson)",
+      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
     },
     {
       "added_at": "2026-09-04 00:01:19",
@@ -1799,22 +1803,18 @@
     {
       "added_at": "2026-09-04 00:01:19",
       "album": {
-        "name": "Touch It (feat. Jazmine Johnson)",
-        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
+        "name": "Adagio For Strings",
+        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
         }
       ],
-      "duration_ms": 142454,
-      "name": "Touch It (feat. Jazmine Johnson)",
-      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+      "duration_ms": 360000,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
     },
     {
       "added_at": "2026-09-04 00:01:19",

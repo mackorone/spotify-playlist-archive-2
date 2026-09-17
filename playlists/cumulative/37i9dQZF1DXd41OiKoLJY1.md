@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Arron Rebustes\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Shantel Cyline\. Artwork: Isu Kim.
 
-4,153 songs - 10 day 2 hr 35 min
+4,156 songs - 10 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Anyo](https://open.spotify.com/track/3Q9j6SPZCf7JHmsaImlg65) | [JESTUR](https://open.spotify.com/artist/4MK8tlJZVaE5mIsrnkjzSY) | [Anyo](https://open.spotify.com/album/31GgiFUi5ooxj2UYtmdQJv) | 3:48 | 2025-01-23 | 2025-03-07 |
 | [anything for me](https://open.spotify.com/track/4ZdlziPIr8qlIaWMjHycAR) | [SEVAKI](https://open.spotify.com/artist/6TlgWSCL1F10ObkhYJWoVo) | [anything for me](https://open.spotify.com/album/1Lm4ZyoXGVJiADgcggGsZ5) | 2:15 | 2023-03-09 | 2023-03-31 |
 | [Anywhere but here](https://open.spotify.com/track/1TkIXFZn5W3M8PRZaZF2cY) | [Muri](https://open.spotify.com/artist/5fNxwgRItvzRAAzFZCCoNj) | [11ème](https://open.spotify.com/album/06TTjkQexrUMH7ulUn72hD) | 3:02 | 2024-09-19 | 2024-10-18 |
+| [anywhere w you <3](https://open.spotify.com/track/23cdXYVDsk7rgBVCOS3hay) | [Shantel Cyline](https://open.spotify.com/artist/460xp6KCwKJBQgf7EhobDV) | [anywhere w you <3](https://open.spotify.com/album/5Uxfzv3CRg5Z62AER7YiKN) | 4:24 | 2026-09-16 |  |
 | [Apoy Sa Labi](https://open.spotify.com/track/0XayuduOIuWUPMJRjZWuuZ) | [Geca Morales](https://open.spotify.com/artist/4rWnHntQEPHYQUQ1zTJps4) | [Apoy Sa Labi](https://open.spotify.com/album/7qEHtg7tKBY8eZMoybnBSn) | 3:44 | 2025-10-23 | 2025-12-04 |
 | [Apple](https://open.spotify.com/track/2t46xEXFhcxIyG0eEhZXb0) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Apple](https://open.spotify.com/album/0EpJGwpnd8TLNhYtrhFLIK) | 4:45 | 2022-09-22 | 2022-12-01 |
 | [April](https://open.spotify.com/track/1mRsJkPadr0PI3F3n7zblj) | [Mae Reynes](https://open.spotify.com/artist/7vd1RJX6dpXz9eCf9jK5I1) | [April](https://open.spotify.com/album/3LTMfOhvo8UpRjN3DIj5j5) | 3:14 | 2025-06-12 | 2025-08-08 |
@@ -684,7 +685,7 @@
 | [Chinese Restaurant](https://open.spotify.com/track/6lVZXQ6pqGNqHOIVuoedFc) | [Nicole Adeya](https://open.spotify.com/artist/0ovUS8AlEVS907KmT6bsAX) | [Chinese Restaurant](https://open.spotify.com/album/2eDydOY5y6yXucb8FG0ylR) | 3:09 | 2024-08-23 | 2024-09-20 |
 | [chismosa](https://open.spotify.com/track/1c4VEnyKZplsJ5ANtcanTK) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [chismosa](https://open.spotify.com/album/4iOFJ2pvYhaBVsbUe859AO) | 2:47 | 2023-10-19 | 2023-11-11 |
 | [Chloe Ann](https://open.spotify.com/track/4HNXR994Z0oWXtgOhvAK0Y) | [MoonDream City](https://open.spotify.com/artist/2lyDS8Rxlclb12i1HN9HA2) | [Chloe Ann](https://open.spotify.com/album/3bQFfmkTVHltlOSVD0AjXB) | 4:31 | 2024-07-18 | 2024-08-16 |
-| [Chupoy Chupoy](https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz) | [Hoodlum!](https://open.spotify.com/artist/11wSIVDDczCVk5xCHalMQh) | [Hoodlum Debut Album](https://open.spotify.com/album/0qwt2mzKGv6lSQrdKc6Wbl) | 5:25 | 2026-08-05 |  |
+| [Chupoy Chupoy](https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz) | [Hoodlum!](https://open.spotify.com/artist/11wSIVDDczCVk5xCHalMQh) | [Hoodlum Debut Album](https://open.spotify.com/album/0qwt2mzKGv6lSQrdKc6Wbl) | 5:25 | 2026-08-05 | 2026-09-17 |
 | [Cielo](https://open.spotify.com/track/3xw4Uiza8vEopvFi35q1vV) | [Giver Costibolo](https://open.spotify.com/artist/0At2D6BPXmV2MK6S6NSlaA) | [Cielo](https://open.spotify.com/album/18IX5wspo6ClgMEzuemvmN) | 3:40 | 2024-10-03 | 2024-11-23 |
 | [Cigarillo](https://open.spotify.com/track/3hddFRnmhs390gpp3CelUn) | [KOWBOI](https://open.spotify.com/artist/0nI7edOLwA4wCHw8FzUPve) | [Cigarillo](https://open.spotify.com/album/4bxFdceP4TuITy6WFfhXsy) | 4:17 | 2026-01-29 | 2026-03-20 |
 | [Cindy](https://open.spotify.com/track/5vPj59nm5FYS8gbW7yKddH) | [waltz](https://open.spotify.com/artist/6rmwd2stquWyzEngUOPFpS) | [Cindy](https://open.spotify.com/album/48s34Ce6CnNLdYVuCJcDpZ) | 3:56 | 2024-09-05 | 2024-10-04 |
@@ -943,6 +944,7 @@
 | [Doing This Right](https://open.spotify.com/track/3qX4Yn4fPJjLdTgUa9n8mH) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Doing This Right](https://open.spotify.com/album/7MlxSxRQW6XhfryHmC9hpo) | 2:06 | 2024-02-22 | 2024-03-22 |
 | [Doit Gurl](https://open.spotify.com/track/7MvSKbpagO06xermSZX50V) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [Doit Gurl](https://open.spotify.com/album/3bHmrswekjx4fGzdqsk851) | 3:01 | 2024-02-08 | 2024-03-01 |
 | [Domo Arigato Mr\. Lobotomy](https://open.spotify.com/track/7ezdEZLJfygZeVC0q9IDJa) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Domo Arigato Mr\. Lobotomy](https://open.spotify.com/album/04g0MtdiGqZuX4soqv5Trl) | 4:43 | 2024-03-28 | 2024-05-17 |
+| [Don't](https://open.spotify.com/track/1xwcuuNifjRwfSCTYg0aKP) | [ken$hin](https://open.spotify.com/artist/5WwcK2mavKhvtPN9zEDb7J) | [Don't](https://open.spotify.com/album/5aIsW2RH7tPOZRdxhTXapK) | 3:05 | 2026-09-16 |  |
 | [Don't Ask Me Why](https://open.spotify.com/track/2D0Aad6OEzyF2CE4v5dIVD) | [DNA](https://open.spotify.com/artist/7Dc4Yi5oP816VMoEaUTGLH) | [Don't Ask Me Why](https://open.spotify.com/album/3caN13LvDENAUwv2N4tFiG) | 2:40 | 2025-10-10 | 2025-12-04 |
 | [Don't Be Shy](https://open.spotify.com/track/2jxXEhJtYyhOLRNQXzqpSB) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [Don't Be Shy](https://open.spotify.com/album/6OJ1ztJVWlZVIsgPuhM7ob) | 3:49 | 2023-03-23 | 2023-04-14 |
 | [Don't Close Your Eyes](https://open.spotify.com/track/4rlNMI7ZJ7pnX1FhcMuhPp) | [above velvet air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Don't Close Your Eyes](https://open.spotify.com/album/0YbdEBZ9KNLK1qaGTNEX6c) | 2:31 | 2025-09-04 | 2025-11-21 |
@@ -1524,7 +1526,7 @@
 | [Honeydew](https://open.spotify.com/track/0LzHboDLyVCxMAb4Hcebie) | [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Honeydew](https://open.spotify.com/album/2MPsMuNgtmPCez8P3laBYD) | 2:16 | 2023-06-29 | 2023-07-14 |
 | [hopelessly romantic](https://open.spotify.com/track/6U8sbYPndRcVe5NUM5SF01) | [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [hopelessly romantic](https://open.spotify.com/album/48MhspbOohw6r63rSwwBbA) | 2:37 | 2024-08-23 | 2025-01-17 |
 | [Hopia](https://open.spotify.com/track/2dGWAXuxULnH0sFkfnntBB) | [Ynah Bautista](https://open.spotify.com/artist/63c4CsAnR3z3QFzEm0Lzzc) | [Hopia](https://open.spotify.com/album/7JZVZUJIA9861ojFTXJBgd) | 5:38 | 2025-11-27 | 2025-12-04 |
-| [Hoping](https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Hoping](https://open.spotify.com/album/5E048utnRTEf4Vvfqqv4h5) | 3:51 | 2026-08-12 |  |
+| [Hoping](https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Hoping](https://open.spotify.com/album/5E048utnRTEf4Vvfqqv4h5) | 3:51 | 2026-08-12 | 2026-09-17 |
 | [Horizon](https://open.spotify.com/track/4msXqfubQxEvF4ooCU2mAV) | [Cydel](https://open.spotify.com/artist/17BHZBOCKQZpUISW5h1qiU), [Marc Fichel](https://open.spotify.com/artist/2TGGjdRcepSJLfwg6YB9Zl) | [Horizon](https://open.spotify.com/album/0EoRwIxg4S1rrq7gnyTSWf) | 3:28 | 2022-07-28 | 2022-09-09 |
 | [Hot Coffee](https://open.spotify.com/track/6E3HWs7xAoCRGxegWDuIan) | [LYNDE](https://open.spotify.com/artist/6ynab8zRwxH5J3EBWnWAc4) | [Hot Coffee](https://open.spotify.com/album/5pKqRvcYKSq8w1dDPZvHBi) | 4:24 | 2023-02-16 | 2024-01-12 |
 | [Hot Maria Clara](https://open.spotify.com/track/6N9GWoGVnaU4v34zXXusQ7) | [Sanya Lopez](https://open.spotify.com/artist/2a6QUNiSghqAzg1sZ621vq) | [Hot Maria Clara](https://open.spotify.com/album/0hq7NRkLIIp1SUY1UMH70z) | 2:52 | 2022-07-14 | 2023-01-13 |
@@ -3109,6 +3111,7 @@
 | [Roaming](https://open.spotify.com/track/4ghYvsJBKJI8bSpDererGR) | [RJ](https://open.spotify.com/artist/0RACCoyWdhRQOrhuo5cB4X) | [Roaming](https://open.spotify.com/album/0dmUNCxMJo6BC3nD5cWycY) | 3:33 | 2024-09-26 | 2024-11-08 |
 | [ROCKSTARRR](https://open.spotify.com/track/3uhpJLfeuypLd2PfkFEfAw) | [D.Vaughn](https://open.spotify.com/artist/72NyT9DftCiklzvlKN6lIO), [riv](https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6), [Fresh\-iLL Club](https://open.spotify.com/artist/3jamuarQXhtNxN2w6YjBEB) | [ROCKSTARRR](https://open.spotify.com/album/7boRVDZHnR4zH0cG6a3rMe) | 2:20 | 2024-05-30 | 2024-06-21 |
 | [ROCKSTARS](https://open.spotify.com/track/5xXN4smeIBC4jJ5C3ZbcqP) | [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [CBAKE$](https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q) | [ROCKSTARS](https://open.spotify.com/album/5dPLS706HdOQigJ22Uy0aT) | 2:22 | 2024-07-18 | 2024-08-16 |
+| [Romantiko](https://open.spotify.com/track/6WIapTWmgn3t3gua580GCi) | [Majarlica](https://open.spotify.com/artist/56d8mj60ojLNCNPINsDHKr) | [Romantiko](https://open.spotify.com/album/4C6SzGdw0JBzi9KpGpe4Ym) | 3:01 | 2026-09-16 |  |
 | [Romeo](https://open.spotify.com/track/0p0tSaSb5DWkU9V4zanLGK) | [Young Fresho](https://open.spotify.com/artist/4BIRCoA30qQVo9iqaV2E6m) | [Romeo](https://open.spotify.com/album/6pcaA26p6ZffTrjpOhbRTV) | 4:10 | 2023-06-15 | 2023-07-07 |
 | [Ronahn](https://open.spotify.com/track/1l1XDC9ToQyw252qCiWElQ) | [wyd nicole](https://open.spotify.com/artist/4SYD9IYqlLU7uwWh7Q9y3K) | [Ronahn](https://open.spotify.com/album/53LrYtUgZdTQB6bxxJxfO8) | 4:04 | 2023-08-31 | 2023-09-22 |
 | [Ronda](https://open.spotify.com/track/2PgURyxrgardqhwctitqpp) | [025 Bombin'](https://open.spotify.com/artist/5OB9ttbbxin1whE6sJXymc) | [Ronda](https://open.spotify.com/album/6542k8xYSP1MK0vFYx5HHY) | 2:39 | 2024-02-22 | 2024-03-22 |
@@ -3472,7 +3475,7 @@
 | [Stay For A While](https://open.spotify.com/track/1D3TyFjHS8Th31Qo268LIt) | [Krei](https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI) | [Stay For A While](https://open.spotify.com/album/6cqO7PA9VzFvXUgEktSNYv) | 3:48 | 2023-02-23 | 2023-03-03 |
 | [Stay Golden](https://open.spotify.com/track/6Otgjjo0GVEqC5fGSZ3xuY) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Stay Golden](https://open.spotify.com/album/2ePCRBGUXtbVQXNhUc9Rsw) | 1:54 | 2023-06-08 | 2023-06-23 |
 | [stay in](https://open.spotify.com/track/70czFufZqR6PjtgV1DWoFL) | [Loosh](https://open.spotify.com/artist/4mLTbizOABI4JrciVqYWJb) | [stay in](https://open.spotify.com/album/2aKgceiyZkk4W00aQG0Oda) | 2:30 | 2022-03-10 | 2022-03-25 |
-| [Stay or Go](https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt) | [Leona](https://open.spotify.com/artist/6p0AoaFFGvSBo6ah5wjS2q) | [Stay or Go](https://open.spotify.com/album/1QVQ1y9asdzFgoP0dRDVCj) | 2:44 | 2026-08-12 |  |
+| [Stay or Go](https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt) | [Leona](https://open.spotify.com/artist/6p0AoaFFGvSBo6ah5wjS2q) | [Stay or Go](https://open.spotify.com/album/1QVQ1y9asdzFgoP0dRDVCj) | 2:44 | 2026-08-12 | 2026-09-17 |
 | [STAY STUCK](https://open.spotify.com/track/3tWZaBbCw9za7BmfLvyMPH) | [DAYDREAM](https://open.spotify.com/artist/2faj7edIfsj1CYzYFeoaqp) | [STAY STUCK](https://open.spotify.com/album/5KIxR4dcNEzowMAuq3KmSp) | 3:12 | 2023-06-22 | 2023-07-07 |
 | [Stay the Whole Night](https://open.spotify.com/track/2IW0hvYpJ0mIknsNjTCuaB) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx), [Kiéf](https://open.spotify.com/artist/6mRiRJOn73gL5XXbDQvSuC) | [Stay the Whole Night](https://open.spotify.com/album/2GJDVcSjuz2HypHN6DtMdK) | 3:20 | 2025-09-25 | 2025-12-04 |
 | [Stay This Way](https://open.spotify.com/track/2l1aEKM9s7oKs23EM4M2TE) | [Eptu](https://open.spotify.com/artist/6Nvf6NU0aWICRUxk3tVpXB), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [Stay This Way](https://open.spotify.com/album/5DsUfCu6K9nQ3hKy6WFwIb) | 2:47 | 2023-01-19 | 2023-02-17 |

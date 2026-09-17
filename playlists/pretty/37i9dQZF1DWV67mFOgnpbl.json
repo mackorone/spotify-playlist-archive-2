@@ -1,6 +1,6 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 571813,
+  "num_followers": 571914,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-01-22 16:03:55",
       "album": {
+        "name": "Here Comes The Boom",
+        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
+    },
+    {
+      "added_at": "2025-01-22 16:03:55",
+      "album": {
         "name": "Breaking the Chains",
         "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 231693,
       "name": "Breaking the Chains",
       "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2025-01-22 16:03:55",
-      "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
     }
   ],
   "unique_name": "Party Hard",

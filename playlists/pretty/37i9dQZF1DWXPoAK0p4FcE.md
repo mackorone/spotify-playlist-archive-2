@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: TELEx TELEXs
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,080 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,068 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

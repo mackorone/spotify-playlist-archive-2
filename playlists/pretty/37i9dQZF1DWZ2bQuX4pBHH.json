@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 338822,
+  "num_followers": 338914,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "Tujhe Dekha To",
-      "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 331676,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "duration_ms": 302093,
+      "name": "Tujhe Dekha To",
+      "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "duration_ms": 437870,
+      "name": "Ye Kaali Kaali Aankhen",
+      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
         "name": "Dil To Pagal Hai",
         "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 335386,
       "name": "Are Re Are",
       "url": "https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
-        }
-      ],
-      "duration_ms": 437870,
-      "name": "Ye Kaali Kaali Aankhen",
-      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main",
+      "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
         "name": "Dil To Pagal Hai",
         "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 255242,
       "name": "Bholi Si Surat",
       "url": "https://open.spotify.com/track/0dova5UHQl7K3VlKu1pyEQ"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        }
-      ],
-      "duration_ms": 353693,
-      "name": "Zara Sa Jhoom Loon Main",
-      "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -940,17 +940,25 @@
           "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Vasundhara Das",
+          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
         },
         {
           "name": "Shaan",
           "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Loy Mendonsa",
+          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
         }
       ],
-      "duration_ms": 319560,
-      "name": "Kuch To Hua Hai",
-      "url": "https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI"
+      "duration_ms": 333093,
+      "name": "It's the Time to Disco",
+      "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -1023,58 +1031,6 @@
     {
       "added_at": "2026-08-31 07:19:17",
       "album": {
-        "name": "Duplicate",
-        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 419498,
-      "name": "Mere Mehboob Mere Sanam",
-      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
-        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Vasundhara Das",
-          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Loy Mendonsa",
-          "url": "https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU"
-        }
-      ],
-      "duration_ms": 333093,
-      "name": "It's the Time to Disco",
-      "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
       },
@@ -1095,6 +1051,50 @@
       "duration_ms": 368480,
       "name": "Aaj Ki Raat",
       "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "duration_ms": 319560,
+      "name": "Kuch To Hua Hai",
+      "url": "https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
+        "name": "Duplicate",
+        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 419498,
+      "name": "Mere Mehboob Mere Sanam",
+      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -1135,26 +1135,6 @@
       "duration_ms": 314493,
       "name": "Suniye To",
       "url": "https://open.spotify.com/track/5VOnTAe9SMM6RBtq0C9wmf"
-    },
-    {
-      "added_at": "2026-08-31 07:19:17",
-      "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Ae Ajnabi",
-      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
     },
     {
       "added_at": "2026-08-31 07:19:17",
@@ -1219,6 +1199,26 @@
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+    },
+    {
+      "added_at": "2026-08-31 07:19:17",
+      "album": {
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Ae Ajnabi",
+      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
     },
     {
       "added_at": "2026-08-31 07:19:17",

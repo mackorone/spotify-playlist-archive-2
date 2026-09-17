@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 841612,
+  "num_followers": 841706,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
       },
@@ -2595,22 +2611,6 @@
       "duration_ms": 267933,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Fashion Nugget",
-        "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Swoon",
-        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Panic Switch",
-      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Panic Switch",
+      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Give Up",
         "url": "https://open.spotify.com/album/19AxGebIDoa4PrkvuZ2ACZ"
       },
@@ -2903,18 +2887,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 194520,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2951,18 +2935,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Unbelievers",
-      "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2999,6 +2983,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Unbelievers",
+      "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
@@ -3027,6 +3027,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/6ZrlXT6mUMEgomN128iekU"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3063,6 +3079,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/18IqyOGs1pRNZfbMo93r57"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -3079,34 +3111,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/18IqyOGs1pRNZfbMo93r57"
+      "duration_ms": 179960,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3143,18 +3159,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 179960,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
+      "duration_ms": 239600,
+      "name": "Pumped up Kicks",
+      "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3203,22 +3219,6 @@
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/6etTGUYDxGHcqHYI4xBr1w"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
-      },
-      "artists": [
-        {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
     }
   ],
   "unique_name": "Essential Alternative",

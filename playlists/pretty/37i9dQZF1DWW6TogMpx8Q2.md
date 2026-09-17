@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,440 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,441 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

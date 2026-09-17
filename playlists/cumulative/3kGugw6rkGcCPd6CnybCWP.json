@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "good stuff",
+        "url": "https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0"
+      },
+      "artists": [
+        {
+          "name": "string lights",
+          "url": "https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70289,
+      "name": "good stuff",
+      "url": "https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM"
+    },
+    {
+      "album": {
         "name": "hypnotize",
         "url": "https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ"
       },
@@ -8766,6 +8784,24 @@
       "duration_ms": 273126,
       "name": "White Line",
       "url": "https://open.spotify.com/track/1xbQ2wpt4m8n9EaRabQ0au"
+    },
+    {
+      "album": {
+        "name": "Who am I?",
+        "url": "https://open.spotify.com/album/0LHr1EzCGPpStPJuSdMeiT"
+      },
+      "artists": [
+        {
+          "name": "Giuliana May",
+          "url": "https://open.spotify.com/artist/10tQbQdPOA3TwUQzyZl8Cr"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Who am I?",
+      "url": "https://open.spotify.com/track/20AnxJsqczyZNi9IEqP6N3"
     },
     {
       "album": {

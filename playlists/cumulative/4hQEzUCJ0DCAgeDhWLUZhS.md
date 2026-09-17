@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-568 songs - 1 day 9 hr 8 min
+569 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Will You Return / When You Come Down](https://open.spotify.com/track/5cqpQ09fCDFz0YnEA8AwMo) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Will You Return / When You Come Down](https://open.spotify.com/album/4r5FnNurDlX2iVW1cunE7I) | 5:21 | 2020-10-10\* | 2022-03-18 |
 | [Winning Hand](https://open.spotify.com/track/6vNbyb90Mo87d46ht9Fb6s) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Winning Hand](https://open.spotify.com/album/5IOgnKAgpT35nn4g7mntpy) | 3:16 | 2021-02-19 | 2022-03-18 |
 | [Wired](https://open.spotify.com/track/6nHF7jsK6CdynJokdLK4Pe) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:11 | 2020-10-10\* | 2021-05-13 |
+| [Without You](https://open.spotify.com/track/70ylRIQ5Hkz8CUPd0gfnLi) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Without You](https://open.spotify.com/album/7ggUOoHHp1e55mCzrPkFb9) | 4:05 | 2026-09-17 |  |
 | [Wolves of Winter](https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 4:08 | 2020-10-10\* | 2021-02-25 |
 | [Wonder](https://open.spotify.com/track/3GoZNIrA0Nl3RQ2fDEZTxM) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Wonder](https://open.spotify.com/album/58zlrUGnq1mqyFbAHrnM40) | 3:47 | 2021-10-22 | 2025-05-28 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2025-06-04 |

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-980 songs - 2 day 16 hr 31 min
+981 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 |  |
 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 | 2026-09-13 |
-| [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
+| [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 | 2026-09-17 |
 | [ENDLESS MIDNIGHT](https://open.spotify.com/track/5RvLMyK4ZWPT1ViAB52SqS) | [KAGAMI](https://open.spotify.com/artist/3WWBjOsF2LWEct6GxZHxRo), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [ENDLESS MIDNIGHT](https://open.spotify.com/album/5MzijyDz7CCT0y1aeJ4ehG) | 3:42 | 2025-03-25 | 2025-04-16 |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
 | [enough](https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [enough](https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI) | 4:42 | 2024-07-30 | 2025-04-12 |
@@ -629,6 +629,7 @@
 | [Wave](https://open.spotify.com/track/2ZRFVRgQwYKViuStRrVKHH) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [MIDVILLAGE](https://open.spotify.com/album/3XargbtSTIiQBDjE2HLwnc) | 3:54 | 2022-07-27 | 2022-08-03 |
 | [waver](https://open.spotify.com/track/6mRb7nMsWrekmnXP0PrbL9) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [waver](https://open.spotify.com/album/46ybrTqtnh7GOQ5tGVdvII) | 3:44 | 2023-10-10 | 2023-11-11 |
 | [Waves](https://open.spotify.com/track/3b0wdHyUphrHacRitrnqPp) | [Toki Asako](https://open.spotify.com/artist/7uzOFoMo1Jqo4dKCVmvO0v) | [Waves](https://open.spotify.com/album/70nbORib9vP7CQaaUJQHym) | 3:17 | 2026-07-28 |  |
+| [We won't last forever](https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [We won't last forever](https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi) | 3:03 | 2026-09-08 |  |
 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 | 2025-12-02 | 2026-03-04 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-12-12 | 2023-12-20 |
 | [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb) | 4:08 | 2026-06-09 |  |

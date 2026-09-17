@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,026 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,208 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 20 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
 | 21 | [run](https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [run](https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk) | 4:22 |
 | 22 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
-| 23 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
-| 24 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
+| 23 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
+| 24 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 25 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
 | 26 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
 | 27 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 44 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 45 | [Coming In Heavy](https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Coming In Heavy](https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY) | 3:51 |
 | 46 | [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 |
-| 47 | [our frequency](https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [our frequency](https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm) | 4:24 |
-| 48 | [Acid Blood](https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Acid Blood](https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf) | 3:31 |
+| 47 | [Acid Blood](https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Acid Blood](https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf) | 3:31 |
+| 48 | [our frequency](https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [our frequency](https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm) | 4:24 |
 | 49 | [Angel Dust](https://open.spotify.com/track/0PSrRU6sH2eDW4b0feGhT5) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Angel Dust](https://open.spotify.com/album/0ePKlamVthL7qhAoE4Z3zU) | 4:26 |
-| 50 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
+| 50 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 
 Snapshot ID: `AAAAAHD4HhnH9SNi5V55IIUZ8BxftjQU`

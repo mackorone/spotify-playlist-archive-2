@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Owen Riegling
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,222 likes - 100 songs - 5 hr 29 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,221 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

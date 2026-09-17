@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-386 songs - 1 day 0 hr 7 min
+387 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 | 2021-11-05 | 2022-08-03 |
 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2021-11-05 |  |
 | [Hard Times](https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:52 | 2024-02-23 | 2025-06-15 |
-| [Hearts On Fire \- Acoustic](https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Hearts On Fire](https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V) | 3:39 | 2024-11-08 |  |
+| [Hearts On Fire \- Acoustic](https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Hearts On Fire](https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V) | 3:39 | 2024-11-08 | 2026-09-17 |
 | [heaven from here \(with Penny and Sparrow\)](https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:03 | 2021-11-05 | 2022-05-14 |
 | [Hello My Old Heart](https://open.spotify.com/track/2c62Xf5Po1YSa1N6LOjPHy) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/1a3UYpjNVB67soVfvtHoG8) | 4:16 | 2021-11-05 | 2022-07-29 |
 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 | 2022-07-22 | 2024-04-19 |
@@ -337,6 +337,7 @@
 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 | 2021-11-05 | 2022-07-29 |
 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 | 2021-11-05 | 2022-07-29 |
 | [The Woods \- Acoustic](https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI) | 3:59 | 2022-07-22 | 2024-04-19 |
+| [Thin Ice](https://open.spotify.com/track/7EdqI2yCywlX79fr6f8a8H) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:27 | 2026-01-09 |  |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2023-02-10 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-12-01 |  |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/12VVXFEYxro5C61KyWee9C) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/album/1NI7pFzmcyiQ9Nk8VDDvUS) | 3:26 | 2021-11-05 | 2022-07-28 |

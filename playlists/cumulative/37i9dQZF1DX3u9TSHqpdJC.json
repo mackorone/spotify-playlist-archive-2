@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SNACKTIME Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Hannah Hu. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -37817,6 +37817,24 @@
     },
     {
       "album": {
+        "name": "IDK?",
+        "url": "https://open.spotify.com/album/0AXde5zHXGkIDX1rBMVyBK"
+      },
+      "artists": [
+        {
+          "name": "IamOutlandish",
+          "url": "https://open.spotify.com/artist/2ChOM7NT5Umi3lONEK4moO"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "IDK?",
+      "url": "https://open.spotify.com/track/3mZi5Xs0k50KkT5XuSasFv"
+    },
+    {
+      "album": {
         "name": "IDMY",
         "url": "https://open.spotify.com/album/5NI4nVd3NzkRWt9d25DZk7"
       },
@@ -58355,6 +58373,24 @@
     },
     {
       "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179014,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66"
+    },
+    {
+      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/6nYZQLpRbZRxZpNLVZgDhu"
       },
@@ -64972,7 +65008,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 180242,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/0V8BL2RzUCp1ZpRJ4YAhjO"
@@ -66238,7 +66274,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 185093,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/24sKXsgCVOc75p7eRPSWMW"

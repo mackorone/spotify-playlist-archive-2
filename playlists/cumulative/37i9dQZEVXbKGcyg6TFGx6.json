@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/1eyeaGRt8dRt5wm7Wg7Fyc"
       },
@@ -13190,7 +13208,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -18982,7 +19000,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -37286,7 +37304,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
@@ -43152,7 +43170,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 156066,
       "name": "M\u00e9lo D\u00e9cal\u00e9",
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
@@ -47822,7 +47840,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -60900,7 +60918,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
@@ -67127,6 +67145,24 @@
     },
     {
       "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94615,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
+    },
+    {
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5"
       },
@@ -70408,7 +70444,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

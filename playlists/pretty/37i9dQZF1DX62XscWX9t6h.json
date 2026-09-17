@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 227907,
+  "num_followers": 227951,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
         "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 479546,
       "name": "Atomic Bomb",
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Ruan Vitor Vaqueirinho",
+          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
-        "name": "Amanheceu",
-        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Ruan Vitor Vaqueirinho",
-          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "Worldly World (Ohaa Uha Uha)",
         "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 136040,
       "name": "Dempu\u00e8i auriac",
       "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 338108,
-      "name": "Tala Tannam",
-      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "Feira De Mangaio",
         "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
@@ -931,6 +915,38 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
+        "name": "Last Bloom",
+        "url": "https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA"
+      },
+      "artists": [
+        {
+          "name": "Tony Njoku",
+          "url": "https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK"
+        }
+      ],
+      "duration_ms": 183144,
+      "name": "La Ru\u00e9e",
+      "url": "https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 338108,
+      "name": "Tala Tannam",
+      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
         "name": "Coconut Rock",
         "url": "https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 237832,
       "name": "El Diablo Y El \u00d1au \u00d1au (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
-        "name": "Last Bloom",
-        "url": "https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA"
-      },
-      "artists": [
-        {
-          "name": "Tony Njoku",
-          "url": "https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK"
-        }
-      ],
-      "duration_ms": 183144,
-      "name": "La Ru\u00e9e",
-      "url": "https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
         "name": "Dar Disku",
         "url": "https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 159783,
       "name": "Alsutur",
       "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Newcastle",
-      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
         "name": "Zan",
         "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "Remotely Close: Silkyway",
         "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Funeral for Justice (Injustice Version)",
-        "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 345702,
-      "name": "Funeral for Justice - Injustice Version",
-      "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+        "name": "Funeral for Justice (Injustice Version)",
+        "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+      "duration_ms": 345702,
+      "name": "Funeral for Justice - Injustice Version",
+      "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
     },
     {
       "added_at": "2026-08-21 04:02:17",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-08-21 04:02:17",
       "album": {
-        "name": "6 Conejo",
-        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 265864,
-      "name": "Dolorosa",
-      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
-    },
-    {
-      "added_at": "2026-08-21 04:02:17",
-      "album": {
         "name": "Tanokumbia",
         "url": "https://open.spotify.com/album/7DbNqsdFbogU9spBn4N35X"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 202060,
       "name": "Tanokumbia",
       "url": "https://open.spotify.com/track/1gkCspjXUHg8lYLXxKZXxt"
+    },
+    {
+      "added_at": "2026-08-21 04:02:17",
+      "album": {
+        "name": "6 Conejo",
+        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 265864,
+      "name": "Dolorosa",
+      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
     },
     {
       "added_at": "2026-08-21 04:02:17",

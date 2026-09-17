@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 356,
+  "num_followers": 355,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALPWoiJVL/gbF4AJ0keZ8AenZEqyV7",
+  "snapshot_id": "AAALQGFIcy220ZpmsMwMEeTLbuVY/ZbL",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -44627,6 +44627,58 @@
       "duration_ms": 178750,
       "name": "I Eat Baked Beans Every Day",
       "url": "https://open.spotify.com/track/2S3thDXoqumTQoq85ZgCEr"
+    },
+    {
+      "added_at": "2026-09-16 10:41:57",
+      "album": {
+        "name": "Sad Girls",
+        "url": "https://open.spotify.com/album/5hOS0oydlZQMNJMbt8S4OE"
+      },
+      "artists": [
+        {
+          "name": "Monday's Mona Lisa",
+          "url": "https://open.spotify.com/artist/7MXW6UlH2Jtzu8ZuQ8su93"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Sad Girls",
+      "url": "https://open.spotify.com/track/5iULKcxJQr8ZEKsnef2UAf"
+    },
+    {
+      "added_at": "2026-09-16 23:20:08",
+      "album": {
+        "name": "Beg",
+        "url": "https://open.spotify.com/album/2R5pBX4GjXrsEvHyQ0Eh64"
+      },
+      "artists": [
+        {
+          "name": "Jordan Owen",
+          "url": "https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8"
+        }
+      ],
+      "duration_ms": 237879,
+      "name": "Beg",
+      "url": "https://open.spotify.com/track/65B5h9tg9Yklje8WoP8uTw"
+    },
+    {
+      "added_at": "2026-09-16 23:20:32",
+      "album": {
+        "name": "Figure Myself Out (feat. Dream Wayve)",
+        "url": "https://open.spotify.com/album/5rZJ7T59vHRnKm88QQkswZ"
+      },
+      "artists": [
+        {
+          "name": "Austicated",
+          "url": "https://open.spotify.com/artist/5DXPuoGFyeYHINmbXW7aeA"
+        },
+        {
+          "name": "Dream Wayve",
+          "url": "https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "Figure Myself Out (feat. Dream Wayve)",
+      "url": "https://open.spotify.com/track/2hoV4zImleSilILebStsEr"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

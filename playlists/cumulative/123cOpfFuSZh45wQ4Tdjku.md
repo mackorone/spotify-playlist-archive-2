@@ -4,7 +4,7 @@
 
 > mostly furry
 
-540 songs - 1 day 2 hr 15 min
+541 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [There's No Good in a Goodbye](https://open.spotify.com/track/4SXGlAPgk4ucGfn3NHCdGI) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:10 | 2023-11-18 |  |
 | [This Is Why We Can't Have Nice Things](https://open.spotify.com/track/4Qdd66HMaxta8ZQDbG9Dtb) | [Martyrs of Apathy](https://open.spotify.com/artist/0CqyREwcnKy21Xw0GMJvrv) | [Possession](https://open.spotify.com/album/4xKLhgglDTedKwWXyShpI9) | 3:24 | 2023-11-20 |  |
 | [This Land Is Ours](https://open.spotify.com/track/3ctpMpyWn3e2MpaJisa2TD) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:32 | 2024-07-19 |  |
+| [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 | 2026-09-16 |  |
 | [Tiles](https://open.spotify.com/track/39SqioaWqarBYAMbAnMYG3) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:04 | 2025-04-22 |  |
 | [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2025-01-27 |  |
 | [Timus](https://open.spotify.com/track/2PcBJUYvVh2jvWbE30Qq7m) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:14 | 2024-08-03 |  |

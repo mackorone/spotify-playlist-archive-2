@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Yako mi e](https://open.spotify.com/track/55ly0w81L3r7MicGng6QiS) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Chuy me](https://open.spotify.com/album/1OrxRpoUuXak1x8qBRFvD2) | 3:09 |
 | 50 | [Дискотека](https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL) | [Krissy](https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дискотека](https://open.spotify.com/album/4kA6BN3gGjzYUk97RCvJzS) | 3:25 |
 
-Snapshot ID: `Mjy7qAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mj4PgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

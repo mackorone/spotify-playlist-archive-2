@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: \u00c1ngela Aguilar",
-  "num_followers": 84500,
+  "num_followers": 84503,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-09-04 15:19:59",
       "album": {
-        "name": "Coronar Hasta Que Amanezca (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 192978,
-      "name": "Por Qui\u00e9n Me Dejas - En vivo",
-      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
-    },
-    {
-      "added_at": "2026-09-04 15:19:59",
-      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 279181,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
+    },
+    {
+      "added_at": "2026-09-04 15:19:59",
+      "album": {
+        "name": "Coronar Hasta Que Amanezca (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 192978,
+      "name": "Por Qui\u00e9n Me Dejas - En vivo",
+      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
       "added_at": "2026-09-04 15:19:59",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-09-04 15:19:59",
       "album": {
-        "name": "Dile a Tu Orgullo (En Vivo)",
-        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo - En Vivo",
-      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2026-09-04 15:19:59",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -871,6 +851,26 @@
     {
       "added_at": "2026-09-04 15:19:59",
       "album": {
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo - En Vivo",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+    },
+    {
+      "added_at": "2026-09-04 15:19:59",
+      "album": {
         "name": "La Vieja Escuela",
         "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 171885,
       "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
       "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
+    },
+    {
+      "added_at": "2026-09-04 15:19:59",
+      "album": {
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 268993,
+      "name": "Por Mujeres Como T\u00fa - Live",
+      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
     },
     {
       "added_at": "2026-09-04 15:19:59",
@@ -907,22 +923,6 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
-    },
-    {
-      "added_at": "2026-09-04 15:19:59",
-      "album": {
-        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
-        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 268993,
-      "name": "Por Mujeres Como T\u00fa - Live",
-      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
     },
     {
       "added_at": "2026-09-04 15:19:59",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-04 15:19:59",
       "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 137506,
-      "name": "Aguanta Corazon",
-      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
-    },
-    {
-      "added_at": "2026-09-04 15:19:59",
-      "album": {
         "name": "La Cruda Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 222135,
       "name": "El Rey Del Pop - En Vivo",
       "url": "https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye"
+    },
+    {
+      "added_at": "2026-09-04 15:19:59",
+      "album": {
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 137506,
+      "name": "Aguanta Corazon",
+      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
     },
     {
       "added_at": "2026-09-04 15:19:59",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-09-04 15:19:59",
       "album": {
+        "name": "En Vivo Desde El Rancho 2",
+        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 237749,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "added_at": "2026-09-04 15:19:59",
+      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 240750,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/1cznypGCkvfe1EnL2QAa6y"
-    },
-    {
-      "added_at": "2026-09-04 15:19:59",
-      "album": {
-        "name": "En Vivo Desde El Rancho 2",
-        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 237749,
-      "name": "Que Lloro - En Vivo",
-      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
     },
     {
       "added_at": "2026-09-04 15:19:59",

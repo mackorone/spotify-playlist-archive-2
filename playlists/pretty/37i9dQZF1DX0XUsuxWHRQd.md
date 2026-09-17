@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Key Glock, Lil Baby and Quavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,551,072 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,549,478 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 39 | [HATE ME LOVE ME](https://open.spotify.com/track/4V9wSVPGliRZOy4UzlbLpz) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:31 |
 | 40 | [The Team](https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Team](https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh) | 3:33 |
 | 41 | [Game Six](https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Game Six](https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt) | 2:53 |
-| 42 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 42 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 43 | [Too Bo$$y](https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Too Bo$$y](https://open.spotify.com/album/1qcQBEA1u6UOMjbpNp99So) | 2:33 |
 | 44 | [Say Dat](https://open.spotify.com/track/4CDeoyvqhzDYcpzED8vnz3) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [iyrus](https://open.spotify.com/artist/0N8nXapCBAIztfpKiKwrCj), [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [Slime Language 3](https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB) | 3:16 |
 | 45 | [Mainstay \(feat\. Luv Von\)](https://open.spotify.com/track/1IO6PXJIzbcPBpfkpIE8kK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Luv Von](https://open.spotify.com/artist/3HG4MR1IbZe2UDEWtHuZI7) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 4:35 |

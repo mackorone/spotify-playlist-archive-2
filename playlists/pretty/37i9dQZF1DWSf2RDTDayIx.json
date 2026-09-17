@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2493791,
+  "num_followers": 2493842,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,42 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
+        "name": "THINK ABOUT US",
+        "url": "https://open.spotify.com/album/4C7sSQwVfuiUZSjChZsHX2"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "THINK ABOUT US",
+      "url": "https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -939,42 +975,6 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
-        "name": "I Could Be Madonna",
-        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "I Could Be Madonna",
-      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
-        "name": "THINK ABOUT US",
-        "url": "https://open.spotify.com/album/4C7sSQwVfuiUZSjChZsHX2"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "THINK ABOUT US",
-      "url": "https://open.spotify.com/track/40kozRGxfmRAofu3ueL0Kj"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "Free (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 212345,
-      "name": "Free (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
+        "name": "Free (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 212345,
+      "name": "Free (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "High In Ibiza",
-        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "High In Ibiza",
-      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
         "name": "Do For Love",
         "url": "https://open.spotify.com/album/0wOR43qEKPvjAgY8Nk06hb"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 193691,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -1963,8 +1963,8 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "Every Cloud - Silver Linings",
-        "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
+        "name": "It's A Feeling",
+        "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
       },
       "artists": [
         {
@@ -1972,21 +1972,17 @@
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
         },
         {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 190609,
-      "name": "Feels This Good",
-      "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
+      "duration_ms": 189223,
+      "name": "It's A Feeling",
+      "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -2083,8 +2079,8 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "It's A Feeling",
-        "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
+        "name": "Every Cloud - Silver Linings",
+        "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
       "artists": [
         {
@@ -2092,17 +2088,21 @@
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
         },
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 189223,
-      "name": "It's A Feeling",
-      "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
+      "duration_ms": 190609,
+      "name": "Feels This Good",
+      "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -2331,6 +2331,26 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
         "name": "I Feel The Love",
         "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
       },
@@ -2403,26 +2423,6 @@
       "duration_ms": 242076,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Cavi",
-          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -2567,18 +2567,22 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
       "artists": [
         {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
+      "duration_ms": 218757,
+      "name": "Devotion (feat. TEED)",
+      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -2603,22 +2607,18 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
         }
       ],
-      "duration_ms": 218757,
-      "name": "Devotion (feat. TEED)",
-      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
+      "duration_ms": 285786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
     },
     {
       "added_at": "2026-09-11 04:01:13",
@@ -2723,26 +2723,6 @@
     {
       "added_at": "2026-09-11 04:01:13",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 225234,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
-    },
-    {
-      "added_at": "2026-09-11 04:01:13",
-      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -2763,6 +2743,26 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
+    },
+    {
+      "added_at": "2026-09-11 04:01:13",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 225234,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
     },
     {
       "added_at": "2026-09-11 04:01:13",

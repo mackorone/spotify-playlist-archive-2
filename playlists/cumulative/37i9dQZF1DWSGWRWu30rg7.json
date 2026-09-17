@@ -9117,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "Because She Paints Too",
+        "url": "https://open.spotify.com/album/7CXQr6drBSmQStg3Z5hsyD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Levana",
+          "url": "https://open.spotify.com/artist/1aLaLpiiViPxD3Ztbar9WH"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Because She Paints Too",
+      "url": "https://open.spotify.com/track/47zpgV1TFI0ecwQqynLsIj"
+    },
+    {
+      "album": {
         "name": "Beda Kasta",
         "url": "https://open.spotify.com/album/4ZjT5ia2uZvQ0u72ISEDUL"
       },
@@ -37652,6 +37670,24 @@
       "duration_ms": 198461,
       "name": "Hujan Deras",
       "url": "https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8"
+    },
+    {
+      "album": {
+        "name": "Kunang-kunang",
+        "url": "https://open.spotify.com/album/5lEEjILwPaXMnF8rGFFySn"
+      },
+      "artists": [
+        {
+          "name": "Love as Punishment",
+          "url": "https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318497,
+      "name": "Hujan Tepat Waktu",
+      "url": "https://open.spotify.com/track/4e3Mjoafb02u7RKnoDmuoj"
     },
     {
       "album": {
@@ -71925,6 +71961,28 @@
     },
     {
       "album": {
+        "name": "Manual Sinoptik",
+        "url": "https://open.spotify.com/album/1RTMawc2xHgUpgpvl7NDRo"
+      },
+      "artists": [
+        {
+          "name": "Eksemplar",
+          "url": "https://open.spotify.com/artist/4pbMYjsLCmorfUtOeR22u7"
+        },
+        {
+          "name": "softtrauma",
+          "url": "https://open.spotify.com/artist/1PmjxKvXTHWdcbGGDLpKpg"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Pola Warna",
+      "url": "https://open.spotify.com/track/2cifnwr9F9V3jnIh94zQ6S"
+    },
+    {
+      "album": {
         "name": "rarefactio. diminution",
         "url": "https://open.spotify.com/album/2wpBOL7hPu2HOc5Uh4GwGf"
       },
@@ -78772,7 +78830,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 128000,
       "name": "SATU X",
       "url": "https://open.spotify.com/track/52Vrqjv2lWBzUxKEf1ASyv"
@@ -98604,6 +98662,32 @@
       "duration_ms": 271795,
       "name": "Ujian Rasa",
       "url": "https://open.spotify.com/track/55LgTOwo8Q34MVl90G3aQ8"
+    },
+    {
+      "album": {
+        "name": "UKNO",
+        "url": "https://open.spotify.com/album/4CI1lcda1oK0reMIpJ0F8N"
+      },
+      "artists": [
+        {
+          "name": "NozoK",
+          "url": "https://open.spotify.com/artist/5KFIiu3lA4m5hSq3R2yz8p"
+        },
+        {
+          "name": "Abim",
+          "url": "https://open.spotify.com/artist/7sVmnNpUBITmSGv9eGf3ki"
+        },
+        {
+          "name": "Dulla",
+          "url": "https://open.spotify.com/artist/70sGmW7wXIYfPx6v8OIZPc"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261511,
+      "name": "UKNO",
+      "url": "https://open.spotify.com/track/30aYMA1bILCvmCCM3JnAVF"
     },
     {
       "album": {

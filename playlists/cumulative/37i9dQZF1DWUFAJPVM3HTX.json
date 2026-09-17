@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/39ih1P31MkyoZE8lStQbZ3?si=5c12282d57b34e02\">Ash Levi</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X?si=f7e145f77b3548ed\">LAYA</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 259066,
       "name": "'Til We Meet Again",
       "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
@@ -212,6 +212,24 @@
       "duration_ms": 180000,
       "name": "+44",
       "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
+    },
+    {
+      "album": {
+        "name": "colour + chaos",
+        "url": "https://open.spotify.com/album/5f7rjbPfC6TSbqGHY2re8i"
+      },
+      "artists": [
+        {
+          "name": "plusamari",
+          "url": "https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "+new strangers",
+      "url": "https://open.spotify.com/track/61cRNorN0peKuCPzuG4i4E"
     },
     {
       "album": {
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 101805,
       "name": "4ME",
       "url": "https://open.spotify.com/track/06WPSC76RVnS9BB6wbVvgI"
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 205007,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1kGEaBEn9Z0BMAjySBJ8fW"
@@ -5376,7 +5394,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 197952,
       "name": "back 'n forth",
       "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
@@ -7766,7 +7784,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 126982,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/3AKXYHa9w1gyX1fEAwDssN"
@@ -11866,7 +11884,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 153846,
       "name": "Certified",
       "url": "https://open.spotify.com/track/2dzFgK62QrWtFNeEaa0Gnb"
@@ -15250,7 +15268,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 104070,
       "name": "Cry On You",
       "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
@@ -16392,7 +16410,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 164211,
       "name": "DEEP SH*T (feat. Azekel)",
       "url": "https://open.spotify.com/track/6vU5KOLO6IPnwexe8VM2NB"
@@ -21374,7 +21392,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 181700,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
@@ -21878,6 +21896,24 @@
       "duration_ms": 175214,
       "name": "Father",
       "url": "https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2"
+    },
+    {
+      "album": {
+        "name": "VENT MUSIC",
+        "url": "https://open.spotify.com/album/3kPVvXR51EBDqYO6rgW4lq"
+      },
+      "artists": [
+        {
+          "name": "Jay Starr",
+          "url": "https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265720,
+      "name": "FATHERLESS CHILD",
+      "url": "https://open.spotify.com/track/4tgQADowwqzSCTybxtbIK8"
     },
     {
       "album": {
@@ -25498,7 +25534,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 218852,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7pxrtUPE42SPJTUx8AZ8Du"
@@ -25672,7 +25708,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 204000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
@@ -29682,7 +29718,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192008,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/52jm5RVamHiJTsVvVFxaHv"
@@ -30418,7 +30454,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 158117,
       "name": "HONEY BROWN",
       "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
@@ -32008,7 +32044,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 204862,
       "name": "I Was Just A Child",
       "url": "https://open.spotify.com/track/6Ke0sweMUwFGxtqqzvpS5a"
@@ -32732,7 +32768,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 142407,
       "name": "Ignore",
       "url": "https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH"
@@ -35420,7 +35456,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 200325,
       "name": "Just For A Moment (feat. Dende) - Acoustic",
       "url": "https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9"
@@ -36246,7 +36282,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 150857,
       "name": "kiss in public",
       "url": "https://open.spotify.com/track/0WnMUNeIhkBEX4uJqEnxtC"
@@ -36808,7 +36844,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 162000,
       "name": "landslide",
       "url": "https://open.spotify.com/track/3kt52nqoVKEs1zFRecOmqz"
@@ -40056,7 +40092,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 161920,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/42Z2nWcxFPIG73TYmuf7B9"
@@ -40660,7 +40696,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 233320,
       "name": "LUber",
       "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
@@ -42216,7 +42252,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 170707,
       "name": "Mathematics",
       "url": "https://open.spotify.com/track/4gV0G35GRSL6FqEE1pJhHk"
@@ -43996,7 +44032,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 111780,
       "name": "Moody - Interlude",
       "url": "https://open.spotify.com/track/4gszCRGb7JVjsN7FTXwr8Y"
@@ -47212,7 +47248,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184399,
       "name": "Not a Love Song",
       "url": "https://open.spotify.com/track/5g7dV04Sns9CoT0yoOef2z"
@@ -48222,7 +48258,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 197052,
       "name": "ODO",
       "url": "https://open.spotify.com/track/25dTZ7S2yHlQgRwZmb4NK0"
@@ -48860,7 +48896,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 145274,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
@@ -49212,7 +49248,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 203883,
       "name": "One on One",
       "url": "https://open.spotify.com/track/1LlC7dIDXXmduGZWJMsxKJ"
@@ -50768,7 +50804,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 172801,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/7g1aHVZbFhapal2INOvB95"
@@ -51216,7 +51252,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 191719,
       "name": "passport picture",
       "url": "https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu"
@@ -51574,6 +51610,24 @@
       "duration_ms": 108876,
       "name": "perfect",
       "url": "https://open.spotify.com/track/6ZBMu5nXX0YO7O0DHphQQG"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/64qYqJfYsVnr9jE7suh3MG"
+      },
+      "artists": [
+        {
+          "name": "Siaira Shawn",
+          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198238,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2rnhHvuOuzlHGC8UVe9Nal"
     },
     {
       "album": {
@@ -53000,7 +53054,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 254000,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/1fFaaNNDlrfCf9g0hE2Fap"
@@ -55322,7 +55376,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 227634,
       "name": "Real Life (ft. Amal Zenab)",
       "url": "https://open.spotify.com/track/5c3gwFW5ILBriylTktQJkb"
@@ -56374,7 +56428,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 164488,
       "name": "Rich Luv",
       "url": "https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7"
@@ -57726,7 +57780,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 153654,
       "name": "S.I.M.P.L.E",
       "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
@@ -59242,7 +59296,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 217240,
       "name": "SELF CONTROL",
       "url": "https://open.spotify.com/track/6dIw0WzjQEcGuTqUGfgL6J"
@@ -60749,6 +60803,24 @@
     },
     {
       "album": {
+        "name": "Situationships",
+        "url": "https://open.spotify.com/album/5EutXvufvhSxDX1ZKit08L"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Situationships",
+      "url": "https://open.spotify.com/track/15AAeWZ60hjVm1piUvBIo0"
+    },
+    {
+      "album": {
         "name": "SKATE!",
         "url": "https://open.spotify.com/album/2HaXi6L7Yd02BlAupVUXVw"
       },
@@ -61260,7 +61332,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 160244,
       "name": "Slowly Burning",
       "url": "https://open.spotify.com/track/4jaB32QgvmVG2VOh9dUBtc"
@@ -62350,7 +62422,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 125884,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/7Hs5eK1j7BoALYY6iXkKA6"
@@ -63358,7 +63430,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 161979,
       "name": "Standing Here",
       "url": "https://open.spotify.com/track/1Z76ZZzxgVVbLQAOBU3LL2"
@@ -64526,7 +64598,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 111585,
       "name": "STW",
       "url": "https://open.spotify.com/track/0JyuTdkZdx0uUUS2a0A8O5"
@@ -64856,7 +64928,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 145617,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk"
@@ -64928,7 +65000,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 195851,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
@@ -64946,7 +65018,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 173742,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
@@ -65448,7 +65520,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 174098,
       "name": "SUPERHERO",
       "url": "https://open.spotify.com/track/0tvbiFegj1rxhAfEiJJ8sK"
@@ -65948,7 +66020,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 146315,
       "name": "sweet talk",
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
@@ -67098,7 +67170,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 157451,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1P6JFB73QEFb85mdvwit2g"
@@ -68734,6 +68806,24 @@
       "duration_ms": 155266,
       "name": "THERE4U",
       "url": "https://open.spotify.com/track/1zr0W4cO9NgF0FMWs84yUU"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
     },
     {
       "album": {
@@ -71434,7 +71524,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 182108,
       "name": "TYM",
       "url": "https://open.spotify.com/track/2kaQKcgzAmP6Sytwbx8GEX"
@@ -71850,7 +71940,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 136739,
       "name": "Undeniable (feat. Aitch)",
       "url": "https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp"
@@ -72380,7 +72470,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 155603,
       "name": "Vanilla Skies",
       "url": "https://open.spotify.com/track/6PPEgkKFHX2nvAr9eqICGV"
@@ -72734,7 +72824,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 171910,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql"
@@ -74302,7 +74392,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192857,
       "name": "Weak With Me",
       "url": "https://open.spotify.com/track/5GydYs178vVYnf30AEoonc"
@@ -75740,7 +75830,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 132992,
       "name": "Who Could It Be?",
       "url": "https://open.spotify.com/track/2HniXaCX3oipZgUUzuTDy8"
@@ -76634,7 +76724,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 182750,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6iuThyBRFa7jNctNj9DL8b"
@@ -77276,7 +77366,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 190377,
       "name": "Wushua",
       "url": "https://open.spotify.com/track/7oeD5jfi5PA7Aqh1xN4Nu4"
@@ -77502,6 +77592,24 @@
       "duration_ms": 183695,
       "name": "Yeah You (Thinkin Bout You)",
       "url": "https://open.spotify.com/track/2VtWKB9VhOzTvN6DIGa9e1"
+    },
+    {
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
       "album": {

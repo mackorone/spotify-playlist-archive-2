@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-581 songs - 1 day 7 hr 58 min
+582 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-12-27 | 2022-12-02 |
 | [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-11 | 2022-12-05 |
 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 | 2022-12-04 |  |
+| [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 | 2026-09-16 |  |
 | [because, of course](https://open.spotify.com/track/3ME0Q21e8o9ZUciGZjOAYw) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 2:47 | 2024-10-22 | 2025-05-12 |
 | [because, of course](https://open.spotify.com/track/7wB9rnIsy8iUSVNZGeegs6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 2:47 | 2025-05-11 |  |
 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 | 2021-12-27 |  |
@@ -316,7 +317,7 @@
 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 | 2023-06-22 | 2023-12-14 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-24 |  |
 | [Love The Hell Out Of You](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 | 2023-05-23 |  |
-| [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-12-13 |  |
+| [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-12-13 | 2026-09-17 |
 | [Love U Like That \- Korean Version](https://open.spotify.com/track/1UlZonvtUSOVu9awdMe7UL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That \(Korean Version\)](https://open.spotify.com/album/3PqBpsYW12oNRbwiqCk2T3) | 3:31 | 2025-05-31 |  |
 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 | 2023-06-22 | 2025-06-28 |
 | [Low Key \- Dominican Remix](https://open.spotify.com/track/57XbHgOZaGu326GHFu4YCM) | [Deivi\-N](https://open.spotify.com/artist/26eQkZeNsJBzxrlcqUKJfi) | [Low Key \(Dominican Remix\)](https://open.spotify.com/album/3CU1TlhFf20U31J0vhOd1B) | 2:42 | 2023-12-13 | 2025-07-10 |

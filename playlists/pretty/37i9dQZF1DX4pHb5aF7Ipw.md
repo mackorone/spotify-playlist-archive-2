@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Armaan Gill\-Arnaaz Gill, Sahil Cheema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,480 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,488 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 45 | [Bagad Flow](https://open.spotify.com/track/7mXSbV60y5XDGnHs6IM3cU) | [Rana Brass](https://open.spotify.com/artist/5ZzjJaWW89yvDv6cCiwYKK), [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Signature By OG](https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu) | [Bagad Flow](https://open.spotify.com/album/1HpE3g4LCTXSwM1lbZRxjy) | 2:09 |
 | 46 | [Dynasty](https://open.spotify.com/track/2keAHNvrZhwT6638Hiz8TV) | [Sukhn Sandhu](https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l), [Og 604](https://open.spotify.com/artist/6ZJEiUHzmQoF2AqC6hW5ks), [Karbon](https://open.spotify.com/artist/3d35Qfp3CjJMnRzvvtuwtB) | [Dynasty](https://open.spotify.com/album/4AnTbAAzFLcEGD86b370g9) | 2:36 |
 | 47 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
-| 48 | [Your Call](https://open.spotify.com/track/0Dd9szRoff8jxm68q3MV2d) | [Rishabh Aneja](https://open.spotify.com/artist/5mI4VzavB3fjk1S3o5Dnrn), [Harry singh](https://open.spotify.com/artist/2ncuMnvUwqEQ5ecV1o90Za) | [Your Call](https://open.spotify.com/album/3aPDrrlkEOvxFWTBVgj7Kf) | 2:51 |
+| 48 | [Your Call](https://open.spotify.com/track/0Dd9szRoff8jxm68q3MV2d) | [Rishabh Aneja](https://open.spotify.com/artist/5mI4VzavB3fjk1S3o5Dnrn), [Harry singh](https://open.spotify.com/artist/2ncuMnvUwqEQ5ecV1o90Za), [G\-waller](https://open.spotify.com/artist/1i0ilydyGxqmHz3dFg3nKX) | [Your Call](https://open.spotify.com/album/3aPDrrlkEOvxFWTBVgj7Kf) | 2:51 |
 | 49 | [Bank Nifty](https://open.spotify.com/track/0qLRu5b5078Hz3tZKEU9JK) | [Jagvir Sohi](https://open.spotify.com/artist/6L8Z5mzsbEFykMVr9YBWUZ), [Archie Muzik](https://open.spotify.com/artist/2dcNgbwIYrKSohxZZQZ7Kk) | [Bank Nifty](https://open.spotify.com/album/6WJujUN2fMCUGTqxTnRsVb) | 4:05 |
 | 50 | [COZ OF ME](https://open.spotify.com/track/3oh4AOPTd2hZJj8Tw1psZB) | [Ishjot Dhammi](https://open.spotify.com/artist/7tr0O2evtJfnV3vGvvdKz1), [Simr](https://open.spotify.com/artist/4FwWxQ8wJODeIGr9sydGy8) | [COZ OF ME](https://open.spotify.com/album/4FVjN1XtwbQ3U8WAV8V1uB) | 2:21 |
 | 51 | [Lost Story](https://open.spotify.com/track/0Gc7OMllDCguy3elTnSVIo) | [Diljit Sidhu](https://open.spotify.com/artist/661qvAJPhZuyigkvKMR1I4), [Echo](https://open.spotify.com/artist/4oEEOrfHNLGaNQp0cbYQw0), [ADXB](https://open.spotify.com/artist/486MjDeZtm3qMyAiBuQASs) | [Lost Story](https://open.spotify.com/album/2XadISJGRAiKcw5vJLoRWM) | 2:41 |

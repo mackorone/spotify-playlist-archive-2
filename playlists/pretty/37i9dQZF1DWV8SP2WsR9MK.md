@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,567 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,597 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 10 | [Bright Size Life](https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 4:45 |
 | 11 | [Maybe Tomorrow](https://open.spotify.com/track/0EdYLCHThvtSmze7iEqlEN) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Visions](https://open.spotify.com/album/1srLA4OraIHfQP6WhR3iol) | 4:55 |
 | 12 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 |
-| 13 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
-| 14 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
+| 13 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
+| 14 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 15 | [The Moon Is A Harsh Mistress](https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 4:04 |
 | 16 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
 | 17 | [Stairway To The Stars](https://open.spotify.com/track/4qW1WqsyYBi0mPjhzP2XpN) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:41 |

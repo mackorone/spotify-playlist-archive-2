@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,464 likes - 100 songs - 5 hr 8 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,466 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Work](https://open.spotify.com/track/0aEgvwGnDTqKvgjqZHJlwN) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [KTLN](https://open.spotify.com/artist/0rdzYW8fvUupLSaZACd3lg) | [Work](https://open.spotify.com/album/6OzBSa3bIaJIfKpSKJPNVh) | 3:23 |
+| 1 | [Work](https://open.spotify.com/track/0aEgvwGnDTqKvgjqZHJlwN) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [KTLN](https://open.spotify.com/artist/5i4N8QFXPLaqgFiORTSnol) | [Work](https://open.spotify.com/album/6OzBSa3bIaJIfKpSKJPNVh) | 3:23 |
 | 2 | [1997 \- Radio Edit](https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [1997](https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7) | 2:40 |
 | 3 | [Paradise](https://open.spotify.com/track/6DSyhV4gOHmTlxFjPqGt1L) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Paradise](https://open.spotify.com/album/3akz6LZ9We4JvRpuLNiWAJ) | 2:58 |
 | 4 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |

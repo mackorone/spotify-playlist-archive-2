@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },

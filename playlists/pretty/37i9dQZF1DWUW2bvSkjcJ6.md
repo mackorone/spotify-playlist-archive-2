@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ikkimel, badmómzjay, David Guetta, Jazeek, Luciano & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,890 likes - 76 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,839 likes - 76 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 63 | [Kissing you away](https://open.spotify.com/track/1bMBYi2vwf7zDhbakuH9KO) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Kissing you away](https://open.spotify.com/album/0OUFRebnrsegnjiN0bfM2n) | 3:18 |
 | 64 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 |
 | 65 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 |
-| 66 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 66 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 67 | [Spielzeugladen](https://open.spotify.com/track/4dMtXAh4N8W9hEUQBTnVtQ) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [unverschämt](https://open.spotify.com/album/61UHbEXOgNZAwaB939kToS) | 3:11 |
 | 68 | [WEIL ICH KANN](https://open.spotify.com/track/2ftvIrRMS9kRGg6A7DxcaI) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [WEIL ICH KANN](https://open.spotify.com/album/2dzD69xFI24lkhR1MXtola) | 3:16 |
 | 69 | [Again & Again](https://open.spotify.com/track/6skvajckE4Edfz9dF7A9GS) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Again & Again](https://open.spotify.com/album/6Edcf68syzdUAK2IvwEq7O) | 2:09 |

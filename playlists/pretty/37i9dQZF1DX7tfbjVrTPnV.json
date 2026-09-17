@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
-  "num_followers": 239877,
+  "num_followers": 239898,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Your Life Is a Record",
-        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Who You Thought I Was",
-      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Your Life Is a Record",
+        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Who You Thought I Was",
+      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "The Me That Remains",
         "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 307706,
       "name": "The New World Wave",
       "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Alcohol and Adderall",
-        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 212997,
-      "name": "Alcohol and Adderall",
-      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Great Television",
-        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Cook",
-          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
-        },
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "The Easy Kind (feat. Wynonna)",
-      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Don\u2019t Look Back",
         "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 210540,
       "name": "Don\u2019t Look Back",
       "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Great Television",
+        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cook",
+          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
+        },
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "The Easy Kind (feat. Wynonna)",
+      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
       "artists": [
         {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
       "artists": [
         {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 176232,
-      "name": "Letting People Down",
-      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 172733,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 176232,
+      "name": "Letting People Down",
+      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 284710,
-      "name": "American Midnight",
-      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 248240,
       "name": "The Git Go (with Jamey Johnson)",
       "url": "https://open.spotify.com/track/3UtWQppzqaArTONICZWdTR"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 284710,
+      "name": "American Midnight",
+      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "You're My Favorite Song / Wild At Heart",
-        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "You're My Favorite Song",
-      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "You're My Favorite Song / Wild At Heart",
+        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "You're My Favorite Song",
+      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -2203,18 +2219,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
         }
       ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2231,22 +2247,6 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "House of the White Rose Bouquet",
         "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 203845,
       "name": "House of the White Rose Bouquet",
       "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2026-08-28 04:02:17",

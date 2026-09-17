@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,943 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,952 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 41 | [Baby, Don't Let Me](https://open.spotify.com/track/3TAQxgTxSMaznFC1MHa0Xd) | [La Division Del Norte](https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p) | [Baby, Don't Let Me](https://open.spotify.com/album/6sqWKQdhUsiksa4gXVRcdF) | 5:01 |
 | 42 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
 | 43 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
-| 44 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
-| 45 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
+| 44 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
+| 45 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 | 46 | [Flores en Tu Pelo \(Sn\. Francisco "Flowers In Your Hair"\)](https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN) | [La Fresa Ácida](https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp) | [El Rollo de la Fresa Ácida](https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG) | 2:59 |
 | 47 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
 | 48 | [La Pobreza](https://open.spotify.com/track/74xLbMcYBC6nCn4KU7WS8i) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen II](https://open.spotify.com/album/3hYovPMqkpuPJTyC8CQBLS) | 9:37 |

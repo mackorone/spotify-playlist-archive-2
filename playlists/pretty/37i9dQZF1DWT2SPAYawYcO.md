@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tinashe, The Avalanches, Te Wehi, daine, Jhené Aiko, Kendrick Lamar + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,223 likes - 83 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,185 likes - 83 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 69 | [Gearbox](https://open.spotify.com/track/5Ze072fvCScFqJfdJqNQcI) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Push Your Luck](https://open.spotify.com/album/1IMvMXzzd13Hw6yYWDKTUI) | 5:42 |
 | 70 | [EAT D!RT](https://open.spotify.com/track/3sqdyDy4wwsUQAXaTq2imI) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [EAT D!RT](https://open.spotify.com/album/3mSJ8G6X92WlMrHPRQc6he) | 2:15 |
 | 71 | [Hypocrite](https://open.spotify.com/track/2d2ivcoOrSHq8217ft7FDY) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Hypocrite](https://open.spotify.com/album/16scddzt1mKlGOfUj3xTcw) | 2:28 |
-| 72 | [In Touch Again](https://open.spotify.com/track/1vO9UIkDzMKlhycyfWcyuG) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In Touch Again](https://open.spotify.com/album/3Yr0zUHyrH4z1JkAwXEZkr) | 3:14 |
+| 72 | [In touch again](https://open.spotify.com/track/1vO9UIkDzMKlhycyfWcyuG) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In touch again](https://open.spotify.com/album/3Yr0zUHyrH4z1JkAwXEZkr) | 3:14 |
 | 73 | [Mana](https://open.spotify.com/track/4KhE1ALvCXFT3YT2OapCZG) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [Mana](https://open.spotify.com/album/3xNJDSB6PMjsc7qqHV6j3x) | 4:06 |
 | 74 | [NEON NEVER LIES](https://open.spotify.com/track/71nEdBh2sJbg9Mq1gCrTQ3) | [Bella Mackenzie](https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL) | [NEON NEVER LIES](https://open.spotify.com/album/6FghZQMqRZjjFhQekoKnJg) | 3:05 |
 | 75 | [I've Said Too Much \[Feat\. Dazy\]](https://open.spotify.com/track/5LzRRzixhsgAiHyEc42rDX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [God Save The Gun \(Deluxe\)](https://open.spotify.com/album/72bQZ9JHJtRR5g4vGiFIco) | 2:36 |

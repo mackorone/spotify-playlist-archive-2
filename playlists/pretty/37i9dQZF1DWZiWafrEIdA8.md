@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,451 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,454 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 17 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 18 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 |
 | 19 | [Think About You](https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 3:15 |
-| 20 | [GONE](https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [GONE](https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f) | 3:44 |
-| 21 | [Raincouver](https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:39 |
+| 20 | [Raincouver](https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O) | [Mark Lee](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:39 |
+| 21 | [GONE](https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [GONE](https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f) | 3:44 |
 | 22 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
 | 23 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
 | 24 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |

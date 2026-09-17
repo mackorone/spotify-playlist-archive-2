@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゲシュタルト乙女 Gestalt Girl
 
-3,899 songs - 10 day 7 hr 21 min
+3,901 songs - 10 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2907,6 +2907,7 @@
 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/5TQd5WUUf9Qh1CTAo6COiH) | [Yasushi Ide](https://open.spotify.com/artist/4omJ6brRKmzkjhg2651EW7), [THE MILLION IMAGE ORCHESTRA](https://open.spotify.com/artist/2gxEeHwcanWIu9WfvkMnXm), [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/album/5UDVAelJbt5kIZMxFMxvu3) | 4:56 | 2026-05-26 | 2026-06-10 |
 | [ゴーゴースチーム](https://open.spotify.com/track/0uxDEcLsiLUzBCrh2EUdO3) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 5:59 | 2025-06-11 | 2025-09-17 |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-06-22 |
+| [ゴーストワールド](https://open.spotify.com/track/3cqzztsF9QIjTJ5FSFr87R) | [Superyou](https://open.spotify.com/artist/1jXQ438KxFz6ShKWTkXoMh) | [ゴーストワールド / パラダイムシフト](https://open.spotify.com/album/5cLzTqtgp7pSDy34bbT8Tn) | 3:25 | 2026-09-16 |  |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 | 2023-09-06 |
 | [サイハテアイニ](https://open.spotify.com/track/0kwdFqT4A7qpOxODrUDfl1) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Uztama](https://open.spotify.com/artist/1fRn6oIX62BWttqHfNRhEE), [kaza](https://open.spotify.com/artist/3FgHWvLCuvzP2j85oiXdHs) | [i.e](https://open.spotify.com/album/7oyAVf0N2iBeAhzQ8RzL3t) | 3:45 | 2025-03-04 | 2025-03-12 |
 | [サウナライフ](https://open.spotify.com/track/4TDxnbTCFWacdMwMvj4AVk) | [Dai Takanashi](https://open.spotify.com/artist/2PUtS6vNZ4hwOPXSH5zzsc) | [Soul Meeting](https://open.spotify.com/album/6CauWPeoSQCpAFor8YXeQ5) | 3:10 | 2025-04-01 | 2025-04-09 |
@@ -3551,7 +3552,7 @@
 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 | 2024-03-07 | 2024-04-10 |
 | [栄養](https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [栄養](https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB) | 3:10 | 2026-08-11 | 2026-09-16 |
 | [栞](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 | 2024-09-03 | 2024-10-08 |
-| [根っこを育てる](https://open.spotify.com/track/2JlERG8aHTO8qCcUcCRbEV) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [根っこを育てる](https://open.spotify.com/album/46P3h9bKxSZvVyaHzlMpdc) | 3:01 | 2026-09-15 |  |
+| [根っこを育てる](https://open.spotify.com/track/2JlERG8aHTO8qCcUcCRbEV) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [根っこを育てる](https://open.spotify.com/album/46P3h9bKxSZvVyaHzlMpdc) | 3:01 | 2026-09-15 | 2026-09-17 |
 | [格好悪いふられ方](https://open.spotify.com/track/0NUtGGMrDe0uCEsOgwaKnX) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [格好悪いふられ方](https://open.spotify.com/album/7z1XV7hTBPhaLEFAGc3bPm) | 3:29 | 2023-09-05 | 2023-10-25 |
 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 | 2023-07-04 | 2023-10-11 |
 | [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 | 2023-03-21 | 2023-03-23 |
@@ -3856,7 +3857,7 @@
 | [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 | 2025-08-19 | 2025-09-17 |
 | [雨宿らず](https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9) | [永井琳子](https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r) | [雨宿らず](https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma) | 3:26 | 2026-02-17 | 2026-05-13 |
 | [雨雲と晴れのあいだ](https://open.spotify.com/track/61YDVXG5hPUKFY3Duy3Pck) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [雨雲と晴れのあいだ](https://open.spotify.com/album/4RKL5eUEwbzMqWt9HLxZvQ) | 4:22 | 2023-11-29 | 2023-12-01 |
-| [電子廃墟の恋](https://open.spotify.com/track/0NAeH31a98L5KIt6tCPo6T) | [Kinocohotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [薔薇と硝煙](https://open.spotify.com/album/0lCaDfMa1JEQrHUdApL8pf) | 3:01 | 2026-08-25 |  |
+| [電子廃墟の恋](https://open.spotify.com/track/0NAeH31a98L5KIt6tCPo6T) | [Kinocohotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [薔薇と硝煙](https://open.spotify.com/album/0lCaDfMa1JEQrHUdApL8pf) | 3:01 | 2026-08-25 | 2026-09-17 |
 | [電影粒子（Video Days）](https://open.spotify.com/track/1jjt8pl4pB9CeOnATfmkDX) | [ki.o.ku](https://open.spotify.com/artist/45BOYn03xoBD3L3aTj59Au) | [電影粒子（Video Days）](https://open.spotify.com/album/1zKmxYsvhlvahnVSlZXAgB) | 3:34 | 2026-05-26 | 2026-06-04 |
 | [電話](https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [電話](https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V) | 3:46 | 2026-01-29 | 2026-03-18 |
 | [霧になって \- REIMEI SESSION](https://open.spotify.com/track/1afVrjJkCuGTXUv8KYEkJ8) | [湾々](https://open.spotify.com/artist/6NEopdKqAeTecnINJFlUH7), [REIMEI SESSION](https://open.spotify.com/artist/2usevk5JBrqiWa7vcdvcLm) | [湾々 / REIMEI SESSION](https://open.spotify.com/album/6PfFkCQfMsui6nZnPW6lJL) | 5:32 | 2026-03-31 | 2026-04-08 |
@@ -3906,6 +3907,7 @@
 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-20 | 2026-03-11 |
 | [黎明 \- Reimei](https://open.spotify.com/track/6e4jDUPLl1lOitg7Tbki21) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [黎明 \- Reimei](https://open.spotify.com/album/5dhAlUFlEvRvS3t2RDYkdg) | 4:14 | 2026-05-12 | 2026-05-27 |
 | [龍](https://open.spotify.com/track/67EkuUCJLd68ec8md3Dcwu) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [龍](https://open.spotify.com/album/2tWWmQSb9ygRh3IElPd7aR) | 2:29 | 2025-08-19 | 2025-09-04 |
+| [龍の国](https://open.spotify.com/track/71OrP4C8KrSw6K6ujlNpN1) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [風神通り](https://open.spotify.com/album/1KlbSOSMiMo8RLadYbRbdR) | 3:23 | 2026-09-16 |  |
 | [（つづく）](https://open.spotify.com/track/2gMxAHUFrJqvBlRvBorkjE) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [Gensuke Kanki](https://open.spotify.com/artist/6wKIQpK2Xmxfoto8ezWfZC), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N), [海堀弘太](https://open.spotify.com/artist/2agGhXNQXZhNjIgVKeDkF1), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 5:42 | 2024-08-06 | 2024-10-09 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

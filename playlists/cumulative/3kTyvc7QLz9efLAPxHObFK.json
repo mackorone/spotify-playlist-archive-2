@@ -33450,6 +33450,24 @@
     {
       "album": {
         "name": "Let You Go",
+        "url": "https://open.spotify.com/album/55grqWLVREV5VoPPDC4hM6"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Im2UkS32aOdleo2rPGRSI"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
         "url": "https://open.spotify.com/album/0oJfPAysgFF0KUKs3aZzBB"
       },
       "artists": [

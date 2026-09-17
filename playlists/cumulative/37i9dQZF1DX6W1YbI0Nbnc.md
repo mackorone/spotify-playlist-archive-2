@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: cehryl\)
 
-435 songs - 1 day 2 hr 56 min
+436 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [三分甜](https://open.spotify.com/track/1JeiJDI36aSIu7pGS4MDRy) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [10+1](https://open.spotify.com/album/4bP28ueXB0NvBq1OJi8ySa) | 3:54 | 2024-12-04 | 2026-04-08 |
 | [三張幾](https://open.spotify.com/track/5v1y94MhcLWjt13Rql1wfI) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [三張幾](https://open.spotify.com/album/09Md9goxWmQxbSaXj6KG3M) | 3:00 | 2026-09-02 |  |
 | [下不違例](https://open.spotify.com/track/5vpQf9NrIY8btqchQTXXf0) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [下不違例](https://open.spotify.com/album/0rdCw2RCBcuCiFEFVc5FRT) | 3:34 | 2026-04-07 |  |
-| [下次不如相信自己一次](https://open.spotify.com/track/12QMaXd39fllG09BX5cyOU) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [下次不如相信自己一次](https://open.spotify.com/album/45vosktyBO6go1S2Px9zHU) | 3:49 | 2026-01-06 |  |
+| [下次不如相信自己一次](https://open.spotify.com/track/12QMaXd39fllG09BX5cyOU) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [下次不如相信自己一次](https://open.spotify.com/album/45vosktyBO6go1S2Px9zHU) | 3:49 | 2026-01-06 | 2026-09-17 |
 | [下次愛你](https://open.spotify.com/track/7n8djZ72FAXL2iA0DYbDMm) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [The Songbird Anthology](https://open.spotify.com/album/4Vnm03jTbXSRmmZMgba2pn) | 5:05 | 2026-03-19 | 2026-04-08 |
 | [不可得](https://open.spotify.com/track/6fR9qqBVXGLs0gvuilrirm) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [不可得](https://open.spotify.com/album/4LL4ZJ0lzvk9MW8HWDVQw9) | 4:13 | 2025-09-03 | 2026-01-15 |
 | [不清醒都巿](https://open.spotify.com/track/4x6mdk7XUKXPUI4Kgc0Egr) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [拋海](https://open.spotify.com/artist/0gM5NtTCoLfsP1thegM6w2) | [不清醒都巿](https://open.spotify.com/album/3Qsv3c1H65NXYtE0PMPU7C) | 4:10 | 2022-01-04 | 2022-08-03 |
@@ -356,6 +356,7 @@
 | [流行病](https://open.spotify.com/track/2P4U0gut6AWKKdq8SF5iTO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [流行病](https://open.spotify.com/album/0elyzljgfEoOwbkqG3ZBAD) | 4:47 | 2026-01-06 |  |
 | [浪漫石](https://open.spotify.com/track/0gqKyKO16PM30es201xAsZ) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [浪漫石](https://open.spotify.com/album/4rKZxp7IMi7HPOdWCM9OXV) | 3:12 | 2022-03-07 | 2022-05-04 |
 | [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 | 2021-12-07 | 2023-11-30 |
+| [淚光](https://open.spotify.com/track/087pXxI9gbKlGZImQ3FX6T) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [淚光](https://open.spotify.com/album/1umRHZ4kP1amGuA8mZoxO3) | 3:27 | 2026-09-16 |  |
 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 | 2022-01-04 | 2022-03-08 |
 | [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 | 2026-05-06 | 2026-09-03 |
 | [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 | 2023-10-03 | 2026-01-15 |

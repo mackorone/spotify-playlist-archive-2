@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Amiel Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034,506 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,034,266 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 12 | [Totoong tayo](https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS) | [Jin DC](https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2) | [Totoong tayo](https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR) | 3:47 |
 | 13 | [Crazy](https://open.spotify.com/track/42dPVlqbsRmQCtGzm2N606) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Crazy](https://open.spotify.com/album/6fWc51QIkVlqhVjMRQn4rb) | 3:13 |
 | 14 | [USAD](https://open.spotify.com/track/5TeM0uxDT663mth1LMOqPg) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [USAD](https://open.spotify.com/album/6D9f3VmaNomBQ46OyatntQ) | 4:12 |
-| 15 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:37 |
+| 15 | [Lifetime \(Reimagined\)](https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime \(Reimagined\)](https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x) | 4:38 |
 | 16 | [luck \(feat\. James Reid\)](https://open.spotify.com/track/19BVekNBFNXp2Kg3TMaVPR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [luck \(feat\. James Reid\)](https://open.spotify.com/album/1UnctzYaTFQxVdBVmfULfp) | 3:11 |
 | 17 | [Selepono](https://open.spotify.com/track/0t2b2Dc7sI3J2quYJ0aWwj) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [Selepono](https://open.spotify.com/album/7DQY4ujkExEZGCJDVoKlDN) | 2:43 |
 | 18 | [Kung Ayaw](https://open.spotify.com/track/79QUyi043DxZVoVy50Ny61) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Pusong Pabrika](https://open.spotify.com/album/1RHiU0wGKpXps7VC0t0P4s) | 2:36 |

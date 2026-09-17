@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Medikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,249 likes - 81 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,288 likes - 81 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

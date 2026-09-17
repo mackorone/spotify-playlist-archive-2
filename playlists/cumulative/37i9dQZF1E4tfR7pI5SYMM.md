@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With The Cassandra Complex, Lockjaw, David Von Beahm and more
+> With MIK's Reaction, David Von Beahm, The Charlie Marshall Effect and more
 
 1,021 songs - 2 day 21 hr 18 min
 

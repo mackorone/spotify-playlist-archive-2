@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! September ambassador: <a href=\"spotify:artist:60bPC311AlvVdIzqQZyeHo\">jet van der steen</a>",
-  "num_followers": 14417,
+  "num_followers": 14453,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Vang Je Mij",
-        "url": "https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Vang Je Mij",
-      "url": "https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "you did not sign up for this",
         "url": "https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 195657,
       "name": "you did not sign up for this",
       "url": "https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "Vang Je Mij",
+        "url": "https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Vang Je Mij",
+      "url": "https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Glow-Up Era",
+        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 136368,
+      "name": "Glow-Up Era",
+      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "Oh Zo Hopeloos",
         "url": "https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 156183,
       "name": "Rode Roos",
       "url": "https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Glow-Up Era",
-        "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 136368,
-      "name": "Glow-Up Era",
-      "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn"
-      },
-      "artists": [
-        {
-          "name": "Rianne",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 197047,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Alleen",
         "url": "https://open.spotify.com/album/2bcMzAlUUXLNRz5CUSGzAz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 168461,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/1YRq5jjvmBiG2oiwkbWiEu"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn"
+      },
+      "artists": [
+        {
+          "name": "Rianne",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 197047,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Wandering Eye",
+        "url": "https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w"
+      },
+      "artists": [
+        {
+          "name": "Carmen Forbes",
+          "url": "https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5"
+        }
+      ],
+      "duration_ms": 151242,
+      "name": "Wandering Eye",
+      "url": "https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "It\u2019s Your Call",
         "url": "https://open.spotify.com/album/2uAUPx9qQuoA3uy1Rve2hj"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 259466,
       "name": "Echo En Toi",
       "url": "https://open.spotify.com/track/3A8jY0pokq2wMg52dPLV1x"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Wandering Eye",
-        "url": "https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w"
-      },
-      "artists": [
-        {
-          "name": "Carmen Forbes",
-          "url": "https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5"
-        }
-      ],
-      "duration_ms": 151242,
-      "name": "Wandering Eye",
-      "url": "https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
-      },
-      "artists": [
-        {
-          "name": "Sam Nera",
-          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
-        }
-      ],
-      "duration_ms": 181351,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 141600,
       "name": "Karma",
       "url": "https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
+      },
+      "artists": [
+        {
+          "name": "Sam Nera",
+          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
+        }
+      ],
+      "duration_ms": 181351,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
     },
     {
       "added_at": "2026-09-01 22:00:06",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: JOONS\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Pawitt\. Artwork: Isu Kim
 
-2,693 songs - 7 day 0 hr 56 min
+2,696 songs - 7 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Breakfast In Bed](https://open.spotify.com/track/3hziNMQt3oQky7J4uOePgK) | [GRAPH OSATEE](https://open.spotify.com/artist/7hGI52Fu2cXSDeG17LWa49) | [Breakfast In Bed](https://open.spotify.com/album/7HRutxsGmxnKc5eTvER1Mf) | 3:23 | 2024-06-14 | 2024-09-28 |
 | [Brownie](https://open.spotify.com/track/17MOL53GO3ExLR4YbON4aI) | [EURO](https://open.spotify.com/artist/6KkJCKhgPIOBGJnEWw0FpQ) | [Brownie](https://open.spotify.com/album/310qXWsunz1M4okLGVORGS) | 2:22 | 2023-05-05 | 2023-05-13 |
 | [Bui Bui \(บุ๊ยบุย\)](https://open.spotify.com/track/6SrKOy6Z6eqH79OBlxZl6W) | [Yuri](https://open.spotify.com/artist/6KqUlfCZMpoFfqWL8NM6yB) | [Bui Bui \(บุ๊ยบุย\)](https://open.spotify.com/album/2LQuqwqJc3WqlhHBGoVuDQ) | 4:16 | 2023-08-11 | 2023-09-09 |
-| [Burning](https://open.spotify.com/track/7I3x0Je3BSQ4lNJJTDDElz) | [Evil Dude](https://open.spotify.com/artist/0LJ45qTiyfOjlwRXMSctUZ) | [Burning](https://open.spotify.com/album/75iwpJlqqbPrAZRXVY45oN) | 4:06 | 2026-05-06 |  |
+| [Burning](https://open.spotify.com/track/7I3x0Je3BSQ4lNJJTDDElz) | [Evil Dude](https://open.spotify.com/artist/0LJ45qTiyfOjlwRXMSctUZ) | [Burning](https://open.spotify.com/album/75iwpJlqqbPrAZRXVY45oN) | 4:06 | 2026-05-06 | 2026-09-17 |
 | [business \(feat\. Lil God, Nuay, JP & 32TriB\)](https://open.spotify.com/track/0DVL1nW7dltd5h7pnK6qCq) | [JiFuji](https://open.spotify.com/artist/42HsKClMz1RGdRFo989Gnk), [Lil God](https://open.spotify.com/artist/6JJw0K7ax7815OXumahE9m), [nuay](https://open.spotify.com/artist/1ywuQ2zVf9hvO7z5ZuIhHD), [JP](https://open.spotify.com/artist/542Rgooqqbwy1O4Y4xhz5r), [32TriB](https://open.spotify.com/artist/0imhi3oUbDbeLXu6YDVo96) | [business \(feat\. Lil God, Nuay, JP & 32TriB\)](https://open.spotify.com/album/0mcuz4R5R5XXYHtJkGxHF0) | 2:53 | 2024-04-11 | 2024-05-25 |
 | [BUSY](https://open.spotify.com/track/3DAP92SQ9GbmpdUHNNVbnP) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [BUSY](https://open.spotify.com/album/5lQab9n2eVqM2LNa3eKkYN) | 4:06 | 2025-05-29 | 2025-08-08 |
 | [BYE BYE](https://open.spotify.com/track/7jFn0L9Ui9shP0l69Zs5Dt) | [D\-NA](https://open.spotify.com/artist/2F4giQjhpORkIsOPBDhR5I) | [BYE BYE](https://open.spotify.com/album/0Z7vWTZ4wqqMmhxyIQPwth) | 3:24 | 2024-05-24 | 2024-06-08 |
@@ -93,7 +93,7 @@
 | [Camomile](https://open.spotify.com/track/2nBgb4eY2vKe3sVDDx2kZC) | [Patty Panicha](https://open.spotify.com/artist/2xdIAAKxGmxbNuPBW6x7Ej) | [Camomile](https://open.spotify.com/album/5KMTqRC8EJG6HSBqv2z9Sz) | 3:30 | 2024-12-20 | 2024-12-27 |
 | [Can I call it love?](https://open.spotify.com/track/4d0wHV7rO9AMJhfPwYSe9Y) | [Ardawan](https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno) | [Can I call it love?](https://open.spotify.com/album/1dBOJhSWpzwfmk4sjASh58) | 3:00 | 2026-05-20 |  |
 | [Can you stay](https://open.spotify.com/track/2Mc5zvlIHTSl369rGL2paz) | [URMINE](https://open.spotify.com/artist/7KMkGU2lhRyeOhJrlng5oO) | [Can you stay](https://open.spotify.com/album/7nJbShA0XLmdXxVrr7pzxW) | 2:58 | 2024-07-26 | 2024-08-03 |
-| [Can't Lose](https://open.spotify.com/track/2JmWtCjSA6DrO9hITxQGaZ) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Can't Lose](https://open.spotify.com/album/5LAatsmv1CrJwYp30UxQ8y) | 3:10 | 2026-05-06 |  |
+| [Can't Lose](https://open.spotify.com/track/2JmWtCjSA6DrO9hITxQGaZ) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Can't Lose](https://open.spotify.com/album/5LAatsmv1CrJwYp30UxQ8y) | 3:10 | 2026-05-06 | 2026-09-17 |
 | [Canvas](https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef) | [C\#](https://open.spotify.com/artist/3cHznWQOP1ssmoouwarq6o) | [Canvas](https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW) | 4:28 | 2026-01-30 | 2026-03-13 |
 | [Capture](https://open.spotify.com/track/676xBYgvkeJb1c3gqi91NR) | [j.rabbit](https://open.spotify.com/artist/012IKMFJSvz2xrvpFdUcyJ) | [Capture](https://open.spotify.com/album/2mTtVLc1gZMUuYnb8EDycq) | 2:31 | 2024-11-01 | 2025-01-10 |
 | [Caramel Candy](https://open.spotify.com/track/4dFMB2bsTg8Wj5AHkhTsvv) | [Bommu](https://open.spotify.com/artist/7JWILj2YYtQaPis6cwfZrD) | [Caramel Candy](https://open.spotify.com/album/5qS5VgjshW8EYkLuTbAkuo) | 3:01 | 2023-10-27 | 2023-11-09 |
@@ -656,6 +656,7 @@
 | [ก่อนหาย](https://open.spotify.com/track/3EqGG5fxGs0ySJfeSFq5Wj) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ก่อนหาย](https://open.spotify.com/album/1XVuOxshU7aR4eMyYhWBsj) | 3:26 | 2024-05-31 | 2024-06-08 |
 | [ก่อนเคยมี](https://open.spotify.com/track/3rPhdlV59qtSWXKFbWX4eg) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [ก่อนเคยมี](https://open.spotify.com/album/0DepYOcxQUnssvdd1dvhTd) | 3:48 | 2024-10-04 | 2024-10-19 |
 | [ก่อนเธอจะรักคนใหม่ \- Before](https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w) | [RATTHEE](https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh) | [ก่อนเธอจะรักคนใหม่ \(Before\)](https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge) | 3:46 | 2026-01-14 | 2026-05-07 |
+| [ก่อนเธอจะหายไป](https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg) | [Lost Polaroids](https://open.spotify.com/artist/7vFvfoNCkhhQ30I0vsb8YT) | [ก่อนเธอจะหายไป](https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr) | 5:02 | 2026-09-16 |  |
 | [ก่อนเธอจะ…](https://open.spotify.com/track/0NPVfugsMYTqkg6rIbylys) | [KACHAIN](https://open.spotify.com/artist/4VuHECkJ4Ul7OGc7b1eYKu) | [ก่อนเธอจะ…](https://open.spotify.com/album/6lKToLPKPIzmv7cQbASjXJ) | 3:59 | 2025-10-17 | 2025-12-05 |
 | [ก่อนเธอจาก \(ช่วยหลอกฉัน\)](https://open.spotify.com/track/4fPpv60pBog9Pfc5OiMVuy) | [Sirin](https://open.spotify.com/artist/13f1dMMIakEh2lrB6C1xB5) | [ก่อนเธอจาก \(ช่วยหลอกฉัน\)](https://open.spotify.com/album/7LMaGcqyD1EhIu6x2huZKo) | 4:41 | 2025-03-13 | 2025-04-04 |
 | [ก่อนเธอจากไป](https://open.spotify.com/track/7JjJmrbMLLKlTimeH9X59G) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [ก่อนเธอจากไป](https://open.spotify.com/album/1wPu3wqDAS68mG5gKQKDug) | 3:46 | 2023-10-06 | 2024-01-13 |
@@ -2459,6 +2460,7 @@
 | [แอ่นระแนง \- Arch](https://open.spotify.com/track/1cD0Uza8bG3v25N2OhsyyB) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [แอ่นระแนง](https://open.spotify.com/album/3cDQYyAhBPTPQxgReTNJOG) | 3:33 | 2024-05-10 | 2024-05-25 |
 | [โกรธจนร้องไห้](https://open.spotify.com/track/57zD8E17HYZRwDsXw51VlH) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [โกรธจนร้องไห้](https://open.spotify.com/album/7y0gtz3QX8EwgXXtX9lr16) | 3:48 | 2025-01-31 | 2025-03-28 |
 | [โกหกตาใส](https://open.spotify.com/track/18usr06x0sKVozeOQwLrkq) | [Obchoey](https://open.spotify.com/artist/4gdXoXQmggcqAdN20alLYL) | [โกหกตาใส](https://open.spotify.com/album/0Uo2igTf26KMOFsJXrxO6l) | 4:37 | 2022-09-23 | 2022-11-26 |
+| [โคตรคิดถึง](https://open.spotify.com/track/6YJlvheMKliZyu5QeAzP1O) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [โคตรคิดถึง](https://open.spotify.com/album/4RtBmqdaJ5SFsKRyF88GsB) | 3:33 | 2026-09-16 |  |
 | [โคตรคิดถึง](https://open.spotify.com/track/41TaJNKF1YGZ5vdWZewPE4) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [โคตรคิดถึง](https://open.spotify.com/album/49uSWlOJYw8B5TRhiIEEk2) | 4:12 | 2023-05-05 | 2023-05-27 |
 | [โคตรคิดถึง](https://open.spotify.com/track/2lmmmalFVCrwqZDJfEFAk1) | [ZLAD](https://open.spotify.com/artist/3B3EU9qAvsyensN23oOmpD) | [โคตรคิดถึง](https://open.spotify.com/album/7yrnEO9JEzOuUqOUfrcchv) | 4:48 | 2023-08-25 | 2023-09-02 |
 | [โคตรดีเลย](https://open.spotify.com/track/0lYH7xhdEwNMVNiVfnu4UN) | [Jom Jager](https://open.spotify.com/artist/1oShxO7dLutsnJpnxYL7I1), [Tom Isara](https://open.spotify.com/artist/7HMuruYOBljjjsit1De1nm) | [โคตรดีเลย](https://open.spotify.com/album/6WgLDyTJZTBJVq996jjJZq) | 3:47 | 2025-08-21 | 2025-08-30 |
@@ -2500,7 +2502,7 @@
 | [โลกใบใหม่ \| The Art of Escaping](https://open.spotify.com/track/5S4JbIVrXWWw1mhvepnmXK) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Coming of Happiless \| Finding for Happiness](https://open.spotify.com/album/6hr6ikNKRJqncbDPe0CrBe) | 4:52 | 2024-04-11 | 2024-07-20 |
 | [โสดทำไม?](https://open.spotify.com/track/7wCjQgDYHbPdu6sfHFUMrI) | [Uppoompat](https://open.spotify.com/artist/2AUFYPm0OQqOKVEmVtD2xm) | [โสดทำไม?](https://open.spotify.com/album/3WSrf8g5H1mZWCA85Cku0D) | 3:09 | 2024-10-11 | 2024-10-26 |
 | [โสดแล้วทักมา](https://open.spotify.com/track/6zyU10M9H8jmYe8e4eQe8r) | [Candyday](https://open.spotify.com/artist/6SbzvWd1hQa5YKYURS6Pn3) | [โสดแล้วทักมา](https://open.spotify.com/album/4uowj1TFBiIcyxxhGQTt8u) | 4:20 | 2023-05-19 | 2023-05-27 |
-| [โห่ร้อง](https://open.spotify.com/track/6R1q6i5XLSEq6I8EEkfEix) | [PINKIE](https://open.spotify.com/artist/7c6jLWUrGVl6JwaCmepfzv) | [โห่ร้อง](https://open.spotify.com/album/2pNMma6hA20wQ1cyn7nZW5) | 4:47 | 2026-05-27 |  |
+| [โห่ร้อง](https://open.spotify.com/track/6R1q6i5XLSEq6I8EEkfEix) | [PINKIE](https://open.spotify.com/artist/7c6jLWUrGVl6JwaCmepfzv) | [โห่ร้อง](https://open.spotify.com/album/2pNMma6hA20wQ1cyn7nZW5) | 4:47 | 2026-05-27 | 2026-09-17 |
 | [โอนมารักเลย](https://open.spotify.com/track/0WhILHV116rsOE0XWaldnq) | [UT Vongvariit](https://open.spotify.com/artist/3ZAW2B7Hf3xjOXyHvycKor) | [โอนมารักเลย](https://open.spotify.com/album/3U8rXKng9wbsTJa5B44xSS) | 3:12 | 2024-07-26 | 2024-08-10 |
 | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/album/4ZZNajw0mJqgRii3twhyDQ) | 4:06 | 2024-10-25 | 2024-11-09 |
 | [โอบกอด](https://open.spotify.com/track/64ftqC2EIsiQ2ALvWIF3wo) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R) | [โอบกอด](https://open.spotify.com/album/1yWcrnPdkDe2yUa04VcVUc) | 4:51 | 2024-08-09 | 2024-08-17 |
@@ -2634,6 +2636,7 @@
 | [ไม่รู้ไม่รู้ \- Maybe I Like You](https://open.spotify.com/track/3nlOJWe1dqhEkdYg5oqA9q) | [jaei](https://open.spotify.com/artist/2bze7PiynegDpDl6CX8kSO) | [ไม่รู้ไม่รู้ \(Maybe I Like You\)](https://open.spotify.com/album/11NaBBrolGnPwD4GYc2QXL) | 3:41 | 2026-03-05 | 2026-03-13 |
 | [ไม่ลองก็ไม่รู้](https://open.spotify.com/track/3AITOGcbBWSgg41Qw36dqN) | [FrameT](https://open.spotify.com/artist/6CHrVbbmuhoImHS2glsFTY) | [ไม่ลองก็ไม่รู้](https://open.spotify.com/album/328RIoHl10WR0vhyvQa50j) | 2:22 | 2024-10-11 | 2024-10-26 |
 | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M) | [Def Teerapat](https://open.spotify.com/artist/48vGpotLO3IyFQbzlfAWtI) | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/album/66Mw3mVkQcob4hQ4xFId7q) | 4:55 | 2025-04-24 | 2025-07-25 |
+| [ไม่หลับไม่นอน \(So High\)](https://open.spotify.com/track/6R9Y1VOrwEylj2f5pkK6ZI) | [Pawitt](https://open.spotify.com/artist/74SBxmdiDYl2tNbxmQg7VM) | [ไม่หลับไม่นอน \(So High\)](https://open.spotify.com/album/3QFeCtREbpSagNoeoimGQv) | 3:42 | 2026-09-16 |  |
 | [ไม่หลุดมือ](https://open.spotify.com/track/6e2KKndWACiULZbsI7n14n) | [NATKONG](https://open.spotify.com/artist/7g26rAjO4P5ibwCN75eVhj), [DW](https://open.spotify.com/artist/6WE7eF2PDwdVg0jNpibLEp) | [ไม่หลุดมือ](https://open.spotify.com/album/4Q33YNFsJyygCeyeLyByE2) | 3:29 | 2023-05-05 | 2023-05-13 |
 | [ไม่หล่อแต่รวย](https://open.spotify.com/track/2vYWzrw2DVOBgRcBHwuBNi) | [CONFUSE](https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4) | [ไม่หล่อแต่รวย](https://open.spotify.com/album/6xTmLhsi0oNE0UK3UFoF5r) | 2:43 | 2024-09-20 | 2024-10-05 |
 | [ไม่อยากกลับไปแล้ว](https://open.spotify.com/track/1mTcLBue3QMAGsh6dKjNAT) | [pondcpm](https://open.spotify.com/artist/1BRlSl1cpwfhBsyyl4641m) | [ไม่อยากกลับไปแล้ว](https://open.spotify.com/album/14XyOOGd4qOLnEkqqzCiEt) | 3:36 | 2024-05-17 | 2024-06-15 |

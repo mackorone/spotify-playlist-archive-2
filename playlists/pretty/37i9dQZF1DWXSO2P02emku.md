@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Este 13 de Septiembre es la gran final de México Canta 2026\. Conoce a los artistas que participaron\. 📸 Banda El Recodo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,997 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,007 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

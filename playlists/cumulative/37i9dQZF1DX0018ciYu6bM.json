@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: Stray Kids)",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: SOYEON)",
   "name": "KimBops!",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "album": {
+        "name": "11\uc6d4 11\uc77c (November 11th)",
+        "url": "https://open.spotify.com/album/7AkP01b2VRSbRn0xHhRY0j"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "11\uc6d4 11\uc77c (November 11th)",
+      "url": "https://open.spotify.com/track/4hKJbXryLm1oQKE4pJj23B"
     },
     {
       "album": {
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -7707,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "What a Wonderful Life",
+        "url": "https://open.spotify.com/album/6iEU45aNKlBHrtgxZvn0Qx"
+      },
+      "artists": [
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211574,
+      "name": "I\u2019m gonna TOESA (Narr. KIAN84)",
+      "url": "https://open.spotify.com/track/5kaHfldTiM58rL3yOpBqfO"
+    },
+    {
+      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
@@ -8782,7 +8818,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
@@ -9224,6 +9260,24 @@
       "duration_ms": 196702,
       "name": "Ma Boy",
       "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
       "album": {
@@ -9848,6 +9902,24 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "album": {
+        "name": "Moonride",
+        "url": "https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Moonride",
+      "url": "https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg"
     },
     {
       "album": {
@@ -15292,7 +15364,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 185000,
       "name": "This & That",
       "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"

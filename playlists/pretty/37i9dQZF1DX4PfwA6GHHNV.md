@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,464 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,466 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 6 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 7 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
 | 8 | [OBSESIÓN](https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD) | [OBSESIÓN](https://open.spotify.com/album/6p7x7K1sQBCHqOOp8I6grr) | 3:49 |
-| 9 | [Alive](https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive](https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH) | 3:27 |
-| 10 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
+| 9 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
+| 10 | [Alive](https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive](https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH) | 3:27 |
 | 11 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 |
 | 12 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
 | 13 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |

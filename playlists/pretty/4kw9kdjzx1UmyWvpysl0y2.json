@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122723,
+  "num_followers": 122712,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVwIUJ+BfIvPVUAB6LIez06vkC5tBF",
+  "snapshot_id": "AAAVwXIuJI1LzZAhitlR/0nHbn0X4HuC",
   "tracks": [
+    {
+      "added_at": "2026-09-16 15:08:35",
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0fZVVS2tVYDRmCJIgiBtdN"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/3pdFQsczAhnPRiWllBQ3xr"
+    },
     {
       "added_at": "2026-09-14 14:04:05",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > El príncipe idiota en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,105 likes - 110 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,075 likes - 110 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

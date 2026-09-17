@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR?si=e2FUz5BnTgq8O3GDh6zbxA">Hybrid Minds</a>' favorite tracks\. Updated regularly\. Curated by Hybrid Minds\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,416 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,421 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 | 41 | [Streetlife \- feat\. Takura](https://open.spotify.com/track/5DhKbtCtPeBrkUCtGJShxw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 4:18 |
 | 42 | [Cut Me Loose \- Muffler Remix](https://open.spotify.com/track/6qe0sWYQlw4zEVuyJRQhLg) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Rocky Nti](https://open.spotify.com/artist/7vxdIF630QOTloFsFLZzgI), [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Thanks for Joining Us](https://open.spotify.com/album/4wN5jSqSzmaVfLkN9AkEPo) | 4:46 |
 | 43 | [Falling](https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Falling](https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS) | 3:18 |
-| 44 | [Easier \(feat\. LOWES\) \- Sub Focus Remix](https://open.spotify.com/track/55d553uqFMy1882OvdPPvV) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Easier \(feat\. LOWES\) \[Sub Focus Remix\]](https://open.spotify.com/album/78QTfWBbqatBA73EFLpM47) | 4:36 |
+| 44 | [Easier \(feat\. LOWES\) \- Sub Focus Remix](https://open.spotify.com/track/55d553uqFMy1882OvdPPvV) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Easier \(feat\. LOWES\) \[Sub Focus Remix\]](https://open.spotify.com/album/78QTfWBbqatBA73EFLpM47) | 4:36 |
 | 45 | [Even If \- Original Mix](https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Even If](https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK) | 7:34 |
 | 46 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
 | 47 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |

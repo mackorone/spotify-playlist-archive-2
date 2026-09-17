@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 216085,
       "name": "Fall on Me",
       "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
@@ -8186,6 +8186,24 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6HdqpAopizBzDcJXYw3I5v"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190705,
+      "name": "James",
+      "url": "https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv"
     },
     {
       "album": {

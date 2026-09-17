@@ -8370,7 +8370,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 171000,
       "name": "Vanakam Bro",
       "url": "https://open.spotify.com/track/1ht8Aj20RuS4ZKq8bL2pwR"
@@ -8392,6 +8392,28 @@
       "duration_ms": 122482,
       "name": "Vanakkam Madras",
       "url": "https://open.spotify.com/track/3habgrnSxHyyxbg5lkziBC"
+    },
+    {
+      "album": {
+        "name": "Vanakko",
+        "url": "https://open.spotify.com/album/4RBXi1FhuvGyZsQezuNHdv"
+      },
+      "artists": [
+        {
+          "name": "Dacalty",
+          "url": "https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd"
+        },
+        {
+          "name": "2puff",
+          "url": "https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156167,
+      "name": "Vanakko",
+      "url": "https://open.spotify.com/track/2i5MSClHL782KEkr7Ye1BF"
     },
     {
       "album": {

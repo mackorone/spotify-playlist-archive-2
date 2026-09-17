@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130000,
+  "num_followers": 130001,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "\u00c8 FINITA LA PACE",
+        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "LEI",
+      "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Going Hard 3",
         "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 214588,
       "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
       "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "\u00c8 FINITA LA PACE",
-        "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 223009,
-      "name": "LEI",
-      "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 265454,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 153429,
       "name": "Tardi (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Veleno",
-      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 176584,
-      "name": "IL GIOCO DEL SILENZIO",
-      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "4U EP",
         "url": "https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186110,
       "name": "4U",
       "url": "https://open.spotify.com/track/5Ro2csr2lw3pEcGAlkuHVp"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "IL GIOCO DEL SILENZIO",
+      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
     },
     {
       "added_at": "2026-08-26 22:01:25",

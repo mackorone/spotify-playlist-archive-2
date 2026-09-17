@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,224 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,225 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 |
 | 50 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 |
 
-Snapshot ID: `aqc5AAAAAAClXWgkcglnl4mXYActCX1T`
+Snapshot ID: `aqc5AAAAAAAU1FqISlaiabcvHvbqGE9L`

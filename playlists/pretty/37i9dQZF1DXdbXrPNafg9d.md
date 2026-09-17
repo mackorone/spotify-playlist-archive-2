@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,276 likes - 201 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,254 likes - 201 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

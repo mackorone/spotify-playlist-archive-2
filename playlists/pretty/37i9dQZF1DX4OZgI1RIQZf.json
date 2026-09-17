@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140571,
+  "num_followers": 140570,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 215320,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Knock Knock! (It's Halloween)",
         "url": "https://open.spotify.com/album/7oQmFXScEzUQ2buEYoZRyM"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 152000,
       "name": "Knock Knock! (It's Halloween)",
       "url": "https://open.spotify.com/track/37K6U3mGV0JsJFcaIRGYpp"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2026-08-28 07:24:22",

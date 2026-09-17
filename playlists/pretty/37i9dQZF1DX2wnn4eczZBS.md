@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,540 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,546 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 11 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
 | 12 | [Jongen van de Zon](https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Jongen van de Zon](https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2) | 3:29 |
 | 13 | [Alles of Niets](https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles of Niets](https://open.spotify.com/album/11b75O1vrwS4FO5YprIjkn) | 2:16 |
-| 14 | [Baby](https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Leve de Feeks](https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh) | 3:27 |
+| 14 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
 | 15 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 |
-| 16 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
+| 16 | [Baby](https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Leve de Feeks](https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh) | 3:27 |
 | 17 | [Honderdduizend graden](https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Honderdduizend graden](https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ) | 2:47 |
 | 18 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
 | 19 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 43 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
 | 44 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 | 45 | [Mommy](https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Mommy](https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU) | 2:54 |
-| 46 | [7 Dagen Maandag](https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb) | [Ricky Bekstok](https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT), [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [7 Dagen Maandag](https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ) | 2:46 |
-| 47 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
-| 48 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
-| 49 | [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 |
+| 46 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
+| 47 | [7 Dagen Maandag](https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb) | [Ricky Bekstok](https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT), [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [7 Dagen Maandag](https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ) | 2:46 |
+| 48 | [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 |
+| 49 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
 | 50 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
 
 Snapshot ID: `AAAAAEtbcMSAuD2s+OnbQjgrHEoQ5GP+`

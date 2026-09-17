@@ -4,7 +4,7 @@
 
 > 
 
-584 songs - 1 day 13 hr 31 min
+585 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Girls \- Acid Version](https://open.spotify.com/track/1kxXGSK3hMDIXIm15IilG9) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Sad Girl \(Remixes\)](https://open.spotify.com/album/47hbJg1eOZejMNF5jcJqsP) | 5:26 | 2025-02-24 | 2025-09-18 |
 | [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 | 2025-02-06 | 2025-02-22 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
+| [Give Me Some More](https://open.spotify.com/track/1ajfFcWgOnVpPLfg6S8gTt) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give Me Some More](https://open.spotify.com/album/6sXCIzPdC0mtqmtvVTVl2T) | 5:38 | 2026-09-16 |  |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
 | [Gnawa](https://open.spotify.com/track/7BXa6HC5lF5HsZsWvOfTll) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Prophet and The Madman](https://open.spotify.com/album/15qVqwTKsJtJ0dsES8TXof) | 7:15 | 2025-08-22 | 2025-09-18 |
 | [GO](https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [GO](https://open.spotify.com/album/66AezudlxGDS69F7J7Vjvx) | 3:06 | 2026-06-23 | 2026-08-19 |

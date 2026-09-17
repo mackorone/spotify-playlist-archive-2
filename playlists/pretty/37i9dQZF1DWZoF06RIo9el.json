@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: Nsqk",
-  "num_followers": 1542388,
+  "num_followers": 1542257,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
-        "name": "TRX",
-        "url": "https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "TRX",
-      "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
         "name": "Contacto Cero",
         "url": "https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 169859,
       "name": "Contacto Cero",
       "url": "https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
+        "name": "TRX",
+        "url": "https://open.spotify.com/album/4TnfSIL4I2LqVikUEFbhdO"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "TRX",
+      "url": "https://open.spotify.com/track/26vQruwWC4spXD4rZl3ipC"
     },
     {
       "added_at": "2026-09-04 04:01:56",

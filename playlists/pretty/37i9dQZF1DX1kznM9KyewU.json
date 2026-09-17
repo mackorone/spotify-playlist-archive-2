@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 130803,
+  "num_followers": 130824,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 256333,
       "name": "Machinehead - Remastered 2014",
       "url": "https://open.spotify.com/track/1wrhhPzd2ncJPNgUcGgBGg"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 206579,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 208293,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 206579,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 289560,
       "name": "Nookie",
       "url": "https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/1VA38sp5Jr6vWxgoIcnxKN"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG"
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Adore (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7FI91iB3E4iXZV5hCEEhlc"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Ava Adore",
-      "url": "https://open.spotify.com/track/16YybWFlwLIqnkkjrw1GHZ"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj"
     }
   ],
   "unique_name": "90s Summer Rock",

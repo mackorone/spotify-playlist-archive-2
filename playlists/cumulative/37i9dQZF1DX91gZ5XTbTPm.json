@@ -31053,6 +31053,32 @@
     },
     {
       "album": {
+        "name": "Triple 3",
+        "url": "https://open.spotify.com/album/1HAU7go9KGUTayWeNd1UYT"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Lil Scoom89",
+          "url": "https://open.spotify.com/artist/5p56M9Zj9oNwDEEjGWWJ2T"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147081,
+      "name": "Triple 3",
+      "url": "https://open.spotify.com/track/3WkaDq5sVRXXWJLm7l8FgE"
+    },
+    {
+      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/4Y9ftBL8GukasD8YHENblu"
       },

@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 208211,
+  "num_followers": 208261,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 177791,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -331,18 +327,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+      "duration_ms": 177791,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "Hombre Afortunado",
         "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -623,22 +639,6 @@
       "duration_ms": 189466,
       "name": "Mi Buena Suerte",
       "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "La Coleccion Del Siglo - Federico Villa",
+        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "La Coleccion Del Siglo - Federico Villa",
-        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Millas Y Millas",
         "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196266,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Tipico Clasico / Yo S\u00e9 Que Te Acordar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/6qgcPCvBpQtvXxXB76mNqG"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 146693,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
+      "duration_ms": 487978,
+      "name": "Tipico Clasico / Yo S\u00e9 Que Te Acordar\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0MYd5kPeOQKmrxzGYEyrlX"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1603,22 +1607,34 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Tipico Clasico / Yo S\u00e9 Que Te Acordar\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/6qgcPCvBpQtvXxXB76mNqG"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 487978,
-      "name": "Tipico Clasico / Yo S\u00e9 Que Te Acordar\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0MYd5kPeOQKmrxzGYEyrlX"
+      "duration_ms": 146693,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 189776,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "Y \u00c1ndale",
-      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
         "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Gerardo Reyes",
-        "url": "https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Bohemio de Afici\u00f3n",
-      "url": "https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Serie Coleccion 15 Autenticos Exitos",
         "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 174426,
       "name": "En Mi Viejo San Juan",
       "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Gerardo Reyes",
+        "url": "https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 165506,
       "name": "\u00a1Qu\u00e9 Va!",
       "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Miro Al Cielo",
-        "url": "https://open.spotify.com/album/7ftkH3sMO9gYvpWNlwXoQf"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        }
-      ],
-      "duration_ms": 234489,
-      "name": "Miro Al Cielo",
-      "url": "https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Pudimos Ser",
         "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 189920,
       "name": "Pudimos Ser",
       "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Miro Al Cielo",
+        "url": "https://open.spotify.com/album/7ftkH3sMO9gYvpWNlwXoQf"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "duration_ms": 234489,
+      "name": "Miro Al Cielo",
+      "url": "https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq"
     },
     {
       "added_at": "2024-10-23 17:24:42",

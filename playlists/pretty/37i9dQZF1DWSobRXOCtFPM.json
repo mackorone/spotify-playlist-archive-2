@@ -1,15 +1,15 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 150098,
+  "num_followers": 150096,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmzYbxe1mF6TJ2ks/5piJQkCgto",
+  "snapshot_id": "AAAAABR7TYUQ3ir9UOfRfq4fB10rUy5m",
   "tracks": [
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Legacy (Carl Cox Remix)",
         "url": "https://open.spotify.com/album/1jgvW0X6BjMksP2FuUhUFc"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/069cmHPXe69lxCo318s6ni"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Burn Tonight",
         "url": "https://open.spotify.com/album/71LmEhiOz3TpmiJ1O34v31"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7rET0ECdQK6UVbrFMDvHxv"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/3QrNx4hLFV5cS4SumNsrCA"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/18FNU0a23h26PZ7daIyuGx"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Futurama",
         "url": "https://open.spotify.com/album/5ZD16W0hbWhN5M7oMmohCp"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/31P58Sk8gl8jmmjohUBWQF"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
+      "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/4NzxxnEpt0tyFdIbAXUKn1"
+      },
+      "artists": [
+        {
+          "name": "KENZ",
+          "url": "https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1cuX7zjpg5aLUfA7UhLhZN"
+    },
+    {
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud (Carl Cox Techno Mix)",
         "url": "https://open.spotify.com/album/18li5VPD9GwAZDLul1YJas"
@@ -113,195 +129,23 @@
       "url": "https://open.spotify.com/track/3hV1r5GEeT6L3zgPNXBkAi"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Riot",
-        "url": "https://open.spotify.com/album/6fUPQPw5KsWh0iM5oyUg2r"
+        "name": "Talking To You",
+        "url": "https://open.spotify.com/album/6vx2K5yI2MDlfnKHZ4lh7u"
       },
       "artists": [
         {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        },
-        {
-          "name": "KIAH",
-          "url": "https://open.spotify.com/artist/2NH7JzpLlRig8LJyjQWkyj"
+          "name": "Jewel Kid",
+          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
         }
       ],
-      "duration_ms": 238222,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/6xz6Wz7GyVbPTyz4Sxdnou"
+      "duration_ms": 196030,
+      "name": "Talking To You",
+      "url": "https://open.spotify.com/track/3e7IOb9MBr8PfV1KU5LQ9K"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "A Little Life",
-        "url": "https://open.spotify.com/album/6xW6F51FnnMSHONxw70BEY"
-      },
-      "artists": [
-        {
-          "name": "Michele Conte",
-          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
-        }
-      ],
-      "duration_ms": 282580,
-      "name": "A Little Life",
-      "url": "https://open.spotify.com/track/3Szp1Gbe5PH2PS26Qkr7ni"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Rebel in the Morning",
-        "url": "https://open.spotify.com/album/2JTDgHjxyeEtYWIpFqa2Ig"
-      },
-      "artists": [
-        {
-          "name": "Eric Powell",
-          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
-        },
-        {
-          "name": "Jake Childs",
-          "url": "https://open.spotify.com/artist/7bPxCkG6dTO2FUSrHy5Tm3"
-        },
-        {
-          "name": "Joe Roberts",
-          "url": "https://open.spotify.com/artist/1bZ6A5GwXSCqs4dES87glX"
-        },
-        {
-          "name": "Papa Michigan",
-          "url": "https://open.spotify.com/artist/7susReFcK5MW1MnGlCKvCe"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Rebel in the Morning - Jake Child's Deepah Edit",
-      "url": "https://open.spotify.com/track/5thlnPc4FTSa3ZrdyTrXMa"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Probe Your Mind",
-        "url": "https://open.spotify.com/album/5vp77RZ0R6SwRMTCFd7rqg"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        },
-        {
-          "name": "Tony Morris",
-          "url": "https://open.spotify.com/artist/6P00k1dNhaEj1TtCetLAyE"
-        }
-      ],
-      "duration_ms": 214138,
-      "name": "Probe Your Mind - Wink's mind radio edit",
-      "url": "https://open.spotify.com/track/2tdB1DVQFAUuzuACrZWIx8"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Joya (Remixes)",
-        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
-        },
-        {
-          "name": "Collective States",
-          "url": "https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa"
-        }
-      ],
-      "duration_ms": 482216,
-      "name": "Joya - Collective States Remix",
-      "url": "https://open.spotify.com/track/6wVRMPPXVt9JWYGMYzgCEK"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Turn Around (Edit)",
-        "url": "https://open.spotify.com/album/0RJyxD2DiZMcQ0d8OdkRBT"
-      },
-      "artists": [
-        {
-          "name": "VICTORIA WHYNOT",
-          "url": "https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1"
-        },
-        {
-          "name": "Michele Conte",
-          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Turn Around - Edit",
-      "url": "https://open.spotify.com/track/3GyZiqQhg5Xyx3BnUmYMCw"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Joya (Remixes)",
-        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 283777,
-      "name": "Joya - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "A Little Life",
-        "url": "https://open.spotify.com/album/6xW6F51FnnMSHONxw70BEY"
-      },
-      "artists": [
-        {
-          "name": "Michele Conte",
-          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
-        }
-      ],
-      "duration_ms": 329032,
-      "name": "Bay Baby",
-      "url": "https://open.spotify.com/track/3LoFfJc8gswCBKLvXzpyPj"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/6Xh57LDSahHSgdaU5Xmt99"
-      },
-      "artists": [
-        {
-          "name": "Uncertain",
-          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
-        }
-      ],
-      "duration_ms": 302981,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/07wu4LcGkNroBLWC0anEc2"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/5x1HujeSgTikExjHqf27xJ"
@@ -317,7 +161,7 @@
       "url": "https://open.spotify.com/track/2W8WB0WW0Jif7NUUjlFwzC"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Joya (Remixes)",
         "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
@@ -341,67 +185,23 @@
       "url": "https://open.spotify.com/track/319uNyq0znC1vL1VQoYnHd"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/5x1HujeSgTikExjHqf27xJ"
+        "name": "Steel Drum",
+        "url": "https://open.spotify.com/album/7IfvPYfV65MiwYXQUKfOUk"
       },
       "artists": [
         {
-          "name": "DJ Jock",
-          "url": "https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL"
+          "name": "Tony Cortez",
+          "url": "https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s"
         }
       ],
-      "duration_ms": 397640,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/2seRQFLd3FhiLMUO8wLSaW"
+      "duration_ms": 173280,
+      "name": "Steel Drum",
+      "url": "https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Holds The Sky (Sebastian Mullaert rework)",
-        "url": "https://open.spotify.com/album/3kv6cEomWrN0ONAS0BjG7M"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mullaert",
-          "url": "https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv"
-        },
-        {
-          "name": "Tamarma",
-          "url": "https://open.spotify.com/artist/0CcQCSk6CpO4xkHLrQqZXX"
-        }
-      ],
-      "duration_ms": 467326,
-      "name": "Holds the Sky - Sebastian Mullaert rework",
-      "url": "https://open.spotify.com/track/0Yg74757lje3sxNLjssxaO"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Joya (Remixes)",
-        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
-        },
-        {
-          "name": "Curses",
-          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
-        }
-      ],
-      "duration_ms": 456253,
-      "name": "Joya - Curses Remix",
-      "url": "https://open.spotify.com/track/14VGHZArrmyesxm4thZdkq"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
         "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
@@ -421,63 +221,23 @@
       "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/6Xh57LDSahHSgdaU5Xmt99"
+        "name": "Somethin' Nasty EP",
+        "url": "https://open.spotify.com/album/0ZuYGyumTL8CHCPW5Y4UTi"
       },
       "artists": [
         {
-          "name": "Uncertain",
-          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+          "name": "Paperkraft",
+          "url": "https://open.spotify.com/artist/6nQLVEY4Ur1wGHWzrIvyxF"
         }
       ],
-      "duration_ms": 289436,
-      "name": "Increase",
-      "url": "https://open.spotify.com/track/48BEn1q8CgqSA9rNZrWbw3"
+      "duration_ms": 417096,
+      "name": "Drop The O.S.B.",
+      "url": "https://open.spotify.com/track/0f2awIrx2xgR3A0VwnUgPE"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Joya (Remixes)",
-        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 411013,
-      "name": "Joya - Christopher Coe Remix",
-      "url": "https://open.spotify.com/track/6DqH3Tcqvd6rKSgDPtBTz4"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Bearhugg",
-        "url": "https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2"
-      },
-      "artists": [
-        {
-          "name": "Eric Powell",
-          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
-        }
-      ],
-      "duration_ms": 341185,
-      "name": "Bearhugg",
-      "url": "https://open.spotify.com/track/5tAwbTMK5Aadm9DFY6USdQ"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
         "name": "Joya (Remixes)",
         "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
@@ -497,224 +257,156 @@
       "url": "https://open.spotify.com/track/4ma0W7M6P0vozkLrLqby4M"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Probe Your Mind",
-        "url": "https://open.spotify.com/album/5vp77RZ0R6SwRMTCFd7rqg"
+        "name": "Work",
+        "url": "https://open.spotify.com/album/2C0HjOrLU30mXHQh6Ag8Jv"
       },
       "artists": [
         {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        },
-        {
-          "name": "Tony Morris",
-          "url": "https://open.spotify.com/artist/6P00k1dNhaEj1TtCetLAyE"
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
         }
       ],
-      "duration_ms": 211977,
-      "name": "Probe Your Mind - Coe's Mind radio edit",
-      "url": "https://open.spotify.com/track/6muvI0yuuVbtWz2CkD3J3y"
+      "duration_ms": 191500,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/2kRMyG4XXyoX31VpuDaKiy"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Ice (Marc Romboy & Robert Babicz Remix)",
-        "url": "https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm"
+        "name": "Ay Querico EP",
+        "url": "https://open.spotify.com/album/5HbHPaAloDwSBJtCB6mFkt"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
         }
       ],
-      "duration_ms": 367095,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/5dh5BPYJuKGSNZQ8tJQwMP"
+      "duration_ms": 221312,
+      "name": "What Now - Radio Mix",
+      "url": "https://open.spotify.com/track/3KcNOurIrZIqpX30tT0zHf"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Joya (Remixes)",
-        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+        "name": "Can\u2019t Stop",
+        "url": "https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
         }
       ],
-      "duration_ms": 540151,
-      "name": "Joya",
-      "url": "https://open.spotify.com/track/15byU5UkyWfAmZLVb3PHu1"
+      "duration_ms": 219212,
+      "name": "Can\u2019t Stop",
+      "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/3wXhsibdTscUSOZg77IR2t"
+        "name": "Too Late (Six Days of Madness)",
+        "url": "https://open.spotify.com/album/7yrbKckk5EGBZbSw4dhuqw"
       },
       "artists": [
         {
-          "name": "Uncertain",
-          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+          "name": "Blake.08",
+          "url": "https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U"
+        },
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
         }
       ],
-      "duration_ms": 300440,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/48FHskTGXKi5euMGHYq3CT"
+      "duration_ms": 189677,
+      "name": "Too Late (Six Days of Madness) - Eric Powell Mix Edit",
+      "url": "https://open.spotify.com/track/3xry697cuI5EbPLN9PBBih"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "No Boundaries",
-        "url": "https://open.spotify.com/album/4VBbdwPSfqhBgsuvcLoHD5"
+        "name": "Ex Machina",
+        "url": "https://open.spotify.com/album/7wWXfmtiHOLt5vjIJQrsmv"
       },
       "artists": [
         {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
         },
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
         }
       ],
-      "duration_ms": 313634,
-      "name": "No Boundaries",
-      "url": "https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK"
+      "duration_ms": 193548,
+      "name": "Ex Machina",
+      "url": "https://open.spotify.com/track/5djLUt3zRG1sYC3MqiQJLw"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/7FObTaQiaPaAS5w2ioYyPD"
+        "name": "Big Saldo's Chunker 002",
+        "url": "https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH"
       },
       "artists": [
         {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
-        },
-        {
-          "name": "Pianoalani",
-          "url": "https://open.spotify.com/artist/0hGWwi26siJSLSzUq1n011"
+          "name": "Sally C",
+          "url": "https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8"
         }
       ],
-      "duration_ms": 363636,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/4MshOexDDxmT0VZTpvivac"
+      "duration_ms": 322009,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/77LNyJjmC5SSBCtzT9Biou"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Shake The Nation",
-        "url": "https://open.spotify.com/album/20zW7tBycTKoY58oQAFPZ9"
+        "name": "Boca Linda",
+        "url": "https://open.spotify.com/album/4Y6O0z9aqQw2TiGAlaWZMi"
       },
       "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Hyperloop",
-          "url": "https://open.spotify.com/artist/34VllgUG0XUn6gwIZcuGtk"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Shake The Nation",
-      "url": "https://open.spotify.com/track/2sfKtzdVmXz3FmfJZl3lPt"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Road Runner",
-        "url": "https://open.spotify.com/album/4TdRYdW5JbDBuBQzBLtoEI"
-      },
-      "artists": [
-        {
-          "name": "Loco Dice",
-          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Road Runner",
-      "url": "https://open.spotify.com/track/3jRF15pliXwl1WN7GaEuRC"
-    },
-    {
-      "added_at": "2026-09-04 08:09:47",
-      "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar"
-      },
-      "artists": [
-        {
-          "name": "Carlo Lio",
-          "url": "https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z"
-        },
         {
           "name": "M.I.T.A.",
           "url": "https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo"
         }
       ],
-      "duration_ms": 378857,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs"
+      "duration_ms": 260281,
+      "name": "Boca Linda",
+      "url": "https://open.spotify.com/track/211cWjDcDvCoadZfvTwF0c"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "Wildcat",
-        "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
+        "name": "Love Rave",
+        "url": "https://open.spotify.com/album/6CVXCgJYaTNqPguu55IMge"
       },
       "artists": [
         {
-          "name": "Jon Rundell",
-          "url": "https://open.spotify.com/artist/5R3JcY1fbHrWgWKxIz9hsG"
+          "name": "Marck D",
+          "url": "https://open.spotify.com/artist/41CzEzM7ifCfom2dHqm2n5"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002"
+      "duration_ms": 310985,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6Kej1UX7cX8Nxzv4sh9DVN"
     },
     {
-      "added_at": "2026-09-04 08:09:47",
+      "added_at": "2026-09-16 13:59:40",
       "album": {
-        "name": "OVERBRIDGE",
-        "url": "https://open.spotify.com/album/21GgjAerSt7CPBEhc7gftC"
+        "name": "The Bells",
+        "url": "https://open.spotify.com/album/2jAj35hNgG0G4zIWqdrlED"
       },
       "artists": [
         {
-          "name": "Kink",
-          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
-        },
-        {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/1TqcTSown8g3Txdq3zNazR"
         }
       ],
-      "duration_ms": 276433,
-      "name": "Overbridge",
-      "url": "https://open.spotify.com/track/1hdkW65MCCEBpMbNsv3PZH"
+      "duration_ms": 289181,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/3hvBwTnQFcTvDvcabMw985"
     }
   ],
   "unique_name": "Carl Cox' track IDs",

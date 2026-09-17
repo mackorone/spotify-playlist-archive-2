@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,810 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,814 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 |
 | 50 | [Случайно Наступил На Шприц](https://open.spotify.com/track/1NBqydK4SvBO8FoIbwAM22) | [VILLIAN](https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L) | [Случайно Наступил На Шприц](https://open.spotify.com/album/0Y6M8w4VMwXSBN5YpgPTXZ) | 1:34 |
 
-Snapshot ID: `Mjy7qAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mj4PgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

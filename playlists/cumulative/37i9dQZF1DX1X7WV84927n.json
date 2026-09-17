@@ -11823,7 +11823,7 @@
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189411,
+      "duration_ms": 189875,
       "name": "GOING UNDER (with Paledusk)",
       "url": "https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6"
     },
@@ -23446,7 +23446,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 295444,
       "name": "Pure Leaf",
       "url": "https://open.spotify.com/track/0vfvc3X2xjHDMMbjbWQnqo"
@@ -29682,6 +29682,24 @@
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
+    },
+    {
+      "album": {
+        "name": "The Lost Kids",
+        "url": "https://open.spotify.com/album/40LOeYufzMBkJP5K8eRKYg"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253528,
+      "name": "The Lost Kids",
+      "url": "https://open.spotify.com/track/2y74jukzD8BysvzZ0zDHQA"
     },
     {
       "album": {

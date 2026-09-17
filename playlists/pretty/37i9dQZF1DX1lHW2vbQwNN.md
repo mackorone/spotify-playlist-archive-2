@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Cam'ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,152 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,274 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 96 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
 | 97 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
 | 98 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |
-| 99 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
-| 100 | [Good Times](https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 3:31 |
+| 99 | [Good Times](https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 3:31 |
+| 100 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
 
 Snapshot ID: `AAAAANyMp0KmztzliF+vv3M/K6gxQbn9`

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 353058,
+  "num_followers": 353047,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f"
-      },
-      "artists": [
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
-        }
-      ],
-      "duration_ms": 230679,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan (Edi\u00e7\u00e3o Especial de 50 Anos) [Remasterizada 2026]",
         "url": "https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 182492,
       "name": "Muito Obrigado - Remasterizada 2026",
       "url": "https://open.spotify.com/track/6Jil9YCclgCfj8pOmU5LVl"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f"
+      },
+      "artists": [
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Cors\u00e1rio",
-        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 256048,
-      "name": "Cors\u00e1rio",
-      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 259406,
       "name": "Quando Chego",
       "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "Cors\u00e1rio",
+        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 256048,
+      "name": "Cors\u00e1rio",
+      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Perfei\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Perfei\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "Dr\u00e3o",
         "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
       },
@@ -363,6 +343,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Perfei\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
         "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
       },
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "1\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 228314,
-      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+      "duration_ms": 249856,
+      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -419,18 +415,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
+        "name": "1\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
         }
       ],
-      "duration_ms": 249856,
-      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
+      "duration_ms": 228314,
+      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Reconstruir / Mancha de Dend\u00ea",
+        "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Mancha de Dend\u00ea",
+      "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Estrela Do Meu Show",
         "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 246835,
       "name": "Estrela Do Meu Show",
       "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Reconstruir / Mancha de Dend\u00ea",
-        "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Mancha de Dend\u00ea",
-      "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Pureza Selvagem",
+        "url": "https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww"
+      },
+      "artists": [
+        {
+          "name": "Sofia Pitta",
+          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
+        }
+      ],
+      "duration_ms": 188714,
+      "name": "Me Devora",
+      "url": "https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 276459,
       "name": "River Man",
       "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Pureza Selvagem",
-        "url": "https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww"
-      },
-      "artists": [
-        {
-          "name": "Sofia Pitta",
-          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
-        }
-      ],
-      "duration_ms": 188714,
-      "name": "Me Devora",
-      "url": "https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Vende-se Lembran\u00e7a",
+        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tanto Voc\u00ea",
+      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Flor de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Vende-se Lembran\u00e7a",
-        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tanto Voc\u00ea",
-      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "Desculpe o Au\u00ea",
         "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
       },
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -863,26 +843,6 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Nua Ideia",
-        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "Nua Ideia",
-      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -919,6 +879,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Nua Ideia",
+        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "Nua Ideia",
+      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Inofensiva Flor (Primeiro Ato)",
         "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 179029,
       "name": "N\u00e3o Sento \u00e0 Mesa",
       "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+        "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
+        },
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194281,
+      "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+      "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Alberto Continentino",
+          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Pontes no Ar",
+      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Emori\u00f4",
         "url": "https://open.spotify.com/album/0vnpHPEVt9eNrr6ZxarQC8"
       },
@@ -979,22 +999,18 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
-        "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
+        "name": "Inofensiva Flor",
+        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
       },
       "artists": [
         {
-          "name": "Arnaldo Baptista",
-          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
-        },
-        {
-          "name": "Sandra S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
         }
       ],
-      "duration_ms": 194281,
-      "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
-      "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
+      "duration_ms": 158731,
+      "name": "Fera Domesticada",
+      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1023,38 +1039,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "Inofensiva Flor",
-        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
+        "name": "A paz que desejamos",
+        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
       "artists": [
         {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 158731,
-      "name": "Fera Domesticada",
-      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Renato Motha",
+          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
         },
         {
-          "name": "Alberto Continentino",
-          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
+          "name": "Patricia Lobato",
+          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Pontes no Ar",
-      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
+      "duration_ms": 191232,
+      "name": "A paz que desejamos",
+      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1079,22 +1079,38 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
-        "name": "A paz que desejamos",
-        "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Renato Motha",
-          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
-        },
-        {
-          "name": "Patricia Lobato",
-          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 191232,
-      "name": "A paz que desejamos",
-      "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1115,22 +1131,6 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "Sembal",
         "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-09-04 03:00:52",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-09-04 03:00:52",
       "album": {
+        "name": "Tum Tum Tum",
+        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 250156,
+      "name": "Tudo Que Se Tem",
+      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
+    },
+    {
+      "added_at": "2026-09-04 03:00:52",
+      "album": {
         "name": "VAMO COM CALMA, MALANDRA",
         "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
-    },
-    {
-      "added_at": "2026-09-04 03:00:52",
-      "album": {
-        "name": "Tum Tum Tum",
-        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
-      },
-      "artists": [
-        {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
-        }
-      ],
-      "duration_ms": 250156,
-      "name": "Tudo Que Se Tem",
-      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
     },
     {
       "added_at": "2026-09-04 03:00:52",

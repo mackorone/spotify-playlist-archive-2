@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, GONE and more
+> With GONE, After Cooking, winterburn and more
 
 334 songs - 1 day 1 hr 39 min
 

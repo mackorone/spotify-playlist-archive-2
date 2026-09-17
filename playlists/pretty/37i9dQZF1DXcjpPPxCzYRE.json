@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 445738,
+  "num_followers": 445796,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
         "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -991,22 +991,18 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
         }
       ],
-      "duration_ms": 336330,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
       "artists": [
         {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+      "duration_ms": 336330,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "B\u00c9SAME",
-        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "B\u00c9SAME",
+        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "El silencio de las 4",
-        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "El silencio de las 4",
-      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "El silencio de las 4",
+        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "El silencio de las 4",
+      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "pop blandito",
-        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "desayunarte",
-      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Cat Fun",
-        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Cat Fun",
-      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Te perd\u00ed",
         "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Cat Fun",
+        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 208700,
+      "name": "Cat Fun",
+      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Algo F\u00edsico",
         "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
+        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
+        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
+      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
         "name": "El Sitio de Mi Recreo",
         "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
-        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
-        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
-      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
     },
     {
       "added_at": "2026-09-04 15:20:08",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-09-04 15:20:08",
       "album": {
-        "name": "Dollhouse",
-        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
-      },
-      "artists": [
-        {
-          "name": "Xenia",
-          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "No volver\u00e1n",
-      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
-    },
-    {
-      "added_at": "2026-09-04 15:20:08",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 246600,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
+    },
+    {
+      "added_at": "2026-09-04 15:20:08",
+      "album": {
+        "name": "Dollhouse",
+        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "No volver\u00e1n",
+      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
     }
   ],
   "unique_name": "Relax en casa",

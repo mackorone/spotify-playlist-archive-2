@@ -1,6 +1,6 @@
 {
   "description": "Kings Of Leon en portada.",
-  "num_followers": 679341,
+  "num_followers": 679281,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,22 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
         }
       ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-09-11 06:00:11",
@@ -399,6 +403,22 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:11",
+      "album": {
         "name": "Ugly things",
         "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 209924,
       "name": "Ugly things",
       "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-09-11 06:00:11",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-09-11 06:00:11",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
-    },
-    {
-      "added_at": "2026-09-11 06:00:11",
-      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 198386,
       "name": "Love Takes Miles",
       "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:11",
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-09-11 06:00:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
+    {
+      "added_at": "2026-09-11 06:00:11",
+      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
-    },
-    {
-      "added_at": "2026-09-11 06:00:11",
-      "album": {
-        "name": "Don't Feel Right",
-        "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Don't Feel Right",
-      "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
     },
     {
       "added_at": "2026-09-11 06:00:11",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "added_at": "2026-09-11 06:00:11",
+      "album": {
         "name": "new avatar",
         "url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/1PpODh3GDSFoG7EGOekVu2"
-    },
-    {
-      "added_at": "2026-09-11 06:00:11",
-      "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "The Feminine Urge",
-      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
       "added_at": "2026-09-11 06:00:11",

@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 307771,
+  "num_followers": 307867,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -831,24 +831,8 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Chingo de Cheve",
-      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "KOMP 104.9 Radio Compa (International Version)",
-        "url": "https://open.spotify.com/album/6xwo7OlLx9OqM5CAlDaYpT"
+        "name": "6 Super Hits",
+        "url": "https://open.spotify.com/album/222IMQqYvwp09Wb6TagVyD"
       },
       "artists": [
         {
@@ -856,25 +840,9 @@
           "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
         }
       ],
-      "duration_ms": 258573,
-      "name": "Como, Cuando y Donde",
-      "url": "https://open.spotify.com/track/0nDMe9fzaxuzGUfwnFgeWT"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
+      "duration_ms": 244786,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/4rki6Tca7N0DwsUh8tQcXn"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -895,6 +863,38 @@
       "duration_ms": 273176,
       "name": "Solo Como Amigos",
       "url": "https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

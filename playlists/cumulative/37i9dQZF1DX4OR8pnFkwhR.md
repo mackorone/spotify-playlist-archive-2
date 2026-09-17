@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: LAUSBUB
 
-2,433 songs - 6 day 3 hr 54 min
+2,434 songs - 6 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2440,6 +2440,7 @@
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:54 | 2023-10-03 | 2023-11-16 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-02-14 | 2023-04-26 |
 | [黎明 \- Reimei](https://open.spotify.com/track/6e4jDUPLl1lOitg7Tbki21) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [黎明 \- Reimei](https://open.spotify.com/album/5dhAlUFlEvRvS3t2RDYkdg) | 4:14 | 2026-05-09 | 2026-08-26 |
+| [龍の国](https://open.spotify.com/track/71OrP4C8KrSw6K6ujlNpN1) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [風神通り](https://open.spotify.com/album/1KlbSOSMiMo8RLadYbRbdR) | 3:23 | 2026-09-16 |  |
 | [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 | 2025-06-03 | 2025-08-07 |
 
 \*This playlist was first scraped on 2022-02-21. Prior content cannot be recovered.

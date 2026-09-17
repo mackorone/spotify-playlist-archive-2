@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sam Vishal",
-  "num_followers": 21265,
+  "num_followers": 21281,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAESBDq0XZA286qGLDR62oOFHge85",
+  "snapshot_id": "AAAAABMENnSY80tBrK08GX1IpR4QjkXC",
   "tracks": [
     {
       "added_at": "2026-09-02 15:26:39",
@@ -167,6 +167,34 @@
       "duration_ms": 174000,
       "name": "Bodha Kannadi",
       "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
+    },
+    {
+      "added_at": "2026-09-16 12:48:14",
+      "album": {
+        "name": "Mudhal Kaadhal Mazhaiye",
+        "url": "https://open.spotify.com/album/5K2YFPa2V51LIIVWDzYifc"
+      },
+      "artists": [
+        {
+          "name": "G Thalapathi",
+          "url": "https://open.spotify.com/artist/0mssf2fKUwn7tjLESTWKnF"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Kavitha Ilango",
+          "url": "https://open.spotify.com/artist/56reW50O7uh6zGI436aD1u"
+        },
+        {
+          "name": "Vignesh N Saamraj",
+          "url": "https://open.spotify.com/artist/0eGMdMe4XzHIRiX7m7G2TH"
+        }
+      ],
+      "duration_ms": 253272,
+      "name": "Mudhal Kaadhal Mazhaiye",
+      "url": "https://open.spotify.com/track/6YhxNJfx2PluibGhw8CND2"
     },
     {
       "added_at": "2026-07-31 10:52:19",
@@ -1939,30 +1967,6 @@
       "duration_ms": 147428,
       "name": "Kaadhal Oonjal",
       "url": "https://open.spotify.com/track/6HAHxE7PdIEk52Ra9ZuIFw"
-    },
-    {
-      "added_at": "2026-03-26 06:36:16",
-      "album": {
-        "name": "Senthaamarai",
-        "url": "https://open.spotify.com/album/5eMwZ5D4PFWyy48q1pDnqM"
-      },
-      "artists": [
-        {
-          "name": "Keerthan",
-          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
-        },
-        {
-          "name": "Nikhil mathew",
-          "url": "https://open.spotify.com/artist/75IXbZzUYShK1S4MKcnXbb"
-        },
-        {
-          "name": "Varsha Renjith",
-          "url": "https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Senthaamarai",
-      "url": "https://open.spotify.com/track/7zsvcAEcBiGaFafBeMXC0e"
     },
     {
       "added_at": "2026-04-17 06:30:06",

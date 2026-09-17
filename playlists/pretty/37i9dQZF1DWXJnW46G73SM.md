@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: يوليو
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,531 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 2 | [Mshkltek](https://open.spotify.com/track/1m44hI351WftUpVmiHMWVA) | [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Fuego Loco](https://open.spotify.com/album/7k7vwK5TtVeHMHxRacfjGn) | 3:07 |
 | 3 | [3ayzani A2ool Eh?](https://open.spotify.com/track/1CBu8gIelrPj4qVcL6xQc9) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [3ayzani A2ool Eh?](https://open.spotify.com/album/5O49QJ9WOK8RHnw3Xu6MCb) | 2:00 |
 | 4 | [EL BADLA WEL FOSTAN](https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [EL BADLA WEL FOSTAN](https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO) | 2:55 |
-| 5 | [FAKERNY](https://open.spotify.com/track/0QGx7WPsU2VvZ4WQOo4e4Z) | [Abdullah Aley](https://open.spotify.com/artist/3HQOgLwtrDCeY7OAnfsI2Y), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [FAKERNY](https://open.spotify.com/album/71mmoNJJBO5MPJVgCxLTZ6) | 2:33 |
+| 5 | [FAKERNY](https://open.spotify.com/track/0QGx7WPsU2VvZ4WQOo4e4Z) | [Abdullah Aley](https://open.spotify.com/artist/3HQOgLwtrDCeY7OAnfsI2Y), [TOTTI](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [FAKERNY](https://open.spotify.com/album/71mmoNJJBO5MPJVgCxLTZ6) | 2:33 |
 | 6 | [Gawezohany Delwaaty!](https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Gawezohany Delwaaty!](https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx) | 3:04 |
 | 7 | [ALABA](https://open.spotify.com/track/5HeNGCqeSSrgoWcMNZ9lAu) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [CHALET 5](https://open.spotify.com/album/6FV7ydzlayTOfpg0PcnEus) | 3:04 |
 | 8 | [23 \(Sabe2 El Zaman\)](https://open.spotify.com/track/2YNsaVvqo4zItU1YLSRQGh) | [Nizar Saad](https://open.spotify.com/artist/30B7ZoA7c8BS1fM7xzlLc8) | [23 \(Sabe2 El Zaman\)](https://open.spotify.com/album/4I3mba9QxjE4bDSKBoR9ST) | 3:00 |

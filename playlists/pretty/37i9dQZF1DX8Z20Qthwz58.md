@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,451 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,460 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 99 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
 | 100 | [Choppy \(Prod\. BOYCOLD\)](https://open.spotify.com/track/4G8TWNnmtE3xuszp0esWLC) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Herr Nayne](https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse) | [TRAPART](https://open.spotify.com/album/3JNARFXD4YTlwAz01Oi0Zp) | 3:51 |
 
-Snapshot ID: `AAAAAIJ2cjRcgBokdmSVTKp0IhAeV70S`
+Snapshot ID: `AAAAAKB0K0wbvuiQoPLyfr7S/kbw9DFS`

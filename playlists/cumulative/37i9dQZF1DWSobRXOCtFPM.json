@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 282580,
       "name": "A Little Life",
       "url": "https://open.spotify.com/track/3Szp1Gbe5PH2PS26Qkr7ni"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 329032,
       "name": "Bay Baby",
       "url": "https://open.spotify.com/track/3LoFfJc8gswCBKLvXzpyPj"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 341185,
       "name": "Bearhugg",
       "url": "https://open.spotify.com/track/5tAwbTMK5Aadm9DFY6USdQ"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/4NzxxnEpt0tyFdIbAXUKn1"
+      },
+      "artists": [
+        {
+          "name": "KENZ",
+          "url": "https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1cuX7zjpg5aLUfA7UhLhZN"
+    },
+    {
+      "album": {
         "name": "Whack3rs, Vol. 1",
         "url": "https://open.spotify.com/album/49e67cqDNExpussSca11iB"
       },
@@ -1014,6 +1032,24 @@
       "duration_ms": 363750,
       "name": "Blend Me",
       "url": "https://open.spotify.com/track/4GaSitPSdv3DgLmT06Gat3"
+    },
+    {
+      "album": {
+        "name": "Boca Linda",
+        "url": "https://open.spotify.com/album/4Y6O0z9aqQw2TiGAlaWZMi"
+      },
+      "artists": [
+        {
+          "name": "M.I.T.A.",
+          "url": "https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260281,
+      "name": "Boca Linda",
+      "url": "https://open.spotify.com/track/211cWjDcDvCoadZfvTwF0c"
     },
     {
       "album": {
@@ -1173,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Stop",
+        "url": "https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Can\u2019t Stop",
+      "url": "https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY"
+    },
+    {
+      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar"
       },
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 378857,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs"
@@ -2055,6 +2109,42 @@
     },
     {
       "album": {
+        "name": "Big Saldo's Chunker 002",
+        "url": "https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH"
+      },
+      "artists": [
+        {
+          "name": "Sally C",
+          "url": "https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322009,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/77LNyJjmC5SSBCtzT9Biou"
+    },
+    {
+      "album": {
+        "name": "Somethin' Nasty EP",
+        "url": "https://open.spotify.com/album/0ZuYGyumTL8CHCPW5Y4UTi"
+      },
+      "artists": [
+        {
+          "name": "Paperkraft",
+          "url": "https://open.spotify.com/artist/6nQLVEY4Ur1wGHWzrIvyxF"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417096,
+      "name": "Drop The O.S.B.",
+      "url": "https://open.spotify.com/track/0f2awIrx2xgR3A0VwnUgPE"
+    },
+    {
+      "album": {
         "name": "Earth Ship EP",
         "url": "https://open.spotify.com/album/7C0oXRhPBNZPtThY8gvaLe"
       },
@@ -2378,6 +2468,28 @@
       "duration_ms": 194183,
       "name": "Everything Is Amazing - Edit",
       "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
+    },
+    {
+      "album": {
+        "name": "Ex Machina",
+        "url": "https://open.spotify.com/album/7wWXfmtiHOLt5vjIJQrsmv"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Ex Machina",
+      "url": "https://open.spotify.com/track/5djLUt3zRG1sYC3MqiQJLw"
     },
     {
       "album": {
@@ -2754,7 +2866,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 300440,
       "name": "Freak",
       "url": "https://open.spotify.com/track/48FHskTGXKi5euMGHYq3CT"
@@ -3488,7 +3600,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 467326,
       "name": "Holds the Sky - Sebastian Mullaert rework",
       "url": "https://open.spotify.com/track/0Yg74757lje3sxNLjssxaO"
@@ -3798,7 +3910,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 367095,
       "name": "Ice",
       "url": "https://open.spotify.com/track/5dh5BPYJuKGSNZQ8tJQwMP"
@@ -3926,7 +4038,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 289436,
       "name": "Increase",
       "url": "https://open.spotify.com/track/48BEn1q8CgqSA9rNZrWbw3"
@@ -4270,7 +4382,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 540151,
       "name": "Joya",
       "url": "https://open.spotify.com/track/15byU5UkyWfAmZLVb3PHu1"
@@ -4296,7 +4408,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 411013,
       "name": "Joya - Christopher Coe Remix",
       "url": "https://open.spotify.com/track/6DqH3Tcqvd6rKSgDPtBTz4"
@@ -4322,7 +4434,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 482216,
       "name": "Joya - Collective States Remix",
       "url": "https://open.spotify.com/track/6wVRMPPXVt9JWYGMYzgCEK"
@@ -4348,7 +4460,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 456253,
       "name": "Joya - Curses Remix",
       "url": "https://open.spotify.com/track/14VGHZArrmyesxm4thZdkq"
@@ -4444,7 +4556,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 283777,
       "name": "Joya - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
@@ -4582,7 +4694,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 363636,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/4MshOexDDxmT0VZTpvivac"
@@ -5191,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "Love Rave",
+        "url": "https://open.spotify.com/album/6CVXCgJYaTNqPguu55IMge"
+      },
+      "artists": [
+        {
+          "name": "Marck D",
+          "url": "https://open.spotify.com/artist/41CzEzM7ifCfom2dHqm2n5"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310985,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6Kej1UX7cX8Nxzv4sh9DVN"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },
@@ -5394,7 +5524,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 313634,
       "name": "No Boundaries",
       "url": "https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK"
@@ -5876,7 +6006,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 276433,
       "name": "Overbridge",
       "url": "https://open.spotify.com/track/1hdkW65MCCEBpMbNsv3PZH"
@@ -6410,7 +6540,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 211977,
       "name": "Probe Your Mind - Coe's Mind radio edit",
       "url": "https://open.spotify.com/track/6muvI0yuuVbtWz2CkD3J3y"
@@ -6436,7 +6566,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 214138,
       "name": "Probe Your Mind - Wink's mind radio edit",
       "url": "https://open.spotify.com/track/2tdB1DVQFAUuzuACrZWIx8"
@@ -6686,7 +6816,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 302981,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/07wu4LcGkNroBLWC0anEc2"
@@ -6782,7 +6912,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 246061,
       "name": "Rebel in the Morning - Jake Child's Deepah Edit",
       "url": "https://open.spotify.com/track/5thlnPc4FTSa3ZrdyTrXMa"
@@ -7004,7 +7134,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 238222,
       "name": "Riot",
       "url": "https://open.spotify.com/track/6xz6Wz7GyVbPTyz4Sxdnou"
@@ -7044,7 +7174,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 198426,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3jRF15pliXwl1WN7GaEuRC"
@@ -7418,7 +7548,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 202733,
       "name": "Shake The Nation",
       "url": "https://open.spotify.com/track/2sfKtzdVmXz3FmfJZl3lPt"
@@ -7957,6 +8087,24 @@
     },
     {
       "album": {
+        "name": "Steel Drum",
+        "url": "https://open.spotify.com/album/7IfvPYfV65MiwYXQUKfOUk"
+      },
+      "artists": [
+        {
+          "name": "Tony Cortez",
+          "url": "https://open.spotify.com/artist/0vJ1pIGHRduH7om9qJG73s"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Steel Drum",
+      "url": "https://open.spotify.com/track/2b5x072M9YaoZX3d4FNQjK"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/4X5z6xBe6a9rRYGJnvhpUt"
       },
@@ -8128,6 +8276,24 @@
       "duration_ms": 656962,
       "name": "Tales from The Real World",
       "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
+    },
+    {
+      "album": {
+        "name": "Talking To You",
+        "url": "https://open.spotify.com/album/6vx2K5yI2MDlfnKHZ4lh7u"
+      },
+      "artists": [
+        {
+          "name": "Jewel Kid",
+          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Talking To You",
+      "url": "https://open.spotify.com/track/3e7IOb9MBr8PfV1KU5LQ9K"
     },
     {
       "album": {
@@ -8310,6 +8476,24 @@
       "duration_ms": 346086,
       "name": "The Badman",
       "url": "https://open.spotify.com/track/4WZygtJvWrQnW1hwe70UKg"
+    },
+    {
+      "album": {
+        "name": "The Bells",
+        "url": "https://open.spotify.com/album/2jAj35hNgG0G4zIWqdrlED"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/1TqcTSown8g3Txdq3zNazR"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289181,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/3hvBwTnQFcTvDvcabMw985"
     },
     {
       "album": {
@@ -8613,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "Too Late (Six Days of Madness)",
+        "url": "https://open.spotify.com/album/7yrbKckk5EGBZbSw4dhuqw"
+      },
+      "artists": [
+        {
+          "name": "Blake.08",
+          "url": "https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U"
+        },
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Too Late (Six Days of Madness) - Eric Powell Mix Edit",
+      "url": "https://open.spotify.com/track/3xry697cuI5EbPLN9PBBih"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },
@@ -8740,7 +8946,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 397640,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/2seRQFLd3FhiLMUO8wLSaW"
@@ -8762,7 +8968,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 210967,
       "name": "Turn Around - Edit",
       "url": "https://open.spotify.com/track/3GyZiqQhg5Xyx3BnUmYMCw"
@@ -9058,7 +9264,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 373333,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002"
@@ -9193,6 +9399,24 @@
     },
     {
       "album": {
+        "name": "Ay Querico EP",
+        "url": "https://open.spotify.com/album/5HbHPaAloDwSBJtCB6mFkt"
+      },
+      "artists": [
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221312,
+      "name": "What Now - Radio Mix",
+      "url": "https://open.spotify.com/track/3KcNOurIrZIqpX30tT0zHf"
+    },
+    {
+      "album": {
         "name": "F\u00fcnfzig",
         "url": "https://open.spotify.com/album/3cQYAwFWWAZUsbw1vNzBJv"
       },
@@ -9284,6 +9508,24 @@
       "duration_ms": 316444,
       "name": "Wildcat",
       "url": "https://open.spotify.com/track/4IiuM8WGdKkSJgedY28RkU"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/2C0HjOrLU30mXHQh6Ag8Jv"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/2kRMyG4XXyoX31VpuDaKiy"
     },
     {
       "album": {

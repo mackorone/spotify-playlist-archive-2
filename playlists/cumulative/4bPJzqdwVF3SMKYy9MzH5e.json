@@ -5215,6 +5215,28 @@
     },
     {
       "album": {
+        "name": "Whorecore",
+        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Bind That Bitch",
+      "url": "https://open.spotify.com/track/3ebpXLD39hCZUHM5g9XczH"
+    },
+    {
+      "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
       },
@@ -8706,7 +8728,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {

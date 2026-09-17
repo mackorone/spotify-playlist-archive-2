@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: JEFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,523 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,459 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [diva](https://open.spotify.com/track/4uBPQy3fLP8t6XFRTMLmHT) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [diva](https://open.spotify.com/album/0Hj88oviMLCSBKju97NHkT) | 2:07 |
 | 2 | [SHAKE IT](https://open.spotify.com/track/1GGU3Pis8Cd5KVzWebtDho) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [SHAKE IT](https://open.spotify.com/album/1L1YCKt6jysl3B6GLLmp2L) | 2:09 |
-| 3 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
+| 3 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/5eOEIlx0jrGO3HPIqdnz0L) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
 | 4 | [karambol](https://open.spotify.com/track/3pPPDBOwb5F9drPF09wthF) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [karambol](https://open.spotify.com/album/2ZBjdhZrB9zpD5c9eABnQp) | 3:27 |
 | 5 | [FENA HEEEEEP](https://open.spotify.com/track/3hwFyzEodeE1bNkveibYPt) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [FENA HEEEEEP](https://open.spotify.com/album/0xZZxg9LwTLzmk3FGC4ynI) | 1:56 |
 | 6 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |

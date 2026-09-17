@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🦉🦉 Tech house operators, featuring Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,927 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,992 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel This Grip \(feat\. Baby Tate\)](https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feel This Grip \(feat\. Baby Tate\)](https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ) | 3:13 |
-| 2 | [So Good \(feat\. Kuuda\) \- Sapian Remix](https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\) \[Remixes\]](https://open.spotify.com/album/57YlHYZJTg89XwBMKNv6l7) | 3:05 |
+| 2 | [So Good \(feat\. Kuuda\) \- Sapian Remix](https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT), [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\) \[Remixes\]](https://open.spotify.com/album/57YlHYZJTg89XwBMKNv6l7) | 3:05 |
 | 3 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |
 | 4 | [There's A Party Goin' On](https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ) | [HARTY \(UK\)](https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag) | [There's A Party Goin' On](https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd) | 3:19 |
 | 5 | [Get Up And Dance](https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Get Up And Dance](https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr) | 2:35 |

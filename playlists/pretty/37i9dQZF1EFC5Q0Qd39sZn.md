@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,856 likes - 588 songs - 1 day 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,861 likes - 588 songs - 1 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,8 +286,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 276 | [If I Can't Have Your Love](https://open.spotify.com/track/0U2prZwiP37p7xF1ohH5sk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [100,000,000 Bon Jovi Fans Can't Be Wrong](https://open.spotify.com/album/3bYv3vaHxACS0O2fUbKSKk) | 4:14 |
 | 277 | [Breaking Out](https://open.spotify.com/track/0uLJIlGqtpEWhJ5xS7zSfO) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:44 |
 | 278 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
-| 279 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
-| 280 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
+| 279 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
+| 280 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
 | 281 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 282 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
 | 283 | [Silent Partners](https://open.spotify.com/track/1TVvf6Cvf3domSqZTgKQ3R) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:04 |
@@ -397,8 +397,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 387 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
 | 388 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
 | 389 | [Rain Song](https://open.spotify.com/track/3vvANCgxwW8W4AcBltmIWL) | [Air Traffic Controller](https://open.spotify.com/artist/2Oboq4Pq88TcC9eUn2HSW9) | [The One](https://open.spotify.com/album/6otLnUU2t5iyRLD08kbpCJ) | 5:41 |
-| 390 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
-| 391 | [Dime Como Vuelvo A Tener Tu Corazon](https://open.spotify.com/track/3Rg0FWbKLNjWiIEcJJZchU) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Eterno](https://open.spotify.com/album/6x2BA9N3GLT21K7q3DWi5c) | 3:50 |
+| 390 | [Dime Como Vuelvo A Tener Tu Corazon](https://open.spotify.com/track/3Rg0FWbKLNjWiIEcJJZchU) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Eterno](https://open.spotify.com/album/6x2BA9N3GLT21K7q3DWi5c) | 3:50 |
+| 391 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
 | 392 | [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/2ISatZqzqX4VzDvTtwzT3O) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/0AD2gqC2HMW3KVb63Huony) | 3:58 |
 | 393 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
 | 394 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
@@ -597,4 +597,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 587 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 588 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AccZ5gAAAABmTAi+Yyc/XjpJZdk0zdJr`
+Snapshot ID: `AccffAAAAABsTJdreyfH94PJW+9b7IsS`

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809591,
+  "num_followers": 809595,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -683,22 +683,18 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -719,18 +715,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Mostrando Os Dentes",
-        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Mizutani",
-          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
-        },
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Deixar",
-      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Mostrando Os Dentes",
+        "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        },
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Deixar",
+      "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Minha Felicidade",
         "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-08-07 02:23:08",

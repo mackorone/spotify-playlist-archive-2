@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,224 likes - 422 songs - 21 hr 44 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,226 likes - 422 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

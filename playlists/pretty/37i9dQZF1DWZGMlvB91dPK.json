@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4086,
+  "num_followers": 4087,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "INSURGENCIA",
-        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
-      },
-      "artists": [
-        {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "INSURGENCIA",
-      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Oxyballad",
         "url": "https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI"
       },
@@ -619,18 +603,34 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
+        "name": "INSURGENCIA",
+        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
       },
       "artists": [
         {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
         }
       ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
+      "duration_ms": 132600,
+      "name": "INSURGENCIA",
+      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
+      },
+      "artists": [
+        {
+          "name": "Blue Katrice",
+          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
       },
       "artists": [
         {
-          "name": "Blue Katrice",
-          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
         }
       ],
-      "duration_ms": 212618,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
     },
     {
       "added_at": "2025-11-20 17:00:08",

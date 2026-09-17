@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 312924,
+  "num_followers": 313004,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 214400,
       "name": "Mi Rechazo",
       "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
     },
     {
       "added_at": "2026-07-16 23:50:42",

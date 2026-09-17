@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: OutStation
 
-461 songs - 1 day 1 hr 38 min
+462 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 | 2022-10-10 | 2024-01-11 |
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-04-04 | 2026-09-05 |
 | [Kaho na](https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Kaho na](https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E) | 2:14 | 2023-07-03 | 2025-01-22 |
-| [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 | 2025-06-10 |  |
+| [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 | 2025-06-10 | 2026-09-17 |
 | [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 | 2021-12-06 | 2022-06-30 |
 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 | 2025-07-10 | 2026-02-11 |
 | [Kalabaaziyan](https://open.spotify.com/track/0I93L5Bf6uRLGlntVZ4JCW) | [Sagar Dhote](https://open.spotify.com/artist/69xwjUB838EA5HBT16wetu), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kalabaaziyan](https://open.spotify.com/album/7s2KHBisbNXINql6Tva33X) | 3:43 | 2021-12-06 | 2022-01-11 |
@@ -412,6 +412,7 @@
 | [Tabeer](https://open.spotify.com/track/3BOWG0zibD5qZ1tcBwS65J) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Tabeer](https://open.spotify.com/album/4Eifi8cHvf7QNRrs9kld20) | 3:24 | 2023-01-11 | 2023-11-07 |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2022-01-10 | 2023-01-11 |
 | [Tanhaiyaan](https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c), [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Tanhaiyaan](https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl) | 3:09 | 2026-01-27 | 2026-06-13 |
+| [telusa](https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc) | [telusa](https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp) | 2:50 | 2026-09-16 |  |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/0piDZppLG8sJdE9Ieg5DnJ) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/3o2xo3PpTDvtbhVmTwbfqR) | 2:38 | 2024-03-20 | 2024-04-19 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-02-24 | 2024-08-31 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-07-22 | 2025-03-14 |

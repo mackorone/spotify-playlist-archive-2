@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,776 songs - 10 day 18 hr 28 min
+4,781 songs - 10 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Be Like You](https://open.spotify.com/track/3NhHeLPXVTeOmWt09w8dUK) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:04 | 2025-10-07 |  |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2025-07-28 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-07-19 |  |
+| [Be Water My Friend](https://open.spotify.com/track/3sdi3e3G30q347yGVIuzG9) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW), [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Be Water My Friend](https://open.spotify.com/album/3ChAH5i8VofZE3uBVo3lN3) | 3:00 | 2026-09-16 |  |
 | [Beast](https://open.spotify.com/track/5XhSIUgEOmgV2x7KCCiOvL) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:29 | 2025-12-04 |  |
 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 | 2025-12-04 |  |
 | [Beautiful Anyway](https://open.spotify.com/track/7v8UIM62f5EZkE0ufwA89n) | [ExistentialRiffs](https://open.spotify.com/artist/4L0s0xTQ6F0GebW27GW1TJ) | [Beautiful Anyway](https://open.spotify.com/album/3zbQAIhVBRo2I2rZczo4yb) | 3:55 | 2026-08-10 |  |
@@ -1990,6 +1991,7 @@
 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-29 |  |
 | [I Wanna Dance](https://open.spotify.com/track/5UYU0ufM6XPmCnso9qXfRj) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:43 | 2025-06-05 |  |
 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-05-01 |  |
+| [I Wanna Tell You](https://open.spotify.com/track/1LcmSL0XxrXWWWOds8Fi47) | [Jeye T](https://open.spotify.com/artist/1YbRJSGRT5fPJ2n28PNmnw) | [I Wanna Tell You](https://open.spotify.com/album/3TYOXrHJtLeD0C9ayvEC2x) | 3:24 | 2026-09-16 |  |
 | [I Want More](https://open.spotify.com/track/1O2D02GqrIsXsqHkQnbNyt) | [Cobblestone Collective](https://open.spotify.com/artist/1c30Ln8TEbfVbY2WZYKwp4) | [I Want More](https://open.spotify.com/album/3C5cHvsxldB1zotZwCRrWx) | 2:04 | 2026-09-02 |  |
 | [I WANT ONLY YOU](https://open.spotify.com/track/4eDdtYN1bZxtZmPpKNZejd) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [I WANT ONLY YOU](https://open.spotify.com/album/5KSBD5XNCMaGywx3k10H1l) | 3:45 | 2025-06-15 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
@@ -2182,6 +2184,7 @@
 | [Jungle](https://open.spotify.com/track/5c9XxAxM8GEdHzla1YnldA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:49 | 2025-08-20 |  |
 | [Jungle \(another\)](https://open.spotify.com/track/2kSFzWf68su901AxIveduc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 2:31 | 2025-08-20 |  |
 | [Junto a mis dedos](https://open.spotify.com/track/2qWrXyAixAEfyvFDa3b3NG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:50 | 2026-03-15 |  |
+| [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2026-09-16 |  |
 | [Just Breathe](https://open.spotify.com/track/4ZFyVxZB4l8NMeKZ6tUYEc) | [Filthy Deal](https://open.spotify.com/artist/4VKZGj2RRrPO9PoQ2YzeWn) | [Just Breathe](https://open.spotify.com/album/7uwplBXjgdX7lDVcnUkwjv) | 4:18 | 2026-04-01 |  |
 | [Just for Andria](https://open.spotify.com/track/5DzCJJOZBxoWswf65wxr7s) | [Dark King](https://open.spotify.com/artist/5dzP6McjdagUikp6JCsq0t) | [Just for Andria](https://open.spotify.com/album/6uoQdMzgrfTFEvOyVnNrt4) | 2:48 | 2025-06-29 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-14 |  |
@@ -3021,6 +3024,7 @@
 | [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 | 2026-09-01 |  |
 | [One More Dungeon](https://open.spotify.com/track/5w0PaeefR9P7DbEgckVJoE) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [One More Dungeon](https://open.spotify.com/album/1bbU8JKcZjSqjbQZKRZwMK) | 3:28 | 2025-10-03 |  |
 | [One More For The Road](https://open.spotify.com/track/0kPJMGW3CYsEcT2C5Admnt) | [The Ruins](https://open.spotify.com/artist/6UGANrLJliRxIcRpn4JGFj), [Rob Lundgren](https://open.spotify.com/artist/3CXPg5iixXzuMX1RUhd7Ni), [Brad Henderson](https://open.spotify.com/artist/1GdjlceK7vw8n7e0KNvBB8) | [One More For The Road](https://open.spotify.com/album/62pkpoMOXZuvJpcO57kzwf) | 3:55 | 2026-08-14 |  |
+| [One More Sunrise](https://open.spotify.com/track/00NceuLhHFOKWaLKwQKLTV) | [AUREVAIN](https://open.spotify.com/artist/4tPzOCUsGbpJmDdWKUmr4x) | [One More Sunrise](https://open.spotify.com/album/1P6QYcDerRPjAQDcHpi5wv) | 5:22 | 2026-09-16 |  |
 | [One More Time](https://open.spotify.com/track/3BAVKeHXjW1IvxyZkyTdVh) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:13 | 2025-04-09 |  |
 | [One More Time](https://open.spotify.com/track/5x6ePqe55MAzvBGBnJ5OCc) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:23 | 2026-01-17 |  |
 | [One Of Those Things](https://open.spotify.com/track/4nNgCSV5edJeQWjjbYN4in) | [Beija Flo](https://open.spotify.com/artist/4GaPbBHKMH1cxz6DG22fJl) | [One Of Those Things](https://open.spotify.com/album/3QL9C2iVYHeZg1J28LqtSs) | 3:01 | 2025-11-05 |  |
@@ -4064,6 +4068,7 @@
 | [The 250th Finale](https://open.spotify.com/track/4uU3CxzXHiFEjbOWcO6b6k) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:46 | 2026-04-13 |  |
 | [The 250th Finale \(fomo mode\)](https://open.spotify.com/track/4J5dsXPkVZG4LD13PKwtl6) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:47 | 2026-04-13 |  |
 | [The Alien](https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 5:28 | 2026-03-15 |  |
+| [The Ambulance Song](https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [The Ambulance Song](https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi) | 2:36 | 2026-09-16 |  |
 | [The American Comeback](https://open.spotify.com/track/6ItJav6i3bbPLbOr6Mjblh) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 2:39 | 2026-04-13 |  |
 | [The American Comebacks oh](https://open.spotify.com/track/6oOh1P4170irAGOE8RomP2) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 2:59 | 2026-04-13 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/6Tw0ApH9QJEPDQhvhOtDxO) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:02 | 2025-06-05 |  |

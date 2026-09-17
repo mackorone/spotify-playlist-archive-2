@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 167975,
+  "num_followers": 167970,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/7w19WxMXXtmq8maOq6HnWg"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
       },
       "artists": [
         {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
         }
       ],
-      "duration_ms": 120152,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/4b4dfWc6NnnHQjJaGfzYOx"
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -415,42 +419,18 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/7w19WxMXXtmq8maOq6HnWg"
       },
       "artists": [
         {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
-        },
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Movement II",
-        "url": "https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Eug\u00e9nie",
-          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
+      "duration_ms": 120152,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/4b4dfWc6NnnHQjJaGfzYOx"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -479,6 +459,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Movement II",
+        "url": "https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "The Cocktail Hour",
+        "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Supercolor (feat. CECI)",
+      "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Sun In The Cold",
         "url": "https://open.spotify.com/album/4FTwEjOp3Y6J1D0zQPhM3g"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 144761,
       "name": "Sun In The Cold",
       "url": "https://open.spotify.com/track/4UINrzSXtc1blrnqo00Atj"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "The Cocktail Hour",
-        "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
-      },
-      "artists": [
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
-        },
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Supercolor (feat. CECI)",
-      "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "duration_ms": 213558,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "IYA (In Your Arms)",
         "url": "https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 152542,
       "name": "IYA (In Your Arms)",
       "url": "https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
-      },
-      "artists": [
-        {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
-        }
-      ],
-      "duration_ms": 213558,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/4ZG31cHvberBVdqqKs0N9r"
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
       },
       "artists": [
         {
-          "name": "Horizon Blue",
-          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+          "name": "Bella Who",
+          "url": "https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc"
+        },
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP"
         }
       ],
-      "duration_ms": 164938,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1ZFTW5wMhwVl3lqPxtfyh0"
+      "duration_ms": 251428,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -883,6 +887,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/4ZG31cHvberBVdqqKs0N9r"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        }
+      ],
+      "duration_ms": 164938,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1ZFTW5wMhwVl3lqPxtfyh0"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/65SfjWg7fnUSzwGN9MuJd9"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Full Speed",
-        "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
-      },
-      "artists": [
-        {
-          "name": "Bella Who",
-          "url": "https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc"
-        },
-        {
-          "name": "DOM",
-          "url": "https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Full Speed",
-      "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 133565,
       "name": "Electric",
       "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        },
-        {
-          "name": "Flip Flop Joe",
-          "url": "https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -987,6 +967,26 @@
       "duration_ms": 172398,
       "name": "All In One",
       "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Flip Flop Joe",
+          "url": "https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q"
     },
     {
       "added_at": "2026-06-08 07:23:44",

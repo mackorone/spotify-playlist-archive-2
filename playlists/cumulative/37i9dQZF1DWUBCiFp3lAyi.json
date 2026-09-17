@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 267693,
       "name": "Besito De Coco",
       "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 253106,
       "name": "But I Think It's A Dream",
       "url": "https://open.spotify.com/track/6mM4FYEtBWaosh60vaJTgh"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 265466,
       "name": "Cars and Girls",
       "url": "https://open.spotify.com/track/755cKP6z9tywIgQpAc3cVV"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 217373,
       "name": "Devil Woman - 2001 Remaster",
       "url": "https://open.spotify.com/track/29YcYtqUNLWaYvGVGdYtZy"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 379240,
       "name": "Freek'n You",
       "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 253480,
       "name": "Hot Together",
       "url": "https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"
@@ -1667,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227401,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1762,7 +1784,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 346960,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 193938,
       "name": "Mine O Mine",
       "url": "https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA"
@@ -2204,7 +2226,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 228304,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/4y2OemUjvs15S4oHui3Rv7"
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
@@ -2258,7 +2280,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 253293,
       "name": "Party All the Time",
       "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
@@ -2370,7 +2392,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 205133,
       "name": "Pop Bottles - Main",
       "url": "https://open.spotify.com/track/1kEp3Po9RUPm11N5ITOUWx"
@@ -2396,7 +2418,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Tay Keith & Nicki Minaj)",
       "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 193574,
       "name": "Rockstar Made",
       "url": "https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h"
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
@@ -3318,7 +3340,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 247239,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,187 songs - 6 day 20 hr 0 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,188 songs - 6 day 20 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3195,5 +3195,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3185 | [Nightshade](https://open.spotify.com/track/57qKJuQZemdr8DVYiDpPqv) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [Never Say Die Vol\. 7](https://open.spotify.com/album/7537m8jYEmlzaR2pZWjg07) | 4:13 |
 | 3186 | [Rhythm Is My Key](https://open.spotify.com/track/0wtYlgL4dbZi2417Z9dDS9) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Rhythm Is My Key](https://open.spotify.com/album/62LfdzsLsc2wF7CT3evGtB) | 3:30 |
 | 3187 | [Ascension](https://open.spotify.com/track/4yspSVpO5IpEBTsMyDqUde) | [Krysis](https://open.spotify.com/artist/6hABDXl01y3emJbOCigCVG), [J\-Stranger](https://open.spotify.com/artist/5mOeIIdBZC9D0A7m1qDl73) | [Ascension](https://open.spotify.com/album/6zE8IU8B9qTBzNoAVoolwW) | 3:21 |
+| 3188 | [Let You Go](https://open.spotify.com/track/4Im2UkS32aOdleo2rPGRSI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Let You Go](https://open.spotify.com/album/55grqWLVREV5VoPPDC4hM6) | 2:30 |
 
-Snapshot ID: `AAAM3IzH/4XFGcLJ3hyh9vMDvbuf991+`
+Snapshot ID: `AAAM3T4w4x2BkReP2BEyIBhQgz4ULsmt`

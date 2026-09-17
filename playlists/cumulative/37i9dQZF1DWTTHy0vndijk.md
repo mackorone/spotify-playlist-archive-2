@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: TUIDE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: MW:MEU\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-563 songs - 1 day 6 hr 31 min
+565 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [FANCY](https://open.spotify.com/track/60zxdAqWtdDu0vYsbXViA7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V) | 3:33 | 2021-11-29 | 2022-07-29 |
 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 | 2024-08-12 |
 | [Feel Good \(SECRET CODE\)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2021-11-29 | 2022-07-29 |
-| [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 |  |
+| [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 | 2026-09-17 |
 | [FESTIVAL](https://open.spotify.com/track/5c1g69A9A2P9N6yCV4xvUo) | [Sandara Park](https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP) | [SANDARA PARK](https://open.spotify.com/album/4OlfPaq5wGuzXHXioUAM4O) | 3:10 | 2023-07-12 | 2023-08-22 |
 | [FFW](https://open.spotify.com/track/383ZZAbH1604ynZFAGzXpx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:45 | 2022-03-29 | 2022-04-12 |
 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 | 2022-07-28 | 2024-04-19 |
@@ -309,6 +309,7 @@
 | [MoMoMo](https://open.spotify.com/track/6x8F0VYPwgT0R0ogdp2vCS) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WOULD YOU LIKE?](https://open.spotify.com/album/6gG7BZRwAx9Z8aBXoKND5N) | 3:42 | 2021-11-29 | 2022-07-07 |
 | [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 | 2021-11-29 | 2024-10-28 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-16 |  |
+| [Moonride](https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Moonride](https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG) | 2:56 | 2026-09-16 |  |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2021-11-29 | 2026-03-16 |
 | [Mr\. Chu](https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:34 | 2021-11-29 | 2022-07-28 |
 | [Mr\. Chu](https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 | 2022-07-28 | 2024-04-19 |
@@ -399,7 +400,7 @@
 | [Ruby Heart](https://open.spotify.com/track/4Vg273QdQbDfcBkPWG9MTM) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:26 | 2022-03-29 | 2022-04-18 |
 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 | 2026-02-20 |  |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-08 | 2022-07-29 |
-| [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 | 2024-09-06 |  |
+| [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 | 2024-09-06 | 2026-09-17 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 | 2025-12-04 |
 | [Runaway](https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Runaway](https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ) | 3:02 | 2026-04-08 |  |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 | 2026-03-16 |
@@ -544,6 +545,7 @@
 | [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-17 | 2024-09-12 |
 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 | 2024-03-12 | 2024-04-19 |
 | [Witch](https://open.spotify.com/track/4esQGgU0ekQyRXXENzCo9u) | [UiU](https://open.spotify.com/artist/4qmogHXIzvEU3BhuX5YBYy) | [UiU \#1](https://open.spotify.com/album/5mggU4oN75UThUVfKkKOI0) | 3:09 | 2022-04-13 | 2022-06-01 |
+| [With U](https://open.spotify.com/track/2hN0AnYI3myW8m4GdNkSw1) | [MW:MEU](https://open.spotify.com/artist/4iWzLJS700YZDi2PeJecWW) | [With U](https://open.spotify.com/album/4rkh2rOaP54YESrV73x8mJ) | 2:41 | 2026-09-16 |  |
 | [Wonderland](https://open.spotify.com/track/1w1BFGe9bPUKi0Tpfsh0a6) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.1 The Little Mermaid](https://open.spotify.com/album/2s65QrFa3eBaqdAlDlffhm) | 3:04 | 2021-11-29 | 2022-04-18 |
 | [Woohoo](https://open.spotify.com/track/3lhcNzVPV6UUBWL45QWx8j) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:20 | 2022-04-04 | 2022-04-20 |
 | [WOOWA](https://open.spotify.com/track/4m5AhuM3VelbtBYuEsGDh9) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:30 | 2022-03-29 | 2022-04-17 |

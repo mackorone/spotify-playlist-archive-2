@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93791,
+  "num_followers": 93786,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Dansons",
         "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 206002,
       "name": "Dansons",
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Iconic",
         "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 178000,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Streets of Minneapolis (Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 270825,
       "name": "Streets of Minneapolis - Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
+      },
+      "artists": [
+        {
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
         "name": "One on One",
         "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
       },
@@ -675,26 +691,6 @@
       "duration_ms": 181693,
       "name": "You Got The Look",
       "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
-        "name": "Home to Us",
-        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 191325,
-      "name": "Home to Us",
-      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -731,18 +727,38 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
       },
       "artists": [
         {
-          "name": "Sanna Nielsen",
-          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
         }
       ],
-      "duration_ms": 188550,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
+      "duration_ms": 166733,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Home to Us",
+        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 191325,
+      "name": "Home to Us",
+      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -759,22 +775,6 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
-      },
-      "artists": [
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
-        }
-      ],
-      "duration_ms": 166733,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Neverending Love (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Neverending Love (8-track Remix by MP)",
-      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Himmel helvete",
         "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 209146,
       "name": "Himmel helvete",
       "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Neverending Love (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Neverending Love (8-track Remix by MP)",
+      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -887,6 +887,22 @@
       "duration_ms": 242641,
       "name": "Tiden",
       "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 277360,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Muscle In",
         "url": "https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 244026,
       "name": "Muscle In",
       "url": "https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1023,22 +1039,6 @@
       "duration_ms": 227666,
       "name": "R\u00e4dda Liv",
       "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
         "name": "Ingen plockar en maskros",
         "url": "https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
       },
       "artists": [
         {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
         }
       ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1251,22 +1267,6 @@
       "duration_ms": 200448,
       "name": "Good Time Is Coming",
       "url": "https://open.spotify.com/track/2slo0Qu8x9aVvSnVr5MxUn"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
-      },
-      "artists": [
-        {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
         "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 251000,
       "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
       "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Sommarkort",
-        "url": "https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU"
-    },
-    {
-      "added_at": "2026-09-10 22:00:46",
-      "album": {
         "name": "Nebraska '82: Expanded Edition",
         "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 300360,
       "name": "Losin' Kind - Nebraska Outtakes",
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+    },
+    {
+      "added_at": "2026-09-10 22:00:46",
+      "album": {
+        "name": "Sommarkort",
+        "url": "https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU"
     },
     {
       "added_at": "2026-09-10 22:00:46",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-09-10 22:00:46",
       "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-09-10 22:00:46",

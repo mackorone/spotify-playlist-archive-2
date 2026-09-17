@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
-  "num_followers": 873165,
+  "num_followers": 873103,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/5SEytYky7xSKEBGFTDVNCP"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/4wtfQkr4ke2P6k6Al0yPXl"
-    },
-    {
-      "added_at": "2026-09-11 05:48:33",
-      "album": {
         "name": "HORSEPOWER",
         "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 186666,
       "name": "HORSEPOWER",
       "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
+    },
+    {
+      "added_at": "2026-09-11 05:48:33",
+      "album": {
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/5SEytYky7xSKEBGFTDVNCP"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/4wtfQkr4ke2P6k6Al0yPXl"
     },
     {
       "added_at": "2026-09-11 05:48:33",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
+    },
+    {
+      "added_at": "2026-09-11 05:48:33",
+      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 171428,
       "name": "Throw Ya Body",
       "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
-    },
-    {
-      "added_at": "2026-09-11 05:48:33",
-      "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
     },
     {
       "added_at": "2026-09-11 05:48:33",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
-    },
-    {
-      "added_at": "2026-09-11 05:48:33",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 190285,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
+    },
+    {
+      "added_at": "2026-09-11 05:48:33",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-09-11 05:48:33",
@@ -1595,22 +1595,22 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
-        "name": "2MINUTES",
-        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
+        "name": "Monomyth",
+        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
       },
       "artists": [
         {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
         },
         {
-          "name": "rossxo",
-          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 219428,
-      "name": "2MINUTES",
-      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
+      "duration_ms": 185142,
+      "name": "Ghoul",
+      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
     },
     {
       "added_at": "2026-09-11 05:48:33",
@@ -1635,22 +1635,22 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
-        "name": "Monomyth",
-        "url": "https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9"
+        "name": "2MINUTES",
+        "url": "https://open.spotify.com/album/2v3aGtCv3R0C2cTqa0bMon"
       },
       "artists": [
         {
-          "name": "Saka",
-          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
         },
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "rossxo",
+          "url": "https://open.spotify.com/artist/1q1ZWybfsUJFayBQiDye8W"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Ghoul",
-      "url": "https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a"
+      "duration_ms": 219428,
+      "name": "2MINUTES",
+      "url": "https://open.spotify.com/track/0uMacCT18h0GN7OhvTD8AT"
     },
     {
       "added_at": "2026-09-11 05:48:33",
@@ -1871,22 +1871,18 @@
     {
       "added_at": "2026-09-11 05:48:33",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+        "name": "UH OH!",
+        "url": "https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
         }
       ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+      "duration_ms": 238344,
+      "name": "UH OH!",
+      "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
     },
     {
       "added_at": "2026-09-11 05:48:33",

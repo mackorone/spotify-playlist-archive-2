@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Jim Gardner",
+  "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
   "name": "Popronde 2026",
   "tracks": [
     {
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Dust Breeding",
+        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Dust Breeding",
+      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
+    },
+    {
+      "album": {
         "name": "Easy Lovin'",
         "url": "https://open.spotify.com/album/75KVbGHUgVEAMHmxFCso8X"
       },
@@ -1792,6 +1810,24 @@
       "duration_ms": 160611,
       "name": "Even later in de tuin",
       "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
     },
     {
       "album": {
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 162321,
       "name": "Gebruiksaanwijzing",
       "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
@@ -3403,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Kermis",
+        "url": "https://open.spotify.com/album/43lAZ9WsCUHPozo3EWo04j"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Kermis",
+      "url": "https://open.spotify.com/track/5vhsP08xaieLY2GFHPS7CT"
+    },
+    {
+      "album": {
         "name": "Khochu Kupatis' (Original Soundtrack \"Durko\")",
         "url": "https://open.spotify.com/album/7dpKLQxtIgmRSAszR7qq3u"
       },
@@ -3454,7 +3508,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 136041,
       "name": "Klemme",
       "url": "https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj"
@@ -3614,6 +3668,24 @@
       "duration_ms": 153771,
       "name": "Lekker Boeie",
       "url": "https://open.spotify.com/track/27yseICgom8ko8hz0OZy7T"
+    },
+    {
+      "album": {
+        "name": "Lichen",
+        "url": "https://open.spotify.com/album/0siduzTXEmIq6B5vYDCYE2"
+      },
+      "artists": [
+        {
+          "name": "Pensive Vivifier",
+          "url": "https://open.spotify.com/artist/68qapioPBfAt0RNEGEqyqD"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341478,
+      "name": "Lichen",
+      "url": "https://open.spotify.com/track/4SleJQ3uZgjZCrekY9g9Ih"
     },
     {
       "album": {
@@ -3808,10 +3880,28 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 138666,
       "name": "lOvE",
       "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
+    },
+    {
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135836,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
     },
     {
       "album": {
@@ -3970,7 +4060,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 120230,
       "name": "Max",
       "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
@@ -4122,10 +4212,28 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 133333,
       "name": "Money up",
       "url": "https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt"
+    },
+    {
+      "album": {
+        "name": "Mosquitos",
+        "url": "https://open.spotify.com/album/4VpUjb8zZkU7XLl68oprUD"
+      },
+      "artists": [
+        {
+          "name": "Dracula\u2019s Beach Party",
+          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235650,
+      "name": "Mosquitos",
+      "url": "https://open.spotify.com/track/4rwQW9eTVyTZOe8FNV3N2n"
     },
     {
       "album": {
@@ -4691,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/4sD9uN4l8XvN8NKP56KQn7"
+      },
+      "artists": [
+        {
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/2mJYFELDxg8soMNjagghDC"
+    },
+    {
+      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -4872,7 +4998,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 355017,
       "name": "Piranhas",
       "url": "https://open.spotify.com/track/5qyhH3izjZWS5z6O0yRXzL"
@@ -6180,7 +6306,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 165784,
       "name": "Trepanationforthenationalhealth",
       "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
@@ -6698,7 +6824,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 191945,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
@@ -6828,6 +6954,24 @@
       "duration_ms": 237926,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
+    },
+    {
+      "album": {
+        "name": "Wilson's At The Door",
+        "url": "https://open.spotify.com/album/3OJPJSRiZ23PRvW0XG5Gd6"
+      },
+      "artists": [
+        {
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145572,
+      "name": "Wilson's At The Door",
+      "url": "https://open.spotify.com/track/1rcneJH2JD4t2dzkEJApxy"
     },
     {
       "album": {

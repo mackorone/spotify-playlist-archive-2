@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWebDwhi0Xn3>Steve Lacy</a>, <a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,18 +11,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 340706,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": null,
@@ -43,18 +43,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": null,
@@ -187,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "darling, he lied",
         "url": "https://open.spotify.com/album/4BlOHHjD5zgyyzoy64UJYJ"
       },
@@ -235,6 +203,38 @@
       "duration_ms": 113556,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 133747,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "summer nights",
+        "url": "https://open.spotify.com/album/3VVJVfnzpJyfETTK8PHxrf"
+      },
+      "artists": [
+        {
+          "name": "The Millennial Club",
+          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
+        }
+      ],
+      "duration_ms": 131889,
+      "name": "feel the same",
+      "url": "https://open.spotify.com/track/2Rbpm2V61xo6SkgwnILSl6"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RIO HOTEL",
         "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
@@ -307,34 +291,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELL",
-        "url": "https://open.spotify.com/album/4hEq5cerBSRhXPFiliAk9C"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 214000,
-      "name": "HELL",
-      "url": "https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq"
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "HEAVEN SENT ME",
-        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
+        "name": "colorblind",
+        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
       },
       "artists": [
         {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 191515,
-      "name": "DEEP IN YOUR SOUL",
-      "url": "https://open.spotify.com/track/35EDNGwjMjMfI984OFx5EH"
+      "duration_ms": 193976,
+      "name": "colorblind",
+      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
     },
     {
       "added_at": null,
@@ -371,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alright",
-        "url": "https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4"
-      },
-      "artists": [
-        {
-          "name": "raph",
-          "url": "https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND"
-        }
-      ],
-      "duration_ms": 132919,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -419,6 +387,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alright",
+        "url": "https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4"
+      },
+      "artists": [
+        {
+          "name": "raph",
+          "url": "https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND"
+        }
+      ],
+      "duration_ms": 132919,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEAVEN SENT ME",
+        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "TELL 'EM YOU'RE MINE",
+      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neurotica",
         "url": "https://open.spotify.com/album/0jQmX0M1Cj52iwlfwxhuNR"
       },
@@ -431,6 +479,54 @@
       "duration_ms": 175419,
       "name": "Paper",
       "url": "https://open.spotify.com/track/4sFmzvart11BTqjMw87jEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stevie Doesn't Wonder",
+        "url": "https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stevie Doesn't Wonder",
+      "url": "https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Mr. Incorrect",
+      "url": "https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq"
     },
     {
       "added_at": null,
@@ -460,121 +556,9 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 299560,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/3nUwYukJz0ue7p1ft03mdg"
-      },
-      "artists": [
-        {
-          "name": "Greg Shilling",
-          "url": "https://open.spotify.com/artist/57B4Js3GmlGBgNJKeAdyba"
-        }
-      ],
-      "duration_ms": 239161,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/36k1sK906KIHdnU0ZiPg56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stevie Doesn't Wonder",
-        "url": "https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stevie Doesn't Wonder",
-      "url": "https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 275936,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Mr. Incorrect",
-      "url": "https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": null,
@@ -595,38 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": null,
@@ -663,6 +627,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "complicated/overrated",
+        "url": "https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ"
+      },
+      "artists": [
+        {
+          "name": "The Millennial Club",
+          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "complicated/overrated",
+      "url": "https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Your Life Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
       },
@@ -675,22 +707,6 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Had a Soul",
-        "url": "https://open.spotify.com/album/2Go4zw1qrWB7AcypbJ3mIF"
-      },
-      "artists": [
-        {
-          "name": "Movie Monroe",
-          "url": "https://open.spotify.com/artist/4oKWFmhrt5niYQgubvr3Vf"
-        }
-      ],
-      "duration_ms": 148377,
-      "name": "If You Had a Soul",
-      "url": "https://open.spotify.com/track/5tO0U3AG4FemyKysKdrrpT"
     },
     {
       "added_at": null,
@@ -715,82 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6AFrlSsCRfhJ6KN815Uv2C"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Troy Javelona",
+          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
         }
       ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 243131,
-      "name": "No. 1 Party Anthem",
-      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEAVEN SENT ME",
-        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
-      },
-      "artists": [
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "TELL 'EM YOU'RE MINE",
-      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "options",
-        "url": "https://open.spotify.com/album/6ft8HixiINk6Wbuci04ouH"
-      },
-      "artists": [
-        {
-          "name": "kuiper",
-          "url": "https://open.spotify.com/artist/6NFaGwOgwNlwYMHHlOifuJ"
-        }
-      ],
-      "duration_ms": 185363,
-      "name": "options",
-      "url": "https://open.spotify.com/track/3D89uQ84ZbwOIfu1mUwek5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+      "duration_ms": 125217,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6EK3aQONb1VBRaVCoxwuKo"
     },
     {
       "added_at": null,
@@ -811,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Body Isn't Ready",
         "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     }
   ],
   "unique_name": "Chill Mix",

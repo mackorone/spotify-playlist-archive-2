@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,884 songs - 10 day 7 hr 2 min
+3,885 songs - 10 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2415,6 +2415,7 @@
 | [せまいまち](https://open.spotify.com/track/0GsTJVzM3lwS1CLwM0ad23) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [hometown](https://open.spotify.com/album/69WUWZ6LknFCDrP1HM9zuB) | 4:11 | 2022-07-14 | 2022-07-20 |
 | [ぜんぶ可愛いのせい](https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [ぜんぶ可愛いのせい](https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao) | 3:37 | 2026-02-11 | 2026-08-12 |
 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-07-07 |
+| [そして僕は途方に暮れる \- Spotify BLUE? It's Okay Ver.](https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [そして僕は途方に暮れる \(Spotify BLUE? It's Okay Ver.\)](https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA) | 5:28 | 2026-09-15 |  |
 | [そのままでいいよ](https://open.spotify.com/track/5SDEBD85iBEEqAjIzeRtMD) | [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [そのままでいいよ](https://open.spotify.com/album/6J3yU2qxCvzTNFpwHLJnyz) | 4:45 | 2025-12-09 | 2025-12-17 |
 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 | 2022-11-03 | 2023-09-15 |
 | [それでもただ](https://open.spotify.com/track/4cJURhJ7DMuRPRoEwjGieJ) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [それでもただ](https://open.spotify.com/album/6PwiTeUdUpUNFq9FpEsWEP) | 4:18 | 2024-02-13 | 2024-04-06 |
@@ -3823,7 +3824,7 @@
 | [雨宿らず](https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9) | [永井琳子](https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r) | [雨宿らず](https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma) | 3:26 | 2026-02-17 | 2026-04-21 |
 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 | 2025-07-22 | 2026-02-12 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 | 2023-02-22 |
-| [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 | 2025-12-18 |  |
+| [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 | 2025-12-18 | 2026-09-17 |
 | [雲雀](https://open.spotify.com/track/27MK2siSJJAtP65TEiHdzU) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [春が呼んでる](https://open.spotify.com/album/7eC4IRNB2ajNSLoPTyY30T) | 4:34 | 2022-11-29 | 2022-12-07 |
 | [電気](https://open.spotify.com/track/47zXSmvwAUNO82qoVTnfd5) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [スーパー銭湯 2](https://open.spotify.com/album/20MS7D3Wsn5rlPmxFECwWQ) | 2:36 | 2024-04-16 | 2024-04-24 |
 | [電源](https://open.spotify.com/track/0xTe1EdbvOcB7uFRfGLcgL) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [電源](https://open.spotify.com/album/3J2JtTkXqw0j4FGi3d7272) | 4:06 | 2022-07-26 | 2022-08-03 |

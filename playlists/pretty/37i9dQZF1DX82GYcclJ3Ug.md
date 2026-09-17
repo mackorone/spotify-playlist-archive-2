@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,183 likes - 156 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,202 likes - 156 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 92 | [Lentils](https://open.spotify.com/track/6lrXjOMYPjbyKozRybtQxo) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Massive Champion](https://open.spotify.com/album/0mL98BOnYAVFSCYV9x5ZXK) | 3:08 |
 | 93 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
 | 94 | [Powerless](https://open.spotify.com/track/5Da4Zmr1mTtG3PvOoXYGW3) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [I AM A PRISM](https://open.spotify.com/album/0FiHKoRkRefvQHdddwg0G4) | 3:32 |
-| 95 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ), [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
+| 95 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
 | 96 | [Isn’t It Strange \(feat\. Knox\)](https://open.spotify.com/track/7CEIiYkImkge5SrsqZUVsB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Isn’t It Strange \(feat\. Knox\)](https://open.spotify.com/album/3XNxl9mHCAkK29Wgs3CxKk) | 3:32 |
 | 97 | [The Wolf](https://open.spotify.com/track/6IMMPyK6XV6J93URGopN3e) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [The Wolf](https://open.spotify.com/album/1nGJJCXtR8r2PNUbX0JCEz) | 2:59 |
 | 98 | [THE GOLDEN RECORD](https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [evidence of you](https://open.spotify.com/album/3hGF9Zgo9RutDoV4pGsz0c) | 4:15 |

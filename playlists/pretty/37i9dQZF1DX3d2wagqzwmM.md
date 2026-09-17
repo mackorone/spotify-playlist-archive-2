@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,554 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,674 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 74 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 |
 | 75 | [Calling](https://open.spotify.com/track/0q7VZvqvkt0atX2QJTxwNv) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Calling](https://open.spotify.com/album/0B2e0dutN4UPtEYIolfza9) | 2:22 |
 | 76 | [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 |
-| 77 | [Brighter Days](https://open.spotify.com/track/16kXvWISs9PlN8k8fR1Bjn) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Stereohats](https://open.spotify.com/artist/5mXk5yufaVz1wTuEAiaBN6), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Brighter Days](https://open.spotify.com/album/2tno51mcmBQPpFxAbldEeM) | 2:05 |
-| 78 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
-| 79 | [Zick Zack](https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Zick Zack](https://open.spotify.com/album/6FGldN2NHAepVvpCPEC1h5) | 2:35 |
+| 77 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
+| 78 | [Zick Zack](https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Zick Zack](https://open.spotify.com/album/6FGldN2NHAepVvpCPEC1h5) | 2:35 |
+| 79 | [Logical Song](https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [BFOUR](https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97) | [Logical Song](https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso) | 3:10 |
 | 80 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 |
 
 Snapshot ID: `AAAAALIZIashMKYIk6g3mXOh/nzlk2jn`

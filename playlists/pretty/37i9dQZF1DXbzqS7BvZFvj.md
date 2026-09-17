@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,688 likes - 121 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,689 likes - 121 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 28 | [Backwards \(feat\. T.I.\)](https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Backwards \(feat\. T.I.\)](https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg) | 3:11 |
 | 29 | [QUEEN \[THE WHACK VERSION\]](https://open.spotify.com/track/6H6bBK59BXJKvWH0omXHyI) | [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [QUEEN \[THE WHACK VERSION\]](https://open.spotify.com/album/5xflxmgfN5O2FSZE1dwP4Z) | 2:05 |
 | 30 | [DADDY](https://open.spotify.com/track/55hvAlWKNC9FJ1QUkaheWR) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [DADDY](https://open.spotify.com/album/1wHCS61gObQcmYhiv3eLHz) | 2:45 |
-| 31 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 31 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 32 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
 | 33 | [STILL A YOUNGBOY](https://open.spotify.com/track/2Hl0kumtns8DpY2zsTa8fk) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [B.I.L.L.Y](https://open.spotify.com/album/79ZmKk27UdvTROEqxwrMkM) | 2:59 |
 | 34 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |

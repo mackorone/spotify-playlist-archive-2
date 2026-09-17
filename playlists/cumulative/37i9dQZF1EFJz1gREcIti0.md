@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 9 hr 8 min
+174 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Josslyn](https://open.spotify.com/track/37ZKB38iNyKJ0xYEz9SJgk) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 3:09 | 2026-08-18 |  |
 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 | 2025-08-02 |  |
 | [Josslyn \- Radio Edit](https://open.spotify.com/track/3R7vp0ldkNAhLzIXyPNpGe) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 3:08 | 2025-08-02 | 2026-08-19 |
+| [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 | 2026-09-16 |  |
 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 | 2025-08-02 |  |
 | [Last Day That You Loved Me](https://open.spotify.com/track/2yTUscbTBLfBRITL23E8RT) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6) | 3:05 | 2025-08-02 |  |
 | [Leon Pt\. 2](https://open.spotify.com/track/008ZGLgUj3YCGQJs1TL92E) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:30 | 2025-08-02 |  |

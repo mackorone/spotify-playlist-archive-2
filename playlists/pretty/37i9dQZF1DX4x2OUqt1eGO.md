@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,801 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,804 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 17 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
 | 18 | [Naan Nee](https://open.spotify.com/track/6cbiAEy3OoREiXooWZ2cRQ) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw) | [Think Instrumental with Navin, Vol\. 1](https://open.spotify.com/album/0hBfWJXTVK1vBdlvEXfr95) | 3:37 |
 | 19 | [Abhogi](https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:02 |
-| 20 | [Banaras Flute Meditation](https://open.spotify.com/track/1rxJhcFfnK2bHkLHZTIXJQ) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Banaras Flute Meditation](https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g) | 3:14 |
-| 21 | [Evening Solace](https://open.spotify.com/track/01jSVjoqH6QpjYTMGQhJx2) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Evening Solace](https://open.spotify.com/album/0vxPTagdaH4znrF1p0jNWX) | 7:03 |
+| 20 | [Evening Solace](https://open.spotify.com/track/01jSVjoqH6QpjYTMGQhJx2) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Evening Solace](https://open.spotify.com/album/0vxPTagdaH4znrF1p0jNWX) | 7:03 |
+| 21 | [Banaras Flute Meditation](https://open.spotify.com/track/1rxJhcFfnK2bHkLHZTIXJQ) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Banaras Flute Meditation](https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g) | 3:14 |
 | 22 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
 | 23 | [Pugli](https://open.spotify.com/track/6bbaDHnK68EBKSQ3r7zFKZ) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Mtargashti](https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN) | 3:15 |
 | 24 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 25 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 |
 | 26 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 |
 | 27 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 |
-| 28 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
-| 29 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
+| 28 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
+| 29 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 30 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 31 | [The Ice Altar at 432 Hz](https://open.spotify.com/track/1TjqRmnci7VwcdtIKEqouo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:21 |
 | 32 | [Har Kisi Ko Nahi Milta](https://open.spotify.com/track/5W6WulSb6HrJgwVmaFDpfj) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Har Kisi Ko Nahi Milta \- Sentiments Of Love \(Instrumental\)](https://open.spotify.com/album/22kDYgl6ffaKP1bmiZeUJc) | 3:15 |

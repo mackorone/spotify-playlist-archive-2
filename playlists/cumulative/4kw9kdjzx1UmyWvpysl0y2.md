@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,302 songs - 3 day 0 hr 9 min
+1,303 songs - 3 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Starchild](https://open.spotify.com/track/0Tc7wokiNSXzOkaQrakz57) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Starchild](https://open.spotify.com/album/6o9JVjW0gznZ4Dzd34pbLZ) | 3:44 | 2025-01-30 | 2025-05-01 |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 | 2022-10-19 |
 | [started over](https://open.spotify.com/track/6kQZXVO8AoN5KBh1QcJesG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:41 | 2025-11-13 | 2026-02-19 |
+| [STATIC](https://open.spotify.com/track/3pdFQsczAhnPRiWllBQ3xr) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STATIC](https://open.spotify.com/album/0fZVVS2tVYDRmCJIgiBtdN) | 3:04 | 2026-09-16 |  |
 | [Stay](https://open.spotify.com/track/18StJiwbTUOylOsh8J2nBt) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay](https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik) | 2:52 | 2026-05-22 | 2026-09-16 |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
 | [Stay Away](https://open.spotify.com/track/3Ytk6FIYM46CD9IpS8GTG5) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Stay Away](https://open.spotify.com/album/6lEm7rBODLnjVafJjHfK26) | 3:07 | 2026-08-26 |  |

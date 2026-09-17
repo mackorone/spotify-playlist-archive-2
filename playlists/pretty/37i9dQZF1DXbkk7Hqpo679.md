@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 
 > Allerbeste songs van de 70's! Cover: The Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,387 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,397 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 | 19 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 |
 | 20 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 21 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
-| 22 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
-| 23 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 22 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 23 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
 | 24 | [You Should Be Dancing](https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 4:16 |
 | 25 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 26 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 | 57 | [Daddy Cool](https://open.spotify.com/track/702Xo5V8OhlY2cQEczCT2j) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/155cebHEGGBqYJAXKWJw6D) | 3:26 |
 | 58 | [You're The First, The Last, My Everything \- Edit](https://open.spotify.com/track/3rqXP37YkEnizabzjM7uIu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [All\-Time Greatest Hits](https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j) | 3:28 |
 | 59 | [Living Next Door to Alice](https://open.spotify.com/track/4a8ZMNLB75047bY2I7oABt) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [The Original Smokie Gold](https://open.spotify.com/album/4owYZafXDrppX9A4COxBAe) | 3:27 |
-| 60 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
-| 61 | [Paloma Blanca](https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Single Hit Collection](https://open.spotify.com/album/1WHUdNqPAXVp3jhT9CiSdg) | 3:27 |
+| 60 | [Paloma Blanca](https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Single Hit Collection](https://open.spotify.com/album/1WHUdNqPAXVp3jhT9CiSdg) | 3:27 |
+| 61 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
 | 62 | [Another 45 Miles](https://open.spotify.com/track/4CwgZ5RmLvJzBf1f48mGML) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Very Best Of Vol\. 1 \- Part One](https://open.spotify.com/album/19SxsJUqTUlleqDGPwD9v4) | 4:43 |
 | 63 | [Three Times A Lady](https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 3:37 |
 | 64 | [Rock the Boat](https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Rockin' Soul](https://open.spotify.com/album/6HIHjj9rn4F3oZzqeD3YI6) | 3:08 |
 | 65 | [Vaya Con Dios](https://open.spotify.com/track/1xBm9fqNAoFe3kDimKusSM) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Cats](https://open.spotify.com/album/22JDOwhFNSHRQEzvTd2iSM) | 3:27 |
-| 66 | [House For Sale](https://open.spotify.com/track/4kXbcScK3ScRFrZVlBytnm) | [Lucifer](https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9) | [As We Are](https://open.spotify.com/album/5Oj4IehidgqBj5K0YFNI0f) | 4:40 |
+| 66 | [Ding\-A\-Dong](https://open.spotify.com/track/3ML1JVicjXbdsyYrPdfr5E) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [The Best Of Teach In](https://open.spotify.com/album/3psQqogsEKCmcf8OSSnoZV) | 2:29 |
 | 67 | [Radar Love \- Original Single Edit 1973](https://open.spotify.com/track/1Wmuc11xACBpOpni7ECC45) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Radar Love](https://open.spotify.com/album/4iYSIgIX4pPrVMQzyeJ7Fb) | 3:43 |
-| 68 | [Ding\-A\-Dong](https://open.spotify.com/track/3ML1JVicjXbdsyYrPdfr5E) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [The Best Of Teach In](https://open.spotify.com/album/3psQqogsEKCmcf8OSSnoZV) | 2:29 |
+| 68 | [House For Sale](https://open.spotify.com/track/4kXbcScK3ScRFrZVlBytnm) | [Lucifer](https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9) | [As We Are](https://open.spotify.com/album/5Oj4IehidgqBj5K0YFNI0f) | 4:40 |
 | 69 | [Midnight Train to Georgia \- Short Version](https://open.spotify.com/track/2y9lqa7QhwJ7KhHUUdkTUF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 3:18 |
 | 70 | [Never Be Clever](https://open.spotify.com/track/0KLLN24yYlb7fsKvXjz3GI) | [Herman Brood & His Wild Romance](https://open.spotify.com/artist/25uGmqV7NJt81bSYlEMKB0) | [My Way \- The Hits](https://open.spotify.com/album/17byQ9D5BJbBWK6VT6BgGD) | 3:02 |
 | 71 | [Storm And Thunder](https://open.spotify.com/track/7uzbAYvAnH49ld7ZH96jo2) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Song Of The Marching Children](https://open.spotify.com/album/02TCJof1N14NB16zBOk6ds) | 6:25 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 | 74 | [Mississippi](https://open.spotify.com/track/5jQcnMoKf7QxXHxsiI3CRl) | [Pussycat](https://open.spotify.com/artist/2rmQ5EEAIkloNGWdGlvCYM) | [Favorieten Expres](https://open.spotify.com/album/7Mkh2urG8SpYeaPquoXFkc) | 4:35 |
 | 75 | [Who's That Lady With My Man](https://open.spotify.com/track/1BQ1iEiTtOVxWc2MAVSDS8) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Hollands Glorie](https://open.spotify.com/album/4yZEdbhWjZILUaSex1Dis3) | 3:11 |
 | 76 | [Let's Dance](https://open.spotify.com/track/5yM9wTZcPgFEZgtBWciZ11) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 3:26 |
-| 77 | [Memories](https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Earth & Fire](https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM) | 3:20 |
-| 78 | [Weekend Love](https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 4:15 |
+| 77 | [Weekend Love](https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 4:15 |
+| 78 | [Memories](https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Earth & Fire](https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM) | 3:20 |
 | 79 | [Inkpot](https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [The Very Best Of Shocking Blue \(Part One \- The A Sides\)](https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N) | 2:39 |
 | 80 | [Radio](https://open.spotify.com/track/160qoYXSJJrPkZshBN62bD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Dolly Dots \- Love Me Just A Little Bit More / Greatest Hits \(IA EP Bundle\)](https://open.spotify.com/album/2dq9BhPNbsIayQM7Rv3IcX) | 3:08 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,994 likes - 96 songs - 5 hr 30 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,996 likes - 97 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 94 | [Never Get Enough](https://open.spotify.com/track/1otspdwkfhfBa0pvpllWHR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Get Enough](https://open.spotify.com/album/2G3n76pfioBxtKEUneJyIM) | 3:55 |
 | 95 | [1234](https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1234](https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP) | 3:09 |
 | 96 | [BPM](https://open.spotify.com/track/3DigB53Tj50WT4RmrS6jW5) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Makala](https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd) | [BPM](https://open.spotify.com/album/1AIjvuzzvreU8AtbJb5Lyh) | 3:18 |
+| 97 | [Give Me Some More](https://open.spotify.com/track/1ajfFcWgOnVpPLfg6S8gTt) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give Me Some More](https://open.spotify.com/album/6sXCIzPdC0mtqmtvVTVl2T) | 5:38 |
 
-Snapshot ID: `AAASD3CHPWViva2ORp6E+4T9ztnHekPs`
+Snapshot ID: `AAASEOTca7lc4AT7qiRJ4i0NfXYyHG5w`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Liana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,219 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,291 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 8 | [Only When I Lose Myself](https://open.spotify.com/track/0qLNTKzDvt2s2srGjZBM7y) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Only When I Lose Myself](https://open.spotify.com/album/6tSpci4GvxsbQ0rAz8mWp4) | 4:26 |
 | 9 | [Ndiaga Niaw](https://open.spotify.com/track/4VHbG3PPxLKbuGBm9kW4I8) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Ndiaga Niaw](https://open.spotify.com/album/3MEjKv5qCCFxmJZ7ZlGZJm) | 6:47 |
 | 10 | [Just a Little Lovin’](https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Just a Little Lovin'](https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu) | 4:49 |
-| 11 | [Vite!](https://open.spotify.com/track/5RTC4JhLVOxDY5Le6xFTht) | [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT) | [Vite!](https://open.spotify.com/album/6Ea8uGFCQ9blzA7YbOIudP) | 2:27 |
+| 11 | [Vite!](https://open.spotify.com/track/5RTC4JhLVOxDY5Le6xFTht) | [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Vite!](https://open.spotify.com/album/6Ea8uGFCQ9blzA7YbOIudP) | 2:27 |
 | 12 | [Marcie](https://open.spotify.com/track/51GJ93JbGXWRWJeKXeoIcZ) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Marcie](https://open.spotify.com/album/387wirkIjhBXft3BMLq3u8) | 3:50 |
 | 13 | [Days Begin To Sing](https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [Days Begin To Sing](https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH) | 4:44 |
 | 14 | [Don’t Look Any Further \(with Lianne La Havas\)](https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Don’t Look Any Further](https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L) | 4:02 |

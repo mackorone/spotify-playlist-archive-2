@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Jabulile Majola, Jhené Aiko, Naledi Aphiwe & Goon Flavour, Langa Mavuso and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,961 likes - 83 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,986 likes - 83 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

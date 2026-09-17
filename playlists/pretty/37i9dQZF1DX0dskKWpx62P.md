@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,377 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,414 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 36 | [Clavel de mi pecho](https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Enlazando Cantos II](https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81) | 4:09 |
 | 37 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 38 | [Mauka Zapato](https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f) | [Alicia Maguiña](https://open.spotify.com/artist/1OJ21FFw1XbFVGx4SN13Fv) | [La Santa Tierra](https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC) | 3:28 |
-| 39 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
+| 39 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 |
 | 40 | [Remembranzas](https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
 | 41 | [Expreso Puquio](https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 4:24 |
-| 42 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 |
+| 42 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
 | 43 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
 | 44 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
 | 45 | [Huaylla Ichu](https://open.spotify.com/track/1tW0fte6lqArX11vd3rQyW) | [Raúl Gómez Gómez](https://open.spotify.com/artist/3Aj7SozLnhoezL3I4kjyW7) | [Canto Natural del Ande](https://open.spotify.com/album/2DvR3oevJSf8Hc8xuSoYWL) | 5:09 |

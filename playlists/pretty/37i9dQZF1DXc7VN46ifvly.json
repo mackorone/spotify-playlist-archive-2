@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21745,
+  "num_followers": 21750,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 173320,
       "name": "CRUSH (with Travis Scott)",
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Featuring Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 143375,
-      "name": "Spicy (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Featuring Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 143375,
+      "name": "Spicy (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 186805,
+      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
+      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "K-FLIP+",
         "url": "https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6"
       },
@@ -1135,30 +1159,6 @@
       "duration_ms": 236240,
       "name": "LOV3 (Feat. Bryan Chase, Okasian)",
       "url": "https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 186805,
-      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
-      "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 322173,
       "name": "We Higher (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/6tgVI8jFmgbCUhxxyCt2yD"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "LAW (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
       "added_at": "2026-06-29 08:20:19",

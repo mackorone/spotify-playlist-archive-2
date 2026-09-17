@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 10 hr 10 min
+173 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [High](https://open.spotify.com/track/3bMWUPo0RTat0TNycMOu6l) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [High](https://open.spotify.com/album/4fRbiuip4KpgpfwNl0ZrqI) | 3:31 | 2023-12-30 | 2024-07-11 |
 | [High \- Benson Remix](https://open.spotify.com/track/511oneseWVZRrSPuno4qgG) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [High \(Benson Remix\)](https://open.spotify.com/album/1G1Xk8DeGIjuGNPcYiXTVb) | 3:27 | 2024-07-10 |  |
 | [I Know](https://open.spotify.com/track/5OdmwBCqwtOXfYpLXocxxP) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:18 | 2024-10-07 |  |
+| [In the Place Tonight](https://open.spotify.com/track/41lCQnVMKgDDabDN2iQotG) | [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7) | [In the Place Tonight](https://open.spotify.com/album/4Y4rXQjFG85bMpLy0a3wHm) | 2:20 | 2026-09-16 |  |
 | [Intentions](https://open.spotify.com/track/7hCslhjJhNF5jZQANmqx3l) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Intentions](https://open.spotify.com/album/66NAVZJfTIJd4WZJfAsBJn) | 3:48 | 2026-03-15 |  |
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2023-12-30 | 2025-07-24 |
 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 | 2023-12-30 |  |

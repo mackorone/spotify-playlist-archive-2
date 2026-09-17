@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Andrea Tichy, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: gwuapo, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4279,6 +4279,28 @@
     },
     {
       "album": {
+        "name": "burn @kennedydamm",
+        "url": "https://open.spotify.com/album/4vrfQk4xDRwVhWN1iTOdbN"
+      },
+      "artists": [
+        {
+          "name": "Acidfrank",
+          "url": "https://open.spotify.com/artist/5oCxNqSSf0o5hBSiaOfm3V"
+        },
+        {
+          "name": "dog pants",
+          "url": "https://open.spotify.com/artist/58xTP8xRiwh0hakuRuUW5R"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232781,
+      "name": "burn @kennedydamm",
+      "url": "https://open.spotify.com/track/63gByuPSHMxT1IeGT5whuN"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/3LQu9iJDgsD0PBNxrIPK5c"
       },
@@ -4398,7 +4420,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 198165,
       "name": "Bygone Days",
       "url": "https://open.spotify.com/track/244ojf3pW6wSz35doPNMe4"
@@ -6105,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "Dead Wood",
+        "url": "https://open.spotify.com/album/5tW9JZpnZD6r9DXtpd5dTa"
+      },
+      "artists": [
+        {
+          "name": "Dry Skin",
+          "url": "https://open.spotify.com/artist/0ybJRit5JrzQzZghYdXQih"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166322,
+      "name": "Dead Wood",
+      "url": "https://open.spotify.com/track/20sxcen8Xb8l7fIcdbKjay"
+    },
+    {
+      "album": {
         "name": "DEAF CULTURE $O\u20acIET\u00a5",
         "url": "https://open.spotify.com/album/73DVpLdHyuPxuPNOznh3rN"
       },
@@ -7452,7 +7492,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 168631,
       "name": "Druck",
       "url": "https://open.spotify.com/track/4cbucfBsLvZhquUFD1q071"
@@ -10598,7 +10638,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163112,
       "name": "GIRL CRUSH",
       "url": "https://open.spotify.com/track/2PHGaG2pi2OfmftuYaG9M4"
@@ -10902,6 +10942,24 @@
       "duration_ms": 278263,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5ixbUgxUGrLAPpMkXywRyW"
+    },
+    {
+      "album": {
+        "name": "goldfish",
+        "url": "https://open.spotify.com/album/5TWrSKdX3d3dZGIKopRRqY"
+      },
+      "artists": [
+        {
+          "name": "Esteban Lattion",
+          "url": "https://open.spotify.com/artist/4j1RkdjO19j3CXBg0egnVz"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149466,
+      "name": "goldfish",
+      "url": "https://open.spotify.com/track/56pyNauOrr1KEdPazOMage"
     },
     {
       "album": {
@@ -13135,6 +13193,24 @@
     },
     {
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2A4BRM1QxXonIGYuijpxL0"
+      },
+      "artists": [
+        {
+          "name": "Zachary",
+          "url": "https://open.spotify.com/artist/0rTbGHUXKSsh9LoS1OzyFG"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148927,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/2de9XtIVq3TnCnwPwyZmH9"
+    },
+    {
+      "album": {
         "name": "Hysterie + Abfall",
         "url": "https://open.spotify.com/album/0OpA4ickyWjGd7wJWTsIFt"
       },
@@ -13528,6 +13604,24 @@
       "duration_ms": 185624,
       "name": "i love you don't worry xx",
       "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
+    },
+    {
+      "album": {
+        "name": "i MISS YOU.",
+        "url": "https://open.spotify.com/album/7t5ZOaFV3ModF1dtPy9mQl"
+      },
+      "artists": [
+        {
+          "name": "Belen",
+          "url": "https://open.spotify.com/artist/6biArFIPD9uq01wgmJLfXL"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "i MISS YOU.",
+      "url": "https://open.spotify.com/track/0dXpM9lhvmSiqlFWGL5lyq"
     },
     {
       "album": {
@@ -14815,6 +14909,24 @@
     },
     {
       "album": {
+        "name": "Jumpy",
+        "url": "https://open.spotify.com/album/5gWqaGUxHvOheg1uByI7KJ"
+      },
+      "artists": [
+        {
+          "name": "Holli",
+          "url": "https://open.spotify.com/artist/0mWMTIEvUdaNLWqfXg4Q7E"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179587,
+      "name": "Jumpy",
+      "url": "https://open.spotify.com/track/0TiFWL0XanGFfHUsCrjHsi"
+    },
+    {
+      "album": {
         "name": "jung & naiv",
         "url": "https://open.spotify.com/album/6Smjr3lRXJy7daaw5jTBJ6"
       },
@@ -15518,7 +15630,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 129094,
       "name": "Kleiner Drei <3",
       "url": "https://open.spotify.com/track/1tNSVqJZreLeRSNrqgAKo9"
@@ -16560,7 +16672,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 137200,
       "name": "Lieb mich",
       "url": "https://open.spotify.com/track/6uCsMyysLEOE9yTqmcy1m4"
@@ -17468,6 +17580,24 @@
       "duration_ms": 207000,
       "name": "Mad",
       "url": "https://open.spotify.com/track/682PIF5yaDJ32zxxqusK18"
+    },
+    {
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/3flLBKhSlzfOKlGD66Nb1i"
+      },
+      "artists": [
+        {
+          "name": "TAM",
+          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149472,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/2GLeUrYL5kMWJddxjl6qEx"
     },
     {
       "album": {
@@ -19403,6 +19533,24 @@
     },
     {
       "album": {
+        "name": "NO HABLO ESPA\u00d1OL",
+        "url": "https://open.spotify.com/album/3GVDsLXUq2TwMifiuaofMw"
+      },
+      "artists": [
+        {
+          "name": "gwuapo",
+          "url": "https://open.spotify.com/artist/541v9CXcXK7uAPLSdD9vb5"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104276,
+      "name": "NO HABLO ESPA\u00d1OL",
+      "url": "https://open.spotify.com/track/444uebfXYQiJGCFZlkvH4Z"
+    },
+    {
+      "album": {
         "name": "No Hero, That's Fine",
         "url": "https://open.spotify.com/album/7djkSeB0OSaTIJG1REj2A1"
       },
@@ -20916,7 +21064,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 169672,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4Pcpv4lVRJN63vlAUy34Hs"
@@ -21720,7 +21868,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 190000,
       "name": "puffpass </3",
       "url": "https://open.spotify.com/track/3qf4k1ycqHTZPWJd1gQQcW"
@@ -23788,7 +23936,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 139365,
       "name": "Schwimme (ich ertrink)",
       "url": "https://open.spotify.com/track/4kIeSEmVGZyl0F3Ar76R7y"
@@ -24292,7 +24440,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 247789,
       "name": "Sieben",
       "url": "https://open.spotify.com/track/119d15hLCKcPHGoWodfokj"
@@ -25234,7 +25382,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 149453,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/7zrQ0QOlFBfe2YXfOyks3h"
@@ -27481,6 +27629,24 @@
     },
     {
       "album": {
+        "name": "No Way But Through",
+        "url": "https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Colace",
+          "url": "https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129271,
+      "name": "This Feelin'",
+      "url": "https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in"
+    },
+    {
+      "album": {
         "name": "Clean Slate EP",
         "url": "https://open.spotify.com/album/49aGULYvQRBxrSCllbp14q"
       },
@@ -29490,6 +29656,24 @@
       "duration_ms": 144162,
       "name": "WANT WANT",
       "url": "https://open.spotify.com/track/7jcj5UK6fwRREUbNDaGgRw"
+    },
+    {
+      "album": {
+        "name": "WAPI",
+        "url": "https://open.spotify.com/album/66V9TXcZgcR4mCgvn1F5Xh"
+      },
+      "artists": [
+        {
+          "name": "Kokonelle",
+          "url": "https://open.spotify.com/artist/3et4QfjlsqkeJfQnh9byoM"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179186,
+      "name": "WAPI",
+      "url": "https://open.spotify.com/track/0c2TWKxSfouewmTxXK9inQ"
     },
     {
       "album": {

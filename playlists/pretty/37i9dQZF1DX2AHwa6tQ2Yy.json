@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: Cleo Sol ",
-  "num_followers": 57635,
+  "num_followers": 57636,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2026-01-23 01:47:43",

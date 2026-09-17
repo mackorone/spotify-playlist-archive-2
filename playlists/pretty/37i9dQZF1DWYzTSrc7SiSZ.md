@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,838 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,797 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 49 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
 | 50 | [Lluvia](https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r) | [Lluvia \(Man120\)](https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA) | 3:51 |
 | 51 | [MI TODO](https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:50 |
-| 52 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
-| 53 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
+| 52 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
+| 53 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 54 | [Amiga Mía](https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía](https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn) | 3:32 |
 | 55 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
 | 56 | [Olas y Arenas](https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [En Otra Vida](https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD) | 2:42 |
 | 57 | [Electricidad \(2:21am\)](https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 3:57 |
 | 58 | [Hoy](https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Hoy](https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz) | 3:55 |
-| 59 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
-| 60 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
+| 59 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
+| 60 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
 | 61 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 |
 | 62 | [japón](https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:34 |
 | 63 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 88 | [Indirecta](https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Indirecta](https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o) | 3:20 |
 | 89 | [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 |
 | 90 | [Lalala](https://open.spotify.com/track/6bZo5hD6TLeReBF3kZWcv0) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Lalala](https://open.spotify.com/album/63gnQZ2zbvNFstV9UoEkNp) | 2:56 |
-| 91 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 |
-| 92 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 |
+| 91 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 |
+| 92 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 |
 | 93 | [5 letras, 2 palabras](https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Lo que escribí mientras no estabas :\)](https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc) | 2:32 |
 | 94 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 95 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 97 | [Luna Nueva](https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO) | [Limón Blue](https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0) | [Luna Nueva](https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL) | 3:43 |
 | 98 | [Despecho Nuevo](https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Despecho Nuevo](https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73) | 3:37 |
 | 99 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 |
-| 100 | [No Eres Tú, Soy Yo](https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Confíen En Mí](https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy) | 1:48 |
+| 100 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/5Pa0fsgk3DjWKlBc47JE79) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 |
 
 Snapshot ID: `AAAAAKnCDUW3QNAwXnUHn1RuqGzVmcZr`

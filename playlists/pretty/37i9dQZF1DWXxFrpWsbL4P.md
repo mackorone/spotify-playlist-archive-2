@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,135 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,130 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 6 | [Sweat Drip](https://open.spotify.com/track/7spOWFsvDJITKHB0AuCd7Z) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Love.exe](https://open.spotify.com/album/1gJyfKAvntI0MU18nrsQ2a) | 3:14 |
 | 7 | [The Sound \- Edit](https://open.spotify.com/track/5p2WCbrxJtGIyGQU1wm22c) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [OZBEK](https://open.spotify.com/artist/3oirDQR9QcyQvqjEZSMLFu), [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [The Sound](https://open.spotify.com/album/6Ru1NQn19EmYDMG8dGiy37) | 3:00 |
 | 8 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 |
-| 9 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 9 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 10 | [8pm](https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [8pm](https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a) | 5:54 |
 | 11 | [ME PIERDO](https://open.spotify.com/track/5pe3CDUHD9aJ1qUaOGLToD) | [RIC ZANATTA](https://open.spotify.com/artist/6fecCDb6vusOj57jkOinjs), [ibann](https://open.spotify.com/artist/2dXg6s08GAiK4IMLsaRJRe) | [ME PIERDO](https://open.spotify.com/album/5Et47hqbgrgyFhIiXFADpG) | 3:19 |
 | 12 | [2 This](https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [2 This](https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,248 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,268 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
 | 50 | [Hip Hop Messiah](https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:19 |
 
-Snapshot ID: `aqc5AAAAAAAssbXJytuUUtPmMJsjhyJm`
+Snapshot ID: `aqc5AAAAAADyvNV8Spa6OAbN34BAVS7o`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Arron Rebustes. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Shantel Cyline. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -5452,6 +5452,24 @@
       "duration_ms": 182559,
       "name": "Anywhere but here",
       "url": "https://open.spotify.com/track/1TkIXFZn5W3M8PRZaZF2cY"
+    },
+    {
+      "album": {
+        "name": "anywhere w you <3",
+        "url": "https://open.spotify.com/album/5Uxfzv3CRg5Z62AER7YiKN"
+      },
+      "artists": [
+        {
+          "name": "Shantel Cyline",
+          "url": "https://open.spotify.com/artist/460xp6KCwKJBQgf7EhobDV"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264826,
+      "name": "anywhere w you <3",
+      "url": "https://open.spotify.com/track/23cdXYVDsk7rgBVCOS3hay"
     },
     {
       "album": {
@@ -13092,7 +13110,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 325041,
       "name": "Chupoy Chupoy",
       "url": "https://open.spotify.com/track/0XpJitZkaCZx9N1eJhFjUz"
@@ -18012,6 +18030,24 @@
       "duration_ms": 283580,
       "name": "Domo Arigato Mr. Lobotomy",
       "url": "https://open.spotify.com/track/7ezdEZLJfygZeVC0q9IDJa"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/5aIsW2RH7tPOZRdxhTXapK"
+      },
+      "artists": [
+        {
+          "name": "ken$hin",
+          "url": "https://open.spotify.com/artist/5WwcK2mavKhvtPN9zEDb7J"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185473,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/1xwcuuNifjRwfSCTYg0aKP"
     },
     {
       "album": {
@@ -29104,7 +29140,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 231692,
       "name": "Hoping",
       "url": "https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM"
@@ -59327,6 +59363,24 @@
     },
     {
       "album": {
+        "name": "Romantiko",
+        "url": "https://open.spotify.com/album/4C6SzGdw0JBzi9KpGpe4Ym"
+      },
+      "artists": [
+        {
+          "name": "Majarlica",
+          "url": "https://open.spotify.com/artist/56d8mj60ojLNCNPINsDHKr"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Romantiko",
+      "url": "https://open.spotify.com/track/6WIapTWmgn3t3gua580GCi"
+    },
+    {
+      "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/6pcaA26p6ZffTrjpOhbRTV"
       },
@@ -66272,7 +66326,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 164490,
       "name": "Stay or Go",
       "url": "https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt"

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158129,
+  "num_followers": 158128,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,34 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Bate A Onda",
+        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
+      },
+      "artists": [
+        {
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Bate A Onda",
+      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1335,34 +1363,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Bate A Onda",
-        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
-      },
-      "artists": [
-        {
-          "name": "Rio Santana",
-          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Bate A Onda",
-      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
     }
   ],
   "unique_name": "Resenha na Praia",

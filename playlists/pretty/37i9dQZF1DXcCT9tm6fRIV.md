@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,087 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,099 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 50 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 51 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 52 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
-| 53 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
-| 54 | [Adios Pampa mia](https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN) | [Anibal Troilo \- Cancion desesperada](https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW) | 3:24 |
-| 55 | [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 |
+| 53 | [Adios Pampa mia](https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN) | [Anibal Troilo \- Cancion desesperada](https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW) | 3:24 |
+| 54 | [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 |
+| 55 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
 | 56 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 57 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 |
 | 58 | [Sur](https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Rescatados](https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy) | 2:57 |

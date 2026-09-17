@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,529 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,531 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 65 | [Men With Evil Hearts](https://open.spotify.com/track/26sTWQPzFMKv1gNuQFcaxI) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Leaving](https://open.spotify.com/album/3wRjoe5k9mCmuRVdUERgqo) | 2:02 |
 | 66 | [\(That's What You Get\) For Lovin' Me](https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:26 |
 | 67 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
-| 68 | [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 |
-| 69 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
-| 70 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
-| 71 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
+| 68 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
+| 69 | [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 |
+| 70 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
+| 71 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
 | 72 | [Girl on the Billboard \(Rerecorded\)](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 73 | [Walkin' In The Sunshine \- Single Version](https://open.spotify.com/track/18HSzsGBHeLpQiB5KqV9Jb) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [King Of The Road: The Genius Of Roger Miller](https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd) | 2:40 |
 | 74 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 80 | [Burning Memories \- Single Version](https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Burning Memories](https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD) | 2:29 |
 | 81 | [Blue Kentucky Girl](https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:40 |
 | 82 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
-| 83 | [Mr\. Record Man](https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [Together Again](https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb) | 2:26 |
-| 84 | [One in a Row](https://open.spotify.com/track/2CDh0bBvP0ZAXiibPZvpPC) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 2:32 |
+| 83 | [One in a Row](https://open.spotify.com/track/2CDh0bBvP0ZAXiibPZvpPC) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 2:32 |
+| 84 | [Mr\. Record Man](https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [Together Again](https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb) | 2:26 |
 | 85 | [You Didn't Have To Be So Nice](https://open.spotify.com/track/1zEenuHokRIDtzvB4l65GE) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Walkin' In The Sunshine](https://open.spotify.com/album/0f08APYCMBP8URERmkBfCT) | 1:45 |
 | 86 | [Act Naturally](https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:23 |
 | 87 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8) | 2:36 |

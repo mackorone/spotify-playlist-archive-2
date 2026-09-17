@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:3hCi31ICsYRsUFcNouCFYz\`">G.Inc<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,140 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,154 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Душа](https://open.spotify.com/track/5NwtyYPj77HIvz8eOpcMuu) | [prirva](https://open.spotify.com/artist/3nPHIez3g5tKXZSTetC1jR) | [Закарбуй](https://open.spotify.com/album/3kRpw9UMyw2cuYXFUz9jLr) | 3:57 |
 | 50 | [справжньому](https://open.spotify.com/track/6e8sRs0DcN5YCMCCmIprLb) | [OGGIAMA](https://open.spotify.com/artist/0pxEqYpr2RKLLRVhQ8hY0N) | [справжньому](https://open.spotify.com/album/1g3NqMz7umKyDYDaNGYbCw) | 2:51 |
 
-Snapshot ID: `AAAAAPfXpdurdgnA2e78nBQkpjSxWcLN`
+Snapshot ID: `AAAAANVfZHP4I74oc57F0i3JPRVO+4PU`

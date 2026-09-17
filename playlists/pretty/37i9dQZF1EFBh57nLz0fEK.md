@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286 likes - 136 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 136 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 70 | [Cha Cha](https://open.spotify.com/track/3V6iMzC3UouWCUFewAoaZ2) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:10 |
 | 71 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
 | 72 | [Dissolve](https://open.spotify.com/track/1vQ8UU7AGi4ljLZ8yngVBM) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 3:31 |
-| 73 | [Together](https://open.spotify.com/track/5xz3JjXScpWsjYDpjeBZpd) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e) | 3:23 |
-| 74 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
-| 75 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
-| 76 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
+| 73 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 74 | [Together](https://open.spotify.com/track/5xz3JjXScpWsjYDpjeBZpd) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e) | 3:23 |
+| 75 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
+| 76 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
 | 77 | [Charlie Row \(feat\. Yoko Gold\) x Wishing Well](https://open.spotify.com/track/1gFMmiexwF1gN2oCNrNZJi) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [PETERSON](https://open.spotify.com/album/2PiIDB5gFSmj7GMDl1I0kC) | 4:34 |
 | 78 | [2 B Loved](https://open.spotify.com/track/6pPrxCv6pTAm0qvT4Dc06u) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:55 |
 | 79 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 135 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
 | 136 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 
-Snapshot ID: `AccZ3AAAAADognWp+NNgrx5Hs+Wuuy4s`
+Snapshot ID: `AccfmgAAAAD13nbHYK3Ak+P8SIiA49/s`

@@ -762,7 +762,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
@@ -2489,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/3j09ujGiqVYzlxpzaLCCIH"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253548,
+      "name": "If Here Was Forever",
+      "url": "https://open.spotify.com/track/7cxdnI0kpPa7jNnANwWRYW"
+    },
+    {
+      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/3GRYJstBFhTZeiNSS6NSTY"
       },
@@ -3580,7 +3602,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
@@ -3928,6 +3950,28 @@
       "duration_ms": 148883,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/3EurOIa1yfkDfpfRmsGlBO"
+    },
+    {
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/3j09ujGiqVYzlxpzaLCCIH"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242910,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2NWRMCOSEQ0Ad6zXKj0jrB"
     },
     {
       "album": {

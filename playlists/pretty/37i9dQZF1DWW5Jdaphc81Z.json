@@ -1,6 +1,6 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 219569,
+  "num_followers": 219601,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
@@ -64,7 +64,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -715,30 +699,38 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 147269,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "We Love The Sun (Edit)",
+        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        }
+      ],
+      "duration_ms": 256995,
+      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
+      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -783,26 +775,6 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "We Love The Sun (Edit)",
-        "url": "https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Jo.Ke",
-          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
-        }
-      ],
-      "duration_ms": 256995,
-      "name": "Who Loves The Sun feat. Jo.Ke - Edit",
-      "url": "https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -867,30 +839,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "A Gira",
         "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
       },
@@ -903,6 +851,34 @@
       "duration_ms": 152325,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -987,6 +963,30 @@
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Return to Oz (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Return to Oz - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Return to Oz (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Return to Oz - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Dotr",
-        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Hot Sauce",
         "url": "https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 137699,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Dotr",
+        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
     },
     {
       "added_at": "2026-08-27 21:01:11",

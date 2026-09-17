@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: レトロリロン（RETRORIRON）
 
-3,565 songs - 9 day 6 hr 3 min
+3,565 songs - 9 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Bon Voyage](https://open.spotify.com/track/2KwSdAqBpDcIYEeqrG6JmT) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 3:29 | 2025-11-04 | 2026-01-15 |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-09-06 |
 | [Bonyo](https://open.spotify.com/track/1JhE2qRtMoMwdv0YwRFdW5) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Sunny Beat Deluxe !](https://open.spotify.com/album/60EhCA4OVatzgUY9rEqEl5) | 2:37 | 2026-07-30 | 2026-08-12 |
+| [Boo](https://open.spotify.com/track/2v4HM1HdEBmo5v84JBUxz0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [はなしのつづき](https://open.spotify.com/album/60fXdQjhvDwBGKWNDhTTtk) | 4:16 | 2026-09-15 |  |
 | [Boogie](https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Boogie](https://open.spotify.com/album/36WpGvLIJ64ig6TIYgna23) | 4:27 | 2026-05-26 | 2026-07-31 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-07-12 |
 | [Booty Call](https://open.spotify.com/track/1pQyDbHgJ1IehvIlBnSvFo) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [Booty Call](https://open.spotify.com/album/441LmXTYZ99MJbgQfpcSZ5) | 2:47 | 2026-05-12 | 2026-05-20 |
@@ -1737,7 +1738,6 @@
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
 | [Toy Box](https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Who am I?](https://open.spotify.com/album/75SzOy9IS2koE6VeYtHYeR) | 3:00 | 2026-09-01 | 2026-09-09 |
-| [Track 5](https://open.spotify.com/track/2v4HM1HdEBmo5v84JBUxz0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [はなしのつづき](https://open.spotify.com/album/60fXdQjhvDwBGKWNDhTTtk) | 0:00 | 2026-09-15 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

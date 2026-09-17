@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3890270,
+  "num_followers": 3890101,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+        "name": "Wanna Be Somewhere With You",
+        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
       },
       "artists": [
         {
           "name": "Rules",
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
         }
       ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+      "duration_ms": 220959,
+      "name": "Wanna Be Somewhere With You",
+      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -571,18 +567,22 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Wanna Be Somewhere With You",
-        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
       },
       "artists": [
         {
           "name": "Rules",
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
         }
       ],
-      "duration_ms": 220959,
-      "name": "Wanna Be Somewhere With You",
-      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1071,26 +1071,22 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Feel This Way",
-        "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
       },
       "artists": [
         {
-          "name": "MOTSA",
-          "url": "https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         },
         {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "James Grant",
-          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
         }
       ],
-      "duration_ms": 237931,
-      "name": "Feel This Way",
-      "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+      "duration_ms": 199450,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1115,22 +1111,26 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "MOTSA",
+          "url": "https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP"
         },
         {
-          "name": "Ren Ocean",
-          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
         }
       ],
-      "duration_ms": 199450,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+      "duration_ms": 237931,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -1447,6 +1431,38 @@
       "duration_ms": 258409,
       "name": "Closer",
       "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1471,6 +1487,26 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1491,22 +1527,18 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 268560,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
     },
     {
       "added_at": "2026-09-04 04:01:02",

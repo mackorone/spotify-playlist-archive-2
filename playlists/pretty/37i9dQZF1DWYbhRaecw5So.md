@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,533 likes - 75 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,538 likes - 75 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 6 | [Omira](https://open.spotify.com/track/2PjhtQ6QPxs7KZnbPpCwcF) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [No Drama](https://open.spotify.com/album/6umOBRogngTEb8S0YkQIwp) | 3:22 |
 | 7 | [How You Feel \- Emanuel Satie & Maga Remix](https://open.spotify.com/track/4rjRbLPvkiTPAlX5Fq8Ziy) | [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl) | [How You Feel \(Emanuel Satie & Maga Remix\)](https://open.spotify.com/album/1qZblgxxZZyEV0AAzrq7df) | 5:45 |
 | 8 | [Wanene \- Extended Mix](https://open.spotify.com/track/7gcKO6KOVzMBWV9AhTFHq9) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Wanene](https://open.spotify.com/album/4sKDsdBg6MzVWjdfGWZ4sL) | 6:03 |
-| 9 | [Turning Stones \- Mind Against Remix](https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Turning Stones \(Mind Against Remix\)](https://open.spotify.com/album/6GZ4PK7am4zhLQEsSdLuG6) | 4:11 |
+| 9 | [Turning Stones \- Mind Against Remix](https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Turning Stones \(Mind Against Remix\)](https://open.spotify.com/album/6GZ4PK7am4zhLQEsSdLuG6) | 4:11 |
 | 10 | [Chase the Sun](https://open.spotify.com/track/24Yz9uDygbyWGhnxpfvHKN) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Chase the Sun](https://open.spotify.com/album/5VoOiqsiq1XOjzqlktGhTV) | 3:27 |
 | 11 | [Music is Better \- Maxi Meraki Remix](https://open.spotify.com/track/06iMHqpwWG1iM7TmRfyO84) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Music is Better Remixed](https://open.spotify.com/album/5PByHLgKAHvZLLOacUUZU9) | 6:55 |
 | 12 | [Playground](https://open.spotify.com/track/6AZRkRckOj62q3irZHDI30) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Playground](https://open.spotify.com/album/1BqF0Lv8HRJapU58VwBwwx) | 5:00 |

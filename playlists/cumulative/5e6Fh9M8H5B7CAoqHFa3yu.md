@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,561 songs - 6 day 6 hr 7 min
+2,564 songs - 6 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Been There And Seen \- Science Version](https://open.spotify.com/track/2j6hT49SEJkqkxSncNdugh) | [Dutchie Gold](https://open.spotify.com/artist/5hIqf3o1Afan5hS7pPx2uA), [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9) | [Been There And Seen](https://open.spotify.com/album/1uT83Mwp7VzNBoFRLxUa2k) | 5:44 | 2024-03-23 |  |
 | [Been There And Seen \- Wosui Dub](https://open.spotify.com/track/2qDxFC5BMXnwQTbIQLZiyY) | [Dutchie Gold](https://open.spotify.com/artist/5hIqf3o1Afan5hS7pPx2uA), [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9), [Wosui](https://open.spotify.com/artist/6wcPfV502r7pJOhVQECfXG) | [Been There And Seen](https://open.spotify.com/album/1uT83Mwp7VzNBoFRLxUa2k) | 5:34 | 2024-03-23 |  |
 | [Been There And Seen \- Wosui Remix](https://open.spotify.com/track/5hG5ccbm37G7iN221ylgsH) | [Dutchie Gold](https://open.spotify.com/artist/5hIqf3o1Afan5hS7pPx2uA), [Kaleya](https://open.spotify.com/artist/7qAqzv8beYvBi6bn1WP2D9), [Wosui](https://open.spotify.com/artist/6wcPfV502r7pJOhVQECfXG) | [Been There And Seen](https://open.spotify.com/album/1uT83Mwp7VzNBoFRLxUa2k) | 5:34 | 2024-03-23 |  |
+| [Beg](https://open.spotify.com/track/65B5h9tg9Yklje8WoP8uTw) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [Beg](https://open.spotify.com/album/2R5pBX4GjXrsEvHyQ0Eh64) | 3:57 | 2026-09-16 |  |
 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 | 2026-05-29 |  |
 | [Behind You, Beside You](https://open.spotify.com/track/1gutdX4YwZVzpU03CxCvj0) | [Seven AM](https://open.spotify.com/artist/6QF8DtTiM1u89alH5DboWv) | [Behind You, Beside You](https://open.spotify.com/album/2hUhWRjmhRza1rqC0UnAYj) | 5:07 | 2026-08-04 |  |
 | [Belabongo](https://open.spotify.com/track/1Lk3RW8aOFFcCLqUbPbBdK) | [Ant Sant](https://open.spotify.com/artist/6egoPfyBDT6F1noXAVmmVj) | [Belabongo](https://open.spotify.com/album/0kt0BNN7lLbb1VUd27XVpI) | 2:30 | 2025-04-25 |  |
@@ -727,6 +728,7 @@
 | [Feliz vivir](https://open.spotify.com/track/6FA5KvEM5rmQFxrQDGh9Hp) | [MentalSounds](https://open.spotify.com/artist/35oZLv7wqPTzafToMbMQDN) | [Brutal Storm](https://open.spotify.com/album/6zimDKuBMMBcrkuxGvl8uV) | 2:02 | 2026-02-07 |  |
 | [Fibonacci Sequence](https://open.spotify.com/track/0PwBg5BqEGtVXcuaM9BdP7) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The Mix Up Bonus Tracks](https://open.spotify.com/album/2a3nLwXuIKhmRQdoeTqrUZ) | 3:13 | 2026-02-07 |  |
 | [Fight For Your Rights](https://open.spotify.com/track/5siGfDa7QVNg7kFYQ0U9VD) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:18 | 2024-03-10 |  |
+| [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/track/2hoV4zImleSilILebStsEr) | [Austicated](https://open.spotify.com/artist/5DXPuoGFyeYHINmbXW7aeA), [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh) | [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/album/5rZJ7T59vHRnKm88QQkswZ) | 2:16 | 2026-09-16 |  |
 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 | 2025-12-06 |  |
 | [Find a Local Number](https://open.spotify.com/track/5ssQ6lnBgbH7t71UjtWvtU) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Find a Local Number](https://open.spotify.com/album/1H1YLJ2bi1gA8S9T5EjlqE) | 3:33 | 2026-04-21 |  |
 | [Finding the Light](https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Finding the Light](https://open.spotify.com/album/35ywCORGOYMeTxKVETMPMK) | 2:44 | 2026-03-13 |  |
@@ -1873,6 +1875,7 @@
 | [Running on Fumes and Regret](https://open.spotify.com/track/78LxePJ4LlJToM3OJqESqd) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Running on Fumes and Regret](https://open.spotify.com/album/00mVQClS9CCm6C08Xq9RE6) | 3:29 | 2026-04-28 |  |
 | [RWD](https://open.spotify.com/track/1qQGJVggMqG58YYsiGkxth) | [Kier](https://open.spotify.com/artist/0tcPqqUBSuCA9VENxwwyEl), [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [GAMMA](https://open.spotify.com/album/2UdAQuQVSJvv8LX5IRb4A2) | 2:17 | 2025-11-29 |  |
 | [saben a miel](https://open.spotify.com/track/1thmNQHGofKKHFkbBIiGLp) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [saben a miel](https://open.spotify.com/album/62Fa2kUV4ffZY2BzgP2EKP) | 3:08 | 2026-03-12 |  |
+| [Sad Girls](https://open.spotify.com/track/5iULKcxJQr8ZEKsnef2UAf) | [Monday's Mona Lisa](https://open.spotify.com/artist/7MXW6UlH2Jtzu8ZuQ8su93) | [Sad Girls](https://open.spotify.com/album/5hOS0oydlZQMNJMbt8S4OE) | 2:34 | 2026-09-16 |  |
 | [sadness](https://open.spotify.com/track/43idZSK7YRlDUJ2smWs9Fv) | [Aleks Tunka](https://open.spotify.com/artist/5xd5y2Fsnw0WI2JLzvw9qr) | [sadness](https://open.spotify.com/album/5K367QZd5VSJkbAX048G3B) | 2:04 | 2025-10-03 |  |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-03-15 |  |
 | [Saludo al alba](https://open.spotify.com/track/0jXuy9gEWRfT15k8mPckHz) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:37 | 2026-04-12 |  |

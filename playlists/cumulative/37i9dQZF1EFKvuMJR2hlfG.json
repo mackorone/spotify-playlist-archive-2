@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213083,
+      "name": "She",
+      "url": "https://open.spotify.com/track/3WrsES1h3jo3Wq1rfVOByc"
+    },
+    {
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0"
       },

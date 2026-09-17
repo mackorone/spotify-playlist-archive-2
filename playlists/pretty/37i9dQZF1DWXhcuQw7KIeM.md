@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,122 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,214 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 42 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
 | 43 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 |
 | 44 | [Shelter](https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Shelter](https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM) | 4:39 |
-| 45 | [The Loom](https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA) | [Anilah](https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW) | [The Loom](https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj) | 7:13 |
-| 46 | [The Great Feast Underground](https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [The Great Feast Underground](https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS) | 4:44 |
+| 45 | [The Great Feast Underground](https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [The Great Feast Underground](https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS) | 4:44 |
+| 46 | [The Loom](https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA) | [Anilah](https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW) | [The Loom](https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj) | 7:13 |
 | 47 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
 | 48 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |
 | 49 | [SÁLA](https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Umbra](https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S), [Emilie Lorentzen](https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd) | [SÁLA](https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53) | 6:47 |

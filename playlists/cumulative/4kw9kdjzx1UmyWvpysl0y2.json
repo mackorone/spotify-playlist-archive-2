@@ -21891,6 +21891,28 @@
     },
     {
       "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/0fZVVS2tVYDRmCJIgiBtdN"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/3pdFQsczAhnPRiWllBQ3xr"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0DZcWk038Y1E0likCX0lik"
       },

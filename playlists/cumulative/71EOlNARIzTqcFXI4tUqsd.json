@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "2.22pm wishyouwerestillhere",
+        "url": "https://open.spotify.com/album/5HQAp8WbHDAdmTj1gabQtf"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "2.22pm wishyouwerestillhere",
+      "url": "https://open.spotify.com/track/0guXPm7tAdyI4sFypu0zYM"
+    },
+    {
+      "album": {
         "name": "Duality (Part One)",
         "url": "https://open.spotify.com/album/5HPjhrehkdM0dLeO6dPN4h"
       },
@@ -56,6 +74,28 @@
       "duration_ms": 186240,
       "name": "6AM",
       "url": "https://open.spotify.com/track/1nmDH2qDhkQqwpH5e5LjSP"
+    },
+    {
+      "album": {
+        "name": "8 Hours, Still No Rain EP",
+        "url": "https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0"
+      },
+      "artists": [
+        {
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
+        },
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "8 Hours, Still No Rain",
+      "url": "https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX"
     },
     {
       "album": {
@@ -132,6 +172,24 @@
       "duration_ms": 266200,
       "name": "An Ending (Ascent) - Remastered 2005",
       "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
+    },
+    {
+      "album": {
+        "name": "Astrosat",
+        "url": "https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Astrosat",
+      "url": "https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm"
     },
     {
       "album": {
@@ -278,9 +336,27 @@
           "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "date_added": "2023-10-10",
+      "date_added": "2026-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/0STkNvBDD8mFcszWjbGaPA"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-17",
       "duration_ms": 163080,
       "name": "Don't Leave - Edit",
       "url": "https://open.spotify.com/track/3WJLyJ0q7ykBbL1ejq6yWw"
@@ -306,6 +382,24 @@
       "duration_ms": 151200,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/0yyjFGXqd9UeDVvwknmRjY"
+    },
+    {
+      "album": {
+        "name": "conditions for observing light",
+        "url": "https://open.spotify.com/album/5suKg9PcWI0YLPLkHft1rC"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161147,
+      "name": "dreamstate pt ii",
+      "url": "https://open.spotify.com/track/73r9Tsst31bkdaJXYYIRdc"
     },
     {
       "album": {
@@ -382,7 +476,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 190000,
       "name": "Ethereal - Rework",
       "url": "https://open.spotify.com/track/0QQ7w1maDYxm53x6Q8D3P1"
@@ -584,7 +678,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 230608,
       "name": "Huit",
       "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
@@ -606,6 +700,24 @@
       "duration_ms": 164763,
       "name": "I Am The Air",
       "url": "https://open.spotify.com/track/3iGyJJc5g7zTomyz9O72kr"
+    },
+    {
+      "album": {
+        "name": "our lives entwined",
+        "url": "https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200797,
+      "name": "i: off the path,",
+      "url": "https://open.spotify.com/track/40BF06LcmTD7NK3wQ9hNNq"
     },
     {
       "album": {
@@ -660,6 +772,28 @@
       "duration_ms": 144284,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1AiJuiV2Skc6iQ5ODaUHDH"
+    },
+    {
+      "album": {
+        "name": "Svea",
+        "url": "https://open.spotify.com/album/3BYcDSouqUT7HkX1ssbWbr"
+      },
+      "artists": [
+        {
+          "name": "Esteble",
+          "url": "https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp"
+        },
+        {
+          "name": "Joram Feitsma",
+          "url": "https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213669,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0YHr7eyftvf5aJEmevWSoQ"
     },
     {
       "album": {
@@ -843,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Pedals EP",
+        "url": "https://open.spotify.com/album/7IMIsDQTXTeDQPcnoCbtrm"
+      },
+      "artists": [
+        {
+          "name": "Tagavaka",
+          "url": "https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251684,
+      "name": "Light Beyond",
+      "url": "https://open.spotify.com/track/5qkaL6pGNE6ulKcfd2s63v"
+    },
+    {
+      "album": {
         "name": "Acts Of Union EP",
         "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
       },
@@ -858,6 +1010,24 @@
       "duration_ms": 229024,
       "name": "Loch Awe",
       "url": "https://open.spotify.com/track/4KB6FE20302vokalyCjdV5"
+    },
+    {
+      "album": {
+        "name": "Erased Dreams",
+        "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216686,
+      "name": "Lone Machine",
+      "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
     },
     {
       "album": {
@@ -1054,6 +1224,24 @@
       "duration_ms": 269292,
       "name": "Misdirection",
       "url": "https://open.spotify.com/track/7LL7yWKu0Pw1oHGvqvuAqX"
+    },
+    {
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391180,
+      "name": "Mono No Aware",
+      "url": "https://open.spotify.com/track/59VLqYFjBmG2elaSA5vqdN"
     },
     {
       "album": {
@@ -1362,6 +1550,24 @@
       "duration_ms": 236675,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/5H2t0wBYq08MYF2x4wFFap"
+    },
+    {
+      "album": {
+        "name": "Crystallized EP",
+        "url": "https://open.spotify.com/album/4SYwuZIpQZtvykYu2emppx"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138633,
+      "name": "Ruin by the Shore",
+      "url": "https://open.spotify.com/track/1xEMoDAqc5stc1y5l7Nhcr"
     },
     {
       "album": {
@@ -1693,6 +1899,28 @@
     },
     {
       "album": {
+        "name": "Sun & Moon (Downtempo Version)",
+        "url": "https://open.spotify.com/album/2dlPc5ts0otjVoo1KbsJAP"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430625,
+      "name": "Sun & Moon - Downtempo Version",
+      "url": "https://open.spotify.com/track/5W2qMffLvay3W2QzWRh15R"
+    },
+    {
+      "album": {
         "name": "[Strings]",
         "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
       },
@@ -1954,6 +2182,24 @@
       "duration_ms": 303245,
       "name": "Wild Pine",
       "url": "https://open.spotify.com/track/2RFn3rGMxHIluH89oa1O0Z"
+    },
+    {
+      "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284444,
+      "name": "Willoughby's Theme",
+      "url": "https://open.spotify.com/track/2mYqtZO8FIqX6JVajPNGql"
     },
     {
       "album": {

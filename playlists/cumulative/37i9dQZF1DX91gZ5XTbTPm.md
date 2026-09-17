@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: BloodHound Q50
 
-1,687 songs - 3 day 4 hr 23 min
+1,688 songs - 3 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1532,6 +1532,7 @@
 | [Trick](https://open.spotify.com/track/3eL5twPFRGZ9AHsFA4vHAk) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Trick](https://open.spotify.com/album/1Fm7HCVEImfZYYQ64v9F3o) | 3:00 | 2022-11-11 | 2023-01-21 |
 | [Trick Da Kucci](https://open.spotify.com/track/2xNj0TVLv7XvnAIHoE18ei) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Dsco](https://open.spotify.com/artist/1zePn0kkihrbMhTtta9iBa) | [Trick Da Kucci](https://open.spotify.com/album/6RG9l3WuMUnBeEZ7IUXJPE) | 1:51 | 2025-10-17 | 2025-10-25 |
 | [Trickin'](https://open.spotify.com/track/6a8k1o1QFfYp9VW63wY4MF) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trickin'](https://open.spotify.com/album/3GCFhMFbc1ctgLQvuKQOVm) | 2:32 | 2024-08-23 | 2024-11-16 |
+| [Triple 3](https://open.spotify.com/track/3WkaDq5sVRXXWJLm7l8FgE) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Lil Scoom89](https://open.spotify.com/artist/5p56M9Zj9oNwDEEjGWWJ2T) | [Triple 3](https://open.spotify.com/album/1HAU7go9KGUTayWeNd1UYT) | 2:27 | 2026-09-16 |  |
 | [Trophy](https://open.spotify.com/track/1FzXJeQnXYDenO6KoLAb8S) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Trophy](https://open.spotify.com/album/4Y9ftBL8GukasD8YHENblu) | 3:37 | 2025-06-13 | 2025-07-26 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-07-23 |
 | [Truer Than Most](https://open.spotify.com/track/3bJrarywtMeKIWInmyqx2Y) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [FREE ANDY III](https://open.spotify.com/album/4VpECJnw47G8Un9QDTx2Tx) | 2:24 | 2025-04-25 | 2025-05-03 |

@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-430 songs - 1 day 0 hr 42 min
+431 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 | 2026-02-27 |  |
 | [Me Without You \(Acoustic\)](https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [The Acoustic Sessions](https://open.spotify.com/album/0FzEpPssQM0QRjqlsuiBc8) | 4:15 | 2023-12-08 | 2024-04-06 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 | 2025-02-22 |
+| [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 | 2026-09-16 |  |
 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 | 2026-04-17 |  |
 | [mi sombra](https://open.spotify.com/track/5H3YoqollP4StScIYTdSLN) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [mi sombra](https://open.spotify.com/album/6thzFYrrBeeu16ijc5L8ht) | 3:07 | 2025-10-03 | 2026-03-28 |
 | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/track/3oLcbmHfpsUxHcpaLwBsYy) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/album/28E9lTlZ94wh4LoHa40BAg) | 3:25 | 2025-05-02 | 2025-11-15 |

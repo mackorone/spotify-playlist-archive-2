@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,247 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,274 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 18 | [In the Rain](https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:48 |
 | 19 | [Vivid LaLa Love](https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 4:00 |
 | 20 | [Midnight Cruise](https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:44 |
-| 21 | [Magnetic \- City Night Remix](https://open.spotify.com/track/6vkj9UHlADo13y5eHSwdec) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:54 |
-| 22 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 |
+| 21 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 |
+| 22 | [Magnetic \- City Night Remix](https://open.spotify.com/track/6vkj9UHlADo13y5eHSwdec) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:54 |
 | 23 | [Candy Crush](https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 3:00 |
 | 24 | [시그널 \(Signal\)](https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:20 |
 | 25 | [NEON](https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [NEON](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) | 3:40 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 52 | [Drive \(Feat\. George\)](https://open.spotify.com/track/3reKqA2i3YSgBFtEZaqDB9) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Kim Hyun Chul 10Th "Sale"](https://open.spotify.com/album/6xqjeBCnTkA68QjSNmwOst) | 3:34 |
 | 53 | [Why](https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:08 |
 | 54 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 |
-| 55 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
-| 56 | [Orbit of yours](https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:53 |
+| 55 | [Orbit of yours](https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:53 |
+| 56 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 57 | [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 |
 | 58 | [Blue City](https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Blue City](https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E) | 3:51 |
 | 59 | [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [YEOJIN\(L∞na\)](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 91 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
 | 92 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 |
 | 93 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
-| 94 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
-| 95 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
-| 96 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
+| 94 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
+| 95 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
+| 96 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
 | 97 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
 | 98 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
 | 99 | [Just The Two of Us \(feat\. Jinbo\)](https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:39 |

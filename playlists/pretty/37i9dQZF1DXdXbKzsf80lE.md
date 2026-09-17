@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,893 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,895 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 18 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 |
 | 19 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
 | 20 | [Cabeça Voando](https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Agora Eu Pego Mesmo](https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l) | 3:03 |
-| 21 | [Chorei na Vaquejada](https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Chorei na Vaquejada](https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2) | 2:37 |
-| 22 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
+| 21 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
+| 22 | [Chorei na Vaquejada](https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Chorei na Vaquejada](https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2) | 2:37 |
 | 23 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
 | 24 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
 | 25 | [Coisas do Interior](https://open.spotify.com/track/70SX07s7cRqdf0VGLNyPfD) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Do Melhor Jeito](https://open.spotify.com/album/0jNuQlTk5sraH9AzQVaaCT) | 2:26 |

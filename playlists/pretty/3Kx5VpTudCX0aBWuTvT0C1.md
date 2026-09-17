@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,206 likes - 98 songs - 5 hr 55 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,214 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 96 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
 | 97 | [One Last Song](https://open.spotify.com/track/1DT7XGTsCepsPtNrDhouUL) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 6:01 |
 | 98 | [What Should I Name This](https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [What Should I Name This](https://open.spotify.com/album/5UCy77QScrnxdDPHdWUdF1) | 2:43 |
+| 99 | [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 |
 
-Snapshot ID: `AAAC1lypFwvoMlBa4H4Py3j5as4KuZ70`
+Snapshot ID: `AAAC1/wPSTjQtPFPAeP+uT8jc+bBJyDm`

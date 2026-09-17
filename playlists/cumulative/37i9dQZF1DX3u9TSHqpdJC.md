@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: SNACKTIME Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Hannah Hu\. Artwork by Paola Saliby
 
-4,621 songs - 9 day 19 hr 28 min
+4,623 songs - 9 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2072,6 +2072,7 @@
 | [idk](https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [idk](https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3) | 2:34 | 2025-02-26 | 2025-03-27 |
 | [idk](https://open.spotify.com/track/3j4Jb7vshXhRL5DIZnVB77) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [idk](https://open.spotify.com/album/5b1mEBCfxNDkTqhqmodPZn) | 3:04 | 2023-02-15 | 2023-04-27 |
 | [IDK her anymore](https://open.spotify.com/track/05KEXFBghfRnC8yibxjfFA) | [gottsy](https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb) | [IDK her anymore](https://open.spotify.com/album/1565ih3sfBehX6fvY0Mqoc) | 2:22 | 2025-06-25 | 2025-08-21 |
+| [IDK?](https://open.spotify.com/track/3mZi5Xs0k50KkT5XuSasFv) | [IamOutlandish](https://open.spotify.com/artist/2ChOM7NT5Umi3lONEK4moO) | [IDK?](https://open.spotify.com/album/0AXde5zHXGkIDX1rBMVyBK) | 2:41 | 2026-09-16 |  |
 | [IDMY](https://open.spotify.com/track/7g2lCpIM3jJSwzdqQEIZ0g) | [Nia Hendricks](https://open.spotify.com/artist/0EptVj895GIreKBh9IA93J) | [IDMY](https://open.spotify.com/album/5NI4nVd3NzkRWt9d25DZk7) | 3:27 | 2021-08-26 | 2021-09-30 |
 | [IDWU](https://open.spotify.com/track/4tyfmgQGjlhGf3ii1tFUY4) | [Joseph Marcus](https://open.spotify.com/artist/6PLuzxzWxreslcI75QPFTo) | [IDWU](https://open.spotify.com/album/1OWI4AI2qzHjdE4cF3TnKd) | 3:34 | 2021-01-15 | 2021-02-10 |
 | [If Heaven Was A Sound](https://open.spotify.com/track/01JcINkUIdzHd3bn5kqFqt) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [If Heaven Was A Sound](https://open.spotify.com/album/21X3hqPj0FrMqjtiAmAAHi) | 3:47 | 2020-11-18 | 2020-12-08 |
@@ -3195,6 +3196,7 @@
 | [Popstar of Your Dreams](https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Popstar of Your Dreams](https://open.spotify.com/album/3ipC2tIuK15IhTbTPMuxl5) | 3:11 | 2025-04-30 | 2025-06-12 |
 | [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 | 2026-08-12 |  |
 | [Porn Star](https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Porn Star](https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU) | 2:34 | 2024-01-10 | 2024-02-22 |
+| [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 | 2026-09-16 |  |
 | [Poster Girl](https://open.spotify.com/track/3PtstBp4I3hi59Irv4oR0O) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Poster Girl](https://open.spotify.com/album/6nYZQLpRbZRxZpNLVZgDhu) | 3:14 | 2021-07-16 | 2021-09-16 |
 | [Pots and Pans](https://open.spotify.com/track/6rgf4NlrT4GsUpQkPEPPm6) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Pots and Pans](https://open.spotify.com/album/1lk68VXAOHHfUz5uwcqH8R) | 2:34 | 2021-06-24 | 2021-07-22 |
 | [Power](https://open.spotify.com/track/6BFrrhyiptfCNu3xxzRYAa) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Power](https://open.spotify.com/album/2H0Qs7E3B97Fz7GnfLJ9qT) | 3:14 | 2021-03-25 | 2021-04-29 |
@@ -3556,7 +3558,7 @@
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-07 | 2025-05-29 |
 | [Shoot](https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Shoot](https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj) | 2:37 | 2021-09-10 | 2021-10-21 |
 | [shortman syndrome](https://open.spotify.com/track/6RjxywsCw5dR6EPT458NED) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [shortman syndrome](https://open.spotify.com/album/0upkP5O2rhQjBnmn5lPpYN) | 4:13 | 2026-09-09 |  |
-| [Shotgun](https://open.spotify.com/track/0V8BL2RzUCp1ZpRJ4YAhjO) | [Girl Next Door](https://open.spotify.com/artist/2GcwnRAvAnt22dhoXTJidP) | [Shotgun](https://open.spotify.com/album/3EGmOnZbEZvvrLzVpplOZn) | 3:00 | 2026-07-29 |  |
+| [Shotgun](https://open.spotify.com/track/0V8BL2RzUCp1ZpRJ4YAhjO) | [Girl Next Door](https://open.spotify.com/artist/2GcwnRAvAnt22dhoXTJidP) | [Shotgun](https://open.spotify.com/album/3EGmOnZbEZvvrLzVpplOZn) | 3:00 | 2026-07-29 | 2026-09-17 |
 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 | 2024-08-14 | 2025-01-23 |
 | [shotgun](https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ) | [MISSI](https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp) | [shotgun](https://open.spotify.com/album/4jZda0jAoglNpWlmLSgXvN) | 2:21 | 2026-05-06 | 2026-08-06 |
 | [Should've Been Us](https://open.spotify.com/track/24tP5Wt70OYMNAdiOTwnVf) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Should've Been Us](https://open.spotify.com/album/3T3MqnM3KyI9TugytlkrtA) | 2:55 | 2023-02-01 | 2023-03-23 |
@@ -3625,7 +3627,7 @@
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-05-06 | 2021-07-22 |
 | [Slip Away](https://open.spotify.com/track/5MRQTVKZkDu4vYGRSpq6wM) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Mystic I.](https://open.spotify.com/artist/47FZ69r6ttcVTmVAQa1nOT) | [Slip Away](https://open.spotify.com/album/675mGNtA8j1G2FtrsCB6zb) | 3:33 | 2021-06-24 | 2021-08-20 |
 | [Slip Away](https://open.spotify.com/track/39nX4v5MUMnWZPG4c3aPC6) | [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Slip Away](https://open.spotify.com/album/6D5lp622NMgklY4kiQkulp) | 3:20 | 2020-11-05 | 2020-11-18 |
-| [Slipping Away](https://open.spotify.com/track/24sKXsgCVOc75p7eRPSWMW) | [Aiden Kroll](https://open.spotify.com/artist/4AH4IR4NtlSI9JN1y7Qz96) | [Slipping Away](https://open.spotify.com/album/0n1gphXlh9IiNbikGL0rDN) | 3:05 | 2026-07-29 |  |
+| [Slipping Away](https://open.spotify.com/track/24sKXsgCVOc75p7eRPSWMW) | [Aiden Kroll](https://open.spotify.com/artist/4AH4IR4NtlSI9JN1y7Qz96) | [Slipping Away](https://open.spotify.com/album/0n1gphXlh9IiNbikGL0rDN) | 3:05 | 2026-07-29 | 2026-09-17 |
 | [Slitted Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 | 2022-03-30 | 2022-04-28 |
 | [Slow Down](https://open.spotify.com/track/2Qq4blAd5b0kIYEQu5mhsa) | [Pool Toys](https://open.spotify.com/artist/7gznKwOhhKwA0LD2Qt2r1F) | [Slow Down](https://open.spotify.com/album/0wXE0dRSQNtEIy3RV7MOOj) | 4:10 | 2021-05-20 | 2021-06-18 |
 | [Slow Motion](https://open.spotify.com/track/4OWneWea55F1U8nbgSg5Oh) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Slow Motion](https://open.spotify.com/album/0wN71Q6Y38naJuCDNudTG8) | 3:24 | 2021-04-01 | 2021-05-13 |

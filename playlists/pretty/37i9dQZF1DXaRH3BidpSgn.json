@@ -1,15 +1,115 @@
 {
   "description": "<a href=\"spotify:artist:0ygIgsjUzKivFgxgjQ9iV9\">Jacques Greene</a>'s favourite tracks. Updated regularly. Curated by Jacques Greene. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 618,
+  "num_followers": 627,
   "original_name": "Jacques Greene's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUO3Ph70K4a8q/xrwRc2Zpl7XXz",
+  "snapshot_id": "AAAAANI4tj5FVxLw6VBOpDmtNZXiPIVD",
   "tracks": [
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
+      "album": {
+        "name": "lose my cool (Guedra Guedra remix)",
+        "url": "https://open.spotify.com/album/4f6escCQMElNHPOe6zHjoY"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Guedra Guedra",
+          "url": "https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY"
+        }
+      ],
+      "duration_ms": 265669,
+      "name": "lose my cool - Guedra Guedra remix",
+      "url": "https://open.spotify.com/track/3mUzHZKd0KDfBqmPaDiAfQ"
+    },
+    {
+      "added_at": "2026-09-16 16:53:57",
+      "album": {
+        "name": "Everyone (ft SEES00000)",
+        "url": "https://open.spotify.com/album/2jEHAZpzxR3uBgrAY41N9T"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 233015,
+      "name": "Everyone - ft SEES00000",
+      "url": "https://open.spotify.com/track/3Nv9YYqS1CabyQoYLCJBpW"
+    },
+    {
+      "added_at": "2026-09-16 16:53:57",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/3EN3573Wc42WEisr3zY9mE"
+      },
+      "artists": [
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "duration_ms": 414225,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/3HTpEOgtvIi54uktLW2Y9a"
+    },
+    {
+      "added_at": "2026-09-16 16:53:57",
+      "album": {
+        "name": "The Only True Joy on Earth (Nick Le\u00f3n True Joy 4am Mix)",
+        "url": "https://open.spotify.com/album/4jAcVPj5ODiqyqUcPIcy1d"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "duration_ms": 534761,
+      "name": "The Only True Joy on Earth - Nick Le\u00f3n True Joy 4am Mix",
+      "url": "https://open.spotify.com/track/7via2zUgfXI3gIGemZ5Egq"
+    },
+    {
+      "added_at": "2026-09-16 16:53:57",
+      "album": {
+        "name": "Nemesi",
+        "url": "https://open.spotify.com/album/76BpmXri088mUoqBb44jxo"
+      },
+      "artists": [
+        {
+          "name": "HLRTY",
+          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
+        },
+        {
+          "name": "Ethik",
+          "url": "https://open.spotify.com/artist/6vM78OBKjgJwVmH0MuwmJ5"
+        }
+      ],
+      "duration_ms": 235142,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/14Tg7qSaZNtb1Xs3ZZheeW"
+    },
+    {
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Fold",
         "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
@@ -33,7 +133,7 @@
       "url": "https://open.spotify.com/track/1mw9vOPLAWQ1sZcJSwPJzC"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "new avatar",
         "url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE"
@@ -49,7 +149,7 @@
       "url": "https://open.spotify.com/track/6TeR0e4fplW8PIXX5Ah46c"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "ALL THE D0GS ARE BARKING",
         "url": "https://open.spotify.com/album/3eXfS9eDIZfosNdiLR9Hsh"
@@ -69,7 +169,7 @@
       "url": "https://open.spotify.com/track/3VYobIkstO77VrxWaatrCQ"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Right When I Told You",
         "url": "https://open.spotify.com/album/45EEdddVlUxi8maEa1E7U2"
@@ -85,7 +185,7 @@
       "url": "https://open.spotify.com/track/7qW05qq8FMAl63R6Yzf0sW"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Mag Fields / Unlocked Love",
         "url": "https://open.spotify.com/album/6Pf4ucoRYE09gVtFdhJwCA"
@@ -101,7 +201,7 @@
       "url": "https://open.spotify.com/track/5WMNsvdaYZWNmkdnr7SfLH"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/4EGnzdFg7c2Xj5t6kHg0bB"
@@ -117,7 +217,7 @@
       "url": "https://open.spotify.com/track/6QddCpUbTbq6KLkxgsrzox"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Holdup",
         "url": "https://open.spotify.com/album/4cz6FvT4wuTL8aul3R7AjQ"
@@ -133,7 +233,7 @@
       "url": "https://open.spotify.com/track/7D8FvmoY7F8aGMYWWdsXic"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "HEARTH SONGS",
         "url": "https://open.spotify.com/album/1tRCW1ppv8QYNdjDXUUSQz"
@@ -149,7 +249,7 @@
       "url": "https://open.spotify.com/track/6SV5iCSsY40LF0X5gWdvYH"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5t1C6ymtIpmZLzJIvMbMVo"
@@ -165,7 +265,7 @@
       "url": "https://open.spotify.com/track/1qUEv0qLZw7i1BwjM8GEZE"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Br\u00fccke",
         "url": "https://open.spotify.com/album/0LxL46akJvTI8SpXVInhcS"
@@ -181,7 +281,7 @@
       "url": "https://open.spotify.com/track/4AuglUcavMMM0Ylidd1WCz"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Friend Remixes",
         "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
@@ -201,7 +301,7 @@
       "url": "https://open.spotify.com/track/3QGoLU9Aqb4SOWIZFXbzud"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Lownoise",
         "url": "https://open.spotify.com/album/3savLzfnKyLSQ8v7U3gRsY"
@@ -217,7 +317,7 @@
       "url": "https://open.spotify.com/track/088voZjvfHqEzNQLpwKeDK"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/3G4hZn9RwajgAmUapiIwRI"
@@ -233,7 +333,7 @@
       "url": "https://open.spotify.com/track/2xFpNQXMZlsGTpppxGU52H"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Shell Call (James Bangura Remix)",
         "url": "https://open.spotify.com/album/5zJIsnM6TPNW2tryIradrk"
@@ -253,7 +353,7 @@
       "url": "https://open.spotify.com/track/0BH5OEk7B2sda1DRyDV3nc"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "goodbye! later on!",
         "url": "https://open.spotify.com/album/5xDOHYY3wSYuOHeZAhzrqI"
@@ -269,7 +369,7 @@
       "url": "https://open.spotify.com/track/5KUn5xLXjsxdyOsbiFjX63"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/7zVsk0UIbQqrCs60RTuKwL"
@@ -289,7 +389,7 @@
       "url": "https://open.spotify.com/track/23RJzRaEYj1WdJqB2nBvAR"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Scorpio Rising",
         "url": "https://open.spotify.com/album/26tC5w0oT1hLkRj2RIWJIS"
@@ -305,7 +405,7 @@
       "url": "https://open.spotify.com/track/39ez9z8TtjHkzvDB5Axxu2"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Bad Song",
         "url": "https://open.spotify.com/album/6pe759sVJ3ZdKfAQaYCvcb"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/6IGQGhNmckvVyruZDqaHdk"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
@@ -341,7 +441,7 @@
       "url": "https://open.spotify.com/track/3HP8BrBwp7YT9eFypijQWE"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Rave Echoes",
         "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
@@ -357,7 +457,7 @@
       "url": "https://open.spotify.com/track/29tyws3oVbpVu7vnLhqMST"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Higher Function",
         "url": "https://open.spotify.com/album/5tAD7P8jiMdAMYUnZ1sdSH"
@@ -373,7 +473,7 @@
       "url": "https://open.spotify.com/track/2ECHLVc9yoQ9cq8JzLUOxP"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Ultra Villain",
         "url": "https://open.spotify.com/album/7vz5dW5cPZeyp9L27A76tf"
@@ -389,7 +489,7 @@
       "url": "https://open.spotify.com/track/4FliJRwqrA210lkZkDRGpZ"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Move Time",
         "url": "https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z"
@@ -409,7 +509,7 @@
       "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Overtone III",
         "url": "https://open.spotify.com/album/2aEVxX3pYVismL2aknGBD6"
@@ -425,7 +525,7 @@
       "url": "https://open.spotify.com/track/2SQKakluklgLJ70lbzxDep"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4hirH9UBXv2rSsAXkhcknF"
@@ -441,7 +541,7 @@
       "url": "https://open.spotify.com/track/6C5zef4XUqNMsR0FFGaJ5Z"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Mod Break / Variated 3",
         "url": "https://open.spotify.com/album/5oMb7WAeh5Sumsxj19dQJb"
@@ -461,7 +561,7 @@
       "url": "https://open.spotify.com/track/05rByi3FspJDgfpa8JOfLl"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Heaven (Jacques Greene Remix)",
         "url": "https://open.spotify.com/album/6ksrwsqU4aeJe6ZfAhlKkC"
@@ -481,7 +581,7 @@
       "url": "https://open.spotify.com/track/3ew1YrbeUGqCJKcbumqAKb"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Par Avion",
         "url": "https://open.spotify.com/album/3A1oG8pFKZkijpsoam7Nhs"
@@ -497,7 +597,7 @@
       "url": "https://open.spotify.com/track/14sqLvmLAVJwJ18ly6O5iW"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Elktorn / All I Could Think Of",
         "url": "https://open.spotify.com/album/1bFdHzcAuwcUuDeYIbHA7E"
@@ -513,7 +613,7 @@
       "url": "https://open.spotify.com/track/3i8AfodhwJTTrtMKL0Rsth"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Oxytoxin",
         "url": "https://open.spotify.com/album/6IB5Af6Ipn3EWd6S6eZhel"
@@ -529,7 +629,7 @@
       "url": "https://open.spotify.com/track/3lvRuQaYkPm6gpfhvhVHnK"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
@@ -545,7 +645,7 @@
       "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Nosu",
         "url": "https://open.spotify.com/album/3ANLiwmHbmsp6GkKKGXQ72"
@@ -561,7 +661,7 @@
       "url": "https://open.spotify.com/track/2NeKt6clNJnKuqG5DpvoeZ"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Chestnut People Volume 2",
         "url": "https://open.spotify.com/album/66kd8bPmbH6tcDDdu1C8dH"
@@ -585,7 +685,7 @@
       "url": "https://open.spotify.com/track/61nVvGIL2AqrTdY91proVQ"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Wisco",
         "url": "https://open.spotify.com/album/0ruX8aSv1hQlwgKAUv2KwD"
@@ -613,7 +713,7 @@
       "url": "https://open.spotify.com/track/1sSuiIarFUaLo7X3UZkOh3"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "BL00MS",
         "url": "https://open.spotify.com/album/2r0DNAiwCnpAH1z0NAlfk5"
@@ -629,7 +729,7 @@
       "url": "https://open.spotify.com/track/645evtbeYHnyoRIr7Px7GV"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Soul Patch EP",
         "url": "https://open.spotify.com/album/6VzPxMwFueuLpbaln7Bmso"
@@ -645,7 +745,7 @@
       "url": "https://open.spotify.com/track/79Ob4h5MqPCvWFljBSETNX"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Vieze Kanker Vlek",
         "url": "https://open.spotify.com/album/4mpIvFoiVwXNZ9u63HinCI"
@@ -661,7 +761,7 @@
       "url": "https://open.spotify.com/track/6AT7rT2IxJl9JC3KxezP3x"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "The Songs for the NOT-YETs",
         "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
@@ -677,7 +777,7 @@
       "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "My Soul 2 Keep",
         "url": "https://open.spotify.com/album/5agfGwDtjDgFeEBii4Vl0H"
@@ -693,7 +793,7 @@
       "url": "https://open.spotify.com/track/1dYilOkapDmQGj9LgHcB1d"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
@@ -713,7 +813,7 @@
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Undo (Your Body)",
         "url": "https://open.spotify.com/album/1sY3sU8mLAclY7PiBoAsph"
@@ -729,7 +829,7 @@
       "url": "https://open.spotify.com/track/75hIYCHHwBSkO3rU03zEqt"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/0OEgA2fZ3xgJS7IZBzS2Rf"
@@ -745,7 +845,7 @@
       "url": "https://open.spotify.com/track/0TO07BSIrCMs9vf3Cm0NaX"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
@@ -761,7 +861,7 @@
       "url": "https://open.spotify.com/track/7miQVkdK7YtlxK0BzgYEWf"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Blueprints of Us (Muddyoush Remix)",
         "url": "https://open.spotify.com/album/3KrPHZtvfRMiyYpNm9nreI"
@@ -781,7 +881,7 @@
       "url": "https://open.spotify.com/track/5NhUWZUhpcSzrKPmsU5NUs"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Jersey (feat. Jam City)",
         "url": "https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h"
@@ -801,7 +901,7 @@
       "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "4EVA",
         "url": "https://open.spotify.com/album/4ttoerptp43Bstsb0wiAYt"
@@ -817,7 +917,7 @@
       "url": "https://open.spotify.com/track/1W4HPbCzcoc4Pz9EOq0kCN"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
@@ -837,7 +937,7 @@
       "url": "https://open.spotify.com/track/2jpV3AxjRVaV5FMcD1FBmI"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Spirit Animal",
         "url": "https://open.spotify.com/album/3eJtwEJQ4Lf4p1AzsM3NK3"
@@ -857,7 +957,7 @@
       "url": "https://open.spotify.com/track/7HqtL3uO7q4BaEnRotC2WZ"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Adrenalin",
         "url": "https://open.spotify.com/album/5aaLq1btwptG8KNCKCElwl"
@@ -873,7 +973,7 @@
       "url": "https://open.spotify.com/track/3RHtJJIzbFx3uSyIFcnLDY"
     },
     {
-      "added_at": "2026-08-28 04:02:00",
+      "added_at": "2026-09-16 16:53:57",
       "album": {
         "name": "Digging In The Crates: 2001 Vol. 1",
         "url": "https://open.spotify.com/album/5JP9saepV3nWZubKdSSCEI"

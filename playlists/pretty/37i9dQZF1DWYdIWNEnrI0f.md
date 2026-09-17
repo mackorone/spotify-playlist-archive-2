@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,856 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,885 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 |
 | 2 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
 | 3 | [Eyes Closed](https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Eyes Closed](https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui) | 2:10 |
-| 4 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 |
-| 5 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
-| 6 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 |
+| 4 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 |
+| 5 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 |
+| 6 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 7 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 |
 | 8 | [Water Flow](https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Water Flow](https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM) | 2:34 |
 | 9 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 43 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
 | 44 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
 | 45 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 |
-| 46 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 |
-| 47 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 |
+| 46 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 |
+| 47 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 |
 | 48 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
 | 49 | [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 |
 | 50 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |

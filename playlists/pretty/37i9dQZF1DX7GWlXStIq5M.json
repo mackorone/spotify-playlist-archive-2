@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356434,
+  "num_followers": 356383,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Tar\u00f4",
         "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 200345,
       "name": "Tar\u00f4",
       "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 204002,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -595,6 +595,22 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 204002,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "Balelo",
         "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
       },
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
         "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
         "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Eu N\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1019,22 +1035,6 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
     },
     {
       "added_at": "2026-09-04 03:00:31",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Ressaca da Saudade",
         "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "added_at": "2026-09-04 03:00:31",

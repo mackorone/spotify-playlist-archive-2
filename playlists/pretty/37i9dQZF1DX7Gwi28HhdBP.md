@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! الغلاف: كزبرة وعصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,701 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,799 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 39 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 |
 | 40 | [El Gaw Hady](https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Salefny Dehketak](https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY) | 4:16 |
 | 41 | [EL Keif](https://open.spotify.com/track/1LttGAXVFilgpA74BxSndf) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Tarek El\-Sheikh](https://open.spotify.com/artist/146oFMnWlkqlpiGVHY5MUU) | [Noaata Beida](https://open.spotify.com/album/2bgL3UrqM8knBxaedpoZbE) | 3:45 |
-| 42 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 |
+| 42 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [TOTTI](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 |
 | 43 | [الحريفة \- متبصليش وامشي يا ليفه](https://open.spotify.com/track/3ZRh88QpuxE7hHigevRl0e) | [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [الحريفة \(متبصليش وامشي يا ليفه\)](https://open.spotify.com/album/61N7qhss8Xpqk9jgnvOeqe) | 4:21 |
 | 44 | [El 3aw](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 3aw](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 |
 | 45 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 |

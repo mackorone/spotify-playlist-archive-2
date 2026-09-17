@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481029,
+  "num_followers": 1481007,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Maybe The Best Is Now",
-        "url": "https://open.spotify.com/album/02MdxAPMDDyWb2kCofWQQ1"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Maybe The Best Is Now",
-      "url": "https://open.spotify.com/track/3BQsnAOYYCh7fCXM7fOqPb"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 179412,
       "name": "All Bad Parts",
       "url": "https://open.spotify.com/track/0Y7sxwikhxUeGQk8cRWhgd"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Maybe The Best Is Now",
+        "url": "https://open.spotify.com/album/02MdxAPMDDyWb2kCofWQQ1"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Maybe The Best Is Now",
+      "url": "https://open.spotify.com/track/3BQsnAOYYCh7fCXM7fOqPb"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 175386,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "WHEN THE MUSIC STOPS",
         "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "Singin\u2019 to an Empty Chair",
         "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 182824,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "I'm Not Afraid Of Music Anymore",
         "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 177071,
       "name": "Along For The Ride",
       "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 168537,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1743,22 +1759,6 @@
       "duration_ms": 203087,
       "name": "Miss Sunshine",
       "url": "https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 168537,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "prowl",
+        "url": "https://open.spotify.com/album/54VwoLcXlf4UV0D6ofE7FH"
+      },
+      "artists": [
+        {
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
+        }
+      ],
+      "duration_ms": 173326,
+      "name": "prowl",
+      "url": "https://open.spotify.com/track/6llso3w3TmSHuJFLIyQqek"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 194733,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "prowl",
-        "url": "https://open.spotify.com/album/54VwoLcXlf4UV0D6ofE7FH"
-      },
-      "artists": [
-        {
-          "name": "Saint Blonde",
-          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
-        }
-      ],
-      "duration_ms": 173326,
-      "name": "prowl",
-      "url": "https://open.spotify.com/track/6llso3w3TmSHuJFLIyQqek"
     },
     {
       "added_at": "2026-09-08 16:34:10",

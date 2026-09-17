@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: Girls' Generation\-HRS\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: LE SSERAFIM\)
 
-641 songs - 1 day 9 hr 1 min
+643 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Dumb](https://open.spotify.com/track/1PNb8pRsZGa8XN1m5nJe70) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BE!](https://open.spotify.com/album/6DX33GTGhfTLpQWzmHHgHA) | 3:10 | 2021-01-17 | 2022-06-13 |
 | [DUN DUN](https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [reminiscence](https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj) | 3:12 | 2020-10-20 | 2022-04-20 |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-03-04 |  |
-| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 |  |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 | 2026-09-17 |
 | [Easy](https://open.spotify.com/track/3KLkc1h39HhbuXIYB5xgAq) | [WJSN THE BLACK](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) | [My attitude](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) | 3:08 | 2021-10-12 | 2022-04-03 |
 | [EASY \(feat\. Sik\-K\)](https://open.spotify.com/track/35Bon0pO4syTi6Hfsr2Kk8) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [magnolia](https://open.spotify.com/album/6RKopanQbo5q7FjwpbhfKM) | 3:08 | 2020-10-13\* | 2021-03-16 |
 | [Eclipse](https://open.spotify.com/track/07H4GUtSu2IWIgrpC99zJf) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Dark Side of the Moon](https://open.spotify.com/album/3t6eDNGmTJIHdU9PF0GJx2) | 3:28 | 2021-02-27 | 2021-02-28 |
@@ -357,6 +357,7 @@
 | [Lucky](https://open.spotify.com/track/0rRyLHOtUa9NyHun1jansJ) | [Kim Wan\-sun](https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Lucky](https://open.spotify.com/album/0n7QHDeVGKA3yelZgTE54U) | 3:06 | 2025-01-15 | 2025-01-22 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-01-19 | 2022-07-29 |
 | [M.O.](https://open.spotify.com/track/26IUIX1eTNqJkAtPuP5Ude) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Motivation](https://open.spotify.com/album/5AYr1dKIuvEBSO8xd3wTrc) | 3:02 | 2025-09-16 | 2025-10-25 |
+| [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 | 2026-09-16 |  |
 | [Maestro of My Heart \(Prod\. Czaer\)](https://open.spotify.com/track/4RNpWVTCjYeNYaPonXE8sT) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [STAGE FIGHTER\(STF\) Original, Vol\. 1](https://open.spotify.com/album/5eN6KiloNKtNCmteFBXgqg) | 3:03 | 2024-09-23 | 2024-10-10 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-25 |  |
 | [MAGO](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:19 | 2020-11-09 | 2022-08-22 |
@@ -424,7 +425,7 @@
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-04-17 |
 | [ON MY BIKE](https://open.spotify.com/track/4HoQGfQPxJE1LkuXuILUzo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HEADWAY](https://open.spotify.com/album/5YYGa9YR9gOFnnWGHBybyg) | 3:06 | 2024-10-22 | 2024-11-02 |
 | [ON MY LIPS](https://open.spotify.com/track/2i2BaHTk8gqxRR1YoxMvpe) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Feelin' Hot](https://open.spotify.com/album/4J2AkuxV9xIQ4juffeebSi) | 2:48 | 2024-03-07 | 2024-03-28 |
-| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 |  |
+| [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2026-09-17 |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-23 | 2024-09-01 |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |
 | [OOPSIE \(My Bad\)](https://open.spotify.com/track/5TEdFgup4L8CdEZlcqcAHK) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE A](https://open.spotify.com/album/2rWqzpo4TfsbjUt4FSmpJ8) | 3:21 | 2021-02-28 | 2022-04-19 |
@@ -482,6 +483,7 @@
 | [RUNNIN’ BACK](https://open.spotify.com/track/7qYcGl3sNRkWwKQ2PbulZF) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [THE OCEAN](https://open.spotify.com/album/2FEQU7BTSsYncVAg244A55) | 3:01 | 2021-03-17 | 2021-03-18 |
 | [S.O.R.R.Y](https://open.spotify.com/track/0z0Bk5DaFqZBxShGcF1w8Z) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [S.O.R.R.Y](https://open.spotify.com/album/3bzBmdCUbfoY1hfKhtYwRC) | 3:06 | 2021-02-27 | 2022-04-21 |
 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-19 | 2024-06-25 |
+| [Saddle Up \(WINTER Solo\)](https://open.spotify.com/track/7G8Ycb0hYdQ7cgjVvZ9fAL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : COMPLaeXITY \- 2026 Special Digital Single](https://open.spotify.com/album/6IKPRi6kQgW1HoI8yzEuTQ) | 3:50 | 2026-09-16 |  |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-19 | 2023-07-26 |
 | [sAvioR](https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<sAvioR>](https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA) | 3:42 | 2025-11-14 | 2026-01-02 |
 | [Say Hi](https://open.spotify.com/track/4RQLg7cy1MHtYj2LSLsLI5) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW), [Woody](https://open.spotify.com/artist/6nfVa2RFZrB5EilcKdrmBy) | [yeah!sool](https://open.spotify.com/album/7fl6CYaqz90LpDLyT7vyz4) | 2:50 | 2020-10-13\* | 2022-04-10 |

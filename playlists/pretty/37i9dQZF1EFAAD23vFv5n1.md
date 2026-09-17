@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077 likes - 195 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078 likes - 195 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 122 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
 | 123 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 124 | [ZITTO](https://open.spotify.com/track/59QhNZ02jxQR4B0Gdu3Xs7) | [AUCH](https://open.spotify.com/artist/7uivJimhMgnkSCaPYWQHog) | [ZITTO](https://open.spotify.com/album/1vc0uWXGdGEO52YIKwafcP) | 2:13 |
-| 125 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
-| 126 | [ko sento](https://open.spotify.com/track/4AsvUH7EtRV3Qsq7AqE4QT) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:00 |
+| 125 | [ko sento](https://open.spotify.com/track/4AsvUH7EtRV3Qsq7AqE4QT) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:00 |
+| 126 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
 | 127 | [Fuoritempo ;\( \(balla\)](https://open.spotify.com/track/3AMvD8HYGGBnSmCas5Xli8) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 2:28 |
 | 128 | [Facile](https://open.spotify.com/track/7xs0gw660PtVVJqdkYyVtV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:40 |
 | 129 | [NON MI MANCHI MAI \(A VOLTE\)](https://open.spotify.com/track/2VKWX2NR9IJ1nSnd82bN8O) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:56 |
@@ -202,6 +202,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 192 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 193 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 194 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
-| 195 | [Pastello bianco](https://open.spotify.com/track/7z26QB5QCd4YS376p9rW34) | [Lorenzo Molignoni](https://open.spotify.com/artist/3bELGsvNpxsRcrUGZwWzgr), [Stefano Gennara](https://open.spotify.com/artist/3fVbckwRznLNTOqjbyWCCW) | [In Duetto](https://open.spotify.com/album/0zKe90fs9HKIvx2Hjf0bnE) | 4:00 |
+| 195 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `AccZ5gAAAABVgD9pkpjlv9Q6LbD1pDG2`
+Snapshot ID: `AccfkAAAAABldIQegdUjSaTcPe98Qws5`

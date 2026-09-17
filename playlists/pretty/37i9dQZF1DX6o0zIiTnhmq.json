@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 238565,
+  "num_followers": 238617,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Maha Mrityunjaya Mantra: 108 Times",
-        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 2976545,
-      "name": "Maha Mrityunjaya Mantra: 108 Times",
-      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Shree Ganesh Pancharatna Stotra",
         "url": "https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200816,
       "name": "Shree Ganesh Pancharatna Stotra",
       "url": "https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Maha Mrityunjaya Mantra: 108 Times",
+        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 2976545,
+      "name": "Maha Mrityunjaya Mantra: 108 Times",
+      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
+        "name": "Durga",
+        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Shloka",
+      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
         "name": "Nava Durga Gayatri Mantra Jaap",
         "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
       },
@@ -1051,6 +1067,26 @@
       "duration_ms": 2062009,
       "name": "Nava Durga Gayatri Mantra Jaap",
       "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Prayers For World Peace",
+        "url": "https://open.spotify.com/album/2tsh4rRKPqpH4gmp9M1Cwd"
+      },
+      "artists": [
+        {
+          "name": "Lama Michel Rinpoche",
+          "url": "https://open.spotify.com/artist/3qtj1nM3ZegAT8iNor6TiQ"
+        },
+        {
+          "name": "United Peace Voices",
+          "url": "https://open.spotify.com/artist/4R5565muqCpN3iZBUTItw4"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Request Prayer To The Guru",
+      "url": "https://open.spotify.com/track/0M8RaskzY6v9HwmrwmhYXE"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1083,22 +1119,6 @@
       "duration_ms": 365454,
       "name": "Om Namah Shivay",
       "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
-        "name": "Durga",
-        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
-      },
-      "artists": [
-        {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Shloka",
-      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Prayers For World Peace",
-        "url": "https://open.spotify.com/album/2tsh4rRKPqpH4gmp9M1Cwd"
-      },
-      "artists": [
-        {
-          "name": "Lama Michel Rinpoche",
-          "url": "https://open.spotify.com/artist/3qtj1nM3ZegAT8iNor6TiQ"
-        },
-        {
-          "name": "United Peace Voices",
-          "url": "https://open.spotify.com/artist/4R5565muqCpN3iZBUTItw4"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Request Prayer To The Guru",
-      "url": "https://open.spotify.com/track/0M8RaskzY6v9HwmrwmhYXE"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Om Gam Ganapataye",
         "url": "https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
-        "url": "https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw"
-      },
-      "artists": [
-        {
-          "name": "Devashri Golambare",
-          "url": "https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH"
-        }
-      ],
-      "duration_ms": 599895,
-      "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
-      "url": "https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Shri Jagannath Mantra",
         "url": "https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 347033,
       "name": "Shri Jagannath Mantra",
       "url": "https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+        "url": "https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw"
+      },
+      "artists": [
+        {
+          "name": "Devashri Golambare",
+          "url": "https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH"
+        }
+      ],
+      "duration_ms": 599895,
+      "name": "Shreeman Narayan Narayan Hari Hari (Slowed+Reverb)",
+      "url": "https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Om Chanting 108 Times",
-        "url": "https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw"
-      },
-      "artists": [
-        {
-          "name": "Lakshit Patiyal",
-          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
-        }
-      ],
-      "duration_ms": 1653759,
-      "name": "Om Chanting 108 Times",
-      "url": "https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Gayatri Mantra 108 Times",
         "url": "https://open.spotify.com/album/6ownMtjFdSqL4USFMfzqul"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 3390400,
       "name": "Gayatri Mantra 108 Times",
       "url": "https://open.spotify.com/track/20PZKyB4QLEMgAkbAHnzFX"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Om Chanting 108 Times",
+        "url": "https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw"
+      },
+      "artists": [
+        {
+          "name": "Lakshit Patiyal",
+          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
+        }
+      ],
+      "duration_ms": 1653759,
+      "name": "Om Chanting 108 Times",
+      "url": "https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5"
     },
     {
       "added_at": "2026-09-15 11:47:16",

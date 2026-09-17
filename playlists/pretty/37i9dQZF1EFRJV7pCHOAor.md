@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 226 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 797 likes - 226 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 53 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
 | 54 | [SWEET SPOT](https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:05 |
 | 55 | [OKLOSER](https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:49 |
-| 56 | [Thin White Lies](https://open.spotify.com/track/4t4OlapTFToGpFKOldh5S2) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:02 |
-| 57 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 56 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 57 | [Thin White Lies](https://open.spotify.com/track/4t4OlapTFToGpFKOldh5S2) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:02 |
 | 58 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
 | 59 | [Love Me 4 Me](https://open.spotify.com/track/7eCVm5KcpFrDhx6XHkF3t6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:05 |
 | 60 | [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 190 | [Stars](https://open.spotify.com/track/7qYWmAhTahuDLCMHLPreJF) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 4:47 |
 | 191 | [What We Got](https://open.spotify.com/track/1TxzMh6qDacBM1FKPeDn8M) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/4f2eRJXelRGjIu5i7Ow7Hz) | 2:54 |
 | 192 | [flowers](https://open.spotify.com/track/2R0JPbFr9cQGa2U0k4F6tX) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 3:30 |
-| 193 | [Snoring \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/1RcyrDOfgUJjbIf4ekNRWU) | [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Snoring \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/1O5sinPPedrGsVdGosy1Lx) | 2:07 |
-| 194 | [True Colors](https://open.spotify.com/track/7gcqv9ADZBCi5iKRucMfUh) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 3:39 |
+| 193 | [True Colors](https://open.spotify.com/track/7gcqv9ADZBCi5iKRucMfUh) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 3:39 |
+| 194 | [Snoring \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/1RcyrDOfgUJjbIf4ekNRWU) | [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Snoring \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/1O5sinPPedrGsVdGosy1Lx) | 2:07 |
 | 195 | [Papi](https://open.spotify.com/track/0oqSDa2UpnKWwncU8Y9098) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Papi](https://open.spotify.com/album/2TCI9AcDhC6ksP5JMyAv5J) | 3:21 |
 | 196 | [Shirtless](https://open.spotify.com/track/0tc4nG3aXZCMMx99utMBjK) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:21 |
 | 197 | [Hate To Love](https://open.spotify.com/track/6AKfXzefuSM5wuInFiFL4p) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:13 |
@@ -210,8 +210,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 200 | [All I've Seen](https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c) | [Evanora Unlimited](https://open.spotify.com/artist/71SAxqRLYirlXRiHsIAuJT) | [All I've Seen](https://open.spotify.com/album/1VNxFcmWwIugXgHTb2UiRx) | 3:19 |
 | 201 | [天上人間](https://open.spotify.com/track/3ktXXlX4PVuTPHSGVJ8BRu) | [Fei Yu\-ching](https://open.spotify.com/artist/6aSJ9LaNaHOKiPchLDYGYl) | [風華再現](https://open.spotify.com/album/0wFQ93eu4mayfjw9CKw9OV) | 3:43 |
 | 202 | [Work 4 Me](https://open.spotify.com/track/3LoTSW1ihvw3GeZhYuYzrG) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Community Service 2!](https://open.spotify.com/album/4SuBt2nxLKXrQX1uBOaBa3) | 3:10 |
-| 203 | [Like A Crime](https://open.spotify.com/track/49Fi24Q6PKmJifc5C9dQR5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:25 |
-| 204 | [Crypto](https://open.spotify.com/track/3lrg0lt2WUlRZEENVWIVxc) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:40 |
+| 203 | [Crypto](https://open.spotify.com/track/3lrg0lt2WUlRZEENVWIVxc) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:40 |
+| 204 | [Like A Crime](https://open.spotify.com/track/49Fi24Q6PKmJifc5C9dQR5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:25 |
 | 205 | [Oh Come On](https://open.spotify.com/track/1UbUguvb3suYziljd2lWHO) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:31 |
 | 206 | [Strange Days](https://open.spotify.com/track/2ZJXn0Di87IaMqqfl1PeWj) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU), [KAMI](https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:12 |
 | 207 | [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 225 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 226 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AccZyAAAAADW1MtB6My5Bhzjr1mlBAh9`
+Snapshot ID: `AccfkAAAAAB4H964ok2l/H6UAkhEKeNR`

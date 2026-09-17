@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 322001,
+  "num_followers": 322081,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 259872,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Regretfully Yours",
+        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
+      },
+      "artists": [
+        {
+          "name": "Superdrag",
+          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Sucked Out",
+      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Regretfully Yours",
-        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
-      },
-      "artists": [
-        {
-          "name": "Superdrag",
-          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Sucked Out",
-      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach for My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Return Of The Rentals",
         "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 212266,
       "name": "Friends of P.",
       "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach for My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2025-01-15 04:11:50",

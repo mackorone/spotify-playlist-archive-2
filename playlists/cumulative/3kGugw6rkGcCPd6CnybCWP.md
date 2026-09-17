@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-506 songs - 1 day 5 hr 21 min
+508 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Go and Fu.\. Yourself](https://open.spotify.com/track/4nBBFkTumPQgEFyqd3gnA1) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [Go and Fu.\. Yourself](https://open.spotify.com/album/2f9km0bgK0U2SgL1bMIqZg) | 2:58 | 2026-08-03 |  |
 | [Godstruck](https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD) | [kneeshake](https://open.spotify.com/artist/7Doc8VYJPdWcMthl4c2C9l) | [Godstruck](https://open.spotify.com/album/3Jv9c1emzRLP7eH7PrA1on) | 2:49 | 2026-05-22 | 2026-07-24 |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 | 2026-03-29 |
+| [good stuff](https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM) | [string lights](https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV) | [good stuff](https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0) | 1:10 | 2026-09-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |
 | [Grackle Grackle](https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Kindred Spirits](https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB) | 2:22 | 2026-05-26 | 2026-07-24 |
 | [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 | 2026-03-26 | 2026-04-21 |
@@ -488,6 +489,7 @@
 | [When the Smoke Clears](https://open.spotify.com/track/4o4HfCqu4tMpmPMBzILKzF) | [Aviela Sivia](https://open.spotify.com/artist/3rIBjdx8IaKKTLcAPm7VOm) | [When the Smoke Clears](https://open.spotify.com/album/6TPpKcggYH1K25VIAz0hmR) | 3:25 | 2026-02-18 | 2026-04-16 |
 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 | 2026-02-08 | 2026-03-29 |
 | [White Line](https://open.spotify.com/track/1xbQ2wpt4m8n9EaRabQ0au) | [Vinyl Arch Rodeo](https://open.spotify.com/artist/6dUpuhgr9qyVooQ8bNI35H) | [Herodotus](https://open.spotify.com/album/7rXX3Aa51XP0lCBpXyRJdT) | 4:33 | 2026-04-15 | 2026-07-01 |
+| [Who am I?](https://open.spotify.com/track/20AnxJsqczyZNi9IEqP6N3) | [Giuliana May](https://open.spotify.com/artist/10tQbQdPOA3TwUQzyZl8Cr) | [Who am I?](https://open.spotify.com/album/0LHr1EzCGPpStPJuSdMeiT) | 2:46 | 2026-09-16 |  |
 | [Why](https://open.spotify.com/track/01aVZOmB5sQlkSfi38cgNE) | [Jordan Fouts](https://open.spotify.com/artist/1uhMgxnye3vSNgs8x3d3B4) | [Nostalgia](https://open.spotify.com/album/0JUaANUSWY4hAh8sbOgU40) | 3:46 | 2026-02-25 | 2026-04-16 |
 | [Why Are You Always Late?](https://open.spotify.com/track/1pVb0ycW2iq78WiUZ4K6OW) | [The Westside](https://open.spotify.com/artist/7zqIGGncTa8QJFEvxtTAC0) | [Spiked Mike & His Blue Dog](https://open.spotify.com/album/28020YcAnH2zblFJ7EzfVd) | 3:42 | 2026-03-29 | 2026-04-30 |
 | [Why Not Try? \(Chill\)](https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Why Not Try? \(Chill\)](https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs) | 2:36 | 2026-02-07 | 2026-03-10 |

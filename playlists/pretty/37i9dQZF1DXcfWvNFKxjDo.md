@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: David Guetta, Hypaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,090 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,092 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You And I, Me And You](https://open.spotify.com/track/6jEuSifwkZehn7IvadDeOQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [You And I, Me And You](https://open.spotify.com/album/5cOvcRauWrEYwjrA8bg2WP) | 3:03 |
 | 2 | [Toca's Miracle](https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Toca's Miracle](https://open.spotify.com/album/1cmkL8WLHiRlehlvG4L2FD) | 3:15 |
 | 3 | [why you mad](https://open.spotify.com/track/5Al81noc3ibJ4JlsyvN9yi) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [why you mad](https://open.spotify.com/album/2ztb2i6jAgPvGNENqyntmL) | 1:38 |
-| 4 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
+| 4 | [Landlords Nightmare](https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Landlords Nightmare](https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij) | 4:55 |
 | 5 | [Self Aware](https://open.spotify.com/track/0i6IwA0yEGjxHaY7O2PKMH) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Self Aware](https://open.spotify.com/album/4YoqCYgLKOIinTpZ0fK14p) | 2:41 |
 | 6 | [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 |
 | 7 | [Changes](https://open.spotify.com/track/4BSB6PWM5UvnW1GOjJdkKH) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Changes](https://open.spotify.com/album/5m9LXapfZpUKnP8HK4sLAB) | 2:52 |

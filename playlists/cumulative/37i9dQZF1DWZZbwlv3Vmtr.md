@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,224 songs - 1 day 23 hr 2 min
+1,225 songs - 1 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,7 +851,7 @@
 | [rideon](https://open.spotify.com/track/30nQLDjbXKJL52DZUqjEKD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [rideon](https://open.spotify.com/album/18MND2KM0MzMk9DRTiRqnM) | 2:29 | 2022-04-15 | 2022-07-29 |
 | [right up your alley](https://open.spotify.com/track/56m7qRhqSC4rIT3G5tD4JG) | [sünny side](https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs) | [right up your alley](https://open.spotify.com/album/5MqC027fYQmUHsq02Z1Tx3) | 2:02 | 2025-11-21 |  |
 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 | 2023-11-17 | 2026-01-15 |
-| [rivers ahead](https://open.spotify.com/track/1fuGjJuqIKHimlm4BDIj3W) | [general groove](https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld) | [rivers ahead](https://open.spotify.com/album/6SN5gOlh8wqucBApJ2yo8a) | 1:54 | 2026-08-20 |  |
+| [rivers ahead](https://open.spotify.com/track/1fuGjJuqIKHimlm4BDIj3W) | [general groove](https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld) | [rivers ahead](https://open.spotify.com/album/6SN5gOlh8wqucBApJ2yo8a) | 1:54 | 2026-08-20 | 2026-09-17 |
 | [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 |  |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 | 2025-12-05 |
 | [rodeo](https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [rodeo](https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5) | 2:09 | 2024-06-05 | 2024-06-29 |
@@ -1123,6 +1123,7 @@
 | [Tropical Getaway](https://open.spotify.com/track/3ZLsiAI1wMmG5FEtJ8yjwl) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/0s9K9GMT5Sk6tdKUTYoDCS) | 2:36 | 2022-10-28 | 2023-10-20 |
 | [true story](https://open.spotify.com/track/3jXAxzSWwe9p7Su33zbKUO) | [zoemoon.](https://open.spotify.com/artist/4p3SsPKnaomOEyJ42L21Yd) | [true story](https://open.spotify.com/album/2WqNuu9YdJAqUwxbYE92D6) | 2:08 | 2025-05-16 | 2025-05-24 |
 | [Try Again](https://open.spotify.com/track/7wrXYrhwg4MfjowXE87GsW) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 2:42 | 2022-04-15 | 2022-05-20 |
+| [Trying](https://open.spotify.com/track/2qJFQSEsquzkTsfoD0RHcz) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [Trying](https://open.spotify.com/album/00MKK3iQ6Gi3j7iOM2j9Dc) | 2:14 | 2026-09-14 |  |
 | [tubulars](https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T) | [rob aspen](https://open.spotify.com/artist/51acBWR9xEgFguEAEj3jqV) | [tubulars](https://open.spotify.com/album/43cQfbyKgAQ6wNLs45gPcr) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [turkish coffee](https://open.spotify.com/track/0wx7syOwfp8llgB9GtDZKm) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:03 | 2022-11-11 | 2025-07-10 |
 | [Turntable Tale](https://open.spotify.com/track/01L7KnIlkQVwAVpxbh3TKr) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Turntable Tale](https://open.spotify.com/album/4XacEvaFzX4GdDkUV6x1E9) | 2:59 | 2022-04-15 | 2022-09-09 |

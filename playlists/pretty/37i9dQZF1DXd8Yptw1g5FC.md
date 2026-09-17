@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sena Şener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,763 likes - 149 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,762 likes - 149 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 6 | [Sana 1 Şarkı](https://open.spotify.com/track/2jwCkI6wnicF7JjiA6F2Kh) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Sana 1 Şarkı](https://open.spotify.com/album/2TW8bZGccQtMir0nPLnHAR) | 3:41 |
 | 7 | [FENA HEEEEEP](https://open.spotify.com/track/3hwFyzEodeE1bNkveibYPt) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [FENA HEEEEEP](https://open.spotify.com/album/0xZZxg9LwTLzmk3FGC4ynI) | 1:56 |
 | 8 | [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 |
-| 9 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
+| 9 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/5eOEIlx0jrGO3HPIqdnz0L) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
 | 10 | [YARAMAZ](https://open.spotify.com/track/7n0bac0luTXhhkhtrfxL9M) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [YARAMAZ](https://open.spotify.com/album/0knYzYewHGHMP43iP3JXch) | 1:55 |
 | 11 | [Anadolu Yakası](https://open.spotify.com/track/06X2m4K9C4dDkSdO6izwuA) | [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq) | [Anadolu Yakası](https://open.spotify.com/album/2OA5039o9lgahDfWlBxCxd) | 2:26 |
 | 12 | [Onursuz Ozanlar](https://open.spotify.com/track/3s06lkT7UGXZR8VO0m36zB) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Onursuz Ozanlar](https://open.spotify.com/album/1pQ9HlR8Q2ZNlGcmU8lZD7) | 4:29 |

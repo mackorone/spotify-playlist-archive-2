@@ -1,6 +1,6 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1432609,
+  "num_followers": 1432471,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "Alvinegro Praiano 2",
         "url": "https://open.spotify.com/album/3gVFmO1xGNx1rdeLK0DYV6"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 240000,
       "name": "Alvinegro Praiano 2",
       "url": "https://open.spotify.com/track/5e12RtHXdLiyldJZZAh9ka"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1191,26 +1191,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
-        "url": "https://open.spotify.com/album/6jbAVahDN7PJc3FzhunYOe"
+        "name": "Pra Quando Sentir Saudade",
+        "url": "https://open.spotify.com/album/4MOLLTmG2IrwLhqauHLspA"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
         },
         {
-          "name": "Sarah Roston",
-          "url": "https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U"
+          "name": "Gabriel Mar\u00e9",
+          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
         },
         {
-          "name": "Dom M",
-          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
+          "name": "ProdGalician",
+          "url": "https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
-      "url": "https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b"
+      "duration_ms": 135692,
+      "name": "Apaguei Tuas Fotos",
+      "url": "https://open.spotify.com/track/5xruMjNnQGitf2bUvvisKx"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1251,26 +1251,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Pra Quando Sentir Saudade",
-        "url": "https://open.spotify.com/album/4MOLLTmG2IrwLhqauHLspA"
+        "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
+        "url": "https://open.spotify.com/album/6jbAVahDN7PJc3FzhunYOe"
       },
       "artists": [
         {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Gabriel Mar\u00e9",
-          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
+          "name": "Sarah Roston",
+          "url": "https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U"
         },
         {
-          "name": "ProdGalician",
-          "url": "https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF"
+          "name": "Dom M",
+          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
         }
       ],
-      "duration_ms": 135692,
-      "name": "Apaguei Tuas Fotos",
-      "url": "https://open.spotify.com/track/5xruMjNnQGitf2bUvvisKx"
+      "duration_ms": 156631,
+      "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
+      "url": "https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
     },
     {
       "added_at": "2026-09-11 13:11:58",

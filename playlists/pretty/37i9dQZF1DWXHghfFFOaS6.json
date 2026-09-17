@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 392015,
+  "num_followers": 392071,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Lava Love",
-        "url": "https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT"
-      },
-      "artists": [
-        {
-          "name": "Zoe's Shanghai",
-          "url": "https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5"
-        }
-      ],
-      "duration_ms": 298722,
-      "name": "Niassam",
-      "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
-    },
-    {
       "added_at": "2025-06-20 04:00:29",
       "album": {
         "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version)",
@@ -1199,6 +1183,22 @@
       "duration_ms": 263533,
       "name": "Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit)",
       "url": "https://open.spotify.com/track/6lo3xWdEGwYDAdalNaIeiF"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Lava Love",
+        "url": "https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT"
+      },
+      "artists": [
+        {
+          "name": "Zoe's Shanghai",
+          "url": "https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5"
+        }
+      ],
+      "duration_ms": 298722,
+      "name": "Niassam",
+      "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
-      },
-      "artists": [
-        {
-          "name": "The Whole Thing",
-          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Playing my piano",
@@ -1367,6 +1351,22 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
+      },
+      "artists": [
+        {
+          "name": "The Whole Thing",
+          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Classic Funk - Universal Masters",
-        "url": "https://open.spotify.com/album/3MKalew8t8CBefWq1GfSfk"
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
       "artists": [
         {
-          "name": "Leon Haywood",
-          "url": "https://open.spotify.com/artist/4r2UnA39uIXexqO1mABayb"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 303106,
-      "name": "I Want'a Do Something Freaky To You",
-      "url": "https://open.spotify.com/track/1teTbT5uc6phfhWO0r1ASa"
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     }
   ],
   "unique_name": "Acid Jazz",

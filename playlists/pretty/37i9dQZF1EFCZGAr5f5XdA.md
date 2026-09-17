@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,057 likes - 220 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,055 likes - 220 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 74 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
 | 75 | [The Banjo Song](https://open.spotify.com/track/6sqUnjIySqur2BocQgFQKP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:49 |
 | 76 | [Kingdom Come](https://open.spotify.com/track/2TpZlmChocrfeL5J6ed70t) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:19 |
-| 77 | [Weight Of The World](https://open.spotify.com/track/6dVcavGKwvUjk998frTljW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 4:29 |
-| 78 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
+| 77 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
+| 78 | [Weight Of The World](https://open.spotify.com/track/6dVcavGKwvUjk998frTljW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 4:29 |
 | 79 | [New York Soul \- Pt\. ii](https://open.spotify.com/track/3YQXkAqmNFWfUFlL3HgMbS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 4:27 |
 | 80 | [YOU CAN'T HOLD MY HEART](https://open.spotify.com/track/6nxOW44RKSH3OBw6ZP8yuZ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:01 |
 | 81 | [Fashion](https://open.spotify.com/track/2UiPa2Dc6w4EyWtDxP07UQ) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:55 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 141 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
 | 142 | [Passion Fashion](https://open.spotify.com/track/72RzbSNBYwD9KupDKRwWZ0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 3:23 |
 | 143 | [All The Way](https://open.spotify.com/track/1hvgtAaYk8AHmW6s9FxKO4) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/7ecGpncOzxSWmaZlCtQ7im) | 2:05 |
-| 144 | [Family Business](https://open.spotify.com/track/1jB06JAOZXqQaOyGC9XlWR) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:18 |
-| 145 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
+| 144 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
+| 145 | [Family Business](https://open.spotify.com/track/1jB06JAOZXqQaOyGC9XlWR) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:18 |
 | 146 | [Tall Trees](https://open.spotify.com/track/0HYBmUvAyjKlpK7iL385zf) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn) | 2:45 |
 | 147 | [Rat Race](https://open.spotify.com/track/5GHWqKEQLVCMNe94sr2hfy) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Uncomfortable](https://open.spotify.com/album/1Sb0QnODtzjlYmOO7cgIyn) | 3:13 |
 | 148 | [When The Lions Come](https://open.spotify.com/track/06P0q7wYr1S1fqrkewX03G) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Castro](https://open.spotify.com/artist/54wtxcCMfVtf4J37TQWsVm), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 4:21 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 219 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 | 220 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 
-Snapshot ID: `AccZ5gAAAABglV/BSwlc2hFWksAXTAEK`
+Snapshot ID: `AccffAAAAAD8sPbQETlQr0HUVRmBiizx`

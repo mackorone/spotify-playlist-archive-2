@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49098,
+  "num_followers": 49101,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "King Del Rap",
         "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 240080,
       "name": "King Del Rap",
       "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "BISTRO!",
         "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 192814,
       "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
       "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2039,30 +2039,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Teoria Del Contrario Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
       },
       "artists": [
         {
           "name": "Dani Faiv",
           "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Kkrisna",
-          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
         }
       ],
-      "duration_ms": 173877,
-      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2143,18 +2131,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+        "name": "Teoria Del Contrario Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
       "artists": [
         {
           "name": "Dani Faiv",
           "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
         }
       ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
+      "duration_ms": 173877,
+      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Melograno",
         "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 265288,
       "name": "Anima Nera",
       "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 275202,
-      "name": "Chi Paga",
-      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2787,26 +2787,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Mambo del Diablo",
-        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Mambo del Diablo",
-      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2835,22 +2815,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -2875,42 +2839,38 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "SEI TU",
-        "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
+        "name": "Mambo del Diablo",
+        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
       },
       "artists": [
         {
-          "name": "Chomsk'",
-          "url": "https://open.spotify.com/artist/0CJDBEjJQYGcyC12FI1L0b"
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
         },
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
         }
       ],
-      "duration_ms": 146229,
-      "name": "SEI TU",
-      "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
+      "duration_ms": 166530,
+      "name": "Mambo del Diablo",
+      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
     },
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "BLOOD IN BLOOD OUT",
-        "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
       },
       "artists": [
         {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
-        },
-        {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
         }
       ],
-      "duration_ms": 156090,
-      "name": "ONION",
-      "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2939,6 +2899,46 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "BLOOD IN BLOOD OUT",
+        "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
+      },
+      "artists": [
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+        },
+        {
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "ONION",
+      "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "SEI TU",
+        "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
+      },
+      "artists": [
+        {
+          "name": "Chomsk'",
+          "url": "https://open.spotify.com/artist/0CJDBEjJQYGcyC12FI1L0b"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "duration_ms": 146229,
+      "name": "SEI TU",
+      "url": "https://open.spotify.com/track/4FvNMfY6V0iEzwQYsxS0lN"
     },
     {
       "added_at": "2026-05-29 09:57:53",

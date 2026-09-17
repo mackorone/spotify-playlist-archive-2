@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 208894,
       "name": "Donde Hubo Fuego Cenizas Quedan",
       "url": "https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ"
@@ -8412,7 +8412,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 147001,
       "name": "Golfista",
       "url": "https://open.spotify.com/track/2R0RvdGFAOCznsB85KN0f4"
@@ -10933,6 +10933,28 @@
     },
     {
       "album": {
+        "name": "Loco LocoOoo",
+        "url": "https://open.spotify.com/album/2WOVJXzMZaBGXBH5Pz5CaF"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Loco LocoOoo",
+      "url": "https://open.spotify.com/track/72WuCJkmAvJoQJHIztbcRo"
+    },
+    {
+      "album": {
         "name": "Loco Por Perrearte (Remix)",
         "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
@@ -12570,6 +12592,24 @@
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
+    },
+    {
+      "album": {
+        "name": "Modo Oculto",
+        "url": "https://open.spotify.com/album/1pGjzQsGGQ7hHQgvxM8jll"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Modo Oculto",
+      "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
     },
     {
       "album": {

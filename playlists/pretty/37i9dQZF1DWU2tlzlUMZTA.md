@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,522 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,557 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 18 | [Love Dose](https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 3:44 |
 | 19 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 20 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 |
-| 21 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
-| 22 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
+| 21 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
+| 22 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 23 | [Desi Kalakaar](https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 4:13 |
 | 24 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:34 |
 | 25 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |

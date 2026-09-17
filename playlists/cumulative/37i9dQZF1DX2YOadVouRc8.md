@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-837 songs - 1 day 16 hr 22 min
+838 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [Time Of Our Lives](https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Time Of Our Lives](https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax) | [Time Of Our Lives](https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF) | 2:40 | 2026-09-04 |  |
 | [Time To Love Again](https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Time To Love Again](https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9) | 2:35 | 2024-02-09 | 2024-03-22 |
 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 | 2024-10-04 | 2025-09-09 |
+| [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 | 2026-09-11 |  |
 | [Tonado ft Minz & Shorae Moore \- Remix](https://open.spotify.com/track/3EArEixw6zZzZlrH0Y9z6X) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Tonado ft Minz & Shorae Moore \(Remix\)](https://open.spotify.com/album/36usNw1MfxjFND0k0buEAQ) | 3:28 | 2026-05-01 | 2026-05-15 |
 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 | 2024-03-29 | 2024-05-03 |
 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 | 2024-06-28 | 2026-02-08 |
@@ -765,7 +766,7 @@
 | [Uche Jumbo](https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Uche Jumbo](https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y) | 2:28 | 2026-06-26 |  |
 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-11 | 2023-06-23 |
 | [Underskirt](https://open.spotify.com/track/4pk7ZoE2SWpc2DVEBWzgap) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Underskirt](https://open.spotify.com/album/4y3T4XUUHd35VmAucNi1Bp) | 2:28 | 2025-08-22 | 2025-09-05 |
-| [Understand Me](https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Understand Me](https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao) | 2:24 | 2026-06-26 |  |
+| [Understand Me](https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Understand Me](https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao) | 2:24 | 2026-06-26 | 2026-09-17 |
 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 | 2024-01-26 | 2024-06-21 |
 | [UNO \(feat\. BenjiFlow\)](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 | 2024-07-06 |
 | [Upcoming \(Check on Me\)](https://open.spotify.com/track/5D1nn7nHPn1oLP4bWIKS0V) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Upcoming \(Check on Me\)](https://open.spotify.com/album/5UDgGPdFSnkySQ192FyrgX) | 2:25 | 2023-09-29 | 2023-10-13 |

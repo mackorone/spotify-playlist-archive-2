@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,788 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,792 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 35 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
 | 36 | [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 |
 
-Snapshot ID: `aqc5AAAAAAATQ8yLgojIpHxPYH0quZ8f`
+Snapshot ID: `aqc5AAAAAADYHuTMJ/3MoTOffq8WJYS0`

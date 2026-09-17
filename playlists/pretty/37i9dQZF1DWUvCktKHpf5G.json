@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 271101,
+  "num_followers": 271134,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
         "name": "EL PEOR HOMBRE DEL MUNDO",
         "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
-        "name": "FERXXO VOL X: Sagrado",
-        "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 146240,
-      "name": "RU MOR",
-      "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+      "duration_ms": 146240,
+      "name": "RU MOR",
+      "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
         "name": "Belladonna",
         "url": "https://open.spotify.com/album/279QwBqCJMO7irKwrB7024"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
         "name": "EMPELOTICA",
         "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
       },
@@ -1651,30 +1651,6 @@
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        }
-      ],
-      "duration_ms": 154229,
-      "name": "VALERIA (feat. Gordo)",
-      "url": "https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1707,6 +1683,30 @@
       "duration_ms": 341710,
       "name": "Me Llama Todavia - Remix",
       "url": "https://open.spotify.com/track/5mkQxOnWHawZ6EOp9NEeCV"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        }
+      ],
+      "duration_ms": 154229,
+      "name": "VALERIA (feat. Gordo)",
+      "url": "https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
         "name": "Sexxo",
         "url": "https://open.spotify.com/album/7Dc90FL2Odr90iQiQ7z8hg"
       },
@@ -1895,6 +1875,26 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
         "name": "Uii",
         "url": "https://open.spotify.com/album/5u8YxRWbjjZgCUf45Ar18G"
       },
@@ -1915,6 +1915,38 @@
       "duration_ms": 136440,
       "name": "Uii",
       "url": "https://open.spotify.com/track/662fjsQNXUB31uSOqgAZAq"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
+        "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
+        "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
+      },
+      "artists": [
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 310588,
+      "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
+      "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
     },
     {
       "added_at": "2026-09-11 06:00:20",
@@ -1959,38 +1991,6 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
-        "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
-        "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
-      },
-      "artists": [
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 310588,
-      "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
-      "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
         "name": "Chivirika",
         "url": "https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts"
       },
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2026-09-11 06:00:20",
       "album": {
+        "name": "Coolant",
+        "url": "https://open.spotify.com/album/6hURCisLKBolUaJJRhStAs"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 211436,
+      "name": "Coolant",
+      "url": "https://open.spotify.com/track/2fHOqQ9K6eY0wsbVZiYZPw"
+    },
+    {
+      "added_at": "2026-09-11 06:00:20",
+      "album": {
         "name": "DUBAI",
         "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 146000,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
-    },
-    {
-      "added_at": "2026-09-11 06:00:20",
-      "album": {
-        "name": "Coolant",
-        "url": "https://open.spotify.com/album/6hURCisLKBolUaJJRhStAs"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 211436,
-      "name": "Coolant",
-      "url": "https://open.spotify.com/track/2fHOqQ9K6eY0wsbVZiYZPw"
     },
     {
       "added_at": "2026-09-11 06:00:20",

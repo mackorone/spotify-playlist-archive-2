@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,844 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,850 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 49 | [Kelly's Offsider](https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Give Me The Road \(Remastered\)](https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5) | 3:25 |
 | 50 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 |
 
-Snapshot ID: `aqc5AAAAAAAbKejECRM5n3scGZk3PQUU`
+Snapshot ID: `aqc5AAAAAAAeYoBuVlajrtjay5gsfm0E`

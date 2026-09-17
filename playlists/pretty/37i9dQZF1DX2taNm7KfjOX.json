@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Gia Margaret",
-  "num_followers": 1331047,
+  "num_followers": 1330964,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "notre dame",
-        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 258430,
-      "name": "notre dame",
-      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "you were mine",
         "url": "https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 221584,
       "name": "you were mine",
       "url": "https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "notre dame",
+        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 258430,
+      "name": "notre dame",
+      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+        "name": "Marigolds",
+        "url": "https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
+      "duration_ms": 228216,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/3dEdX1g7zycepndaSgVocd"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Marigolds",
-        "url": "https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC"
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 228216,
-      "name": "Marigolds",
-      "url": "https://open.spotify.com/track/3dEdX1g7zycepndaSgVocd"
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Planting Tomatoes",
-        "url": "https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 215948,
-      "name": "Planting Tomatoes",
-      "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "Fourth of July",
         "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 223201,
       "name": "Fourth of July - April Base Version",
       "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Planting Tomatoes",
+        "url": "https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 215948,
+      "name": "Planting Tomatoes",
+      "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 192144,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "Collapse List",
         "url": "https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 235133,
       "name": "Co-Pathetic",
       "url": "https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 272065,
-      "name": "Stick Around",
-      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "With a Lightning Strike",
         "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 209163,
       "name": "Mean Guy",
       "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
         "name": "You'd Kill Me If You Could",
         "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 207000,
       "name": "You'd Kill Me If You Could",
       "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
+        "name": "The Explorer",
+        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "The Explorer",
+      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
         "name": "Constantinople",
         "url": "https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 171500,
       "name": "Constantinople",
       "url": "https://open.spotify.com/track/3y0p22Pm8cYqdarysqbkzC"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
-        "name": "The Explorer",
-        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "The Explorer",
-      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Cruel Joke",
-        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wolf In Sheep\u2019s Clothes",
-      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "Nothing to Lose",
         "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 237666,
       "name": "Nothing to Lose",
       "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Cruel Joke",
+        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Wolf In Sheep\u2019s Clothes",
+      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 240000,
       "name": "Feel - with Kyson",
       "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2026-09-04 04:01:10",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-09-04 04:01:10",
       "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2026-09-04 04:01:10",
-      "album": {
         "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
         "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 216931,
       "name": "Even God Gets Stuck In Devotion",
       "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
+    },
+    {
+      "added_at": "2026-09-04 04:01:10",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2026-09-04 04:01:10",

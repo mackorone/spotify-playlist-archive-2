@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 724844,
+  "num_followers": 724863,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Everything Glows",
-        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Curious Subject",
-        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Curious Subject",
-      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "The Night Trip",
+        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
+      },
+      "artists": [
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
+        }
+      ],
+      "duration_ms": 206207,
+      "name": "Velvet Avenue",
+      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "FEEL THE NIGHT",
         "url": "https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "The Night Trip",
-        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
+        "name": "Curious Subject",
+        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
       },
       "artists": [
         {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 206207,
-      "name": "Velvet Avenue",
-      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
+      "duration_ms": 233693,
+      "name": "Curious Subject",
+      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 238316,
       "name": "To Survive",
       "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Cavi",
-          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "New Highs",
-        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 232195,
-      "name": "New Highs",
-      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
       },
@@ -1363,26 +1343,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
+        "name": "New Highs",
+        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         },
         {
-          "name": "Max Chapman",
-          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
-        },
-        {
-          "name": "Mischief",
-          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         }
       ],
-      "duration_ms": 201496,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
+      "duration_ms": 232195,
+      "name": "New Highs",
+      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1403,6 +1379,30 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Max Chapman",
+          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
+        },
+        {
+          "name": "Mischief",
+          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1455,6 +1455,22 @@
       "duration_ms": 204366,
       "name": "Girl",
       "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
       },
@@ -1547,26 +1547,6 @@
       "duration_ms": 222534,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1595,6 +1575,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "MAD (Mutually Assured Disco)",
         "url": "https://open.spotify.com/album/0dQs37bUr4X4uZqugvT8LZ"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 198181,
       "name": "Sabor (with Lee Wilson & ALT3N)",
       "url": "https://open.spotify.com/track/2DG8LH2I3Ln2uuR02n6y7i"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
+        "name": "Won't Let U Down",
+        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 251725,
+      "name": "Won't Let U Down",
+      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1983,26 +2003,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Won't Let U Down",
-        "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 251725,
-      "name": "Won't Let U Down",
-      "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
@@ -2015,70 +2015,6 @@
       "duration_ms": 191484,
       "name": "Time To Move",
       "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Velvet Seas Remixed",
-        "url": "https://open.spotify.com/album/6nvCRrz1vIjUYkFRo2TdiO"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        },
-        {
-          "name": "Ray Mang",
-          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
-        }
-      ],
-      "duration_ms": 260602,
-      "name": "Velvet Seas - Ray Mang Remix Short",
-      "url": "https://open.spotify.com/track/6EHU5HEN4XZ3Z9M77AN0Px"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
-        "name": "Looney Tunes",
-        "url": "https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx"
-      },
-      "artists": [
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "bankr",
-          "url": "https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Looney Tunes",
-      "url": "https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -2115,6 +2051,70 @@
       "duration_ms": 189190,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Velvet Seas Remixed",
+        "url": "https://open.spotify.com/album/6nvCRrz1vIjUYkFRo2TdiO"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        },
+        {
+          "name": "Ray Mang",
+          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
+        }
+      ],
+      "duration_ms": 260602,
+      "name": "Velvet Seas - Ray Mang Remix Short",
+      "url": "https://open.spotify.com/track/6EHU5HEN4XZ3Z9M77AN0Px"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "Looney Tunes",
+        "url": "https://open.spotify.com/album/5NjqfBREBVCH8cPC55KzGx"
+      },
+      "artists": [
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "bankr",
+          "url": "https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Looney Tunes",
+      "url": "https://open.spotify.com/track/56nOWmdv5U0DIcKzzKGOIb"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2026-09-11 17:34:45",
-      "album": {
         "name": "Turn Up The Love (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1"
       },
@@ -2319,6 +2299,26 @@
       "duration_ms": 225083,
       "name": "Turn Up The Love - Roosevelt Remix",
       "url": "https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI"
+    },
+    {
+      "added_at": "2026-09-11 17:34:45",
+      "album": {
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2026-09-11 17:34:45",
@@ -2395,18 +2395,22 @@
     {
       "added_at": "2026-09-11 17:34:45",
       "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr"
+        "name": "Gotta Be",
+        "url": "https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 237716,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0"
+      "duration_ms": 202380,
+      "name": "Gotta Be",
+      "url": "https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W"
     }
   ],
   "unique_name": "Poolside Disco",

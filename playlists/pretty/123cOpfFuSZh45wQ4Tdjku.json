@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1281,
+  "num_followers": 1283,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "Karlito",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAAB/Mo0TEUNZ906Gh2duL3AN2g3WENF",
+  "snapshot_id": "AAAB/SP1zFVg7DwLaRhUmL5eafppAJZp",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -9271,6 +9271,26 @@
       "duration_ms": 215802,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
+    },
+    {
+      "added_at": "2026-09-16 17:02:39",
+      "album": {
+        "name": "this thought",
+        "url": "https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        },
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "this thought",
+      "url": "https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K"
     }
   ],
   "unique_name": "My favourite furry songs",

@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: BAMBII",
-  "num_followers": 2612,
+  "num_followers": 2630,
   "original_name": "Editors' Picks: Best Canadian Songs of August",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Kicked Out Of Bars",
         "url": "https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 164098,
       "name": "Kicked Out Of Bars",
       "url": "https://open.spotify.com/track/1xL2pFFPFxnk3j5kFH30gc"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "SICK & TIRED",
-        "url": "https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 106939,
-      "name": "SICK & TIRED",
-      "url": "https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "INFINITE LOVE",
         "url": "https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 244533,
       "name": "INFINITE LOVE",
       "url": "https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "SICK & TIRED",
+        "url": "https://open.spotify.com/album/4hIsy8ArbidMGzg9indKZ7"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 106939,
+      "name": "SICK & TIRED",
+      "url": "https://open.spotify.com/track/4WMDhaGiNeukVgDfqRldQk"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "MY BLOOD AS THE INK",
-        "url": "https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 110365,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Serial Kisser",
         "url": "https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 166407,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "MY BLOOD AS THE INK",
+        "url": "https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 110365,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "2TH",
-        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
-      },
-      "artists": [
-        {
-          "name": "Bouvier Normal",
-          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Some Kind Of Life",
         "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 196923,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "2TH",
+        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
+      },
+      "artists": [
+        {
+          "name": "Bouvier Normal",
+          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Blowin' Up",
-        "url": "https://open.spotify.com/album/2amcMNcWelpgn4KjHNXiQc"
-      },
-      "artists": [
-        {
-          "name": "Kiwi jr.",
-          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
-        }
-      ],
-      "duration_ms": 228583,
-      "name": "Painting After Painting",
-      "url": "https://open.spotify.com/track/1mICnDWtVBpyMVGSejVXvy"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Phone Home",
         "url": "https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 173341,
       "name": "God Is A Woman",
       "url": "https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Blowin' Up",
+        "url": "https://open.spotify.com/album/2amcMNcWelpgn4KjHNXiQc"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 228583,
+      "name": "Painting After Painting",
+      "url": "https://open.spotify.com/track/1mICnDWtVBpyMVGSejVXvy"
     },
     {
       "added_at": "2026-09-01 02:00:35",

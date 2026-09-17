@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Seth Condrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,675 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,714 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 59 | [Quieto](https://open.spotify.com/track/0O860sF2nMMvjbSzhFxFUa) | [Tati](https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v) | [Quieto](https://open.spotify.com/album/4DI4ohZKQFsK2X0yiFTu3y) | 2:19 |
 | 60 | [Estás En Control](https://open.spotify.com/track/2wDscEiI1F9BCJj3mk8cvP) | [David Hernandez](https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC) | [Estás En Control](https://open.spotify.com/album/0PleWQPoWSFd7GijuHqWxa) | 3:29 |
 | 61 | [Él Vive \(Tetelestai\)](https://open.spotify.com/track/4bBMdYfTc3ZNqu2M5KfD4t) | [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3) | [Convencido](https://open.spotify.com/album/0TnRWN2M9t7DIbNGXZhiyy) | 4:19 |
-| 62 | [Siervo Por Amor](https://open.spotify.com/track/5bKnVDINIUsjMI5Dmf4g97) | [Fruto del Madero](https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Padre Alexis Gatica](https://open.spotify.com/artist/1XB1a0RJIvvGkD77kgT8Ri) | [Siervo Por Amor](https://open.spotify.com/album/6la9zuZWIgSwoeH9HUckqH) | 3:23 |
+| 62 | [Siervo Por Amor](https://open.spotify.com/track/5bKnVDINIUsjMI5Dmf4g97) | [Fruto del Madero](https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Padre Alexis Gatica](https://open.spotify.com/artist/1XB1a0RJIvvGkD77kgT8Ri), [Peregrino](https://open.spotify.com/artist/00e8XudHdVpnyo5zGPNvnr) | [Siervo Por Amor](https://open.spotify.com/album/6la9zuZWIgSwoeH9HUckqH) | 3:23 |
 | 63 | [Alfarero](https://open.spotify.com/track/7glYJPYo5hBPO4swG7EUJr) | [Oscar Hernandez](https://open.spotify.com/artist/2573OXyPEVbmrSVCHFIRFP) | [Alfarero](https://open.spotify.com/album/1G8avDqMgjqQDWhtxGfdJq) | 2:57 |
 | 64 | [Los Trigales \- Remasterizado](https://open.spotify.com/track/4a9ZHyG1xbyON2vTLAv1gz) | [Los Voceros de Cristo](https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu) | [Mi Señor y Dios \(Remasterizado\)](https://open.spotify.com/album/5aSVhxQh6dMFUZN57Amr01) | 3:58 |
 | 65 | [Sed de Ti](https://open.spotify.com/track/75cjFbmAxETR1Lm1WzW73e) | [El Camino Worship](https://open.spotify.com/artist/2AEWKs4tnUXncXzDhQwGcl) | [PERMANEZCO EN TI](https://open.spotify.com/album/63VMpZiPe8Mt6iwkgc7eEz) | 4:58 |

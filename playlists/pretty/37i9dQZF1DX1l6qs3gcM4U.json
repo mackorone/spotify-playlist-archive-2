@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: MDO (Menino de Ouro)",
-  "num_followers": 250339,
+  "num_followers": 250367,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
+        "name": "Kumpanhero",
+        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Kumpanhero",
+      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
         "name": "Aurea",
         "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
-        "name": "Kumpanhero",
-        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Kumpanhero",
-      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
+    },
+    {
+      "added_at": "2026-09-10 23:00:22",
+      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2026-09-10 23:00:22",
-      "album": {
-        "name": "Vem Relaxar",
-        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 172962,
-      "name": "Vem Relaxar",
-      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-09-10 23:00:22",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2026-09-10 23:00:22",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-09-10 23:00:22",

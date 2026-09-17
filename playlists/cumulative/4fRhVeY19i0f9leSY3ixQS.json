@@ -2499,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Losers",
+        "url": "https://open.spotify.com/album/60YzuZSiP70vLK5O88RNkZ"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183483,
+      "name": "Back On Your Feet",
+      "url": "https://open.spotify.com/track/3gPAdQvu9PExAWr5hbXPxK"
+    },
+    {
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/5amTufixRQr2xido4RUaRg"
       },
@@ -8407,6 +8425,24 @@
     },
     {
       "album": {
+        "name": "Date Night",
+        "url": "https://open.spotify.com/album/09Iukl4hzaAPQ364bMSBuv"
+      },
+      "artists": [
+        {
+          "name": "Paraphernalia",
+          "url": "https://open.spotify.com/artist/2RFjil0uFn7eBMbxDosqLJ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205292,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/3MRPbGLtp5CviHggfZval9"
+    },
+    {
+      "album": {
         "name": "A World Ablaze",
         "url": "https://open.spotify.com/album/4laLnj3qKXCHf3ILjjqNcM"
       },
@@ -10203,6 +10239,24 @@
     },
     {
       "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/4D5PgVXk63zx9mvopfLQ1I"
+      },
+      "artists": [
+        {
+          "name": "Lost In Majority",
+          "url": "https://open.spotify.com/artist/4vwT4SG6ij7g25La0PqCTA"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175188,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/7ivU31uE8O7CesZpDajW8t"
+    },
+    {
+      "album": {
         "name": "Issue #1 Dec 2025: Paid in Caps",
         "url": "https://open.spotify.com/album/14jFvrOmBhRf7L9D4qN3uU"
       },
@@ -10326,6 +10380,24 @@
       "duration_ms": 194117,
       "name": "Drink Fuck Live!",
       "url": "https://open.spotify.com/track/3d6DyD5Zuma3Cc5R90233u"
+    },
+    {
+      "album": {
+        "name": "Drink Up",
+        "url": "https://open.spotify.com/album/5nxQZDL6MQWMYPgWEYPmCZ"
+      },
+      "artists": [
+        {
+          "name": "carkeys",
+          "url": "https://open.spotify.com/artist/78x0HuFw7jODJaoZussz4y"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Drink Up",
+      "url": "https://open.spotify.com/track/6SAyBVAv49DbTIfYFwXeoh"
     },
     {
       "album": {
@@ -11040,6 +11112,24 @@
       "duration_ms": 201124,
       "name": "Embrace The Static",
       "url": "https://open.spotify.com/track/3ibrARMxZLsX7HopVgNzgk"
+    },
+    {
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/6aoePiEHPPd1g8Yu5UiAXs"
+      },
+      "artists": [
+        {
+          "name": "CDNQB",
+          "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183071,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/4gUXTOacuRogbSe9zUxLZc"
     },
     {
       "album": {
@@ -12826,6 +12916,24 @@
       "duration_ms": 86217,
       "name": "fools (trigger's broom edit)",
       "url": "https://open.spotify.com/track/7KF5A4s2Ug2tgI94EiypTs"
+    },
+    {
+      "album": {
+        "name": "Foot in the Grave",
+        "url": "https://open.spotify.com/album/2E32CUfjDZeCNoqRww3QeC"
+      },
+      "artists": [
+        {
+          "name": "Low Range",
+          "url": "https://open.spotify.com/artist/1mWkBRnqMFxQdVz6q9Kvp4"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205102,
+      "name": "Foot in the Grave",
+      "url": "https://open.spotify.com/track/6sJRxSLMIefi89YDlgV7V9"
     },
     {
       "album": {
@@ -14734,7 +14842,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 150110,
       "name": "goth angel sinners",
       "url": "https://open.spotify.com/track/3uT92JAdCwjaE4efK0uoje"
@@ -15600,6 +15708,24 @@
       "duration_ms": 270498,
       "name": "Heart of a Coward",
       "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
+    },
+    {
+      "album": {
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/44ts3uhKtNejV9z9dhFTZa"
+      },
+      "artists": [
+        {
+          "name": "Mus-D Beatz",
+          "url": "https://open.spotify.com/artist/1k7gX3I4ws0MrlS0jJinbo"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6ttm22qjuUywiyo9moXDgl"
     },
     {
       "album": {
@@ -19092,7 +19218,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 92290,
       "name": "Just Die! Drop Dead!",
       "url": "https://open.spotify.com/track/7jPS5ntswlYEbZPFQYx0Gu"
@@ -20104,7 +20230,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 223575,
       "name": "LFG",
       "url": "https://open.spotify.com/track/1nz2asKTlm77rOcdSmYtOj"
@@ -20888,6 +21014,24 @@
       "duration_ms": 125998,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/7dNNncnaQ8cr5ECcujXd3H"
+    },
+    {
+      "album": {
+        "name": "Locked and Loaded",
+        "url": "https://open.spotify.com/album/7ewnk0hks2JU12rOod7DwG"
+      },
+      "artists": [
+        {
+          "name": "Pure Contraband",
+          "url": "https://open.spotify.com/artist/3JJv1EhKqtAvIAxZPIoSe2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176126,
+      "name": "Locked and Loaded",
+      "url": "https://open.spotify.com/track/2IejG5LpbfI0CHVK1CbVX0"
     },
     {
       "album": {
@@ -23423,6 +23567,24 @@
     },
     {
       "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/4FSdkpSYoCzTAdKSyhPfSw"
+      },
+      "artists": [
+        {
+          "name": "Rick Diamond",
+          "url": "https://open.spotify.com/artist/2FX1JoyEJdoKO0pW8S612Q"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/2o13tOP2EdDerDOjKhQAHx"
+    },
+    {
+      "album": {
         "name": "Lamp and Table",
         "url": "https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p"
       },
@@ -24238,7 +24400,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 212799,
       "name": "NINAA (No Is Not An Answer)",
       "url": "https://open.spotify.com/track/5AWdWbFirKSaa9hj0g1vYi"
@@ -26022,7 +26184,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 226325,
       "name": "Outed Now",
       "url": "https://open.spotify.com/track/791mkxaPDt239fHRBl6Xf5"
@@ -26084,6 +26246,24 @@
       "duration_ms": 167052,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/64z8MJOjjUkuYK5EGqfPkH"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/3eLdIfnfMRr0m67BhADDEO"
+      },
+      "artists": [
+        {
+          "name": "Chameleon Complex",
+          "url": "https://open.spotify.com/artist/4nBTh9LnBMRvAaRPZaM88S"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185387,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/2rEMR3vhPGh9mUsxDwcP5G"
     },
     {
       "album": {
@@ -30985,6 +31165,24 @@
     },
     {
       "album": {
+        "name": "Diseased Democracy",
+        "url": "https://open.spotify.com/album/29i2oO2Ea4kAeS93GBkHNz"
+      },
+      "artists": [
+        {
+          "name": "StickyBongWater",
+          "url": "https://open.spotify.com/artist/5S45HnzElvZ10n7PRb6Ukq"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146659,
+      "name": "Shut It Off",
+      "url": "https://open.spotify.com/track/4TTYhKsmPtI6X834U1ca9q"
+    },
+    {
+      "album": {
         "name": "Shut Up, Brian",
         "url": "https://open.spotify.com/album/54gzLWkChh3PK1SplNZHi1"
       },
@@ -31928,7 +32126,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 200882,
       "name": "Soho",
       "url": "https://open.spotify.com/track/1h6EZHEGxTtdWA3t1f2JN7"
@@ -33027,6 +33225,24 @@
     },
     {
       "album": {
+        "name": "Steal My Heart",
+        "url": "https://open.spotify.com/album/5iyj2jtSGqE1Z4t0DtyWyX"
+      },
+      "artists": [
+        {
+          "name": "Em Armstrong",
+          "url": "https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190431,
+      "name": "Steal My Heart",
+      "url": "https://open.spotify.com/track/14l79xVgYsRxa6pL3Q9NTh"
+    },
+    {
+      "album": {
         "name": "Simple Maschines 1",
         "url": "https://open.spotify.com/album/20Sr1qkXKpGgL0n0Jpf3M8"
       },
@@ -33976,7 +34192,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184309,
       "name": "Surprise, Surprise",
       "url": "https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo"
@@ -36151,6 +36367,24 @@
     },
     {
       "album": {
+        "name": "The Other Side Of June",
+        "url": "https://open.spotify.com/album/4F5p8o7YtYeL5kll7C3ziW"
+      },
+      "artists": [
+        {
+          "name": "Pebler",
+          "url": "https://open.spotify.com/artist/2pvlILszoynju2t8xMzu6s"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "The Other Side Of June",
+      "url": "https://open.spotify.com/track/2eQwkXnxQoMhBnxrSrOCNl"
+    },
+    {
+      "album": {
         "name": "Hur? Jag fattar inte.",
         "url": "https://open.spotify.com/album/7obrHEpg9NS99V36fEFwC6"
       },
@@ -38144,6 +38378,24 @@
       "duration_ms": 170756,
       "name": "Unique",
       "url": "https://open.spotify.com/track/0XpAW2Oh7Kn2pvz00S60gX"
+    },
+    {
+      "album": {
+        "name": "Universal Control",
+        "url": "https://open.spotify.com/album/0F6Kq7CnuuMBKVl0HfDUfT"
+      },
+      "artists": [
+        {
+          "name": "Fede Micioni",
+          "url": "https://open.spotify.com/artist/4fKtzJ8kWpwnaLkzLEottJ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266880,
+      "name": "Universal Control",
+      "url": "https://open.spotify.com/track/2S7OyW02xaoJeaDLbGmuLu"
     },
     {
       "album": {

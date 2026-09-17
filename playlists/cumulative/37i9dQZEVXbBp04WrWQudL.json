@@ -426,7 +426,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 169813,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/0CzdDxtoZ0GZYeRKQMdOZ4"
@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Faint - Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/4CA1A484tsU7rKDRsBrPUT"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259178,
+      "name": "Faint - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/3gt6ZtOWG0dykDLSZfuV06"
+    },
+    {
+      "album": {
         "name": "FALLEN ANGEL",
         "url": "https://open.spotify.com/album/6H9Mx5oU8GK9Y54iqCEQ6s"
       },
@@ -784,7 +802,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -980,7 +998,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 195662,
       "name": "I Knew It, I Knew You - Piano Version / From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/54Qm2txAQn42IhrcknweE7"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 201514,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/5VcRLtOGzG3YVFhntoJ57E"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 274624,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/3f7WBr2tv7KJ6uBHK67b3n"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 314238,
       "name": "the cure",
       "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"

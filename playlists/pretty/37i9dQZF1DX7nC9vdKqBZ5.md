@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,373 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,282 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 21 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
 | 22 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
 | 23 | [Sem Jeito Ao Vivo \- Acústico / Ao Vivo](https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:13 |
-| 24 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
-| 25 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
+| 24 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
+| 25 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
 | 26 | [Coisa Linda \- Ao Vivo](https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 3:12 |
 | 27 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 28 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 63 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
 | 64 | [Outra Vida](https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Outra Vida](https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ) | 3:04 |
 | 65 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
-| 66 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
-| 67 | [Cola Comigo](https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Versões Que Eu Fiz](https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2) | 3:49 |
-| 68 | [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 |
+| 66 | [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 |
+| 67 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
+| 68 | [Cola Comigo](https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Versões Que Eu Fiz](https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2) | 3:49 |
 | 69 | [Interestelar](https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4) | [Interestelar](https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ) | 3:46 |
 | 70 | [Outra Vez \- Acústico](https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Outra Vez \(Acústico\)](https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W) | 3:09 |
 | 71 | [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 |

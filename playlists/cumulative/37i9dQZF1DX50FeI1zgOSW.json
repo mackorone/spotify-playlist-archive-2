@@ -9809,6 +9809,36 @@
     },
     {
       "album": {
+        "name": "Mudhal Kaadhal Mazhaiye",
+        "url": "https://open.spotify.com/album/5K2YFPa2V51LIIVWDzYifc"
+      },
+      "artists": [
+        {
+          "name": "G Thalapathi",
+          "url": "https://open.spotify.com/artist/0mssf2fKUwn7tjLESTWKnF"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Kavitha Ilango",
+          "url": "https://open.spotify.com/artist/56reW50O7uh6zGI436aD1u"
+        },
+        {
+          "name": "Vignesh N Saamraj",
+          "url": "https://open.spotify.com/artist/0eGMdMe4XzHIRiX7m7G2TH"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253272,
+      "name": "Mudhal Kaadhal Mazhaiye",
+      "url": "https://open.spotify.com/track/6YhxNJfx2PluibGhw8CND2"
+    },
+    {
+      "album": {
         "name": "Mudhal Kadhal",
         "url": "https://open.spotify.com/album/3gpvFgze1RE552JFyIqt9v"
       },
@@ -14228,7 +14258,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 182880,
       "name": "Senthaamarai",
       "url": "https://open.spotify.com/track/7zsvcAEcBiGaFafBeMXC0e"

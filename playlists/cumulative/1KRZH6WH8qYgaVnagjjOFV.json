@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163328,
       "name": "sundays",
       "url": "https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP"
@@ -4266,6 +4266,24 @@
       "duration_ms": 210923,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6"
+    },
+    {
+      "album": {
+        "name": "when I see You",
+        "url": "https://open.spotify.com/album/5FErWBY2rB61bRu0jCg3Wx"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196210,
+      "name": "when I see You",
+      "url": "https://open.spotify.com/track/4tRydL83PixlUSIz0Njzpl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,802 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,895 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 82 | [Don't Close Your Eyes](https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 4:11 |
 | 83 | [I Ain't Living Long Like This](https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 4:46 |
 | 84 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:21 |
-| 85 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
-| 86 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
+| 85 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
+| 86 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
 | 87 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
 | 89 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 127 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
 | 128 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 |
 | 129 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
-| 130 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
-| 131 | [Holding Her and Loving You](https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Essential Earl Thomas Conley](https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW) | 3:08 |
+| 130 | [Holding Her and Loving You](https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Essential Earl Thomas Conley](https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW) | 3:08 |
+| 131 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
 | 132 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
 | 133 | [If It Don't Come Easy](https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits](https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z) | 3:28 |
 | 134 | [Heartbroke](https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Super Hits](https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa) | 3:14 |

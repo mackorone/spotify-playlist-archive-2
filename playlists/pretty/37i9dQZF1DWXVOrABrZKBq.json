@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
-  "num_followers": 23860,
+  "num_followers": 23874,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Nowhere 2",
-        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 179301,
-      "name": "Nowhere 2",
-      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "Belvedere",
         "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 123870,
       "name": "Belvedere",
       "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Nowhere 2",
+        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 179301,
+      "name": "Nowhere 2",
+      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 147462,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
         "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 177230,
       "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
       "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "\u00c0 tes c\u00f4t\u00e9s",
-        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 147462,
-      "name": "\u00c0 tes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "BLOQU\u00c9",
         "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 201103,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "duration_ms": 218176,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "L.T.P",
         "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 126829,
       "name": "L.T.P",
       "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "2026",
-        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        }
-      ],
-      "duration_ms": 218176,
-      "name": "2026",
-      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
     },
     {
       "added_at": "2026-09-11 16:08:33",

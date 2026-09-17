@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,666 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,669 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 14 | [⁠⁠Khaad](https://open.spotify.com/track/4DodhzpH33Zd6VdyJiYHXJ) | [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u), [Navyug](https://open.spotify.com/artist/4adwj9Z1zcgF7Os33tzs4Q), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g) | [Khaad](https://open.spotify.com/album/064FRXTXh7T6wX2ExndKRG) | 3:05 |
 | 15 | [Heavy Stash](https://open.spotify.com/track/3hpgr5sPj4i9whmnW4Ro8o) | [Onnu](https://open.spotify.com/artist/2FmtB6TNy7e86Zb2mLFnhV), [Tarun](https://open.spotify.com/artist/69ixItk8CBJ6J5x6AJQ7o5), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Heavy Stash](https://open.spotify.com/album/4Ku0LFOTF7bISa5gNR0KPH) | 2:41 |
 | 16 | [Where you from?](https://open.spotify.com/track/0PBDdWudYhGuRcfzViymQx) | [TXAMA](https://open.spotify.com/artist/2yfl7hkW2xG0N3bmRhAwco), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 4](https://open.spotify.com/album/0tIyJ41YCaAb56dsmRbhEp) | 2:39 |
-| 17 | [I Get It](https://open.spotify.com/track/011twVXCQn9jE91TXROUa3) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Seysey](https://open.spotify.com/artist/6uijfBPcA80C2urB3f4brC), [Finvy](https://open.spotify.com/artist/75yAmXkx04ku4rfCCg3S0W) | [NO FORMULA](https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7) | 3:01 |
+| 17 | [I Get It](https://open.spotify.com/track/011twVXCQn9jE91TXROUa3) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Finvy](https://open.spotify.com/artist/2ck3EG60jD1iMYZ6oCIcdV) | [NO FORMULA](https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7) | 3:01 |
 | 18 | [Utha Patak](https://open.spotify.com/track/5eXiRKjSgdKWSeIX9MWH4u) | [Prathamesh](https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf), [Kod.E](https://open.spotify.com/artist/10vsL1yYQ2pq0Yi6D3PpwT) | [Legacy Chapter 3, Vol\. 1](https://open.spotify.com/album/43ANTWe6V2gFsjGq7FwNv2) | 2:36 |
 | 19 | [Showmen](https://open.spotify.com/track/3D5jtZVnYmSowXbd58IHKr) | [Lazer X](https://open.spotify.com/artist/2ndSBGQ5GYnfLhg8S2LH8u), [Smokey The Ghost](https://open.spotify.com/artist/3P4yYdpOTSa94saSCZja7s) | [Showmen](https://open.spotify.com/album/4bVdFbJZHIxccjdtJLhv4A) | 3:33 |
 | 20 | [I Go Boom!](https://open.spotify.com/track/7a4kNH1v5k9zlBBN3pmmGW) | [Siroyi](https://open.spotify.com/artist/306lommsDZyts5VuMuVzEC), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 4](https://open.spotify.com/album/0tIyJ41YCaAb56dsmRbhEp) | 2:16 |

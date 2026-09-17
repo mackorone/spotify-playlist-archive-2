@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,156 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,154 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 21 | [Please Don’t Go](https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [DJ\-Kicks: TEED](https://open.spotify.com/album/0JBsu60WuAjdgmNwBsqeDD) | 4:31 |
 | 22 | [Silverlake Pills \- Gui Boratto Remix](https://open.spotify.com/track/2jYZXNqIOgjFUmdO4fEhV4) | [Adam Freeland](https://open.spotify.com/artist/0enmKUTlccj9oxq06LWEIf), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Renaissance \- Transitions \- Volume 3](https://open.spotify.com/album/1MtoqcZZodumqLu6zlWc3h) | 6:13 |
 | 23 | [Not Exactly \- Rinzen Remix](https://open.spotify.com/track/44iQc1rBKQc9nZVyWE3txD) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Not Exactly \(Rinzen Remix\)](https://open.spotify.com/album/1K2UCa9K8l8OLoUZ9JmFYN) | 4:33 |
-| 24 | [So Good \(feat\. Kuuda\) \- Extended Mix](https://open.spotify.com/track/5rTVbA4tnLviYza5FDMZfJ) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5UKZgh2fLwWNUwZfm0aSa8) | 4:40 |
+| 24 | [So Good \(feat\. Kuuda\) \- Extended Mix](https://open.spotify.com/track/5rTVbA4tnLviYza5FDMZfJ) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5UKZgh2fLwWNUwZfm0aSa8) | 4:40 |
 | 25 | [Electric](https://open.spotify.com/track/0Goqsrng8KjOV3k8Rx4hat) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Electric](https://open.spotify.com/album/1qDMXjdg7xnqj0xT89noP4) | 3:26 |
 | 26 | [Comes and Goes \- Dom Dolla Remix](https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Comes and Goes \(Dom Dolla Remix\)](https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5) | 4:27 |
 | 27 | [U GO](https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [U GO](https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W) | 3:50 |

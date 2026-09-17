@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20439,
+  "num_followers": 20438,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Do\u015b\u0107",
+        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Do\u015b\u0107",
+      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Do\u015b\u0107",
-        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
-      },
-      "artists": [
-        {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Do\u015b\u0107",
-      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Obywatelka K.L.",
+        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Sexy doll",
+      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 189554,
       "name": "sam na \u015bwiecie",
       "url": "https://open.spotify.com/track/21ls6f3Hx3C60odiucKf5E"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Obywatelka K.L.",
-        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Sexy doll",
-      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "ZA DU\u017bO GITAR",
-        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
-      },
-      "artists": [
-        {
-          "name": "Jacko Brango",
-          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
-        }
-      ],
-      "duration_ms": 207232,
-      "name": "ZE SPRITE'EM",
-      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "TRASH TAPE",
         "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 136000,
       "name": "WKURWELEPSZEPOGO",
       "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "ZA DU\u017bO GITAR",
+        "url": "https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5"
+      },
+      "artists": [
+        {
+          "name": "Jacko Brango",
+          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "ZE SPRITE'EM",
+      "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Fly High-Fi!",
         "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+        "name": "BUNT",
+        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
       },
       "artists": [
         {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
         }
       ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
+      "duration_ms": 326653,
+      "name": "Aport",
+      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -939,22 +955,6 @@
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "BUNT",
-        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Aport",
-      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Grzyby",
-        "url": "https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 174023,
-      "name": "Chaga",
-      "url": "https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Uno Lovis Party",
         "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202921,
       "name": "Memento Amoris",
       "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Grzyby",
+        "url": "https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 174023,
+      "name": "Chaga",
+      "url": "https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg"
     },
     {
       "added_at": "2026-05-26 09:05:26",

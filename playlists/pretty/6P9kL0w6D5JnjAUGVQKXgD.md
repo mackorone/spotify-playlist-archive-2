@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,512 likes - 100 songs - 5 hr 4 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,511 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 91 | [Crooked \(VAANCE & Herrin Remix\)](https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv) | [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Herrin](https://open.spotify.com/artist/1cOE2rCet7CGWid3OD5499) | [Crooked \(VAANCE & Herrin Remix\)](https://open.spotify.com/album/0poUGk2wU0b2y1llEgp6Zc) | 2:06 |
 | 92 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 |
 | 93 | [Into The Wild](https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [KiFi](https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc) | [Into The Wild \(feat\. KiFi\)](https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv) | 2:57 |
-| 94 | [Easier \(feat\. LOWES\) \- Radio Edit](https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Easier \(feat\. LOWES\) \[Radio Edit\]](https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui) | 3:34 |
+| 94 | [Easier \(feat\. LOWES\) \- Radio Edit](https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Easier \(feat\. LOWES\) \[Radio Edit\]](https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui) | 3:34 |
 | 95 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 |
 | 96 | [Still Think About You](https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [MAZE](https://open.spotify.com/artist/5A0NriHXv9tLlUYztVXeGP) | [Still Think About You](https://open.spotify.com/album/58GpWonAE9FAuHf4wDawKy) | 3:21 |
 | 97 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 |

@@ -6849,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Hanuman Ansh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DlVPtSdh0eXgXLZA4Newq"
+      },
+      "artists": [
+        {
+          "name": "Suneel Lodhi",
+          "url": "https://open.spotify.com/artist/1s5aKgcudmePUHS5qAIlWS"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Maine Tere Hi Bharose",
+      "url": "https://open.spotify.com/track/5TtvunSnujYjeu4v9zGqss"
+    },
+    {
+      "album": {
         "name": "Do Patti",
         "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
       },
@@ -11014,7 +11032,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic\"",
       "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"

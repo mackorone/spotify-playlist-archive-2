@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,123 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,124 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 43 | [ビギナーズRock!!](https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:14 |
 | 44 | [Free Flight](https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/4E2jaeGzXiDTZ1rX6WV2rW) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:30 |
 | 45 | [真っ赤。](https://open.spotify.com/track/5SUFkTfaqjo6bk3eGogzqu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [絶対的LOVER / Dazzling Game【第8話盤】](https://open.spotify.com/album/448ZEDvkwjToQcsewy9zzY) | 3:01 |
-| 46 | [Memories](https://open.spotify.com/track/5thitvC3S9ZaQd0ggFR4Yp) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:54 |
+| 46 | [青空を待ってる](https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:39 |
 | 47 | [私のSymphony \- 2023Ver.](https://open.spotify.com/track/48G3gVCSvekCASVHf4Uacu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 3:58 |
 | 48 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 |
 | 49 | [Second Sparkle](https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:25 |

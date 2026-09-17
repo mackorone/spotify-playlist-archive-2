@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "ASTROMELIA",
+        "url": "https://open.spotify.com/album/23iVVLgX9LLUY8juVK2JWE"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193961,
+      "name": "ASTROMELIA",
+      "url": "https://open.spotify.com/track/7A20f6Mr0Gf8LocZusKIzC"
+    },
+    {
+      "album": {
         "name": "Polos Vol. II",
         "url": "https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV"
       },
@@ -9148,7 +9166,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 176842,
       "name": "chikiBb",
       "url": "https://open.spotify.com/track/0QLaoJweWpOL1JKCwqo3Q8"
@@ -9380,7 +9398,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 127568,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/0A4Cgx2wXwJEeyp1OYjq1h"
@@ -10814,6 +10832,24 @@
       "duration_ms": 109014,
       "name": "costa de la luna",
       "url": "https://open.spotify.com/track/1gMzDCeJkYkxz0iosKmywv"
+    },
+    {
+      "album": {
+        "name": "Crecer",
+        "url": "https://open.spotify.com/album/3zhlCNC7vEDx2fSrnrYLKh"
+      },
+      "artists": [
+        {
+          "name": "Mia Zeta",
+          "url": "https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215256,
+      "name": "Crecer",
+      "url": "https://open.spotify.com/track/7GR2RzUYQr2ZK2IB67ktaA"
     },
     {
       "album": {
@@ -12480,6 +12516,24 @@
       "duration_ms": 189166,
       "name": "Dear Junior",
       "url": "https://open.spotify.com/track/5diJovhAIQJsdwLb0iDzpy"
+    },
+    {
+      "album": {
+        "name": "MARIPOSA",
+        "url": "https://open.spotify.com/album/6VM4kOEu1u9tEgSxgdVTVm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1MBAR",
+          "url": "https://open.spotify.com/artist/0ZwW9o3DtcbchRfkQTsFLy"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "DEBAJO DEL RUBOR",
+      "url": "https://open.spotify.com/track/7s8jQTbEGzxCQWqCLJKCHT"
     },
     {
       "album": {
@@ -18600,7 +18654,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 152919,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/1ShklPH2en2S6e2LuDW514"
@@ -19004,7 +19058,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163350,
       "name": "F2J",
       "url": "https://open.spotify.com/track/1bX4WZ37PFeOPcsATB1lV9"
@@ -24005,6 +24059,24 @@
     },
     {
       "album": {
+        "name": "La Curita",
+        "url": "https://open.spotify.com/album/296aHbyUMwxwT9D8orFAEx"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "La Curita",
+      "url": "https://open.spotify.com/track/3N3WPcEBEOfIS7GZIzPJWR"
+    },
+    {
+      "album": {
         "name": "La Danza del Despertar",
         "url": "https://open.spotify.com/album/5ibKQoGqYZYqoea1ZSRICQ"
       },
@@ -28464,7 +28536,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 162753,
       "name": "Manos de Sal",
       "url": "https://open.spotify.com/track/1pMfuxOuyXJV1zeRjj90ze"
@@ -30568,10 +30640,28 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184163,
       "name": "Mi Primavera",
       "url": "https://open.spotify.com/track/72wq7q217SkcGhKRV4WyPd"
+    },
+    {
+      "album": {
+        "name": "Mi Se\u00f1ora",
+        "url": "https://open.spotify.com/album/54ab08tx4bHG4bAEIH9Qbw"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237202,
+      "name": "Mi Se\u00f1ora",
+      "url": "https://open.spotify.com/track/0cPg9BM4vZsPiuobkJhb7c"
     },
     {
       "album": {
@@ -37752,7 +37842,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 156909,
       "name": "penso en voce",
       "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
@@ -38947,6 +39037,24 @@
     },
     {
       "album": {
+        "name": "POSTAL (lavalle 16*5)",
+        "url": "https://open.spotify.com/album/1VUk1k1tF8WVjaj7z8GkMU"
+      },
+      "artists": [
+        {
+          "name": "Amantina",
+          "url": "https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145909,
+      "name": "POSTAL (lavalle 16*5)",
+      "url": "https://open.spotify.com/track/17mSuld3uhQnFjkVmwFGff"
+    },
+    {
+      "album": {
         "name": "Celos",
         "url": "https://open.spotify.com/album/1j4mTBBcPXsWBr1XmMTnOK"
       },
@@ -39060,6 +39168,28 @@
       "duration_ms": 183048,
       "name": "Preso",
       "url": "https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA"
+    },
+    {
+      "album": {
+        "name": "Preso (Pret A Porter)",
+        "url": "https://open.spotify.com/album/50B4CHH3tQmNmhePIaRubs"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        },
+        {
+          "name": "cloudboi.",
+          "url": "https://open.spotify.com/artist/1kSdbIDJfVcpdBwmtwrEgm"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157944,
+      "name": "Preso (Pret A Porter)",
+      "url": "https://open.spotify.com/track/4bgNB4R6LKuDjbVZvCKCvR"
     },
     {
       "album": {
@@ -42782,6 +42912,24 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "album": {
+        "name": "Sencillo, para mentes complicadas",
+        "url": "https://open.spotify.com/album/3hpEYw3DvnOLVjITr7EG0H"
+      },
+      "artists": [
+        {
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227244,
+      "name": "Sencillo, para mentes complicadas",
+      "url": "https://open.spotify.com/track/0lzt4EY7s401pnx3O5ND4c"
     },
     {
       "album": {
@@ -51308,7 +51456,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 146428,
       "name": "Venas full",
       "url": "https://open.spotify.com/track/0M1CpOvPHhAT3KOIRvl1xt"

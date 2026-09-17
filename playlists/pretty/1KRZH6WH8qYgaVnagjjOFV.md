@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,511 likes - 139 songs - 8 hr 46 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,509 likes - 139 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 2 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 |
 | 3 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 |
 | 4 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 |
-| 5 | [sundays](https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [sundays](https://open.spotify.com/album/3Y8zeULelcsv45zhoHRNLE) | 2:43 |
+| 5 | [when I see You](https://open.spotify.com/track/4tRydL83PixlUSIz0Njzpl) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [when I see You](https://open.spotify.com/album/5FErWBY2rB61bRu0jCg3Wx) | 3:16 |
 | 6 | [Who I Am To You](https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Who I Am To You](https://open.spotify.com/album/4EOaaVcUrGgEA1lg2DBd8v) | 3:10 |
 | 7 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
 | 8 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 138 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 139 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 |
 
-Snapshot ID: `AAAnjIjyrlJplbfgneUHn0tcbh3Wwdnx`
+Snapshot ID: `AAAnjuSAvoXHQBZ5HnGI0SR2S5UCPq6u`

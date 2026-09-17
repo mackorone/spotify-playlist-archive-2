@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,026 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,047 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 47 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 |
 | 48 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 49 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |
-| 50 | [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 |
+| 50 | [Rock the Boat](https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Rock the Boat](https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR) | 4:28 |
 
 Snapshot ID: `AAAAAGIfyIbXmsZlgs2fxfYA7ecJ9EEc`

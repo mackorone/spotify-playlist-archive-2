@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 431903,
+  "num_followers": 431867,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Personita Buena (CLUBZ Remix)",
-        "url": "https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Personita Buena - CLUBZ Remix",
-      "url": "https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Personita Buena (CLUBZ Remix)",
+        "url": "https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Personita Buena - CLUBZ Remix",
+      "url": "https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "OTRA COSA MARIPOSA",
-        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "OTRA COSA MARIPOSA",
-      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "A No Llorar",
         "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 232750,
       "name": "A No Llorar",
       "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "OTRA COSA MARIPOSA",
+        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "OTRA COSA MARIPOSA",
+      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -1411,6 +1395,38 @@
       "duration_ms": 197511,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
     },
     {
       "added_at": "2026-08-21 04:01:56",

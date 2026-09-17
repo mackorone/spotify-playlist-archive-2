@@ -5823,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Darkness.",
+        "url": "https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233707,
+      "name": "Lost In The Darkness.",
+      "url": "https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l"
+    },
+    {
+      "album": {
         "name": "Lost On Queen Street",
         "url": "https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH"
       },

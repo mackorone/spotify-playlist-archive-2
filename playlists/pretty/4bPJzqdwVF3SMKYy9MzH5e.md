@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,431 songs - 5 day 10 hr 24 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,432 songs - 5 day 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2089,7 +2089,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2079 | [Woops \- Slowed + Reverb](https://open.spotify.com/track/3ajR6pspj94O8XkqkCNCir) | [Dj Bountyhunter](https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66) | [Woops](https://open.spotify.com/album/2UV4r8pygmFLFD7fevUGrC) | 1:54 |
 | 2080 | [Loco](https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:06 |
 | 2081 | [NOSTYLIST](https://open.spotify.com/track/0MXemkrh7WpAfiafcGQwZO) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 3:00 |
-| 2082 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
+| 2082 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 2083 | [You've Seen the Butcher](https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:31 |
 | 2084 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 |
 | 2085 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 |
@@ -2439,5 +2439,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2429 | [Goretex](https://open.spotify.com/track/5TOcwfBVOnZX1jPaYmprhY) | [ikea99](https://open.spotify.com/artist/2IAycvrgSoZoDReX1egCW8) | [The Internet Gallery](https://open.spotify.com/album/7H7bDTwFOlUjCkO00XAJTC) | 1:28 |
 | 2430 | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 |
 | 2431 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
+| 2432 | [Bind That Bitch](https://open.spotify.com/track/3ebpXLD39hCZUHM5g9XczH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 2:49 |
 
-Snapshot ID: `AAAFiN8VlzqjU0dQR1TaUSRiy3LpTUP6`
+Snapshot ID: `AAAFia+T7dznpjeCo3Xl5ytcAFS0qxx+`

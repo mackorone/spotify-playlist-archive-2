@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Falak Shabbir
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,061 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,082 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hanju](https://open.spotify.com/track/4bEpeJmBVhAi1tywfKvoQF) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Hanju](https://open.spotify.com/album/0jBqhIHx7IBaWuBMHAkDTr) | 3:02 |
+| 1 | [Hanju](https://open.spotify.com/track/4bEpeJmBVhAi1tywfKvoQF) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM) | [Hanju](https://open.spotify.com/album/0jBqhIHx7IBaWuBMHAkDTr) | 3:02 |
 | 2 | [baemisaal](https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [MADEMEN](https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W) | 2:49 |
 | 3 | [Ajnabi](https://open.spotify.com/track/6mXF2Nfk7rjhwO63b2YyhQ) | [Rafae Bokhari](https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq) | [Ajnabi](https://open.spotify.com/album/4F0Py1Mp1nycYC2zYXRll2) | 4:03 |
 | 4 | [Mahi Ta Mera](https://open.spotify.com/track/1umCymfqbkijhZRmk5jk7R) | [Ibrahim Sulayman](https://open.spotify.com/artist/455eqD8miKi61kJndsKkFD), [Hassaan Malik](https://open.spotify.com/artist/1a5ucQWIQyAkoaj7wzfYVa) | [Mahi Ta Mera](https://open.spotify.com/album/6pLYYYOdykLgFKzhSAiIeV) | 4:05 |

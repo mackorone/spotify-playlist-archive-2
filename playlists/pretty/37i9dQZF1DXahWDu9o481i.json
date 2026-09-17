@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KAROL G, rusowsky, Judeline.",
-  "num_followers": 115766,
+  "num_followers": 115813,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
@@ -199,7 +199,7 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Look Like My Mama (feat. Tyler, The Creator)",
+        "name": "Look Like My Mama",
         "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
       },
       "artists": [
@@ -213,7 +213,7 @@
         }
       ],
       "duration_ms": 196800,
-      "name": "Look Like My Mama (feat. Tyler, The Creator)",
+      "name": "Look Like My Mama",
       "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
     },
     {
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Pure Devotion",
-        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "The Hard Way (Complete Edition)",
-        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 167152,
-      "name": "Want For Nothing",
-      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -483,18 +467,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Let Me Cry",
-      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -511,6 +495,22 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "PROLIFIC",
         "url": "https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 186014,
       "name": "Just Like Me (feat. Buddy)",
       "url": "https://open.spotify.com/track/4rUbSgoj5DJLzDRmV1BRP1"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "All American",
-        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
-      },
-      "artists": [
-        {
-          "name": "Isabel Dumaa",
-          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "All American",
-      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "fue fuerte saber que t\u00fa ya no sientes",
         "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Fell Asleep in the Sun",
-        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Fell Asleep in the Sun",
-      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
+      "duration_ms": 210293,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -851,6 +835,22 @@
       "duration_ms": 137419,
       "name": "TALKIN FYE",
       "url": "https://open.spotify.com/track/1UBZHd1XtwhlUvQnXt5l12"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Fell Asleep in the Sun",
+        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Fell Asleep in the Sun",
+      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
     },
     {
       "added_at": "2026-09-01 04:00:27",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Junior Mesa",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Coco Elise",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 198811,
       "name": "2005",
       "url": "https://open.spotify.com/track/1GokUSLCKojga6JRk9eFaT"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192940,
       "name": "4am",
       "url": "https://open.spotify.com/track/4VeCTWzYKHylYIuJyjBIVy"
@@ -8496,7 +8496,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 173250,
       "name": "Bluebells",
       "url": "https://open.spotify.com/track/12UNcq0piKgV5VxhxOSRpz"
@@ -11604,7 +11604,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 208888,
       "name": "ceiling",
       "url": "https://open.spotify.com/track/7ajua99z1yxJH29aRvgkaa"
@@ -18866,7 +18866,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
@@ -20586,7 +20586,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 235568,
       "name": "Feeling at Home",
       "url": "https://open.spotify.com/track/4z28HFdbz493UGl6vldoZR"
@@ -22230,6 +22230,24 @@
       "duration_ms": 305511,
       "name": "Found!",
       "url": "https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz"
+    },
+    {
+      "album": {
+        "name": "Four in a bed",
+        "url": "https://open.spotify.com/album/68XTDfvOvY5epM4iIhZofm"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "Four in a bed",
+      "url": "https://open.spotify.com/track/26ILgpUQ7fe9CjUZzyFaLb"
     },
     {
       "album": {
@@ -29208,7 +29226,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 122560,
       "name": "I <3 You",
       "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
@@ -32115,6 +32133,24 @@
     },
     {
       "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
+    },
+    {
+      "album": {
         "name": "In Ordinary Fashion",
         "url": "https://open.spotify.com/album/3erawhGEBLhgF052zaD62w"
       },
@@ -32534,6 +32570,24 @@
       "duration_ms": 237990,
       "name": "inmypocket",
       "url": "https://open.spotify.com/track/57UK1at4Gf254SzfN8UOr5"
+    },
+    {
+      "album": {
+        "name": "Innocence Lost",
+        "url": "https://open.spotify.com/album/75Wi3xjGZ3IABXAy6ZDDqE"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Innocence Lost",
+      "url": "https://open.spotify.com/track/3gLjcKMnD3HTShQndNph3G"
     },
     {
       "album": {
@@ -48361,6 +48415,24 @@
     },
     {
       "album": {
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya"
+      },
+      "artists": [
+        {
+          "name": "Virgo Rising",
+          "url": "https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268386,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub"
+    },
+    {
+      "album": {
         "name": "Players Bawl",
         "url": "https://open.spotify.com/album/2wtuGRN6VAfEysKsHLa0cA"
       },
@@ -52246,6 +52318,24 @@
       "duration_ms": 80640,
       "name": "Sad Techno",
       "url": "https://open.spotify.com/track/4BCAiSHGQt1SmY15KoxPfB"
+    },
+    {
+      "album": {
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/10M6s0HJXqzbZsBXKGRCXi"
+      },
+      "artists": [
+        {
+          "name": "Coco Elise",
+          "url": "https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2h3O5CdVrqkwiDmkWEoTsL"
     },
     {
       "album": {
@@ -58434,7 +58524,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 344820,
       "name": "Stew",
       "url": "https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn"
@@ -58838,7 +58928,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 193777,
       "name": "Strafe",
       "url": "https://open.spotify.com/track/2oPOztgNXWMhoJxGUrnD0e"
@@ -59382,7 +59472,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 270198,
       "name": "Sugar in my Drink",
       "url": "https://open.spotify.com/track/2DVe9FPI1apq1paZR1oY6r"
@@ -61281,6 +61371,24 @@
     },
     {
       "album": {
+        "name": "The Girl the World Forgot",
+        "url": "https://open.spotify.com/album/2rJOt7T1j2Px5MUy6Z0TZQ"
+      },
+      "artists": [
+        {
+          "name": "Jackie Marchal",
+          "url": "https://open.spotify.com/artist/0impl8NVq1NoLQssU18V1P"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Tectonic",
+      "url": "https://open.spotify.com/track/1e76oa4B4e8KQz8gM3xZet"
+    },
+    {
+      "album": {
         "name": "Teenager Of The Year",
         "url": "https://open.spotify.com/album/47yBOeSyO1AHkMVIdjl0TT"
       },
@@ -62428,7 +62536,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 165084,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
@@ -64158,7 +64266,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 239648,
       "name": "Time Will Help",
       "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"
@@ -64374,7 +64482,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 197509,
       "name": "To That or to This",
       "url": "https://open.spotify.com/track/6XXzZXFhRCwWMkGbv2VH4J"
@@ -68466,6 +68574,24 @@
       "duration_ms": 205632,
       "name": "We Talked About It",
       "url": "https://open.spotify.com/track/6WP6zG6DdePXtVaVJqR5wl"
+    },
+    {
+      "album": {
+        "name": "we'll laugh about it later",
+        "url": "https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW"
+      },
+      "artists": [
+        {
+          "name": "Credit Electric",
+          "url": "https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344897,
+      "name": "we'll laugh about it later",
+      "url": "https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138780,
+  "num_followers": 138806,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 214386,
-      "name": "U + Ur Hand",
-      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+      "duration_ms": 169338,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+        "name": "I'm Not Dead",
+        "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 169338,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+      "duration_ms": 214386,
+      "name": "U + Ur Hand",
+      "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272806,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 219093,
       "name": "I Don't Need A Man",
       "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272806,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Holler",
+      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Holler",
-      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "My Love Ultimate Essential Collection",
+        "url": "https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/1l8wkh5QZFK8oPqLeLJRy2"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 182333,
       "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
       "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "My Love Ultimate Essential Collection",
-        "url": "https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "I'm Alive",
-      "url": "https://open.spotify.com/track/1l8wkh5QZFK8oPqLeLJRy2"
     }
   ],
   "unique_name": "Deserved",

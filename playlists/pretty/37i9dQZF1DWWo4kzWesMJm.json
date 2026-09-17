@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 188167,
+  "num_followers": 188191,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "la derniere annee",
         "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mes Fantaisies",
-        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
+        "name": "Nico Teen Love",
+        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
       },
       "artists": [
         {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+          "name": "BB Brunes",
+          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Femme de couleur",
-      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
+      "duration_ms": 180813,
+      "name": "Lalalove You",
+      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Nico Teen Love",
-        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
+        "name": "Mes Fantaisies",
+        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
       },
       "artists": [
         {
-          "name": "BB Brunes",
-          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
         }
       ],
-      "duration_ms": 180813,
-      "name": "Lalalove You",
-      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
+      "duration_ms": 216266,
+      "name": "Femme de couleur",
+      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
     }
   ],
   "unique_name": "Bleu Blanc Route",

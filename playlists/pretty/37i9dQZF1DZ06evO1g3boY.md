@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,651 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,666 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
 | 50 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
 
-Snapshot ID: `aqc5AAAAAACN4MVQz1xX7U1l/8dRYMt1`
+Snapshot ID: `aqc5AAAAAAC8AtL4FF9QC2R0pKx9gjU7`

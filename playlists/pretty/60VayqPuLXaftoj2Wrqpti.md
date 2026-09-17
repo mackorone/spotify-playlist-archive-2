@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,526 likes - 73 songs - 4 hr 23 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,534 likes - 73 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 8 | [Disappear Here](https://open.spotify.com/track/4yyq8j5Isqyas6ygj4hd0r) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Disappear Here](https://open.spotify.com/album/7qMUlZqsoGb8SSIxaqunWY) | 3:51 |
 | 9 | [Dreamtime Karaoke](https://open.spotify.com/track/6pqjris6hPIl026GVtwb0j) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Dreamtime Karaoke](https://open.spotify.com/album/5mLKG7Jky7DWdu85MLHb4j) | 3:06 |
 | 10 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH) | 2:40 |
-| 11 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/4G7d1l1Uwx1jPd3rDkk0qE) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/2PrJKRQWAUjiQy7vTbtBCq) | 3:16 |
+| 11 | [Look Like My Mama](https://open.spotify.com/track/4G7d1l1Uwx1jPd3rDkk0qE) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/2PrJKRQWAUjiQy7vTbtBCq) | 3:16 |
 | 12 | [Certified Lover](https://open.spotify.com/track/5p700mCSX9ovnDZkAcpBUr) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Certified Lover](https://open.spotify.com/album/6PS7a0Uq7C62Gbyo7qsUeN) | 2:58 |
 | 13 | [dissolve](https://open.spotify.com/track/51EmB3GDgKVIg8Uwvtn76G) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Sebastian Adé](https://open.spotify.com/artist/1QsFLbnYnCV8AA4aOvKPme) | [dissolve](https://open.spotify.com/album/4DFZiq7qlcDQ2UVpEPtpBW) | 3:13 |
 | 14 | [Wrecker](https://open.spotify.com/track/6cNAUcOFPV0QRVmK1z8mW4) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [3 Negative Pop\(?\) Songs](https://open.spotify.com/album/61527LTIrepFYD3gFBBEd5) | 4:42 |

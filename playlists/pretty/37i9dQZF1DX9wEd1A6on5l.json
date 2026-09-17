@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 120766,
+  "num_followers": 120801,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
         "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 233976,
       "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "As We Get High (feat. Omah Lay & BEAM)",
         "url": "https://open.spotify.com/album/0fIi74aWkcWjHkNVRB3QZP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 177663,
       "name": "As We Get High (feat. Omah Lay & BEAM)",
       "url": "https://open.spotify.com/track/3Yh9cNUxHN0bvkWBQ2QVdK"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 135549,
-      "name": "Fast and Furious",
-      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+      "duration_ms": 135549,
+      "name": "Fast and Furious",
+      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
       },
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "CLAAT!",
-        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+        "name": "Hold Somebody",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 174150,
-      "name": "CLAAT!",
-      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
+      "duration_ms": 158170,
+      "name": "Hold Somebody",
+      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1243,6 +1239,42 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "Bank Alert",
         "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
       },
@@ -1271,26 +1303,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Calculate (II)",
-        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate - II",
-      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -1307,6 +1319,26 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Calculate (II)",
+        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate - II",
+      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1331,38 +1363,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -1383,6 +1383,38 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
       },
@@ -1395,38 +1427,6 @@
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "Hold Somebody",
-        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "Hold Somebody",
-      "url": "https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "added_at": "2026-09-11 04:10:23",

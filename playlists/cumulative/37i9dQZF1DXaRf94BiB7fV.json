@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Aeymanntara",
+  "description": "The best new music by independent artists and labels in India. Cover - Aamir Rizvi",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1674,6 +1674,24 @@
       "duration_ms": 190584,
       "name": "Aise Na Karo",
       "url": "https://open.spotify.com/track/4UoVox7Lkns7oSu6EVDqQi"
+    },
+    {
+      "album": {
+        "name": "Aisha",
+        "url": "https://open.spotify.com/album/6MBUV9ZdXpyiTNdf1LyUFd"
+      },
+      "artists": [
+        {
+          "name": "vivasvan",
+          "url": "https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/39jqp7KzUjoreAEaX8pzf6"
     },
     {
       "album": {
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 97000,
       "name": "Butterfly Tattoo",
       "url": "https://open.spotify.com/track/7mvuJXlOpZ7PUZezHXVsyX"
@@ -6800,7 +6818,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 226043,
       "name": "Daag.",
       "url": "https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX"
@@ -8085,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "album": {
         "name": "Dil Ko Teri Adat Hay",
         "url": "https://open.spotify.com/album/5aDOsyB0Vaw1okkIeP7Sl3"
       },
@@ -8496,6 +8532,24 @@
       "duration_ms": 194000,
       "name": "DMTMH",
       "url": "https://open.spotify.com/track/68ettx2RO6hmkGvayF9mVM"
+    },
+    {
+      "album": {
+        "name": "Do I Know (Rachika Nayar Edit)",
+        "url": "https://open.spotify.com/album/6O6QDZCAsyswRZoQPtF8mN"
+      },
+      "artists": [
+        {
+          "name": "Sijya",
+          "url": "https://open.spotify.com/artist/7E6rUwPmABZAG9b33Nag2p"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166965,
+      "name": "Do I Know",
+      "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
     },
     {
       "album": {
@@ -9590,6 +9644,32 @@
       "duration_ms": 197500,
       "name": "Eliza's Cure",
       "url": "https://open.spotify.com/track/5yphikWSqIChQvxVn1NVZc"
+    },
+    {
+      "album": {
+        "name": "emergency contact",
+        "url": "https://open.spotify.com/album/5gMt0XCnf4Q8rOHRXD68Q5"
+      },
+      "artists": [
+        {
+          "name": "Aamir Rizvi",
+          "url": "https://open.spotify.com/artist/0x25jhlNyAEkoq6ofG9Mud"
+        },
+        {
+          "name": "Aditya Servaia",
+          "url": "https://open.spotify.com/artist/5ZNYJhSuSeCIyGUiCfICT2"
+        },
+        {
+          "name": "Supratim Bhattacharya",
+          "url": "https://open.spotify.com/artist/3cO2Hn3zRpyUbc3XASJs57"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "emergency contact",
+      "url": "https://open.spotify.com/track/1oKPimg4sx4wK1oS3HUrfT"
     },
     {
       "album": {
@@ -15640,6 +15720,24 @@
       "duration_ms": 248613,
       "name": "Jee Dhoondta Hai",
       "url": "https://open.spotify.com/track/3cxg4WPMZDyTX6S6Z29RV6"
+    },
+    {
+      "album": {
+        "name": "Jee Le",
+        "url": "https://open.spotify.com/album/3Spakv8LvAK95J9sUHlRMG"
+      },
+      "artists": [
+        {
+          "name": "Moses Koul",
+          "url": "https://open.spotify.com/artist/2kvK8K0Vhnx3LXQxBP4lLn"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "Jee Le",
+      "url": "https://open.spotify.com/track/7yRXAOSgnHn5nu1oEvIUEi"
     },
     {
       "album": {
@@ -22928,7 +23026,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 233696,
       "name": "Megh",
       "url": "https://open.spotify.com/track/3Ljb4WAugiB74p46pSBz4O"
@@ -27808,7 +27906,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 188231,
       "name": "pre lunch song",
       "url": "https://open.spotify.com/track/4bczT13ATAA8HMeY8QEHtg"
@@ -30204,7 +30302,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 243495,
       "name": "Saavan",
       "url": "https://open.spotify.com/track/01MYlHCB9pdwRDwXpNgY2x"
@@ -32535,6 +32633,28 @@
     },
     {
       "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/1G9tnCRdyjxSJCpak3SBE3"
+      },
+      "artists": [
+        {
+          "name": "Vedang Gaikwad",
+          "url": "https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza"
+        },
+        {
+          "name": "Sunny James",
+          "url": "https://open.spotify.com/artist/5RBVqReDzUsMOjR0mFrKp4"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211683,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/2syQeSPeflDUtHzHm7ubUu"
+    },
+    {
+      "album": {
         "name": "Song About You",
         "url": "https://open.spotify.com/album/4uH8ef7yWJFZLl7rIdeGDM"
       },
@@ -33176,7 +33296,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 276405,
       "name": "summerlovin",
       "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
@@ -36138,6 +36258,24 @@
       "duration_ms": 248031,
       "name": "Tu Mera Hua",
       "url": "https://open.spotify.com/track/54EiaA4kY2TmTYXYdQ1KuH"
+    },
+    {
+      "album": {
+        "name": "Tu Mera Jahaan",
+        "url": "https://open.spotify.com/album/2rdmOwsjeo3kqFtMY7rAZM"
+      },
+      "artists": [
+        {
+          "name": "Zicr",
+          "url": "https://open.spotify.com/artist/74NuTWw4sEt7GVWUbi2lyc"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Tu Mera Jahaan",
+      "url": "https://open.spotify.com/track/1kIF49BlWcL3jerAUCaIr1"
     },
     {
       "album": {

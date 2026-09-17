@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1809969,
+  "num_followers": 1810096,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213173,
       "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
       "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1015,6 +1015,26 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "75, Brazil Street",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix)",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1087,26 +1107,6 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "75, Brazil Street",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix)",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Star 69",
-        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 371493,
-      "name": "Star 69 - Timo Maas Mix",
-      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 224640,
       "name": "Chemistry - Radio Edit",
       "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Star 69",
+        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 371493,
+      "name": "Star 69 - Timo Maas Mix",
+      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
       "artists": [
         {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
       },
@@ -1839,22 +1859,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1867,6 +1871,22 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1919,42 +1939,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 225400,
       "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
       "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 562573,
+      "name": "A Tear In The Open",
+      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 489373,
-      "name": "Love Comes Again",
-      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 173634,
       "name": "Addiction - Radio Edit",
       "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 489373,
+      "name": "Love Comes Again",
+      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
     },
     {
       "added_at": "2024-07-12 15:40:20",

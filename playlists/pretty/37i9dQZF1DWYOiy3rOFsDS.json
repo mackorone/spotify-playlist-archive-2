@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Luciano Daniel en portada.",
-  "num_followers": 537450,
+  "num_followers": 537395,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Cu\u00e1nta Raz\u00f3n",
-        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 185246,
-      "name": "Cu\u00e1nta Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Serenatas Frente al Mar",
         "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 197850,
       "name": "Serenatas Frente al Mar",
       "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Cu\u00e1nta Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "Cu\u00e1nta Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -771,18 +767,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
       "artists": [
         {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Coraz\u00f3n de Oro",
         "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 161480,
       "name": "Coraz\u00f3n de Oro",
       "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
-      },
-      "artists": [
-        {
-          "name": "Celeste Sanazi",
-          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
-        }
-      ],
-      "duration_ms": 137131,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
+      },
+      "artists": [
+        {
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
+        }
+      ],
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 164798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 232373,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 171272,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
     }
   ],
   "unique_name": "nuevo bolero",

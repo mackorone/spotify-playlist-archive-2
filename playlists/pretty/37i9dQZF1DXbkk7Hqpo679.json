@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 99387,
+  "num_followers": 99397,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296480,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Single Hit Collection",
         "url": "https://open.spotify.com/album/1WHUdNqPAXVp3jhT9CiSdg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 207800,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "As We Are",
-        "url": "https://open.spotify.com/album/5Oj4IehidgqBj5K0YFNI0f"
+        "name": "The Best Of Teach In",
+        "url": "https://open.spotify.com/album/3psQqogsEKCmcf8OSSnoZV"
       },
       "artists": [
         {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9"
+          "name": "Teach In",
+          "url": "https://open.spotify.com/artist/0but8haas2eybMUZvFV90H"
         }
       ],
-      "duration_ms": 280772,
-      "name": "House For Sale",
-      "url": "https://open.spotify.com/track/4kXbcScK3ScRFrZVlBytnm"
+      "duration_ms": 149573,
+      "name": "Ding-A-Dong",
+      "url": "https://open.spotify.com/track/3ML1JVicjXbdsyYrPdfr5E"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "The Best Of Teach In",
-        "url": "https://open.spotify.com/album/3psQqogsEKCmcf8OSSnoZV"
+        "name": "As We Are",
+        "url": "https://open.spotify.com/album/5Oj4IehidgqBj5K0YFNI0f"
       },
       "artists": [
         {
-          "name": "Teach In",
-          "url": "https://open.spotify.com/artist/0but8haas2eybMUZvFV90H"
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9"
         }
       ],
-      "duration_ms": 149573,
-      "name": "Ding-A-Dong",
-      "url": "https://open.spotify.com/track/3ML1JVicjXbdsyYrPdfr5E"
+      "duration_ms": 280772,
+      "name": "House For Sale",
+      "url": "https://open.spotify.com/track/4kXbcScK3ScRFrZVlBytnm"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Earth & Fire",
-        "url": "https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM"
-      },
-      "artists": [
-        {
-          "name": "Earth & Fire",
-          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Golden Earring Biggest Hits",
         "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 255026,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Earth & Fire",
+        "url": "https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM"
+      },
+      "artists": [
+        {
+          "name": "Earth & Fire",
+          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V"
     },
     {
       "added_at": "2024-08-28 19:18:25",

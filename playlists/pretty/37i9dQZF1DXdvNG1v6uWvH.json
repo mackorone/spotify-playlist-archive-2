@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Aron Can, \u00c1sgeir og m\u00f6rgum fleirum!",
-  "num_followers": 9719,
+  "num_followers": 9717,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "lamb (feat. Kellin Quinn)",
-        "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 144906,
-      "name": "lamb (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Backwards (feat. T.I.)",
         "url": "https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 191505,
       "name": "Backwards (feat. T.I.)",
       "url": "https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "lamb (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 144906,
+      "name": "lamb (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "The Weight of the Woods (Extended Edition)",
-        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 344295,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "The Weight of the Woods (Extended Edition)",
+        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 344295,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Make believe",
         "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 261517,
       "name": "Uncasually",
       "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0dFAxj60T1Mb6gGNTgWcwJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4oRB6Rgyq2Y5K30elz9vzs"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -439,18 +439,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "The Kid With the Crown",
-        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/2REu11evStja6Sagu3Tmer"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 254961,
-      "name": "The Kid With the Crown",
-      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
+      "duration_ms": 178469,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -475,22 +479,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/2REu11evStja6Sagu3Tmer"
+        "name": "The Kid With the Crown",
+        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
       },
       "artists": [
         {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 178469,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
+      "duration_ms": 254961,
+      "name": "The Kid With the Crown",
+      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Here Because of Hope",
-        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 189783,
       "name": "1234",
       "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "troubled man",
+        "url": "https://open.spotify.com/album/3PquX6lQsOxFvmv8pRdT5g"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "troubled man",
+      "url": "https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Vann du livet?",
         "url": "https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 210680,
       "name": "Vann du livet?",
       "url": "https://open.spotify.com/track/7Aba1eJrqLrAP4NlMAvwK0"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "troubled man",
-        "url": "https://open.spotify.com/album/3PquX6lQsOxFvmv8pRdT5g"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "troubled man",
-      "url": "https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Bring It On",
-        "url": "https://open.spotify.com/album/1paAbXHVZc6IeyQD7kuUJL"
+        "name": "what's so hard to understand",
+        "url": "https://open.spotify.com/album/2ok4kHaqvsQNPfwwqGz8YR"
       },
       "artists": [
         {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
         }
       ],
-      "duration_ms": 210434,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/4WlvUtQNo9nuCCYFh7KRuR"
+      "duration_ms": 209750,
+      "name": "what's so hard to understand",
+      "url": "https://open.spotify.com/track/27IRopbn9sBtxqs8O6mhzX"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "what's so hard to understand",
-        "url": "https://open.spotify.com/album/2ok4kHaqvsQNPfwwqGz8YR"
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/1paAbXHVZc6IeyQD7kuUJL"
       },
       "artists": [
         {
-          "name": "Son of Son",
-          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 209750,
-      "name": "what's so hard to understand",
-      "url": "https://open.spotify.com/track/27IRopbn9sBtxqs8O6mhzX"
+      "duration_ms": 210434,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/4WlvUtQNo9nuCCYFh7KRuR"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -803,22 +803,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Rocket Man",
-        "url": "https://open.spotify.com/album/5y7Ealij3ltGKFxAu17k1Y"
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
       },
       "artists": [
         {
-          "name": "Hogland",
-          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
-        },
-        {
-          "name": "KIDSDOSHROOMS",
-          "url": "https://open.spotify.com/artist/0c7DbjJmjWRfhVik192Kvw"
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
         }
       ],
-      "duration_ms": 142931,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/2fHQPo9sximD6l8UpbtTWn"
+      "duration_ms": 192746,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -839,6 +835,26 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
+        "name": "Rocket Man",
+        "url": "https://open.spotify.com/album/5y7Ealij3ltGKFxAu17k1Y"
+      },
+      "artists": [
+        {
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+        },
+        {
+          "name": "KIDSDOSHROOMS",
+          "url": "https://open.spotify.com/artist/0c7DbjJmjWRfhVik192Kvw"
+        }
+      ],
+      "duration_ms": 142931,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/2fHQPo9sximD6l8UpbtTWn"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4b7rOQeLJWirPtDIQw5VgL"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 178991,
       "name": "Goldmine",
       "url": "https://open.spotify.com/track/69FHTmDAbvdCOlRqV49R3L"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
-        "name": "Your Name",
-        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
-      },
-      "artists": [
-        {
-          "name": "Marianne Beaulieu",
-          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Your Name",
-      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "500 Days of Summer",
-        "url": "https://open.spotify.com/album/6TvWRBXb4Jagodxh3sO5IR"
-      },
-      "artists": [
-        {
-          "name": "Oscar Stembridge",
-          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
-        }
-      ],
-      "duration_ms": 174236,
-      "name": "500 Days of Summer",
-      "url": "https://open.spotify.com/track/3bJWhKhSMWSRJt17yoG10j"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Pockets",
         "url": "https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Your Boy Is Sick",
-        "url": "https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd"
+        "name": "500 Days of Summer",
+        "url": "https://open.spotify.com/album/6TvWRBXb4Jagodxh3sO5IR"
       },
       "artists": [
         {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
         }
       ],
-      "duration_ms": 177404,
-      "name": "Your Boy Is Sick",
-      "url": "https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy"
+      "duration_ms": 174236,
+      "name": "500 Days of Summer",
+      "url": "https://open.spotify.com/track/3bJWhKhSMWSRJt17yoG10j"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -947,6 +931,22 @@
       "duration_ms": 159469,
       "name": "wilder life",
       "url": "https://open.spotify.com/track/2nRdfknw8IxijmIn2roRov"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Your Boy Is Sick",
+        "url": "https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 177404,
+      "name": "Your Boy Is Sick",
+      "url": "https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/6UAbCUH8jL2PUwS4PiGQBe"
-      },
-      "artists": [
-        {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
-        }
-      ],
-      "duration_ms": 165082,
-      "name": "Who's Your Favourite Girl?",
-      "url": "https://open.spotify.com/track/6giU9X7GpryWBPypgSlIAw"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Everything's Coming Up Roses",
         "url": "https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 218026,
       "name": "Myth Of You",
       "url": "https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6UAbCUH8jL2PUwS4PiGQBe"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        }
+      ],
+      "duration_ms": 165082,
+      "name": "Who's Your Favourite Girl?",
+      "url": "https://open.spotify.com/track/6giU9X7GpryWBPypgSlIAw"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "Humanoid",
-        "url": "https://open.spotify.com/album/4ClRlYXTltJHS25faTb1Cr"
-      },
-      "artists": [
-        {
-          "name": "Tue Track",
-          "url": "https://open.spotify.com/artist/4gkU3V5EzFhsXS7vNPuNKZ"
-        }
-      ],
-      "duration_ms": 209488,
-      "name": "Choo Choo (Phase No. 5)",
-      "url": "https://open.spotify.com/track/20cCoTiATbT2Jl5ZmKym7d"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Love Lifts Me Up",
         "url": "https://open.spotify.com/album/4T4MT1pXAOsVWNPTmO4OMu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 162200,
       "name": "Love Lifts Me Up",
       "url": "https://open.spotify.com/track/17VSp8NYsrdz30G1sDvfOo"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "Humanoid",
+        "url": "https://open.spotify.com/album/4ClRlYXTltJHS25faTb1Cr"
+      },
+      "artists": [
+        {
+          "name": "Tue Track",
+          "url": "https://open.spotify.com/artist/4gkU3V5EzFhsXS7vNPuNKZ"
+        }
+      ],
+      "duration_ms": 209488,
+      "name": "Choo Choo (Phase No. 5)",
+      "url": "https://open.spotify.com/track/20cCoTiATbT2Jl5ZmKym7d"
     },
     {
       "added_at": "2026-09-11 00:00:14",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-11 00:00:14",
       "album": {
-        "name": "tell me less touch me more",
-        "url": "https://open.spotify.com/album/72GkuSn3bNqc0PWNfUxeKZ"
-      },
-      "artists": [
-        {
-          "name": "Adel the Second",
-          "url": "https://open.spotify.com/artist/2CBVZqn6IJhcYBVZPnJ20O"
-        }
-      ],
-      "duration_ms": 188614,
-      "name": "tell me less touch me more",
-      "url": "https://open.spotify.com/track/6sA8CZXilPOgd2kbd9THuc"
-    },
-    {
-      "added_at": "2026-09-11 00:00:14",
-      "album": {
         "name": "Stay Dangerous",
         "url": "https://open.spotify.com/album/6YGTjhB1RGdfka4mBoRQ3p"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 191500,
       "name": "Stay Dangerous",
       "url": "https://open.spotify.com/track/0cw6G6eH8i92iiJevlJkx0"
+    },
+    {
+      "added_at": "2026-09-11 00:00:14",
+      "album": {
+        "name": "tell me less touch me more",
+        "url": "https://open.spotify.com/album/72GkuSn3bNqc0PWNfUxeKZ"
+      },
+      "artists": [
+        {
+          "name": "Adel the Second",
+          "url": "https://open.spotify.com/artist/2CBVZqn6IJhcYBVZPnJ20O"
+        }
+      ],
+      "duration_ms": 188614,
+      "name": "tell me less touch me more",
+      "url": "https://open.spotify.com/track/6sA8CZXilPOgd2kbd9THuc"
     },
     {
       "added_at": "2026-09-11 00:00:14",

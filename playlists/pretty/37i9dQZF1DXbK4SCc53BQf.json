@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108208,
+  "num_followers": 108226,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Amen Sin Tilde (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/6FLy54H8h6FN5NJQ6PWnNa"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 171697,
-      "name": "Amen Sin Tilde - Versi\u00f3n Cuarteto",
-      "url": "https://open.spotify.com/track/7eVogGr2n24X907EJ2fQDd"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "Siempre Has Sido Fiel",
         "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 171764,
       "name": "Siempre Has Sido Fiel",
       "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "Amen Sin Tilde (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/6FLy54H8h6FN5NJQ6PWnNa"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 171697,
+      "name": "Amen Sin Tilde - Versi\u00f3n Cuarteto",
+      "url": "https://open.spotify.com/track/7eVogGr2n24X907EJ2fQDd"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "LONELY",
-        "url": "https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 159941,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "Waymaker (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1oTCGEEJlZXPaSQFoO45c1"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 393750,
       "name": "Waymaker (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/3zuzfS5hHgSTzTUW6bw6Z8"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 159941,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "R\u00edo",
-        "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 147966,
-      "name": "R\u00edo",
-      "url": "https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "R\u00edo",
+        "url": "https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 147966,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 179000,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Saz\u00f3n Over Everything (S.O.E) Vol. 1",
-        "url": "https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO"
-      },
-      "artists": [
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
-        }
-      ],
-      "duration_ms": 62000,
-      "name": "Dile en Merengue",
-      "url": "https://open.spotify.com/track/5eAYCnFYt5UTG30875EaCt"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "Envero",
         "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 219955,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "Saz\u00f3n Over Everything (S.O.E) Vol. 1",
+        "url": "https://open.spotify.com/album/7L1GyCQtf6cYdR5GHeCBcO"
+      },
+      "artists": [
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        }
+      ],
+      "duration_ms": 62000,
+      "name": "Dile en Merengue",
+      "url": "https://open.spotify.com/track/5eAYCnFYt5UTG30875EaCt"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Adorar A Dios",
-        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
-      },
-      "artists": [
-        {
-          "name": "El Swing Divino",
-          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Nos Vamos A Gozar",
-      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "Lo Mejor De La Vida",
         "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 217660,
       "name": "Lo Mejor De La Vida",
       "url": "https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "Adorar A Dios",
+        "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
+      },
+      "artists": [
+        {
+          "name": "El Swing Divino",
+          "url": "https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Nos Vamos A Gozar",
+      "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "No Hay Otro",
         "url": "https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 161000,
       "name": "Me Dejo Llevar",
       "url": "https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
+      },
+      "artists": [
+        {
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-09-14 14:14:16",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
-    },
-    {
-      "added_at": "2026-09-14 14:14:16",
-      "album": {
         "name": "Corro a Ti",
         "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+    },
+    {
+      "added_at": "2026-09-14 14:14:16",
+      "album": {
         "name": "Absoluto",
         "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2026-09-14 14:14:16",
       "album": {
-        "name": "Eternamente Te Amo",
-        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
+        "name": "Al ritmo del Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
       },
       "artists": [
         {
-          "name": "Jafet",
-          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
-        },
-        {
-          "name": "Melody Joyce",
-          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
+          "name": "Pablo Cifuentes",
+          "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
         }
       ],
-      "duration_ms": 261461,
-      "name": "Eternamente Te Amo",
-      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
+      "duration_ms": 219688,
+      "name": "Al ritmo del Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

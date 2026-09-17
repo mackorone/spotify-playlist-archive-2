@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 603580,
+  "num_followers": 603797,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "People Hold On - The Best Of Coldcut",
-        "url": "https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML"
-      },
-      "artists": [
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        },
-        {
-          "name": "Lisa Stansfield",
-          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "People Hold On (feat. Lisa Stansfield) - Radio Edit",
-      "url": "https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Underground Gems, Vol. 2",
         "url": "https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 395609,
       "name": "Nothing Better - Tmvs Club Mix",
       "url": "https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "People Hold On - The Best Of Coldcut",
+        "url": "https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML"
+      },
+      "artists": [
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        },
+        {
+          "name": "Lisa Stansfield",
+          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "People Hold On (feat. Lisa Stansfield) - Radio Edit",
+      "url": "https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7"
     },
     {
       "added_at": "2026-05-04 16:53:23",

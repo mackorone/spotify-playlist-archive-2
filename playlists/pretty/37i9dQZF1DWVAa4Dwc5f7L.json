@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 396595,
+  "num_followers": 396574,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Jilila Kimbolo",
+      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "Soltemos al Mundo",
         "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 213255,
       "name": "Soltemos al Mundo",
       "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "Back In Town",
-        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
-      },
-      "artists": [
-        {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Jilila Kimbolo",
-      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "La Mujer",
         "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 245000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
     },
     {
       "added_at": "2026-03-27 04:00:26",

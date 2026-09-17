@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,463 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,464 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 |
 | 50 | [One More Time](https://open.spotify.com/track/5fm1g5y5KoxxAcoqvm7FDK) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:14 |
 
-Snapshot ID: `aqc5AAAAAAD/MZDTZiNvrjch1L6whqF6`
+Snapshot ID: `aqc5AAAAAACg3yvNAzbS74mT7ywZ2n0U`

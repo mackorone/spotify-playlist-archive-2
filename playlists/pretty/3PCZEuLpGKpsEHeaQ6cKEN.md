@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 256,369 likes - 475 songs - 1 day 0 hr 57 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 256,339 likes - 475 songs - 1 day 0 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -435,7 +435,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 425 | [Green Room Dancers](https://open.spotify.com/track/1Jh2OmkJZa7w0KB9CAi1Mx) | [James View](https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr) | [Green Room Dancers](https://open.spotify.com/album/1rsgiRwOsVmhAyghK9YLTz) | 3:58 |
 | 426 | [Lost In Loving You](https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Lost In Loving You](https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO) | 2:35 |
 | 427 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/36Acx4c9pXuOssrPJxZVtH) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Oldschool Love](https://open.spotify.com/album/10c6iETu0ndVfdhSQjePUr) | 2:57 |
-| 428 | [Kidz \- CamelPhat Remix](https://open.spotify.com/track/1DwHuuMEdvpKBNXMj7Dfbh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Kidz \(CamelPhat Remix\)](https://open.spotify.com/album/2AHhP5CKkUDQ5pHZfHDxSS) | 3:27 |
+| 428 | [Kidz \- CamelPhat Remix](https://open.spotify.com/track/1DwHuuMEdvpKBNXMj7Dfbh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Kidz \(CamelPhat Remix\)](https://open.spotify.com/album/2AHhP5CKkUDQ5pHZfHDxSS) | 3:27 |
 | 429 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 |
 | 430 | [5AM Jungle Jam](https://open.spotify.com/track/2ljQPAKv12MUERYURTVuPm) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [SOMMERS \(UK\)](https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv) | [5AM Jungle Jam](https://open.spotify.com/album/212wqDkXbjhIKwHQiHsEPD) | 3:31 |
 | 431 | [Feel Better](https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Feel Better](https://open.spotify.com/album/5cONRb78gsiZdp8we3vIUm) | 2:54 |

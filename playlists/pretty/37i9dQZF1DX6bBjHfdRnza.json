@@ -1,44 +1,28 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring HARTY (UK). Curated with love by human Spotify editors. \n",
-  "num_followers": 216370,
+  "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
+  "num_followers": 216400,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+Yd0bjzVUYgIl7DWupRUQg07T2",
+  "snapshot_id": "AAAAAMYCWM7UNsOwpThRzjGRjvGO6It1",
   "tracks": [
     {
-      "added_at": "2026-09-11 04:02:14",
+      "added_at": "2026-09-17 01:08:14",
       "album": {
-        "name": "There's A Party Goin' On",
-        "url": "https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd"
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
       },
       "artists": [
         {
-          "name": "HARTY (UK)",
-          "url": "https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag"
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
         }
       ],
-      "duration_ms": 199114,
-      "name": "There's A Party Goin' On",
-      "url": "https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ"
-    },
-    {
-      "added_at": "2026-09-04 04:01:34",
-      "album": {
-        "name": "Funky Feeling EP",
-        "url": "https://open.spotify.com/album/5bxrsuaubI2NEjdSaPXDJA"
-      },
-      "artists": [
-        {
-          "name": "Simes",
-          "url": "https://open.spotify.com/artist/3pMMCzXHPz987fkVhWQ5dw"
-        }
-      ],
-      "duration_ms": 197219,
-      "name": "Funky Feeling",
-      "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
     },
     {
       "added_at": "2026-09-02 04:00:31",
@@ -61,6 +45,102 @@
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
     },
     {
+      "added_at": "2026-09-17 01:08:14",
+      "album": {
+        "name": "Boombox",
+        "url": "https://open.spotify.com/album/5GfO1efzZocCPrepWEvhHC"
+      },
+      "artists": [
+        {
+          "name": "Saoirse",
+          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
+        }
+      ],
+      "duration_ms": 282431,
+      "name": "Boombox",
+      "url": "https://open.spotify.com/track/2Bjbh92ZGKdWugmlroHJSY"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-17 01:08:14",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1yw9QRhC3aj8PBgMWQ8ihz"
+      },
+      "artists": [
+        {
+          "name": "ACA (YU)",
+          "url": "https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH"
+        }
+      ],
+      "duration_ms": 347076,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/42sh19iYGReVErKTOKaAJy"
+    },
+    {
+      "added_at": "2026-07-17 17:46:34",
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+      },
+      "artists": [
+        {
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "Funky Feeling EP",
+        "url": "https://open.spotify.com/album/5bxrsuaubI2NEjdSaPXDJA"
+      },
+      "artists": [
+        {
+          "name": "Simes",
+          "url": "https://open.spotify.com/artist/3pMMCzXHPz987fkVhWQ5dw"
+        }
+      ],
+      "duration_ms": 197219,
+      "name": "Funky Feeling",
+      "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
+    },
+    {
+      "added_at": "2026-09-17 01:08:14",
+      "album": {
+        "name": "Free in this House",
+        "url": "https://open.spotify.com/album/2JsFKeINbWGIw5NJO29VV9"
+      },
+      "artists": [
+        {
+          "name": "Malix",
+          "url": "https://open.spotify.com/artist/4qlZWwvpGlUWkRE2Yvot4c"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Free in this House",
+      "url": "https://open.spotify.com/track/4WTBMXwdrklK66gC3h68DR"
+    },
+    {
       "added_at": "2026-09-11 14:23:52",
       "album": {
         "name": "SHE DOESN'T KNOW",
@@ -75,6 +155,38 @@
       "duration_ms": 197169,
       "name": "SHE DOESN'T KNOW",
       "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "There's A Party Goin' On",
+        "url": "https://open.spotify.com/album/1IIpY7C5tFlsZjYa4ZPThd"
+      },
+      "artists": [
+        {
+          "name": "HARTY (UK)",
+          "url": "https://open.spotify.com/artist/6RpGhZyyoQEi4sNrXRNzag"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "There's A Party Goin' On",
+      "url": "https://open.spotify.com/track/4jo0xE7A4ZNZrYEvSaEVfQ"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/3K1gukcMs6t6MSLCabvw3J"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
     },
     {
       "added_at": "2026-09-10 03:17:50",
@@ -109,6 +221,26 @@
       "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
     },
     {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Bad B$tch",
+        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
+      },
+      "artists": [
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        },
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bad B$tch",
+      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
+    },
+    {
       "added_at": "2026-09-04 04:01:34",
       "album": {
         "name": "Power",
@@ -123,130 +255,6 @@
       "duration_ms": 216000,
       "name": "Power",
       "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
-    },
-    {
-      "added_at": "2026-09-11 04:02:14",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4TT5x7uZ3rSq5QOiNAqPYE"
-      },
-      "artists": [
-        {
-          "name": "Samson",
-          "url": "https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN"
-        },
-        {
-          "name": "Tommy Kimpton",
-          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7AmmvZoDLFmKXcDCGWVAGv"
-    },
-    {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
-      },
-      "artists": [
-        {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "SKULL",
-        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 195899,
-      "name": "SKULL",
-      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
-    },
-    {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
-    },
-    {
-      "added_at": "2026-09-11 04:02:14",
-      "album": {
-        "name": "Keep Stepping!",
-        "url": "https://open.spotify.com/album/0RUPP9RVNyRTPKLPjqH4je"
-      },
-      "artists": [
-        {
-          "name": "Jaime Rosso",
-          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
-        }
-      ],
-      "duration_ms": 302343,
-      "name": "Night After Night",
-      "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
-      },
-      "artists": [
-        {
-          "name": "Paqu\u00e9",
-          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
-        },
-        {
-          "name": "Sebastian Wibe",
-          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/370coWuZvo8rkv3ivRfUvp"
-      },
-      "artists": [
-        {
-          "name": "COD",
-          "url": "https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw"
-        }
-      ],
-      "duration_ms": 255767,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/4An56EIHDAvx5Jkw5meV2A"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -279,6 +287,98 @@
       "duration_ms": 177187,
       "name": "Where I Stand",
       "url": "https://open.spotify.com/track/3SkuTkIkeNa9l2UCexClYh"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
+      },
+      "artists": [
+        {
+          "name": "Paqu\u00e9",
+          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
+        },
+        {
+          "name": "Sebastian Wibe",
+          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4TT5x7uZ3rSq5QOiNAqPYE"
+      },
+      "artists": [
+        {
+          "name": "Samson",
+          "url": "https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN"
+        },
+        {
+          "name": "Tommy Kimpton",
+          "url": "https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7AmmvZoDLFmKXcDCGWVAGv"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "SKULL",
+        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 195899,
+      "name": "SKULL",
+      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
+    },
+    {
+      "added_at": "2026-09-11 04:02:14",
+      "album": {
+        "name": "Keep Stepping!",
+        "url": "https://open.spotify.com/album/0RUPP9RVNyRTPKLPjqH4je"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "duration_ms": 302343,
+      "name": "Night After Night",
+      "url": "https://open.spotify.com/track/1lRBv9fnK0X8EVmtRmfz7w"
+    },
+    {
+      "added_at": "2026-09-10 03:17:50",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/370coWuZvo8rkv3ivRfUvp"
+      },
+      "artists": [
+        {
+          "name": "COD",
+          "url": "https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw"
+        }
+      ],
+      "duration_ms": 255767,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4An56EIHDAvx5Jkw5meV2A"
     },
     {
       "added_at": "2026-09-02 04:00:31",
@@ -315,26 +415,6 @@
       "duration_ms": 209090,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Bad B$tch",
-        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
-      },
-      "artists": [
-        {
-          "name": "DvirNuns",
-          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
-        },
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bad B$tch",
-      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
       "added_at": "2026-09-10 03:17:50",
@@ -483,22 +563,6 @@
       "duration_ms": 211775,
       "name": "CATCH YA",
       "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
-    },
-    {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/3K1gukcMs6t6MSLCabvw3J"
-      },
-      "artists": [
-        {
-          "name": "Marshall James",
-          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -753,26 +817,6 @@
       "url": "https://open.spotify.com/track/52E7m3eNN4aznvlYiM1s5b"
     },
     {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
-        "name": "Play it Loud (Keep it Going)",
-        "url": "https://open.spotify.com/album/70x9g70S9QnwXbRHOgHiPz"
-      },
-      "artists": [
-        {
-          "name": "DJ Dings",
-          "url": "https://open.spotify.com/artist/6pGgOtYuQJG4lVsswYpUTE"
-        },
-        {
-          "name": "Tim Rausch",
-          "url": "https://open.spotify.com/artist/6fU3MewDiqM18TonERkX6K"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Play it Loud (Keep it Going)",
-      "url": "https://open.spotify.com/track/0sKBrx6EyavERCR0jx0iBJ"
-    },
-    {
       "added_at": "2026-07-23 04:00:10",
       "album": {
         "name": "HOLDING ON",
@@ -943,22 +987,6 @@
     {
       "added_at": "2026-07-31 04:02:23",
       "album": {
-        "name": "i got you",
-        "url": "https://open.spotify.com/album/77OtAFJAbfb0wBedWcHp4F"
-      },
-      "artists": [
-        {
-          "name": "mikeyy",
-          "url": "https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW"
-        }
-      ],
-      "duration_ms": 225563,
-      "name": "i got you",
-      "url": "https://open.spotify.com/track/6NazFWRTXIpqsuVGQiaDB0"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
         "name": "Casa Ponte EP",
         "url": "https://open.spotify.com/album/38WQeX8oo5Z9NkdKlXLH1w"
       },
@@ -1049,22 +1077,6 @@
       "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "BRONX",
-        "url": "https://open.spotify.com/album/5KqjKYQf5vF9psAOVOGmXq"
-      },
-      "artists": [
-        {
-          "name": "Sapian",
-          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
-        }
-      ],
-      "duration_ms": 175984,
-      "name": "BRONX",
-      "url": "https://open.spotify.com/track/2lFdLsPwPddCUfI6SvmFVC"
-    },
-    {
       "added_at": "2026-06-09 17:47:06",
       "album": {
         "name": "Chica",
@@ -1083,22 +1095,6 @@
       "duration_ms": 156000,
       "name": "Chica",
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
-    },
-    {
-      "added_at": "2026-06-11 00:10:38",
-      "album": {
-        "name": "cherry spice",
-        "url": "https://open.spotify.com/album/7BP7dM0DP2QEqG9I4VpRZh"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "cherry spice",
-      "url": "https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9"
     },
     {
       "added_at": "2026-05-15 04:01:46",

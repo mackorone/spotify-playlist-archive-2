@@ -1,6 +1,6 @@
 {
   "description": "Songs for the warm pavement, cracked windows, and falling in love with music in the sun.",
-  "num_followers": 765200,
+  "num_followers": 765156,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -203,18 +203,18 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Celebration",
+          "url": "https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Celebration",
-          "url": "https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -987,8 +987,8 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+      "duration_ms": 158693,
+      "name": "Malcolm In The Middle",
+      "url": "https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Do That Again",
-        "url": "https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2"
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Malcolm In The Middle",
-      "url": "https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg"
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
         "name": "Last Train to London",
         "url": "https://open.spotify.com/album/0Gp9FL1cWMilwrVtlalcUx"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 179000,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 204014,
-      "name": "Hot Rod",
-      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Hot Rod",
+      "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 290173,
       "name": "The Bay",
       "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
     },
     {
       "added_at": "2026-08-14 04:01:34",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-14 04:01:34",
       "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2026-08-14 04:01:34",
+      "album": {
         "name": "SS26",
         "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 188639,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2026-08-14 04:01:34",
-      "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2026-08-14 04:01:34",

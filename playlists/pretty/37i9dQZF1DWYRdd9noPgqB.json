@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298345,
+  "num_followers": 298325,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 95000,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2026-09-10 22:00:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 251861,
       "name": "Echo From The Flames",
       "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193838,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
       "added_at": "2026-09-10 22:00:34",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "All the Space Between",
-        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
         "name": "Rio Lua",
         "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 149736,
       "name": "Rio Lua",
       "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
+        "name": "All the Space Between",
+        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
     },
     {
       "added_at": "2026-09-10 22:00:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
         "name": "All The Feels",
         "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219506,
       "name": "All The Feels",
       "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-09-10 22:00:34",

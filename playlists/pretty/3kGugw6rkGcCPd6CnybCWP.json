@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQHq2EzSaPZprsOZegES18HO3z8waI",
+  "snapshot_id": "AAAQIKLxXFQGTDTV93iW5Dpuzg2/ysvV",
   "tracks": [
     {
       "added_at": "2026-07-22 10:26:46",
@@ -1031,6 +1031,38 @@
       "duration_ms": 178000,
       "name": "Love Your Country",
       "url": "https://open.spotify.com/track/6p0X6WIUT2hIQ4ElJZgsmc"
+    },
+    {
+      "added_at": "2026-09-16 16:00:03",
+      "album": {
+        "name": "Who am I?",
+        "url": "https://open.spotify.com/album/0LHr1EzCGPpStPJuSdMeiT"
+      },
+      "artists": [
+        {
+          "name": "Giuliana May",
+          "url": "https://open.spotify.com/artist/10tQbQdPOA3TwUQzyZl8Cr"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Who am I?",
+      "url": "https://open.spotify.com/track/20AnxJsqczyZNi9IEqP6N3"
+    },
+    {
+      "added_at": "2026-09-16 16:00:09",
+      "album": {
+        "name": "good stuff",
+        "url": "https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0"
+      },
+      "artists": [
+        {
+          "name": "string lights",
+          "url": "https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV"
+        }
+      ],
+      "duration_ms": 70289,
+      "name": "good stuff",
+      "url": "https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

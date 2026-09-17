@@ -1,6 +1,6 @@
 {
   "description": "<3<3<3<3",
-  "num_followers": 909079,
+  "num_followers": 908860,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-09-02 02:44:45",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2026-09-02 02:44:45",
-      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 303933,
       "name": "Take A Chance With Me",
       "url": "https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc"
+    },
+    {
+      "added_at": "2026-09-02 02:44:45",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2026-09-02 02:44:45",
@@ -264,7 +264,7 @@
           "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 277894,
+      "duration_ms": 278413,
       "name": "Lifetime (Reimagined)",
       "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
     },

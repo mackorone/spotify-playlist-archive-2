@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,478 likes - 61 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,484 likes - 61 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 | 4 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 5 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0zVWX3fDULXxtS8krbAdo2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/album/14XWT2AvEjVWIojcj7OE6g) | 3:58 |
 | 6 | [OK \(feat\. Don Toliver\)](https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:38 |
-| 7 | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
+| 7 | [Look Like My Mama](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 |
 | 8 | [We Paid](https://open.spotify.com/track/1uswvX7LasHQdeKkak8N6A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [We Paid](https://open.spotify.com/album/1e7HDR2EjP9bi8MhRLBlfn) | 2:54 |
 | 9 | [Type Shit](https://open.spotify.com/track/4nG0l8KeTFnFTXFowR21bv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Type Shit](https://open.spotify.com/album/0NMIfCHCYNn0McVG8xTnDr) | 3:48 |
 | 10 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 |

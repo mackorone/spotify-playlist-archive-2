@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 245036,
+  "num_followers": 245074,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWFmpnpPfhcsrcg5czu+6Y9oGkQ",
+  "snapshot_id": "AAAAAL1aHdSxBb/8SoXhf1uHdSo3ZIfn",
   "tracks": [
     {
       "added_at": "2026-09-02 16:54:55",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/3Nv2FmkTX4GNMQdm4ofmyj"
     },
     {
-      "added_at": "2026-09-09 16:22:45",
+      "added_at": "2026-09-16 12:54:10",
       "album": {
-        "name": "Break The Motion",
-        "url": "https://open.spotify.com/album/1wyVhNjmIz5s3uWvQ2HhP6"
+        "name": "V1 / Rotate",
+        "url": "https://open.spotify.com/album/7cq2e2h2shR8NRW0YMFQUT"
       },
       "artists": [
         {
-          "name": "Tara Lily",
-          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+          "name": "PUSHBACK",
+          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Break The Motion",
-      "url": "https://open.spotify.com/track/4nOg9QgZeifAO1s3izKZ0f"
+      "duration_ms": 401055,
+      "name": "V1 / Rotate - Extended Version",
+      "url": "https://open.spotify.com/track/6APujO9dTDkdP6LcSJmy7z"
     },
     {
       "added_at": "2026-08-12 17:47:49",
@@ -59,6 +59,42 @@
       "duration_ms": 294213,
       "name": "Limiter",
       "url": "https://open.spotify.com/track/54mvall1hzZ5UsEl59LIcR"
+    },
+    {
+      "added_at": "2026-09-16 12:54:10",
+      "album": {
+        "name": "WHAT A NIGHT",
+        "url": "https://open.spotify.com/album/34OtAtaMDM2aNK1960Rqrp"
+      },
+      "artists": [
+        {
+          "name": "Orson Claeys",
+          "url": "https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu"
+        },
+        {
+          "name": "IamOMNI",
+          "url": "https://open.spotify.com/artist/4OuvFzWxkQuLyAm3jTLKEP"
+        }
+      ],
+      "duration_ms": 163613,
+      "name": "WHAT A NIGHT",
+      "url": "https://open.spotify.com/track/3sk8OWpVRnqCGGKa5NbP4s"
+    },
+    {
+      "added_at": "2026-09-09 16:22:45",
+      "album": {
+        "name": "Break The Motion",
+        "url": "https://open.spotify.com/album/1wyVhNjmIz5s3uWvQ2HhP6"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Break The Motion",
+      "url": "https://open.spotify.com/track/4nOg9QgZeifAO1s3izKZ0f"
     },
     {
       "added_at": "2026-08-05 15:06:49",
@@ -887,38 +923,6 @@
       "duration_ms": 201000,
       "name": "LOVE THERAPY PT.3",
       "url": "https://open.spotify.com/track/6MS8pijpGGJLtkmzL1YKyH"
-    },
-    {
-      "added_at": "2026-02-04 13:36:15",
-      "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/1UEvT8fLPD3p9dCK09bbLl"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 393781,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7"
-    },
-    {
-      "added_at": "2026-03-04 14:28:02",
-      "album": {
-        "name": "I Grew Up",
-        "url": "https://open.spotify.com/album/7FWWEsRF7qK9y80dvwC8mo"
-      },
-      "artists": [
-        {
-          "name": "Camilla Vaitaitis",
-          "url": "https://open.spotify.com/artist/4bI9KINBmBuAplY6uM5OVc"
-        }
-      ],
-      "duration_ms": 83333,
-      "name": "Doe",
-      "url": "https://open.spotify.com/track/3D0joMWtdQqhy3h15cLFkQ"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

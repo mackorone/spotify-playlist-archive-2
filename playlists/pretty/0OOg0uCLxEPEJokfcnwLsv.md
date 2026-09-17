@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,295 likes - 88 songs - 5 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,295 likes - 89 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 86 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
 | 87 | [1968 \(Revolution!\)](https://open.spotify.com/track/21Ots6rJlHoUidEw23tsLy) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [1968 \(Revolution!\)](https://open.spotify.com/album/64eYAjoS73rJKask7i9SrC) | 4:16 |
 | 88 | [White Line Fever](https://open.spotify.com/track/1kG0A9VkVKX5riGW3zauDV) | [Brian Lawless](https://open.spotify.com/artist/0j6sH1kk0VgjHu6xrCn674) | [Moonshine](https://open.spotify.com/album/5cMWXD5EcUKgQPyuzecdnA) | 3:38 |
+| 89 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
 
-Snapshot ID: `AAAHAZc9JDNMQo3cSuS6ynWKSmZOzEp9`
+Snapshot ID: `AAAHAulswo82LPyoKLjgELWXDk2gf8sJ`

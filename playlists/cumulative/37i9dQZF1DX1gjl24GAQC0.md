@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: MONSTA X\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-882 songs - 1 day 23 hr 33 min
+883 songs - 1 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
 | [growing pains](https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [growing pains](https://open.spotify.com/album/6eH7d6D70X0IbAGHBFP9yj) | 3:06 | 2026-02-09 | 2026-02-24 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2025-06-10 |
+| [Guitarist](https://open.spotify.com/track/75MJ2d8AmBWgf2yeZACwpa) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [DOPAMINE \- The 4th Mini Album](https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA) | 2:43 | 2026-09-08 |  |
 | [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 | 2024-02-27 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2024-04-19 |
 | [Happy &](https://open.spotify.com/track/4BSI3iOdmxln8gOjatYJhD) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM 'Happy &'](https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4) | 3:09 | 2024-02-26 | 2024-03-06 |
@@ -374,7 +375,7 @@
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
 | [Hyper Slide \(Sung by KYEHOON, DONGHWA, MINJE, KEIJU\)](https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [From KickFlip, To WeFlip](https://open.spotify.com/album/4r8i0J0WZXhzbmy9wwTAxp) | 2:45 | 2026-01-20 | 2026-02-10 |
 | [I Did It](https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [AxMxP](https://open.spotify.com/album/7CddXgLBio0ruzFJ31xmjj) | 2:56 | 2025-09-22 | 2025-09-30 |
-| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 |  |
+| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 | 2026-09-17 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 | 2024-03-27 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2022-08-03 | 2022-08-07 |

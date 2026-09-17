@@ -10175,6 +10175,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/7ggUOoHHp1e55mCzrPkFb9"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245148,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/70ylRIQ5Hkz8CUPd0gfnLi"
+    },
+    {
+      "album": {
         "name": "Ellipsis (Deluxe)",
         "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
       },

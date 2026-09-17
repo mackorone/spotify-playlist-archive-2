@@ -6011,6 +6011,28 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/5fcULuIOwaVQwKys7H70f9"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2dr6p6VsU7KCrieQDluQDp"
+    },
+    {
+      "album": {
         "name": "Plain Sailing",
         "url": "https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu"
       },
@@ -7852,7 +7874,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 237338,
       "name": "Tensoon",
       "url": "https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR"

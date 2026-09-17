@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Shilpa Joshi",
+  "description": "Discover the future of Punjabi Pop! Cover: Manna Singh",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 141768,
       "name": "Baar Baar",
       "url": "https://open.spotify.com/track/1erI9ykkIv1UCpqSazxbCh"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 147500,
       "name": "Body Tea",
       "url": "https://open.spotify.com/track/1IrhIWbg84Y40jOKyClcLm"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 193487,
       "name": "Deewani",
       "url": "https://open.spotify.com/track/7avuQ083OEbmiSBEcpStMs"
@@ -6209,6 +6209,28 @@
     },
     {
       "album": {
+        "name": "Jindiye",
+        "url": "https://open.spotify.com/album/0xkFmUdZ6jBC98r9ZeY7A9"
+      },
+      "artists": [
+        {
+          "name": "Simar Sethi",
+          "url": "https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Jindiye",
+      "url": "https://open.spotify.com/track/2gjPGsQ74xkHVUnvHBuLJi"
+    },
+    {
+      "album": {
         "name": "Joda Jhanjran Da",
         "url": "https://open.spotify.com/album/5XkT9XpMNbAyFSOA8ZgiGX"
       },
@@ -8160,7 +8182,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 182571,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/6gbzCHYdkkYcXZJ5bb2kCU"
@@ -8380,6 +8402,32 @@
       "duration_ms": 165405,
       "name": "Mere Wang",
       "url": "https://open.spotify.com/track/7jt2Y11GC7aBOooIdcMi3K"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/00ElO5W0Hvy38s9TBpJk0O"
+      },
+      "artists": [
+        {
+          "name": "Lovkirat",
+          "url": "https://open.spotify.com/artist/6s6Jd98Ae1dheI7cotGo0o"
+        },
+        {
+          "name": "MNY.",
+          "url": "https://open.spotify.com/artist/1UtSYCO5safii2akIVHpk6"
+        },
+        {
+          "name": "PROFESSOR",
+          "url": "https://open.spotify.com/artist/5GVZfwhrOmIg19diWxfarN"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "Meri Ashique",
+      "url": "https://open.spotify.com/track/5nI8bRAHU0BUQvubxcsPnB"
     },
     {
       "album": {
@@ -9905,6 +9953,28 @@
     },
     {
       "album": {
+        "name": "Pagal",
+        "url": "https://open.spotify.com/album/4KTdsfxqU6a8pe1g4dqFDe"
+      },
+      "artists": [
+        {
+          "name": "Leo Rana",
+          "url": "https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "Pagal",
+      "url": "https://open.spotify.com/track/2HVf0eziDUJjm2DcGmBZP3"
+    },
+    {
+      "album": {
         "name": "Pagal (From \"Big Step\")",
         "url": "https://open.spotify.com/album/5OiCerUqJ4uTYI3tjfQ6M8"
       },
@@ -10886,7 +10956,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192352,
       "name": "Rog",
       "url": "https://open.spotify.com/track/7aNhmvBaGQqNAwSmmQdf4h"
@@ -12905,6 +12975,24 @@
     },
     {
       "album": {
+        "name": "Tera Naa",
+        "url": "https://open.spotify.com/album/5GvYvOgU8CNov1r59NFiCB"
+      },
+      "artists": [
+        {
+          "name": "Manna Singh",
+          "url": "https://open.spotify.com/artist/0WaxzwIZydEYr0Q6sUmJED"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Tera Naa",
+      "url": "https://open.spotify.com/track/1jG6XJCy7WlV1WAYoYjyjk"
+    },
+    {
+      "album": {
         "name": "Tere Hi Naal",
         "url": "https://open.spotify.com/album/3t5SV8XU8nn1wfmdZaiz0Q"
       },
@@ -13246,6 +13334,28 @@
       "duration_ms": 163902,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/09snTJwHtRdobMISDauS3a"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/1TF8M5x9e9z8rOehFEjyx7"
+      },
+      "artists": [
+        {
+          "name": "KayVee Universe",
+          "url": "https://open.spotify.com/artist/6Lxjw9kRoecQhVdJbznpVK"
+        },
+        {
+          "name": "Mohabbat",
+          "url": "https://open.spotify.com/artist/760BxfXBEcLlBNzOi8XHrL"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165647,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4bGsVhd6CodNmlzAjiLSw3"
     },
     {
       "album": {

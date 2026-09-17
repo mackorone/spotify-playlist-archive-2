@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,631 songs - 6 day 10 hr 9 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,634 songs - 6 day 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2639,5 +2639,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2629 | [Jimny](https://open.spotify.com/track/0Yf1Lmn62jL9oqpjB4nO1G) | [Mr Borin](https://open.spotify.com/artist/6vpX2gCs3YdSuVcCuBunW9) | [Jimny](https://open.spotify.com/album/6K5j0nGfbdC3TwrDfWsp8B) | 3:17 |
 | 2630 | [Pizza Hawaii](https://open.spotify.com/track/272AUltPkXuMvr07NRPNL5) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Hawaii](https://open.spotify.com/album/3OUpMXtVuSP3aBMSuG8aD1) | 2:25 |
 | 2631 | [I Eat Baked Beans Every Day](https://open.spotify.com/track/2S3thDXoqumTQoq85ZgCEr) | [The Junkoactive Wasteman](https://open.spotify.com/artist/6j91xLGH7YJWvsUByNtJAt) | [I Eat Baked Beans Every Day](https://open.spotify.com/album/0h7JzaxgIB59ve9NFPodOr) | 2:58 |
+| 2632 | [Sad Girls](https://open.spotify.com/track/5iULKcxJQr8ZEKsnef2UAf) | [Monday's Mona Lisa](https://open.spotify.com/artist/7MXW6UlH2Jtzu8ZuQ8su93) | [Sad Girls](https://open.spotify.com/album/5hOS0oydlZQMNJMbt8S4OE) | 2:34 |
+| 2633 | [Beg](https://open.spotify.com/track/65B5h9tg9Yklje8WoP8uTw) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [Beg](https://open.spotify.com/album/2R5pBX4GjXrsEvHyQ0Eh64) | 3:57 |
+| 2634 | [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/track/2hoV4zImleSilILebStsEr) | [Austicated](https://open.spotify.com/artist/5DXPuoGFyeYHINmbXW7aeA), [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh) | [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/album/5rZJ7T59vHRnKm88QQkswZ) | 2:16 |
 
-Snapshot ID: `AAALPWoiJVL/gbF4AJ0keZ8AenZEqyV7`
+Snapshot ID: `AAALQGFIcy220ZpmsMwMEeTLbuVY/ZbL`

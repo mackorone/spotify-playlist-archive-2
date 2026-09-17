@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,230 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,233 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 80 | [Places](https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Places](https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe) | 3:34 |
 | 81 | [Take It Off](https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J) | 3:14 |
 | 82 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
-| 83 | [Nothing Ever Changes \- Camelphat Remix](https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Nothing Ever Changes \(Camelphat Remix\)](https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk) | 4:18 |
+| 83 | [Nothing Ever Changes \- Camelphat Remix](https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Nothing Ever Changes \(Camelphat Remix\)](https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk) | 4:18 |
 | 84 | [El Trumpetta](https://open.spotify.com/track/43oWmmr0Im6ATmWMhGRzA1) | [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [El Trumpetta](https://open.spotify.com/album/6G0Exe4QTIQ36BavjhMIrf) | 2:48 |
 | 85 | [Raided](https://open.spotify.com/track/5QPcUCAPr9GvckcUXbF15Z) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [RISE Vol\. 1](https://open.spotify.com/album/0Jdqo1euENNI6FfpvdPTAa) | 3:36 |
 
-Snapshot ID: `AAAAAMUm4t387a0LX2R35KqfJcwcEW/T`
+Snapshot ID: `AAAAABlm5xTO6HfC0F+s5yHVcJLw/HPG`

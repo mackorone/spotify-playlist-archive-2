@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,615 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,707 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 64 | [Joy](https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7) | [Moodymanc](https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW) | [Joy](https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9) | 9:16 |
 | 65 | [Camdino Soul](https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Time For Change](https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5) | 7:44 |
 | 66 | [Pili Pili](https://open.spotify.com/track/5o63XXSCnte2qrXQfaFqLn) | [Jasper van't Hofs Pili Pili](https://open.spotify.com/artist/5SzgUF6HG0rix7dOgVzAFF) | [Post Scriptum](https://open.spotify.com/album/7uMOq45PDzQUNKVfmxjvtg) | 15:44 |
-| 67 | [Poppiholla \- Radio Edit](https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:44 |
-| 68 | [Nipple To The Bottle](https://open.spotify.com/track/6Xwx0eIvYiJPGBQwpoVcZq) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Masters Collection](https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx) | 5:56 |
+| 67 | [Nipple To The Bottle](https://open.spotify.com/track/6Xwx0eIvYiJPGBQwpoVcZq) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Masters Collection](https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx) | 5:56 |
+| 68 | [Poppiholla \- Radio Edit](https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:44 |
 | 69 | [The Jazz Man](https://open.spotify.com/track/0Mp7DjWV7Gz3t763KoJiW2) | [Moodswings](https://open.spotify.com/artist/1vG9q3GZ2xQug5Sut62kJI) | [Out of the Blue \(Compiled by Phil Mison\)](https://open.spotify.com/album/5mjArTowAXxILt35qOdfVS) | 5:36 |
 | 70 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 |
 | 71 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |

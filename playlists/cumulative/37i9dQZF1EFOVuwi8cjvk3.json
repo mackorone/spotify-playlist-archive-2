@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
@@ -1716,6 +1716,28 @@
       "duration_ms": 175085,
       "name": "Evr Chngin Nrml",
       "url": "https://open.spotify.com/track/1gf5rcnQWUUbNAEiOpMwuB"
+    },
+    {
+      "album": {
+        "name": "Sour Soul",
+        "url": "https://open.spotify.com/album/78Q0TCptWU6jc97qsMAZvR"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157117,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5mjTtrPN54sUsAhBPJfQ1U"
     },
     {
       "album": {
@@ -3424,7 +3446,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 171375,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
@@ -4473,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "Sour Soul",
+        "url": "https://open.spotify.com/album/0ug3RLV5rGBZSRJ0ZRjyqG"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165983,
+      "name": "Sour Soul",
+      "url": "https://open.spotify.com/track/2rA45Uijx3fKwKhPMMiJVx"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -4970,6 +5014,24 @@
       "duration_ms": 101052,
       "name": "The Prince of Noodles",
       "url": "https://open.spotify.com/track/5jaWbU5NUdmqkQnZuvVstw"
+    },
+    {
+      "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "THINGS",
+      "url": "https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L"
     },
     {
       "album": {

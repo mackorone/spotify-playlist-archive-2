@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-229 songs - 15 hr 0 min
+230 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 | 2024-05-24 |  |
 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 | 2026-07-10 |  |
 | [Sunday Morning](https://open.spotify.com/track/2gyMKeLaMJnOCCoeTE9yae) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Sunday Morning](https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk) | 3:04 | 2026-04-10 |  |
-| [sundays](https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [sundays](https://open.spotify.com/album/3Y8zeULelcsv45zhoHRNLE) | 2:43 | 2026-08-14 |  |
+| [sundays](https://open.spotify.com/track/7audgOVGbxdHuInGTq2FHP) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [sundays](https://open.spotify.com/album/3Y8zeULelcsv45zhoHRNLE) | 2:43 | 2026-08-14 | 2026-09-17 |
 | [Take It All Back](https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:13 | 2024-08-07 |  |
 | [Take It All Back \- 🔥🔥 Version](https://open.spotify.com/track/1S10j0Pz34TyWvH8jEikbE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:15 | 2024-05-24 | 2026-05-18 |
 | [Take You At Your Word](https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 3:44 | 2024-05-24 |  |
@@ -222,6 +222,7 @@
 | [WELCOME TO THE CLUB](https://open.spotify.com/track/1Hhx6Ue9QblFzhEfsIt1YI) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [FINE BY ME](https://open.spotify.com/album/1mIZcEaoDUnHwQKrCMjMYX) | 1:31 | 2025-10-24 |  |
 | [What A Miracle Feels Like](https://open.spotify.com/track/1oEl1JTGnCzu9pFtXtQhCK) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 6:19 | 2026-05-27 |  |
 | [Whatever It Takes](https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:30 | 2025-01-31 | 2026-06-02 |
+| [when I see You](https://open.spotify.com/track/4tRydL83PixlUSIz0Njzpl) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [when I see You](https://open.spotify.com/album/5FErWBY2rB61bRu0jCg3Wx) | 3:16 | 2026-09-16 |  |
 | [when i think about my jesus](https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [when i think about my jesus](https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW) | 3:30 | 2026-02-13 |  |
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2025-01-31 | 2026-05-18 |

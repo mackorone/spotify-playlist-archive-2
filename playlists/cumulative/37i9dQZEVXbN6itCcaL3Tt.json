@@ -11330,7 +11330,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Cicho sza",
       "url": "https://open.spotify.com/track/0LXhzHwoRGwhMde38QGncI"
@@ -21066,7 +21066,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
@@ -23104,7 +23104,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 102580,
       "name": "HRABIA",
       "url": "https://open.spotify.com/track/2vCr53OQO52hO9yO6Lxomv"
@@ -26944,7 +26944,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 182850,
       "name": "KAMIKAZE",
       "url": "https://open.spotify.com/track/5tCxCYuFA57AhVtHqxP7kr"
@@ -37066,7 +37066,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 244948,
       "name": "Na Szczycie",
       "url": "https://open.spotify.com/track/7aQViYYpIkpJwyCHPysCo4"
@@ -49656,6 +49656,28 @@
       "duration_ms": 184153,
       "name": "RIO / NA \u017bYWO",
       "url": "https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq"
+    },
+    {
+      "album": {
+        "name": "RIOTT",
+        "url": "https://open.spotify.com/album/3sALW0CyyMGTHFvCuCHDCc"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "RIOTT",
+      "url": "https://open.spotify.com/track/2TeuRk4Z1bwV61QQyw0FoM"
     },
     {
       "album": {

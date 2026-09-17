@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 180780,
+  "num_followers": 180833,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 297320,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 409066,
-      "name": "The Night Has a Thousand Eyes",
-      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 308160,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 409066,
+      "name": "The Night Has a Thousand Eyes",
+      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Pres and Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 300077,
-      "name": "Exactly Like You",
-      "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 553066,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/3xEAZQNPiwucPdGagdoD5j"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 300077,
+      "name": "Exactly Like You",
+      "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "See You At The Fair",
         "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 266360,
       "name": "In A Mellow Tone",
       "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
-      },
-      "artists": [
-        {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Work From Home with Count Basie",
-        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
         }
       ],
-      "duration_ms": 163599,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1779,6 +1763,22 @@
       "duration_ms": 235560,
       "name": "Stella By Starlight - Remaster/2004",
       "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Work From Home with Count Basie",
+        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
     },
     {
       "added_at": "2026-05-28 09:37:04",

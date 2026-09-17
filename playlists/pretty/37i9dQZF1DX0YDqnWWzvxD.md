@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,150 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,305 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 22 | [Resonant Wave](https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg), [Phil Heaven](https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ) | [Harmonic Way](https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0) | 5:35 |
 | 23 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 |
 | 24 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
-| 25 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
-| 26 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
+| 25 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
+| 26 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
 | 27 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
 | 28 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 29 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |

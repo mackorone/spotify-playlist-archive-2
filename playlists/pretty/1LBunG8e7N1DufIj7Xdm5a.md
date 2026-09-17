@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,841 songs - 10 day 21 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,846 songs - 10 day 22 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4849,5 +4849,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4839 | [Live Wire](https://open.spotify.com/track/3BQnonu1WOj56rdhP1tsfn) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Live Wire](https://open.spotify.com/album/6mgC0fBpMXX0U9B25CE6gd) | 3:27 |
 | 4840 | [Stamp Your Love](https://open.spotify.com/track/4jPuXzZ0vJ5N8ytiQJyXT0) | [Jah Lion](https://open.spotify.com/artist/6Mj9ZEzOfnqSjcdbffdJ3K) | [Love on the Rocks](https://open.spotify.com/album/3jWhYAny0yIy0yLF6ktNKo) | 5:33 |
 | 4841 | [Dramatic Moments](https://open.spotify.com/track/24fwpJjkOmtqFsfQ2Eh25B) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Frank\-N\-Stein](https://open.spotify.com/album/6YFG6Cfws1ick1Mi7UOMNO) | 3:14 |
+| 4842 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 |
+| 4843 | [The Ambulance Song](https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [The Ambulance Song](https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi) | 2:36 |
+| 4844 | [I Wanna Tell You](https://open.spotify.com/track/1LcmSL0XxrXWWWOds8Fi47) | [Jeye T](https://open.spotify.com/artist/1YbRJSGRT5fPJ2n28PNmnw) | [I Wanna Tell You](https://open.spotify.com/album/3TYOXrHJtLeD0C9ayvEC2x) | 3:24 |
+| 4845 | [Be Water My Friend](https://open.spotify.com/track/3sdi3e3G30q347yGVIuzG9) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW), [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Be Water My Friend](https://open.spotify.com/album/3ChAH5i8VofZE3uBVo3lN3) | 3:00 |
+| 4846 | [One More Sunrise](https://open.spotify.com/track/00NceuLhHFOKWaLKwQKLTV) | [AUREVAIN](https://open.spotify.com/artist/4tPzOCUsGbpJmDdWKUmr4x) | [One More Sunrise](https://open.spotify.com/album/1P6QYcDerRPjAQDcHpi5wv) | 5:22 |
 
-Snapshot ID: `AAAKDQfA+I+BLd3lKuaFCLTSTo8T65KF`
+Snapshot ID: `AAAKEpVH/0gUMZuanrJdsorbEvMIXLEW`

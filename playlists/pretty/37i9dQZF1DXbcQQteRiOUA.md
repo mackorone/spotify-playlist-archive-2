@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,949 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,954 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daze](https://open.spotify.com/track/5D83D5FCc9HxtXDFbDsRGa) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Daze](https://open.spotify.com/album/6JRG4pQQa7gmRMEsJSaPs1) | 3:20 |
 | 2 | [Children \- Mind Against & Dyzen Remix](https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Children \(Mind Against & Dyzen Remix\)](https://open.spotify.com/album/1pVZmCuyBjJtYSej1Y4ewc) | 5:36 |
-| 3 | [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 |
+| 3 | [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 |
 | 4 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 |
 | 5 | [Shut Down](https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Shut Down](https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32) | 3:51 |
 | 6 | [Disko Luv](https://open.spotify.com/track/3S3dUBSi2dahXcWM1CyIL6) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Disko Luv](https://open.spotify.com/album/4ZMat81ejgkMk3UGR1Hukz) | 3:25 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcQQteRiOUA.md) - [plain]
 | 10 | [Wala Ala Balo \- Remix](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo \(Remix\)](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
 | 11 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 |
 | 12 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
-| 13 | [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 |
+| 13 | [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 |
 | 14 | [Shoft Alhala \- Vitess Remix](https://open.spotify.com/track/43is7Z2TaXb3ZrkAC8wmNP) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Shoft Alhala \(Vitess Remix\)](https://open.spotify.com/album/7nsAh1MY1QlYSBLzAEWZ8j) | 5:35 |
 | 15 | [Blunts Rolled](https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6) | [Guzy](https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB) | [Blunts Rolled](https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt) | 4:27 |
 | 16 | [Symphony](https://open.spotify.com/track/2RramNNUtQJYAVE8ONctgQ) | [Sokkary](https://open.spotify.com/artist/2GF4kA68X5SbOFxlTHP2Q6) | [Symphony](https://open.spotify.com/album/6mkiTCa2Hmdzy4ut9aUrpS) | 7:56 |

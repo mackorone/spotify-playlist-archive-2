@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 288 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 288 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,10 +129,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 119 | [Love of My Life](https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
 | 120 | [My Life Your Entertainment](https://open.spotify.com/track/1uOLXjOFHCkkTZKlPFClsz) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:56 |
 | 121 | [Priceless](https://open.spotify.com/track/4Zw1r9tBYeD961hTGANm7v) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:52 |
-| 122 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 |
-| 123 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
-| 124 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
-| 125 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 122 | [The Rain](https://open.spotify.com/track/0rTjlOdVXvcyV1NCZY4TGu) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:27 |
+| 123 | [Crazy](https://open.spotify.com/track/1nmypDEMIhxlgvZViMUmoZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Crazy](https://open.spotify.com/album/6fyg81ZmARpHaxNte8X5NE) | 3:05 |
+| 124 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 125 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
 | 126 | [Can't Make This Up](https://open.spotify.com/track/1H78gtfbgSHZC3ENcded8O) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 3:29 |
 | 127 | [Wrong Turn](https://open.spotify.com/track/79zoBfcQDNQgSpvojwkfk8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:20 |
 | 128 | [c2.0](https://open.spotify.com/track/5gNTRfMRPZg1U07j7KSSaG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:40 |
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 194 | [shades on](https://open.spotify.com/track/3hHjRr3nokxcYCYyshQ3ic) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:09 |
 | 195 | [Keep On Lookin'](https://open.spotify.com/track/6J254v0NfP9dw2Uzg7U0Ow) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:17 |
 | 196 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
-| 197 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
-| 198 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 197 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 198 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
 | 199 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
 | 200 | [Priceless \(feat\. Birdman\)](https://open.spotify.com/track/5tZVtpHvB1JecqHLP6XuR3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:52 |
 | 201 | [Shinin'](https://open.spotify.com/track/5B5an7jeVLFK4yQsuiF7bT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:35 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 287 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 288 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AccZ5gAAAADYkFiouJk1j+AYBGVDaV8p`
+Snapshot ID: `AccfcgAAAAB04pf0l0BF7tBK8cy/+fmB`

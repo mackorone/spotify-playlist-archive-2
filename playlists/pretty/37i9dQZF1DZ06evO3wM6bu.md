@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,374 likes - 48 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,408 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

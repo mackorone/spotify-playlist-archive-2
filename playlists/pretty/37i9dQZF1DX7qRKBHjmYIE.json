@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con aLex vs aLex.",
-  "num_followers": 735113,
+  "num_followers": 735047,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
         "name": "beam",
         "url": "https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 186874,
       "name": "beam",
       "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Here Because of Hope",
-        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
+        "name": "La Belleza De Las Flores - Bonus Track",
+        "url": "https://open.spotify.com/album/0UZ31RlUkohsC89wTsfCGr"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 184008,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/5wStgwgGEeCwM5D5Dkiw7V"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
         "name": "Miss Me Much?",
         "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 152784,
       "name": "Ambiente<3",
       "url": "https://open.spotify.com/track/1xG5edatLwH6bW1CiWWIEC"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "La Belleza De Las Flores - Bonus Track",
-        "url": "https://open.spotify.com/album/0UZ31RlUkohsC89wTsfCGr"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 184008,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/5wStgwgGEeCwM5D5Dkiw7V"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 166579,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/6822K96wjJEyKelFeVvi1s"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
-        "name": "por como me cuidas",
-        "url": "https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG"
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
       },
       "artists": [
         {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 124525,
-      "name": "por como me cuidas",
-      "url": "https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9"
+      "duration_ms": 166579,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/6822K96wjJEyKelFeVvi1s"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
+        "name": "por como me cuidas",
+        "url": "https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 124525,
+      "name": "por como me cuidas",
+      "url": "https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
       },
@@ -935,6 +935,38 @@
       "duration_ms": 252929,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -967,22 +999,6 @@
       "duration_ms": 153764,
       "name": "RODEO CLOWN",
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1039,22 +1055,6 @@
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
         "name": "Aguar\u00e1chate",
         "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
       },
       "artists": [
         {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1331,6 +1315,22 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-09-11 04:01:44",
       "album": {
-        "name": "ALIENS",
-        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "ALIENS",
-      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
-    },
-    {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
         "name": "karma",
         "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 172073,
       "name": "Barra Payan",
       "url": "https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "added_at": "2026-09-11 04:01:44",

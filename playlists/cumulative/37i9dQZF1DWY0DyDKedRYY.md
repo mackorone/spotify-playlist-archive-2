@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring ADÉLA.
 
-1,424 songs - 3 day 2 hr 27 min
+1,426 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-08-01 | 2024-10-02 |
 | [Afterlife](https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Afterlife](https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv) | 3:18 | 2025-03-03 | 2025-05-02 |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-09-06 | 2022-11-15 |
+| [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 | 2026-09-16 |  |
 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2022-11-14 | 2023-01-05 |
 | [Airpark](https://open.spotify.com/track/0EhC9Gs7lTaptKF92NR40k) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things \(Deluxe\)](https://open.spotify.com/album/43bUaUU5d1eVj6bo2yqH4W) | 2:40 | 2026-03-02 | 2026-05-02 |
 | [AL Roker](https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [AL Roker](https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr) | 1:40 | 2023-03-31 | 2023-05-09 |
@@ -322,7 +323,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-01 | 2025-01-18 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2023-01-04 | 2023-03-04 |
 | [Difficult](https://open.spotify.com/track/4OWcHdAmVvcL6o8RQYogXh) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:18 | 2023-01-04 | 2023-04-01 |
-| [Dilated](https://open.spotify.com/track/6OMmL1x8gBKgANcxRKqSsr) | [Willowake](https://open.spotify.com/artist/1DdLuQwxYMLYx7QJ0ZwNsC) | [Dilated](https://open.spotify.com/album/64QLg47tmbeSISZvDMvqJI) | 3:04 | 2026-08-03 |  |
+| [Dilated](https://open.spotify.com/track/6OMmL1x8gBKgANcxRKqSsr) | [Willowake](https://open.spotify.com/artist/1DdLuQwxYMLYx7QJ0ZwNsC) | [Dilated](https://open.spotify.com/album/64QLg47tmbeSISZvDMvqJI) | 3:04 | 2026-08-03 | 2026-09-17 |
 | [Dinero Chueco](https://open.spotify.com/track/645Cz9dR9LKyv4htgeMXnh) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Dinero Chueco](https://open.spotify.com/album/340jFHaQtLTGbtj4YcbAJD) | 2:48 | 2026-09-01 |  |
 | [Dip \(feat\. Ty Dolla $ign & Blxst\)](https://open.spotify.com/track/0SKKPmfRDbi6BuAb4eZXJw) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Dip](https://open.spotify.com/album/655LQf0zGFKcLFQm16qTgc) | 3:16 | 2025-10-01 | 2026-03-03 |
 | [DIP! \(feat\. DavidTheTragic\)](https://open.spotify.com/track/2rKg3k5vb5514zEA53JwMt) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [PUP PACK EP](https://open.spotify.com/album/5GvIhztKbzBgW2VsSUDLR7) | 2:23 | 2022-09-06 | 2022-11-15 |
@@ -855,6 +856,7 @@
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-05-01 | 2025-08-02 |
 | [nice to know you](https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [nice to know you](https://open.spotify.com/album/1N97epSs8xnFTQxRqberB7) | 2:48 | 2023-05-08 | 2023-08-31 |
 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 | 2022-06-14 | 2022-07-27 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-16 |  |
 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 | 2025-01-17 | 2026-01-27 |
 | [Nights in Armor](https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Nights in Armor](https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ) | 3:09 | 2025-09-01 | 2026-01-27 |
 | [nintendo 64](https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR) | 2:35 | 2022-11-14 | 2023-01-05 |
@@ -1019,7 +1021,7 @@
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-05-01 | 2026-07-02 |
 | [Reclaiming My Life](https://open.spotify.com/track/6eCBo9z46siKjidtcm0dWR) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Reclaiming My Life](https://open.spotify.com/album/3jSAvxbIXfFGJLFgANIQOZ) | 2:20 | 2026-07-01 | 2026-09-02 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-09-06 | 2022-11-15 |
-| [Red Bottoms](https://open.spotify.com/track/3YkFwiHCOAfNVA6ZapZVSn) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:06 | 2026-09-14 |  |
+| [Red Bottoms](https://open.spotify.com/track/3YkFwiHCOAfNVA6ZapZVSn) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:06 | 2026-09-14 | 2026-09-17 |
 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 | 2026-07-01 | 2026-09-15 |
 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 | 2023-05-08 | 2023-08-31 |
 | [Remember Me](https://open.spotify.com/track/1oBXsBScq1cOHg9QYxRBcy) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Remember Me](https://open.spotify.com/album/6o9dsd2SA22fHOXSt55d0e) | 3:34 | 2025-07-01 | 2025-08-02 |

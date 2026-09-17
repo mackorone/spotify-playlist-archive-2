@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 856855,
+  "num_followers": 856842,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Que vuelta vox",
-      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "WASSUP",
         "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Que vuelta vox",
+      "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "sobelove",
-        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 131827,
-      "name": "sobelove",
-      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "Me Promet\u00ed",
         "url": "https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 171788,
       "name": "Me Promet\u00ed",
       "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "frente al mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 165178,
-      "name": "frente al mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 248217,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "frente al mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 165178,
+      "name": "frente al mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 189223,
-      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119546,
+      "name": "LLEVA AL SOL",
+      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/28MQGSAwWynRpTFCpcqilz"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/4UHXMDRuuL07rnFEmSgBEG"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 119546,
-      "name": "LLEVA AL SOL",
-      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "SE LO JURO MOR",
         "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 170654,
       "name": "SE LO JURO MOR",
       "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     }
   ],
   "unique_name": "Latin Hit Mix",

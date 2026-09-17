@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 10026,
+  "num_followers": 10047,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-08-30 05:38:40",
       "album": {
-        "name": "Is it a crime?",
-        "url": "https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx"
+        "name": "Rock the Boat",
+        "url": "https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR"
       },
       "artists": [
         {
-          "name": "aimi",
-          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Is it a crime?",
-      "url": "https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq"
+      "duration_ms": 268000,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc"
     }
   ],
   "unique_name": "Kimono R&B",

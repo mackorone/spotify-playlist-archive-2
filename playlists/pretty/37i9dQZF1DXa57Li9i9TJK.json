@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 37292,
+  "num_followers": 37312,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "No Capea",
-        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194605,
-      "name": "No Capea",
-      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "No Capea",
+        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194605,
+      "name": "No Capea",
+      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Ens\u00e9\u00f1ame A Olvidarte",
+      "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Es Para Ti",
-        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Ens\u00e9\u00f1ame A Olvidarte",
-      "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Locos De Amor",
         "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 206146,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "YCQVM",
-        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
       "artists": [
         {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 183253,
-      "name": "YCQVM",
-      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+        "name": "YCQVM",
+        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
         },
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+      "duration_ms": 183253,
+      "name": "YCQVM",
+      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Am\u00e9",
-        "url": "https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY"
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 206410,
-      "name": "Am\u00e9",
-      "url": "https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp"
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+        "name": "Am\u00e9",
+        "url": "https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+      "duration_ms": 206410,
+      "name": "Am\u00e9",
+      "url": "https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "La Cuadrada",
         "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
       },
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "COMO ESTRELLA",
-        "url": "https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 155423,
-      "name": "COMO ESTRELLA",
-      "url": "https://open.spotify.com/track/5joTJbm9LkcqVwLPkYlhkl"
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1627,6 +1607,26 @@
       "duration_ms": 190876,
       "name": "Mi Primer D\u00eda Sin Ti",
       "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "COMO ESTRELLA",
+        "url": "https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 155423,
+      "name": "COMO ESTRELLA",
+      "url": "https://open.spotify.com/track/5joTJbm9LkcqVwLPkYlhkl"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 126307,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     }
   ],
   "unique_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",

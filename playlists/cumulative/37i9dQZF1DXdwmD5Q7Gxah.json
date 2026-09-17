@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "2222222222222222 + Climbing",
+        "url": "https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        },
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119146,
+      "name": "2222222222222222 + Climbing",
+      "url": "https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM"
       },
@@ -12948,6 +12970,24 @@
       "duration_ms": 161707,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0IoKg9lAThGvbsrIxDZG08"
+    },
+    {
+      "album": {
+        "name": "Boylife",
+        "url": "https://open.spotify.com/album/2xbWfJQBH6AlI3MFiQ5NEj"
+      },
+      "artists": [
+        {
+          "name": "Lo-Fi-Fnk",
+          "url": "https://open.spotify.com/artist/3m7kkYCoZ7yaJB00zs0Jok"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "City",
+      "url": "https://open.spotify.com/track/7uob5cXigwzyKqJhI7fDeX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 143328,
+  "num_followers": 143372,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -223,6 +203,22 @@
       "duration_ms": 171520,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -263,18 +259,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
       "artists": [
         {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
         }
       ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Music From Hollywood",
         "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 351559,
       "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
       "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 207380,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "You and the Night and the Music",
         "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 169493,
       "name": "Violins in the Night",
       "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 207380,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "A Warm Shade of Ivory",
-        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Blue Midnight (Remastered)",
         "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 177560,
       "name": "Lonely Nightingale",
       "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "A Warm Shade of Ivory",
+        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 150440,
       "name": "Market Day",
       "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Islands In The Sky",
-      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -823,8 +807,24 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+      },
+      "artists": [
+        {
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Islands In The Sky",
+      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -907,8 +907,8 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
       },
       "artists": [
         {
@@ -916,25 +916,9 @@
           "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "Music For Her (Expanded Edition)",
-        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -951,6 +935,22 @@
       "duration_ms": 147506,
       "name": "Marylin",
       "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Music For Her (Expanded Edition)",
+        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Lovely Lady",
         "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Big Band Bash!",
-        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
       "artists": [
         {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 163400,
-      "name": "My Last Affair",
-      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -1063,6 +1047,22 @@
       "duration_ms": 197653,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "Big Band Bash!",
+        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
     },
     {
       "added_at": "2026-07-03 07:47:02",

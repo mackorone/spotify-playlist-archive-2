@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,129 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,128 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 56 | [Mozão](https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Mozão](https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb) | 2:40 |
 | 57 | [Passa a Bola \- Ao Vivo em Noronha](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 |
 | 58 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
-| 59 | [Fim de Semana](https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [BORIS FARIAS](https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Fim de Semana](https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM) | 2:43 |
-| 60 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
+| 59 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
+| 60 | [Fim de Semana](https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [BORIS FARIAS](https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Fim de Semana](https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM) | 2:43 |
 
 Snapshot ID: `AAAAACgQEnzkg3maCvsbRHNfsO+uot95`

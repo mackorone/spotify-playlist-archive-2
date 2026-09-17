@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: TUIDE) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: MW:MEU) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
@@ -5447,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "Moonride",
+        "url": "https://open.spotify.com/album/2XcMWakwxN4QrGiFcEIppG"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Moonride",
+      "url": "https://open.spotify.com/track/318Irz9qyCcwS0teqsaNcg"
+    },
+    {
+      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -7094,7 +7112,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 198320,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
@@ -9726,6 +9744,24 @@
       "duration_ms": 189986,
       "name": "Witch",
       "url": "https://open.spotify.com/track/4esQGgU0ekQyRXXENzCo9u"
+    },
+    {
+      "album": {
+        "name": "With U",
+        "url": "https://open.spotify.com/album/4rkh2rOaP54YESrV73x8mJ"
+      },
+      "artists": [
+        {
+          "name": "MW:MEU",
+          "url": "https://open.spotify.com/artist/4iWzLJS700YZDi2PeJecWW"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/2hN0AnYI3myW8m4GdNkSw1"
     },
     {
       "album": {

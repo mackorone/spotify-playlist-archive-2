@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-381 songs - 19 hr 52 min
+382 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,8 +363,9 @@
 | [Vaanga Vaada](https://open.spotify.com/track/4MG9uBrLjWD68WTXpuc3uV) | [Dinesh Rajendran](https://open.spotify.com/artist/2iug7kxvE5gghENPriuotP) | [Japan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4COrVfMzSxgK56ZDWCuetU) | 2:39 | 2023-11-28 | 2023-12-14 |
 | [Vaangalu Valichukkichu](https://open.spotify.com/track/4jwX7QZijOvrT6vfXg5Pge) | [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu), [Umarkhan](https://open.spotify.com/artist/3okJiew3lsAkRBovskCmUG) | [Vaangalu Valichukkichu](https://open.spotify.com/album/4JOPklw9ICD4QXp4arJ6OV) | 2:46 | 2026-08-04 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2022-02-08 | 2025-01-10 |
-| [Vanakam Bro](https://open.spotify.com/track/1ht8Aj20RuS4ZKq8bL2pwR) | [Black King](https://open.spotify.com/artist/7mtre7fyZvAgT8sIFGkQrM) | [Vanakam Bro](https://open.spotify.com/album/1B0dnCjXUw0oRPc1TTia50) | 2:51 | 2026-09-07 |  |
+| [Vanakam Bro](https://open.spotify.com/track/1ht8Aj20RuS4ZKq8bL2pwR) | [Black King](https://open.spotify.com/artist/7mtre7fyZvAgT8sIFGkQrM) | [Vanakam Bro](https://open.spotify.com/album/1B0dnCjXUw0oRPc1TTia50) | 2:51 | 2026-09-07 | 2026-09-17 |
 | [Vanakkam Madras](https://open.spotify.com/track/3habgrnSxHyyxbg5lkziBC) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vanakkam Madras](https://open.spotify.com/album/4SzAiM2ix064kXH6YjU5xn) | 2:02 | 2025-09-02 | 2026-05-23 |
+| [Vanakko](https://open.spotify.com/track/2i5MSClHL782KEkr7Ye1BF) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L) | [Vanakko](https://open.spotify.com/album/4RBXi1FhuvGyZsQezuNHdv) | 2:36 | 2026-09-16 |  |
 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 | 2022-02-08 | 2023-12-14 |
 | [Ve.Now Intro](https://open.spotify.com/track/1HbJIKuARoPOwT8doyZ2OB) | [Ve.Now](https://open.spotify.com/artist/6lhnCpAyrgmcGWZUO48MuA), [Pravin Vasanth](https://open.spotify.com/artist/1Ks3vVDG02IKW85BJ4W2XF) | [Ve.Now Intro](https://open.spotify.com/album/26FBT60HS2ZboycRpyE3gT) | 2:51 | 2026-09-11 |  |
 | [Veedhikor Jaadhi \- From "Natpe Thunai"](https://open.spotify.com/track/1nupIUIFv3cJmZloaWX9rO) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sollisai Selvandhar](https://open.spotify.com/artist/3HWueXpw8CKWo62I1C7HDB) | [Veedhikor Jaadhi \(From "Natpe Thunai"\)](https://open.spotify.com/album/40mnu36jraziDXUVeAM7DR) | 2:41 | 2022-02-08 | 2023-05-13 |

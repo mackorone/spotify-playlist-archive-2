@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Rema",
-  "num_followers": 234976,
+  "num_followers": 235125,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
+        "name": "BIG PERFORMER",
+        "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "BIG PERFORMER",
+      "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
+    },
+    {
+      "added_at": "2026-09-11 00:01:36",
+      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
-    },
-    {
-      "added_at": "2026-09-11 00:01:36",
-      "album": {
-        "name": "BIG PERFORMER",
-        "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "BIG PERFORMER",
-      "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
     },
     {
       "added_at": "2026-09-11 00:01:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
-        "name": "Mofe",
-        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mofe",
-      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-09-11 00:01:36",
-      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
+    },
+    {
+      "added_at": "2026-09-11 00:01:36",
+      "album": {
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
       "added_at": "2026-09-11 00:01:36",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-09-11 00:01:36",
+      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
@@ -1307,30 +1323,6 @@
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
-    },
-    {
-      "added_at": "2026-09-11 00:01:36",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 140505,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
     },
     {
       "added_at": "2026-09-11 00:01:36",
@@ -1355,18 +1347,26 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+      "duration_ms": 140505,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
     },
     {
       "added_at": "2026-09-11 00:01:36",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
-        "name": "CLAAT!",
-        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "CLAAT!",
-      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
-    },
-    {
-      "added_at": "2026-09-11 00:01:36",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-09-11 00:01:36",
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
     },
     {
       "added_at": "2026-09-11 00:01:36",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2026-09-11 00:01:36",
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     }
   ],
   "unique_name": "Gbedu",

@@ -4,7 +4,7 @@
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Havva
 
-5,586 songs - 14 day 5 hr 48 min
+5,590 songs - 14 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [Beauty Fool Mess](https://open.spotify.com/track/2sm6MEbp7QTYzXRJmD9Ojo) | [June Ibrahim](https://open.spotify.com/artist/0dqnZDgGTIRakRjMHWXILw) | [Beauty Fool Mess](https://open.spotify.com/album/0tgv0yqmyUyHjvnm20Tnh7) | 3:37 | 2023-01-20 | 2023-02-04 |
 | [Beban Cinta 2](https://open.spotify.com/track/3E62X7LW2wbc678JnGMEYF) | [Ressa](https://open.spotify.com/artist/7kRU7ACDQDRNAyNIQrFZ1U) | [Beban Cinta 2](https://open.spotify.com/album/4TaTqeJ9JfqRZL8geRANGX) | 4:21 | 2022-01-27 | 2023-01-13 |
 | [Bebas](https://open.spotify.com/track/0C5qN24tplFMuFCGXk1JlS) | [Vaniland](https://open.spotify.com/artist/2xtTpEJIZnFwoRbEP5QvBG) | [Be Free, Be You](https://open.spotify.com/album/1SDuPvrIapAt1AO2YI1lDh) | 3:01 | 2022-06-30 | 2022-07-29 |
+| [Because She Paints Too](https://open.spotify.com/track/47zpgV1TFI0ecwQqynLsIj) | [Zoe Levana](https://open.spotify.com/artist/1aLaLpiiViPxD3Ztbar9WH) | [Because She Paints Too](https://open.spotify.com/album/7CXQr6drBSmQStg3Z5hsyD) | 3:36 | 2026-09-16 |  |
 | [Beda Kasta](https://open.spotify.com/track/76ylMZVblCvTDCIfIYVp0Z) | [Dodit Mulyanto](https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr) | [Beda Kasta](https://open.spotify.com/album/4ZjT5ia2uZvQ0u72ISEDUL) | 3:48 | 2023-09-19 | 2023-10-06 |
 | [Beda Nyata dan Mimpi](https://open.spotify.com/track/67kHStEy8LpbZtV6MABzOy) | [JYMA](https://open.spotify.com/artist/2ljpHXXItXcG9pU8JOOGcm) | [Beda Nyata dan Mimpi](https://open.spotify.com/album/24V4dasDxr22QBOsn0vyoh) | 4:39 | 2024-09-19 | 2024-10-12 |
 | [Bedrest / I Love Myself](https://open.spotify.com/track/3mATADcEhpui7qMGu2CXgk) | [Tk.](https://open.spotify.com/artist/6TsoQwbOCNN4xjTo38Gaxt) | [PERSOONA](https://open.spotify.com/album/5M7OvYvqfvEaucapnRi2DZ) | 3:29 | 2023-02-16 | 2023-03-03 |
@@ -2005,6 +2006,7 @@
 | [Hujan](https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw) | [Marie Joe](https://open.spotify.com/artist/0wSlT3IFLD14xMCX7VbVCx) | [Hujan](https://open.spotify.com/album/4siflbZ24qkhsQaza9CdRz) | 3:46 | 2024-06-13 | 2024-07-05 |
 | [Hujan](https://open.spotify.com/track/3fK0sOMlkQ2ROrriA8DjOR) | [The Wolf and The Witch](https://open.spotify.com/artist/706JPnjfhuSA7smeWRNDvY) | [Hujan](https://open.spotify.com/album/6xUm4xc5gfKg3g7XY1GvTn) | 5:38 | 2022-06-23 | 2022-07-15 |
 | [Hujan Deras](https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/4FlqZJ6BerAFaiaSEbqtDW) | 3:18 | 2023-11-17 | 2023-12-01 |
+| [Hujan Tepat Waktu](https://open.spotify.com/track/4e3Mjoafb02u7RKnoDmuoj) | [Love as Punishment](https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In) | [Kunang\-kunang](https://open.spotify.com/album/5lEEjILwPaXMnF8rGFFySn) | 5:18 | 2026-09-16 |  |
 | [Human](https://open.spotify.com/track/4BOW04XqVTsNRRpWRyQ5Fb) | [Bryan Petreli](https://open.spotify.com/artist/55zMNdD6ZG97EdK17MZ1bX) | [Human](https://open.spotify.com/album/0ONpCEj2iOfMAhcWAO2ohv) | 4:27 | 2023-03-09 | 2023-03-25 |
 | [hummingbird](https://open.spotify.com/track/31xqomlJ4stcUu7qNh2T6Q) | [Syifa Aulia](https://open.spotify.com/artist/4tk8VSSlczStF09XO55bi4) | [hummingbird](https://open.spotify.com/album/17l0GOj1WbHijklNtyQLRY) | 3:10 | 2024-05-02 | 2024-06-01 |
 | [Hun Vokser](https://open.spotify.com/track/1npGqhEWSrQx6TT9HSFDcs) | [Gardenia](https://open.spotify.com/artist/0dXOVcOPuO02iBep9HwNzt) | [Hun Vokser](https://open.spotify.com/album/4g0xzOxCO65SAi7aWVgpgt) | 4:08 | 2025-04-17 | 2025-05-09 |
@@ -3836,6 +3838,7 @@
 | [Pleasure In The Pain](https://open.spotify.com/track/7nfSvw4v8udyxvfC5PnwIJ) | [DNYM](https://open.spotify.com/artist/3uxHV0XbhpkqQffahRrZqk) | [Pleasure In The Pain](https://open.spotify.com/album/1dUBWiLqO80NsICzuK8QeU) | 3:56 | 2023-04-20 | 2023-05-12 |
 | [Plumeria](https://open.spotify.com/track/0Nla3nKdJBvz2elpSQDJxT) | [Enjoy Drink](https://open.spotify.com/artist/72yq9MsalBeEYQGLELvlhE) | [Plumeria / Vivid Dream](https://open.spotify.com/album/6Lsvdxjkfq6yGKYi0dYBpe) | 3:28 | 2025-12-11 | 2026-01-15 |
 | [Pluviophile Song](https://open.spotify.com/track/4YDAbyt5QoMJlG2MUKWnqQ) | [Michelle Limanjae](https://open.spotify.com/artist/5K55BGvBnx6VqKgrzKY5Hn) | [Pluviophile Song](https://open.spotify.com/album/4am5O0LmOm1nHGp5YJqNMr) | 3:10 | 2022-03-24 | 2022-04-08 |
+| [Pola Warna](https://open.spotify.com/track/2cifnwr9F9V3jnIh94zQ6S) | [Eksemplar](https://open.spotify.com/artist/4pbMYjsLCmorfUtOeR22u7), [softtrauma](https://open.spotify.com/artist/1PmjxKvXTHWdcbGGDLpKpg) | [Manual Sinoptik](https://open.spotify.com/album/1RTMawc2xHgUpgpvl7NDRo) | 3:48 | 2026-09-16 |  |
 | [Polarize](https://open.spotify.com/track/32RoDzPpENHhOZ3DE1lWv2) | [Gulf of Meru](https://open.spotify.com/artist/4Qj1DeSCA9enWHj4oh10ao) | [rarefactio\. diminution](https://open.spotify.com/album/2wpBOL7hPu2HOc5Uh4GwGf) | 4:13 | 2023-02-16 | 2023-03-03 |
 | [Politics and Girls](https://open.spotify.com/track/2WK4uWW2kodYrjPpHZFF9U) | [tamago](https://open.spotify.com/artist/3TSoKKNAn7Bv6NgPUI6s5t) | [Politics and Girls](https://open.spotify.com/album/6QfU9qv0as5CfRQzZ1AYkx) | 3:23 | 2023-05-11 | 2023-05-26 |
 | [PONGAH](https://open.spotify.com/track/7FksVEVvRkp78kdIQdry11) | [Madness On Tha Block](https://open.spotify.com/artist/6xbSe0Pg0QWzTk5fscNbEM) | [PONGAH](https://open.spotify.com/album/51PBrpLhgvQF27KIS2kEsN) | 3:25 | 2023-05-25 | 2023-06-09 |
@@ -4202,7 +4205,7 @@
 | [Satu Sesi](https://open.spotify.com/track/2LXlZfQpZlHFODgsYPd0ar) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Satu Sesi](https://open.spotify.com/album/1OWIaMWCiL9j1tMKp6wWeO) | 3:10 | 2025-02-28 | 2025-04-18 |
 | [Satu Tahun Cahaya](https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd) | [Suara Lima](https://open.spotify.com/artist/3b20SopLWIzoAeE3WW4QDA), [Carla Vania](https://open.spotify.com/artist/1DApabURVjotLcHbWka1S2) | [Satu Tahun Cahaya](https://open.spotify.com/album/4AzsnehZMJ8FAYkFZk26aO) | 4:18 | 2022-06-02 | 2022-06-24 |
 | [Satu Tangan Lagi](https://open.spotify.com/track/67vdiH5roe0kAL6z7nBqo0) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Satu Tangan Lagi](https://open.spotify.com/album/5XWAHhmaGGKP4DSXBdyicJ) | 3:37 | 2024-03-01 | 2024-04-12 |
-| [SATU X](https://open.spotify.com/track/52Vrqjv2lWBzUxKEf1ASyv) | [NozoK](https://open.spotify.com/artist/5KFIiu3lA4m5hSq3R2yz8p) | [NEOSANTAI](https://open.spotify.com/album/2SJ0QJSvU8vk6S9mjeyRx5) | 2:08 | 2026-05-06 |  |
+| [SATU X](https://open.spotify.com/track/52Vrqjv2lWBzUxKEf1ASyv) | [NozoK](https://open.spotify.com/artist/5KFIiu3lA4m5hSq3R2yz8p) | [NEOSANTAI](https://open.spotify.com/album/2SJ0QJSvU8vk6S9mjeyRx5) | 2:08 | 2026-05-06 | 2026-09-17 |
 | [Satukan Energi](https://open.spotify.com/track/6VsQh0dOcGtxP8pZ08k252) | [Steady Beat](https://open.spotify.com/artist/6KXI6iyIP9NQj1GDL5tU1d) | [Satukan Energi](https://open.spotify.com/album/0ITuxsxQY7tzVnWOGdfT5l) | 2:51 | 2025-06-19 | 2025-08-02 |
 | [Saturdate](https://open.spotify.com/track/4Pg8QC1plmWGybAPS5Wtru) | [Sugartaste](https://open.spotify.com/artist/1N3HUqrk8kFRCQDccgLuMs) | [Saturdate](https://open.spotify.com/album/0YzBxG0KbHq4O5S5dESErk) | 3:07 | 2023-02-03 | 2023-02-17 |
 | [Saturday Morning](https://open.spotify.com/track/1wekRN8crWITTZIdfZexDJ) | [Langitjiwa](https://open.spotify.com/artist/3DxPjyuEJayd24Xy0yiBP2) | [Saturday Morning](https://open.spotify.com/album/50rBhpdtPE7rvK53p3jDJI) | 3:54 | 2024-02-08 | 2024-02-23 |
@@ -5267,6 +5270,7 @@
 | [Udah Gak Tahan](https://open.spotify.com/track/5RG8C6IKbbWmYiwHpYH1Fp) | [Jie Rap](https://open.spotify.com/artist/3hSZoJvk091jqSRRvqUWGO), [Ecko Show](https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp), [Junko](https://open.spotify.com/artist/7GCl8eYhrZBRnxTjZJKrjG), [Elischa](https://open.spotify.com/artist/34f6rowGUuTrWPmjLFOPVL) | [Udah Gak Tahan](https://open.spotify.com/album/0A8fFWgzKjccRqcnFFxauH) | 3:45 | 2023-03-23 | 2023-04-07 |
 | [ugh ugh](https://open.spotify.com/track/50QnOEsfR94wpB6etixAXP) | [Feezy God](https://open.spotify.com/artist/0JRiR61Wk1VfWuyqB8JQBz) | [ugh ugh](https://open.spotify.com/album/76wgAIsYSIpjzSvnqRFFwZ) | 2:00 | 2024-07-04 | 2024-07-27 |
 | [Ujian Rasa](https://open.spotify.com/track/55LgTOwo8Q34MVl90G3aQ8) | [Margarena Agung](https://open.spotify.com/artist/4D4O6beJREbjlx71rzFf84), [Meisha Julian](https://open.spotify.com/artist/1YliXnhEfXxV5Ms2DsFaFn) | [Ujian Rasa](https://open.spotify.com/album/0JZHdfU8Q5fuZD5bzvrHb6) | 4:31 | 2022-01-27 | 2022-02-11 |
+| [UKNO](https://open.spotify.com/track/30aYMA1bILCvmCCM3JnAVF) | [NozoK](https://open.spotify.com/artist/5KFIiu3lA4m5hSq3R2yz8p), [Abim](https://open.spotify.com/artist/7sVmnNpUBITmSGv9eGf3ki), [Dulla](https://open.spotify.com/artist/70sGmW7wXIYfPx6v8OIZPc) | [UKNO](https://open.spotify.com/album/4CI1lcda1oK0reMIpJ0F8N) | 4:21 | 2026-09-16 |  |
 | [Ulah Halu](https://open.spotify.com/track/35zIeMtARBYFq9AX1Tkmvh) | [Orkes Malam Jumat](https://open.spotify.com/artist/4rVkiHAGWXYrn5Wg0hIza1) | [Mampus Kau Dikoyak \- Koyak Dangdut](https://open.spotify.com/album/3DYrG3JexARUNfW2CgDCD6) | 4:43 | 2022-02-10 | 2022-02-25 |
 | [Ular Kepala Dua](https://open.spotify.com/track/5YYwqwhHVB4NZDNnawxllv) | [Unay Okami](https://open.spotify.com/artist/7x7Hj33oR28jwD7XVdjpXU) | [Ular Kepala Dua](https://open.spotify.com/album/3Ezg072l9HFTFEMOrUIEgt) | 3:54 | 2024-10-11 | 2024-11-01 |
 | [Umbra](https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO) | [Monica Hapsari](https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j) | [Umbra](https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n) | 7:17 | 2022-05-26 | 2022-06-10 |

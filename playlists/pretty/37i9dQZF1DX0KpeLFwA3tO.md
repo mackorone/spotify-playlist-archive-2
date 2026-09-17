@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,949 likes - 143 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,963 likes - 143 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Don't Move](https://open.spotify.com/track/3cXCctsuwJnTvJXNZ8Pv8K) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Don't Move](https://open.spotify.com/album/37fe0FOmbbGDUygbS9jJac) | 4:01 |
 | 100 | [The Bar Is Set So Low](https://open.spotify.com/track/03DwJni1Yw6RcgWmTsraea) | [The Format](https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf) | [The Bar Is Set So Low](https://open.spotify.com/album/0MNBLTiEFMditBtNfi0dcr) | 2:45 |
 | 101 | [Let Me Love You](https://open.spotify.com/track/0r2LcAhco9luliEaEXLf3f) | [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM), [Ad\-Rock](https://open.spotify.com/artist/4B8rf6avCMvunUBAgIlGsX), [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP), [Fredo Ortiz](https://open.spotify.com/artist/1KZgRhJCpd4SpcJtqJhGiA), [Frank Figueroa](https://open.spotify.com/artist/7hOYYQC7BXAKzZAO8omlAP) | [Let Me Love You](https://open.spotify.com/album/1t6stMcZ1zTANuDOdmIrHJ) | 3:11 |
-| 102 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ), [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
+| 102 | [Still Alive](https://open.spotify.com/track/6rk6Upt6GnnlvGgVOZxkpp) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Still Alive](https://open.spotify.com/album/2MqunavUC5ukgYYKryizrF) | 2:26 |
 | 103 | [Betty White 2.0](https://open.spotify.com/track/6eZhEL4ZQo5iCRlMKVCC0z) | [AyoDylan](https://open.spotify.com/artist/4TZEF9KDH59ymTG4I8PXic), [Jaret Ray Reddick](https://open.spotify.com/artist/2VZVJbDLdInUuxHIZobsTh) | [Betty White 2.0](https://open.spotify.com/album/4xOtmLO18aGjOcqk2Vqr92) | 2:02 |
 | 104 | [Unforgiven](https://open.spotify.com/track/4nwhPxkil32k2NHjsxjS7a) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Stranded](https://open.spotify.com/album/7MdkLDpqLD5pvUKfA312YP) | 2:41 |
 | 105 | [Democracy Manifest](https://open.spotify.com/track/1AlqXBu6Y8fTnyjBWDDibl) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Democracy Manifest](https://open.spotify.com/album/4eBylK5OV8GVQXSm3arSpe) | 2:06 |

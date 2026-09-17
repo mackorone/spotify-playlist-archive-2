@@ -38285,6 +38285,32 @@
     },
     {
       "album": {
+        "name": "Neengalellam (From \"Aagayam\")",
+        "url": "https://open.spotify.com/album/6nDqQDscOIJ2w5uCttrN0S"
+      },
+      "artists": [
+        {
+          "name": "N.R. Raghunanthan",
+          "url": "https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh"
+        },
+        {
+          "name": "Jayamoorthy",
+          "url": "https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX"
+        },
+        {
+          "name": "Ramanikanthan",
+          "url": "https://open.spotify.com/artist/0iNLJWDTDYepVeQlpRXuu9"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Neengalellam - From \"Aagayam\"",
+      "url": "https://open.spotify.com/track/1LrgUY7Vx3w38qcmFVpooQ"
+    },
+    {
+      "album": {
         "name": "Neerkumizho (From \"Kolai\")",
         "url": "https://open.spotify.com/album/7hqOfumgIlZPC820TTLvjw"
       },
@@ -41370,7 +41396,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 235107,
       "name": "Oru Pere Varalaaru",
       "url": "https://open.spotify.com/track/22hxaCwPIoNU6AGJtV5Q7X"

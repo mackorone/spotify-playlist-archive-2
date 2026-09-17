@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 609988,
+  "num_followers": 609970,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-09-10 22:00:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "ALLTING D\u00c4REMELLAN",
-        "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 176267,
-      "name": "Psykos",
-      "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "And The Story Goes",
         "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
+        "name": "ALLTING D\u00c4REMELLAN",
+        "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 176267,
+      "name": "Psykos",
+      "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
     },
     {
       "added_at": "2026-09-10 22:00:47",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-09-10 22:00:47",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "f\u00f6r oss",
         "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 168561,
       "name": "Fragile Thing",
       "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-09-10 22:00:47",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "B\u00f6rja Om",
-        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 176809,
-      "name": "B\u00f6rja Om",
-      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 205146,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     },
     {
       "added_at": "2026-09-10 22:00:47",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "Flytta h\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 208509,
-      "name": "Flytta h\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "Kite (Acoustic)",
         "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
+        "name": "Flytta h\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
+      },
+      "artists": [
+        {
+          "name": "Manon Lamartine",
+          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
+        }
+      ],
+      "duration_ms": 208509,
+      "name": "Flytta h\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
         "name": "Wish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-09-10 22:00:47",
       "album": {
-        "name": "It's Not Easy to Write a Love Song",
-        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "It's Not Easy to Write a Love Song",
-      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
-    },
-    {
-      "added_at": "2026-09-10 22:00:47",
-      "album": {
         "name": "God Bless Sweden",
         "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 185040,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+    },
+    {
+      "added_at": "2026-09-10 22:00:47",
+      "album": {
+        "name": "It's Not Easy to Write a Love Song",
+        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "It's Not Easy to Write a Love Song",
+      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
     },
     {
       "added_at": "2026-09-10 22:00:47",

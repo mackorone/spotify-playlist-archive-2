@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Folamour
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,330 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,365 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 71 | [I Never Knew](https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [I Never Knew](https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r) | 3:51 |
 | 72 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 | 73 | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \- Remix](https://open.spotify.com/track/77kExLr3RKN77SYcVEZZ14) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Scenarios](https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \[Remix\]](https://open.spotify.com/album/33ryXYhRDCEqDH86X8CRx8) | 2:55 |
-| 74 | [Unique Moment](https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Unique Moment](https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq) | 3:00 |
+| 74 | [Unique Moment](https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7) | [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Unique Moment](https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq) | 3:00 |
 | 75 | [Dolphin Groove](https://open.spotify.com/track/3MO993scXW9baXcMuNrhdJ) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Dolphin Groove](https://open.spotify.com/album/5XcJvRbSfHKydir7JolIGl) | 3:54 |
 | 76 | [Dance Floor DNA](https://open.spotify.com/track/37mHvuXH3cz2Dkl23ypqbc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [People Like Us](https://open.spotify.com/artist/1eoZqCJaXrv0twvlZ1ddx6) | [Dance Floor DNA](https://open.spotify.com/album/1NB9rSzY8QhpqZuUQN1WFj) | 3:17 |
 | 77 | [Ashiko](https://open.spotify.com/track/5qkLwiZ6bmert9ik4qJr7c) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Ashiko](https://open.spotify.com/album/6crGQmkmsekQKHc49lUn8d) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
-  "num_followers": 1122822,
+  "num_followers": 1122749,
   "original_name": "You Can Do It",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-04-21 16:51:05",
       "album": {
-        "name": "Wasted Youth",
-        "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 147581,
-      "name": "Wasted Youth",
-      "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
-    },
-    {
-      "added_at": "2026-04-21 16:51:05",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "added_at": "2026-04-21 16:51:05",
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 147581,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
     },
     {
       "added_at": "2026-04-21 16:51:05",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-21 16:51:05",
       "album": {
+        "name": "Pumpin Jumpin",
+        "url": "https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Pumpin Jumpin",
+      "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
+    },
+    {
+      "added_at": "2026-04-21 16:51:05",
+      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2026-04-21 16:51:05",
-      "album": {
-        "name": "Pumpin Jumpin",
-        "url": "https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Pumpin Jumpin",
-      "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
     },
     {
       "added_at": "2026-04-21 16:51:05",

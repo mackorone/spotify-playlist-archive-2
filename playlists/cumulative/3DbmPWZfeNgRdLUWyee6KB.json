@@ -176,7 +176,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 221199,
       "name": "20th Century Nostalgia",
       "url": "https://open.spotify.com/track/3ryNBZ8PhbTZ9o4hEeaFdX"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 161790,
       "name": "A veces",
       "url": "https://open.spotify.com/track/2imejrjky3Gedjp0ORMty7"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 192048,
       "name": "Alibi - CASA J Remix",
       "url": "https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 255669,
       "name": "All This Life",
       "url": "https://open.spotify.com/track/2V9VbMYDa8eCE5VY39dpHL"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 280122,
       "name": "Basement Light",
       "url": "https://open.spotify.com/track/67lwcTJHGvjjTAOUnX8cVw"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184800,
       "name": "Believe In Me",
       "url": "https://open.spotify.com/track/7bodTY1G8StQjTkU2XN2t3"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 174000,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/7Idbp14EBaAC3LYhj68tWq"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 158550,
       "name": "Bomboclat",
       "url": "https://open.spotify.com/track/7iJykwxcRyzWcJazK3hyrU"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 143865,
       "name": "boy of glass",
       "url": "https://open.spotify.com/track/1pgaiYXN5rx2U8CX5jYUoj"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 221831,
       "name": "Brave",
       "url": "https://open.spotify.com/track/57wOH1yfVPll97iyI0Xp98"
@@ -3439,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6ylQ8vosTCGTCxWlDvv6wB"
+      },
+      "artists": [
+        {
+          "name": "Rachael Rose",
+          "url": "https://open.spotify.com/artist/2UH0bcPtxKFvqBLKfqYGJu"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171484,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3NGqGe0rcYbvagYVH2zyIJ"
+    },
+    {
+      "album": {
         "name": "By your side",
         "url": "https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v"
       },
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 206470,
       "name": "By your side",
       "url": "https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv"
@@ -3504,7 +3522,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 173102,
       "name": "Caffeine Me",
       "url": "https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 183734,
       "name": "Calme To\u00e9!",
       "url": "https://open.spotify.com/track/3wGwMAGcxM978bly4CiMVs"
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 179260,
       "name": "Chris",
       "url": "https://open.spotify.com/track/1Nefj4hzD1o6kLHygse9px"
@@ -4224,7 +4242,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 148414,
       "name": "Ciego",
       "url": "https://open.spotify.com/track/15apmAe5SqNBGzG0FXrrqj"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 223000,
       "name": "Come una nuvola",
       "url": "https://open.spotify.com/track/7prSH1ypxvmDQMJwJCySMQ"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 231231,
       "name": "Cora\u00e7\u00e3ozinho",
       "url": "https://open.spotify.com/track/3YFFlrg1mqjV8AXIggAaSs"
@@ -4824,7 +4842,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 184843,
       "name": "Corner Diner",
       "url": "https://open.spotify.com/track/2nuvMjD8CvLh8mJEgtTfmh"
@@ -4990,7 +5008,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 245170,
       "name": "Crazy World",
       "url": "https://open.spotify.com/track/7G3VUYp3LMoPK4TjFrB3hC"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 151447,
       "name": "Dardo",
       "url": "https://open.spotify.com/track/3HjSjfpRXsZi7VT8OJZC3N"
@@ -5694,7 +5712,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 134791,
       "name": "desperado!",
       "url": "https://open.spotify.com/track/0DEp4tJ30Zxjs06PoHiDp4"
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 442666,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163902,
       "name": "Echoes of us",
       "url": "https://open.spotify.com/track/6Xc29li7V1e61RJu1P8C6G"
@@ -6790,7 +6808,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 191120,
       "name": "Empreinte",
       "url": "https://open.spotify.com/track/1tK4igtCBcBdrylvPCljta"
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 250285,
       "name": "ESCAPA POR TU VIDA",
       "url": "https://open.spotify.com/track/4gxjB7Y0yEzkFlxYS5un58"
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 250452,
       "name": "EXTAZY \u00e9ternelle",
       "url": "https://open.spotify.com/track/0lUc5uQa1zlVWkEA83xG9o"
@@ -7736,7 +7754,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 163546,
       "name": "Final Orbit",
       "url": "https://open.spotify.com/track/2ITl2hSvHcXlBhnOvNhSaj"
@@ -7880,7 +7898,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 226880,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/20P0LUwCYkmTaPoWEMDb80"
@@ -8672,7 +8690,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 189843,
       "name": "Gloves and Pants",
       "url": "https://open.spotify.com/track/1hlahbgfZDJURKR0Rkbuz4"
@@ -8864,7 +8882,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 128181,
       "name": "Good Looking Boys",
       "url": "https://open.spotify.com/track/6LqHfSXXu7vHHR0n2ZwbTs"
@@ -10442,7 +10460,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 241731,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/4y6cIJWjHhUcCvV3ORzqY1"
@@ -11570,7 +11588,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 282840,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/2EMUuE86w3SIcmOLNAUm21"
@@ -11876,7 +11894,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 226789,
       "name": "Just Human",
       "url": "https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal"
@@ -11930,7 +11948,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 242520,
       "name": "Kapanmayan Yara",
       "url": "https://open.spotify.com/track/3hRkj9UQCZE7yqkQnbFXl9"
@@ -13374,7 +13392,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 255895,
       "name": "Lo que vivimos all\u00ed",
       "url": "https://open.spotify.com/track/7HsRI48PwiHlUzebkWHALn"
@@ -13392,7 +13410,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 239333,
       "name": "Loin - Radio Edit",
       "url": "https://open.spotify.com/track/0bDZY8NKhpgZnDfhyMzUUt"
@@ -13772,7 +13790,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 252083,
       "name": "Love Can Conquer All",
       "url": "https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd"
@@ -13946,7 +13964,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 270273,
       "name": "Lover",
       "url": "https://open.spotify.com/track/5OascNxBcGQPokRrdVy5zB"
@@ -15048,7 +15066,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 174236,
       "name": "Men Are Style Style",
       "url": "https://open.spotify.com/track/12TpGan1aWzzZOGsnFX4bY"
@@ -15778,7 +15796,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 254800,
       "name": "Mute The Crowds",
       "url": "https://open.spotify.com/track/6tMAIkS40UonUjzI1AeIi6"
@@ -16874,7 +16892,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 137874,
       "name": "NOUS VS",
       "url": "https://open.spotify.com/track/5SDmLZ1sHna4BaDGOYFPry"
@@ -17438,6 +17456,24 @@
       "duration_ms": 198509,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG"
+    },
+    {
+      "album": {
+        "name": "On your own",
+        "url": "https://open.spotify.com/album/5pQLzyWN1FXBt48ef2k1Zk"
+      },
+      "artists": [
+        {
+          "name": "James Steam",
+          "url": "https://open.spotify.com/artist/022t0zHvSLUwpaTE9AaMyc"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "On your own",
+      "url": "https://open.spotify.com/track/1PTZG1VSxy7VD4hAJWV63r"
     },
     {
       "album": {
@@ -18794,7 +18830,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 225000,
       "name": "Princess",
       "url": "https://open.spotify.com/track/2K7s6WVnborN8RINi9gAH4"
@@ -19320,7 +19356,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 230250,
       "name": "Reason",
       "url": "https://open.spotify.com/track/5oUtDEqAP26uZ3QKmjec3e"
@@ -19630,7 +19666,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 191722,
       "name": "Right By Me",
       "url": "https://open.spotify.com/track/4dkwAnUATnfpuxD0OejpSx"
@@ -19774,7 +19810,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 200055,
       "name": "Ritual for the Unheard",
       "url": "https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw"
@@ -19886,6 +19922,24 @@
       "duration_ms": 222062,
       "name": "Room Still Sways",
       "url": "https://open.spotify.com/track/0VWVTMeD395UktDg7eNB9I"
+    },
+    {
+      "album": {
+        "name": "Ros\u00e9",
+        "url": "https://open.spotify.com/album/7GNeA3TTAKnDXtFIPXiyRO"
+      },
+      "artists": [
+        {
+          "name": "Angel Dz",
+          "url": "https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/7FVL6OGxwNrEWAZMlry7Qa"
     },
     {
       "album": {
@@ -20088,7 +20142,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 149334,
       "name": "Same Hearts",
       "url": "https://open.spotify.com/track/0F6DnOxKI46a889kEDbzpG"
@@ -20106,7 +20160,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 212000,
       "name": "SAVANNAH",
       "url": "https://open.spotify.com/track/1MxJFJTf2D8whQSaf1MS67"
@@ -20860,7 +20914,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 193213,
       "name": "Shower Song",
       "url": "https://open.spotify.com/track/67QhgrmrS3L4KOWkLYHeAt"
@@ -21212,7 +21266,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 122007,
       "name": "Six Days and A Single Dime",
       "url": "https://open.spotify.com/track/3B5cbLWHEa7mQuhy1Lf3ca"
@@ -21472,7 +21526,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 285751,
       "name": "Somalia",
       "url": "https://open.spotify.com/track/38dSxpbekA3pQ3bHYnfC2E"
@@ -21999,6 +22053,24 @@
     },
     {
       "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/2NIiP6SgDoBMHqqJi2dwaY"
+      },
+      "artists": [
+        {
+          "name": "AS",
+          "url": "https://open.spotify.com/artist/1IiSlUyc2h1vCsqsuEkaqB"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169444,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0vKynRZaxj6wgOjCdQLdPD"
+    },
+    {
+      "album": {
         "name": "Stars Align",
         "url": "https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S"
       },
@@ -22396,7 +22468,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 167011,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M"
@@ -23118,7 +23190,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 152500,
       "name": "Temporale",
       "url": "https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk"
@@ -23242,6 +23314,24 @@
       "duration_ms": 272000,
       "name": "That Smile",
       "url": "https://open.spotify.com/track/1NObtMTvbDsSMCt8L59PL9"
+    },
+    {
+      "album": {
+        "name": "Words Don't Heal",
+        "url": "https://open.spotify.com/album/2ozTGvFlr6YM4mErwbd9Hx"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/2d0jjFNfxymeaYSoqitB85"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "That's Not Love",
+      "url": "https://open.spotify.com/track/7HeNT6i8gItPBo0WVm1goP"
     },
     {
       "album": {
@@ -23432,7 +23522,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 435344,
       "name": "The Ballerina",
       "url": "https://open.spotify.com/track/0XMO8iVC8FanNIdux1dcJ4"
@@ -24920,7 +25010,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 165688,
       "name": "Together Forever",
       "url": "https://open.spotify.com/track/52iZ8XgcPT09O8zs4KZz48"
@@ -25448,7 +25538,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 204791,
       "name": "Turn Your Back",
       "url": "https://open.spotify.com/track/1aq9czg1w6yRRgL4BILJkh"
@@ -27944,7 +28034,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-17",
       "duration_ms": 210500,
       "name": "You Orient Me",
       "url": "https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE"

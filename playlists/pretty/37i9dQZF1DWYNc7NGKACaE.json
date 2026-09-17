@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83020,
+  "num_followers": 83013,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Meus Manos Faz Dinheiro Com Site",
+        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
+      },
+      "artists": [
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Meus Manos Faz Dinheiro Com Site",
+      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Brotei No Baile Da Matinha (Tiktok)",
         "url": "https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 106595,
       "name": "Brotei No Baile Da Matinha - Tiktok",
       "url": "https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Meus Manos Faz Dinheiro Com Site",
-        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
-      },
-      "artists": [
-        {
-          "name": "St.Borges",
-          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Meus Manos Faz Dinheiro Com Site",
-      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2024-07-08 19:10:57",

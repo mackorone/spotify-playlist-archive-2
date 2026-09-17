@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Jem Cassar-Daley",
-  "num_followers": 139243,
+  "num_followers": 139244,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "can we do it all again?",
         "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 221805,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "Walk a Straight Line",
-        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
-      },
-      "artists": [
-        {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Walk a Straight Line",
-      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "Walk a Straight Line",
+        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Walk a Straight Line",
+      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "The Only One (feat. Christine and the Queens)",
         "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "Get Away From Me (I Think I'll Love You Soon)",
-        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 168523,
-      "name": "Get Away From Me (I Think I'll Love You Soon)",
-      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -891,6 +875,22 @@
       "duration_ms": 206040,
       "name": "NOT OK",
       "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "Get Away From Me (I Think I'll Love You Soon)",
+        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 168523,
+      "name": "Get Away From Me (I Think I'll Love You Soon)",
+      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
+        "name": "I See Myself In You",
+        "url": "https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "I See Myself In You",
+      "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
         "name": "LEZ GO!",
         "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 164566,
       "name": "LEZ GO!",
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
-        "name": "I See Myself In You",
-        "url": "https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "I See Myself In You",
-      "url": "https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "Eastern Rosellas (Full Band)",
-        "url": "https://open.spotify.com/album/2E7vjISA5i7yc8Pm4e8Qf5"
-      },
-      "artists": [
-        {
-          "name": "Miles Phillips",
-          "url": "https://open.spotify.com/artist/7ne7pZLngBmdkDWqz784lW"
-        }
-      ],
-      "duration_ms": 99660,
-      "name": "Eastern Rosellas - Full Band",
-      "url": "https://open.spotify.com/track/44Uzl6Q8nNEsuvem75ZCPN"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "The Biggest Dick",
         "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 163296,
       "name": "The Biggest Dick",
       "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "Eastern Rosellas (Full Band)",
+        "url": "https://open.spotify.com/album/2E7vjISA5i7yc8Pm4e8Qf5"
+      },
+      "artists": [
+        {
+          "name": "Miles Phillips",
+          "url": "https://open.spotify.com/artist/7ne7pZLngBmdkDWqz784lW"
+        }
+      ],
+      "duration_ms": 99660,
+      "name": "Eastern Rosellas - Full Band",
+      "url": "https://open.spotify.com/track/44Uzl6Q8nNEsuvem75ZCPN"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "The Cherry Farm",
-        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 178955,
-      "name": "The Cherry Farm",
-      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "The Cherry Farm",
+        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 178955,
+      "name": "The Cherry Farm",
+      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
-        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "WARCRY",
-      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "Love Love (Love Love)",
         "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 187118,
       "name": "Love Love (Love Love)",
       "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
+        "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "WARCRY",
+      "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "DMA'S",
-        "url": "https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 217117,
-      "name": "Emailz",
-      "url": "https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "I Used to Kill",
-        "url": "https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ"
+        "name": "DMA'S",
+        "url": "https://open.spotify.com/album/4Kv9OwVTPZLYN8h0OJIHid"
       },
       "artists": [
         {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        },
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 214956,
-      "name": "I Used to Kill",
-      "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
+      "duration_ms": 217117,
+      "name": "Emailz",
+      "url": "https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1399,6 +1379,26 @@
       "duration_ms": 220480,
       "name": "EDGE OF VEGAS",
       "url": "https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "I Used to Kill",
+        "url": "https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "I Used to Kill",
+      "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
     },
     {
       "added_at": "2026-09-10 14:01:27",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-09-10 14:01:27",
       "album": {
-        "name": "closer",
-        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
-    },
-    {
-      "added_at": "2026-09-10 14:01:27",
-      "album": {
         "name": "gossip",
         "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
+    },
+    {
+      "added_at": "2026-09-10 14:01:27",
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
     },
     {
       "added_at": "2026-09-10 14:01:27",
