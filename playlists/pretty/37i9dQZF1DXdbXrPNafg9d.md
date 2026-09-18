@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,254 likes - 201 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,221 likes - 201 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 85 | [I Bought You A Star](https://open.spotify.com/track/71qJx5tf3MlEIdzWPKigur) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [I Bought You A Star](https://open.spotify.com/album/13vkqYXmrCevp8aHh505ZF) | 3:00 |
 | 86 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 | 87 | [Piano \(feat\. Glenn Gould\)](https://open.spotify.com/track/2RP10Jwt6qUGcqIizirlwi) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Piano \(feat\. Glenn Gould\)](https://open.spotify.com/album/2Uhn7mroGpoaWKb8xQmXv7) | 3:37 |
-| 88 | [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 |
-| 89 | [Hipster Runoff](https://open.spotify.com/track/6G86jMPi0lWMZKK8vWlGfG) | [Lex Walton](https://open.spotify.com/artist/67pLmA3GVpK4P0bq11rQqa) | [ULTIMATE LOVE FOREVER](https://open.spotify.com/album/1HAX0TGlTlX3OPC3itekn7) | 2:16 |
+| 88 | [Hipster Runoff](https://open.spotify.com/track/6G86jMPi0lWMZKK8vWlGfG) | [Lex Walton](https://open.spotify.com/artist/67pLmA3GVpK4P0bq11rQqa) | [ULTIMATE LOVE FOREVER](https://open.spotify.com/album/1HAX0TGlTlX3OPC3itekn7) | 2:16 |
+| 89 | [Man may not last](https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Ladybug Mecca](https://open.spotify.com/artist/2gbAU1PZLHR6eSPh0diTuX) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 5:45 |
 | 90 | [Kind of Fantasy](https://open.spotify.com/track/0ZYfDHrKS3Rnh1LbvOUlxp) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Kind of Fantasy](https://open.spotify.com/album/4kDvsNQQjUwqvLQ2p0AVfw) | 4:06 |
 | 91 | [hey fever](https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [hey fever](https://open.spotify.com/album/1L57kI2O6pK8UOBBrgznFG) | 2:02 |
 | 92 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 200 | [Morphine](https://open.spotify.com/track/2QS9W9Y1B8WiUvUFItidSy) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Morphine](https://open.spotify.com/album/35VO8kPyMb88vAZBlZfNkd) | 4:45 |
 | 201 | [She Swear I'm Colorblind \(feat\. billy woods\)](https://open.spotify.com/track/4GrMJgW9WoXWVye8VD5jyn) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [She Swear I'm Colorblind \(feat\. billy woods\)](https://open.spotify.com/album/4g0SbA564obwHfZXiRzaV4) | 3:29 |
 
-Snapshot ID: `AAAAADpjcgB18L8G2s/yy55+lYyvoiQo`
+Snapshot ID: `AAAAAAH+whP2ntuXd6HBjN3CIEDN0ExP`

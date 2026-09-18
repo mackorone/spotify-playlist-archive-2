@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Classe Moyenne
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,487 likes - 182 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,501 likes - 182 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

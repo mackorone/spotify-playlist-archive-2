@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 35 songs - 1 hr 59 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 33 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
 | 34 | [Maybe Sprout Wings](https://open.spotify.com/track/3XHflppHO5YWYF4kaoiavW) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:46 |
 | 35 | [Until I Am Whole](https://open.spotify.com/track/0DB6VaEyabpqAemzIxWpPo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:48 |
+| 36 | [The Desert](https://open.spotify.com/track/2MlQzk1p2gl8ARltbl9WkN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Desert](https://open.spotify.com/album/5AYrkGqYbBUtGZQN2CBNQb) | 2:57 |
 
-Snapshot ID: `AAAALydHKOjjhv4BZ6hCN6I9iou9sWgY`
+Snapshot ID: `AAAAMPaAgUSnxPo6y897rodVJryOqyBm`

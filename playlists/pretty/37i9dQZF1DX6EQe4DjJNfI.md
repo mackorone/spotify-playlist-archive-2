@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,775 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,784 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 53 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 |
 | 54 | [Amor à Luz do Dia](https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor à Luz do Dia](https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX) | 3:45 |
 | 55 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
-| 56 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
-| 57 | [NÃO VOU PARAR](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [NÃO VOU PARAR](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
+| 56 | [NÃO VOU PARAR](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [NÃO VOU PARAR](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
+| 57 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
 | 58 | [MergulhoFundo](https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Al\-Kimiya, Ato I](https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s) | 4:16 |
 | 59 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
 | 60 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 75 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 
-Snapshot ID: `AAAAAAZabu9pwjnqCnw/onPXAf2kYMLh`
+Snapshot ID: `AAAAAGMpQJaoBY5Ng8qFJoRjgYPmAiOb`

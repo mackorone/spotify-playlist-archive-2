@@ -1,13 +1,29 @@
 {
-  "description": "Today's biggest dance hits! Cover: Chris Lake, Chris Lorenzo, Kenny Beats",
-  "num_followers": 450359,
+  "description": "Today's biggest dance hits! Cover: Troye Sivan",
+  "num_followers": 450327,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzSeYMsR2T8etu82Jbpxgnbjkp9",
+  "snapshot_id": "AAAAAFQYTVawgHVOkQBhM661Zejahn+c",
   "tracks": [
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
@@ -63,54 +79,6 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "Can't Fit In",
-        "url": "https://open.spotify.com/album/5NPEOUKNNug2BHNTrqIlds"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Kingstarlight",
-          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
-        }
-      ],
-      "duration_ms": 179945,
-      "name": "Can't Fit In",
-      "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 228947,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
         "name": "Genie in a Bottle (Levi Mix)",
         "url": "https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu"
       },
@@ -151,6 +119,54 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Can't Fit In",
+        "url": "https://open.spotify.com/album/5NPEOUKNNug2BHNTrqIlds"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
+        }
+      ],
+      "duration_ms": 179945,
+      "name": "Can't Fit In",
+      "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
       },
@@ -163,62 +179,6 @@
       "duration_ms": 146260,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Love Sensation",
-        "url": "https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 374410,
-      "name": "Love Sensation - Afterhours Mix",
-      "url": "https://open.spotify.com/track/5nxpg2Yvg8286aJ6L6w7DD"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Ah Yeah (2.0)",
-        "url": "https://open.spotify.com/album/3YCqUESG4nSNk9uYwDjyeL"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Ah Yeah (2.0)",
-      "url": "https://open.spotify.com/track/6q6yGAUvlrLz6mmbbuxLo0"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "HOLD DA PHONE",
-        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 203222,
-      "name": "HOLD DA PHONE",
-      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -283,22 +243,74 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/4hBfeHsWFWOzy0Hi4RXusR"
+        "name": "Love Sensation",
+        "url": "https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 189398,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/17Yb6SqefJod2ANofe8kZg"
+      "duration_ms": 374410,
+      "name": "Love Sensation - Afterhours Mix",
+      "url": "https://open.spotify.com/track/5nxpg2Yvg8286aJ6L6w7DD"
+    },
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Back Of The Club",
+        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 171350,
+      "name": "Back Of The Club",
+      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "HOLD DA PHONE",
+        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 203222,
+      "name": "HOLD DA PHONE",
+      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
+    },
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/2ww5t3ADmcUPAUpQUSz2Eu"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 273888,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/0VjYhcHdW7xYp6EcyDt5JZ"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -335,6 +347,78 @@
       "duration_ms": 214038,
       "name": "Just A Little Bit More",
       "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+    },
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Salseo",
+        "url": "https://open.spotify.com/album/48l8FOMV2IxrlEOcVgR4nX"
+      },
+      "artists": [
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Salseo",
+      "url": "https://open.spotify.com/track/2Zniy5oL90EgMPMxNyHGM6"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Check Into",
+        "url": "https://open.spotify.com/album/62Ry19tK4MIJMtNLORwAb9"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Check Into",
+      "url": "https://open.spotify.com/track/01ojf2Z6EvfFm2liLs3cGb"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/4hBfeHsWFWOzy0Hi4RXusR"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "duration_ms": 189398,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/17Yb6SqefJod2ANofe8kZg"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Ah Yeah (2.0)",
+        "url": "https://open.spotify.com/album/3YCqUESG4nSNk9uYwDjyeL"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Ah Yeah (2.0)",
+      "url": "https://open.spotify.com/track/6q6yGAUvlrLz6mmbbuxLo0"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -503,22 +587,6 @@
       "duration_ms": 160911,
       "name": "Careful",
       "url": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Check Into",
-        "url": "https://open.spotify.com/album/62Ry19tK4MIJMtNLORwAb9"
-      },
-      "artists": [
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Check Into",
-      "url": "https://open.spotify.com/track/01ojf2Z6EvfFm2liLs3cGb"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -1391,62 +1459,6 @@
       "duration_ms": 224149,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0mkQ0izYmDZUE5JuAPfmfh"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "BLACK MIDAS",
-        "url": "https://open.spotify.com/album/34EvpDxhNEF0polvIKdGdP"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 225663,
-      "name": "5STARRR",
-      "url": "https://open.spotify.com/track/105IDX1VhzNFEroR6qgHDz"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": ">>>hands on me<<<",
-        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": ">>>hands on me<<<",
-      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "HOTS 4 U",
-        "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "aMo (um)",
-          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
-        }
-      ],
-      "duration_ms": 214269,
-      "name": "HOTS 4 U",
-      "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
     }
   ],
   "unique_name": "Dance Generation",

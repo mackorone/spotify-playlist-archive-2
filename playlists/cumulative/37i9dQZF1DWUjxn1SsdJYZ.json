@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: 3%",
+  "description": "The best new AUS & NZ Rap. Cover: Lisi",
   "name": "Local Hype",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 154393,
       "name": "765",
       "url": "https://open.spotify.com/track/5czqG0q26Fy6n2dx2bNbRk"
@@ -2910,6 +2910,24 @@
       "duration_ms": 139746,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7DeLJ82yL0mcIQRVdViP9x"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0Aey0gAR3kqvC5BdRgfUIB"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215899,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/536FsRPcagml3zFYssk7Wr"
     },
     {
       "album": {
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144000,
       "name": "Cold Heart Freestyle 1",
       "url": "https://open.spotify.com/track/2BFu7VSI7oJIJXhTbvbM8T"
@@ -10343,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "FREQUENCY",
+        "url": "https://open.spotify.com/album/6fmsS3V64hgKOUsuC1CtIQ"
+      },
+      "artists": [
+        {
+          "name": "DEM MOB",
+          "url": "https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "FREQUENCY",
+      "url": "https://open.spotify.com/track/3pV3EpwBaTsiBHnujMU7Iy"
+    },
+    {
+      "album": {
         "name": "FRESHCCCUNT (F2D)",
         "url": "https://open.spotify.com/album/3lD6kTihLb1IEfXCxV5N12"
       },
@@ -11479,6 +11515,24 @@
     },
     {
       "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/6WO9D5X0NcFoh2CtpIbC4U"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249090,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2jOqLrfpMZBOHMsdFQ39rm"
+    },
+    {
+      "album": {
         "name": "GOD CALLS/HEAVY FREESTYLE",
         "url": "https://open.spotify.com/album/5s0BRtii6dzwJzPsYXbC7e"
       },
@@ -11508,7 +11562,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 142777,
       "name": "GOD Is Real",
       "url": "https://open.spotify.com/track/62YU7qpCGiFv8bmWNzaZYZ"
@@ -14580,7 +14634,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 138947,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD"
@@ -15680,7 +15734,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207419,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO"
@@ -15844,7 +15898,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161296,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/6uJNfV05iUiCpyWidj7HrG"
@@ -16914,6 +16968,28 @@
       "duration_ms": 149186,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/1upj0VnntRFbNirqCYMQu2"
+    },
+    {
+      "album": {
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/14lKaSOBlt0gVnVu0AxmV9"
+      },
+      "artists": [
+        {
+          "name": "Hans.",
+          "url": "https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A"
+        },
+        {
+          "name": "fourofour",
+          "url": "https://open.spotify.com/artist/5hklBDFXK7o5qeDUlzN4Sv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Locket",
+      "url": "https://open.spotify.com/track/2UiKt8mTjly9fJGxSGgtx7"
     },
     {
       "album": {
@@ -24009,6 +24085,24 @@
     },
     {
       "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/0i5TNOAFezpiNlnGNBuqpL"
+      },
+      "artists": [
+        {
+          "name": "Tbish",
+          "url": "https://open.spotify.com/artist/2APhRc0C4DiTjfpuzBm2Xw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/0cZOP2ZAYYEnmGCZHdW24h"
+    },
+    {
+      "album": {
         "name": "REINCARNATED",
         "url": "https://open.spotify.com/album/6lcXtjXLKYdNvz9B9SqPcD"
       },
@@ -27080,7 +27174,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 157966,
       "name": "Split Personality",
       "url": "https://open.spotify.com/track/2BVhM6EuVLSxL4bMux9SNn"
@@ -30239,6 +30333,28 @@
     },
     {
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4gCmDDv243fmp9aIWnzuE0"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/47FwOOwB1b6iSn8Ij0QQ7w"
+    },
+    {
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35"
       },
@@ -30254,6 +30370,24 @@
       "duration_ms": 192008,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU"
+    },
+    {
+      "album": {
+        "name": "TTG",
+        "url": "https://open.spotify.com/album/1dKtfEpOxS67onEGwQrhUF"
+      },
+      "artists": [
+        {
+          "name": "Miko Mal",
+          "url": "https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "TTG",
+      "url": "https://open.spotify.com/track/3QLVvIojq9R74I68kECfJ5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,284 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,285 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 28 | [CRISTO \(Inglés/Español\)](https://open.spotify.com/track/3bU3Rv06nnFepEacgUwzYT) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Austin Benjamin](https://open.spotify.com/artist/1mLZGJNyogDspBWiSgAfcR) | [CRISTO \(Inglés/Español\)](https://open.spotify.com/album/3ABQFxUoKmbFzPVL6MHcyK) | 6:46 |
 | 29 | [Vino Celestial](https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:03 |
 | 30 | [Nadie Como Tú](https://open.spotify.com/track/4ilNreJxoar2uDpYCeOr0P) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Nadie Como Tú](https://open.spotify.com/album/1t39A0vsBWAJUmjWY58KsX) | 7:16 |
-| 31 | [Viene Ya \(En Vivo\)](https://open.spotify.com/track/0ENmylIk4ML9ijKZdhml8T) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 3:51 |
-| 32 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 |
+| 31 | [Digno de Adorar](https://open.spotify.com/track/0SJjnHs6rZwXBJgERsbJd4) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Digno de Adorar](https://open.spotify.com/album/02PTqHXwlOhC2783iojG7t) | 11:06 |
+| 32 | [Dios De Milagros \- En Vivo Desde México](https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Dios De Milagros \(En Vivo Desde México\)](https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM) | 6:06 |
 | 33 | [Levántate Señor](https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 5:05 |
-| 34 | [Dios De Milagros \- En Vivo Desde México](https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Dios De Milagros \(En Vivo Desde México\)](https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM) | 6:06 |
+| 34 | [Viene Ya \(En Vivo\)](https://open.spotify.com/track/0ENmylIk4ML9ijKZdhml8T) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 3:51 |
 | 35 | [Confío En Dios](https://open.spotify.com/track/4M9fZzHnmpvZOb3awA0XAG) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Algo Nuevo Viene](https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX) | 7:27 |
 | 36 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 |
 | 37 | [Música Del Cielo](https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 49 | [Eres Dios](https://open.spotify.com/track/7d369XnzKfkuObNl9d7rgh) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 5:28 |
 | 50 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
 
-Snapshot ID: `aqc5AAAAAAAyPuKsV19Vzgufh44mmeLw`
+Snapshot ID: `aqncAAAAAABbDjclfWXZSeehY/6a+30k`

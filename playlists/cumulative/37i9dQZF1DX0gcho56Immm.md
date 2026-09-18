@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yvonnes
 
-330 songs - 19 hr 4 min
+334 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-26 |  |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2026-03-07 |
 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-19 |  |
+| [Big Spender](https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Big Spender](https://open.spotify.com/album/6KwTupgXxkIUDg29rCKSKF) | 3:07 | 2026-09-17 |  |
 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 | 2026-04-23 |  |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-03-13 |  |
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 | 2025-09-06 |
@@ -86,6 +87,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-12 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 | 2025-10-18 |
+| [Dwell](https://open.spotify.com/track/7qwApTSPhW04EnRwcdGEur) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy), [Olive Kimoto](https://open.spotify.com/artist/2mtgDA3i2MqqAeRw8AGVY6) | [Coalesce](https://open.spotify.com/album/4uNfL1imCBzXVcYpTtN9vC) | 4:34 | 2026-09-17 |  |
 | [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
 | [Easy Rider Geneva Heat](https://open.spotify.com/track/18vBir4mGmDL54cnwn758B) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Unrecognisable](https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC) | 1:40 | 2026-02-19 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
@@ -206,6 +208,7 @@
 | [Nice](https://open.spotify.com/track/3qpaZJb1799OHuOAN1u0dc) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:08 | 2025-08-08 | 2026-03-07 |
 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 | 2025-03-13 | 2026-01-24 |
 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-11-07 |  |
+| [Not Likely](https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [Not Likely](https://open.spotify.com/album/4tzPkWNXFukd4VVJgeb32X) | 2:34 | 2026-09-17 |  |
 | [Not Offended](https://open.spotify.com/track/4wDTwzp2JuuD4UKAP2jrD8) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Not Offended](https://open.spotify.com/album/68o9R9l54MZKYsV0xD5zR0) | 3:05 | 2025-06-19 | 2026-03-07 |
 | [not yet](https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [nightmare intercom](https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC) | 3:21 | 2026-01-16 |  |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-13 | 2025-09-13 |
@@ -250,6 +253,7 @@
 | [Sexy](https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 2:10 | 2026-03-19 |  |
 | [Shadow Of A Bird](https://open.spotify.com/track/5khNrNDRBfOpMZccGImGVZ) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Shadow Of A Bird](https://open.spotify.com/album/2q7MrQ1wRDkJCpzhPdkgwi) | 3:27 | 2026-02-19 |  |
 | [shakebrain](https://open.spotify.com/track/4nTqfzTcoKwDtr3BxGMw7m) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [shakebrain](https://open.spotify.com/album/3XKnrK605bResv68F7BtbT) | 3:03 | 2025-10-10 | 2026-05-01 |
+| [Shell](https://open.spotify.com/track/4Y3t75xwiQuJkvXXmNcgRc) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Shell](https://open.spotify.com/album/3G0H5bQL0t8PfuDFAJ5DPG) | 3:44 | 2026-09-17 |  |
 | [Shift Souls](https://open.spotify.com/track/4Y6RSJ9YwfPm9E5Ch8Ckmu) | [toechter](https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL) | [Epic Wonder](https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl) | 3:47 | 2025-08-08 | 2026-03-07 |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-08-09 |
 | [Silent But For Joy](https://open.spotify.com/track/2JqhEPBaV1pPRgrqlTmsNn) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:36 | 2025-08-08 |  |

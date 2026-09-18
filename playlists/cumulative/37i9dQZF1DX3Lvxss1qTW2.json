@@ -3543,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/0ZIBldCBiuFLx1WKUpneQU"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124144,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr"
+    },
+    {
+      "album": {
         "name": "GUCCI & LV",
         "url": "https://open.spotify.com/album/6VFErC5TrSgbttDKc4LJJx"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 386149,
+  "num_followers": 386212,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
-      },
-      "artists": [
-        {
-          "name": "PEDRAZUL",
-          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
-        },
-        {
-          "name": "Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
-        },
-        {
-          "name": "Jaqueline Nobre",
-          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
+      },
+      "artists": [
+        {
+          "name": "PEDRAZUL",
+          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
+        },
+        {
+          "name": "Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
+        },
+        {
+          "name": "Jaqueline Nobre",
+          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
+        }
+      ],
+      "duration_ms": 270933,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
     },
     {
       "added_at": "2026-08-10 15:32:09",

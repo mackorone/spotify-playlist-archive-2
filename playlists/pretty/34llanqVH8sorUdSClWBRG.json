@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAUTShGC0XjOXHuYAu4Nd+xAnL0gHk",
+  "snapshot_id": "AAAAUhERdB2AMtvvhIWlTjBsAYtes0TK",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -1199,6 +1199,22 @@
       "duration_ms": 141881,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3WERqti6Iy25H3wc0l7Den"
+    },
+    {
+      "added_at": "2026-09-17 21:46:20",
+      "album": {
+        "name": "The Desert",
+        "url": "https://open.spotify.com/album/5AYrkGqYbBUtGZQN2CBNQb"
+      },
+      "artists": [
+        {
+          "name": "Shayfer James",
+          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
+        }
+      ],
+      "duration_ms": 177569,
+      "name": "The Desert",
+      "url": "https://open.spotify.com/track/2MlQzk1p2gl8ARltbl9WkN"
     }
   ],
   "unique_name": "Diseased",

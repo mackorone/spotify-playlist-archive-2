@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸  Inda Jani
 
-411 songs - 1 day 14 hr 3 min
+412 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Shades of Blue \- Original Mix](https://open.spotify.com/track/5liCbYlITgbpbPMmKrbh8o) | [Marcelo Vasami](https://open.spotify.com/artist/4bsJBOidwLc1UbwPoKbF44) | [Dirty Talk](https://open.spotify.com/album/4mhDwi7PYRFkQblvLi67i9) | 9:16 | 2020-09-04 | 2023-11-18 |
 | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/track/3xY2cVMOCugDy0JyYCAumS) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [SHILOH \(feat\. Gio Santi\)](https://open.spotify.com/album/511MBaM5QxM7TPUJJJJrKM) | 5:44 | 2024-02-02 | 2024-06-15 |
 | [Shimmer](https://open.spotify.com/track/0bnwqccKNwhB8ZXMuT39zV) | [Temple Gate](https://open.spotify.com/artist/7je5H8RIDzvzzJrpFsU6Cc) | [Shimmer](https://open.spotify.com/album/0oEjgYQ3pzJQwFyOil9bGB) | 4:20 | 2025-03-19 | 2026-04-24 |
+| [Shimo Kitazawa](https://open.spotify.com/track/5tRKKLIYxwsPcOM6HJSvs8) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Shimo Kitazawa](https://open.spotify.com/album/1yAJpbs2eLDRQCtMmmyGu8) | 6:37 | 2026-09-18 |  |
 | [Si te Vas](https://open.spotify.com/track/6WRLeJo5Z889waku7dElld) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Si te Vas](https://open.spotify.com/album/4C1XtgaJyNHJGmIg1v9jYV) | 3:45 | 2025-02-28 | 2025-08-29 |
 | [Sicaria](https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Tranzas Del Swing Vol.2](https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs) | 5:32 | 2025-09-05 |  |
 | [Sin Control](https://open.spotify.com/track/4JChOHUQjLmX9EDUOWDL2E) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Sin Control](https://open.spotify.com/album/2yKkU9PlPNAdQQL1sk0llO) | 3:58 | 2026-07-24 |  |

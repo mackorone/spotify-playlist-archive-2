@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Sindika",
+  "description": "Le meilleur du rap africain francophone. Photo : Lil Jay Bingerack",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 155624,
       "name": "24K",
       "url": "https://open.spotify.com/track/36x68wZiC8zg5T8OPFjlSa"
+    },
+    {
+      "album": {
+        "name": "3A",
+        "url": "https://open.spotify.com/album/1dcdTEI4h4afVWWBX0rIbq"
+      },
+      "artists": [
+        {
+          "name": "Abescar",
+          "url": "https://open.spotify.com/artist/4JFeKwBBztZykDsadklAG3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169482,
+      "name": "3A",
+      "url": "https://open.spotify.com/track/7bSlIk7wz2IYjgyglYWQLp"
     },
     {
       "album": {
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161480,
       "name": "B\u00c9NI",
       "url": "https://open.spotify.com/track/6PzGPwx1VtsEOg5q1FjSGr"
@@ -1540,6 +1558,24 @@
       "duration_ms": 185076,
       "name": "CAPACIT\u00c9",
       "url": "https://open.spotify.com/track/2Hm1FkkmS6rUeWkI0XsVqz"
+    },
+    {
+      "album": {
+        "name": "Cardiaque",
+        "url": "https://open.spotify.com/album/0o20BCyoXKGLKlR0LvO83U"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Cardiaque",
+      "url": "https://open.spotify.com/track/4saPGHe9NZJkZLbcVT2rLI"
     },
     {
       "album": {
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193714,
       "name": "Freestyle KORDIAL III",
       "url": "https://open.spotify.com/track/6pdqCNNj4B8iqSrKVzljv4"
@@ -3920,6 +3956,28 @@
       "duration_ms": 136608,
       "name": "ID\u00c9E",
       "url": "https://open.spotify.com/track/60DdMNqCfcbK4rkuHDndmu"
+    },
+    {
+      "album": {
+        "name": "Il ne s'agit que de \u00e7a",
+        "url": "https://open.spotify.com/album/1942mfSy403xH37x8bfBFf"
+      },
+      "artists": [
+        {
+          "name": "Dareal",
+          "url": "https://open.spotify.com/artist/5OthBK5mStbcQ4oRNFLdma"
+        },
+        {
+          "name": "Stormz Kill It",
+          "url": "https://open.spotify.com/artist/3UsoYEa3ZOJCJsNS8qjck8"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211069,
+      "name": "Il ne s'agit que de \u00e7a",
+      "url": "https://open.spotify.com/track/0EDRILx03sIkT0OdDv5coM"
     },
     {
       "album": {
@@ -5201,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Migbo (Remix)",
+        "url": "https://open.spotify.com/album/4ELI9VcvrNzVd9aTV1HBxS"
+      },
+      "artists": [
+        {
+          "name": "Sethlo",
+          "url": "https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Migbo - Remix",
+      "url": "https://open.spotify.com/track/2uKYG8QCwSWWFqJLUaRZ3K"
+    },
+    {
+      "album": {
         "name": "M\u00c9TAMORPHOSE",
         "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
       },
@@ -5336,7 +5416,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 153043,
       "name": "MONEY MANTRA",
       "url": "https://open.spotify.com/track/2Ri6PIHwkCyrZ2kiuwrbO7"
@@ -6414,7 +6494,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 120000,
       "name": "Pluie De Melo",
       "url": "https://open.spotify.com/track/0PpEWrAaRoDNsUPgdErYUj"
@@ -7437,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9curis\u00e9",
+        "url": "https://open.spotify.com/album/4yFjwLF2pprecd9RvnZg0B"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129924,
+      "name": "S\u00e9curis\u00e9",
+      "url": "https://open.spotify.com/track/5KruRcDHp323eHdNJMfjjd"
+    },
+    {
+      "album": {
         "name": "T'en Parler",
         "url": "https://open.spotify.com/album/1is6fQBY8PogRRpjFlyH8T"
       },
@@ -7638,7 +7736,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 222410,
       "name": "Telegram",
       "url": "https://open.spotify.com/track/5SR8wS0vMBOz3tenqpPNUa"
@@ -8184,7 +8282,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 150625,
       "name": "Un C\u00f4t\u00e9",
       "url": "https://open.spotify.com/track/3cDgYs9FSmmpIGVwsfzh3J"

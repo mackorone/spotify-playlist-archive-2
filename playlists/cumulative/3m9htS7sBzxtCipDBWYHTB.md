@@ -4,7 +4,7 @@
 
 > The numb flavor of depression
 
-36 songs - 2 hr 2 min
+37 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Sleep](https://open.spotify.com/track/6NK9g64i0EOGhXCfx27jTE) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:43 | 2023-01-11 |  |
 | [So Much](https://open.spotify.com/track/2FuTwiSsa94w2h5wBTcmzf) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [16 / 04 / 16](https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m) | 2:36 | 2022-09-18 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-06-14 |  |
+| [The Desert](https://open.spotify.com/track/2MlQzk1p2gl8ARltbl9WkN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Desert](https://open.spotify.com/album/5AYrkGqYbBUtGZQN2CBNQb) | 2:57 | 2026-09-17 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2023-01-11 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [Tucson Fog](https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/1MbrGdr3eLlzIZs4xW5CIZ) | 2:15 | 2024-09-15 |  |

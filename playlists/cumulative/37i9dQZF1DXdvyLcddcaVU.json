@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
         "name": "AIR FORCE 1",
         "url": "https://open.spotify.com/album/0jllUXKBq8duDAVSvKdxAr"
       },
@@ -976,6 +994,28 @@
       "duration_ms": 208693,
       "name": "Ameyatchi - Remix",
       "url": "https://open.spotify.com/track/5nHKieynAHyrLpMqyu0dKE"
+    },
+    {
+      "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
     },
     {
       "album": {
@@ -2354,7 +2394,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 175555,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7ExV0puBxT5WYyDLs5zeCb"
@@ -3580,6 +3620,28 @@
       "duration_ms": 224133,
       "name": "C'est la cit\u00e9",
       "url": "https://open.spotify.com/track/787pJlm5f43sODotPcNfNp"
+    },
+    {
+      "album": {
+        "name": "C'EST NOUS",
+        "url": "https://open.spotify.com/album/7xS9tt6smNa4H2Olu9yz63"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        },
+        {
+          "name": "Doulkha",
+          "url": "https://open.spotify.com/artist/746NtgxeCDrfBTLUOOvjBw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "C'EST NOUS",
+      "url": "https://open.spotify.com/track/0NbqOg775aApRnRvHHcTPz"
     },
     {
       "album": {
@@ -7639,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/5TI4MjMFDiQsyZWmTifJ9I"
+      },
+      "artists": [
+        {
+          "name": "Kanay",
+          "url": "https://open.spotify.com/artist/79gJvpr2VpqzRpKg6WrQDU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139896,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2eGuWa4kKeHXXXYzNY3Tnn"
+    },
+    {
+      "album": {
         "name": "AYA",
         "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
@@ -7894,7 +7974,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 158117,
       "name": "FREAKED OUT",
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
@@ -8202,7 +8282,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 132577,
       "name": "Ghetto Attitude",
       "url": "https://open.spotify.com/track/3KXEhRd9hCOukw31Dto1A5"
@@ -8220,7 +8300,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
@@ -12516,7 +12596,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 209162,
       "name": "L\u00c9W\u00c9",
       "url": "https://open.spotify.com/track/4qQpBgv7ZA3ye0Dl1xOvPf"
@@ -13960,7 +14040,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190967,
       "name": "Mikasa",
       "url": "https://open.spotify.com/track/536FCnSIe6OFZnxjTixaVi"
@@ -15294,7 +15374,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 129411,
       "name": "NO EX NO STRESS (feat. Tiitof)",
       "url": "https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1"
@@ -16328,7 +16408,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 214491,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/5LZCpLFvlkiXYfqIn5Z4k4"
@@ -16687,6 +16767,28 @@
     },
     {
       "album": {
+        "name": "Paradis Fiscal",
+        "url": "https://open.spotify.com/album/5VJQqyAA6nrAYrZJK7ORmH"
+      },
+      "artists": [
+        {
+          "name": "Missan",
+          "url": "https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk"
+        },
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158956,
+      "name": "Paradis Fiscal",
+      "url": "https://open.spotify.com/track/0kuET25d7QnF6vYzNEzATQ"
+    },
+    {
+      "album": {
         "name": "Parado no Bail\u00e3o",
         "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
       },
@@ -16930,6 +17032,28 @@
       "duration_ms": 167096,
       "name": "pas diff\u00e9rent",
       "url": "https://open.spotify.com/track/5p0yASvfzEmGvFMB9M8R7I"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pas Jalouse",
+      "url": "https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG"
     },
     {
       "album": {
@@ -18705,6 +18829,24 @@
     },
     {
       "album": {
+        "name": "Journal intime",
+        "url": "https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "R\u00e9ponds",
+      "url": "https://open.spotify.com/track/2ffsmzPmhSoBpSSRVVdZXM"
+    },
+    {
+      "album": {
         "name": "Garh Tany",
         "url": "https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA"
       },
@@ -19068,7 +19210,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
@@ -20400,6 +20542,24 @@
       "duration_ms": 194793,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy"
+    },
+    {
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
       "album": {
@@ -23168,7 +23328,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"

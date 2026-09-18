@@ -9483,6 +9483,28 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/3tp1Kc2rSItZsYhfYLxMEg"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1Wn5EmILIwKsyvbwCDTTBx"
+    },
+    {
+      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx"
       },

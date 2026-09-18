@@ -4,7 +4,7 @@
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-453 songs - 2 day 8 hr 36 min
+456 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 | 2025-07-18 |
 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 | 2025-01-10 |  |
 | [Let Your Fire Fall](https://open.spotify.com/track/0JsLo39R8tVtTr4ZhGB1Jr) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Let Your Fire Fall](https://open.spotify.com/album/5Ypr1NVLf9CcH8VOJKG76I) | 5:51 | 2025-11-14 | 2025-12-19 |
+| [Lifted High](https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Lifted High](https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ) | 7:30 | 2026-09-18 |  |
 | [Lifter of my head](https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Worship Wells](https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK) | 5:50 | 2026-08-07 |  |
 | [Little Me](https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Emerge](https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz) | 4:15 | 2024-10-25 | 2024-12-13 |
 | [Live Worship \- Live at CCI Deeper Canada](https://open.spotify.com/track/1v14S3aQN8iFwYLpbxK8Xr) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Live Worship \(Live at CCI Deeper Canada\)](https://open.spotify.com/album/0PUXK2fgNn4b1GWZAc6isz) | 6:08 | 2026-08-21 |  |
@@ -256,6 +257,7 @@
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Longing of My Heart](https://open.spotify.com/track/2OeCSaESoZrzclzzZycosi) | [Chimdi Ochei](https://open.spotify.com/artist/3KGTgIIbXrMNFh1GLZFnfO), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Happily Yours](https://open.spotify.com/album/2IpVL6spEIj8BErpyUd33G) | 4:27 | 2026-04-01 | 2026-04-07 |
 | [Looking To Jesus \- Live](https://open.spotify.com/track/3b1f6v216f46C0FZA3FsFZ) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:00 | 2026-04-01 | 2026-04-07 |
+| [Lord I Worship You](https://open.spotify.com/track/14MhPqMILKexP49EocKxF6) | [Olaitan Dada](https://open.spotify.com/artist/3gyUPC43mLbkoA6zy9X2q9), [Oluchi Onwuteaka](https://open.spotify.com/artist/7CSbdMCVlzhMwfRAoDSzm8) | [Lord I Worship You](https://open.spotify.com/album/2fed8QMzlumLCURWtpQiWh) | 7:42 | 2026-09-18 |  |
 | [Lord Most High](https://open.spotify.com/track/5QdSwe7gS1ORjW6CQpsgDl) | [Dolapo Lawal](https://open.spotify.com/artist/3q4KhtQjtB8DQg0n2eGUMC), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Soli Deo Gloria](https://open.spotify.com/album/5EE2xY6Q8vDMoOUNj5bBI2) | 6:13 | 2026-09-04 |  |
 | [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 | 2026-04-17 |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 | 2025-09-12 |
@@ -274,6 +276,7 @@
 | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2024-08-02 | 2025-03-28 |
 | [Mofaramo](https://open.spotify.com/track/5c7vnReasBzgUKKsp44mKZ) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Mofaramo](https://open.spotify.com/album/3bETF6am5mHOCAMEOYBqNl) | 3:38 | 2025-01-03 | 2025-05-09 |
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 | 2025-12-19 |
+| [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 | 2026-09-18 |  |
 | [Most High](https://open.spotify.com/track/7m5VI4wtclDWfskjXou2Mh) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Most High](https://open.spotify.com/album/3fXrS9CHWxp2tsPCYNaqRn) | 6:15 | 2026-03-06 | 2026-05-01 |
 | [Most High God \- Live](https://open.spotify.com/track/3qkicluLq6dTSaIqb8jkrD) | [Raj Bassey](https://open.spotify.com/artist/5wcDczeAUQOZX7UI2oQdf4), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [The Bethels](https://open.spotify.com/artist/31rHOjUlSsmFDVQuUfEEo9) | [Most High God \(Live\)](https://open.spotify.com/album/3rgMcFv6xeNkm1snY39kl1) | 12:00 | 2026-04-10 | 2026-07-17 |
 | [My Confidence](https://open.spotify.com/track/7rTWMg1rSSfDpl1pLIsJPa) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Confidence](https://open.spotify.com/album/6DY6vwkrPHbayouqFD30pj) | 5:38 | 2024-11-15 | 2025-02-14 |

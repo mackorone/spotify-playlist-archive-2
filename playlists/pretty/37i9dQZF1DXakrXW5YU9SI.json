@@ -1,6 +1,6 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 342154,
+  "num_followers": 342157,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-10 22:00:48",
       "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
-    },
-    {
-      "added_at": "2026-09-10 22:00:48",
-      "album": {
         "name": "BESOS",
         "url": "https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 158457,
       "name": "BESOS",
       "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
+    },
+    {
+      "added_at": "2026-09-10 22:00:48",
+      "album": {
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
     },
     {
       "added_at": "2026-09-10 22:00:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-10 22:00:48",
       "album": {
-        "name": "Ostatnia piosenka o Tobie",
-        "url": "https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd"
-      },
-      "artists": [
-        {
-          "name": "Natalia Grosiak",
-          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
-        }
-      ],
-      "duration_ms": 211735,
-      "name": "Ostatnia piosenka o Tobie",
-      "url": "https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu"
-    },
-    {
-      "added_at": "2026-09-10 22:00:48",
-      "album": {
         "name": "Ja-Amosia",
         "url": "https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW"
       },
@@ -819,26 +803,18 @@
     {
       "added_at": "2026-09-10 22:00:48",
       "album": {
-        "name": "Nie musz\u0119 udawa\u0107",
-        "url": "https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW"
+        "name": "Ostatnia piosenka o Tobie",
+        "url": "https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd"
       },
       "artists": [
         {
-          "name": "Zuzia Ma\u0142aj",
-          "url": "https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L"
-        },
-        {
-          "name": "Tabb",
-          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
-        },
-        {
-          "name": "Krystian Piotrak",
-          "url": "https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf"
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
         }
       ],
-      "duration_ms": 146766,
-      "name": "Nie musz\u0119 udawa\u0107",
-      "url": "https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM"
+      "duration_ms": 211735,
+      "name": "Ostatnia piosenka o Tobie",
+      "url": "https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu"
     },
     {
       "added_at": "2026-09-10 22:00:48",
@@ -871,6 +847,30 @@
       "duration_ms": 177631,
       "name": "Co je\u015bli",
       "url": "https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh"
+    },
+    {
+      "added_at": "2026-09-10 22:00:48",
+      "album": {
+        "name": "Nie musz\u0119 udawa\u0107",
+        "url": "https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW"
+      },
+      "artists": [
+        {
+          "name": "Zuzia Ma\u0142aj",
+          "url": "https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        },
+        {
+          "name": "Krystian Piotrak",
+          "url": "https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf"
+        }
+      ],
+      "duration_ms": 146766,
+      "name": "Nie musz\u0119 udawa\u0107",
+      "url": "https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM"
     },
     {
       "added_at": "2026-09-10 22:00:48",

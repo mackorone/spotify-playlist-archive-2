@@ -476,10 +476,32 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
+    },
+    {
+      "album": {
+        "name": "Acid Nation",
+        "url": "https://open.spotify.com/album/7Efv1g56HWe1xuTk9x2qi0"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183552,
+      "name": "Acid Nation",
+      "url": "https://open.spotify.com/track/6LZXZdkvpJ1f2tDXc5jzIF"
     },
     {
       "album": {
@@ -1000,7 +1022,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 254304,
       "name": "Aqui",
       "url": "https://open.spotify.com/track/2hKn4NYmSqe2T0JbzclM6p"
@@ -8884,7 +8906,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173048,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6CGoaZLiqf6fSvTRGf7X9J"
@@ -10074,6 +10096,24 @@
     {
       "album": {
         "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/0tzrSvvSDgRMSqBTF171Xs"
+      },
+      "artists": [
+        {
+          "name": "Architactics",
+          "url": "https://open.spotify.com/artist/4yehQAGSt9xfbz0OE3UaJg"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180027,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/2QUc1xplL96Dnjnwx9izb5"
+    },
+    {
+      "album": {
+        "name": "Move Your Feet",
         "url": "https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM"
       },
       "artists": [
@@ -10700,7 +10740,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160413,
       "name": "No Love For Free",
       "url": "https://open.spotify.com/track/2CoVFRl4snLXszp6dNgLEN"
@@ -13988,7 +14028,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 214159,
       "name": "SPECIAL TOUCH",
       "url": "https://open.spotify.com/track/5NzIaKUHQRYBVfIkK8J9zX"
@@ -14472,6 +14512,28 @@
       "duration_ms": 215225,
       "name": "Sweet Disposition - Mashd N Kutcher Remix",
       "url": "https://open.spotify.com/track/3uPsJSn7gDfThRFLGXo81u"
+    },
+    {
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/0Ecjy29B7yjF2tpLwGe9xA"
+      },
+      "artists": [
+        {
+          "name": "Davyboi",
+          "url": "https://open.spotify.com/artist/6P4o2FYfdS5rI309RFzm9m"
+        },
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "System",
+      "url": "https://open.spotify.com/track/3pVz70xoeSaAVeTR7hqhGp"
     },
     {
       "album": {
@@ -15410,6 +15472,42 @@
       "duration_ms": 241548,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO"
+    },
+    {
+      "album": {
+        "name": "Pele De Mar",
+        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
+    },
+    {
+      "album": {
+        "name": "FIESTA EP",
+        "url": "https://open.spotify.com/album/0tAgbpVFL5QRoFxq0kUfau"
+      },
+      "artists": [
+        {
+          "name": "SUSKA",
+          "url": "https://open.spotify.com/artist/0EaFSYUoeUNIFoFtFgFMtl"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy"
     },
     {
       "album": {

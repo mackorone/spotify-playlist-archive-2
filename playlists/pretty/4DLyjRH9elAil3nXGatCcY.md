@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,572 likes - 594 songs - 1 day 14 hr 47 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,571 likes - 595 songs - 1 day 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -602,5 +602,6 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 592 | [新緑の巨人](https://open.spotify.com/track/4rzvUqOj7uapoqjJ9inVEZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [愛をあるだけ、すべて](https://open.spotify.com/album/1nkblBF6TXGOXe3AGOxbEO) | 4:49 |
 | 593 | [温度](https://open.spotify.com/track/5hBfJo3UqMsotAdODz47CK) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 2:44 |
 | 594 | [Leeloo](https://open.spotify.com/track/0gClZf1PIct2glwGN8LdD2) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Annihilation](https://open.spotify.com/album/3Rs3vGktWThcePuUgjmvxN) | 4:16 |
+| 595 | [Bulls on Parade \- triple j Like A Version](https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Bulls on Parade \(triple j Like A Version\)](https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf) | 4:29 |
 
-Snapshot ID: `AAABlZZjfO6O/lzR6kQBpY/DN1kQGFni`
+Snapshot ID: `AAABllDRIgi3N075PJh5eOUeoJpXzAbZ`

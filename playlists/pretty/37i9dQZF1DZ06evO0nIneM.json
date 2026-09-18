@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95713,
+  "num_followers": 95733,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAC+BnggzFf99KPsJpewmuI+",
+  "snapshot_id": "aqiKgAAAAABM3pqD74awaKDkeYgBgscE",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Omarm",
+      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Omarm",
-      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zo Van Ah Yeah",
-        "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Mannenharten",
-      "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Is Liefde",
         "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 294520,
       "name": "Hou Vol Hou Vast",
       "url": "https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zo Van Ah Yeah",
+        "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Mannenharten",
+      "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
     },
     {
       "added_at": null,
@@ -759,42 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We doen wat we kunnen (feat. Geike)",
-        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
-      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oktober",
         "url": "https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0"
       },
@@ -827,6 +791,42 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We doen wat we kunnen (feat. Geike)",
+        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
+      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
     },
     {
       "added_at": null,

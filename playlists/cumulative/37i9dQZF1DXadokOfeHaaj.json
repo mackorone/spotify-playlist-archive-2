@@ -10087,6 +10087,24 @@
     },
     {
       "album": {
+        "name": "ur so cool",
+        "url": "https://open.spotify.com/album/7Jf2OitdRK6vGBwAXoVU8s"
+      },
+      "artists": [
+        {
+          "name": "La La",
+          "url": "https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157997,
+      "name": "ur so cool",
+      "url": "https://open.spotify.com/track/7ePRg0Qbb1z6FfePSjcoMb"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
       },

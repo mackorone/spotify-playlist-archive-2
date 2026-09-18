@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e1s Com Quem?",
+        "url": "https://open.spotify.com/album/3hqiTeFRz5uI6AZdRbQExe"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "Est\u00e1s Com Quem?",
+      "url": "https://open.spotify.com/track/4aXxiSClwJLhIalFM3zeZM"
+    },
+    {
+      "album": {
         "name": "Eu Deixei",
         "url": "https://open.spotify.com/album/7HtM9TMo6vqHcwJZFKbSik"
       },
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 177500,
       "name": "Love You",
       "url": "https://open.spotify.com/track/4UGXHpeSlyTtIyCOv9UppH"

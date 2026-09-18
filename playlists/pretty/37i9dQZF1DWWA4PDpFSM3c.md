@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,647 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,688 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 30 | [O Cheli Thaara](https://open.spotify.com/track/6bPRGizJcgvsREfNI76hbm) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Sammohanam](https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2) | 4:47 |
 | 31 | [Naalo Maimarapu](https://open.spotify.com/track/2J66O8gYIqJy3YffPMV1eU) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Oh Baby](https://open.spotify.com/album/57ZKIhcW8ADGBb4aaDn7Fl) | 3:48 |
 | 32 | [Sonthamalle](https://open.spotify.com/track/7zYmURyFdqnRAbDJPBmEED) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Dheeraj D](https://open.spotify.com/artist/1TBNALzz4GPWJtzvgmsmSg), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Adveeteeya](https://open.spotify.com/artist/67ZFJZiuXvgUV36qNWAOAN) | [Lenin \(TELUGU\)](https://open.spotify.com/album/6dnZnJ97UtLiavyAj1RG5Y) | 2:12 |
-| 33 | [Happy Days](https://open.spotify.com/track/78XmLwf0cudyVaSbAhwhKu) | [Harshika](https://open.spotify.com/artist/4u5g2PZlAmQNgEs0gt8jHD), [Micky J.Meyer](https://open.spotify.com/artist/5X8nhiwO1lFtQKNKZGr7BF) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 3:50 |
-| 34 | [Bahusha Vo Chanchalaa](https://open.spotify.com/track/2GphUfrmDT8gKiiVBfZXBN) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Varudu](https://open.spotify.com/album/2Cdq5sn8NfDaB3kgIznsHF) | 6:13 |
+| 33 | [Bahusha Vo Chanchalaa](https://open.spotify.com/track/2GphUfrmDT8gKiiVBfZXBN) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Varudu](https://open.spotify.com/album/2Cdq5sn8NfDaB3kgIznsHF) | 6:13 |
+| 34 | [Happy Days](https://open.spotify.com/track/78XmLwf0cudyVaSbAhwhKu) | [Harshika](https://open.spotify.com/artist/4u5g2PZlAmQNgEs0gt8jHD), [Micky J.Meyer](https://open.spotify.com/artist/5X8nhiwO1lFtQKNKZGr7BF) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 3:50 |
 | 35 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 36 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 |
 | 37 | [Aapena Aagena](https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs) | [Prashanth R Vihari](https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq) | [SKYLAB](https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO) | 4:27 |

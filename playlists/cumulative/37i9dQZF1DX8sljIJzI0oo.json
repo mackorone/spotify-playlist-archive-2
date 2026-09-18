@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "YOSHI & Jesse Baez are bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
+  "description": "Dalex is bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
   "name": "Fuego",
   "tracks": [
     {
@@ -5091,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "ASTROMELIA",
+        "url": "https://open.spotify.com/album/23iVVLgX9LLUY8juVK2JWE"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193961,
+      "name": "ASTROMELIA",
+      "url": "https://open.spotify.com/track/7A20f6Mr0Gf8LocZusKIzC"
+    },
+    {
+      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -9653,6 +9671,24 @@
     },
     {
       "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa"
+    },
+    {
+      "album": {
         "name": "RealG4Life Vol. 4",
         "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
       },
@@ -10748,6 +10784,24 @@
       "duration_ms": 140874,
       "name": "Che Che",
       "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
+    },
+    {
+      "album": {
+        "name": "CHEFFA",
+        "url": "https://open.spotify.com/album/60RwE4Ke5Vnne6NgXWJtmw"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122315,
+      "name": "CHEFFA",
+      "url": "https://open.spotify.com/track/6uj0LD8QVIrTxzq40hgGoW"
     },
     {
       "album": {
@@ -12232,7 +12286,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208868,
       "name": "Completa",
       "url": "https://open.spotify.com/track/0IIegevJEqmfhchutF6KPy"
@@ -15538,6 +15592,28 @@
     {
       "album": {
         "name": "Detective",
+        "url": "https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ"
+      },
+      "artists": [
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165786,
+      "name": "Detective",
+      "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
+    },
+    {
+      "album": {
+        "name": "Detective",
         "url": "https://open.spotify.com/album/1oKYGo8iBWcpXD6eM3293t"
       },
       "artists": [
@@ -15804,7 +15880,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
@@ -16158,7 +16234,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 189026,
       "name": "Dime Baby",
       "url": "https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh"
@@ -20354,7 +20430,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185567,
       "name": "Es Triiste",
       "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
@@ -20524,7 +20600,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 148024,
       "name": "Ese Pe\u00f1on",
       "url": "https://open.spotify.com/track/15l4miPAqCo0WHESax75zg"
@@ -23495,6 +23571,28 @@
     },
     {
       "album": {
+        "name": "Fueras",
+        "url": "https://open.spotify.com/album/2DiWehGk5xDnDwWoXu2UA2"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Fueras",
+      "url": "https://open.spotify.com/track/07kpvMK3HaFs2eBfyWHTnw"
+    },
+    {
+      "album": {
         "name": "FULANITO",
         "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
@@ -23868,6 +23966,44 @@
       "duration_ms": 326746,
       "name": "GANAS REMIX",
       "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
+    },
+    {
+      "album": {
+        "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+        "url": "https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481955,
+      "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+      "url": "https://open.spotify.com/track/55knkuzL7hByREAumJcj3q"
     },
     {
       "album": {
@@ -36340,7 +36476,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 232200,
       "name": "MI BB",
       "url": "https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU"
@@ -39273,6 +39409,28 @@
     },
     {
       "album": {
+        "name": "neo roneo",
+        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166704,
+      "name": "neo roneo",
+      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
+    },
+    {
+      "album": {
         "name": "NETFLIX AND CHILL",
         "url": "https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR"
       },
@@ -41684,7 +41842,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 172866,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/7qBC4ZKuQnPDKyLFpnzrpO"
@@ -44046,7 +44204,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144000,
       "name": "Parka",
       "url": "https://open.spotify.com/track/5Eb7IOb6vFrSpFijpTr61B"
@@ -45702,6 +45860,24 @@
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
+    },
+    {
+      "album": {
+        "name": "PiKETUA",
+        "url": "https://open.spotify.com/album/6qrKaQNAGCSJwJF7jc1CE3"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "PiKETUA",
+      "url": "https://open.spotify.com/track/7mTrkyGJVUOSQIAHi08EX1"
     },
     {
       "album": {
@@ -51655,6 +51831,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/7xtQgvoHpB0JVCadeJHAFz"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "SATISFExXxO",
+      "url": "https://open.spotify.com/track/1Uc4BPi4PTGFDTHzCj8Nst"
+    },
+    {
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -52764,7 +52958,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 324000,
       "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
       "url": "https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE"

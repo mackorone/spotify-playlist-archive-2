@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Wilbert Ross",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: LEYO",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 164210,
       "name": "Atin Lang",
       "url": "https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD"
@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Bahagya",
+        "url": "https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245833,
+      "name": "Bahagya",
+      "url": "https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC"
+    },
+    {
+      "album": {
         "name": "baka bukas",
         "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
       },
@@ -2152,6 +2170,24 @@
       "duration_ms": 178225,
       "name": "Batang Ina",
       "url": "https://open.spotify.com/track/02seytlmOquWNejh1njGy9"
+    },
+    {
+      "album": {
+        "name": "Bawat Segundo",
+        "url": "https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M"
+      },
+      "artists": [
+        {
+          "name": "Kyle Raphael",
+          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251074,
+      "name": "Bawat Segundo",
+      "url": "https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp"
     },
     {
       "album": {
@@ -7729,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "Kalendaryo",
+        "url": "https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84"
+      },
+      "artists": [
+        {
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "Kalendaryo",
+      "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
+    },
+    {
+      "album": {
         "name": "Kalimutan Ka",
         "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
       },
@@ -8481,6 +8535,24 @@
     },
     {
       "album": {
+        "name": "Kumusta Ka Sinta",
+        "url": "https://open.spotify.com/album/4eDg24gUN9OJThIg0nfWpb"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229687,
+      "name": "Kumusta Ka Sinta",
+      "url": "https://open.spotify.com/track/2chNvlhOcSZtfgc4bBCoaa"
+    },
+    {
+      "album": {
         "name": "Kung Akin Ang Mundo",
         "url": "https://open.spotify.com/album/5uewl2UEDN0rwr53owlNrI"
       },
@@ -9058,7 +9130,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 204848,
       "name": "Lasang Seryoso",
       "url": "https://open.spotify.com/track/2t4x9AVN7boGiLX6ALLCqd"
@@ -10696,6 +10768,28 @@
       "duration_ms": 201409,
       "name": "Memory (feat. The Ridleys)",
       "url": "https://open.spotify.com/track/3uO5ZkTrkjrIN4Qj3j0Y9j"
+    },
+    {
+      "album": {
+        "name": "mental",
+        "url": "https://open.spotify.com/album/4l8DE5MkHImHcdCLIGnPS6"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        },
+        {
+          "name": "Cesca",
+          "url": "https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187848,
+      "name": "mental",
+      "url": "https://open.spotify.com/track/2HMrqM89l6hFM5TN06TiaI"
     },
     {
       "album": {
@@ -12704,7 +12798,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 172800,
       "name": "Pacman",
       "url": "https://open.spotify.com/track/30AuoudIXCLOcslwVi9zBD"
@@ -15418,7 +15512,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 230517,
       "name": "Sabi Mo",
       "url": "https://open.spotify.com/track/2RTpWOP2nBWs7524WBhyAs"
@@ -16922,7 +17016,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 162600,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sleep Token. The essential tracks, all in one playlist.",
-  "num_followers": 406495,
+  "num_followers": 406574,
   "original_name": "This Is Sleep Token",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAACNgZ2gjinLIF0EigquKc+A",
+  "snapshot_id": "aqiKgAAAAAD2lvuVje1SZhnTsGYGACCB",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 268159,
-      "name": "The Apparition",
-      "url": "https://open.spotify.com/track/21eMasL93nEafqRwlI851z"
+      "duration_ms": 500116,
+      "name": "Take Me Back To Eden",
+      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 500116,
-      "name": "Take Me Back To Eden",
-      "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ"
+      "duration_ms": 268159,
+      "name": "The Apparition",
+      "url": "https://open.spotify.com/track/21eMasL93nEafqRwlI851z"
     },
     {
       "added_at": null,

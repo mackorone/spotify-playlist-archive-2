@@ -1459,6 +1459,36 @@
     },
     {
       "album": {
+        "name": "John Williams: Theme from Schindler's List (Version for Cello & Orchestra)",
+        "url": "https://open.spotify.com/album/0BxHXHPi1hJcTdRyA671RM"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Theme from Schindler's List (Version for Cello & Orchestra)",
+      "url": "https://open.spotify.com/track/1EKHda5fv4MTklabWigvCs"
+    },
+    {
+      "album": {
         "name": "Superman: The Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Grand Corps Malade.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161960,
       "name": "Encore un peu",
       "url": "https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208559,
       "name": "J\u2019en ai pas encore fini",
       "url": "https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr"
@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Le monde ne tourne pas rond",
+        "url": "https://open.spotify.com/album/6zDWvufmQNmctqjqLCrSTO"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "Le monde ne tourne pas rond",
+      "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
+    },
+    {
+      "album": {
         "name": "Le mur",
         "url": "https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG"
       },
@@ -3380,6 +3398,24 @@
       "duration_ms": 129000,
       "name": "Le Petit P\u00eacheur",
       "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
+    },
+    {
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
     },
     {
       "album": {
@@ -4015,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Les rues de l'humanit\u00e9",
+        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280120,
+      "name": "Les rues de l'humanit\u00e9",
+      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
+    },
+    {
+      "album": {
         "name": "Les tours d'horloge",
         "url": "https://open.spotify.com/album/6S455vueaUSjsktIQgovkK"
       },
@@ -4348,6 +4402,24 @@
       "duration_ms": 207000,
       "name": "mayday",
       "url": "https://open.spotify.com/track/1b5t2zmmKtMUIecVdg61Vb"
+    },
+    {
+      "album": {
+        "name": "Voir la mer",
+        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205383,
+      "name": "Mes doutes avec toi",
+      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
     },
     {
       "album": {
@@ -5560,7 +5632,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183094,
       "name": "s'aimer",
       "url": "https://open.spotify.com/track/5MtzQdms0nwb3OiQlb2kVw"
@@ -6568,7 +6640,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 100666,
       "name": "wow",
       "url": "https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp"

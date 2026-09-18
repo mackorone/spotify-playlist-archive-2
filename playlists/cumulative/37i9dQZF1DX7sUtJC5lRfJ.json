@@ -135,6 +135,36 @@
     },
     {
       "album": {
+        "name": "C\u00d4NG DI\u1ec4N 3 (Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2026)",
+        "url": "https://open.spotify.com/album/1VNHcEIrtoJLMkvxDFGR1X"
+      },
+      "artists": [
+        {
+          "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai",
+          "url": "https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv"
+        },
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT"
+        },
+        {
+          "name": "CHARLES.",
+          "url": "https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/78rBGzdAWnOIoOuZqFaZFi"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260780,
+      "name": "BU\u1ed2N TH\u00cc C\u1ee8 KH\u00d3C \u0110I",
+      "url": "https://open.spotify.com/track/2q8U7DYs3tzTXBxawfaMgD"
+    },
+    {
+      "album": {
         "name": "B\u00e0i Ca Em Vi\u1ebft (feat. Hustlang Robber)",
         "url": "https://open.spotify.com/album/76bEkP3pNdvS2KBPbloqBC"
       },
@@ -434,7 +464,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 205596,
       "name": "DANCING AMONG THE STARS",
       "url": "https://open.spotify.com/track/0NNWELHdIvPGh4Ds3N705t"
@@ -539,6 +569,44 @@
     },
     {
       "album": {
+        "name": "C\u00d4NG DI\u1ec4N 4 (Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2026)",
+        "url": "https://open.spotify.com/album/3Bx1gAKkQPn4Xr9xBM1qq9"
+      },
+      "artists": [
+        {
+          "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai",
+          "url": "https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv"
+        },
+        {
+          "name": "\u0110\u00f4ng H\u00f9ng",
+          "url": "https://open.spotify.com/artist/3rE7dnzIO7uTWTfDUbQU5o"
+        },
+        {
+          "name": "Thu\u1eadn Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/50yflUxOsoV6d6zjLdHWUq"
+        },
+        {
+          "name": "Toki Th\u00e0nh Th\u1ecf",
+          "url": "https://open.spotify.com/artist/5NA9Wy8F0KNT9mxCSto99c"
+        },
+        {
+          "name": "Cheng",
+          "url": "https://open.spotify.com/artist/0MNKLsBMKa5KGShgrWgE3B"
+        },
+        {
+          "name": "H\u00e0 An Huy",
+          "url": "https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277158,
+      "name": "GI\u1eccT BU\u1ed2N \u0110\u1ec2 L\u1ea0I",
+      "url": "https://open.spotify.com/track/5mnpSgGCf1NnizY8Gv6A5w"
+    },
+    {
+      "album": {
         "name": "How Have You Been? (Ch\u1ecdn G\u00ec? Ch\u1ecdn \u0110I! Version)",
         "url": "https://open.spotify.com/album/1h1o57CXQe8iA9mTCtNbA7"
       },
@@ -580,7 +648,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 237525,
       "name": "H\u1ecdc C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/3BrA5d8ws4ye5jr5vtJI22"
@@ -808,10 +876,28 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 302997,
       "name": "L\u1ea7n N\u00e0y Anh Bu\u00f4ng",
       "url": "https://open.spotify.com/track/2ztGQMgFRzsMDdP20cAayq"
+    },
+    {
+      "album": {
+        "name": "L\u1eddi C\u1ea3nh B\u00e1o",
+        "url": "https://open.spotify.com/album/40K0pVHpicEoNeoxR2Cstu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Nhi",
+          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223848,
+      "name": "L\u1eddi C\u1ea3nh B\u00e1o",
+      "url": "https://open.spotify.com/track/4IvB2Yu0A2HMngej8aSuW5"
     },
     {
       "album": {
@@ -914,7 +1000,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182681,
       "name": "M\u00f9a \u0110\u00f4ng Kh\u00f4ng L\u1ea1nh - Ch\u1ecdn G\u00ec? Ch\u1ecdn \u0110I! Version",
       "url": "https://open.spotify.com/track/4mOAUkATsQXnskxDJOXWCL"
@@ -954,7 +1040,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196744,
       "name": "m\u1edbi h\u00f4m qua",
       "url": "https://open.spotify.com/track/1ZjICQJECU0rO8Vf6AOVbv"
@@ -1063,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "N\u00f3i Cho Anh Nghe (feat. Chi X\u00ea)",
+        "url": "https://open.spotify.com/album/2czKWJZHbQocH6wNoPOIJU"
+      },
+      "artists": [
+        {
+          "name": "Truant Fu",
+          "url": "https://open.spotify.com/artist/59ZFr32z5JkuNsVkB2KCPb"
+        },
+        {
+          "name": "Chi X\u00ea",
+          "url": "https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "N\u00f3i Cho Anh Nghe (feat. Chi X\u00ea)",
+      "url": "https://open.spotify.com/track/7908yltwq4c9TZ0RpmsBCF"
+    },
+    {
+      "album": {
         "name": "N\u1eafng D\u01b0\u1edbi Ch\u00e2n M\u00e2y",
         "url": "https://open.spotify.com/album/1qMStQGlAbYWFgXcGK4oBH"
       },
@@ -1074,7 +1182,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 219321,
       "name": "N\u1eafng D\u01b0\u1edbi Ch\u00e2n M\u00e2y",
       "url": "https://open.spotify.com/track/0rpypmIyrvM4ORUt8SYSdP"
@@ -1172,6 +1280,28 @@
       "duration_ms": 161629,
       "name": "SHINE",
       "url": "https://open.spotify.com/track/4ZKaAEohUMxGpsQNrw7Twp"
+    },
+    {
+      "album": {
+        "name": "Steppa",
+        "url": "https://open.spotify.com/album/3vFEAfKuw7FCeU96AFUCss"
+      },
+      "artists": [
+        {
+          "name": "16 Typh",
+          "url": "https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh"
+        },
+        {
+          "name": "Youngun",
+          "url": "https://open.spotify.com/artist/4kHGCMPHuU39F8EL9hjpRK"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "Steppa",
+      "url": "https://open.spotify.com/track/4CXAWKWJYgq1KsN6Vrpdpl"
     },
     {
       "album": {
@@ -1299,6 +1429,44 @@
     },
     {
       "album": {
+        "name": "C\u00d4NG DI\u1ec4N 4 (Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2026)",
+        "url": "https://open.spotify.com/album/3Bx1gAKkQPn4Xr9xBM1qq9"
+      },
+      "artists": [
+        {
+          "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai",
+          "url": "https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv"
+        },
+        {
+          "name": "JGKiD (Da LAB)",
+          "url": "https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD"
+        },
+        {
+          "name": "Ho\u00e0ng T\u00f4n",
+          "url": "https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f"
+        },
+        {
+          "name": "CHARLES.",
+          "url": "https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV"
+        },
+        {
+          "name": "H\u1ed3 \u0110\u00f4ng Quan",
+          "url": "https://open.spotify.com/artist/29odnaxmCx4mwOKL4mjEFL"
+        },
+        {
+          "name": "Th\u00e1i L\u00ea Minh Hi\u1ebfu",
+          "url": "https://open.spotify.com/artist/06poxdxQLKoN1WqCvk4qcP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "V\u00d9NG X\u00c1M",
+      "url": "https://open.spotify.com/track/3DAo9O8MsT04Pwb7DNg7ls"
+    },
+    {
+      "album": {
         "name": "Khi M\u00e0",
         "url": "https://open.spotify.com/album/5q9IVIGjnxvkRcbYslJQaK"
       },
@@ -1310,7 +1478,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 212045,
       "name": "V\u1eabn V\u1eady",
       "url": "https://open.spotify.com/track/3V0Mgbt72iaI55ywTOXT83"
@@ -1362,7 +1530,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 360276,
       "name": "XA",
       "url": "https://open.spotify.com/track/0AuDbpxtBCanODi3dhB7rU"

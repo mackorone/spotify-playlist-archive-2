@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21883,
+  "num_followers": 21891,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mj4PgAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mj9eqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-09-11 14:05:46",
@@ -176,7 +176,7 @@
       "added_at": "2026-09-11 14:05:46",
       "album": {
         "name": "So Good",
-        "url": "https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV"
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
@@ -186,7 +186,7 @@
       ],
       "duration_ms": 200646,
       "name": "Lush Life",
-      "url": "https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93"
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-09-11 14:05:46",
@@ -344,7 +344,7 @@
       "added_at": "2026-09-11 14:05:46",
       "album": {
         "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },
       "artists": [
         {
@@ -354,7 +354,7 @@
       ],
       "duration_ms": 198425,
       "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
       "added_at": "2026-09-11 14:05:46",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-09-11 14:05:46",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
@@ -858,7 +858,7 @@
       ],
       "duration_ms": 244360,
       "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     }
   ],
   "unique_name": "Top Songs - Belgium",

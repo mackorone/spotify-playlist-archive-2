@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Nachtdienst & Amelie 🔥
 
-228 songs - 10 hr 14 min
+229 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 | 2026-08-13 |  |
 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 | 2025-08-28 | 2025-11-25 |
 | [Sneuvelnation](https://open.spotify.com/track/0z0aaDPZewba8t48p2zt9A) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sneuvelnation](https://open.spotify.com/album/6OMovJWgCIvOQWdGvOUm9q) | 2:25 | 2026-01-29 |  |
-| [Sowieso](https://open.spotify.com/track/2MgSeakgxAnlkzoQvrPBSG) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Sowieso](https://open.spotify.com/album/3k2JdxBB85PyWdD7mgdkaM) | 2:28 | 2026-08-27 |  |
+| [Sowieso](https://open.spotify.com/track/2MgSeakgxAnlkzoQvrPBSG) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Sowieso](https://open.spotify.com/album/3k2JdxBB85PyWdD7mgdkaM) | 2:28 | 2026-08-27 | 2026-09-18 |
 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 | 2025-10-30 | 2026-08-21 |
 | [Spring](https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [Spring](https://open.spotify.com/album/6Il7QV7psvsviOrcosXM0J) | 2:35 | 2026-05-21 |  |
 | [Stiekem Gedanst](https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Stiekem Dansen](https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci) | 3:34 | 2026-01-13 |  |
@@ -202,6 +202,7 @@
 | [Theetje](https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Theetje](https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR) | 2:35 | 2026-05-28 | 2026-09-05 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-17 | 2026-01-16 |
 | [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 | 2026-01-13 | 2026-05-08 |
+| [Tony Montana](https://open.spotify.com/track/2ROoZSN30VTNKpAR0TVva2) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Luca Ferron](https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0) | [Tony Montana](https://open.spotify.com/album/3NoVsXS2KNdSsO98EZ0Lkg) | 2:12 | 2026-09-17 |  |
 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-20 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-16 |  |
 | [Tropical Mami](https://open.spotify.com/track/6DlTkjyvBLrQVHnTJnwqMU) | [Noise Cartel](https://open.spotify.com/artist/5yDz8X7IIvH7PheEXbo3VN), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Tropical Mami](https://open.spotify.com/album/5yL59VsRdLb1gIWR6qaY2b) | 2:13 | 2025-07-17 | 2025-10-08 |

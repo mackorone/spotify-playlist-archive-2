@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Interferencias.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Alcal\u00e1 Norte.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Y Todo Este Futuro",
+        "url": "https://open.spotify.com/album/3B657fzKkqcKX7l3yR0wQ2"
+      },
+      "artists": [
+        {
+          "name": "For Your Information",
+          "url": "https://open.spotify.com/artist/4RUCfsKZRI6fbG14biFCQ9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147788,
+      "name": "Algo Inesperado",
+      "url": "https://open.spotify.com/track/2VCKbcZIXJ99qY1anobrQu"
+    },
+    {
+      "album": {
         "name": "Alguien (quien sea)",
         "url": "https://open.spotify.com/album/7w9y1bBWSWv1y1BJmEuXM4"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 156073,
       "name": "AURA",
       "url": "https://open.spotify.com/track/4DRqeEke8KlH8FU1J3DyCd"
@@ -1591,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Bienvenidos a Mi Funeral",
+        "url": "https://open.spotify.com/album/4KP0kz41jRjqfcOxwCpOmU"
+      },
+      "artists": [
+        {
+          "name": "Uve Sad",
+          "url": "https://open.spotify.com/artist/3YztuWLKKlCrO4pgU7RP7I"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111910,
+      "name": "Bienvenidos a Mi Funeral",
+      "url": "https://open.spotify.com/track/3W80KOwnrkZFBelqtjZVDf"
+    },
+    {
+      "album": {
         "name": "Bigger Splash",
         "url": "https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6"
       },
@@ -1974,7 +2010,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 228331,
       "name": "Castillos en el aire",
       "url": "https://open.spotify.com/track/1R6kbvoIKeO3bhVR94Qj5u"
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182557,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/4rW2A2t5zyaHRplgDFMmfr"
@@ -3635,6 +3671,28 @@
     },
     {
       "album": {
+        "name": "Echarte de menos",
+        "url": "https://open.spotify.com/album/2k43E2Vo3uWGtx78MRwlOM"
+      },
+      "artists": [
+        {
+          "name": "The Crab Apples",
+          "url": "https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180608,
+      "name": "Echarte de menos",
+      "url": "https://open.spotify.com/track/7ADmrw5JS8iiEHSxS0Aqx3"
+    },
+    {
+      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -3852,6 +3910,24 @@
       "duration_ms": 257601,
       "name": "El d\u00eda no me da con Shego",
       "url": "https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5"
+    },
+    {
+      "album": {
+        "name": "El Endemoniao",
+        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214537,
+      "name": "El Endemoniao",
+      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
     },
     {
       "album": {
@@ -4560,7 +4636,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182783,
       "name": "Estado mental",
       "url": "https://open.spotify.com/track/6UhTnqj4EWl3eE9vvV7EJF"
@@ -5548,7 +5624,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 366842,
       "name": "Hacerlo Contigo",
       "url": "https://open.spotify.com/track/0v2nTFDy7WbkWyNRWFCk8L"
@@ -5960,6 +6036,24 @@
       "duration_ms": 204154,
       "name": "Imaginaci\u00f3n pol\u00edtica",
       "url": "https://open.spotify.com/track/6wG01AZ6GnIEPNd1s9VBh8"
+    },
+    {
+      "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/5hipqZ689gEPQ0OYBFEUAy"
+      },
+      "artists": [
+        {
+          "name": "Nadie Pat\u00edn",
+          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185537,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/5E0cuMcQlX39Dugg57D4Ei"
     },
     {
       "album": {
@@ -7108,6 +7202,28 @@
       "duration_ms": 222789,
       "name": "LIMFJORDEN",
       "url": "https://open.spotify.com/track/3th1pOknv0ULG3uCMi2ogJ"
+    },
+    {
+      "album": {
+        "name": "Llama al 900",
+        "url": "https://open.spotify.com/album/7Kudl6ofZ63CqaolY8NtFY"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        },
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190057,
+      "name": "Llama al 900",
+      "url": "https://open.spotify.com/track/6ZClO773a99Su0wFrSGrby"
     },
     {
       "album": {
@@ -9988,7 +10104,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 238577,
       "name": "Paracadistas en la playa",
       "url": "https://open.spotify.com/track/0fclGUBSnevscClrYBB7Ij"
@@ -10370,7 +10486,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166170,
       "name": "Perfumes",
       "url": "https://open.spotify.com/track/0WcKCKqAyUP0TWcAc2PwIv"
@@ -10894,6 +11010,24 @@
       "duration_ms": 169453,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
+    },
+    {
+      "album": {
+        "name": "Quiero tekno",
+        "url": "https://open.spotify.com/album/3iR03VQhRy76Wc7DHw5Xb4"
+      },
+      "artists": [
+        {
+          "name": "Alison Darwin",
+          "url": "https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159475,
+      "name": "Quiero tekno",
+      "url": "https://open.spotify.com/track/4HPFN18BIJWtYUD3Mg6odx"
     },
     {
       "album": {
@@ -13033,6 +13167,24 @@
     },
     {
       "album": {
+        "name": "Sinapsis",
+        "url": "https://open.spotify.com/album/1ODRUWz80PD1gKfHP3t5MV"
+      },
+      "artists": [
+        {
+          "name": "Diagn\u00f3stico Binario",
+          "url": "https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK"
+    },
+    {
+      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1"
       },
@@ -13158,7 +13310,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185177,
       "name": "TRUE CRIME",
       "url": "https://open.spotify.com/track/5Pod3AHUwpM9FpTsb8UKT7"

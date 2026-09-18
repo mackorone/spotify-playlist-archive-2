@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/349031">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,306 likes - 84 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,303 likes - 84 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [My Spirit Is Reggie](https://open.spotify.com/track/66RqXP3FkVSoDS9m6w8bjV) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [My Spirit Is Reggie](https://open.spotify.com/album/7EBqSTaXdU2jDIu6oWxSQD) | 3:12 |
 | 70 | [宴](https://open.spotify.com/track/6CwabbKR1wDnR6a19mqDKe) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [宴](https://open.spotify.com/album/75TreCqhHzsDPDgN1bk9qe) | 3:31 |
 | 71 | [アジパンダハニカンダ](https://open.spotify.com/track/3AmCgRqY4rcy4scTpV1GtV) | [ダダっこ](https://open.spotify.com/artist/3bqeaCTqtDo3BCWNaEYnRy) | [アジパンダハニカンダ](https://open.spotify.com/album/4mM6lSiGBKj0Mi2ML8wwGF) | 3:42 |
-| 72 | [Zombie In Love](https://open.spotify.com/track/09dkXtS3cynKZ4GGEt9Xqw) | [HOKUTO](https://open.spotify.com/artist/3y0HEuVsfMoV91uezWqv5P), [鈴木愛理](https://open.spotify.com/artist/18GyfVJw5m5SAl3UcsKcXK) | [Zombie In Love](https://open.spotify.com/album/2VT2mYjWi8fp7ZxvaJ2x1v) | 3:06 |
+| 72 | [Zombie In Love](https://open.spotify.com/track/09dkXtS3cynKZ4GGEt9Xqw) | [HOKUTO](https://open.spotify.com/artist/3y0HEuVsfMoV91uezWqv5P), [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [Zombie In Love](https://open.spotify.com/album/2VT2mYjWi8fp7ZxvaJ2x1v) | 3:06 |
 | 73 | [Over Drive](https://open.spotify.com/track/1nZOXYyr6LKv7YrxWVBpmc) | [TEAM KAWAII LAB.](https://open.spotify.com/artist/4KVn7ARJsrDRdaolpBPAbg), [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV), [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA), [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i), [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ), [MORE STAR](https://open.spotify.com/artist/573r1p29tKPr2KNUNZkPww) | [Over Drive](https://open.spotify.com/album/1zkrJEfgmDWtND4V8D9uuS) | 3:33 |
 | 74 | [どうして](https://open.spotify.com/track/77JWvYSsCCS7CWuVMZBvVN) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [どうして](https://open.spotify.com/album/5MGidnxMOlKn4IhJh0E4M2) | 3:16 |
 | 75 | [恋するなんて](https://open.spotify.com/track/0vHMlCH7GVy4EnxeIWrMR7) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [恋するなんて](https://open.spotify.com/album/47LnEG4XdzKTa0qSGyFXoo) | 3:08 |

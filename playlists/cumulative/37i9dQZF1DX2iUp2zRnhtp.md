@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-711 songs - 1 day 11 hr 22 min
+717 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-06-27 | 2024-09-20 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-05-15 |  |
 | [Lett for meg](https://open.spotify.com/track/3BkJXwvn2LV3qhhJAxip4e) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Elsker Metropolen](https://open.spotify.com/album/24W4gJDA6CKVXp3SO0GOXp) | 2:18 | 2025-09-12 | 2025-11-28 |
+| [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-17 |  |
 | [Leve](https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Leve](https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG) | 2:09 | 2025-03-20 |  |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-08 | 2024-11-22 |
 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 | 2025-08-21 |  |
@@ -467,7 +468,9 @@
 | [okei ja](https://open.spotify.com/track/2rLehDBN3sbmbd6TkgZBl3) | [elskede](https://open.spotify.com/artist/5gm7aU54du1muztZL30COr) | [okei ja](https://open.spotify.com/album/7ul2kxcGtWSSdF4qFeIKJG) | 3:45 | 2026-06-25 |  |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
 | [Olé, Olé, Olé \(Det Går Ned\)](https://open.spotify.com/track/4VY17vIWTYqCGxRqGSUW99) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Olé, Olé, Olé \(Det Går Ned\)](https://open.spotify.com/album/2LMh7xESdJd4kzcxaoc0SS) | 2:54 | 2026-05-28 |  |
+| [OM IGJEN](https://open.spotify.com/track/0bG1hZxrGrKuehWHJt5PBY) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP), [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [OM IGJEN](https://open.spotify.com/album/3yL5H1jduQqyAbjne0LAfM) | 2:16 | 2026-09-17 |  |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 |  |
+| [On my way](https://open.spotify.com/track/0ng7JVEajDAc4oYzs2yqFY) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [On my way](https://open.spotify.com/album/3gyuPxLIDxfIGjEw4eFwjy) | 2:46 | 2026-09-17 |  |
 | [On One](https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [On One](https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY) | 2:43 | 2025-08-14 | 2025-09-19 |
 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 | 2026-01-22 |  |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 |  |
@@ -479,7 +482,9 @@
 | [Oslo](https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Oslo](https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH) | 2:31 | 2025-09-12 |  |
 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-06 | 2025-11-28 |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-06-27 | 2025-03-08 |
+| [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 | 2026-09-17 |  |
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-04 |  |
+| [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 | 2026-09-17 |  |
 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2025-03-28 |  |
 | [Piece of Me](https://open.spotify.com/track/2fK8c5T8vXoO7BidKZxBBO) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Piece of Me](https://open.spotify.com/album/3EGEQruQWbcXlUPlkPWhOQ) | 2:32 | 2025-08-14 |  |
 | [Plaster \(Capetown\)](https://open.spotify.com/track/1VSoF8alH1Z9hGw8oUKAjX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Plaster \(Capetown\)](https://open.spotify.com/album/5kifSxHnHof86Kj6sJSpe7) | 2:21 | 2026-06-25 |  |
@@ -497,6 +502,7 @@
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-04-30 |  |
 | [Propaganda](https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ) | [Briskeby](https://open.spotify.com/artist/0vwcghB4GeosdKQs0SOizP), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Propaganda](https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b) | 3:13 | 2025-09-26 |  |
 | [PRTY](https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [PRTY](https://open.spotify.com/album/6sQANND4JzoOmXQ9Ymq7Yy) | 2:07 | 2025-04-30 | 2025-05-23 |
+| [Puslespill](https://open.spotify.com/track/3jUw91rrOGSB0v3IZpBz0q) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Puslespill \- del 1](https://open.spotify.com/album/4DeZzK0CQKJgdmLXaWgCTr) | 3:49 | 2026-09-17 |  |
 | [Pust i bakken](https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Pust i bakken](https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr) | 2:43 | 2025-10-16 | 2026-03-13 |
 | [Queen Almighty](https://open.spotify.com/track/02lbmeB6aYDG280IiTQ8gq) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen Almighty](https://open.spotify.com/album/5NoLKUYUKQQBOTf26E6U0K) | 2:46 | 2025-09-26 | 2026-03-13 |
 | [Questions](https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:07 | 2026-05-21 |  |

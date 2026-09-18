@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : SDM",
+  "description": "Photo : Timal",
   "name": "Best Life",
   "tracks": [
     {
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136049,
       "name": "CROCHET",
       "url": "https://open.spotify.com/track/7CktqTmEnenokpOgExGgDD"
@@ -3808,6 +3808,28 @@
       "duration_ms": 185677,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/0LJT3T6VxrWrSY5o1MGwUo"
+    },
+    {
+      "album": {
+        "name": "Nayte | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0g8lAAMUeGMuNbluBJi0u0"
+      },
+      "artists": [
+        {
+          "name": "Nayte",
+          "url": "https://open.spotify.com/artist/50m4JeiAg5aCt3kKRsKw7T"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158458,
+      "name": "Dis-moi - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/0Zq4kjz9AWHeFeMw358s2c"
     },
     {
       "album": {
@@ -4860,7 +4882,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 139354,
       "name": "GOGOWINE",
       "url": "https://open.spotify.com/track/3Q28tA9fHvAkDifcORBi7T"
@@ -5686,7 +5708,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 176962,
       "name": "Khalele",
       "url": "https://open.spotify.com/track/1ZTDyY1NArET01dD5uikC3"
@@ -8774,7 +8796,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 108576,
       "name": "PAS COMME LES AUTRES",
       "url": "https://open.spotify.com/track/7IhB9WKWuEISgm34K2R9no"
@@ -8800,6 +8822,28 @@
       "duration_ms": 137640,
       "name": "Pas d'ralentir",
       "url": "https://open.spotify.com/track/5uROWvo0OIQTWktn6vkZTe"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pas Jalouse",
+      "url": "https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG"
     },
     {
       "album": {
@@ -10924,6 +10968,24 @@
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
+    {
+      "album": {
+        "name": "Sponsor",
+        "url": "https://open.spotify.com/album/40ygXfAn1eeUBqFYm4uml5"
+      },
+      "artists": [
+        {
+          "name": "Skima",
+          "url": "https://open.spotify.com/artist/5r2YHdPg2immGqpgMbA3ov"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Sponsor",
+      "url": "https://open.spotify.com/track/2eFdz9mNw2D2SrZDDcD4sm"
     },
     {
       "album": {

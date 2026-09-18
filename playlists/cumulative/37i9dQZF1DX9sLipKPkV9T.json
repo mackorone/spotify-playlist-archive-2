@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171533,
       "name": "\u05d0\u05d9\u05e9\u05d4 \u05d0\u05d9\u05d9\u05e7\u05d5\u05e0\u05d9\u05ea",
       "url": "https://open.spotify.com/track/38708giS6XxqOQ2b6SocVB"
@@ -4720,6 +4720,24 @@
       "duration_ms": 236266,
       "name": "\u05d3\u05d9",
       "url": "https://open.spotify.com/track/1gBpxZfkiD8TSqAigvHkhW"
+    },
+    {
+      "album": {
+        "name": "\u05d3\u05d9\u05e0\u05d2 \u05d3\u05d5\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/6YenJ35K0J99s9ozvxPxx5"
+      },
+      "artists": [
+        {
+          "name": "Eyal Levi",
+          "url": "https://open.spotify.com/artist/1jsjCWnOybmOLWb2R0PhMa"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "\u05d3\u05d9\u05e0\u05d2 \u05d3\u05d5\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/6UYzVhpjQmjObqAeGnPBwN"
     },
     {
       "album": {
@@ -9725,6 +9743,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d7\u05db\u05d4 + \u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4 (\u05de\u05ea\u05d5\u05da \u05d7\u05d6\u05e8\u05d5\u05ea \u05dc\u05de\u05d5\u05e4\u05e2 NEXT)",
+        "url": "https://open.spotify.com/album/6YVRY6TjvjHU7K39y6p9em"
+      },
+      "artists": [
+        {
+          "name": "Rita",
+          "url": "https://open.spotify.com/artist/5pHxqQIoEFTV7nyZPHZtOE"
+        },
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321553,
+      "name": "\u05de\u05d7\u05db\u05d4 + \u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4 - \u05de\u05ea\u05d5\u05da \u05d7\u05d6\u05e8\u05d5\u05ea \u05dc\u05de\u05d5\u05e4\u05e2 NEXT",
+      "url": "https://open.spotify.com/track/3OHlQBGP05iAhv5I0op1Hn"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d7\u05db\u05d4 \u05dc\u05e0\u05e1",
         "url": "https://open.spotify.com/album/4Wb3f7FCYLFezTaUNlwpqX"
       },
@@ -10228,7 +10268,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 138333,
       "name": "\u05de\u05e2\u05d5\u05dc\u05d4",
       "url": "https://open.spotify.com/track/0PaMbatBc05d9lBMzOgG3Q"

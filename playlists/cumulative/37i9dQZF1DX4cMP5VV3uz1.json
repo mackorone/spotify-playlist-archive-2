@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 243921,
       "name": "Barbera 2026",
       "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211885,
       "name": "CHARGIE - Rendah Edit",
       "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 201379,
       "name": "Detrimental",
       "url": "https://open.spotify.com/track/51KpGM5O4gfSuU0xH7db5K"
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 191724,
       "name": "Disrupt The Dancefloor",
       "url": "https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ"
@@ -3474,7 +3474,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 133714,
       "name": "Do This",
       "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
@@ -4161,6 +4161,28 @@
     },
     {
       "album": {
+        "name": "Essa Ta Quente (feat. Skrillex)",
+        "url": "https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166270,
+      "name": "Essa Ta Quente (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4"
+    },
+    {
+      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -4242,7 +4264,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 219428,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b"
@@ -4702,6 +4724,24 @@
       "duration_ms": 224914,
       "name": "Foreshadow",
       "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266742,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
     },
     {
       "album": {
@@ -5597,6 +5637,28 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6erJLTgEFvdlnLocTQ5iBg"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204342,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
+    },
+    {
+      "album": {
         "name": "Greatness",
         "url": "https://open.spotify.com/album/2pkUb6vBjL1Vsie7FgHYsI"
       },
@@ -5734,6 +5796,24 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
+    },
+    {
+      "album": {
+        "name": "Haikyo",
+        "url": "https://open.spotify.com/album/5OyANYoISRsIV9AV7NfokZ"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Haikyo",
+      "url": "https://open.spotify.com/track/6qSFTOezPOJPIAxupNqNqr"
     },
     {
       "album": {
@@ -6086,7 +6166,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 192857,
       "name": "Hold It Down",
       "url": "https://open.spotify.com/track/6PLIpSkUhvggHJb4vzeHUa"
@@ -7300,7 +7380,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161641,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
@@ -8573,6 +8653,28 @@
     },
     {
       "album": {
+        "name": "Nakal (ft. Eka)",
+        "url": "https://open.spotify.com/album/0go7h69yCkDkdQ2YMDIuQV"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Nakal (ft. Eka)",
+      "url": "https://open.spotify.com/track/5dyOP4LozmybQl2hgGQMdx"
+    },
+    {
+      "album": {
         "name": "Nan Slapper",
         "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
       },
@@ -8944,7 +9046,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182400,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1nzrn3dEF8dculJzZeXcy1"
@@ -11374,7 +11476,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161413,
       "name": "Run The Track",
       "url": "https://open.spotify.com/track/2wCmgp46u0jaUgVccieNRF"
@@ -11757,6 +11859,24 @@
     },
     {
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/2BJWf56WWnTfxfP4xCiTup"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183297,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0ZtsqqqeOWnqpYIs5ncQSe"
+    },
+    {
+      "album": {
         "name": "Shake the Foundations",
         "url": "https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0"
       },
@@ -12035,6 +12155,28 @@
     },
     {
       "album": {
+        "name": "SKULL",
+        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195899,
+      "name": "SKULL",
+      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
+    },
+    {
+      "album": {
         "name": "Sliding",
         "url": "https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT"
       },
@@ -12246,7 +12388,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 206000,
       "name": "Soundboy Burial",
       "url": "https://open.spotify.com/track/6lmaLUzNdzX51vTs6jWEfn"
@@ -12480,6 +12622,28 @@
       "duration_ms": 252342,
       "name": "Spire",
       "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
+    },
+    {
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334138,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
     },
     {
       "album": {
@@ -13535,6 +13699,24 @@
     },
     {
       "album": {
+        "name": "Tha Beat",
+        "url": "https://open.spotify.com/album/2GAdVytpUlKBEP2wn3BfsC"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Tha Beat",
+      "url": "https://open.spotify.com/track/7s4E0ngx0GKhgq938N0HEH"
+    },
+    {
+      "album": {
         "name": "Cycles - EP",
         "url": "https://open.spotify.com/album/2kQVhOFontH1iAcihiTJ1E"
       },
@@ -14000,6 +14182,28 @@
       "duration_ms": 178971,
       "name": "Told You (Soundboy)",
       "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
+    },
+    {
+      "album": {
+        "name": "Top Of My Game",
+        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192514,
+      "name": "Top Of My Game",
+      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
     },
     {
       "album": {
@@ -14946,6 +15150,28 @@
       "duration_ms": 277000,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ"
+    },
+    {
+      "album": {
+        "name": "Who Do You Run To",
+        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Who Do You Run To",
+      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
     },
     {
       "album": {

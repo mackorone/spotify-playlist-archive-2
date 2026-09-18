@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,342,644 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,357 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 20 | [Aaja Piya Tohe Pyar Doon \(From "Baharon Ke Sapne"\)](https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:11 |
 | 21 | [Mehlon Ka Raja Mila](https://open.spotify.com/track/1LgA8KReeRgdEj9PdYJRK9) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Anokhi Raat](https://open.spotify.com/album/1f72vNLqLfiKWAjPgKRTti) | 3:15 |
 | 22 | [Mere Mehboob Qayamat Hogi](https://open.spotify.com/track/3MRREVp7Vwiivsny9bGd9O) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Mr\. X In Bombay](https://open.spotify.com/album/2rfEqfJqZuojPrNh3JVrRR) | 3:48 |
-| 23 | [Dilbar Mere \- From "Satte Pe Satta"](https://open.spotify.com/track/7vtl49gWCvqep228IJVHRl) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Anette](https://open.spotify.com/artist/4PspHz9zoOvLneMsCdpadT), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Satte Pe Satta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ) | 4:47 |
+| 23 | [Dilbar Mere \- From "Satte Pe Satta"](https://open.spotify.com/track/7vtl49gWCvqep228IJVHRl) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Anette](https://open.spotify.com/artist/27jVSIZPU3lanAupUbryZb), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Satte Pe Satta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ) | 4:47 |
 | 24 | [Main Pal Do Pal Ka Shair Hoon](https://open.spotify.com/track/3P30d9Ayuy7IW88RvAvFMl) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Kabhi Kabhie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA) | 3:24 |
 | 25 | [Bade Achhe Lagte Hain](https://open.spotify.com/track/6KI66HzKaCOvfvLenuf0JQ) | [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Balika Badhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ENk87mIL6K5JEj9iQvKyo) | 5:12 |
 | 26 | [Ajib Dastan Hai Yeh](https://open.spotify.com/track/1O5qA3XSUP6Kxn0eeSJls4) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Dil Apna Aur Preet Parai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2efqpNgL1mmKTIaFqfKARM) | 5:15 |

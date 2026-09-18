@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Guess Who, Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,966 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,972 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 4 | [Genul ăla](https://open.spotify.com/track/1gwsXF1G0j7uOS53KtRQYu) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Genul ăla](https://open.spotify.com/album/6aYU0Zg3RePmH06uk90xL5) | 2:34 |
 | 5 | [Morenito](https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Morenito](https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF) | 2:15 |
 | 6 | [Anul în care ne\-am iubit](https://open.spotify.com/track/5NTTljQ05L2uFSSS3xwYIT) | [Zodier](https://open.spotify.com/artist/1ixFTynAqupcDQPF9P4KdC), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Anul în care ne\-am iubit](https://open.spotify.com/album/4kEwMdqmC1GleLwXv1y0gb) | 3:10 |
-| 7 | [Infinit](https://open.spotify.com/track/6z5mMejqjyo0FSx4SAbi77) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Infinit](https://open.spotify.com/album/0pZ8hHssrzNJgTbWmfjcyn) | 3:10 |
+| 7 | [Infinit](https://open.spotify.com/track/6z5mMejqjyo0FSx4SAbi77) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Infinit](https://open.spotify.com/album/0pZ8hHssrzNJgTbWmfjcyn) | 3:09 |
 | 8 | [Bastionul Fericirii](https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Bastionul Fericirii](https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS) | 3:02 |
 | 9 | [Jojolina](https://open.spotify.com/track/72M5ppJZuR2LzgmkG4CjiP) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Jojolina](https://open.spotify.com/album/6SjNq6wSlIk3Hsgojxohyl) | 2:24 |
 | 10 | [Stai](https://open.spotify.com/track/7hg79knjoN0IDJhG8hImzU) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Stai](https://open.spotify.com/album/0Y6efDVBKIEoS9mTQAcWbV) | 2:11 |

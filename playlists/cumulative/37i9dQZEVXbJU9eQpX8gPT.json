@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Africain",
       "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
@@ -25294,7 +25294,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
@@ -31081,6 +31081,28 @@
     },
     {
       "album": {
+        "name": "A MAN WITH A GUN",
+        "url": "https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Hoba Hoba Spirit",
+          "url": "https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "PRINCES DE LA VILLE",
+      "url": "https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -31606,7 +31628,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 192440,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
@@ -35838,7 +35860,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 224706,
       "name": "STALINE",
       "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
@@ -36738,7 +36760,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"

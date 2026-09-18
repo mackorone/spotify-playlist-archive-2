@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,201 likes - 180 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,206 likes - 180 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

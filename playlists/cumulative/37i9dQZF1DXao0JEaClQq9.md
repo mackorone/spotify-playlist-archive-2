@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: L'Rain
 
-759 songs - 2 day 0 hr 4 min
+760 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-06-03 | 2022-04-18 |
 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 | 2024-03-15 | 2024-05-24 |
 | [A drink tonight](https://open.spotify.com/track/5fC0sLx4qvoNahyExJIVYm) | [Minais B](https://open.spotify.com/artist/6gckWcukg2qBdk7qdEkBwD) | [A drink tonight](https://open.spotify.com/album/5nJgzqWXz7Wgts9Zt8Oeqr) | 3:02 | 2025-05-02 | 2025-06-07 |
+| [A Girl Who Needs A Brain](https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [A Girl Who Needs A Brain](https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP) | 2:02 | 2026-09-17 |  |
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-06-03 |  |
 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 | 2023-01-25 | 2023-07-04 |
 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-27 | 2023-03-16 |
@@ -724,7 +725,7 @@
 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 | 2021-06-03 | 2023-07-04 |
 | [Unkind](https://open.spotify.com/track/4yJsJ5iQBCTqY0wRZD8u2M) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Is It Selfish If We Talk About Me Again](https://open.spotify.com/album/6MeHJ39jMIA4niDn0jhJBx) | 3:18 | 2021-06-03 | 2022-07-29 |
 | [unlucky](https://open.spotify.com/track/1mMAmnslV5tCn1ldEghNpi) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [graves](https://open.spotify.com/album/3XwnekVtkLvo7Xh7OHBBjB) | 2:26 | 2022-06-03 | 2022-07-24 |
-| [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-12-12 |  |
+| [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-12-12 | 2026-09-18 |
 | [Valley song](https://open.spotify.com/track/70tVTFxfAPwoL9mg44meAg) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:07 | 2021-10-22 | 2022-04-17 |
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2021-10-08 | 2022-04-20 |
 | [Video Music](https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Video Music](https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3) | 2:09 | 2024-12-12 | 2025-02-08 |

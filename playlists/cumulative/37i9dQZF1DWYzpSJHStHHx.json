@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Long Long Time",
+        "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258054,
+      "name": "A Long Long Time",
+      "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
+    },
+    {
+      "album": {
         "name": "Hoodratscumbags",
         "url": "https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
@@ -794,6 +812,24 @@
       "duration_ms": 260783,
       "name": "Broken Finger Blues",
       "url": "https://open.spotify.com/track/0O2WHAJUeYcElqNz8g2Q1V"
+    },
+    {
+      "album": {
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160618,
+      "name": "Burning Tide",
+      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
     },
     {
       "album": {
@@ -1280,6 +1316,24 @@
       "duration_ms": 258459,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/2TmqE1B16v0H6BLbBz38ob"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
     },
     {
       "album": {
@@ -1900,7 +1954,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
@@ -3243,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Naked At Your Door",
+        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
+    },
+    {
+      "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
       },
@@ -3254,7 +3326,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185699,
       "name": "Lara",
       "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
@@ -3308,7 +3380,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211705,
       "name": "LCD",
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
@@ -3460,6 +3532,24 @@
       "duration_ms": 286209,
       "name": "LONG LIVE THE WILDERNESS",
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
+    },
+    {
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
     },
     {
       "album": {
@@ -4003,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "album": {
         "name": "Oily Heart",
         "url": "https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC"
       },
@@ -4356,7 +4464,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 275962,
       "name": "Peace In Me",
       "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
@@ -4554,7 +4662,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 165589,
       "name": "Postcode Lover",
       "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
@@ -4846,6 +4954,24 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223961,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
     },
     {
       "album": {
@@ -5231,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "Ozonia",
+        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
+      },
+      "artists": [
+        {
+          "name": "The Bures Band",
+          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344666,
+      "name": "SLPM",
+      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
+    },
+    {
+      "album": {
         "name": "So Excited",
         "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
       },
@@ -5296,7 +5440,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 145298,
       "name": "Sol Del Sur",
       "url": "https://open.spotify.com/track/3pYaPf2nqhr28Kaw8zkAYH"
@@ -5548,7 +5692,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
@@ -5642,6 +5786,24 @@
       "duration_ms": 181527,
       "name": "Stop Sign",
       "url": "https://open.spotify.com/track/58EybRsv2eC0iUfiYTmw8a"
+    },
+    {
+      "album": {
+        "name": "Stranger (Mariachi)",
+        "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "Stranger - Mariachi",
+      "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
     },
     {
       "album": {
@@ -6322,7 +6484,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"

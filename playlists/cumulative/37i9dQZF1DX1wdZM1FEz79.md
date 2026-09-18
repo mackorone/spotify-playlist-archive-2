@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Baek A\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Lee go do\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-693 songs - 1 day 16 hr 43 min
+694 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [In My Dreams](https://open.spotify.com/track/1ndy3GgAqTtmkImUIYhP9v) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [COLORING BOOK](https://open.spotify.com/album/38AAuqV2wFULToBRMPn3Ne) | 3:28 | 2022-03-31 | 2022-04-06 |
 | [In The City 도시에서](https://open.spotify.com/track/05FR5qWPhj0GfWrUt4MKDk) | [Kwon Tree](https://open.spotify.com/artist/3V8Zj1lAUFlBpra9DvMwMK) | [New Day 새로운 날](https://open.spotify.com/album/4zQQM5dVk61G0UrNB8Qr30) | 4:37 | 2022-03-31 | 2022-04-17 |
 | [In the end](https://open.spotify.com/track/0sIAiIw3ZrHSCusJEvtn2H) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Whats wrong with secretary kim OST Part.7](https://open.spotify.com/album/4QKLty6XBVD7DuM4pcvHRa) | 4:25 | 2022-03-31 | 2022-04-11 |
-| [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 | 2026-09-11 |
+| [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 |  |
 | [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 | 2026-09-09 |  |
 | [Indecision](https://open.spotify.com/track/1E5OPub2NquTTLqm2lhjvl) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Indecision](https://open.spotify.com/album/2ddvTM9uOqCltc0o5Q7bk1) | 3:35 | 2022-03-31 | 2022-04-21 |
 | [Indifferent People](https://open.spotify.com/track/5uYcSONPlw8yDWoBI7SoOd) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:55 | 2022-03-31 | 2022-04-20 |
@@ -325,6 +325,7 @@
 | [Like Us](https://open.spotify.com/track/5HvwHlHx4eyYh7cmI8xr64) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:30 | 2021-12-10 | 2022-05-09 |
 | [Like you](https://open.spotify.com/track/1QSkVgau9cQJ4OgrLoDpi1) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [People said break it up](https://open.spotify.com/album/0uyQDNFg7AdQ25hznC9UD5) | 3:46 | 2022-03-31 | 2022-04-19 |
 | [lilac](https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beomjune \(January 2026\) – Lilac](https://open.spotify.com/album/5K8owHEoj8fLGzxpflJ9xU) | 3:16 | 2026-02-04 | 2026-02-20 |
+| [Little bird! Little bird! Little bird!](https://open.spotify.com/track/1x7BZHu3v1hD81MHE1Vrzw) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [The Person on the Outskirts](https://open.spotify.com/album/1D1Gs7RZlGEv9B4RuAPJbz) | 4:28 | 2026-09-17 |  |
 | [Little By Little](https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open MIC EPISODE\. 14](https://open.spotify.com/album/6LNVvZVEtWbVy6PfhaqKwQ) | 3:12 | 2022-01-13 | 2022-04-08 |
 | [Little I](https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Little I](https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk) | 3:15 | 2025-09-24 | 2025-10-10 |
 | [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-07-23 | 2024-08-06 |
@@ -530,7 +531,7 @@
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-18 | 2022-07-05 |
 | [Swim in you](https://open.spotify.com/track/5VGDHco00AJQFgyBCRmLYo) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Swim in you](https://open.spotify.com/album/5KkoaeR3fLLVZTTc2jZv3p) | 2:44 | 2024-08-22 | 2024-09-04 |
 | [Sy & jW](https://open.spotify.com/track/47ojgWSLE26y7dWivYreFS) | [RYU SEOKWON](https://open.spotify.com/artist/3fc1EOSoH1KTJvrCKOiKBn) | [Sy & jW](https://open.spotify.com/album/615U3nXucGQ4XiaPWLvUA8) | 3:26 | 2022-03-31 | 2022-04-13 |
-| [Take It All](https://open.spotify.com/track/5bUBgKm0WCeB6vab0SOiYr) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Miserable Whistle part.1](https://open.spotify.com/album/27mgjk0EQxIy5Ub1trTyIH) | 4:41 | 2026-09-03 |  |
+| [Take It All](https://open.spotify.com/track/5bUBgKm0WCeB6vab0SOiYr) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Miserable Whistle part.1](https://open.spotify.com/album/27mgjk0EQxIy5Ub1trTyIH) | 4:41 | 2026-09-03 | 2026-09-18 |
 | [take it slow](https://open.spotify.com/track/0zUOz6vZkVr9J0ygqGoNym) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Luckypink4ever](https://open.spotify.com/artist/1fyOzgarGTgvI0KWIeou7Z) | [take it slow](https://open.spotify.com/album/2du2AQcU3VPBuFmX0htj1I) | 3:00 | 2023-02-14 | 2023-02-25 |
 | [Take Me Somewhere in Your Heart](https://open.spotify.com/track/19ec8tNM0u3WEMVGoM56Bz) | [One Room Romance](https://open.spotify.com/artist/3Swx3mwoDGYx8OrKtHBkLm) | [Take Me Somewhere in Your Heart](https://open.spotify.com/album/1vjmz2RudeED7kHNYRMIuE) | 4:14 | 2025-08-18 | 2025-09-23 |
 | [Tell Me](https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [Tell Me](https://open.spotify.com/album/55nlKfRPcPhRYY6tujIRjg) | 2:33 | 2022-03-31 | 2022-04-21 |
@@ -627,7 +628,7 @@
 | [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 | 2023-01-04 |
 | [Where the Love Has Gone](https://open.spotify.com/track/3h3Lt6G1VehgObtEZd0XnE) | [Voicemail](https://open.spotify.com/artist/1in7SSSVuAOa0DaVBRWnXc) | [Where the Love Has Gone](https://open.spotify.com/album/58MOtVJbjtbjaNk6aVmqxc) | 4:34 | 2025-10-10 | 2025-11-07 |
 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 | 2022-06-09 | 2022-06-14 |
-| [Why Does Love](https://open.spotify.com/track/5iG9ydo9cjiyGNmOv97bVN) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [The Algebra of Youth](https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl) | 3:50 | 2026-09-09 |  |
+| [Why Does Love](https://open.spotify.com/track/5iG9ydo9cjiyGNmOv97bVN) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [The Algebra of Youth](https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl) | 3:50 | 2026-09-09 | 2026-09-18 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/4AGgXEtNPFPAMUoDEgjvwX) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/4pPg8mMEDja315sNthkACE) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [Will be fine](https://open.spotify.com/track/2CNk8tRxdb3RGRoWLWsDCI) | [기수](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Will be fine](https://open.spotify.com/album/6TyDIjhkPLyKpX8p6PGxdm) | 3:09 | 2022-03-31 | 2022-04-11 |

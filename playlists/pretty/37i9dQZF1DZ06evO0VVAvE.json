@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 12353,
+  "num_followers": 12368,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAADYI9mwjR3Xo18Qk65AN7YF",
+  "snapshot_id": "aqiKgAAAAACrDId0gSiVhLR79ynKOSx1",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different Lane",
+        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 132185,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ali (Remix)",
         "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 202301,
       "name": "Ali - Remix",
       "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Lane",
-        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 132185,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
     },
     {
       "added_at": null,

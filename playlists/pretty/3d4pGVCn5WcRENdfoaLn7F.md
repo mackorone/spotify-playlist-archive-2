@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 852 likes - 69 songs - 3 hr 54 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 863 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,11 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 67 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 |
 | 68 | [No Friends Left](https://open.spotify.com/track/6L1yZEApeMG2EMWfz7u8U4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [No Friends Left](https://open.spotify.com/album/05nP9zQOxxEakXpzXALcWf) | 4:08 |
 | 69 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
+| 70 | [Forgotten Song](https://open.spotify.com/track/1QdahRPl8rte13K03OOntd) | [Dead Assets](https://open.spotify.com/artist/0b7xLnpLCdam6NfzN9QS7Q) | [Forgotten Song](https://open.spotify.com/album/3NlyxPgo3lISis3p1T6MSt) | 3:26 |
+| 71 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 |
+| 72 | [Lost In The Darkness.](https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Lost In The Darkness.](https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0) | 3:53 |
+| 73 | [Lioness](https://open.spotify.com/track/5DppNEwfjhj0epwYhmx5VE) | [Kuba Strawa](https://open.spotify.com/artist/0hLDCx7LOmJCcGIX6u0pSZ) | [Lioness](https://open.spotify.com/album/2XBgvxmYMAaBrl8JnePmBs) | 3:11 |
+| 74 | [O amor nao pode parar](https://open.spotify.com/track/0kecj9s4fMEkSeBqBjDOHT) | [MELOPIA](https://open.spotify.com/artist/6SMzun0z88Kfv2rUdkRc4E) | [O amor nao pode parar](https://open.spotify.com/album/0Js0Dek5wf5KDMtgMsqRBE) | 2:51 |
+| 75 | [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 |
 
-Snapshot ID: `AAAD7yR5R4n8dqGYvXH4j01ypRTv0ric`
+Snapshot ID: `AAAD9Zf96X9ZXqRkhYkWejyKk4neDyox`

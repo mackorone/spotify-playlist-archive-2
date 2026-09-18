@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 349302,
+  "num_followers": 349299,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -795,18 +795,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -831,22 +835,18 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Te Quiero Tanto",
-        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 208068,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "Un T\u00e9 De Tilo Por Favor",
+        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "Un T\u00e9 De Tilo Por Favor",
-        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Algo Tiene",
-      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5"
-      },
-      "artists": [
-        {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
-        },
-        {
-          "name": "Michael Ronda",
-          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "100 D\u00edas",
-      "url": "https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "Yo No Te Pido la Luna",
         "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
@@ -1463,22 +1443,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5"
       },
       "artists": [
         {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
         },
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
         }
       ],
-      "duration_ms": 175760,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
+      "duration_ms": 184518,
+      "name": "100 D\u00edas",
+      "url": "https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1499,6 +1479,26 @@
       "duration_ms": 233738,
       "name": "Trepando Paredes",
       "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "El Problema Del Amor",
+        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "El Problema Del Amor",
+      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "El Problema Del Amor",
-        "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
+        "name": "50 Horas",
+        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
       },
       "artists": [
         {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 220240,
-      "name": "El Problema Del Amor",
-      "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
+      "duration_ms": 164758,
+      "name": "50 Horas",
+      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1663,6 +1683,22 @@
       "duration_ms": 135000,
       "name": "SABOR TROPICAL",
       "url": "https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "cuerpo",
+      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1687,22 +1723,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "CUERPO",
-        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "cuerpo",
-      "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "Te Cre\u00ed",
         "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "50 Horas",
-        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 164758,
-      "name": "50 Horas",
-      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "added_at": "2026-09-11 18:59:39",

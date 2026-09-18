@@ -4,7 +4,7 @@
 
 > Mental illness
 
-74 songs - 4 hr 4 min
+75 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/4xx6gNZiyz0R2E64pzgZ3T) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/5CooX2xg5YibepSfjbRFNT) | 2:13 | 2023-03-21 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2024-09-16 |  |
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-03-31 |  |
+| [The Desert](https://open.spotify.com/track/2MlQzk1p2gl8ARltbl9WkN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Desert](https://open.spotify.com/album/5AYrkGqYbBUtGZQN2CBNQb) | 2:57 | 2026-09-17 |  |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 | 2023-03-21 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [there is a rock in my house](https://open.spotify.com/track/7r4beojXQxicLWkBh32idX) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [there is a rock in my house](https://open.spotify.com/album/5UD6aBZuA7ajJjsoD5hJMQ) | 1:50 | 2023-03-28 |  |

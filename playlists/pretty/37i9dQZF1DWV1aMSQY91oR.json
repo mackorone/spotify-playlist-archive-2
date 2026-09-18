@@ -1,6 +1,6 @@
 {
   "description": "The latest in hip-hop, refreshed weekly. Cover: Tee Grizzley",
-  "num_followers": 23082,
+  "num_followers": 23095,
   "original_name": "New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-09-11 04:00:55",
       "album": {
-        "name": "Rain",
+        "name": "Rain (feat. Skilla Baby)",
         "url": "https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz"
       },
       "artists": [
@@ -20,16 +20,16 @@
           "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
           "name": "Ashanti",
           "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
       "duration_ms": 180784,
-      "name": "Rain",
+      "name": "Rain (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
     },
     {

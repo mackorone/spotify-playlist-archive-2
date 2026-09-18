@@ -19233,6 +19233,24 @@
     },
     {
       "album": {
+        "name": "Luna Crystal Blue",
+        "url": "https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5"
+      },
+      "artists": [
+        {
+          "name": "Masked Family",
+          "url": "https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155880,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB"
+    },
+    {
+      "album": {
         "name": "Hello amigos",
         "url": "https://open.spotify.com/album/0ZHY3pShmVhGz4zH9vo6WB"
       },
@@ -36684,6 +36702,24 @@
       "duration_ms": 110624,
       "name": "RE-32",
       "url": "https://open.spotify.com/track/3XosVKvImINmqMa82dbX2p"
+    },
+    {
+      "album": {
+        "name": "Reach to Your Heart",
+        "url": "https://open.spotify.com/album/7t0YFmzxa5mktwNegWgfJb"
+      },
+      "artists": [
+        {
+          "name": "Waydee",
+          "url": "https://open.spotify.com/artist/3sdHmVZJJO81zPPBc3s06g"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176084,
+      "name": "Reach to Your Heart",
+      "url": "https://open.spotify.com/track/54cSL1PkDvHVrXMxs4kx33"
     },
     {
       "album": {

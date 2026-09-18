@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Molly Payton",
+  "description": "New and local indie noise. Cover: The Church",
   "name": "Local Noise",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 186439,
       "name": "All I'll Ever Know",
       "url": "https://open.spotify.com/track/2zSMcbwXJ6aRpb5nx56psa"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 216203,
       "name": "BODIES TOUCHING",
       "url": "https://open.spotify.com/track/0tOmUSxatklMMrVDHw2hHQ"
@@ -2250,6 +2250,24 @@
       "duration_ms": 153901,
       "name": "Bonny",
       "url": "https://open.spotify.com/track/7I2KJqvAvV909vi7w2LFOM"
+    },
+    {
+      "album": {
+        "name": "Bontempo",
+        "url": "https://open.spotify.com/album/2U6U5i0sBfX5I6Q4SSjUPQ"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207591,
+      "name": "Bontempo",
+      "url": "https://open.spotify.com/track/1fBOHO7tNiAT8djLWO1VO4"
     },
     {
       "album": {
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 238634,
       "name": "Burial",
       "url": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB"
@@ -6741,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Down",
+        "url": "https://open.spotify.com/album/0d8RE5aCnd5BzxkbMYnXc1"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146746,
+      "name": "Gettin\u2019 Down",
+      "url": "https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe"
+    },
+    {
+      "album": {
         "name": "GFC",
         "url": "https://open.spotify.com/album/32yuMpMMAo3jgIhRDYAu73"
       },
@@ -7008,7 +7044,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211280,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/4p6NsOuSVKnUcnv4DhAYPU"
@@ -9668,7 +9704,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 151384,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
@@ -10544,7 +10580,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 204263,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/2ELA9baR5S3b07t1S1XWq3"
@@ -12910,7 +12946,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 152995,
       "name": "Pain Chamber",
       "url": "https://open.spotify.com/track/6slRpyLfmf8l98cxy1jPXt"
@@ -13678,6 +13714,24 @@
       "duration_ms": 196920,
       "name": "Pulls Me Apart",
       "url": "https://open.spotify.com/track/52WxDndshL3L1rGO2wrB1a"
+    },
+    {
+      "album": {
+        "name": "Push My Buttons",
+        "url": "https://open.spotify.com/album/2CNowXS1y0zuP1KUctAxKQ"
+      },
+      "artists": [
+        {
+          "name": "Public Figures",
+          "url": "https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169642,
+      "name": "Push My Buttons",
+      "url": "https://open.spotify.com/track/4MdZDv0iHDYCHGIKy0pSPM"
     },
     {
       "album": {
@@ -15687,6 +15741,24 @@
     },
     {
       "album": {
+        "name": "Ra Ra",
+        "url": "https://open.spotify.com/album/7t1Ir2e3r1KcWC6KiAFQbW"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264967,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/13EowSp6P5NxD0dI5PabSH"
+    },
+    {
+      "album": {
         "name": "Site Unseen",
         "url": "https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU"
       },
@@ -16581,6 +16653,24 @@
     },
     {
       "album": {
+        "name": "Stay Up to Date On Politics",
+        "url": "https://open.spotify.com/album/5zw3SY6tv8Bn5cjeJVkUyW"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220715,
+      "name": "Stay Up to Date On Politics",
+      "url": "https://open.spotify.com/track/2zlODSgArTyLCLjqZDdZLT"
+    },
+    {
+      "album": {
         "name": "Steppin",
         "url": "https://open.spotify.com/album/5GxbscGXCHsyXe7vNEwcnD"
       },
@@ -16672,6 +16762,24 @@
       "duration_ms": 149890,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/3RCGt2PEinMbwRHWURigBg"
+    },
+    {
+      "album": {
+        "name": "Stop Destroying the Things You Love",
+        "url": "https://open.spotify.com/album/6AuiciZnUYqDD5AbOaJjJc"
+      },
+      "artists": [
+        {
+          "name": "sunbleached",
+          "url": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227775,
+      "name": "Stop Destroying the Things You Love",
+      "url": "https://open.spotify.com/track/1YC4G9Hc6v2Ec0Cmz2FTRw"
     },
     {
       "album": {
@@ -16806,7 +16914,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 236043,
       "name": "Strictly Pleasure",
       "url": "https://open.spotify.com/track/5enlXX24BqAqgo6oz7nlVp"
@@ -17826,6 +17934,24 @@
       "duration_ms": 226909,
       "name": "The End",
       "url": "https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk"
+    },
+    {
+      "album": {
+        "name": "The Fast Lane",
+        "url": "https://open.spotify.com/album/04C1O7R3zUeonyB7PKzAfu"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202572,
+      "name": "The Fast Lane",
+      "url": "https://open.spotify.com/track/76I538wCQ4uN8ESaAAWCF3"
     },
     {
       "album": {
@@ -19621,6 +19747,24 @@
     },
     {
       "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/5uutTt97uTAaHben3d5Tkf"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Western",
+      "url": "https://open.spotify.com/track/3pVM4wMkmpJElEZcjO7f0V"
+    },
+    {
+      "album": {
         "name": "What Do You Want Me To Be",
         "url": "https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0"
       },
@@ -19902,7 +20046,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169957,
       "name": "Winona Forever",
       "url": "https://open.spotify.com/track/4ZZUyU3Ykb53WGTzQdOj6M"
@@ -20090,6 +20234,24 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
+      "album": {
+        "name": "Writing's on the Wall",
+        "url": "https://open.spotify.com/album/4eQpaHJCwEABol0LOS0m0G"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183808,
+      "name": "Writing's on the Wall",
+      "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"
     },
     {
       "album": {

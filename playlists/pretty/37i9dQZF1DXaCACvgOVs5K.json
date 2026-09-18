@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 912304,
+  "num_followers": 912419,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "My Temptations",
+        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "My Temptations",
+      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
       },
@@ -903,6 +923,22 @@
       "duration_ms": 155538,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -927,44 +963,8 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "We Not Tired",
-        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "We Not Tired",
-      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "My Temptations",
-        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "My Temptations",
-      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Bad Wolf (feat. UNIIQU3)",
-        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+        "name": "Feel This Grip (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         },
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 185954,
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
+      "duration_ms": 193846,
+      "name": "Feel This Grip (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Love\u2019s Theme",
         "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 174081,
       "name": "Love\u2019s Theme",
       "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Feel This Grip (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Feel This Grip (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "Too Bright",
+      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
@@ -1379,6 +1399,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "3ady Sahla (By Remix)",
         "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD"
       },
@@ -1395,26 +1431,6 @@
       "duration_ms": 207491,
       "name": "3ady Sahla - By Remix",
       "url": "https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Too Bright",
-        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        },
-        {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "Too Bright",
-      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1459,26 +1475,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 207764,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP"
       },
@@ -1495,6 +1491,26 @@
       "duration_ms": 213809,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1523,22 +1539,6 @@
       "duration_ms": 207272,
       "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Even Angels Ghost",
         "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
       },
@@ -1595,26 +1611,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        },
-        {
-          "name": "Amarha",
-          "url": "https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Make You Sweat (feat. Amarha)",
-      "url": "https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Work Your Body",
         "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
       },
@@ -1631,22 +1627,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Sing It Back",
-        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Sing It Back",
-      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Girl On The Beat",
         "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
       },
@@ -1659,6 +1639,54 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Activated (I Just Wanna)",
+        "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
+      },
+      "artists": [
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
+        },
+        {
+          "name": "DJ Technics",
+          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
+        },
+        {
+          "name": "Kotton The Cutie",
+          "url": "https://open.spotify.com/artist/3pthTqsBQCuDCfOrYpgEra"
+        }
+      ],
+      "duration_ms": 155096,
+      "name": "Activated (I Just Wanna)",
+      "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Amarha",
+          "url": "https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Make You Sweat (feat. Amarha)",
+      "url": "https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1695,50 +1723,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Activated (I Just Wanna)",
-        "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
-      },
-      "artists": [
-        {
-          "name": "Piem",
-          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
-        },
-        {
-          "name": "SLM",
-          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
-        },
-        {
-          "name": "DJ Technics",
-          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
-        },
-        {
-          "name": "Kotton The Cutie",
-          "url": "https://open.spotify.com/artist/3pthTqsBQCuDCfOrYpgEra"
-        }
-      ],
-      "duration_ms": 155096,
-      "name": "Activated (I Just Wanna)",
-      "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Like An Angel (Touch Me) / Word Play",
         "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
       },
@@ -1767,6 +1767,26 @@
       "duration_ms": 183636,
       "name": "Like An Angel (Touch Me)",
       "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "Bubbling",
+        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+        }
+      ],
+      "duration_ms": 209092,
+      "name": "Bubbling",
+      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1795,26 +1815,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Bubbling",
-        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Patrick Luna",
-          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
-        }
-      ],
-      "duration_ms": 209092,
-      "name": "Bubbling",
-      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Me Sabe Bien",
         "url": "https://open.spotify.com/album/7aeKdx0et8QAQCtovgaHuU"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 137682,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "The Montana Girl",
         "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 221538,
       "name": "The Montana Girl",
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "'Cause I Can",
-        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 187490,
-      "name": "'Cause I Can",
-      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 120241,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "'Cause I Can",
+        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 187490,
+      "name": "'Cause I Can",
+      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
     }
   ],
   "unique_name": "Ibiza 2026",

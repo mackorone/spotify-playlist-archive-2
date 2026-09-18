@@ -4,7 +4,7 @@
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
 
-317 songs - 17 hr 1 min
+318 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Démarrage](https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 3:16 | 2024-05-02 | 2025-07-11 |
 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 | 2024-07-19 |
 | [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 | 2024-06-14 |
+| [Eh pardon \(kpelouai\)](https://open.spotify.com/track/1ehudC9bv5lxFm4rfyW9Te) | [Mille Etoil](https://open.spotify.com/artist/5zN4AUBgav2DbSsVsw0ATF), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Eh pardon \(kpelouai\)](https://open.spotify.com/album/728O99oW2IRGrcSrseUzP8) | 2:44 | 2026-09-17 |  |
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
 | [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 | 2024-04-12 |
 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 | 2023-06-15 | 2023-07-14 |
@@ -269,7 +270,7 @@
 | [S'envolement](https://open.spotify.com/track/4qTtDG8wnFPBuMT9gX8e2d) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [S'envolement](https://open.spotify.com/album/43kB8Cbtaz8nI0GFOUivXg) | 3:18 | 2023-03-09 | 2023-05-19 |
 | [Sac à main](https://open.spotify.com/track/66NOf4gM87dJHggT574dnL) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 4:06 | 2022-09-29 | 2023-01-20 |
 | [Sauter\-Octobre](https://open.spotify.com/track/1in3ddoo7v3ifjRtDcbWYR) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Sauter\-Octobre](https://open.spotify.com/album/7A8JYRvpRi5BWdubEqfcSk) | 2:01 | 2025-10-02 | 2025-12-19 |
-| [Sauteur](https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Sauteur](https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh) | 2:51 | 2025-09-25 |  |
+| [Sauteur](https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Sauteur](https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh) | 2:51 | 2025-09-25 | 2026-09-18 |
 | [senvolement](https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn) | [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [senvolement](https://open.spotify.com/album/1WGOlaHW9q6nBP9X6u9vwW) | 1:14 | 2026-09-03 |  |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 | 2022-10-28 |
 | [Solé Molé](https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Solé Molé](https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF) | 3:36 | 2023-02-02 | 2023-09-22 |

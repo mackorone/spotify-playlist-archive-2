@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Saliwa",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Feza",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -3223,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Luqale sakudlala",
+        "url": "https://open.spotify.com/album/1aqGyinECF4WLGCPOPG1xT"
+      },
+      "artists": [
+        {
+          "name": "G-Jealous",
+          "url": "https://open.spotify.com/artist/0FbbF0rKiD7zN90OMJqCn7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219167,
+      "name": "Luqale sakudlala",
+      "url": "https://open.spotify.com/track/7pfoxzRahKsNhDMejTE14u"
+    },
+    {
+      "album": {
         "name": "Luyazenzela",
         "url": "https://open.spotify.com/album/5UOGjj9wPp6u69IHy1vVaP"
       },
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 296001,
       "name": "Ngabona Amathanga Amhlophe (feat. Maphungula IzinganeZoma)",
       "url": "https://open.spotify.com/track/2HtiCtSUZKbmWV9kwQilhj"
@@ -4904,7 +4922,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 283898,
       "name": "Sondela La",
       "url": "https://open.spotify.com/track/3t6x060787xWEsnQuUI3lr"
@@ -5636,6 +5654,36 @@
       "duration_ms": 351157,
       "name": "Umfazi Womuntu Enqunu",
       "url": "https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg"
+    },
+    {
+      "album": {
+        "name": "Umgangela",
+        "url": "https://open.spotify.com/album/0HTTg0uBRvquTnJm1VEW8Y"
+      },
+      "artists": [
+        {
+          "name": "Digital Maskandi",
+          "url": "https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Saliwa",
+          "url": "https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8"
+        },
+        {
+          "name": "Khanyie",
+          "url": "https://open.spotify.com/artist/1j5VEOlKML7QXilZcmIE3v"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Umgangela",
+      "url": "https://open.spotify.com/track/7jMyXpdSv3j44EFfbwM8gY"
     },
     {
       "album": {

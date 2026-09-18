@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sadam",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Tsaki, Dof Twogee",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 221713,
       "name": "3 KILO",
       "url": "https://open.spotify.com/track/5hJgfWCMOSwJifVlynBQQQ"
@@ -2061,6 +2061,36 @@
     },
     {
       "album": {
+        "name": "SKGOTHAM",
+        "url": "https://open.spotify.com/album/0FrsHsbVy6Dl8GcB7pwicj"
+      },
+      "artists": [
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Base",
+          "url": "https://open.spotify.com/artist/2wrnsrP6Do5BeOHINeeyWL"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "AYTO ME TON SADAM",
+      "url": "https://open.spotify.com/track/7aLH0PAEjMkNwEaoJV9xhm"
+    },
+    {
+      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
       },
@@ -3658,7 +3688,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 168384,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB"
@@ -3876,6 +3906,28 @@
       "duration_ms": 164571,
       "name": "CPR",
       "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
+    },
+    {
+      "album": {
+        "name": "CRETA",
+        "url": "https://open.spotify.com/album/4T9u56ShMRuyIAfeX5j7OJ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "CRETA",
+      "url": "https://open.spotify.com/track/5nj63xdbymspnKmHC5isVZ"
     },
     {
       "album": {
@@ -8662,7 +8714,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 147692,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5AVzm8Zv4NoijNbzYy038a"
@@ -8864,7 +8916,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 167166,
       "name": "Ki Esy Stin Paro?",
       "url": "https://open.spotify.com/track/41fePfhOqY09095sZxHUUS"
@@ -10023,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "MAKITA",
+        "url": "https://open.spotify.com/album/3wdR79NkienhdlBNSrc5kS"
+      },
+      "artists": [
+        {
+          "name": "DoubleN",
+          "url": "https://open.spotify.com/artist/214aHBw20dtYkph3i6MMl7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131650,
+      "name": "MAKITA",
+      "url": "https://open.spotify.com/track/69T1duhGhscbdhZHN0hQ6P"
+    },
+    {
+      "album": {
         "name": "Mala Vita",
         "url": "https://open.spotify.com/album/7FBuEImstQqIga0n66HbML"
       },
@@ -10400,6 +10470,36 @@
       "duration_ms": 153933,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/3hcsY2faewmbNAjFUTW5Et"
+    },
+    {
+      "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "2shots",
+          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211789,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/4bnfWdcWyp5CEVnCg4jVxQ"
     },
     {
       "album": {
@@ -10898,7 +10998,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 151034,
       "name": "MESSI",
       "url": "https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH"
@@ -11600,7 +11700,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 139888,
       "name": "MYNHMA",
       "url": "https://open.spotify.com/track/50a2ZkZBCGKznLaV28NQ96"
@@ -12801,6 +12901,28 @@
     },
     {
       "album": {
+        "name": "OSAMA",
+        "url": "https://open.spotify.com/album/7Cd5zTN0Lgw6KoMd2BV13U"
+      },
+      "artists": [
+        {
+          "name": "DON LEON",
+          "url": "https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148980,
+      "name": "OSAMA",
+      "url": "https://open.spotify.com/track/639SRnDIZghe7ayN40SFt3"
+    },
+    {
+      "album": {
         "name": "OSE",
         "url": "https://open.spotify.com/album/0l5jdAXg0JYj3ELh8Rmy8f"
       },
@@ -12956,6 +13078,24 @@
       "duration_ms": 153977,
       "name": "PA TY",
       "url": "https://open.spotify.com/track/5KAFVVP37eGo6pn9qUUlBC"
+    },
+    {
+      "album": {
+        "name": "Pablona",
+        "url": "https://open.spotify.com/album/3ROXcwiopPy86F6moFhvvM"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Pablona",
+      "url": "https://open.spotify.com/track/1V01boZorT3QjQEa0xVUnT"
     },
     {
       "album": {

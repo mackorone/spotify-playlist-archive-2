@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Україна](https://open.spotify.com/playlist/37i9dQZF1DX79XZx3Ijh6O)
 
-> Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:3hCi31ICsYRsUFcNouCFYz\`">G.Inc<br/></a>
+> Найліпша музика від українських артистів\-початківців\. Обкладинка: G.Inc
 
 591 songs - 1 day 5 hr 42 min
 

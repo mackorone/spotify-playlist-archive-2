@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,468 likes - 100 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,488 likes - 100 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 39 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
 | 40 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
 | 41 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
-| 42 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
-| 43 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
-| 44 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
-| 45 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
+| 42 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
+| 43 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
+| 44 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
+| 45 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 46 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
 | 47 | [Aether](https://open.spotify.com/track/24wWZAHUvMPIG9h7zjq0yQ) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:13 |
 | 48 | [Reverberation](https://open.spotify.com/track/5xHKk5E3IV8QR9pTfaIhFm) | [Substance](https://open.spotify.com/artist/2OhRlg8iJc0v8XeRiXRr4H), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reverberation](https://open.spotify.com/album/1LuJs9bcsMfRsgOBiHoZ7l) | 9:46 |
-| 49 | [Quadrant Dub I \- Edit](https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:56 |
-| 50 | [Nospheratu \- Echospace Reduction](https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv) | [Pulshar](https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA) | [Nospheratu](https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS) | 11:17 |
+| 49 | [Nospheratu \- Echospace Reduction](https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv) | [Pulshar](https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA) | [Nospheratu](https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS) | 11:17 |
+| 50 | [Quadrant Dub I \- Edit](https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:56 |
 | 51 | [Rigning Tvö](https://open.spotify.com/track/2F5teMdMoSdbij9pOlnIuv) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Rigning \(2018\)](https://open.spotify.com/album/50u0AJ0W0NAZpPF0Waikl3) | 6:35 |
 | 52 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 |
 | 53 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 56 | [Test 7](https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09.1](https://open.spotify.com/album/4jWaistXzPX93akLPQRuYS) | 8:10 |
 | 57 | [Fading Lights](https://open.spotify.com/track/2pomRfi7JllgPiKg4PEt42) | [Cv313](https://open.spotify.com/artist/4uFSKwuGRG3kzMqXy1lZ03) | [Fading Lights](https://open.spotify.com/album/0EOu83jY7Ifgb8KS1UoxPU) | 9:01 |
 | 58 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
-| 59 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
-| 60 | [74312](https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD) | [Dave Knud](https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q) | [74312](https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu) | 3:49 |
+| 59 | [74312](https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD) | [Dave Knud](https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q) | [74312](https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu) | 3:49 |
+| 60 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
 | 61 | [I, Cavallo](https://open.spotify.com/track/6kTteVJEEkVs3Zges11EPO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [I, Cavallo](https://open.spotify.com/album/4pC6V3FzQnCnBZJy9OWVm2) | 6:57 |
 | 62 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
 | 63 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 65 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
 | 66 | [Lyot Remix \- Edit](https://open.spotify.com/track/7LHfXGLdbxAaRJp6Jq0lAn) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:28 |
 | 67 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
-| 68 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
-| 69 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
-| 70 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
+| 68 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
+| 69 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
+| 70 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
 | 71 | [Heavy Snow](https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound, Pt\. 1](https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2) | 9:10 |
 | 72 | [G3](https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL) | [Monoder](https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn) | [Ikikieriö](https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi) | 7:44 |
 | 73 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |

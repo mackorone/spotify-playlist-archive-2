@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: FOLA",
+  "description": "From the trenches. Through the streets.\nCover: Danpapa GTA",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
@@ -2044,6 +2044,28 @@
       "duration_ms": 140000,
       "name": "Cana",
       "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "album": {
+        "name": "Canaculate",
+        "url": "https://open.spotify.com/album/0Gk4NwaNqoxp9scK2xEqN3"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175796,
+      "name": "Canaculate",
+      "url": "https://open.spotify.com/track/2xpXKxpDplprXCncPx9LJK"
     },
     {
       "album": {

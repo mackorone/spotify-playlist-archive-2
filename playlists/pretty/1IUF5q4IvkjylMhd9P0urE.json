@@ -6,23 +6,27 @@
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAZZMmKijB8jOowvKJalez1sK/QnM7Y",
+  "snapshot_id": "AAAZaCvNwS4hhiPQwiHDTdO5NlJx6HHN",
   "tracks": [
     {
-      "added_at": "2026-09-01 15:47:04",
+      "added_at": "2026-09-17 11:26:17",
       "album": {
-        "name": "Mr. Postman, wait!",
-        "url": "https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ"
+        "name": "Standing On The Corner \u201cII\"",
+        "url": "https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5"
       },
       "artists": [
         {
           "name": "Standing On The Corner",
           "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        },
+        {
+          "name": "Claudette Ortiz",
+          "url": "https://open.spotify.com/artist/2PWQEBHw18rURT93AbGXQm"
         }
       ],
-      "duration_ms": 207717,
-      "name": "Splitting Moonlight",
-      "url": "https://open.spotify.com/track/5knDKXERds7QDBPahzZsV8"
+      "duration_ms": 287493,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6UPShtRqT72QbtCCuDREaZ"
     },
     {
       "added_at": "2026-09-01 15:47:04",

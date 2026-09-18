@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,238 likes - 284 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,239 likes - 284 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,14 +232,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 222 | [ONE CALL](https://open.spotify.com/track/3aLYg8zf6MTycBri2zlWLJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:26 |
 | 223 | [AOGG \(feat\. Tay Keith\)](https://open.spotify.com/track/0025YMT2mT4Ehqf5ofDZVG) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z) | [Blue Muney \(Deluxe\)](https://open.spotify.com/album/4xr2CDxPElnjMsf8jFPFof) | 2:21 |
 | 224 | [DRUG LUV](https://open.spotify.com/track/0k4Ruf3uSQ57ozWuqGOjqr) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 1:53 |
-| 225 | [Mosh Pit](https://open.spotify.com/track/6U1PuS5d1FzwmiNKpfJPfi) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Blac Sheep 2](https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW) | 2:25 |
-| 226 | [Last Hook](https://open.spotify.com/track/6HfGKIFVkSAWvB64DSQdFa) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:30 |
+| 225 | [Last Hook](https://open.spotify.com/track/6HfGKIFVkSAWvB64DSQdFa) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:30 |
+| 226 | [Mosh Pit](https://open.spotify.com/track/6U1PuS5d1FzwmiNKpfJPfi) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Blac Sheep 2](https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW) | 2:25 |
 | 227 | [BoNjOuR](https://open.spotify.com/track/4WHU0x1SAjRd6KGnhVdGoj) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [F.A.C.T.S.](https://open.spotify.com/album/3U2PmvVkO4gvoC0CBrpNm7) | 2:30 |
 | 228 | [HoW i'M liViN'](https://open.spotify.com/track/2ypQEXin1AAHTcbfakhkGZ) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:16 |
 | 229 | [Real Trap](https://open.spotify.com/track/3yBpubzW5iquSgWt8Nt0BQ) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:00 |
 | 230 | [M$tAdNtpLy](https://open.spotify.com/track/7jA1ha00uRO2tGnNYkVNoN) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:55 |
-| 231 | [Money Fiend](https://open.spotify.com/track/4FlcBk8HiYpDhm4MCtnyAL) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [M3](https://open.spotify.com/album/2AL67EF0K5GnmYeA4fPZqZ) | 3:06 |
-| 232 | [Always Talking To God \(feat\. Tay Keith\)](https://open.spotify.com/track/45Nyjx1ECtH8lcvwjqkdmB) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [BABY G.O.A.T.](https://open.spotify.com/album/6wXCCU5YJXK02owezGmk3F) | 3:17 |
+| 231 | [Always Talking To God \(feat\. Tay Keith\)](https://open.spotify.com/track/45Nyjx1ECtH8lcvwjqkdmB) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [BABY G.O.A.T.](https://open.spotify.com/album/6wXCCU5YJXK02owezGmk3F) | 3:17 |
+| 232 | [Money Fiend](https://open.spotify.com/track/4FlcBk8HiYpDhm4MCtnyAL) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [M3](https://open.spotify.com/album/2AL67EF0K5GnmYeA4fPZqZ) | 3:06 |
 | 233 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 234 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
 | 235 | [Pirate](https://open.spotify.com/track/4nCg9oFwTWLHMYdIB4Kuxx) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [DMV](https://open.spotify.com/album/4be8M47GQNAYsHHMFJ77Hx) | 2:35 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 283 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 284 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AccfcgAAAACx9dBvQZXvWRc0lAnPR2hQ`
+Snapshot ID: `AcclCAAAAACsC28gmzo6vmwREL+QQfse`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "LV, VL Disappear, YV, Riffi, Ella John en meer..",
+  "description": "Miero YIC, Krulle, Bakss en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 138240,
       "name": "1000 Tequila",
       "url": "https://open.spotify.com/track/5UYUkCShJ5lCmeFlJL7Edh"
@@ -746,6 +746,24 @@
       "duration_ms": 122836,
       "name": "Acey - Freestyle",
       "url": "https://open.spotify.com/track/7zoKBGTGerWSihyAPg8bR4"
+    },
+    {
+      "album": {
+        "name": "Achtervolging",
+        "url": "https://open.spotify.com/album/4QhUXrX60BbcCSgH8zPDtg"
+      },
+      "artists": [
+        {
+          "name": "Karma K",
+          "url": "https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Achtervolging",
+      "url": "https://open.spotify.com/track/0dRPP866EKQv0E7NICi3HR"
     },
     {
       "album": {
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 132336,
       "name": "BBR (Bad Boy Riddim)",
       "url": "https://open.spotify.com/track/6tqKNC7anEV0JGD6B9POtA"
@@ -4671,6 +4689,54 @@
     },
     {
       "album": {
+        "name": "FINE GIRL",
+        "url": "https://open.spotify.com/album/0yWYbOEMYMUmFGWt5QQLaA"
+      },
+      "artists": [
+        {
+          "name": "JLYONN",
+          "url": "https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5"
+        },
+        {
+          "name": "Kaijoeyy",
+          "url": "https://open.spotify.com/artist/5Ibp4CHqfwCHUgpdKVHbZN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "FINE GIRL",
+      "url": "https://open.spotify.com/track/3kT3Sr7wOECbjkCPHeM4mp"
+    },
+    {
+      "album": {
+        "name": "Fine Shyt",
+        "url": "https://open.spotify.com/album/2ktXWmQgudWDgGdeqWZ5F4"
+      },
+      "artists": [
+        {
+          "name": "Geezzay",
+          "url": "https://open.spotify.com/artist/7E3sPDrqgkn1upFx2ecvit"
+        },
+        {
+          "name": "Inghostwetrust",
+          "url": "https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7"
+        },
+        {
+          "name": "JurrNF",
+          "url": "https://open.spotify.com/artist/0LmCrPDsL53bpkJJoZ3akw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Fine Shyt",
+      "url": "https://open.spotify.com/track/10hfRz2U0UitlFMAaQENJu"
+    },
+    {
+      "album": {
         "name": "FINESSE",
         "url": "https://open.spotify.com/album/5mqOOA4Udod2ISqV0eTtyK"
       },
@@ -5640,7 +5706,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185753,
       "name": "Haast",
       "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
@@ -5962,7 +6028,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 132923,
       "name": "Hele Hoop Gezeik",
       "url": "https://open.spotify.com/track/3e0YPJH9hEnarWJVNBw5li"
@@ -6547,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "ik moest blijkbaar m\u2019n hart ff luchten",
+        "url": "https://open.spotify.com/album/59lTjMWAIZzgT7a1ogYxvr"
+      },
+      "artists": [
+        {
+          "name": "Dashaeno",
+          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156565,
+      "name": "ik moest blijkbaar m\u2019n hart ff luchten",
+      "url": "https://open.spotify.com/track/2d7hZmNEODliUzCaCDguJy"
+    },
+    {
+      "album": {
         "name": "Ik Voel Je Ook",
         "url": "https://open.spotify.com/album/6rP481jUKZ9ZI3aEl5bgmr"
       },
@@ -6658,6 +6742,24 @@
     {
       "album": {
         "name": "Intro",
+        "url": "https://open.spotify.com/album/4Lu2nG0hs6Py0csv5nK2LJ"
+      },
+      "artists": [
+        {
+          "name": "Bakss",
+          "url": "https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2m7ZjtOppkHNRnb7G3A5VL"
+    },
+    {
+      "album": {
+        "name": "Intro",
         "url": "https://open.spotify.com/album/61FDAvH6H3NJSvbaEBRrnW"
       },
       "artists": [
@@ -6668,7 +6770,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 117003,
       "name": "Intro",
       "url": "https://open.spotify.com/track/05pI1u9vnEPBNASwXKTO8a"
@@ -7156,7 +7258,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 194307,
       "name": "Kicken",
       "url": "https://open.spotify.com/track/0tsYzxlfX2y7jMdfvWjDgg"
@@ -7174,7 +7276,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 170322,
       "name": "Killem",
       "url": "https://open.spotify.com/track/3ULycQf31qiw7m2DLzPCFL"
@@ -7339,6 +7441,32 @@
     },
     {
       "album": {
+        "name": "KOESTER DE MOMENTEN",
+        "url": "https://open.spotify.com/album/57An0jhBhSVySwfUwxV27u"
+      },
+      "artists": [
+        {
+          "name": "Harry Femer",
+          "url": "https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI"
+        },
+        {
+          "name": "Gianski",
+          "url": "https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy"
+        },
+        {
+          "name": "Obey Reilly",
+          "url": "https://open.spotify.com/artist/0QgDCyPlH6Wkal8oOg6bwh"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181993,
+      "name": "KOESTER DE MOMENTEN",
+      "url": "https://open.spotify.com/track/5C5OOFigGAS4CpzlFcDq84"
+    },
+    {
+      "album": {
         "name": "Kofferbak",
         "url": "https://open.spotify.com/album/38a8tnj5XYkJrcIiNyeRZL"
       },
@@ -7401,6 +7529,28 @@
     },
     {
       "album": {
+        "name": "Kom Kwijt",
+        "url": "https://open.spotify.com/album/3i61rrPBBZfU5Q8OWuNNln"
+      },
+      "artists": [
+        {
+          "name": "Miero YIC",
+          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
+        },
+        {
+          "name": "HAYABUSA",
+          "url": "https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146733,
+      "name": "Kom Kwijt",
+      "url": "https://open.spotify.com/track/1STsYnJrgmFdf94pKI1EAR"
+    },
+    {
+      "album": {
         "name": "Koude Zomer",
         "url": "https://open.spotify.com/album/7Bs2bVDuVZeDi7ylmfoE9c"
       },
@@ -7412,7 +7562,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 153786,
       "name": "Koude Zomer",
       "url": "https://open.spotify.com/track/2gcmzJ7VZLZingEz4PE5Cz"
@@ -7516,6 +7666,28 @@
       "duration_ms": 145454,
       "name": "La Famille",
       "url": "https://open.spotify.com/track/5VB4o8PrCn5wfnBRke3uD0"
+    },
+    {
+      "album": {
+        "name": "La Mafia",
+        "url": "https://open.spotify.com/album/3aZ3J8YhTgJ5jwAUPLmpUL"
+      },
+      "artists": [
+        {
+          "name": "Mardo4k",
+          "url": "https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS"
+        },
+        {
+          "name": "Gettalot",
+          "url": "https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "La Mafia",
+      "url": "https://open.spotify.com/track/4P1tSp9Wr4OidqkDNGBRt8"
     },
     {
       "album": {
@@ -8553,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Malaga",
+        "url": "https://open.spotify.com/album/4wnKynw37GcU5ObZTP3nYg"
+      },
+      "artists": [
+        {
+          "name": "Parsa",
+          "url": "https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Malaga",
+      "url": "https://open.spotify.com/track/2QfdB4ojiGGO2nh6mi8H3I"
+    },
+    {
+      "album": {
         "name": "Trapflix SE1",
         "url": "https://open.spotify.com/album/6bIqmNvOdqSqka7NDqssYA"
       },
@@ -9018,7 +9208,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 131200,
       "name": "Meters Pakken",
       "url": "https://open.spotify.com/track/1GmyXOZqTqg8419gR9TjoK"
@@ -9746,7 +9936,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 121752,
       "name": "Narcist",
       "url": "https://open.spotify.com/track/4wSwdlW8tbJJxSihYxDXdt"
@@ -9772,6 +9962,24 @@
       "duration_ms": 120500,
       "name": "Nasty Valentine",
       "url": "https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4"
+    },
+    {
+      "album": {
+        "name": "Nemen Alles Mee",
+        "url": "https://open.spotify.com/album/7wqxw3sp3VIxtefKGsgINH"
+      },
+      "artists": [
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169144,
+      "name": "Nemen Alles Mee",
+      "url": "https://open.spotify.com/track/0TZA0Wi611mS8EsKU0rGhS"
     },
     {
       "album": {
@@ -9892,7 +10100,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 155090,
       "name": "Nieges",
       "url": "https://open.spotify.com/track/375eT1LgJCjz8DqmAiX5Kd"
@@ -10128,6 +10336,24 @@
       "duration_ms": 120048,
       "name": "Niet Thuis Kom",
       "url": "https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N"
+    },
+    {
+      "album": {
+        "name": "Niet voor jou",
+        "url": "https://open.spotify.com/album/25bp1Wrlxulhflp3z4M6Ea"
+      },
+      "artists": [
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Niet voor jou",
+      "url": "https://open.spotify.com/track/54yBcGZaS45A5GtrIAjm3b"
     },
     {
       "album": {
@@ -11325,6 +11551,32 @@
     },
     {
       "album": {
+        "name": "Plug Is Frans",
+        "url": "https://open.spotify.com/album/6P40DAUF6ZWj9Edog7sHGH"
+      },
+      "artists": [
+        {
+          "name": "Krulle",
+          "url": "https://open.spotify.com/artist/46RCrwnB1Q69JdwTDyI7t0"
+        },
+        {
+          "name": "Chrisjeboy",
+          "url": "https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk"
+        },
+        {
+          "name": "Dret",
+          "url": "https://open.spotify.com/artist/5a5wAoxsOfJiJISpzFjAvk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146848,
+      "name": "Plug Is Frans",
+      "url": "https://open.spotify.com/track/59S8vul4213DZY9GtvsSh6"
+    },
+    {
+      "album": {
         "name": "Praat van de Straat II",
         "url": "https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB"
       },
@@ -11878,6 +12130,24 @@
       "duration_ms": 131506,
       "name": "Reputatie",
       "url": "https://open.spotify.com/track/6GswjjMeNBVHpk57bw6lLq"
+    },
+    {
+      "album": {
+        "name": "Richard",
+        "url": "https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sellah",
+          "url": "https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255585,
+      "name": "Richard",
+      "url": "https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j"
     },
     {
       "album": {
@@ -14290,7 +14560,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 236498,
       "name": "VIER (Jorogh)",
       "url": "https://open.spotify.com/track/018VmYY8aSyPLRB3uxtmEZ"
@@ -14421,6 +14691,24 @@
     },
     {
       "album": {
+        "name": "Vlaams Belang",
+        "url": "https://open.spotify.com/album/43Y0IiR1gzmHu1peJW292O"
+      },
+      "artists": [
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101790,
+      "name": "Vlaams Belang",
+      "url": "https://open.spotify.com/track/1aQyavopZCe2qLOQSDKSHw"
+    },
+    {
+      "album": {
         "name": "Achtbaan 2",
         "url": "https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF"
       },
@@ -14480,7 +14768,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144478,
       "name": "Vollgas",
       "url": "https://open.spotify.com/track/4Loq1Zsw5NkBO9B0KUGT05"
@@ -15452,7 +15740,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 148396,
       "name": "Ze Zeggen",
       "url": "https://open.spotify.com/track/3ubhnVdqf9T0RxMbbIRz3r"

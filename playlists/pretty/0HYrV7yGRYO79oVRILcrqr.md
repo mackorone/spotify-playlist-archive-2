@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,896 likes - 137 songs - 8 hr 55 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,897 likes - 138 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 135 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 |
 | 136 | [Recomeçar](https://open.spotify.com/track/1mF1agdfi1QMRxBjQn5xbM) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Recomeçar](https://open.spotify.com/album/6l2uBj66bAHppxXgObKV87) | 3:18 |
 | 137 | [Whatever You Want Is What It Means](https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Whatever You Want Is What It Means](https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr) | 2:58 |
+| 138 | [Addicted to Failure](https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Addicted to Failure](https://open.spotify.com/album/7sp6s7LO5qVt5RNrtnmqEd) | 3:46 |
 
-Snapshot ID: `AAAMhMmjLRzsDUV2awYZiwTZFfRtowTa`
+Snapshot ID: `AAAMhRpQvRrz8DKtIi7VX1tOn0dfHsgC`

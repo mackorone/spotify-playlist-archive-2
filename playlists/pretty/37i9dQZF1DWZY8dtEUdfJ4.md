@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,194 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,216 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 6 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 |
 | 7 | [Poupée de cire, poupée de son](https://open.spotify.com/track/0e3LOEZR3NwbbHFGPYr3uQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Françaises](https://open.spotify.com/album/4o970crCLaxSZo18jDN7eo) | 2:33 |
 | 8 | [Tombe la neige](https://open.spotify.com/track/6NVx24kOU2B8IZ0HsY2fUz) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Mes plus belles chansons d'amour](https://open.spotify.com/album/0iptDBG98BUELZzglvwUSc) | 2:57 |
-| 9 | [Nathalie \- Remasterisé en 2011](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
+| 9 | [Nathalie \- Remasterisé en 2011](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Bécaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
 | 10 | [Belles! Belles! Belles!](https://open.spotify.com/track/7wYpB83H0dKcV7yw8tlwId) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [En avant les yéyés](https://open.spotify.com/album/2ZMAOqWb5XF4O8lGWei5lD) | 2:14 |
 | 11 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 |
 | 12 | [L'amour l'amour l'amour](https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour \- Le meilleur de Mouloudji](https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo) | 3:01 |

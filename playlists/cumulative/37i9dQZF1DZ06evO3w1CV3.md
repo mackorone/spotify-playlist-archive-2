@@ -4,7 +4,7 @@
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 6 min
+56 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2023-05-02 |  |
 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 | 2023-05-02 |  |
 | [No Hands](https://open.spotify.com/track/0gZcAOhjbDoLGzCQ0VW2J6) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 2:11 | 2023-05-02 |  |
+| [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx) | 4:01 | 2026-09-18 |  |
 | [Paris](https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper \(Deluxe\)](https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st) | 6:18 | 2026-04-26 | 2026-05-18 |
 | [Paris](https://open.spotify.com/track/2w2sCjixgyyamJykaquknE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 6:18 | 2025-09-21 | 2025-09-24 |
 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/0KNlcGzjtCGqpqVEdcDeWc) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 2:47 | 2025-09-24 | 2025-09-28 |

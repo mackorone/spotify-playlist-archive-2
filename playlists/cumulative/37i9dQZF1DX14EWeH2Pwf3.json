@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Shiva in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
+  "description": "Marra e Gu\u00e8 in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -228,6 +228,28 @@
       "duration_ms": 167314,
       "name": "1 vs 1",
       "url": "https://open.spotify.com/track/73GjHCj5pJAF3LDJXp4o4C"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141706,
+      "name": "1/1 feat. 18K",
+      "url": "https://open.spotify.com/track/0BpQsSXOB1dhbMUwBUZryA"
     },
     {
       "album": {
@@ -2819,6 +2841,36 @@
     },
     {
       "album": {
+        "name": "Adaver",
+        "url": "https://open.spotify.com/album/6ymcXECKZ5zTBtxG4eccCa"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Mothz",
+          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
+        },
+        {
+          "name": "Ksub",
+          "url": "https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Baghdad (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2Q4mwPVCB1mtFDnH0R6YqH"
+    },
+    {
+      "album": {
         "name": "NON \u00c8 SOLO SWAG",
         "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
       },
@@ -5315,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Chanel Lover",
+        "url": "https://open.spotify.com/album/1RCnguHNYHdLmcg2BI5LM3"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165806,
+      "name": "Chanel Lover",
+      "url": "https://open.spotify.com/track/0Yp9ucE0RYF7WNdKZMjRhH"
+    },
+    {
+      "album": {
         "name": "CHANELINA SOUBRETTE (feat. Disme & Ele A)",
         "url": "https://open.spotify.com/album/6fKwRnm0PQ64ynXzqCVdHC"
       },
@@ -5792,7 +5862,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 135384,
       "name": "COCORITA",
       "url": "https://open.spotify.com/track/7v8GJM7HT0up2rUrgCiNHq"
@@ -6776,7 +6846,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166025,
       "name": "DARKMONEY (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw"
@@ -14418,7 +14488,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173445,
       "name": "MILLION DOLLAR BABE",
       "url": "https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A"
@@ -16696,7 +16766,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196923,
       "name": "odio stare sobrio (feat. Side Baby)",
       "url": "https://open.spotify.com/track/5QRMTIWt2DXOGhMdjPzyWF"
@@ -16956,7 +17026,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185384,
       "name": "OL\u00c8 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
@@ -17294,6 +17364,28 @@
       "duration_ms": 152534,
       "name": "PACHAMAMA (feat. Rhove)",
       "url": "https://open.spotify.com/track/0aiwUtIjsp36bKrIBXBXYl"
+    },
+    {
+      "album": {
+        "name": "TPT: THE PERFECT TOOL",
+        "url": "https://open.spotify.com/album/7bjrOUkGzNYY5k3Rfygl0B"
+      },
+      "artists": [
+        {
+          "name": "Palazzi D'Oriente",
+          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165976,
+      "name": "PAGAMI!",
+      "url": "https://open.spotify.com/track/5nXhCJA4btmpfL1qBGff5r"
     },
     {
       "album": {
@@ -20856,7 +20948,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 114174,
       "name": "SCONTROSA (feat. G.Mineiro)",
       "url": "https://open.spotify.com/track/40UibIQfdcyLJDgfDDA2MR"
@@ -22304,6 +22396,24 @@
       "duration_ms": 141459,
       "name": "SPOILER 2 (feat. 22simba)",
       "url": "https://open.spotify.com/track/6SSA409P7m2TMND2saQETo"
+    },
+    {
+      "album": {
+        "name": "SPORTLIFE",
+        "url": "https://open.spotify.com/album/78hhxZVZlrHJV4UxmirBUv"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "SPORTLIFE",
+      "url": "https://open.spotify.com/track/7l2vPfyoq0ssCGCOA8Af50"
     },
     {
       "album": {
@@ -24095,6 +24205,28 @@
     },
     {
       "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Un come non un perch\u00e9 feat. Tedua",
+      "url": "https://open.spotify.com/track/2YQfSwdaDrqlkIWN11eZ0M"
+    },
+    {
+      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -24132,7 +24264,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 168088,
       "name": "UN UOMO SOLO PU\u00d2 CAMBIARE IL MONDO (feat. 22simba)",
       "url": "https://open.spotify.com/track/5N8XAkHlMe9g6MqVBHB4re"
@@ -24384,6 +24516,24 @@
       "duration_ms": 209333,
       "name": "V per Vangelo",
       "url": "https://open.spotify.com/track/4oMiCgeROySnMbUDwH9lt3"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103637,
+      "name": "Valle dei Re",
+      "url": "https://open.spotify.com/track/0roIq7Szo7q48nQ1IDbBES"
     },
     {
       "album": {

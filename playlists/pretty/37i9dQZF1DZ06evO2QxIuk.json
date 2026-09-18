@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376064,
+  "num_followers": 376078,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAADk67iOAHVQIV/xrhUSj8mz",
+  "snapshot_id": "aqiKgAAAAAAuOyCEKVIwnIOqd1pNL0ZR",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 230674,
-      "name": "Serpentine Fire",
-      "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
+      "duration_ms": 43168,
+      "name": "In the Marketplace (Interlude)",
+      "url": "https://open.spotify.com/track/5sz00JY0sDJHdK6R2x3BRM"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 43168,
-      "name": "In the Marketplace (Interlude)",
-      "url": "https://open.spotify.com/track/5sz00JY0sDJHdK6R2x3BRM"
+      "duration_ms": 230674,
+      "name": "Serpentine Fire",
+      "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 250649,
-      "name": "Turn It into Something Good",
-      "url": "https://open.spotify.com/track/1u5W2MmLUUZ4olQ9kVs9KI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Powerlight",
         "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 356373,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 250649,
+      "name": "Turn It into Something Good",
+      "url": "https://open.spotify.com/track/1u5W2MmLUUZ4olQ9kVs9KI"
     },
     {
       "added_at": null,

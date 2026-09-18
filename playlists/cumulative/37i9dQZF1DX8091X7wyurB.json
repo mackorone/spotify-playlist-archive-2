@@ -3255,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/2gPcWe1SdWpKszjT5bbLp4"
+      },
+      "artists": [
+        {
+          "name": "James Pringle",
+          "url": "https://open.spotify.com/artist/6zkTqZtCq2WEPpDCWg7NxT"
+        },
+        {
+          "name": "Marissa Verheij",
+          "url": "https://open.spotify.com/artist/3z90wMw1VNG1zqJ77L8Z9S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298701,
+      "name": "Desires",
+      "url": "https://open.spotify.com/track/1kLkJloAFF6Sx4PxfEg5Xj"
+    },
+    {
+      "album": {
         "name": "Desperate",
         "url": "https://open.spotify.com/album/6C3XRo6uVDZ3QJxUESb8Bx"
       },
@@ -9818,7 +9840,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 285000,
       "name": "King of Glory",
       "url": "https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I"
@@ -10868,6 +10890,24 @@
       "duration_ms": 424672,
       "name": "Mighty God - Live At Kairos Night",
       "url": "https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt"
+    },
+    {
+      "album": {
+        "name": "Mighty Name Of Jesus (Cover)",
+        "url": "https://open.spotify.com/album/2DYYOz6tsylNGTGUjCmi3g"
+      },
+      "artists": [
+        {
+          "name": "Musa Yende",
+          "url": "https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278432,
+      "name": "Mighty Name Of Jesus (Cover)",
+      "url": "https://open.spotify.com/track/7hTsP9R7JsYif0Xo2q7bgZ"
     },
     {
       "album": {
@@ -14246,7 +14286,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 953130,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
@@ -14748,7 +14788,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 797250,
       "name": "Roho Wa Bwana - Live",
       "url": "https://open.spotify.com/track/1FjSPs2mz84ESNUOMOsE2x"
@@ -19122,7 +19162,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 571389,
       "name": "Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/6FcD51DG6adcDsPhe57q31"
@@ -19840,6 +19880,24 @@
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+    },
+    {
+      "album": {
+        "name": "Zam",
+        "url": "https://open.spotify.com/album/6eu55PBIWMd7SqKKlE8GUp"
+      },
+      "artists": [
+        {
+          "name": "Uchenna Okereke",
+          "url": "https://open.spotify.com/artist/1v6oc4EIuG6iwgwVw2HSwS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Zam",
+      "url": "https://open.spotify.com/track/3QsyuaDNK6P3hIX7KrJO6D"
     },
     {
       "album": {

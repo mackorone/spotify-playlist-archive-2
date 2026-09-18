@@ -1,6 +1,6 @@
 {
   "description": "De Wembley al Azteca. Los cantos que mueven al estadio. Man\u00e1 en portada.",
-  "num_followers": 169792,
+  "num_followers": 169783,
   "original_name": "M\u00e9xico vs Inglaterra",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-07-03 16:01:18",
       "album": {
+        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
+        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 546546,
+      "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
+      "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
+    },
+    {
+      "added_at": "2026-07-03 16:01:18",
+      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/7sYd6KDHefklNf94RmND8g"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
-    },
-    {
-      "added_at": "2026-07-03 16:01:18",
-      "album": {
-        "name": "Lo Mejor en Bellas Artes - 40 Aniversario",
-        "url": "https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 546546,
-      "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
-      "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
     },
     {
       "added_at": "2026-07-03 16:01:18",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-07-03 16:01:18",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "added_at": "2026-07-03 16:01:18",
-      "album": {
         "name": "Fiesta Mexicana Con Mariachi (USA)",
         "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-07-03 16:01:18",
       "album": {
-        "name": "The Best of New Order",
-        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 270826,
-      "name": "World in Motion",
-      "url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki"
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
     },
     {
       "added_at": "2026-07-03 16:01:18",
@@ -443,6 +427,22 @@
       "duration_ms": 199720,
       "name": "El Sonidito",
       "url": "https://open.spotify.com/track/229HcoVMtqCUU6vY8Yyhnk"
+    },
+    {
+      "added_at": "2026-07-03 16:01:18",
+      "album": {
+        "name": "The Best of New Order",
+        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "World in Motion",
+      "url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki"
     },
     {
       "added_at": "2026-07-03 16:01:18",

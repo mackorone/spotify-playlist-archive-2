@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 29 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 26 | [La Pirilacha \- Version Picante](https://open.spotify.com/track/1TftmBZi2akApAsy5KFvHc) | [Los Picantes](https://open.spotify.com/artist/2yvZnt3TKXoYhdcbQi6vpO) | [Corazon de Chileno Todo el Año](https://open.spotify.com/album/2U9Hj4J7VyykZsnj1uCBot) | 4:44 |
 | 27 | [Caballito de Metal](https://open.spotify.com/track/4eQ1yPkRikDkD6bDHMqgmW) | [El Monteaguilino](https://open.spotify.com/artist/7cC4OFKSHYZuKU6cgbB4vf) | [Caballito De Metal](https://open.spotify.com/album/1P4DnbRrzeHo1c3EoRpx8r) | 4:31 |
 | 28 | [Mi Velorio](https://open.spotify.com/track/3JoSllsJcC8s6ur3xFUpgg) | [Nano Parra](https://open.spotify.com/artist/1Dz2K8YBmq9Tkzf1UvXoIc) | [Mi Chile Lindo, Vol\. 2](https://open.spotify.com/album/6QkzVlPAYgchoKGzia1ZBs) | 2:47 |
-| 29 | [Camino de Luna](https://open.spotify.com/track/7jcjNFOIUcSVLoUPqkxghD) | [Hugo Lagos](https://open.spotify.com/artist/7BWDkl7CcU4jZBURtDEKTa) | [Cuecas Pa'l Dieciocho](https://open.spotify.com/album/2ewZQaPhTKCpaCQxOvtVly) | 3:12 |
-| 30 | [Saint Seiya \(Caballeros del Zodiaco\) goes metal](https://open.spotify.com/track/2UHqMj1TQ1F7Skpst70EpP) | [Charlie Parra del Riego](https://open.spotify.com/artist/31Eoi17HcQM7ElqMMXIUU3) | [Anime goes metal](https://open.spotify.com/album/0szt5qI5nF3kRzUnIlmscL) | 3:43 |
+| 29 | [Saint Seiya \(Caballeros del Zodiaco\) goes metal](https://open.spotify.com/track/2UHqMj1TQ1F7Skpst70EpP) | [Charlie Parra del Riego](https://open.spotify.com/artist/31Eoi17HcQM7ElqMMXIUU3) | [Anime goes metal](https://open.spotify.com/album/0szt5qI5nF3kRzUnIlmscL) | 3:43 |
 
 Snapshot ID: `aqdjMAAAAACIp4bAu4zo5Og/VdJmhWeY`

@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Aietraaf",
+        "url": "https://open.spotify.com/album/23MM4aonXOvETzXhDcAeK5"
+      },
+      "artists": [
+        {
+          "name": "Humail Rajpoot",
+          "url": "https://open.spotify.com/artist/6QwjrW6ixvGxwP61YNTDJl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Aietraaf",
+      "url": "https://open.spotify.com/track/2QyzriHe6eGyUxsyVh9hFp"
+    },
+    {
+      "album": {
         "name": "Pyaar Bhi Kya Nasha Hai",
         "url": "https://open.spotify.com/album/6R96po3YMxLrgaErJ4XNpM"
       },
@@ -1954,6 +1972,24 @@
       "duration_ms": 192548,
       "name": "Ansuna",
       "url": "https://open.spotify.com/track/180a4qjGZ7IOznuhXqJ9pG"
+    },
+    {
+      "album": {
+        "name": "Ao Na",
+        "url": "https://open.spotify.com/album/16D0r5RD9sXGAkJ9OhRGED"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Naseem",
+          "url": "https://open.spotify.com/artist/1feaMTBMVOuvDJPoJnyy0H"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Ao Na",
+      "url": "https://open.spotify.com/track/6idyrdxAX6DM6tIAT6CPLq"
     },
     {
       "album": {
@@ -3240,6 +3276,28 @@
       "duration_ms": 174757,
       "name": "Bechara",
       "url": "https://open.spotify.com/track/2opFSaUlno7TPxiUXSmfGH"
+    },
+    {
+      "album": {
+        "name": "Bedardi Ishq",
+        "url": "https://open.spotify.com/album/5ZB5DbnZ2Xqkv2IIIVVYwA"
+      },
+      "artists": [
+        {
+          "name": "Ritik Sharma",
+          "url": "https://open.spotify.com/artist/1SuZ3nXBxnLqscv7N6EIpU"
+        },
+        {
+          "name": "Musawir Khan",
+          "url": "https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201091,
+      "name": "Bedardi Ishq",
+      "url": "https://open.spotify.com/track/2w8ODO7SulehbpTniL3Xkl"
     },
     {
       "album": {
@@ -11108,7 +11166,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161763,
       "name": "itna zaroor",
       "url": "https://open.spotify.com/track/5kjJlgieZwsu2sP5zA14VK"
@@ -13052,6 +13110,32 @@
       "duration_ms": 172263,
       "name": "Khatt",
       "url": "https://open.spotify.com/track/2er98B4Rasv7WtIZIWlUU8"
+    },
+    {
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/0VXSJsAas10oeP2HUNefXT"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Daud Raheel",
+          "url": "https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG"
+        },
+        {
+          "name": "Jibran Raheel",
+          "url": "https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/772wevNT7Kft3Bn7iBEuOK"
     },
     {
       "album": {
@@ -16134,6 +16218,24 @@
       "duration_ms": 281847,
       "name": "Mere Pardesi Yaara",
       "url": "https://open.spotify.com/track/7hloEeP0Ymgs3P0Qd4pHn5"
+    },
+    {
+      "album": {
+        "name": "Mere Rastay",
+        "url": "https://open.spotify.com/album/1BDMTvpNSExnlcE3cAxxqz"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Hassan",
+          "url": "https://open.spotify.com/artist/1tVgKRoGjul8dKsFwf5odY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240052,
+      "name": "Mere Rastay",
+      "url": "https://open.spotify.com/track/2MPe3jNxbPWdeZ2Eqb2MY1"
     },
     {
       "album": {
@@ -21132,7 +21234,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 180141,
       "name": "Saajna",
       "url": "https://open.spotify.com/track/27xt7pD3h0mZ6cg0y07PpV"
@@ -24369,6 +24471,28 @@
     },
     {
       "album": {
+        "name": "Teray Rang",
+        "url": "https://open.spotify.com/album/1ts7vh1udrOFaQAbQrs9gf"
+      },
+      "artists": [
+        {
+          "name": "Shamikh",
+          "url": "https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH"
+        },
+        {
+          "name": "Amaizy",
+          "url": "https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Teray Rang",
+      "url": "https://open.spotify.com/track/4juZ9fZmQ01oqUOzJO7nJd"
+    },
+    {
+      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/3V9bbH89FYbEussngQUTS4"
       },
@@ -25996,6 +26120,32 @@
       "duration_ms": 220800,
       "name": "Tumharay Wala Gana",
       "url": "https://open.spotify.com/track/5fEN7R3R8WBbinhFLUgpDn"
+    },
+    {
+      "album": {
+        "name": "tuu",
+        "url": "https://open.spotify.com/album/7wwWATJfGkWErCMaWXk4ns"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khalid",
+          "url": "https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf"
+        },
+        {
+          "name": "Ittehad Band",
+          "url": "https://open.spotify.com/artist/0Kyzc9LMJjZeLOBvyBsfid"
+        },
+        {
+          "name": "Seventean",
+          "url": "https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152311,
+      "name": "tuu",
+      "url": "https://open.spotify.com/track/72SinU5HNrqxakGLztrp68"
     },
     {
       "album": {

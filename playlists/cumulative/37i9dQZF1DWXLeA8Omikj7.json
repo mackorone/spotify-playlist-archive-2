@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 203589,
       "name": "incanto e disperazione",
       "url": "https://open.spotify.com/track/2qQEnJkgPeipnZWQz21DDe"
@@ -15816,7 +15816,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 271792,
       "name": "Reality Programmers",
       "url": "https://open.spotify.com/track/6KZep20QiBbcYf4Vk6ANKv"
@@ -16933,6 +16933,24 @@
     },
     {
       "album": {
+        "name": "Se upp i backen / Lore",
+        "url": "https://open.spotify.com/album/5hfOPMh7ghUSPKQ9z7JHfg"
+      },
+      "artists": [
+        {
+          "name": "Dorisburg",
+          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527800,
+      "name": "Se upp i backen",
+      "url": "https://open.spotify.com/track/2VWao5xeIf5cgkhzwhAY3I"
+    },
+    {
+      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -16980,7 +16998,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 439096,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s"
@@ -20932,7 +20950,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 190528,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL"

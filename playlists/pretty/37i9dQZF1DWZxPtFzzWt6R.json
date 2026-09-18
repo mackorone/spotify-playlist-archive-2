@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115150,
+  "num_followers": 115171,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Quem \u00c9 Como Tu, Senhor?",
         "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Vai Ter Recompensa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
       },
@@ -599,6 +599,26 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Voz e Viol\u00e3o - Parte 1",
         "url": "https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 172487,
       "name": "Encontrar Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -691,6 +695,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Voc\u00ea Vai Cantar",
         "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 163258,
       "name": "Assim Como Deus Quer",
       "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     },
     {
       "added_at": "2026-09-08 19:57:09",

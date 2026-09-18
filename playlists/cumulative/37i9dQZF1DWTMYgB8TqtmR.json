@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 175228,
       "name": "Berusade ord",
       "url": "https://open.spotify.com/track/0RxBz475eVWbDQQwcY7DNa"
@@ -6909,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "funny feeling",
+        "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "funny feeling",
+      "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
+    },
+    {
+      "album": {
         "name": "F\u00c5 MEN SAMLAD",
         "url": "https://open.spotify.com/album/2GWJavE5Sx53Z1EG6ZWJFL"
       },
@@ -10676,7 +10694,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 131825,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP"
@@ -12222,7 +12240,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 121133,
       "name": "Matadoren",
       "url": "https://open.spotify.com/track/7csipHDyLCVoXOhbuQa3Iq"
@@ -13220,6 +13238,24 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -20604,6 +20640,24 @@
       "duration_ms": 131612,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY"
+    },
+    {
+      "album": {
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
     },
     {
       "album": {

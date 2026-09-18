@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Maseta
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Lilo Lilo
 
-579 songs - 1 day 12 hr 51 min
+582 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Call It Your Mistake](https://open.spotify.com/track/0ChzQqTVCak89QbSa8h6oX) | [Woodland Ginger](https://open.spotify.com/artist/31YUuJ5b2ItoNYS7zknifj) | [Call It Your Mistake](https://open.spotify.com/album/5xOhQEgZgCDqKmqSQQJw8l) | 4:08 | 2026-06-26 |  |
 | [can't get over you](https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ) | [Ernesto.](https://open.spotify.com/artist/0gaT6R7nbUJWNbZOydCP8m) | [can't get over you](https://open.spotify.com/album/7n3C0AQw8Qm91SJsxFXtyB) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Can't Stop Thinking of You](https://open.spotify.com/track/16QDnfyDBztTEdBatjF09y) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [The Reasons Why](https://open.spotify.com/album/3iSXqJbtRNytqs0ytpuxHO) | 4:00 | 2024-06-27 | 2024-09-06 |
+| [Cantik Setengah Gila](https://open.spotify.com/track/1YUuoRsYrAbFmoA8CcnuMO) | [Lilo Lilo](https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo) | [Cantik Setengah Gila](https://open.spotify.com/album/3C4tBhlOQaUIFTE9D8xmsL) | 3:22 | 2026-09-18 |  |
 | [Carnivalesque](https://open.spotify.com/track/06hKqQ9hjUQ65adSKQaEXW) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [Carnivalesque](https://open.spotify.com/album/06zbNGdpNU3SYN4fCTsktf) | 4:40 | 2024-06-27 | 2024-07-25 |
 | [Carry On](https://open.spotify.com/track/7zaQd7lAIWuQdW5CM9bFpN) | [Soul And Kith](https://open.spotify.com/artist/1jZOq09Qg4IopZVhHUMQXL) | [Carry On](https://open.spotify.com/album/0JcpxwvJAw4VZWdGc5pAXW) | 3:19 | 2025-04-10 | 2025-06-13 |
 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-16 | 2024-11-29 |
@@ -435,6 +436,7 @@
 | [Room 17A \(make up ur mind\)](https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON), [deadlorians.](https://open.spotify.com/artist/3AHPaHS4KdmuYyAIk3i9qF) | [Room 17A \(make up ur mind\)](https://open.spotify.com/album/5gx1vLtw8bGVTPC7VIelrN) | 3:45 | 2025-09-18 | 2026-02-06 |
 | [ROSES](https://open.spotify.com/track/5G4ijkq6GDdMYLKRMvz3rV) | [BEEMS](https://open.spotify.com/artist/3yMqTkJp45JOiDtMvfcS8r) | [REFLECTIONS](https://open.spotify.com/album/24Sb1huCPgcnMD0amvFZak) | 2:47 | 2026-06-26 |  |
 | [Rufus](https://open.spotify.com/track/4K1ZDFZFRXEA0t97xTrPUC) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Rufus/Odyssey](https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb) | 4:44 | 2024-07-11 | 2024-09-06 |
+| [Rumah Bisa Lahir Sekali Lagi](https://open.spotify.com/track/1xBvYDhdvZbeHwUz2kX2Iw) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149) | [Rumah Bisa Lahir Sekali Lagi](https://open.spotify.com/album/5rByAlusoQjHXZBebDoILM) | 3:33 | 2026-09-18 |  |
 | [Rumah Terakhir](https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V), [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Rumah Terakhir](https://open.spotify.com/album/20cjU6B2kkUlLY0Rw7MCYo) | 4:21 | 2025-08-28 | 2026-02-13 |
 | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/track/5UKYIox4ovOf0mWjqDXJU0) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rahara](https://open.spotify.com/artist/48RPzUPIqKTqfx3LE2VthB) | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/album/0CDj4xAP2fHJe6YTVqg6tu) | 3:45 | 2024-06-27 | 2025-02-21 |
 | [Sailing](https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur) | [Scalopoly](https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh) | [Sailing](https://open.spotify.com/album/2Zg02Ya2RASXCiPefRZQzd) | 4:30 | 2026-05-01 |  |
@@ -529,6 +531,7 @@
 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 | 2026-01-23 | 2026-06-26 |
 | [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum), [ttturbo](https://open.spotify.com/artist/1bIDaru9s7vnfkubeG1VyG) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 | 2026-04-17 |  |
 | [Tentang Mimpi Berupa Pelangi](https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Semburat](https://open.spotify.com/album/3mhN7GdnANPCYy3Jh7HgFC) | 4:21 | 2026-03-05 | 2026-05-23 |
+| [terabas](https://open.spotify.com/track/1ImHE0IWsCbyMGun6wtujF) | [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De), [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [terabas](https://open.spotify.com/album/7FzI7yQ4IyGpCVMwsTWCX2) | 5:05 | 2026-09-18 |  |
 | [Terang Bulan](https://open.spotify.com/track/1V1cJhyveqBGlssgLDcEod) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Terang Bulan](https://open.spotify.com/album/0cRrQUuCmCJ4rgfrAHW7Xc) | 2:43 | 2026-07-24 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
 | [Terjaga Lagi](https://open.spotify.com/track/7bkJLI3IM5ZG0iDq9XOO4j) | [ZZUF](https://open.spotify.com/artist/3bAPJlYXp3xosM0se7sttr) | [Zzuf](https://open.spotify.com/album/7q975qcq1XsO3uwj0pxiFm) | 3:12 | 2026-09-11 |  |

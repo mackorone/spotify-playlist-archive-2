@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117409,
+  "num_followers": 117404,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Sweet Old World",
-      "url": "https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Cruel Moon",
         "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 195293,
       "name": "Does My Ring Burn Your Finger",
       "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Sweet Old World",
+      "url": "https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF"
     },
     {
       "added_at": "2026-06-19 04:01:42",

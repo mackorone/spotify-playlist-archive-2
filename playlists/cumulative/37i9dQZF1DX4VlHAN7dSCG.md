@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Soul Sorry
 
-998 songs - 2 day 17 hr 1 min
+999 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 | 2024-11-21 | 2025-01-24 |
 | [假裝局外](https://open.spotify.com/track/1Zu8j6ZST3UH0aZHba75mK) | [XincMotion](https://open.spotify.com/artist/1ZJRNr0X1RO94FvyJnBHmu) | [假裝局外](https://open.spotify.com/album/3w3Kd24uUtZfY60ebZCU9H) | 2:39 | 2024-10-31 | 2024-11-03 |
 | [偏見](https://open.spotify.com/track/7wlocnIB0q2PJNPnXuSAyI) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [偏見](https://open.spotify.com/album/4FFAAiLfmOlYcoyEMRUcyL) | 5:28 | 2025-07-31 | 2025-10-03 |
+| [做伙拚](https://open.spotify.com/track/6NG3Lwz3Mz6WNWu2DhpCQj) | [夕陽武士](https://open.spotify.com/artist/3LmynxtIGtwglp8tWWEJKs) | [做伙拚](https://open.spotify.com/album/66tL6rldCcYl4Rat46iDGV) | 3:44 | 2026-09-17 |  |
 | [做運動](https://open.spotify.com/track/5pdOw0j7Ov5g4LBsLcKjMz) | [第三象限](https://open.spotify.com/artist/1QuywLsREqubWKD5Ydv8ml) | [手寫卡片再也不值錢了TT](https://open.spotify.com/album/5iWcJJVxGaqWCGBgDSEzjC) | 7:03 | 2024-08-22 | 2024-08-30 |
 | [停留](https://open.spotify.com/track/5qiJHEuGogfxUqNXMLqe3A) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [Metamorphosis](https://open.spotify.com/album/1xCpoCbrDN9nC0JYTvxD0y) | 4:49 | 2024-11-28 | 2025-01-24 |
 | [偶像 \(feat.五月天 阿信\)](https://open.spotify.com/track/1ensBF2RM6BCYOqliw68Va) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [偶像](https://open.spotify.com/album/0bVv3tyuxEvWtDLPmA8fTO) | 4:01 | 2025-03-06 | 2025-03-28 |

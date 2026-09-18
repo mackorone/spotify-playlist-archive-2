@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-351 songs - 1 day 6 hr 54 min
+353 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,11 @@
 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Ebenezer](https://open.spotify.com/track/1pUziLzSTQwGR6GZrwH1IQ) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Ebenezer](https://open.spotify.com/album/5V5er9R1BFyn8hmXLVj22M) | 4:28 | 2024-05-03 | 2025-03-21 |
 | [Ebenezer \- Live](https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Ebenezer \(Live\)](https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T) | 5:02 | 2024-01-26 |  |
+| [Ee Mungu](https://open.spotify.com/track/4ibQV83z1AdY0h9VXLfKLu) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Ee Mungu](https://open.spotify.com/album/6MTalOCjKLNp572jCMJnqN) | 10:15 | 2026-09-18 |  |
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |
 | [Enda](https://open.spotify.com/track/3g4RPFobpRoFLRzmtVu5Az) | [Dr Mbuvi](https://open.spotify.com/artist/5Y1M968gXXstPz4Oz6iB7V) | [Enda](https://open.spotify.com/album/0EU86Gh71F26AL0LCyFMVp) | 3:19 | 2026-07-31 |  |
 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 | 2023-07-21 | 2024-11-22 |
+| [Follow You](https://open.spotify.com/track/0rPHbjvkc0865miIQL6DQG) | [Karungi](https://open.spotify.com/artist/6UZPRQOTP9ETNx2LHtuH90), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Follow You](https://open.spotify.com/album/62gpSf3rygw2nDFDJldu6N) | 2:57 | 2026-09-18 |  |
 | [For Me](https://open.spotify.com/track/0JuQugiqRPorEn8jQ7cc5W) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [For Me](https://open.spotify.com/album/4fcHzgzwobDMPvshp3U7oR) | 3:48 | 2025-03-28 | 2025-08-09 |
 | [Fugazi](https://open.spotify.com/track/5B3P2y63tqqYkaTEmvhucg) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Moses Luka](https://open.spotify.com/album/0Bx2I6c8NDDvcsEGMeSJKd) | 2:48 | 2026-04-17 | 2026-06-19 |
 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 | 2025-10-10 |
@@ -95,7 +97,7 @@
 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 | 2023-05-05 | 2025-02-21 |
 | [Ila Yesu 2.0](https://open.spotify.com/track/4Wn56Oxveq87wGPDClhfLz) | [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU), [Isaiah Charles](https://open.spotify.com/artist/1wBf0Bp55H5Y68MiNgcjA2) | [Ila Yesu 2.0](https://open.spotify.com/album/1OLaMOBhz382rQMuhtYsya) | 14:30 | 2026-07-10 |  |
 | [In You](https://open.spotify.com/track/4rM07tKFQ0Ea4dCt61VOjm) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [In You](https://open.spotify.com/album/47yMhmltyGzvT6mYOrkP8l) | 7:50 | 2025-09-05 | 2025-10-17 |
-| [Jemedari](https://open.spotify.com/track/0vf9iDQU5ZPT6vxquVbnRK) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg), [Happy Mhae](https://open.spotify.com/artist/625oxVJqGmZtybnl9MdV1w) | [Jemedari](https://open.spotify.com/album/3LFKuACH1hToNOHIbN2XtO) | 14:16 | 2025-10-03 |  |
+| [Jemedari](https://open.spotify.com/track/0vf9iDQU5ZPT6vxquVbnRK) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg), [Happy Mhae](https://open.spotify.com/artist/625oxVJqGmZtybnl9MdV1w) | [Jemedari](https://open.spotify.com/album/3LFKuACH1hToNOHIbN2XtO) | 14:16 | 2025-10-03 | 2026-09-18 |
 | [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 | 2022-06-24 | 2023-05-21 |
 | [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 | 2022-06-24 | 2023-06-09 |
 | [Jina Takatifu](https://open.spotify.com/track/7tUw7l5NOyvzfLr6EFjjMf) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Jina Takatifu](https://open.spotify.com/album/4SWHBXpkt4ZWt9TfHpPITK) | 4:49 | 2026-02-06 | 2026-04-24 |
@@ -270,7 +272,7 @@
 | [Siendi Bila Wewe](https://open.spotify.com/track/13gevUnYIDW3IqkMOkdi6q) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Siendi Bila Wewe](https://open.spotify.com/album/5xgGi1XEezUjTOzK8t2nhv) | 4:02 | 2025-09-05 |  |
 | [Sifa Ziko Juu](https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m) | [Neo Elani](https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4) | [Sifa Ziko Juu](https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL) | 7:55 | 2025-08-22 | 2025-11-14 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |
-| [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 |  |
+| [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 | 2026-09-18 |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |
 | [Sina](https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk) | [Dan Mogore](https://open.spotify.com/artist/1kXWa1Sm47CnIF75qJPMlb), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Sina](https://open.spotify.com/album/6jHthNnOMILdIeuYOLKklG) | 3:25 | 2026-07-03 | 2026-08-07 |
@@ -357,7 +359,7 @@
 | [Yesu Karibu Kwangu](https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP) | [Rose Muhando](https://open.spotify.com/artist/4yJ8cEYvhv5blAUqfUkkdB) | [Miamba Imepasuka](https://open.spotify.com/album/3VocSMSSIm7jEXiWLn54W6) | 6:54 | 2022-06-24 | 2024-04-19 |
 | [Yesu Ni Uhuru](https://open.spotify.com/track/5IIMN8tmrJuLilwwjWBJ5Y) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [WE ARE BELOVED](https://open.spotify.com/artist/2pqzfd3r50fk530AHMXwRg) | [Yesu Ni Uhuru](https://open.spotify.com/album/5wD3Gxx9HneMjA8VBJlPW2) | 3:27 | 2025-09-05 | 2025-11-22 |
 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 | 2022-06-24 | 2026-05-29 |
-| [Yesu Tu](https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv) | [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU), [Pastor Josiah](https://open.spotify.com/artist/6PypfrJLo9zmwthye6qEwh) | [Yesu Tu](https://open.spotify.com/album/2h7bZxmqya57VGujgafvgV) | 16:10 | 2026-04-24 |  |
+| [Yesu Tu](https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv) | [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU), [Pastor Josiah](https://open.spotify.com/artist/6PypfrJLo9zmwthye6qEwh) | [Yesu Tu](https://open.spotify.com/album/2h7bZxmqya57VGujgafvgV) | 16:10 | 2026-04-24 | 2026-09-18 |
 | [Yoyo](https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Yoyo](https://open.spotify.com/album/03VvutM1txcETp75KZwHE8) | 3:26 | 2026-06-12 |  |
 
 \*This playlist was first scraped on 2022-06-26. Prior content cannot be recovered.

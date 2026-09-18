@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-475 songs - 1 day 0 hr 22 min
+476 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Voyage](https://open.spotify.com/track/0saZwRp7tEo7AiqmBhrnn4) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Voyage](https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd) | 4:22 | 2022-02-03 | 2022-09-15 |
 | [Wait A While](https://open.spotify.com/track/0Dr0XdJ9OvXOUliU3mpHMn) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [m els](https://open.spotify.com/artist/4AqQDC7iD1m7opRDm95GGD), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Wait A While](https://open.spotify.com/album/493oxECc6D9qRDmOw5i5e4) | 2:55 | 2025-06-20 |  |
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |
+| [Waiting](https://open.spotify.com/track/1Wn5EmILIwKsyvbwCDTTBx) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Waiting](https://open.spotify.com/album/3tp1Kc2rSItZsYhfYLxMEg) | 2:47 | 2026-09-17 |  |
 | [Waiting For You](https://open.spotify.com/track/1TMABbejBbBNMd49DHFHdL) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq) | [Waiting For You](https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx) | 2:45 | 2022-02-08 | 2023-08-11 |
 | [Waiting For You](https://open.spotify.com/track/3JG6IcoOqW2IFlWYLFlgBs) | [Kkriegerz](https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW) | [Waiting For You](https://open.spotify.com/album/7Ge6ApjDzOEtMX43mTaLeU) | 2:16 | 2026-07-10 |  |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-08-10 | 2024-11-20 |

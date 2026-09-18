@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Coco Elise
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,422 likes - 91 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,454 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 35 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 |
 | 36 | [Fate](https://open.spotify.com/track/2DPz3uZQfoMlqFFRGrYPDm) | [16 Underground](https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS) | [Without a Trace](https://open.spotify.com/album/4J2oAGZpdMbBnBBbtyAL2o) | 2:41 |
 | 37 | [Getting Older](https://open.spotify.com/track/31N3n74RprUGrTPLekOKto) | [Graham Hunt](https://open.spotify.com/artist/3cdxdVJIA1FE4oMT85haWb) | [Getting Older](https://open.spotify.com/album/1DFGGjMw4cY5PbKM73qU93) | 2:16 |
-| 38 | [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 |
+| 38 | [Man may not last](https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Ladybug Mecca](https://open.spotify.com/artist/2gbAU1PZLHR6eSPh0diTuX) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 5:45 |
 | 39 | [The Land That's Always There](https://open.spotify.com/track/0cry4TyixOiWNCftCOAOlJ) | [Bones Forever](https://open.spotify.com/artist/16eWMKOPHbBrZBqtG8pZiU) | [Bones Forever](https://open.spotify.com/album/3C2Eo4tSee1Ep9s3JSOrlD) | 5:44 |
 | 40 | [Kick In The Teeth](https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Kick in the Teeth](https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK) | 2:48 |
 | 41 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 90 | [good and bad](https://open.spotify.com/track/6WUEmA64al3W96gO853HQA) | [Gash](https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX) | [good and bad](https://open.spotify.com/album/1qkGUEHkUBJByyj5NU6iTQ) | 1:35 |
 | 91 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
 
-Snapshot ID: `AAAAAJOdj7x8iqgWAXRJsuS1qPgFu+Ax`
+Snapshot ID: `AAAAAFvluCEjwuXn2HI9AXnHeh8AnN4R`

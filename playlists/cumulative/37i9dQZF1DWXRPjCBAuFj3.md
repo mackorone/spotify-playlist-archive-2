@@ -4,7 +4,7 @@
 
 > Dieci anni di Santeria 🐎🐎🐎
 
-1,097 songs - 2 day 8 hr 13 min
+1,098 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,6 +1040,7 @@
 | [VELENO \(feat\. Néza\)](https://open.spotify.com/track/0a4drTfDdtdqXu2qvFFll8) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [DIAMANTE](https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh) | 2:39 | 2026-02-25 | 2026-07-31 |
 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 | 2026-03-16 |  |
 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-09-17 | 2025-10-15 |
+| [Vibin](https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs) | [Wxoda](https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG) | [Vibin](https://open.spotify.com/album/3Gm7PcJD5anUXqQt1K10Jx) | 1:34 | 2026-09-17 |  |
 | [Victorious](https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Victorious//Bullets](https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z) | 2:24 | 2023-08-25 | 2023-09-29 |
 | [Voglio Di Più](https://open.spotify.com/track/45wYm3Gs6W57fg2gCHCtxB) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Voglio Di Più](https://open.spotify.com/album/5Vcj8dtHyVQDJgJYIkrUDV) | 2:46 | 2026-09-11 |  |
 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 | 2025-11-05 |  |

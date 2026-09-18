@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Maiyarap, Sexski
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: KHSD THAITAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,391 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,390 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
 | 2 | [วนวาย ;\(](https://open.spotify.com/track/4DlLZVEkw1XY2LjzyaLDcL) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [วนวาย ;\(](https://open.spotify.com/album/49nvVWujZaPRqsejJhKM0j) | 2:54 |
 | 3 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
-| 4 | [No Introduction](https://open.spotify.com/track/4PEfatTvQbflklnsllmPaX) | [KHSD THAITAY](https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8) | [No Introduction](https://open.spotify.com/album/02aCKlu9mMEO2OMuz1SonS) | 3:06 |
+| 4 | [Be](https://open.spotify.com/track/6xqg3lZF0ylaqoQ2kGNXWI) | [KHSD THAITAY](https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [JROC](https://open.spotify.com/artist/4YmOaRQQQjbqkQkcDoMzum), [Mega Perk](https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY) | [Be](https://open.spotify.com/album/4ceDdDRrQgCoLjgSBJNsZk) | 4:46 |
 | 5 | [เธอทีละสองฉันทีละคน](https://open.spotify.com/track/38r4bUf6Yo38weYngITM6y) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [Zax or Die](https://open.spotify.com/album/2k5BF1JguN0uDurX32WEV4) | 4:05 |
 | 6 | [นานแค่ไหน](https://open.spotify.com/track/6DLUrYQzRslBVyu0ZvTSYJ) | [K.AGLET](https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw) | [นานแค่ไหน](https://open.spotify.com/album/0Fg9OiB4V08gnUppnWogbh) | 4:18 |
 | 7 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [YOU NEVER KNOW](https://open.spotify.com/track/5BeLJRxFkczvAcJUYj8Seg) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [YOU NEVER KNOW](https://open.spotify.com/album/5y4566wv4cSisuNwLSiL60) | 2:43 |
 | 50 | [หอมปากหอมคอ](https://open.spotify.com/track/3kpr6KbvKveACnE90jsk47) | [iluvujayjay](https://open.spotify.com/artist/00tPUeyHhiMPilBP7yYkwG) | [หอมปากหอมคอ](https://open.spotify.com/album/7vd0K3N7mdk9MJu4wFon4c) | 2:25 |
 
-Snapshot ID: `AAAAADmVywKkcMRXEPqMr7Rs4bvNbcqM`
+Snapshot ID: `AAAAAOs0tiH2Hdsfh0VBbcpi/YzNlXNh`

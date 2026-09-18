@@ -1,12 +1,12 @@
 {
   "description": "The best new music from independent artists and labels. Featuring PUSHBACK. Curated with love by human Spotify editors.",
-  "num_followers": 1220533,
+  "num_followers": 1221039,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOxXD7F+ZKytZg1Ce6MpKOHvrpE+",
+  "snapshot_id": "AAAAAPYwlpTmcTiwuc9y8HQZ9k/T0rdf",
   "tracks": [
     {
       "added_at": "2026-09-16 15:28:43",
@@ -25,56 +25,20 @@
       "url": "https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT"
     },
     {
-      "added_at": "2026-09-16 15:28:43",
+      "added_at": "2026-09-17 16:26:15",
       "album": {
-        "name": "Whatyoufeellike",
-        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/5QTFpjtGpvcWHVUNFvttiR"
       },
       "artists": [
         {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+          "name": "Kuper",
+          "url": "https://open.spotify.com/artist/4XkrwECe3PXGLGzaxuLGin"
         }
       ],
-      "duration_ms": 166209,
-      "name": "Whatyoufeellike",
-      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "Can We Talk?",
-        "url": "https://open.spotify.com/album/4ZfoNT53PrKcdGCXQdbFFr"
-      },
-      "artists": [
-        {
-          "name": "VNESSA",
-          "url": "https://open.spotify.com/artist/3KdGbRHItmkWPmcfPbASWJ"
-        },
-        {
-          "name": "J$L",
-          "url": "https://open.spotify.com/artist/6vIjwW1WEsw6CfMUIyS4oW"
-        }
-      ],
-      "duration_ms": 161464,
-      "name": "Can We Talk?",
-      "url": "https://open.spotify.com/track/1oZ9sLfmGVbVELcxPJGI4T"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "Buckle Up",
-        "url": "https://open.spotify.com/album/7f6wHctjQt8mTn9auqe5VG"
-      },
-      "artists": [
-        {
-          "name": "Josephine's Next Million Miles",
-          "url": "https://open.spotify.com/artist/3ZdjOlUfHyKZZMF0A0ED8p"
-        }
-      ],
-      "duration_ms": 224843,
-      "name": "Dust Mites",
-      "url": "https://open.spotify.com/track/2o6qhl113WLVP50oWKMkuU"
+      "duration_ms": 190564,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/3QGSm3spB9X1RWw20HZ6uP"
     },
     {
       "added_at": "2026-09-16 15:28:43",
@@ -91,38 +55,6 @@
       "duration_ms": 208519,
       "name": "V1 / Rotate",
       "url": "https://open.spotify.com/track/4M7pl2FQz2hg3cjQUNXAF8"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/7j57GwcTQ7tS5z5oyQbtvK"
-      },
-      "artists": [
-        {
-          "name": "BabyRu78",
-          "url": "https://open.spotify.com/artist/3FBU2WoaEzquFaIIe1dzHj"
-        }
-      ],
-      "duration_ms": 169781,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/6iTXarwyXpRBxtFwendvJe"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "TOPDOWN",
-        "url": "https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        }
-      ],
-      "duration_ms": 191555,
-      "name": "TOPDOWN",
-      "url": "https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A"
     },
     {
       "added_at": "2026-09-09 23:25:55",
@@ -155,22 +87,6 @@
       "duration_ms": 259986,
       "name": "Do What You Want",
       "url": "https://open.spotify.com/track/29xuQE0QEwo0CjomQxVNQ3"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "I <3 You",
-        "url": "https://open.spotify.com/album/1TnELmd9snfmrRmxse8NX0"
-      },
-      "artists": [
-        {
-          "name": "Love Egg",
-          "url": "https://open.spotify.com/artist/5QNhVWZXwIZEHUQWbLG2yr"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "I <3 You",
-      "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
     },
     {
       "added_at": "2026-09-09 23:25:55",
@@ -207,6 +123,22 @@
     {
       "added_at": "2026-09-16 15:28:43",
       "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
+    },
+    {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
         "name": "we'll laugh about it later",
         "url": "https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW"
       },
@@ -219,6 +151,38 @@
       "duration_ms": 344897,
       "name": "we'll laugh about it later",
       "url": "https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC"
+    },
+    {
+      "added_at": "2026-09-09 23:25:55",
+      "album": {
+        "name": "Human Assholes",
+        "url": "https://open.spotify.com/album/2aRRmGGBqVGIRiGprweImR"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "duration_ms": 348413,
+      "name": "Human Assholes",
+      "url": "https://open.spotify.com/track/2PcHF7dfPN2p68kozrCZBr"
+    },
+    {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
+        "name": "I <3 You",
+        "url": "https://open.spotify.com/album/1TnELmd9snfmrRmxse8NX0"
+      },
+      "artists": [
+        {
+          "name": "Love Egg",
+          "url": "https://open.spotify.com/artist/5QNhVWZXwIZEHUQWbLG2yr"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "I <3 You",
+      "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
     },
     {
       "added_at": "2026-09-16 15:28:43",
@@ -243,38 +207,6 @@
       "duration_ms": 267400,
       "name": "Dog Leash",
       "url": "https://open.spotify.com/track/5aqXRrzye0MXIlHYiRjXKH"
-    },
-    {
-      "added_at": "2026-09-16 15:28:43",
-      "album": {
-        "name": "In N Out",
-        "url": "https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4"
-      },
-      "artists": [
-        {
-          "name": "Zach Stephenson",
-          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "In N Out",
-      "url": "https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6"
-    },
-    {
-      "added_at": "2026-09-09 23:25:55",
-      "album": {
-        "name": "Human Assholes",
-        "url": "https://open.spotify.com/album/2aRRmGGBqVGIRiGprweImR"
-      },
-      "artists": [
-        {
-          "name": "Personal Trainer",
-          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
-        }
-      ],
-      "duration_ms": 348413,
-      "name": "Human Assholes",
-      "url": "https://open.spotify.com/track/2PcHF7dfPN2p68kozrCZBr"
     },
     {
       "added_at": "2026-09-16 15:28:43",
@@ -353,6 +285,22 @@
       "url": "https://open.spotify.com/track/7AI69ErIp5fZFg9WuV2Pwg"
     },
     {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/7j57GwcTQ7tS5z5oyQbtvK"
+      },
+      "artists": [
+        {
+          "name": "BabyRu78",
+          "url": "https://open.spotify.com/artist/3FBU2WoaEzquFaIIe1dzHj"
+        }
+      ],
+      "duration_ms": 169781,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/6iTXarwyXpRBxtFwendvJe"
+    },
+    {
       "added_at": "2026-09-09 23:25:55",
       "album": {
         "name": "MERCLAND",
@@ -375,6 +323,26 @@
     {
       "added_at": "2026-09-16 15:28:43",
       "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/4ZfoNT53PrKcdGCXQdbFFr"
+      },
+      "artists": [
+        {
+          "name": "VNESSA",
+          "url": "https://open.spotify.com/artist/3KdGbRHItmkWPmcfPbASWJ"
+        },
+        {
+          "name": "J$L",
+          "url": "https://open.spotify.com/artist/6vIjwW1WEsw6CfMUIyS4oW"
+        }
+      ],
+      "duration_ms": 161464,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1oZ9sLfmGVbVELcxPJGI4T"
+    },
+    {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
         "name": "The Arrival",
         "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
       },
@@ -387,6 +355,22 @@
       "duration_ms": 211363,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
     },
     {
       "added_at": "2026-09-09 23:25:55",
@@ -613,6 +597,22 @@
       "url": "https://open.spotify.com/track/09ovKflFL3KRcFvNMnM7aj"
     },
     {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
+        "name": "TOPDOWN",
+        "url": "https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "TOPDOWN",
+      "url": "https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A"
+    },
+    {
       "added_at": "2026-09-09 23:25:55",
       "album": {
         "name": "SKULL",
@@ -775,6 +775,22 @@
       "duration_ms": 220540,
       "name": "Margot Tenenbaum",
       "url": "https://open.spotify.com/track/0mVl3BQkaK38OHUJ3AU7Tb"
+    },
+    {
+      "added_at": "2026-09-16 15:28:43",
+      "album": {
+        "name": "Buckle Up",
+        "url": "https://open.spotify.com/album/7f6wHctjQt8mTn9auqe5VG"
+      },
+      "artists": [
+        {
+          "name": "Josephine's Next Million Miles",
+          "url": "https://open.spotify.com/artist/3ZdjOlUfHyKZZMF0A0ED8p"
+        }
+      ],
+      "duration_ms": 224843,
+      "name": "Dust Mites",
+      "url": "https://open.spotify.com/track/2o6qhl113WLVP50oWKMkuU"
     },
     {
       "added_at": "2026-08-26 18:29:29",
@@ -1663,22 +1679,6 @@
       "duration_ms": 212055,
       "name": "You Are Never Gone From Me",
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
-    },
-    {
-      "added_at": "2026-08-13 03:49:18",
-      "album": {
-        "name": "half smile",
-        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
-      },
-      "artists": [
-        {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "half smile",
-      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     }
   ],
   "unique_name": "Fresh Finds",

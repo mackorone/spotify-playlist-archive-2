@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Maiyarap, Sexski",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KHSD THAITAY",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -924,6 +924,36 @@
       "duration_ms": 123680,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI"
+    },
+    {
+      "album": {
+        "name": "Be",
+        "url": "https://open.spotify.com/album/4ceDdDRrQgCoLjgSBJNsZk"
+      },
+      "artists": [
+        {
+          "name": "KHSD THAITAY",
+          "url": "https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj"
+        },
+        {
+          "name": "THAITANIUM",
+          "url": "https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8"
+        },
+        {
+          "name": "JROC",
+          "url": "https://open.spotify.com/artist/4YmOaRQQQjbqkQkcDoMzum"
+        },
+        {
+          "name": "Mega Perk",
+          "url": "https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286927,
+      "name": "Be",
+      "url": "https://open.spotify.com/track/6xqg3lZF0ylaqoQ2kGNXWI"
     },
     {
       "album": {
@@ -5452,7 +5482,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 186154,
       "name": "No Introduction",
       "url": "https://open.spotify.com/track/4PEfatTvQbflklnsllmPaX"

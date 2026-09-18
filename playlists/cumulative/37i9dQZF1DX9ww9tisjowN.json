@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Hoshimachi Suisei",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: LiSA",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 172757,
       "name": "AFTER RAIN",
       "url": "https://open.spotify.com/track/2l58XxJRiMfls9Oh1Zc0qs"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 191999,
       "name": "Cantare",
       "url": "https://open.spotify.com/track/6DCQHIS4sRR1aBoSiQegyL"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171851,
       "name": "COLA!",
       "url": "https://open.spotify.com/track/2BT213EvQ1WcsDo7UkfMAc"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "DECOTORA15",
       "url": "https://open.spotify.com/track/2CrdSq6ylCC45LyexjTPo7"
@@ -4466,7 +4466,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 119380,
       "name": "Guin Guin Guin",
       "url": "https://open.spotify.com/track/23ug8eyGwbN88jOr8C9fBC"
@@ -4910,6 +4910,24 @@
       "duration_ms": 238711,
       "name": "Home",
       "url": "https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"
+    },
+    {
+      "album": {
+        "name": "hora",
+        "url": "https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "hora",
+      "url": "https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9"
     },
     {
       "album": {
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169332,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5vhxzbVMOzJ9zNX8HLhHZg"
@@ -8698,6 +8716,28 @@
       "duration_ms": 210346,
       "name": "Odo",
       "url": "https://open.spotify.com/track/37bNBNB332HXbSy6079cws"
+    },
+    {
+      "album": {
+        "name": "ODORE (feat. SHO-SENSEI!!)",
+        "url": "https://open.spotify.com/album/2RMVspDyI5iiHIwXJdx0jE"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        },
+        {
+          "name": "SHO-SENSEI!!",
+          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238633,
+      "name": "ODORE - feat. SHO-SENSEI!!",
+      "url": "https://open.spotify.com/track/3qrnhfvQZn12yahFDTgWaS"
     },
     {
       "album": {
@@ -11198,7 +11238,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 349794,
       "name": "summer film",
       "url": "https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x"
@@ -12079,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "EN-G\u00cfNE",
+        "url": "https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "TRANSLATE",
+      "url": "https://open.spotify.com/track/1uol8s3UHFIz2mMpMTgBQS"
+    },
+    {
+      "album": {
         "name": "ENMEISHU",
         "url": "https://open.spotify.com/album/4vV37t2zD1g56S6wPA4qVO"
       },
@@ -12682,6 +12740,28 @@
       "duration_ms": 216013,
       "name": "Waraigusa",
       "url": "https://open.spotify.com/track/7606gBXc0S34E96zE448t2"
+    },
+    {
+      "album": {
+        "name": "WATCH ME",
+        "url": "https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "WATCH ME feat. BIA",
+      "url": "https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ"
     },
     {
       "album": {
@@ -15236,7 +15316,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 198947,
       "name": "\u30a2\u30f3\u30c1\u30b5\u30a4\u30ce\u30a6",
       "url": "https://open.spotify.com/track/3KvJPexXqenDgcP6RKRPip"
@@ -20302,7 +20382,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 262106,
       "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
       "url": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
@@ -20995,6 +21075,28 @@
     },
     {
       "album": {
+        "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/7LJsGjKF8UNlsvBeXezspq"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211892,
+      "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2oiylllT3beeY5RsyDbJwF"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -21028,6 +21130,24 @@
       "duration_ms": 230373,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/2fJbss5uUmmBqn7qFkmyWj"
+    },
+    {
+      "album": {
+        "name": "LACE UP",
+        "url": "https://open.spotify.com/album/1pQSHHdneb1dWfV8RRRIeA"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382450,
+      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+      "url": "https://open.spotify.com/track/5M7jWHYQvmDxZsXfLCnnPU"
     },
     {
       "album": {
@@ -21750,6 +21870,24 @@
       "duration_ms": 187253,
       "name": "\u7b2c\u4e09\u60d1\u661f - The Third Planet",
       "url": "https://open.spotify.com/track/75B3tVCZozY6YRkC9N6ThQ"
+    },
+    {
+      "album": {
+        "name": "LEO-NiNE",
+        "url": "https://open.spotify.com/album/2tRjIwDqbQ1103lcxd4s0q"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237580,
+      "name": "\u7d05\u84ee\u83ef",
+      "url": "https://open.spotify.com/track/6ZxPofP51IZY0GOepgf0xQ"
     },
     {
       "album": {

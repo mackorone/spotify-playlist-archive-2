@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Shaw",
+  "description": "Cover: ElGrandeToto",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185172,
       "name": "AKI AKI",
       "url": "https://open.spotify.com/track/5FogjmVbRPx0hR0irl6IP3"
@@ -2330,6 +2330,28 @@
       "duration_ms": 272000,
       "name": "Contrat Diction",
       "url": "https://open.spotify.com/track/1K2YZW5H3UHdA869QK9cc8"
+    },
+    {
+      "album": {
+        "name": "UFUL",
+        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "Couci Couca",
+      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
       "album": {
@@ -6510,7 +6532,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 179782,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6"
@@ -7386,6 +7408,28 @@
       "duration_ms": 163720,
       "name": "Parano",
       "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
+    },
+    {
+      "album": {
+        "name": "PASADENA",
+        "url": "https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178203,
+      "name": "PASADENA",
+      "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
     },
     {
       "album": {

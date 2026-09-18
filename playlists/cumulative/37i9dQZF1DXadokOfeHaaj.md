@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-536 songs - 1 day 9 hr 37 min
+537 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Unfold](https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:45 | 2021-10-28 | 2024-03-29 |
 | [Unpredictable](https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Unpredictable](https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa) | 3:17 | 2024-03-22 | 2025-01-17 |
 | [Up](https://open.spotify.com/track/28rIQ2vFiYoZi3cEFuuefV) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Up](https://open.spotify.com/album/05o5zwaxeEFR7VzttQs727) | 3:22 | 2024-05-10 | 2025-02-14 |
+| [ur so cool](https://open.spotify.com/track/7ePRg0Qbb1z6FfePSjcoMb) | [La La](https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5) | [ur so cool](https://open.spotify.com/album/7Jf2OitdRK6vGBwAXoVU8s) | 2:37 | 2026-09-10 |  |
 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-24 | 2025-11-28 |
 | [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 | 2024-03-22 | 2025-01-17 |
 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 | 2024-05-10 | 2025-02-14 |

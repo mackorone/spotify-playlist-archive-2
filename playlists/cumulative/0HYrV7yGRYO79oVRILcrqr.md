@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-749 songs - 1 day 22 hr 41 min
+750 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 | 2025-12-17 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
 | [Addicted to Disco](https://open.spotify.com/track/7gcSHFl4IYfJQhsyfy9e1T) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 2:43 | 2026-07-11 |  |
+| [Addicted to Failure](https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8) | [LUDIOSIS](https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp) | [Addicted to Failure](https://open.spotify.com/album/7sp6s7LO5qVt5RNrtnmqEd) | 3:46 | 2026-09-17 |  |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2026-04-23 | 2026-06-25 |
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-03-11 | 2026-04-21 |
 | [Ain't It Fun?](https://open.spotify.com/track/5XTkhdlsfIAMm5DvRYpG4Z) | [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [regina hum](https://open.spotify.com/artist/1GzBgXa7ZG3GRRHkhZXYSK), [Gabriel Peralta](https://open.spotify.com/artist/1qhj4RJDwgkhjWXssCAQva) | [Ain't It Fun?](https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK) | 5:01 | 2025-09-22 | 2025-12-17 |

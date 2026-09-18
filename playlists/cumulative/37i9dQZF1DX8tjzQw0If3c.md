@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: quiet morning
+> Meet the future\. Cover: WHYLUCAS
 
-332 songs - 18 hr 4 min
+333 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 | 2024-12-04 | 2025-04-16 |
 | [DnD](https://open.spotify.com/track/7w1K0j4Rb96IPp8zWjnBVi) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [DnD](https://open.spotify.com/album/0KoohkTwoT27LS2O8e90bV) | 3:07 | 2025-04-15 | 2026-04-07 |
 | [Don't Worry](https://open.spotify.com/track/2poasR8mTbcuUseGZJZafo) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Don't Worry](https://open.spotify.com/album/7LcmDtKcEGkq1APtXKMRlK) | 2:45 | 2026-02-05 | 2026-04-07 |
+| [DON’T GO RUNNIN’](https://open.spotify.com/track/1N6ZrGxV9zMxCUkxM7N1Ca) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [DON’T GO RUNNIN’](https://open.spotify.com/album/7CowrN8T59kOkdNCjXX6UU) | 2:55 | 2026-09-17 |  |
 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 | 2024-06-27 | 2025-04-16 |
 | [DREAMING IN SICHUANESE\*](https://open.spotify.com/track/0nhMh8LM4zPx0DDnijH9t2) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [STATE OF THE ART\*](https://open.spotify.com/album/7b8D1WBTCFHoe816CESuau) | 2:35 | 2026-04-06 |  |
 | [Easy](https://open.spotify.com/track/74FylcapPWWlk7TIJ48S6i) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:36 | 2025-09-08 | 2025-10-17 |
@@ -101,7 +102,7 @@
 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 | 2024-06-27 | 2025-04-16 |
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 | 2024-12-05 |
 | [Feel The Same](https://open.spotify.com/track/2e6RKDGy1H8eZXqAkMxZA2) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/7pIB5u9qoSnakys0SgUQho) | 2:52 | 2024-12-04 | 2025-04-16 |
-| [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 | 2026-09-10 |  |
+| [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 | 2026-09-10 | 2026-09-18 |
 | [Find My Way](https://open.spotify.com/track/5HXyUHV7K2OmRoYQ0sVFa7) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:44 | 2025-02-13 | 2025-04-16 |
 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 | 2026-06-25 |  |
 | [FOOLED](https://open.spotify.com/track/1VHJJ9e9cYiYZ2vTeYJCWw) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [FOOLED](https://open.spotify.com/album/6XKnNZ3GHLBXdHxD9NNpwW) | 3:38 | 2025-09-26 | 2026-04-07 |
@@ -149,7 +150,7 @@
 | [Infiniti \- Kita Up \- With PUBG MOBILE](https://open.spotify.com/track/31z3l66d3BsegFeUdqLGYU) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Infiniti \- Kita Up \(With PUBG MOBILE\)](https://open.spotify.com/album/1hx79XY2B7kSU08oIpEfUE) | 4:05 | 2026-03-27 | 2026-04-07 |
 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 | 2025-11-13 | 2026-04-07 |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 | 2025-04-16 |
-| [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 | 2026-08-20 |  |
+| [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/track/1L4JAfalGltZ5oZmpd5mOS) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Izinkan Aku Belajar Jatuh Sendiri](https://open.spotify.com/album/0lRbwQsSKPIZYjiyNDjURw) | 4:16 | 2026-08-20 | 2026-09-18 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2025-09-08 | 2025-10-17 |
 | [Jauh](https://open.spotify.com/track/4o64yCnunzxxTpeqrLOv3j) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/1M7yu1U4OWjUyRyQ5Q8GlX) | 4:12 | 2025-12-03 | 2026-01-17 |
 | [Jauh](https://open.spotify.com/track/2O6MV3S7hRTngQNOlmNDFc) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Jauh](https://open.spotify.com/album/5Dd7HkqZFZVTyC2dUIdHJU) | 4:13 | 2025-04-15 | 2026-04-07 |
@@ -224,7 +225,7 @@
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 | 2026-04-07 |
 | [ONE DAY AT A TIME](https://open.spotify.com/track/3uGdsz2OOs5pGodQvEiPnh) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Kevin Brendan](https://open.spotify.com/artist/6ugRGLIWSHusjCas08bxXr) | [ONE DAY AT A TIME](https://open.spotify.com/album/43r58mDnZjEN1v3DQEMGP5) | 3:57 | 2025-11-27 | 2026-04-07 |
 | [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 | 2025-08-21 | 2026-04-07 |
-| [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 | 2026-09-03 |  |
+| [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 | 2026-09-03 | 2026-09-18 |
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 | 2026-04-07 |
 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 | 2026-04-06 |  |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 | 2025-04-16 |

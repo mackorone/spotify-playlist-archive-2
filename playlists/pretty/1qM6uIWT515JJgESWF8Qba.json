@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 567,
+  "num_followers": 568,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACKaO9Hrl62poUjNnbDfhmbZ0EyxAW",
+  "snapshot_id": "AAACLM/QttlOnwP3vhTGsvp+BtfTYtm0",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1195,6 +1195,54 @@
       "duration_ms": 182289,
       "name": "Come In For A Ride",
       "url": "https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm"
+    },
+    {
+      "added_at": "2026-09-17 14:16:22",
+      "album": {
+        "name": "Aeon's End",
+        "url": "https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 296334,
+      "name": "Aeon's End",
+      "url": "https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY"
+    },
+    {
+      "added_at": "2026-09-17 14:29:49",
+      "album": {
+        "name": "A Big Dose of Speed",
+        "url": "https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "duration_ms": 158859,
+      "name": "Dose of Speed",
+      "url": "https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC"
+    },
+    {
+      "added_at": "2026-09-17 17:50:58",
+      "album": {
+        "name": "When the City Had Lights",
+        "url": "https://open.spotify.com/album/5zx9A3KVxyvW32t7qKKt54"
+      },
+      "artists": [
+        {
+          "name": "Faisal Ryan",
+          "url": "https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "When the City Had Lights",
+      "url": "https://open.spotify.com/track/5TkLUpNSTx2sFiO5ynwq2O"
     }
   ],
   "unique_name": "Local Rock Bands",

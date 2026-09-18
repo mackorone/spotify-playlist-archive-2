@@ -4,7 +4,7 @@
 
 > My enemy na sapa
 
-926 songs - 1 day 19 hr 51 min
+927 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Claro \- Remix](https://open.spotify.com/track/76D7VSkqGGLWfceh46Q3u1) | [Tobi Adu](https://open.spotify.com/artist/16o16zAhWJZGxny53h8TaU), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Claro \(Remix\)](https://open.spotify.com/album/6csL3SCACkZbhaF91d46i0) | 3:10 | 2023-10-13 | 2023-12-02 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 | 2024-03-22 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 | 2022-07-07 | 2022-07-29 |
+| [Closure](https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Closure](https://open.spotify.com/album/0ZIBldCBiuFLx1WKUpneQU) | 2:04 | 2026-09-11 |  |
 | [Cold Store](https://open.spotify.com/track/4nuWbYtpBbVEk3cEd9GqXH) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cold Store](https://open.spotify.com/album/0Ub4pjqm0vVFuTB33kvc7t) | 3:22 | 2022-07-07 | 2022-07-26 |
 | [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 | 2024-06-14 |  |
 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 | 2022-06-03 | 2024-03-22 |

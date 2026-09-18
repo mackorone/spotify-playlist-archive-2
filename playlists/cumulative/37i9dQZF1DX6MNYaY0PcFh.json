@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183021,
       "name": "Gotta Have It",
       "url": "https://open.spotify.com/track/3uRbDTbV1cux3narst5tIh"
@@ -4272,6 +4272,28 @@
       "duration_ms": 181141,
       "name": "King Steps",
       "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
+    },
+    {
+      "album": {
+        "name": "P \u2605 K I",
+        "url": "https://open.spotify.com/album/2y1prRtwVuujlCVYcbcwEg"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "ance.",
+          "url": "https://open.spotify.com/artist/5gARTVXOrWKJrKoTdJ9TKk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208375,
+      "name": "Koi Si",
+      "url": "https://open.spotify.com/track/0xy2uyNdYhF6lI9ipDkiIA"
     },
     {
       "album": {
@@ -6924,7 +6946,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 192727,
       "name": "See Me",
       "url": "https://open.spotify.com/track/0hOsmrl2E5UVCfjpK0iZvx"
@@ -7136,6 +7158,24 @@
     {
       "album": {
         "name": "Show Me",
+        "url": "https://open.spotify.com/album/3E7tBmMlRZB4Din5YPsHUx"
+      },
+      "artists": [
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/3iu0u83LIYx3tv31MUAfd8"
+    },
+    {
+      "album": {
+        "name": "Show Me",
         "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
       },
       "artists": [
@@ -7262,7 +7302,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 204285,
       "name": "SMOOTH",
       "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
@@ -7924,7 +7964,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 230500,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/1f9NLjlCaWJdeGFh4srqX3"

@@ -1,13 +1,29 @@
 {
-  "description": "\"Juste un peu\" de Jungeli et EMMA est le Grand Hit de la semaine.  ",
-  "num_followers": 1017940,
+  "description": "\"Fr\u00e9rot\" de J\u00e9r\u00e9my Frerot est le Grand Hit de la semaine.  ",
+  "num_followers": 1017841,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTvG00xDQP+TVjolQyXvHVyhAS4",
+  "snapshot_id": "AAAAAPUZTzV8Z/p80sNzhID4EPMgVnb2",
   "tracks": [
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Fr\u00e9rot",
+        "url": "https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 163806,
+      "name": "Fr\u00e9rot",
+      "url": "https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc"
+    },
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
@@ -47,18 +63,18 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "\u00c9t\u00e9 avec toi",
-        "url": "https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu"
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
         }
       ],
-      "duration_ms": 187320,
-      "name": "\u00c9t\u00e9 avec toi",
-      "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -79,50 +95,18 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Le Petit P\u00eacheur",
-        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
+        "name": "\u00c9t\u00e9 avec toi",
+        "url": "https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu"
       },
       "artists": [
         {
-          "name": "Manon Lisa",
-          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Le Petit P\u00eacheur",
-      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Soir\u00e9e mondaine",
-        "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
-      },
-      "artists": [
-        {
-          "name": "Oria",
-          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Soir\u00e9e mondaine",
-      "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Fr\u00e9rot",
-        "url": "https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
-        }
-      ],
-      "duration_ms": 163806,
-      "name": "Fr\u00e9rot",
-      "url": "https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc"
+      "duration_ms": 187320,
+      "name": "\u00c9t\u00e9 avec toi",
+      "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -155,6 +139,22 @@
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Soir\u00e9e mondaine",
+        "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Soir\u00e9e mondaine",
+      "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -265,6 +265,26 @@
       "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
     },
     {
+      "added_at": "2026-09-17 22:02:21",
+      "album": {
+        "name": "Jamais",
+        "url": "https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Jamais",
+      "url": "https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s"
+    },
+    {
       "added_at": "2026-09-10 22:02:12",
       "album": {
         "name": "Mill\u00e9nium",
@@ -335,22 +355,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 164911,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "Les Grands Espaces",
         "url": "https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh"
       },
@@ -395,6 +399,22 @@
       "duration_ms": 190053,
       "name": "Bonjour, Pardon, Merci",
       "url": "https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 164911,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -491,22 +511,6 @@
       "duration_ms": 193666,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Nouveau souffle",
-        "url": "https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 142323,
-      "name": "Qu'est-ce qu'il me restera ?",
-      "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
     },
     {
       "added_at": "2026-09-10 22:02:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Corey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,642 likes - 199 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,713 likes - 199 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

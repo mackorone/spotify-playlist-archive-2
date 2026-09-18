@@ -7205,6 +7205,28 @@
     },
     {
       "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/5CHGLdsHjJzJ8lqdyT4X8l"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175476,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/0gY0h3DvEFqPNYfVrafY25"
+    },
+    {
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
       },
@@ -14166,6 +14188,36 @@
     {
       "album": {
         "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/486r67S25fR7bppJz4bGSa"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "ANTICALM",
+          "url": "https://open.spotify.com/artist/4ZxKGoXptSllXcXhlpbD5B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/6Eu2xJ7EQTnkXZepNKejqa"
+    },
+    {
+      "album": {
+        "name": "Greece 2000",
         "url": "https://open.spotify.com/album/1kkB71YtTZ52WkBZP4OkpS"
       },
       "artists": [
@@ -17042,6 +17094,28 @@
       "duration_ms": 215000,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/5NTfKZ9aVZhX4Gr8efmuYQ"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7n6iRW15pV3Eg0IjxfbAGB"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Aya Anne",
+          "url": "https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158660,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Js4tt42TKBXl6pI1uZHCk"
     },
     {
       "album": {
@@ -20929,6 +21003,36 @@
     },
     {
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
+    },
+    {
+      "album": {
         "name": "Live Like This Forever",
         "url": "https://open.spotify.com/album/1KUEcUrCdPLyoXr7bzEKRx"
       },
@@ -22164,6 +22268,24 @@
       "duration_ms": 205289,
       "name": "Love The Rain Days",
       "url": "https://open.spotify.com/track/3doKxZuW2B3SpcHvaHqgW3"
+    },
+    {
+      "album": {
+        "name": "Love To Forget",
+        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Love To Forget",
+      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
     },
     {
       "album": {
@@ -25666,6 +25788,32 @@
     {
       "album": {
         "name": "On The Beach",
+        "url": "https://open.spotify.com/album/2y64Hw9X68kiEvg0wwaKmY"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Bella Claxton",
+          "url": "https://open.spotify.com/artist/2imSh48JkQxpNcJr8ub8A7"
+        },
+        {
+          "name": "Mike Momburg",
+          "url": "https://open.spotify.com/artist/3MZ80Vsf1nxkzuM1AjowNy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/77AhO59wOXtyPxTj8AC2Wa"
+    },
+    {
+      "album": {
+        "name": "On The Beach",
         "url": "https://open.spotify.com/album/1HH24K1xHyVe4lqgehGnTa"
       },
       "artists": [
@@ -26104,6 +26252,28 @@
       "duration_ms": 182307,
       "name": "Only One Night",
       "url": "https://open.spotify.com/track/3E9IjCRYLncxvIuCjsST9s"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/42rmjX29oAgGfk0OMmwEqh"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        },
+        {
+          "name": "Kimara Lovelace",
+          "url": "https://open.spotify.com/artist/5BJAAE65akcvUYgbrmCwdX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5hsG13iNHto0UYtDyD2iqm"
     },
     {
       "album": {
@@ -32316,6 +32486,28 @@
       "duration_ms": 165882,
       "name": "Slow",
       "url": "https://open.spotify.com/track/6sEuVFZfp6AA8XiYA1tGuI"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/60gnI4jnB6o2qkkiG0JMVi"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "Bryan V",
+          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181408,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/28JoWqu4PGPPv3mQQgdvHY"
     },
     {
       "album": {

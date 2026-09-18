@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138806,
+  "num_followers": 138816,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Record Collection",
-        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "The Business Intl",
-          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Somebody to Love Me",
-      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "What Are You Waiting For?",
         "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Somebody to Love Me",
+      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
     },
     {
       "added_at": "2025-09-05 02:01:30",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Hair Body Face",
-      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 238413,
       "name": "Let Go for Tonight",
       "url": "https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Hair Body Face",
+      "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
     },
     {
       "added_at": "2024-06-02 21:23:10",

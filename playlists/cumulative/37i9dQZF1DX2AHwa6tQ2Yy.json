@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "Try a little tenderness. Cover: Cleo Sol ",
+  "description": "Try a little tenderness. Cover: TEEKS",
   "name": "soulful",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 256590,
       "name": "Black Box - feat. Kamasi Washington",
       "url": "https://open.spotify.com/track/2ZbvE8viThUEizWXz8GDCL"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 229800,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/1Nv9SIJR749xhMm08m44bU"
@@ -1160,6 +1160,28 @@
       "duration_ms": 250970,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333095,
+      "name": "Crossfade",
+      "url": "https://open.spotify.com/track/7f1qQ6bzCWSh3hiaeVRyHK"
     },
     {
       "album": {
@@ -1554,7 +1576,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 284973,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
@@ -1638,7 +1660,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
@@ -2139,6 +2161,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3wAX2XoQdIO8oDEwakM00J"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT"
+    },
+    {
+      "album": {
         "name": "Follow Thru",
         "url": "https://open.spotify.com/album/61A2Ne5qkoTyhTc2XghjLM"
       },
@@ -2277,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
+    },
+    {
+      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -2310,7 +2372,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 240000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi"
@@ -3356,7 +3418,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 255227,
       "name": "Jubilee Feeling",
       "url": "https://open.spotify.com/track/5fNDkyOoCbu2vD9B1EG2Vn"
@@ -3576,6 +3638,24 @@
       "duration_ms": 235353,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
+    },
+    {
+      "album": {
+        "name": "Inside Voice / Outside Voice",
+        "url": "https://open.spotify.com/album/0Laic2hSl2CWcOxEBF7ADd"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295434,
+      "name": "Leg Day",
+      "url": "https://open.spotify.com/track/23Epy49zf9wcA9q493HzCO"
     },
     {
       "album": {
@@ -3934,7 +4014,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
@@ -4061,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Mighty Tree",
+        "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311082,
+      "name": "Mighty Tree",
+      "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
+    },
+    {
+      "album": {
         "name": "Mikey Might",
         "url": "https://open.spotify.com/album/4CBOYSxOd5Tn7Vyr3tF6rH"
       },
@@ -4144,7 +4242,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 219653,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
@@ -4746,7 +4844,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 223729,
       "name": "One and the Same",
       "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
@@ -4862,6 +4960,24 @@
       "duration_ms": 203000,
       "name": "Outright Attached",
       "url": "https://open.spotify.com/track/2nptVrm7B91RAFXg32YLhS"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270359,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
     },
     {
       "album": {
@@ -7024,7 +7140,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 181213,
       "name": "To Some Degree (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/6Ru5eANwKCdITFc3wvURBO"
@@ -7046,6 +7162,24 @@
       "duration_ms": 228965,
       "name": "Today I Miss You",
       "url": "https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g"
+    },
+    {
+      "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
       "album": {
@@ -7114,7 +7248,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 194227,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"

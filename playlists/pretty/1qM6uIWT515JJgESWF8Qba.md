@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 567 likes - 74 songs - 4 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 568 likes - 77 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 72 | [Lost Soul](https://open.spotify.com/track/5bgTOLXRpwc5oJvVvonmLF) | [Eastern Screech](https://open.spotify.com/artist/1WbSutQjLup2u6k6yh54n4) | [Lost Soul](https://open.spotify.com/album/4lS13XCOSArNUILtmxziZC) | 5:42 |
 | 73 | [Falta o Sobra](https://open.spotify.com/track/6tDWnFJcIUAxhZ2GVoBQXd) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:53 |
 | 74 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
+| 75 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 |
+| 76 | [Dose of Speed](https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 2:38 |
+| 77 | [When the City Had Lights](https://open.spotify.com/track/5TkLUpNSTx2sFiO5ynwq2O) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When the City Had Lights](https://open.spotify.com/album/5zx9A3KVxyvW32t7qKKt54) | 3:53 |
 
-Snapshot ID: `AAACKaO9Hrl62poUjNnbDfhmbZ0EyxAW`
+Snapshot ID: `AAACLM/QttlOnwP3vhTGsvp+BtfTYtm0`

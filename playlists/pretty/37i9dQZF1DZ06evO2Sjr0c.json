@@ -1,29 +1,13 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 182844,
+  "num_followers": 182854,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAACCy5L/TlvhbJ8ZblkoGG8j",
+  "snapshot_id": "aqncAAAAAACgVwHe/cQbEwPnRqZjKlYi",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shakedown Street (Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985)",
-        "url": "https://open.spotify.com/album/13tHrJ57GNh8ZoXJLHwqcX"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 913233,
-      "name": "Shakedown Street - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
-      "url": "https://open.spotify.com/track/4pfpE9qnEGXTgYUDqf0cqe"
-    },
     {
       "added_at": null,
       "album": {
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terrapin Station (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 336578,
-      "name": "Estimated Prophet - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reckoning (Live)",
         "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 293893,
       "name": "Deep Elem Blues - Live",
       "url": "https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terrapin Station (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 336578,
+      "name": "Estimated Prophet - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From the Mars Hotel",
-        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 205022,
-      "name": "Loose Lucy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6"
+      "duration_ms": 344760,
+      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
     },
     {
       "added_at": null,
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+        "name": "From the Mars Hotel",
+        "url": "https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 344760,
-      "name": "Mississippi Half-Step Uptown Toodeloo - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC"
+      "duration_ms": 205022,
+      "name": "Loose Lucy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2zRiNcLBVh0K6A1VL3zeg6"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 441289,
       "name": "Throwing Stones - 2013 Remaster",
       "url": "https://open.spotify.com/track/4US41qlynueHuB4czgwqi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 674133,
+      "name": "Row Jimmy - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/1m6rWZAK4vVLPbEGq59eT2"
     }
   ],
   "unique_name": "This Is Grateful Dead",

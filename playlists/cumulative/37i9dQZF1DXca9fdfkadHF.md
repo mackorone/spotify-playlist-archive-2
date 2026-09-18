@@ -2,13 +2,13 @@
 
 ### [Rock Peruano](https://open.spotify.com/playlist/37i9dQZF1DXca9fdfkadHF)
 
-> ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
+> Recordando el inmenso legado de Pedro Suárez\-Vértiz y el 30 aniversario de Póntelo en la Lengua 🕊️
 
-103 songs - 6 hr 40 min
+104 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cualquier Lugar](https://open.spotify.com/track/4rN7j9iJ7olRMLbz3BD4uq) | [Dolores Delirio](https://open.spotify.com/artist/2VgyvIB7rkMHJLzkMtUOSI) | [Cero](https://open.spotify.com/album/4t7fvSvJHUUFm16bIFWdUh) | 4:33 | 2022-04-01 |  |
+| [A Cualquier Lugar](https://open.spotify.com/track/4rN7j9iJ7olRMLbz3BD4uq) | [Dolores Delirio](https://open.spotify.com/artist/2VgyvIB7rkMHJLzkMtUOSI) | [Cero](https://open.spotify.com/album/4t7fvSvJHUUFm16bIFWdUh) | 4:33 | 2022-04-01 | 2026-09-18 |
 | [Al Colegio No Voy Más](https://open.spotify.com/track/17HmjqKPaPPyiUxbDSKVWa) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [20 años sobre un sueño 1983 \- 2003 \(Remasterizado\)](https://open.spotify.com/album/198k5yWC8Yuvm7vb49WMHY) | 2:17 | 2022-04-01 | 2024-04-19 |
 | [Al Colegio No Voy Más](https://open.spotify.com/track/1sclry4Y9WDC6I3hFMpNtn) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [20 Años \(1983 \- 2003\)](https://open.spotify.com/album/04ncfwmrnfLC7O0YPdJKeF) | 2:17 | 2022-04-01 |  |
 | [Alguien](https://open.spotify.com/track/6wl1FWjnroEtgqLqDXHvEa) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Nada Ha Cambiado](https://open.spotify.com/album/1Sr4cN3rBHYHAwmBl2gzfD) | 4:22 | 2022-04-01 |  |
@@ -96,6 +96,7 @@
 | [Solo estoy](https://open.spotify.com/track/60VYMG9lj4p8WfDTFZXEOZ) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [68](https://open.spotify.com/album/5zMLdhfL7vQOKvofoU4Z7R) | 4:40 | 2022-04-01 | 2024-07-03 |
 | [Suna](https://open.spotify.com/track/4FGBEwbkQtbUHoidy5CNcy) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/3cuWK2TnY4v2oyYCxAw11b) | 4:04 | 2022-04-01 |  |
 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 | 2022-04-01 | 2024-04-19 |
+| [Sé Que Todo Ha Acabado Ya](https://open.spotify.com/track/2KmjzHrv8GUIqEJRydovEq) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 | 2026-09-17 |  |
 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 | 2022-04-01 |  |
 | [Triciclo Perú](https://open.spotify.com/track/2ELYy1uP6rbXhTAXh6px9f) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras \(1992\-2012\)](https://open.spotify.com/album/2Yh0cSIVg3KUE58e0O1rbo) | 3:33 | 2022-04-01 | 2022-11-13 |
 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-739 songs - 1 day 14 hr 48 min
+741 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [איפה שהכל נגמר](https://open.spotify.com/track/4JIMAsCy3gojK0m15shtvm) | [דניאלה גלבוע](https://open.spotify.com/artist/0mtQ6YIrQZqKDsNvSYvfIy) | [איפה שהכל נגמר](https://open.spotify.com/album/6KP5KxyrpIlouzPpct6y50) | 2:57 | 2026-02-26 | 2026-06-19 |
 | [אירוניה](https://open.spotify.com/track/2FKem4JxQdH0nhkqS2kkql) | [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [אירוניה](https://open.spotify.com/album/4YxV5bWQEh0GVlHywqWapl) | 2:58 | 2024-07-11 | 2024-12-06 |
 | [איש קטן](https://open.spotify.com/track/7yMinsBCFEJTZG4KeGRWQg) | [Yoni Bloch](https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm) | [הייטק](https://open.spotify.com/album/3CZSA5RlN8iPhSuaOunOz2) | 3:58 | 2025-05-08 | 2025-08-01 |
-| [אישה אייקונית](https://open.spotify.com/track/38708giS6XxqOQ2b6SocVB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [אילנה קירל](https://open.spotify.com/artist/7sD53LMr4zXb7ENy6jR1BL) | [אישה אייקונית](https://open.spotify.com/album/7btLFsLlDA1Km7uLzRAo5t) | 2:51 | 2026-06-18 |  |
+| [אישה אייקונית](https://open.spotify.com/track/38708giS6XxqOQ2b6SocVB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [אילנה קירל](https://open.spotify.com/artist/7sD53LMr4zXb7ENy6jR1BL) | [אישה אייקונית](https://open.spotify.com/album/7btLFsLlDA1Km7uLzRAo5t) | 2:51 | 2026-06-18 | 2026-09-18 |
 | [אל נורא עלילה](https://open.spotify.com/track/3Ho4PignftVydtiPHkfHg6) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [אל נורא עלילה](https://open.spotify.com/album/10D2EaOxAYDzWQwPQkVXMx) | 3:11 | 2026-09-03 |  |
 | [אל תלכי](https://open.spotify.com/track/3ZxJ11VOqtzbFPQJAGYCjC) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [אל תלכי](https://open.spotify.com/album/2KtQV0fjUDkL61f90c3Ccl) | 3:01 | 2024-09-05 | 2024-09-20 |
 | [אל תציע לי](https://open.spotify.com/track/3WgsUCEoC5kxaVujOw71OL) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [אל תציע לי](https://open.spotify.com/album/3CC44FcSNzXTZP13BRJQJK) | 2:57 | 2026-01-01 | 2026-01-16 |
@@ -257,6 +257,7 @@
 | [דארלינג](https://open.spotify.com/track/31X0Ta7Vzqfxidox5QLYQp) | [Yuval Gold](https://open.spotify.com/artist/6zc2lm9JeYFjjFE8VEGjlt) | [דארלינג](https://open.spotify.com/album/2gfBr3qkqlKH6EGM1U5NkP) | 2:25 | 2025-05-22 | 2025-09-05 |
 | [דברים שכתבתי \- שיר לזכרו של איתי שהם ז"ל](https://open.spotify.com/track/4i5wSSIGgXZaUmScGkCzIE) | [Ethnix](https://open.spotify.com/artist/0rcuq0mzUaleXgXxuLFPPZ) | [דברים שכתבתי \(שיר לזכרו של איתי שהם ז"ל\)](https://open.spotify.com/album/4bt60omFrLrKMWc7VwfXVd) | 3:47 | 2024-07-11 | 2024-08-16 |
 | [די](https://open.spotify.com/track/1gBpxZfkiD8TSqAigvHkhW) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [די](https://open.spotify.com/album/2Wkzm7YgWEqjoLg0vP12ZD) | 3:56 | 2024-11-28 | 2024-12-20 |
+| [דינג דונג](https://open.spotify.com/track/6UYzVhpjQmjObqAeGnPBwN) | [Eyal Levi](https://open.spotify.com/artist/1jsjCWnOybmOLWb2R0PhMa) | [דינג דונג](https://open.spotify.com/album/6YenJ35K0J99s9ozvxPxx5) | 2:08 | 2026-09-17 |  |
 | [דיסקו ואפרול](https://open.spotify.com/track/4050UijbIIaF382v8Wven7) | [Mika Tal](https://open.spotify.com/artist/0MmJ5Op44ZkXimqUvybV31) | [דיסקו ואפרול](https://open.spotify.com/album/0WQRFKQV9HgcNJlfBwEmYH) | 2:40 | 2025-08-21 | 2025-09-19 |
 | [דיפלומט](https://open.spotify.com/track/1NDMTpuvKncWE6R5t7dNaO) | [Ben El Tavori](https://open.spotify.com/artist/1oluYiPAw86NzrruZvKfcy), [עידו בן דב](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [דיפלומט](https://open.spotify.com/album/4ep6rlgeE5mbUyel8JinbD) | 2:55 | 2025-12-18 | 2026-02-13 |
 | [דמעה Dis\-Moi](https://open.spotify.com/track/0gxCDTXBlxslUQoCGlQkJT) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [דמעה Dis\-Moi](https://open.spotify.com/album/2XDlocVqptBaV7GwbW8WIk) | 3:06 | 2025-09-04 | 2025-11-21 |
@@ -516,6 +517,7 @@
 | [מועדון הלבבות השבורים](https://open.spotify.com/track/1RWuBpz8G6SpqClfU4eP4W) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [מועדון הלבבות השבורים](https://open.spotify.com/album/4C4H3ZUO25XWcGKzApymNy) | 2:35 | 2024-09-12 | 2025-02-14 |
 | [מזל שאתה פה](https://open.spotify.com/track/4dKk96SjfDMiCsCdVagpgc) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6) | [מזל שאתה פה](https://open.spotify.com/album/7LYG9gPAmWfyn65UwPJCxI) | 3:35 | 2026-07-30 |  |
 | [מזל"ט](https://open.spotify.com/track/3EajHPiF3huAU4QDIElhUz) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [הציונות החדשה](https://open.spotify.com/album/69kh37nGjH4wrd0jbS5Hul) | 1:31 | 2026-07-02 | 2026-08-07 |
+| [מחכה + איפה אתה \- מתוך חזרות למופע NEXT](https://open.spotify.com/track/3OHlQBGP05iAhv5I0op1Hn) | [Rita](https://open.spotify.com/artist/5pHxqQIoEFTV7nyZPHZtOE), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [מחכה + איפה אתה \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/6YVRY6TjvjHU7K39y6p9em) | 5:21 | 2026-09-17 |  |
 | [מחכה לנס](https://open.spotify.com/track/3ELaVHTvk7FZLDbSWPXc1p) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [מחכה לנס](https://open.spotify.com/album/4Wb3f7FCYLFezTaUNlwpqX) | 3:40 | 2024-09-19 | 2025-01-17 |
 | [מחכים](https://open.spotify.com/track/1Ppoa84gzdj9fEYfDPAozY) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [מחכים](https://open.spotify.com/album/0X9VqbFzEwFileNLRTO8vo) | 3:09 | 2024-09-26 | 2024-12-06 |
 | [מחפש תשובה](https://open.spotify.com/track/5GVrQAN1eTJkc6dnzGX0s5) | [Shazamat](https://open.spotify.com/artist/0uo5SLiIan9YDCQWy20wyV) | [מחפש תשובה](https://open.spotify.com/album/2sde8C1xgNrEeesrhAF9mD) | 3:37 | 2025-05-29 | 2025-07-11 |
@@ -542,7 +544,7 @@
 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 | 2025-06-12 | 2025-07-11 |
 | [מסיבת פרידה](https://open.spotify.com/track/1eIfbqarkyZJpBTnUa3TQ8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מסיבת פרידה](https://open.spotify.com/album/4MFryrYp2dF2uasF3dV5ox) | 3:04 | 2026-01-01 | 2026-02-13 |
 | [מספיק ממך](https://open.spotify.com/track/2J4K2irvcQCXCwUQqc7EBo) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [מספיק ממך](https://open.spotify.com/album/3WplXbgtTRHWQy2rsmbeMa) | 3:19 | 2026-02-26 | 2026-07-03 |
-| [מעולה](https://open.spotify.com/track/0PaMbatBc05d9lBMzOgG3Q) | [Eyal Levi](https://open.spotify.com/artist/1jsjCWnOybmOLWb2R0PhMa) | [מעולה](https://open.spotify.com/album/4VVwq3KbcsQ2omOEg6kypZ) | 2:18 | 2026-07-02 |  |
+| [מעולה](https://open.spotify.com/track/0PaMbatBc05d9lBMzOgG3Q) | [Eyal Levi](https://open.spotify.com/artist/1jsjCWnOybmOLWb2R0PhMa) | [מעולה](https://open.spotify.com/album/4VVwq3KbcsQ2omOEg6kypZ) | 2:18 | 2026-07-02 | 2026-09-18 |
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-10-31 |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 | 2025-07-11 |
 | [מצאת קצת שקט](https://open.spotify.com/track/24fNT4hgA4er3z3i2Z2OUn) | [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [מצאת קצת שקט](https://open.spotify.com/album/6nZrjfx7rxYlUxonmzCsuH) | 3:14 | 2025-12-04 | 2026-01-15 |

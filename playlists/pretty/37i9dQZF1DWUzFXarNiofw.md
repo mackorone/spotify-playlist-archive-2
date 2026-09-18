@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,252 likes - 275 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,311 likes - 275 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 12 | [Natural](https://open.spotify.com/track/7i1azjPqOXiMzNOs7Two0A) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Natural](https://open.spotify.com/album/7tlGLdSdyFELrIg46B0l57) | 3:18 |
 | 13 | [Safe \(feat\. Savannah Ré\)](https://open.spotify.com/track/03NddMz8erSpjjioDecBh4) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Safe](https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp) | 2:50 |
 | 14 | [Lunchbox](https://open.spotify.com/track/0qxCzpEuSFADJINFFFoShF) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [By The Time I Wake Up](https://open.spotify.com/album/10Dh6ZL55PjouViEahdpTu) | 2:52 |
-| 15 | [honey bee](https://open.spotify.com/track/40dMm7jIN0yo3qYCyC3Kk7) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [honey bee](https://open.spotify.com/album/7vdm0kvyXVOwIdeMLTOMe3) | 3:08 |
+| 15 | [honey bee](https://open.spotify.com/track/40dMm7jIN0yo3qYCyC3Kk7) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [honey bee](https://open.spotify.com/album/7vdm0kvyXVOwIdeMLTOMe3) | 3:03 |
 | 16 | [Finally](https://open.spotify.com/track/2B2Ad6uPL8YNPLX9F8rBmt) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Finally](https://open.spotify.com/album/7uTLt8NjfN2eOkgcBqdHsX) | 2:50 |
 | 17 | [Be My Lady](https://open.spotify.com/track/4WVP8IKWFIcXhDezAdgyu6) | [Sentury](https://open.spotify.com/artist/5M719s0iFExbYpmLDMudPJ) | [Be My Lady](https://open.spotify.com/album/25zMD0hriBQ9m8YLjWr4vO) | 4:45 |
 | 18 | [Work It Out](https://open.spotify.com/track/79RaiKPQCTX6ZFWlCPscos) | [CVIRO](https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9), [GXNXVS](https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL) | [Work It Out](https://open.spotify.com/album/6ofUcya8L5lXMatUpeuw9m) | 2:50 |

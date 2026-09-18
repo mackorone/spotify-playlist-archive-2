@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ChRocktikal\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dabda\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,219 songs - 3 day 2 hr 5 min
+1,221 songs - 3 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Attack!](https://open.spotify.com/track/6Ym5GRk2N3L7RF7JzSs9jN) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Shining Strike](https://open.spotify.com/album/5tW4fJ6vnt4J1itpLtqRgl) | 4:14 | 2025-04-11 | 2025-04-19 |
 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 | 2022-04-22 | 2022-04-28 |
 | [Awake](https://open.spotify.com/track/0UDCfleTgwihlnOUxbzokR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:46 | 2022-05-11 | 2022-07-29 |
-| [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 | 2022-07-22 |  |
+| [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 | 2022-07-22 | 2026-09-18 |
 | [Awake](https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Awake](https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH) | 2:58 | 2025-09-26 | 2025-10-07 |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2022-06-03 | 2022-07-24 |
 | [Baby Blue](https://open.spotify.com/track/08O5mGYJTLi1AW653UVyS4) | [ZUYONI](https://open.spotify.com/artist/7cEawQRJjV5Rko3bFOh4re) | [Baby Blue](https://open.spotify.com/album/1ewqY8kXu3JApoFDUgkqmW) | 2:45 | 2022-07-22 | 2022-07-24 |
@@ -677,6 +677,7 @@
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-10 | 2025-08-01 |
 | [NAN CHUN](https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN](https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb) | 3:49 | 2024-06-05 | 2024-11-07 |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-04-12 | 2024-03-22 |
+| [NANSEN](https://open.spotify.com/track/2eOb1YsZdVTmOq0dKlI5sK) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [NANSEN](https://open.spotify.com/album/2REBQJXgMJiIZF7wlii1G5) | 3:37 | 2026-09-17 |  |
 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-03-19 | 2025-04-02 |
 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 | 2023-05-31 | 2023-06-14 |
 | [Navillera](https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Navillera](https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4) | 3:12 | 2023-10-27 | 2023-11-04 |
@@ -726,6 +727,7 @@
 | [Oh Perfect!](https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [RUN RUN RUN](https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN) | 3:11 | 2026-03-11 | 2026-04-01 |
 | [Ohio](https://open.spotify.com/track/4m1yAglyrf4tCJqFrIkRMA) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ohio](https://open.spotify.com/album/2ZJ2iiGnv7d8J4IOO0YmKx) | 2:46 | 2022-04-22 | 2022-06-26 |
 | [ON MY OWN](https://open.spotify.com/track/1mnw7B1EQPalqnY3u4QqUy) | [THE MIDNIGHT ROMANCE](https://open.spotify.com/artist/0oD9KiqTgoOgEYyL5kIC6v) | [ON MY OWN](https://open.spotify.com/album/7Iiyw5TWZCZxfuAWEKyDIr) | 3:56 | 2022-04-12 | 2022-07-29 |
+| [ON\(百\)](https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [ON\(百\)](https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3) | 7:18 | 2026-09-17 |  |
 | [On\-Air](https://open.spotify.com/track/4Z7tPcXoeP0JJ6Qyve84aC) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [On\-Air](https://open.spotify.com/album/5oHhTiPxMWyfp3A21IlgxW) | 3:16 | 2022-05-02 | 2022-07-23 |
 | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/track/3eZO90Rawae6JZuLGufzJd) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/album/7kdODFIZj9q63ixg8PUF2G) | 2:45 | 2022-06-08 | 2022-07-15 |
 | [Only Forward](https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Tree Ring](https://open.spotify.com/album/1avoknFOZaYIFnQEE6D4X8) | 3:23 | 2025-08-01 | 2025-08-05 |
@@ -823,7 +825,7 @@
 | [Replay](https://open.spotify.com/track/5cdy7ga5LX3ekZ1Xfl6BUY) | [RecordVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [Replay](https://open.spotify.com/album/3KfQzfa9ojrhFNoOFsE8B8) | 3:46 | 2022-08-04 | 2022-08-13 |
 | [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 | 2025-08-14 | 2025-09-04 |
 | [Requiem](https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 4:09 | 2024-12-02 | 2025-02-06 |
-| [REQUIEM](https://open.spotify.com/track/09fC1xihZbq1XBCnwneCVx) | [ChRocktikal](https://open.spotify.com/artist/2iuOHjrlBtVUhN9kHvT7hG) | [Bloom & Gloom](https://open.spotify.com/album/5d8hUyjNtWaXWjShVZNGCQ) | 3:59 | 2026-09-04 |  |
+| [REQUIEM](https://open.spotify.com/track/09fC1xihZbq1XBCnwneCVx) | [ChRocktikal](https://open.spotify.com/artist/2iuOHjrlBtVUhN9kHvT7hG) | [Bloom & Gloom](https://open.spotify.com/album/5d8hUyjNtWaXWjShVZNGCQ) | 3:59 | 2026-09-04 | 2026-09-18 |
 | [Restart](https://open.spotify.com/track/4y3PptwD4VrIWSYjP59Dzs) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Restart](https://open.spotify.com/album/4MQiVDm1BncpM8UTDmAp7O) | 3:04 | 2024-08-05 | 2024-08-13 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2022-04-12 | 2022-07-04 |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-05-11 | 2022-07-26 |

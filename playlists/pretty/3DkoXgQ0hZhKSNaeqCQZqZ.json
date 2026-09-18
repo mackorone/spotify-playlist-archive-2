@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1226,
+  "num_followers": 1227,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFy7rIyzAWXuoRJomxDUKBS3b3SWxG",
+  "snapshot_id": "AAAFzKFu2WWVK7TyGFAjgUn/0wXUK84D",
   "tracks": [
+    {
+      "added_at": "2026-09-17 16:20:11",
+      "album": {
+        "name": "excalibur",
+        "url": "https://open.spotify.com/album/44m3DtAd9xER7ZLQ8XGl4W"
+      },
+      "artists": [
+        {
+          "name": "sharkbarksss",
+          "url": "https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS"
+        },
+        {
+          "name": "Adamn Killa",
+          "url": "https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "excalibur",
+      "url": "https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD"
+    },
     {
       "added_at": "2026-09-15 13:36:58",
       "album": {

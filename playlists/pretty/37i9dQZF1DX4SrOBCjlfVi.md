@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, Tee Grizzley, Ro$ama and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,904 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,976 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Backwards \(feat\. T.I.\)](https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Backwards \(feat\. T.I.\)](https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg) | 3:11 |
 | 2 | [WOAH](https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WOAH](https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM) | 2:25 |
-| 3 | [Rain](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Rain](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
+| 3 | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
 | 4 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
 | 5 | [Crooked Elbow](https://open.spotify.com/track/1S231HRUptJrGLNPUF04Gp) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [The World Is Yours](https://open.spotify.com/album/66x1wyPjR7v3aLbUlPSdQ4) | 2:19 |
 | 6 | [WAY MORE](https://open.spotify.com/track/6bMLLlQdaYKinJy2ZnFaR3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:34 |

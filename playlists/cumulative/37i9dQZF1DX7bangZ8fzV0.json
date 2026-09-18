@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Ricus Nel",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 177984,
       "name": "Iemand Soos Jy",
       "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
@@ -5640,6 +5640,24 @@
       "duration_ms": 189611,
       "name": "Regte Plekke",
       "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
+    },
+    {
+      "album": {
+        "name": "Roer My",
+        "url": "https://open.spotify.com/album/117LCSXnzH3cs8NqtriVVX"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187912,
+      "name": "Roer My",
+      "url": "https://open.spotify.com/track/4uGhve33c5Xone3SWD2rWM"
     },
     {
       "album": {

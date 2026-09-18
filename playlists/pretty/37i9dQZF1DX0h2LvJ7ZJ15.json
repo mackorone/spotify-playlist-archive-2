@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1658324,
+  "num_followers": 1658555,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "Wrap Me In Plastic",
+        "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
+      },
+      "artists": [
+        {
+          "name": "CHROMANCE",
+          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
+        },
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        }
+      ],
+      "duration_ms": 147713,
+      "name": "Wrap Me In Plastic - Slowed Down Version",
+      "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "Love Me Back (Fayahh Beat) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/3vAp0G0DDiQtbQ6p2jOQB3"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 182166,
       "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
-        "name": "Wrap Me In Plastic",
-        "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
-      },
-      "artists": [
-        {
-          "name": "CHROMANCE",
-          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
-        },
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        }
-      ],
-      "duration_ms": 147713,
-      "name": "Wrap Me In Plastic - Slowed Down Version",
-      "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "KXLLSWXTCH",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "LOVELY BASTARDS (Slowed)",
         "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
-      },
-      "artists": [
-        {
-          "name": "KXLLSWXTCH",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "WASTE - Slowed Version",
-      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     }
   ],
   "unique_name": "slowed and reverbed",

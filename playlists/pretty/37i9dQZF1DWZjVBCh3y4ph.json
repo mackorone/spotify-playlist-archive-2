@@ -1,15 +1,107 @@
 {
-  "description": "Les hits zouk & kompa du moment. Photo : SAM x Nesly",
-  "num_followers": 95824,
+  "description": "Les hits zouk & kompa du moment. Photo : L\u00c9A CHURROS",
+  "num_followers": 95867,
   "original_name": "Zouk Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPZXQWOt7Qg2Cm12r0ucELdYy61O",
+  "snapshot_id": "AAAAAKL9UPZ/RtZrATLHXR8UwxH8J4rW",
   "tracks": [
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "PREMIER JOUR",
+        "url": "https://open.spotify.com/album/5t9qVSglgI1eq4YoYPAKP8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "Magical Nrick",
+          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
+        }
+      ],
+      "duration_ms": 175764,
+      "name": "PREMIER JOUR",
+      "url": "https://open.spotify.com/track/6scpm47S9Qs96V51oo5zYB"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Rihanna",
+        "url": "https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Rihanna",
+      "url": "https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "ONE TRACK MIND (PART II)",
+        "url": "https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "ONE TRACK MIND - PART II",
+      "url": "https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Lanmou fe'm mal",
+        "url": "https://open.spotify.com/album/6bAMdUifksHp1nQWQACR87"
+      },
+      "artists": [
+        {
+          "name": "Priscillia",
+          "url": "https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK"
+        }
+      ],
+      "duration_ms": 200086,
+      "name": "Lanmou fe'm mal",
+      "url": "https://open.spotify.com/track/40m5sLezDSM7vK9fk0yKxx"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Pran Swen Dew",
+        "url": "https://open.spotify.com/album/1QqcDRvtivVDpfH5TAkdIT"
+      },
+      "artists": [
+        {
+          "name": "Maurane Voyer",
+          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
+        },
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "duration_ms": 217155,
+      "name": "Pran Swen Dew",
+      "url": "https://open.spotify.com/track/4JebHIKOj21wmr7iB63IXZ"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Pa La La",
         "url": "https://open.spotify.com/album/72NfPS7bquIxyioWdIP3TH"
@@ -33,7 +125,7 @@
       "url": "https://open.spotify.com/track/6ymsI6ZGNfTgzeZAo8N3yd"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Tes mots",
         "url": "https://open.spotify.com/album/11NX2XtA4FYWLSPSiz0HkN"
@@ -53,79 +145,63 @@
       "url": "https://open.spotify.com/track/3n0LFME8XILdU1WcCAg37A"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "ONE TRACK MIND (PART II)",
-        "url": "https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh"
+        "name": "NOX BOOK I",
+        "url": "https://open.spotify.com/album/0OFqXAhoa2s8RDqO6uhATs"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
         },
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "duration_ms": 195084,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/46CCih4yxgvMkmqWm4ejOJ"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "EX-VOTO",
+        "url": "https://open.spotify.com/album/6VbZz0zsL8N2iL9lkHvxFP"
+      },
+      "artists": [
         {
           "name": "Kalash",
           "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "ONE TRACK MIND - PART II",
-      "url": "https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Rihanna",
-        "url": "https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Rihanna",
-      "url": "https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Pran Swen Dew",
-        "url": "https://open.spotify.com/album/1QqcDRvtivVDpfH5TAkdIT"
-      },
-      "artists": [
-        {
-          "name": "Maurane Voyer",
-          "url": "https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351"
         },
         {
-          "name": "Matieu White",
-          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 217155,
-      "name": "Pran Swen Dew",
-      "url": "https://open.spotify.com/track/4JebHIKOj21wmr7iB63IXZ"
+      "duration_ms": 192013,
+      "name": "Bam Love",
+      "url": "https://open.spotify.com/track/2w2j4DxB5j4QVXtr8hxpMP"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "Concentr\u00e9",
-        "url": "https://open.spotify.com/album/6A3mkIUADdtgnK7MYLObeY"
+        "name": "Jusqu'\u00e0 ce que l'amour nous s\u00e9pare",
+        "url": "https://open.spotify.com/album/2TzC8h6AIeNmbO9Op5W710"
       },
       "artists": [
         {
-          "name": "Yena Blue",
-          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Concentr\u00e9",
-      "url": "https://open.spotify.com/track/5YKsiqYkohePZ4bGYJaOq2"
+      "duration_ms": 195498,
+      "name": "Sale entre nous",
+      "url": "https://open.spotify.com/track/0qKd2Zuta92bPxhxpJgluL"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/0wZqj5SPxXHjxQVd0fAQfk"
@@ -149,203 +225,7 @@
       "url": "https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "NOX BOOK I",
-        "url": "https://open.spotify.com/album/0OFqXAhoa2s8RDqO6uhATs"
-      },
-      "artists": [
-        {
-          "name": "Axel Tony",
-          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
-        },
-        {
-          "name": "Yoan",
-          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
-        }
-      ],
-      "duration_ms": 195084,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/46CCih4yxgvMkmqWm4ejOJ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "EX-VOTO",
-        "url": "https://open.spotify.com/album/6VbZz0zsL8N2iL9lkHvxFP"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        },
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Bam Love",
-      "url": "https://open.spotify.com/track/2w2j4DxB5j4QVXtr8hxpMP"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Jusqu'\u00e0 ce que l'amour nous s\u00e9pare",
-        "url": "https://open.spotify.com/album/2TzC8h6AIeNmbO9Op5W710"
-      },
-      "artists": [
-        {
-          "name": "Jeady Jay",
-          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Sale entre nous",
-      "url": "https://open.spotify.com/track/0qKd2Zuta92bPxhxpJgluL"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Konpa Paradise 4 (Wasnt me remix)",
-        "url": "https://open.spotify.com/album/7dOC0qSj6TQmOlcNyCxDco"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Forever Music",
-          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
-        }
-      ],
-      "duration_ms": 179811,
-      "name": "Konpa Paradise 4 - Wasnt me remix",
-      "url": "https://open.spotify.com/track/7aVCFK6lDTQlaLa5voH5pf"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "BYE BYE",
-        "url": "https://open.spotify.com/album/1KMjP38wP0dPJtIhv5W73p"
-      },
-      "artists": [
-        {
-          "name": "DJ SEBB",
-          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
-        },
-        {
-          "name": "SUEILO",
-          "url": "https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "BYE BYE",
-      "url": "https://open.spotify.com/track/7lwsMcbzRwqVPHp41J9PBk"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
-        }
-      ],
-      "duration_ms": 197499,
-      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Haut Niveau",
-        "url": "https://open.spotify.com/album/7EaCAD1ivIkYxVoeuoTL0v"
-      },
-      "artists": [
-        {
-          "name": "Loriane",
-          "url": "https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "Haut Niveau",
-      "url": "https://open.spotify.com/track/7C9uZGbqbR7p8LDlWkmG9m"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Siouv\u00e9",
-        "url": "https://open.spotify.com/album/2VeF6zCUrBnlrkzhs69Yn8"
-      },
-      "artists": [
-        {
-          "name": "Mik L",
-          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Siouv\u00e9",
-      "url": "https://open.spotify.com/track/5uqoE6jSI9VHntQPRWVvXV"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "HateLove",
-        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Juste une night",
-      "url": "https://open.spotify.com/track/5KpNtMpYoA8TvCvfXqNFkr"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "SORRY",
-        "url": "https://open.spotify.com/album/7bB82tGLIU2KC60tf7Ze9B"
-      },
-      "artists": [
-        {
-          "name": "Barth",
-          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/1QOmuXk7CmwLMH48pPh8Lm"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D"
-      },
-      "artists": [
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Comment m'aimer",
-      "url": "https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Dis le moi",
         "url": "https://open.spotify.com/album/1r1Q68LcB4tSigUhaZAdOE"
@@ -365,23 +245,103 @@
       "url": "https://open.spotify.com/track/4UJhjeCgpWZnMVm8Kugsi0"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "18h33",
-        "url": "https://open.spotify.com/album/6XDtFxofhjtinkzxV5Puou"
+        "name": "Konpa Paradise 4 (Wasnt me remix)",
+        "url": "https://open.spotify.com/album/7dOC0qSj6TQmOlcNyCxDco"
       },
       "artists": [
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Forever Music",
+          "url": "https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje"
         }
       ],
-      "duration_ms": 157466,
-      "name": "18h33",
-      "url": "https://open.spotify.com/track/4csNEKq3IsUGdDYBQjp5gM"
+      "duration_ms": 179811,
+      "name": "Konpa Paradise 4 - Wasnt me remix",
+      "url": "https://open.spotify.com/track/7aVCFK6lDTQlaLa5voH5pf"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/1KMjP38wP0dPJtIhv5W73p"
+      },
+      "artists": [
+        {
+          "name": "DJ SEBB",
+          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
+        },
+        {
+          "name": "SUEILO",
+          "url": "https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/7lwsMcbzRwqVPHp41J9PBk"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/6AjkBSOVwXBWc2lXflY65D"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Comment m'aimer",
+      "url": "https://open.spotify.com/track/6jHeDkT1nisjl2LE1qVzFb"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "C' Mort",
+        "url": "https://open.spotify.com/album/0dpRGKxSn2ECXSIqs43eWu"
+      },
+      "artists": [
+        {
+          "name": "Kaf Malbar",
+          "url": "https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3"
+        },
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "Staniski",
+          "url": "https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "C' Mort",
+      "url": "https://open.spotify.com/track/2YP3BlXblVJv54FVvIFkc4"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Juste une night",
+      "url": "https://open.spotify.com/track/5KpNtMpYoA8TvCvfXqNFkr"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Pense \u00e0 moi",
         "url": "https://open.spotify.com/album/1tUN9e09B5Lb35mRRnkBBe"
@@ -401,7 +361,23 @@
       "url": "https://open.spotify.com/track/0bMQO4FSJeIWQlFUjB1N0H"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "18h33",
+        "url": "https://open.spotify.com/album/6XDtFxofhjtinkzxV5Puou"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "18h33",
+      "url": "https://open.spotify.com/track/4csNEKq3IsUGdDYBQjp5gM"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Tou Lannwit",
         "url": "https://open.spotify.com/album/5CbHmZmGDVDZFQAOOUnhUk"
@@ -425,23 +401,75 @@
       "url": "https://open.spotify.com/track/7tmGEQWv5q7il0pdTQVbG8"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "Toi",
-        "url": "https://open.spotify.com/album/0hAAmnQn4ZeBEfaBbLPZGK"
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/7bB82tGLIU2KC60tf7Ze9B"
       },
       "artists": [
         {
-          "name": "Klowdy",
-          "url": "https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY"
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Toi",
-      "url": "https://open.spotify.com/track/55EYonQmO7u8bKVwkx8dc7"
+      "duration_ms": 178800,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1QOmuXk7CmwLMH48pPh8Lm"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Concentr\u00e9",
+        "url": "https://open.spotify.com/album/6A3mkIUADdtgnK7MYLObeY"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Concentr\u00e9",
+      "url": "https://open.spotify.com/track/5YKsiqYkohePZ4bGYJaOq2"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 197499,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Siouv\u00e9",
+        "url": "https://open.spotify.com/album/2VeF6zCUrBnlrkzhs69Yn8"
+      },
+      "artists": [
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Siouv\u00e9",
+      "url": "https://open.spotify.com/track/5uqoE6jSI9VHntQPRWVvXV"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Destin\u00e9e Supremacy",
         "url": "https://open.spotify.com/album/7Ms8YCAXjDFwICEdVlbs5I"
@@ -457,27 +485,39 @@
       "url": "https://open.spotify.com/track/4zJr6yrHTYGkZr85ndjZtc"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "San Deba",
-        "url": "https://open.spotify.com/album/7sClLRML5OSA4L7AV7TblO"
+        "name": "J'ai mal",
+        "url": "https://open.spotify.com/album/1mgk83l9omGatU0flDJSgk"
       },
       "artists": [
         {
-          "name": "T-Gui",
-          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
-        },
-        {
-          "name": "Senyss",
-          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
         }
       ],
-      "duration_ms": 170406,
-      "name": "San Deba",
-      "url": "https://open.spotify.com/track/24utXqtVcAeOCZzFoSZKwS"
+      "duration_ms": 189208,
+      "name": "J'ai mal",
+      "url": "https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Toi",
+        "url": "https://open.spotify.com/album/0hAAmnQn4ZeBEfaBbLPZGK"
+      },
+      "artists": [
+        {
+          "name": "Klowdy",
+          "url": "https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Toi",
+      "url": "https://open.spotify.com/track/55EYonQmO7u8bKVwkx8dc7"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/6Yp6mopKjQOQBPG25xdqQu"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "NA ASSEZ",
         "url": "https://open.spotify.com/album/6gPtMZuYgR5DsUp6IIDkaZ"
@@ -517,7 +557,59 @@
       "url": "https://open.spotify.com/track/2SjxKYGkm0RrCOpt7wVI6S"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Haut Niveau",
+        "url": "https://open.spotify.com/album/7EaCAD1ivIkYxVoeuoTL0v"
+      },
+      "artists": [
+        {
+          "name": "Loriane",
+          "url": "https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5"
+        }
+      ],
+      "duration_ms": 191193,
+      "name": "Haut Niveau",
+      "url": "https://open.spotify.com/track/7C9uZGbqbR7p8LDlWkmG9m"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "San Deba",
+        "url": "https://open.spotify.com/album/7sClLRML5OSA4L7AV7TblO"
+      },
+      "artists": [
+        {
+          "name": "T-Gui",
+          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
+        },
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        }
+      ],
+      "duration_ms": 170406,
+      "name": "San Deba",
+      "url": "https://open.spotify.com/track/24utXqtVcAeOCZzFoSZKwS"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "Tout contre moi",
+        "url": "https://open.spotify.com/album/5AKfwi22SwilkkbOZ2uyPR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Keran",
+          "url": "https://open.spotify.com/artist/4nrRMVra3RAkH6xD5JXrvv"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Tout contre moi",
+      "url": "https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/27ugUMe8RarYYssfLDkDt7"
@@ -537,107 +629,7 @@
       "url": "https://open.spotify.com/track/0Vl2qHHtv0TPMJ1v39DqZS"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "TERAPY 2",
-        "url": "https://open.spotify.com/album/3JTKpaLpCi9ftSqvke0ODi"
-      },
-      "artists": [
-        {
-          "name": "Liljooe",
-          "url": "https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "On s'aime encore",
-      "url": "https://open.spotify.com/track/3aYQN7xDymjMpaz3HYkzfk"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Loin de tout",
-        "url": "https://open.spotify.com/album/6RbCiR966AZSfZ36zg6yu9"
-      },
-      "artists": [
-        {
-          "name": "Dyrone",
-          "url": "https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs"
-        },
-        {
-          "name": "Dj M'sy",
-          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Loin de tout",
-      "url": "https://open.spotify.com/track/0YRlSJEGo65iQDcugQ5b70"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "\u00c0 l'infini",
-        "url": "https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ"
-      },
-      "artists": [
-        {
-          "name": "Alg\u00e9ric",
-          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "\u00c0 l'infini",
-      "url": "https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Pour Lui",
-        "url": "https://open.spotify.com/album/0KjM0igBdyGEXLHyeUdi31"
-      },
-      "artists": [
-        {
-          "name": "Mik L",
-          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "Pour Lui",
-      "url": "https://open.spotify.com/track/1DdPH9CMxhSxRw4l6kWzNY"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "J'ai mal",
-        "url": "https://open.spotify.com/album/1mgk83l9omGatU0flDJSgk"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 189208,
-      "name": "J'ai mal",
-      "url": "https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Natacha",
-        "url": "https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 156278,
-      "name": "Natacha",
-      "url": "https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "La mari\u00e9e",
         "url": "https://open.spotify.com/album/7bMB30HAX5XSJSjbWIkhtx"
@@ -657,23 +649,7 @@
       "url": "https://open.spotify.com/track/2JcTelFLWDlFQ3UQ2xix2j"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
-      "album": {
-        "name": "Tout contre moi",
-        "url": "https://open.spotify.com/album/5AKfwi22SwilkkbOZ2uyPR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Keran",
-          "url": "https://open.spotify.com/artist/4nrRMVra3RAkH6xD5JXrvv"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Tout contre moi",
-      "url": "https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi"
-    },
-    {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "S\u00e8kr\u00e9 An Nou",
         "url": "https://open.spotify.com/album/2aP8NDRCglflOdIjXOHK6b"
@@ -697,23 +673,59 @@
       "url": "https://open.spotify.com/track/1Tlh2PH1sPLyMMg3pGfDl1"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
-        "name": "Tchin tchin",
-        "url": "https://open.spotify.com/album/6Y0k7P7nKRWHTwrgaizIMu"
+        "name": "Loin de tout",
+        "url": "https://open.spotify.com/album/6RbCiR966AZSfZ36zg6yu9"
       },
       "artists": [
         {
-          "name": "Elowdy.C",
-          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+          "name": "Dyrone",
+          "url": "https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs"
+        },
+        {
+          "name": "Dj M'sy",
+          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
         }
       ],
-      "duration_ms": 174408,
-      "name": "Tchin tchin",
-      "url": "https://open.spotify.com/track/2pdeMRknTu6Ks0GaCBvCgH"
+      "duration_ms": 197616,
+      "name": "Loin de tout",
+      "url": "https://open.spotify.com/track/0YRlSJEGo65iQDcugQ5b70"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "TERAPY 2",
+        "url": "https://open.spotify.com/album/3JTKpaLpCi9ftSqvke0ODi"
+      },
+      "artists": [
+        {
+          "name": "Liljooe",
+          "url": "https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "On s'aime encore",
+      "url": "https://open.spotify.com/track/3aYQN7xDymjMpaz3HYkzfk"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
+      "album": {
+        "name": "\u00c0 l'infini",
+        "url": "https://open.spotify.com/album/5a3hsHzXxYXwfnO1fG6mwQ"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "\u00c0 l'infini",
+      "url": "https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt"
+    },
+    {
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "LA-BAS",
         "url": "https://open.spotify.com/album/71U0C6QeADlFFj4HOIe9eK"
@@ -733,7 +745,7 @@
       "url": "https://open.spotify.com/track/0QAqI8PoZE2aqU8A9OgXFw"
     },
     {
-      "added_at": "2026-09-10 22:00:57",
+      "added_at": "2026-09-17 22:00:45",
       "album": {
         "name": "Priorit\u00e9",
         "url": "https://open.spotify.com/album/5MkTmBQwgaJf3bHOup9Is1"

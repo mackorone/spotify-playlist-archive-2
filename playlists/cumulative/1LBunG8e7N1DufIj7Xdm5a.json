@@ -74897,6 +74897,24 @@
     },
     {
       "album": {
+        "name": "The Ever Patient",
+        "url": "https://open.spotify.com/album/7nX5qkjeBqvZo9UYneMQKW"
+      },
+      "artists": [
+        {
+          "name": "Atrocity Girl",
+          "url": "https://open.spotify.com/artist/5XpzCpqGPiWJgWAAI1kRdp"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239955,
+      "name": "The Ever Patient",
+      "url": "https://open.spotify.com/track/1eGah37rhnWdb9Ve2qnzZ2"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },

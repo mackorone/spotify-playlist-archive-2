@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Doni",
+        "url": "https://open.spotify.com/album/3RyOL4w7MnR2Hs4zYlNSoa"
+      },
+      "artists": [
+        {
+          "name": "Prathik Shetty",
+          "url": "https://open.spotify.com/artist/0yhQlNXfqPZ7OvXf3nRWcY"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Doni",
+      "url": "https://open.spotify.com/track/0ro1PXkPcE8Fp7yDlF3A5H"
+    },
+    {
+      "album": {
         "name": "Doora",
         "url": "https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO"
       },

@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "ainut joka tuntee mut",
+        "url": "https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF"
+      },
+      "artists": [
+        {
+          "name": "paulus",
+          "url": "https://open.spotify.com/artist/1KUf2qlXKmUUbEefxBqDVp"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "ainut joka tuntee mut",
+      "url": "https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX"
+    },
+    {
+      "album": {
         "name": "Ainutlaatuinen",
         "url": "https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 146334,
       "name": "BACK ON MY BS",
       "url": "https://open.spotify.com/track/3dRb0mrdu47gknlmkNtDhQ"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 150944,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA"
@@ -3561,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Edelleen uskon",
+        "url": "https://open.spotify.com/album/59Sg5G9c1MkpqE6zX0YUQy"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174801,
+      "name": "Edelleen uskon",
+      "url": "https://open.spotify.com/track/2IwizrHQjtsqfxHiSeXOdQ"
+    },
+    {
+      "album": {
         "name": "Edes takas",
         "url": "https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK"
       },
@@ -3758,6 +3794,24 @@
       "duration_ms": 204149,
       "name": "Ei ne vaa, miten ne vois?",
       "url": "https://open.spotify.com/track/4e3rLsc7MVJrW8szRcvd9i"
+    },
+    {
+      "album": {
+        "name": "EI OO",
+        "url": "https://open.spotify.com/album/3pXfNnu7YRp7XT0K608AM0"
+      },
+      "artists": [
+        {
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185051,
+      "name": "EI OO",
+      "url": "https://open.spotify.com/track/3Fr3fNCnv6FHHsdmb1jXx3"
     },
     {
       "album": {
@@ -5178,7 +5232,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 180000,
       "name": "Flamboyant",
       "url": "https://open.spotify.com/track/3GWKf9mUDM9dkwS9BdK1VM"
@@ -6826,7 +6880,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 158091,
       "name": "Idari",
       "url": "https://open.spotify.com/track/3N2IDifmtszdBvBT894ZYn"
@@ -8693,6 +8747,28 @@
     },
     {
       "album": {
+        "name": "Karhu nukkuu",
+        "url": "https://open.spotify.com/album/1Eveew4VqBWZZn8RWc08WS"
+      },
+      "artists": [
+        {
+          "name": "Tiia Karoliina",
+          "url": "https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny"
+        },
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Karhu nukkuu",
+      "url": "https://open.spotify.com/track/38b2YYLlNW6D1tk6WvOzUp"
+    },
+    {
+      "album": {
         "name": "Karisma",
         "url": "https://open.spotify.com/album/68X6elCaVnVdy4tzyTZ9W3"
       },
@@ -8726,6 +8802,28 @@
       "duration_ms": 162535,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4r0DJ4mXg1UYVW08FfEKda"
+    },
+    {
+      "album": {
+        "name": "Karuselli",
+        "url": "https://open.spotify.com/album/1AwX4CSyldS5BVjJtAMxdH"
+      },
+      "artists": [
+        {
+          "name": "Valentin",
+          "url": "https://open.spotify.com/artist/2U0XZostSwDFbAltZ59Liz"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/0BxKBbT0bN9GJHmXDIi7Wh"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151103,
+      "name": "Karuselli",
+      "url": "https://open.spotify.com/track/3NSM16XRoSxnTXdgkq9sp3"
     },
     {
       "album": {
@@ -9340,7 +9438,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171818,
       "name": "kiitos (feat. Hukas)",
       "url": "https://open.spotify.com/track/16cLrfACojG1NfCtp8TSyP"
@@ -10535,6 +10633,24 @@
     },
     {
       "album": {
+        "name": "kuka s\u00e4 haluisit olla?",
+        "url": "https://open.spotify.com/album/3BQpjuQ9WoVui3pG3YyoIX"
+      },
+      "artists": [
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211998,
+      "name": "kuka s\u00e4 haluisit olla (jos saa valita)",
+      "url": "https://open.spotify.com/track/5yyT4xxtb83CIMRGc6fhEA"
+    },
+    {
+      "album": {
         "name": "Kukaan muu (feat. Joe L)",
         "url": "https://open.spotify.com/album/1SRtKVGt9rHBDa3jxdAR7N"
       },
@@ -11340,6 +11456,28 @@
       "duration_ms": 149116,
       "name": "Lampaita",
       "url": "https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD"
+    },
+    {
+      "album": {
+        "name": "Lapsuuden sankarille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/70tTtSfCgcARYVpsJbAFGm"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136086,
+      "name": "Lapsuuden sankarille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/5aJV7YztPPyKCbJHNyVflf"
     },
     {
       "album": {
@@ -12522,7 +12660,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 175995,
       "name": "Luojan kiitos",
       "url": "https://open.spotify.com/track/5IqPZb08CziCtBqdfru9gi"
@@ -12816,6 +12954,24 @@
       "duration_ms": 218986,
       "name": "Machete",
       "url": "https://open.spotify.com/track/3OB8AA3Io5hrR9T2uTKL3E"
+    },
+    {
+      "album": {
+        "name": "MAD MAX",
+        "url": "https://open.spotify.com/album/0X4Owd48YNq7zMngnIkh6d"
+      },
+      "artists": [
+        {
+          "name": "uu$er",
+          "url": "https://open.spotify.com/artist/6gjoxzAPNFDOiBp7UcJTNS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167445,
+      "name": "MAD MAX",
+      "url": "https://open.spotify.com/track/6bzL0YxrUB7jYCS7HzubdP"
     },
     {
       "album": {
@@ -14623,6 +14779,28 @@
     },
     {
       "album": {
+        "name": "Kersast KERZAKS",
+        "url": "https://open.spotify.com/album/2jIJIq1ETgGiOMBMavBTnb"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165745,
+      "name": "MOB WIFE (feat. Cledos)",
+      "url": "https://open.spotify.com/track/1iV4UhwSQFV9Ib3SQT0jQp"
+    },
+    {
+      "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/5Dd1MHK8gsN6XJx1d9djQB"
       },
@@ -15132,7 +15310,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169290,
       "name": "Musa Soi",
       "url": "https://open.spotify.com/track/5BN13doaUF01CDGNwyKisU"
@@ -15677,6 +15855,28 @@
     },
     {
       "album": {
+        "name": "m\u00e4\u00e4dix",
+        "url": "https://open.spotify.com/album/7BPMvsz2v2ARVQytiWAMKP"
+      },
+      "artists": [
+        {
+          "name": "Saketti",
+          "url": "https://open.spotify.com/artist/26u8dQfojnA2V2ZzFwGv6O"
+        },
+        {
+          "name": "SANTERIV44",
+          "url": "https://open.spotify.com/artist/18XT3Z2wOkDcjbk9sEuWCw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "m\u00e4\u00e4dix",
+      "url": "https://open.spotify.com/track/6uYWotiTcKbdSF4P0YQBsR"
+    },
+    {
+      "album": {
         "name": "Naadindoo (feat. Ege Zulu)",
         "url": "https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz"
       },
@@ -15990,7 +16190,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 100974,
       "name": "niiku neptune",
       "url": "https://open.spotify.com/track/5lgh8Nw2MSPkxFcFZDFq4V"
@@ -16470,7 +16670,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 164208,
       "name": "Oikeel Jalal",
       "url": "https://open.spotify.com/track/0cDsdfg8CLCAd3iWZradZL"
@@ -23706,7 +23906,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 170322,
       "name": "Tuhat kertaa",
       "url": "https://open.spotify.com/track/1rxf3O0qb7CoO1bbpjD0IC"
@@ -23866,7 +24066,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 172875,
       "name": "Tuntematon",
       "url": "https://open.spotify.com/track/0v5ViIhOnTIipWsQtm1yw9"
@@ -24160,7 +24360,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160033,
       "name": "TYT\u00d6T (feat. VBZ)",
       "url": "https://open.spotify.com/track/5U7eSZyxtnftPcVgq9C4GA"
@@ -24961,6 +25161,24 @@
     },
     {
       "album": {
+        "name": "Vai viestiin sulle",
+        "url": "https://open.spotify.com/album/1kue0q3ZY8kS1nzqfKaW4F"
+      },
+      "artists": [
+        {
+          "name": "jokeri",
+          "url": "https://open.spotify.com/artist/3NawbtNZl7gINBx85aBJ9y"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163783,
+      "name": "Vai viestiin sulle",
+      "url": "https://open.spotify.com/track/3CTJAqwthsyOMF745cvRQZ"
+    },
+    {
+      "album": {
         "name": "Vaihan maisemaa",
         "url": "https://open.spotify.com/album/0LVD22px9fZEuInxPF0jJ8"
       },
@@ -25464,6 +25682,36 @@
       "duration_ms": 190770,
       "name": "Veli (feat. Gracias & Stafa)",
       "url": "https://open.spotify.com/track/5l7OnOVSYd57pAQIX6B5nz"
+    },
+    {
+      "album": {
+        "name": "VELVETTII",
+        "url": "https://open.spotify.com/album/0ai29iJISexOlxBYjzq6WN"
+      },
+      "artists": [
+        {
+          "name": "VITUN ISO ROTSI",
+          "url": "https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv"
+        },
+        {
+          "name": "Sairas T",
+          "url": "https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK"
+        },
+        {
+          "name": "K\u00e4sipuoli",
+          "url": "https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU"
+        },
+        {
+          "name": "6m\u00e4ki",
+          "url": "https://open.spotify.com/artist/5s0IcAVgEJBimq5QWj07Oe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148740,
+      "name": "VELVETTII",
+      "url": "https://open.spotify.com/track/59f7msOEJIca21ACYabPXg"
     },
     {
       "album": {

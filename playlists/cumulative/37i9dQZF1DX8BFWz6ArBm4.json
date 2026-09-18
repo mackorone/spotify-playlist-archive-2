@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0398\u03c5\u03bc\u03cc\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd \u0393\u03b9\u03ce\u03c1\u03b3\u03bf \u039c\u03b1\u03b6\u03c9\u03bd\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae \u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ac \u03c4\u03bf\u03c5.",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ilias Vrettos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 206630,
       "name": "Agapo Simeni",
       "url": "https://open.spotify.com/track/1ANPH4P1vGm6ACBtlXjMXv"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207637,
       "name": "Agapo Simeni",
       "url": "https://open.spotify.com/track/5kMtCT2rpD26KCiHFu5VqY"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 260184,
       "name": "An M' Akous",
       "url": "https://open.spotify.com/track/02taeXGFYC32WRWZrbRwPX"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 228880,
       "name": "Aniko Se Mena",
       "url": "https://open.spotify.com/track/4iyruKhfMGVKXKmhUSUHiX"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207142,
       "name": "Aniko Se Mena",
       "url": "https://open.spotify.com/track/6mYd2aGw8MBa6aP4F6F6Sh"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Avgoustiatiko Feggari",
       "url": "https://open.spotify.com/track/4m1rVXIjwDNnWiuMZov3o9"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 161785,
       "name": "Den Apantas",
       "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 187031,
       "name": "Den Ime Ego",
       "url": "https://open.spotify.com/track/18yNRhNCzkGhayQzsobFQT"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 240222,
       "name": "Deutera",
       "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 281443,
       "name": "Diskola Feggaria",
       "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 176239,
       "name": "Edo - Radio Edit",
       "url": "https://open.spotify.com/track/5v3yV4IhnkmZ2Quu1NtAto"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 243936,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 268120,
       "name": "Ela Na Deis",
       "url": "https://open.spotify.com/track/7rcQWfz03mH2fEfmXqgBus"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 269768,
       "name": "Ena Thavma",
       "url": "https://open.spotify.com/track/4oMBRSkdtjd5lZHi4zYvkp"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 271820,
       "name": "Ena Thavma",
       "url": "https://open.spotify.com/track/6FwF7HxWA67H5fSiMm7x8H"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 219795,
       "name": "Enoho Kormi",
       "url": "https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Etsi Eimai",
       "url": "https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 190148,
       "name": "Etsi Exei Mathei",
       "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 275612,
       "name": "Exairesi",
       "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 199648,
       "name": "Fortigo",
       "url": "https://open.spotify.com/track/2NndVcLMwvJt6NYnm7ufUs"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 202736,
       "name": "Fotia Mou",
       "url": "https://open.spotify.com/track/3olMbhB6NEScttDGk7yj2h"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 179717,
       "name": "Foveri",
       "url": "https://open.spotify.com/track/6mKIDcpm0TQOixG71Pyae0"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 279010,
       "name": "I Kardia Mou",
       "url": "https://open.spotify.com/track/6Ueg5EDfszVrgNsxzvnWTu"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211363,
       "name": "Inopnevma Ftino",
       "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211363,
       "name": "Inopnevma Ftino",
       "url": "https://open.spotify.com/track/6IXf1ItX7jvR9qDG8T56MW"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 165328,
       "name": "KABANES",
       "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 186428,
       "name": "Kala Na Pernate",
       "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 146526,
       "name": "Kale... Poios Einai Autos?",
       "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 224760,
       "name": "Kalos Sas Vrika",
       "url": "https://open.spotify.com/track/0gVu88TRGxLr7VLhtkBjXw"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 252283,
       "name": "Lipi Pali O Theos",
       "url": "https://open.spotify.com/track/45uAHimGTBiDXolHg7RUSE"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 231480,
       "name": "Matia Mou",
       "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208355,
       "name": "maZW Akoma (Ola Mou Ta Thelo)",
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 199581,
       "name": "MHN FIGEIS MEINE",
       "url": "https://open.spotify.com/track/1kl2x4SKPXSlqjQ36NQBcZ"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 246285,
       "name": "Min Pas Pouthena",
       "url": "https://open.spotify.com/track/5UYQqxTJuk0GinPYZekDCM"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Monadikos Ipefthinos",
       "url": "https://open.spotify.com/track/66wNGWlJ3jl50Yfrp9U1iC"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 219681,
       "name": "Mono Logia",
       "url": "https://open.spotify.com/track/5nLZH9sUmzExy4kOewevc9"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 261474,
       "name": "Na Pernas",
       "url": "https://open.spotify.com/track/4k4vVNDi90EXY62xvQLnq0"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Nero",
       "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
@@ -3898,7 +3898,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 222600,
       "name": "Oi Antres Den Klene (Monacha Ponane)",
       "url": "https://open.spotify.com/track/5MJAC1NqkA4UNqp4loVzCk"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 281503,
       "name": "Ola Gia Ola",
       "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 269314,
       "name": "Ores Mikres",
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 165239,
       "name": "Pagkosmia Mera Tou Psefti",
       "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 189649,
       "name": "Pagkosmio Fainomeno",
       "url": "https://open.spotify.com/track/6D4HZbIu78JR8Dh9Owi7OO"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 197250,
       "name": "Paidi Tis Nixtas",
       "url": "https://open.spotify.com/track/1pgHTgifpQN35pO1dWhJ9W"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 255117,
       "name": "Par' Ta Ola Dika Sou - 20 Chronia Eleana Vrachali / Paidi Diko Sou",
       "url": "https://open.spotify.com/track/3dKMLXkSyqsXUSZIG0b7kx"
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 249000,
       "name": "Patas Ta Oria",
       "url": "https://open.spotify.com/track/7ANbXdSrmlSKT5piq6OTr6"
@@ -4378,7 +4378,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 215003,
       "name": "Perno Tin Efthini",
       "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 215937,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 262040,
       "name": "Pnigomai",
       "url": "https://open.spotify.com/track/2wkTYwLhmZ2ii2HzXI6idC"
@@ -4614,10 +4614,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Prive",
       "url": "https://open.spotify.com/track/5Jwzkuu1edcK252FWNNpM9"
+    },
+    {
+      "album": {
+        "name": "Prostimo",
+        "url": "https://open.spotify.com/album/4DRBLlPefoxkcSuyCPSmGd"
+      },
+      "artists": [
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Prostimo",
+      "url": "https://open.spotify.com/track/3B6AnuDFKz4s8hEKjVIqH1"
     },
     {
       "album": {
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 169456,
       "name": "S' Agapo San Amartia",
       "url": "https://open.spotify.com/track/3S9BnC9E3a2DmJ8oq6BTwu"
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 194658,
       "name": "Safari",
       "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
@@ -4864,7 +4882,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 234344,
       "name": "Savvato",
       "url": "https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq"
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 283653,
       "name": "Se Eho Epithimisei",
       "url": "https://open.spotify.com/track/3xkxHgTvglpbQbr8iyCKWm"
@@ -4994,7 +5012,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 201925,
       "name": "Se Thelo Parafora",
       "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 190030,
       "name": "Siopi Sti Diapason",
       "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 260475,
       "name": "Sopa Ki Akou",
       "url": "https://open.spotify.com/track/6DM7ri4nMgqDfHBNeFjPgP"
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 239482,
       "name": "Sou Eleipsa H Oxi?",
       "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
@@ -5244,7 +5262,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 188316,
       "name": "Spaste Ta",
       "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 191379,
       "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
       "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
@@ -5408,7 +5426,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 265184,
       "name": "Summer in Greece",
       "url": "https://open.spotify.com/track/1HzuFgh5jCK8A7tLKUKdue"
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 175147,
       "name": "Ta Parapona Mou",
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
@@ -5592,7 +5610,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 182574,
       "name": "Ta Xano",
       "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
@@ -5650,7 +5668,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 252869,
       "name": "Terma",
       "url": "https://open.spotify.com/track/0GapJ5Qqs7ejIqkKO5a2Ee"
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 254373,
       "name": "Tesseris Pige",
       "url": "https://open.spotify.com/track/33RFyLDmblI628Ny8qP8uq"
@@ -5856,7 +5874,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 252428,
       "name": "Thalasses",
       "url": "https://open.spotify.com/track/0nGKflfBcF4zajyhRxa8kX"
@@ -5914,7 +5932,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 194099,
       "name": "Thimizeis Kati Apo Ellada",
       "url": "https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg"
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 195112,
       "name": "Ti Gynaika Eisai Esy",
       "url": "https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW"
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 221192,
       "name": "Ti Sou Eho Kanei",
       "url": "https://open.spotify.com/track/3EK0uoI0u6ZvH7WNgz2jU9"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 203797,
       "name": "Ti Sou Hrostao",
       "url": "https://open.spotify.com/track/0oFoDNiUUSxcx0wzZsT8y2"
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166736,
       "name": "Tora Tora (Boro Boro)",
       "url": "https://open.spotify.com/track/4N7UpiOnVCysT8K3QqK9Me"
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 162683,
       "name": "Xelogiastra",
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
@@ -6542,7 +6560,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
@@ -6578,7 +6596,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 193099,
       "name": "Ximeia",
       "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
@@ -6600,7 +6618,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 228977,
       "name": "Xorepse",
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
@@ -6662,7 +6680,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 189586,
       "name": "Zilevo",
       "url": "https://open.spotify.com/track/0szmijpnvC2vy9fZtET0Fd"

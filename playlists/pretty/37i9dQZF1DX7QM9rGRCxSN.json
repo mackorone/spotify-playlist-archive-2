@@ -1,6 +1,6 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39312,
+  "num_followers": 39314,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,22 @@
     {
       "added_at": "2026-09-11 06:00:12",
       "album": {
-        "name": "Bronson EP",
-        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
+        "name": "Peter Brown",
+        "url": "https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ"
       },
       "artists": [
         {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+          "name": "Almost Done",
+          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
+        },
+        {
+          "name": "Las Cosas Calladitas",
+          "url": "https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb"
         }
       ],
-      "duration_ms": 246150,
-      "name": "Un Sue\u00f1o de Verano",
-      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
+      "duration_ms": 200823,
+      "name": "Mot Hulligan",
+      "url": "https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x"
     },
     {
       "added_at": "2026-09-11 06:00:12",
@@ -511,22 +515,18 @@
     {
       "added_at": "2026-09-11 06:00:12",
       "album": {
-        "name": "Peter Brown",
-        "url": "https://open.spotify.com/album/0NJuZCHjKCxyRK78AMttIQ"
+        "name": "Bronson EP",
+        "url": "https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4"
       },
       "artists": [
         {
-          "name": "Almost Done",
-          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
-        },
-        {
-          "name": "Las Cosas Calladitas",
-          "url": "https://open.spotify.com/artist/2rVBJ9SpnaT23vEJE2lzpb"
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
         }
       ],
-      "duration_ms": 200823,
-      "name": "Mot Hulligan",
-      "url": "https://open.spotify.com/track/6en3tPpGj4vfkHnGDsEq9x"
+      "duration_ms": 246150,
+      "name": "Un Sue\u00f1o de Verano",
+      "url": "https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h"
     },
     {
       "added_at": "2026-09-11 06:00:12",

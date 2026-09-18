@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7572,
+  "num_followers": 7571,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABlZZjfO6O/lzR6kQBpY/DN1kQGFni",
+  "snapshot_id": "AAABllDRIgi3N075PJh5eOUeoJpXzAbZ",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10523,6 +10523,26 @@
       "duration_ms": 256273,
       "name": "Leeloo",
       "url": "https://open.spotify.com/track/0gClZf1PIct2glwGN8LdD2"
+    },
+    {
+      "added_at": "2026-09-17 23:39:59",
+      "album": {
+        "name": "Bulls on Parade (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "duration_ms": 269485,
+      "name": "Bulls on Parade - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

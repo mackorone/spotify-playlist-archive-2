@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-345 songs - 19 hr 22 min
+346 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cara a Cara \(Live Session\)](https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Sonas Sessions \(Live Session\)](https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ) | 3:40 | 2023-10-24 | 2023-11-11 |
 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 | 2026-05-24 |
 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 | 2024-11-08 |  |
+| [Carnaval](https://open.spotify.com/track/4cOTrXfESTvKe9skDhaEPt) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Carnaval](https://open.spotify.com/album/1X2TldNrfZHx55I8c4mq8g) | 2:50 | 2026-09-18 |  |
 | [Carnaval a Dois \- Acústico](https://open.spotify.com/track/5eHz8dzy0WsvYEqnDpPtWN) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois \(Acústico\)](https://open.spotify.com/album/4tMGcI3AI8sIiqiuX39EWe) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |
 | [Casa Pronta](https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:18 | 2022-02-18 | 2022-07-25 |
@@ -192,7 +193,7 @@
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 | 2026-05-29 |
 | [Marquinha](https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Marquinha](https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ) | 2:17 | 2022-06-24 | 2022-07-18 |
 | [ME AJUDE A SALVAR OS DOMINGOS](https://open.spotify.com/track/7ELT2o6bfErbCLpC16WOsd) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 | 2024-08-30 | 2025-02-01 |
-| [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 |  |
+| [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 | 2026-09-18 |
 | [Me Desculpa Jay\-Z \- Remix](https://open.spotify.com/track/40hftNcJCgyecU9qBztKJw) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX) | [Me Desculpa Jay\-Z \(Remix\)](https://open.spotify.com/album/2wAuBTMFO4dWdHgG55d3Tv) | 3:36 | 2022-04-01 | 2022-04-21 |
 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 | 2022-02-18 |  |
 | [ME LIGA](https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU) | [ME LIGA](https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka) | 2:13 | 2024-06-21 |  |

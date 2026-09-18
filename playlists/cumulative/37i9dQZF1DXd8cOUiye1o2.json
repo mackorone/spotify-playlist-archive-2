@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Bol Ari",
+        "url": "https://open.spotify.com/album/5jSHaaC8pCDzRdXcMGRgEZ"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385846,
+      "name": "Bol Ari",
+      "url": "https://open.spotify.com/track/3ZHVmmcmGdsreproQsqEKp"
+    },
+    {
+      "album": {
         "name": "Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CKByUC1wUI72KnORDBigz"
       },
@@ -7913,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Guzarish",
+        "url": "https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288030,
+      "name": "Guzarish",
+      "url": "https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3"
+    },
+    {
+      "album": {
         "name": "Raja Hindustani",
         "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
       },
@@ -11104,6 +11140,28 @@
       "duration_ms": 203000,
       "name": "Jiyaa",
       "url": "https://open.spotify.com/track/3zeoa4xhudPrJ2trQarPB5"
+    },
+    {
+      "album": {
+        "name": "Jiyara",
+        "url": "https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/5xDnoGOwMyDn1smvCS5fqa"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Jiyara",
+      "url": "https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE"
     },
     {
       "album": {
@@ -20472,7 +20530,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 247007,
       "name": "Shayar",
       "url": "https://open.spotify.com/track/0qrAOhVXubfyAnMpurwfFS"
@@ -24026,7 +24084,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 229218,
       "name": "Tumhare Liye - Duet - From \"Awarapan 2\"",
       "url": "https://open.spotify.com/track/6STnaBZcM8G5VobOGwYDBR"

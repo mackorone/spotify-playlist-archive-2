@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Tee Grizzley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,082 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,095 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rain](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Rain](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
+| 1 | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
 | 2 | [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 |
 | 3 | [Backwards \(feat\. T.I.\)](https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Backwards \(feat\. T.I.\)](https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg) | 3:11 |
 | 4 | [WOAH](https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WOAH](https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM) | 2:25 |

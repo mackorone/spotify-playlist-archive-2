@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring PUSHBACK\. Curated with love by human Spotify editors.
 
-10,094 songs - 22 day 16 hr 53 min
+10,095 songs - 22 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2963,6 +2963,7 @@
 | [Feel About You](https://open.spotify.com/track/5QD8n9IAj2noDpLNvDfeFV) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 5:00 | 2022-06-15 | 2022-06-30 |
 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-16 | 2025-09-25 |
 | [Feel Aight](https://open.spotify.com/track/6Jc9zvnkG7Q2t4pmpuVTl2) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Feel Aight/Wickedest](https://open.spotify.com/album/6n73FDBgFdRrLfSIutktEi) | 4:43 | 2023-02-08 | 2023-02-16 |
+| [Feel Better](https://open.spotify.com/track/3QGSm3spB9X1RWw20HZ6uP) | [Kuper](https://open.spotify.com/artist/4XkrwECe3PXGLGzaxuLGin) | [Feel Better](https://open.spotify.com/album/5QTFpjtGpvcWHVUNFvttiR) | 3:10 | 2026-09-17 |  |
 | [feel better](https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD) | [MAPLO](https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI) | [feel better](https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A) | 3:10 | 2026-02-12 | 2026-03-20 |
 | [Feel Everything](https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love Vol 2](https://open.spotify.com/album/0nF6Edna9j21yUmCqAHotI) | 4:03 | 2022-06-08 | 2022-06-16 |
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-28 | 2025-05-15 |
@@ -3683,7 +3684,7 @@
 | [Halcyon](https://open.spotify.com/track/3u01SjV3gxsOvx9HjSqb0x) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Shiny Things](https://open.spotify.com/album/0ky89qHAbyPxgmUVV5iwWI) | 4:36 | 2023-03-29 | 2023-04-06 |
 | [Half Full](https://open.spotify.com/track/7McXhv7zOkC40LltcwR7Qr) | [Suddenly](https://open.spotify.com/artist/51xCDOvoov0Pr2V1DvPNu9) | [Half Full](https://open.spotify.com/album/4aA8eulg4ilYm4Ovvr9CBH) | 4:51 | 2025-05-14 | 2025-07-10 |
 | [half of my heart](https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart](https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t) | 3:38 | 2023-11-29 | 2024-01-11 |
-| [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 | 2026-08-13 |  |
+| [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 | 2026-08-13 | 2026-09-18 |
 | [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf) | 3:30 | 2026-08-26 |  |
 | [Halfway](https://open.spotify.com/track/5L73Iygol5SlRNAMZ5rSoy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Halfway](https://open.spotify.com/album/1acoc0Uxh9JCJYJ8Y27Ccv) | 3:06 | 2023-06-14 | 2023-06-29 |
 | [Halfway](https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Halfway](https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3) | 3:39 | 2024-08-28 | 2024-10-03 |

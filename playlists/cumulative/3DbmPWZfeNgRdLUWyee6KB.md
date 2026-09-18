@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,501 songs - 3 day 15 hr 28 min
+1,503 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1020,6 +1020,7 @@
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-22 | 2026-01-27 |
 | [qué pasaría si?](https://open.spotify.com/track/3emdwjVdDDViHiTfdsKJsh) | [Bea Troncea](https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW) | [qué pasaría si?](https://open.spotify.com/album/3aZ8RGZcoL6iIcK9OnhU3N) | 3:01 | 2026-03-02 | 2026-03-25 |
 | [Rain \(Acoustic Version\)](https://open.spotify.com/track/1cSiGZuT6GIndL0RQhOeLz) | [Amelia Earnshaw](https://open.spotify.com/artist/1eafCvcMewyKKxAW0cxbtK) | [Rain \(Acoustic Version\)](https://open.spotify.com/album/0qwneIXclosOC2FZTkVAaL) | 4:38 | 2026-05-12 | 2026-07-03 |
+| [Rain On My Window](https://open.spotify.com/track/2viSWZk7ZdYPrLubu3KS0d) | [Consorcio Humano](https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI) | [Rain On My Window](https://open.spotify.com/album/5bEZuimmCYJutBzJ5cCrZe) | 4:10 | 2026-09-17 |  |
 | [Rainy Night](https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Rainy Night](https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1) | 3:43 | 2026-02-27 | 2026-07-19 |
 | [Raise It Up](https://open.spotify.com/track/69JLjSYJUQ2uwkQmI4mMtU) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Raise It Up](https://open.spotify.com/album/17lgFajGXTTrexHfQ3mTXt) | 3:06 | 2026-01-26 | 2026-02-28 |
 | [Raison](https://open.spotify.com/track/4EPuthc7nFZah1tN0ygRlK) | [Loïc BOUTMY](https://open.spotify.com/artist/05mzeuTzUJLnJhGV6bH4tW) | [Arborisation](https://open.spotify.com/album/70qFHPxMvV1zmrPVgYZkLB) | 2:17 | 2026-06-09 | 2026-07-19 |
@@ -1326,6 +1327,7 @@
 | [Tomando lo que me hace bien](https://open.spotify.com/track/5liTgR5jBraxJwnBdY9uy8) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Tomando lo que me hace bien](https://open.spotify.com/album/4242ndADN3vGSm0Yw1EqHf) | 5:05 | 2026-04-24 | 2026-06-05 |
 | [tomorrow I'll try](https://open.spotify.com/track/4MoKm1Ze37SlGoNy9YrCls) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [tomorrow I'll try](https://open.spotify.com/album/30HI6lQJkora43ky42u5mX) | 2:35 | 2026-05-28 | 2026-07-03 |
 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 | 2026-02-14 | 2026-03-15 |
+| [Too Cool for School](https://open.spotify.com/track/0pNkLrlQToWlowezDBIFLL) | [The Peripheries](https://open.spotify.com/artist/75Zpo5vckxRLMw4b9O0pHt) | [Too Cool for School](https://open.spotify.com/album/0M1ZtEOAcNkMSbn7ToU46r) | 3:53 | 2026-09-17 |  |
 | [Too Late](https://open.spotify.com/track/35sGt18IC60WKxa4yWPQ6k) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Too Late](https://open.spotify.com/album/5mqUxIVALcXZijckupme57) | 3:13 | 2026-05-26 | 2026-07-03 |
 | [Too Slow Too Strong](https://open.spotify.com/track/3UFy1nOeLLtp1iZ916oK9u) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Too Slow Too Strong](https://open.spotify.com/album/3EhqcaF65CYKt9cGMMhAjo) | 2:58 | 2026-02-12 | 2026-03-25 |
 | [Tooth](https://open.spotify.com/track/7coB6qAIUohaBcqrCDhmyk) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK), [Hayds](https://open.spotify.com/artist/0OIEpFFn2coJ5zeiMzrEdg), [FatRicko](https://open.spotify.com/artist/24cxoi08cDLTR8dbSiSawu) | [Tooth](https://open.spotify.com/album/6jM6xqCgSYunaFDBajakoC) | 2:23 | 2026-04-04 | 2026-05-03 |

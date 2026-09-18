@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 148026,
       "name": "Sowieso",
       "url": "https://open.spotify.com/track/2MgSeakgxAnlkzoQvrPBSG"
@@ -4254,6 +4254,32 @@
       "duration_ms": 134138,
       "name": "This is my house",
       "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
+    },
+    {
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3NoVsXS2KNdSsO98EZ0Lkg"
+      },
+      "artists": [
+        {
+          "name": "Ninochello",
+          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Luca Ferron",
+          "url": "https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2ROoZSN30VTNKpAR0TVva2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34425,
+  "num_followers": 34429,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2026-09-10 21:00:21",
+      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 189047,
       "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW"
-    },
-    {
-      "added_at": "2026-09-10 21:00:21",
-      "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2026-09-10 21:00:21",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+      },
+      "artists": [
+        {
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+    },
+    {
+      "added_at": "2026-09-10 21:00:21",
+      "album": {
         "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
         "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 176400,
       "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
       "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
-    },
-    {
-      "added_at": "2026-09-10 21:00:21",
-      "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
-      },
-      "artists": [
-        {
-          "name": "Monica Sex",
-          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
     },
     {
       "added_at": "2026-09-10 21:00:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Giuse The Lizia in cover di Indie Italia \ud83e\udde1",
+  "description": "Giorgio Poi in cover di Indie Italia \ud83e\udde1",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -690,6 +690,24 @@
       "duration_ms": 170357,
       "name": "Amato Male",
       "url": "https://open.spotify.com/track/2KTC7ygAHND7VOnglyXdSh"
+    },
+    {
+      "album": {
+        "name": "t\u2019 amango",
+        "url": "https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j"
+      },
+      "artists": [
+        {
+          "name": "Tamango",
+          "url": "https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205577,
+      "name": "Amer\u00f2",
+      "url": "https://open.spotify.com/track/123ZfybMtgPI1kUfS75Lzz"
     },
     {
       "album": {
@@ -1805,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Ciao bella Italia (con Piccolo Coro dell'Antoniano)",
+        "url": "https://open.spotify.com/album/1aFw00djFCNeBxTmofY1H6"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        },
+        {
+          "name": "Piccolo Coro dell'Antoniano",
+          "url": "https://open.spotify.com/artist/39t4rvQNzG5GDvZfRYJPXq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182074,
+      "name": "Ciao bella Italia (con Piccolo Coro dell'Antoniano)",
+      "url": "https://open.spotify.com/track/37zCzRSonZDrQjCMW46f68"
+    },
+    {
+      "album": {
         "name": "Ciao tristezza (con Lucia Manca)",
         "url": "https://open.spotify.com/album/1ExwneIDBZ7f93PebiLc1C"
       },
@@ -2126,7 +2166,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 168021,
       "name": "Cookie's Party",
       "url": "https://open.spotify.com/track/50FUJtYICnHzklfU7feeYd"
@@ -2238,7 +2278,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 233547,
       "name": "costole",
       "url": "https://open.spotify.com/track/5HLCYmvsiLpXSc42zezhuC"
@@ -2762,7 +2802,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171962,
       "name": "Elodie",
       "url": "https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV"
@@ -3620,7 +3660,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190368,
       "name": "Gli inutili",
       "url": "https://open.spotify.com/track/56TRSjSWlrG3KQSemL2wu0"
@@ -4628,7 +4668,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 246556,
       "name": "L'oro del fiume",
       "url": "https://open.spotify.com/track/2ULw773Dgmjk5OBukU87UR"
@@ -5850,7 +5890,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 177893,
       "name": "Maltempo",
       "url": "https://open.spotify.com/track/3H2LhTgQFKJLZmw6jKVD6D"
@@ -6864,6 +6904,24 @@
       "duration_ms": 200066,
       "name": "Non ci si ama solo in primavera",
       "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
+    },
+    {
+      "album": {
+        "name": "Anatomia di uno schianto prolungato",
+        "url": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "Non c\u2019\u00e8 di che",
+      "url": "https://open.spotify.com/track/0I26PC6r2ZLZql9ABDkpYM"
     },
     {
       "album": {
@@ -8561,6 +8619,24 @@
     },
     {
       "album": {
+        "name": "Quel Che Non Ho Pi\u00f9",
+        "url": "https://open.spotify.com/album/1m3vwHbkhNLcI2mcswm3KO"
+      },
+      "artists": [
+        {
+          "name": "Perturbazione",
+          "url": "https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "Quel Che Non Ho Pi\u00f9",
+      "url": "https://open.spotify.com/track/5XlF7ld7EOpIwPxe6vVcoT"
+    },
+    {
+      "album": {
         "name": "Quelli come me",
         "url": "https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS"
       },
@@ -8612,7 +8688,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 167170,
       "name": "Questa canzone non \u00e8 per nessuno",
       "url": "https://open.spotify.com/track/092opaQXfnpLrcLvG33jJH"
@@ -9236,6 +9312,24 @@
       "duration_ms": 185316,
       "name": "Sentirsi Soli (con Calcutta)",
       "url": "https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn"
+    },
+    {
+      "album": {
+        "name": "Senza Colori",
+        "url": "https://open.spotify.com/album/1TbTvGNMHTAzUFFCPbQY4M"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Poi",
+          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170961,
+      "name": "Senza Colori",
+      "url": "https://open.spotify.com/track/6uYUjswzL1v6E20pmyUT9Y"
     },
     {
       "album": {
@@ -10663,6 +10757,24 @@
     },
     {
       "album": {
+        "name": "Tutto torna",
+        "url": "https://open.spotify.com/album/4nxAFghXED2viVzlh1RWqf"
+      },
+      "artists": [
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/24iuxoMKP2gDBWQK8InyMl"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Tutto torna",
+      "url": "https://open.spotify.com/track/4VU0ctmkbFPNKfNZl5Jrkv"
+    },
+    {
+      "album": {
         "name": "NUOVOSPAZIOTEMPO",
         "url": "https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ"
       },
@@ -10910,6 +11022,24 @@
       "duration_ms": 156857,
       "name": "Un'ora di sole",
       "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
+    },
+    {
+      "album": {
+        "name": "Una canzone allegra",
+        "url": "https://open.spotify.com/album/0611vyNUbbaN4b1pxnVhrW"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Una canzone allegra",
+      "url": "https://open.spotify.com/track/3OIpE2rJEoTgRxHHCNMBuB"
     },
     {
       "album": {

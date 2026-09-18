@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 53 min
+93 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Friends No More](https://open.spotify.com/track/2o3WT6RdrJcjRcXzLYfiMg) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:59 | 2022-05-25 |  |
 | [Give Her a Transplant](https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Gamble Records All\-Stars](https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl) | 2:49 | 2022-05-25 |  |
 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 | 2022-05-25 | 2026-07-18 |
-| [Gloria](https://open.spotify.com/track/1YRGkekv3wu6cn5RcTio6t) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:28 | 2026-07-18 |  |
+| [Gloria](https://open.spotify.com/track/1YRGkekv3wu6cn5RcTio6t) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:28 | 2026-07-18 | 2026-09-18 |
+| [Gloria](https://open.spotify.com/track/6xEWhEh8eoVNo5JzdFMM9S) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Gloria](https://open.spotify.com/album/7IOlKDdCtch6JM95zTkacv) | 2:29 | 2026-09-18 |  |
 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 | 2022-05-25 |  |
 | [Good for Me Girl](https://open.spotify.com/track/6G35hmpi3ArSvW1RXud03x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:46 | 2022-05-30 | 2026-05-24 |
 | [GOOD FOR MY GIRL](https://open.spotify.com/track/0gBcaBNoLS2XUVv806jZPr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [ザ・イントゥルーダーズ・アー・トゥゲザー](https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa) | 2:41 | 2025-07-03 | 2025-07-04 |

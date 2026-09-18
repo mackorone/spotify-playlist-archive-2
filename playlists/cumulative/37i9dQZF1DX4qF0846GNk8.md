@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
+> أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-407 songs - 1 day 1 hr 23 min
+408 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
 | [ابو الروقان](https://open.spotify.com/track/65ImXgFhptImfTUgQ3sCd2) | [تيم الباور العالي](https://open.spotify.com/artist/5PQpoq0dsMu7EYOJ3AM1Vx), [Sadat El 3almy](https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj), [Mousa sam](https://open.spotify.com/artist/07pBadBcTQar6hgAOIUWTI) | [ابو الروقان](https://open.spotify.com/album/3OWYJwLUTwL7JyAYAV6QHR) | 2:48 | 2026-04-07 | 2026-05-06 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-28 | 2024-08-13 |
-| [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 | 2025-11-21 |  |
+| [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 | 2025-11-21 | 2026-09-18 |
 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 | 2023-03-18 |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 | 2023-04-21 |
 | [احنا الهيبة](https://open.spotify.com/track/4wLQo5Wrr1OjsRVmKSpdkn) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0), [Mohamed Beka](https://open.spotify.com/artist/3XdQFInKQcu4JNz1XCjwx5) | [احنا الهيبة](https://open.spotify.com/album/3quezxEI0CUjCJ3KgDaK0S) | 3:49 | 2024-08-12 | 2026-01-01 |
@@ -405,6 +405,7 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 | 2022-10-17 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-09 | 2024-03-09 |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-12-16 | 2023-09-06 |
+| [يا صباح عنابي](https://open.spotify.com/track/0DpMteh0VG4AxPAlqTir8z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا صباح عنابي](https://open.spotify.com/album/0Wocf6qjqfOuZArDBKJ0xh) | 3:38 | 2026-09-17 |  |
 | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/track/3vPePoOiJnSDLyqD3Hvrcr) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/album/7zg6KPeLKSdr2TclbBA22w) | 3:24 | 2023-12-14 | 2024-03-09 |
 | [يابا متخدناش بالهيئه \( بطل هري خدتها جري \)](https://open.spotify.com/track/6YQh3m8u4TEO8yxryUE7sa) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [يابا متخدناش بالهيئه \( بطل هري خدتها جري \)](https://open.spotify.com/album/3kyTXajt2eqnZEFyGdHOMe) | 3:18 | 2026-03-25 |  |
 | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/track/6725wzwd67aDcPbbAvGljT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/album/5NKW64gZzuaiSPRmlfRxQo) | 4:23 | 2026-09-08 |  |

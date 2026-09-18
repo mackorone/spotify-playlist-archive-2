@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Bia\u0142as",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Louis Villain",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 149333,
       "name": "Cartier Love",
       "url": "https://open.spotify.com/track/2h5cUGlv4YPdAYnvgaqnZP"
@@ -5855,6 +5855,48 @@
     },
     {
       "album": {
+        "name": "Dingo",
+        "url": "https://open.spotify.com/album/6LauCBfaf4ujwAVY4AwTWw"
+      },
+      "artists": [
+        {
+          "name": "QMPLE",
+          "url": "https://open.spotify.com/artist/37RK3pp9FEV8w1t9K2nVEj"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "shhieda",
+          "url": "https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW"
+        },
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218670,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/3tOhqDsVZlT8UFfzT22QXw"
+    },
+    {
+      "album": {
         "name": "Adwokat Diabla",
         "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
       },
@@ -7478,7 +7520,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 107696,
       "name": "faza",
       "url": "https://open.spotify.com/track/2AbSljEkcxjxa0iZ7E58PJ"
@@ -8620,7 +8662,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 130890,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0pdZ3Rw7BHBgouY9GhXveq"
@@ -8638,7 +8680,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
@@ -9078,7 +9120,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 107799,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/3ZoXB958kCaMLMql91ESOd"
@@ -9536,6 +9578,28 @@
       "duration_ms": 173087,
       "name": "HOTEL ROOM",
       "url": "https://open.spotify.com/track/256cui9hJB61Fs4vgDuByK"
+    },
+    {
+      "album": {
+        "name": "HRABIA",
+        "url": "https://open.spotify.com/album/7d4prHbHjYmPxEgIrQXTZE"
+      },
+      "artists": [
+        {
+          "name": "rydawarrior",
+          "url": "https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102580,
+      "name": "HRABIA",
+      "url": "https://open.spotify.com/track/2vCr53OQO52hO9yO6Lxomv"
     },
     {
       "album": {
@@ -11158,7 +11222,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166001,
       "name": "KIELICH",
       "url": "https://open.spotify.com/track/48QD4Vm8mHD6FS1DvtaSpt"
@@ -14936,7 +15000,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 100236,
       "name": "na granicy cringu",
       "url": "https://open.spotify.com/track/4oLidBO61XRUimRqdv7BI9"
@@ -15616,7 +15680,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220000,
       "name": "NIC NIE MIJA",
       "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
@@ -17061,6 +17125,32 @@
     },
     {
       "album": {
+        "name": "RIOTT",
+        "url": "https://open.spotify.com/album/7KN9JNFNdqFcKUbFxBzxKM"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Piotr Schulz",
+          "url": "https://open.spotify.com/artist/0Akw7gnYTpY3RABhqRwlnt"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "OBJE\u017bD\u017bAMY BLOK",
+      "url": "https://open.spotify.com/track/3l9fvHzyXrjaTSvpO1vILu"
+    },
+    {
+      "album": {
         "name": "Obsesja",
         "url": "https://open.spotify.com/album/4dYJnzfb7u3erg6kV2on1D"
       },
@@ -17810,7 +17900,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171133,
       "name": "OSTATNI RAZ",
       "url": "https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB"
@@ -18248,6 +18338,28 @@
       "duration_ms": 123265,
       "name": "Papito",
       "url": "https://open.spotify.com/track/1MP4dcd801ywMNnwEPzOQo"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/0GM3SAzhVfKCcPaFaxgVYb"
+      },
+      "artists": [
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/4iRLSDmXeZb55v5KlY9Gek"
     },
     {
       "album": {
@@ -19644,6 +19756,28 @@
       "duration_ms": 253162,
       "name": "Presja \u015brodowiska",
       "url": "https://open.spotify.com/track/23ZcklE7HcPXMwrut4jdG1"
+    },
+    {
+      "album": {
+        "name": "24K",
+        "url": "https://open.spotify.com/album/7rTOaq66Cb81l0FJEMPQ37"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172172,
+      "name": "Prezes",
+      "url": "https://open.spotify.com/track/5przpZubvAvxNhe9ohW8e3"
     },
     {
       "album": {
@@ -21219,6 +21353,24 @@
     },
     {
       "album": {
+        "name": "STACJA WIDMO",
+        "url": "https://open.spotify.com/album/4DSSUbOzncKOloz6dKW7ok"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "R\u2019N\u2019B",
+      "url": "https://open.spotify.com/track/0ECJBf37pYkpSmbHpaXkO2"
+    },
+    {
+      "album": {
         "name": "PROXL3M",
         "url": "https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8"
       },
@@ -22660,6 +22812,40 @@
       "duration_ms": 183703,
       "name": "STRZELAM PETEM",
       "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+    },
+    {
+      "album": {
+        "name": "Styl \u017bycia Haram",
+        "url": "https://open.spotify.com/album/7aHsq06oGOfVFG8yxUsT7v"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "Lot808",
+          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Styl \u017bycia Haram",
+      "url": "https://open.spotify.com/track/5m16LI7phPqb4ecRdZ2UlW"
     },
     {
       "album": {
@@ -25209,6 +25395,40 @@
     },
     {
       "album": {
+        "name": "Wertepy",
+        "url": "https://open.spotify.com/album/0IVem5KRY2xoFb38hUW8TZ"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        },
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        },
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        },
+        {
+          "name": "DJ HWR",
+          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152147,
+      "name": "Wertepy",
+      "url": "https://open.spotify.com/track/5S3mefsnvNEIbk4SX18KP3"
+    },
+    {
+      "album": {
         "name": "GROTESKA",
         "url": "https://open.spotify.com/album/6F7itXykUJKRptW4JovfLX"
       },
@@ -25552,7 +25772,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 214000,
       "name": "Wolne popo\u0142udnia w Polsce",
       "url": "https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI"

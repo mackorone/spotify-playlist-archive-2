@@ -1,32 +1,28 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
-  "num_followers": 28524,
+  "description": "The best new and classic South African Rock. Cover: Laudo",
+  "num_followers": 28534,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0uDPY6si/cGPGeWIGhOksqw1SJ",
+  "snapshot_id": "AAAAAL+ld7NnTrpy1N3b4bwlDAjSuudW",
   "tracks": [
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "LEWE",
-        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+        "name": "Wit Limousine",
+        "url": "https://open.spotify.com/album/255Dxh5TNNVZJkOiuggNJX"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Laudo",
+          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
         }
       ],
-      "duration_ms": 166531,
-      "name": "LEWE",
-      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
+      "duration_ms": 183195,
+      "name": "Wit Limousine",
+      "url": "https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -59,6 +55,22 @@
       "duration_ms": 191562,
       "name": "Insecure Meisies",
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Lazerbeams of Love",
+        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
+      },
+      "artists": [
+        {
+          "name": "Mercury's in the Microwave",
+          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Self Respect",
+      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -97,6 +109,22 @@
       "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Everything In Between",
+        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "What The Hell",
+      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Pose",
@@ -131,22 +159,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Ryk Met Tyd",
-        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
+        "name": "Te Laat",
+        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
       },
       "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        },
         {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 148999,
-      "name": "Ryk Met Tyd",
-      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+      "duration_ms": 194960,
+      "name": "Te Laat",
+      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -175,18 +199,42 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Te Laat",
-        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
+        "name": "Ryk Met Tyd",
+        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
       },
       "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
         {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Te Laat",
-      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
+      "duration_ms": 148999,
+      "name": "Ryk Met Tyd",
+      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Vir die Aardskinders",
+        "url": "https://open.spotify.com/album/3EJrnq41sWpsLUtSOYQUbZ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Vir die Aardskinders",
+      "url": "https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -207,6 +255,38 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Tastebud",
+        "url": "https://open.spotify.com/album/7EHiopdM9NogJSOcnZ1CAx"
+      },
+      "artists": [
+        {
+          "name": "Our Bodies",
+          "url": "https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW"
+        }
+      ],
+      "duration_ms": 260192,
+      "name": "Tastebud",
+      "url": "https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "Sonskyn Vrou",
         "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
@@ -219,6 +299,26 @@
       "duration_ms": 266868,
       "name": "Sonskyn Vrou",
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "LEWE",
+        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 166531,
+      "name": "LEWE",
+      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -241,6 +341,22 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "S\u00ea My Hoe",
+        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "S\u00ea My Hoe",
+      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Another Universe",
@@ -257,52 +373,20 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/1ZlOQ6S4rFdK84F6rY7Osz"
+        "name": "Not My Circus",
+        "url": "https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ"
       },
       "artists": [
         {
-          "name": "Future Radio",
-          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
         }
       ],
-      "duration_ms": 171060,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/6HwZw3Q6Mw3SIB2pYWPPet"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Schr\u00f6dinger",
-        "url": "https://open.spotify.com/album/7bMg2XxlfItkJkjgZdUyEC"
-      },
-      "artists": [
-        {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Schr\u00f6dinger",
-      "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
+      "duration_ms": 171428,
+      "name": "Work Like That",
+      "url": "https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -321,36 +405,20 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "Nagmerries (Bye Bye Baby)",
-        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
         }
       ],
-      "duration_ms": 172985,
-      "name": "Nagmerries (Bye Bye Baby)",
-      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "VIR DIE HUIS",
-        "url": "https://open.spotify.com/album/7fhkVuovpSaqsGdq5JQKdr"
-      },
-      "artists": [
-        {
-          "name": "Bcom",
-          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "VIR DIE HUIS",
-      "url": "https://open.spotify.com/track/6uEfoQrvM9GTl10gb7LGIN"
+      "duration_ms": 240063,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -369,20 +437,36 @@
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/3zCewR7zOx3lM2pqDL3nsb"
+        "name": "Opgef0k",
+        "url": "https://open.spotify.com/album/1Q7U1erJLEGx1qRFKFkqfZ"
       },
       "artists": [
         {
-          "name": "Marlowe",
-          "url": "https://open.spotify.com/artist/55AEMJuSnZDxamdYP4zT59"
+          "name": "TonnelVisie",
+          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
         }
       ],
-      "duration_ms": 305658,
-      "name": "Breathe Here Comes the Panic",
-      "url": "https://open.spotify.com/track/1RJjLIbSRaA46rr45wtjKo"
+      "duration_ms": 306000,
+      "name": "Opgef0k",
+      "url": "https://open.spotify.com/track/37DcWLild6E1q6RMf7avij"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -411,6 +495,54 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "ROER",
+        "url": "https://open.spotify.com/album/5xk1r1UIiF4WiDc6TuRzTr"
+      },
+      "artists": [
+        {
+          "name": "ALTRA-MAL",
+          "url": "https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx"
+        }
+      ],
+      "duration_ms": 236901,
+      "name": "ROER",
+      "url": "https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "By Jou",
+        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "By Jou",
+      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "My Huis",
         "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
       },
@@ -429,36 +561,20 @@
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "Ghost Girl",
+        "url": "https://open.spotify.com/album/5ZcSNo605tBB2f00QQsK43"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "Crying in Colour",
+          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "By Jou",
-        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "By Jou",
-      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+      "duration_ms": 178719,
+      "name": "Ghost Girl",
+      "url": "https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -507,26 +623,6 @@
       "duration_ms": 175866,
       "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Helkat",
-        "url": "https://open.spotify.com/album/3HUSvMpH1QHRRcpDURQNe1"
-      },
-      "artists": [
-        {
-          "name": "TonnelVisie",
-          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
-        },
-        {
-          "name": "SAMPAULE",
-          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
-        }
-      ],
-      "duration_ms": 234463,
-      "name": "Helkat",
-      "url": "https://open.spotify.com/track/7HVv7sMBxx6HLffNs881ld"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -657,6 +753,22 @@
       "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/6eUxIoyuCUUVAfJLzn1dbr"
+      },
+      "artists": [
+        {
+          "name": "Tait",
+          "url": "https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v"
+        }
+      ],
+      "duration_ms": 224727,
+      "name": "Happy Endings",
+      "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "HYMN",
@@ -671,6 +783,22 @@
       "duration_ms": 184682,
       "name": "GIZMO",
       "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Ek Wil Jou Sien",
+        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
+      },
+      "artists": [
+        {
+          "name": "SENTIMENT",
+          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "Ek Wil Jou Sien",
+      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -735,134 +863,6 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Kies",
-        "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
-      },
-      "artists": [
-        {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
-        }
-      ],
-      "duration_ms": 208366,
-      "name": "Kies",
-      "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Berge",
-        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 255722,
-      "name": "Berge",
-      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Travellers (Special Edition)",
-        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
-      },
-      "artists": [
-        {
-          "name": "The Narrow",
-          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Lonely-lonely",
-      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Bangkinners",
-        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "Bangkinners",
-      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "AfterlifeSatisfaction",
-        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
-      },
-      "artists": [
-        {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
     }
   ],
   "unique_name": "SA Rock ",

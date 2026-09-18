@@ -4,7 +4,7 @@
 
 > Wekelijkse update met de beste Indie releases\. Cover: Ciska Ciska
 
-960 songs - 2 day 8 hr 4 min
+961 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-07-10 | 2025-09-27 |
 | [Album Number Four](https://open.spotify.com/track/06LmmJfgiB5grS8gWNl7bz) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Chair](https://open.spotify.com/album/2LCioUNkd4Jvc479ar0GqJ) | 2:12 | 2025-04-04 | 2025-05-17 |
 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 | 2025-11-03 | 2026-02-27 |
-| [Alive](https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Alive](https://open.spotify.com/album/31yC03QGDrq41epy9OCKap) | 3:28 | 2026-05-26 |  |
+| [Alive](https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Alive](https://open.spotify.com/album/31yC03QGDrq41epy9OCKap) | 3:28 | 2026-05-26 | 2026-09-18 |
 | [Alive Inside](https://open.spotify.com/track/5utbr7khXeyjjeqchUsJVl) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Alive Inside](https://open.spotify.com/album/6w9osxUhChMkzDDKXVJelb) | 4:21 | 2026-04-03 | 2026-07-18 |
 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 | 2024-06-24 | 2024-09-20 |
 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-16 | 2026-06-19 |
@@ -508,6 +508,7 @@
 | [Mad](https://open.spotify.com/track/1Xc34ytVqT7oijRyNsoeQh) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Loyal Friend Of The Night](https://open.spotify.com/album/2jtjDxSNYPwYG83iU8LQml) | 3:22 | 2026-03-05 | 2026-06-09 |
 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [And Your Song is Like a Circle](https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8) | 3:33 | 2025-10-21 | 2026-01-15 |
 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 | 2026-01-30 | 2026-04-17 |
+| [Make A Living](https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Make A Living](https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG) | 3:23 | 2026-09-17 |  |
 | [Make Me Forget](https://open.spotify.com/track/1ok3Bj5ohHOiSbIymfBUnc) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Make Me Forget](https://open.spotify.com/album/444OEX6JPkWYGgbShkaQ4d) | 4:10 | 2025-07-10 | 2025-09-27 |
 | [Make Me Mine](https://open.spotify.com/track/4YcJYpSBVSsqHh8RwUeXEK) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Make Me Mine](https://open.spotify.com/album/2C3oKnWhB7D9TJ8zNxhlrM) | 3:54 | 2025-07-10 | 2025-10-14 |
 | [Make You Mine](https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Make You Mine](https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi) | 3:44 | 2024-11-22 | 2025-02-18 |

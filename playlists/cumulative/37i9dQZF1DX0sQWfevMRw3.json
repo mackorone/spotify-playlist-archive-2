@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "BARRUNDA 2026",
+        "url": "https://open.spotify.com/album/3CmDrHAJYNkkPPA0kvPjy8"
+      },
+      "artists": [
+        {
+          "name": "BAKI$",
+          "url": "https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138155,
+      "name": "BARRUNDA 2026",
+      "url": "https://open.spotify.com/track/2yWJFUhrndkBEjx3bRUcSa"
+    },
+    {
+      "album": {
         "name": "Bartender",
         "url": "https://open.spotify.com/album/1wWHpolKnkmO37nfejuMXc"
       },
@@ -13956,6 +13974,28 @@
       "duration_ms": 160137,
       "name": "Helt kanon",
       "url": "https://open.spotify.com/track/0hZyGgPkyDk2pk29G2j83D"
+    },
+    {
+      "album": {
+        "name": "HELT SJUK",
+        "url": "https://open.spotify.com/album/4VlxqbOCpYtg6SKj9dJaZw"
+      },
+      "artists": [
+        {
+          "name": "KYPARN",
+          "url": "https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141152,
+      "name": "HELT SJUK",
+      "url": "https://open.spotify.com/track/6LoilVKudO23ewu2h474U0"
     },
     {
       "album": {

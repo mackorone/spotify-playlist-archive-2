@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/0byiMqe0ZN2VJPTOLvQHvu"
+      },
+      "artists": [
+        {
+          "name": "RENCY",
+          "url": "https://open.spotify.com/artist/3zMRt6wfBToJEYixkuKX1A"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173616,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/6REU7cAdqE3eNkZ1ENz9SD"
+    },
+    {
+      "album": {
         "name": "Always Open At Christmas",
         "url": "https://open.spotify.com/album/5ex1cIfZ1HCx3PMe39elU9"
       },
@@ -2998,6 +3016,24 @@
       "duration_ms": 394997,
       "name": "Ama Ninja",
       "url": "https://open.spotify.com/track/1Yp1UEG4ddofQWbdXC6VLz"
+    },
+    {
+      "album": {
+        "name": "Amaka",
+        "url": "https://open.spotify.com/album/4hvH8bToHTlvIWmtarU5gi"
+      },
+      "artists": [
+        {
+          "name": "Dr. Luvstrings",
+          "url": "https://open.spotify.com/artist/0PS5S5GQakCDvIj0SstP5r"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262479,
+      "name": "Amaka",
+      "url": "https://open.spotify.com/track/41lYJzFs3DXpiAPnYUuVjk"
     },
     {
       "album": {
@@ -4244,7 +4280,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 227128,
       "name": "Aristophane",
       "url": "https://open.spotify.com/track/5S6lZhMM9xhGLoHVI53yMX"
@@ -5058,7 +5094,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 213000,
       "name": "Azul",
       "url": "https://open.spotify.com/track/5thUGWxcPmiDrdgVz8Kjrq"
@@ -6066,7 +6102,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 195799,
       "name": "Battlefield 3 Main Theme - Epic Version",
       "url": "https://open.spotify.com/track/4BBvdAdhLasH9ECU8ZOgZK"
@@ -6366,7 +6402,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 231632,
       "name": "Bees",
       "url": "https://open.spotify.com/track/65u77Q0wlUw3GjZwkfjNdL"
@@ -7294,7 +7330,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 345400,
       "name": "Blessed to create",
       "url": "https://open.spotify.com/track/585R8ak0tgu9RlN1eupD3J"
@@ -9356,7 +9392,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Can't stop that Smile",
       "url": "https://open.spotify.com/track/1hhcxDD4aVfQHC4ZgMhSg9"
@@ -10006,7 +10042,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 271840,
       "name": "Champagne Traffic",
       "url": "https://open.spotify.com/track/62Ry8N69y39QiUuLN4up1s"
@@ -10114,7 +10150,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 350639,
       "name": "Chemistry in the Moonlight - Janet Reggae Version",
       "url": "https://open.spotify.com/track/2FysaHoJMWDc0ZUAkQdyUk"
@@ -11758,7 +11794,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 160864,
       "name": "Corda De Varal",
       "url": "https://open.spotify.com/track/3RhdTgN65p5gdWx4pIQwiB"
@@ -13168,7 +13204,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 192707,
       "name": "Darlie",
       "url": "https://open.spotify.com/track/72rRj0tf8wVQI05tB2rwQm"
@@ -16808,7 +16844,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 277125,
       "name": "El incomprendido",
       "url": "https://open.spotify.com/track/5HMRBu76Hffmyk1swjYK3D"
@@ -17253,6 +17289,24 @@
     },
     {
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/5PSyelxT7TbAdjlFPcMXC8"
+      },
+      "artists": [
+        {
+          "name": "Caro Santiago",
+          "url": "https://open.spotify.com/artist/0cnlFbAgfu02ivhl10JUbn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188358,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/2sCkGlNiXLjJR3aJ5bbWM5"
+    },
+    {
+      "album": {
         "name": "EMOTION LOVE",
         "url": "https://open.spotify.com/album/0730lSeVbRuy69hgdB1OzC"
       },
@@ -17662,7 +17716,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 196359,
       "name": "Epstein, Epstein",
       "url": "https://open.spotify.com/track/7nOO824bDKIMcoIdYXDRx8"
@@ -20232,7 +20286,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 214015,
       "name": "For My Country",
       "url": "https://open.spotify.com/track/7mdC0UMEGLFjpyqK4K0Hvw"
@@ -20520,7 +20574,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 292159,
       "name": "Fran\u00e7ois l\u2019Olonnais - Roi des Mers",
       "url": "https://open.spotify.com/track/22CQ2MZZCzztF2HuW8hjqA"
@@ -21980,7 +22034,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 236656,
       "name": "God Eats First",
       "url": "https://open.spotify.com/track/2DZdOH5xKFojFY9FrMVBAR"
@@ -22664,7 +22718,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183327,
       "name": "Gubyani",
       "url": "https://open.spotify.com/track/0vbzrHeyR6rGK1OxY6D7Oo"
@@ -22870,6 +22924,28 @@
       "duration_ms": 199826,
       "name": "Hachiman",
       "url": "https://open.spotify.com/track/126k1MyPVQ8ktUc32r74fY"
+    },
+    {
+      "album": {
+        "name": "Hallelujah (House Version)",
+        "url": "https://open.spotify.com/album/5fK9PPjGZo9ZCIK1nsVvR5"
+      },
+      "artists": [
+        {
+          "name": "Nelo John",
+          "url": "https://open.spotify.com/artist/4OMN2KXSD9z804OVl1Wa2q"
+        },
+        {
+          "name": "Caro Santiago",
+          "url": "https://open.spotify.com/artist/0cnlFbAgfu02ivhl10JUbn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Hallelujah - House Version",
+      "url": "https://open.spotify.com/track/0Fdwsot9BIESEQUTQZGLd4"
     },
     {
       "album": {
@@ -25409,6 +25485,24 @@
     },
     {
       "album": {
+        "name": "I Still Love You",
+        "url": "https://open.spotify.com/album/0Ykt4nF8Mq5d9bEtf9cG0d"
+      },
+      "artists": [
+        {
+          "name": "Baltic Sea Atmosphere",
+          "url": "https://open.spotify.com/artist/1ZbiLMO9AjoL59yb0FebpR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/5LRF47Ef4epwj4Gbi32m0A"
+    },
+    {
+      "album": {
         "name": "Mystic Poets III",
         "url": "https://open.spotify.com/album/4AUVazqLGYLst7kfCfFxtj"
       },
@@ -26041,6 +26135,24 @@
     },
     {
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/1UrF5JRASNRmvxRDuSF5o6"
+      },
+      "artists": [
+        {
+          "name": "OseKalo",
+          "url": "https://open.spotify.com/artist/2ZtTmbdSOa6GqlOroYBCGX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167910,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0ZmYMTihMhbq7V3pMio2Md"
+    },
+    {
+      "album": {
         "name": "ICE X WATTA",
         "url": "https://open.spotify.com/album/6AfFAAcpibWUBCSPJHpbTX"
       },
@@ -26232,7 +26344,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 254040,
       "name": "IKHAYA LAKHO",
       "url": "https://open.spotify.com/track/7HdUHmGJQcK7apDkWIRDvs"
@@ -26416,7 +26528,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171741,
       "name": "In Between The Lines",
       "url": "https://open.spotify.com/track/2SS505GhB6ctMEsY3GrudC"
@@ -28036,7 +28148,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 211560,
       "name": "Je vais bien",
       "url": "https://open.spotify.com/track/5AEm5NJhOeu6qoO1qdP4FV"
@@ -28072,7 +28184,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 232919,
       "name": "Jeanne",
       "url": "https://open.spotify.com/track/4JnFTAmXdo4mgeUiXcupLL"
@@ -28556,7 +28668,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 241487,
       "name": "JUSQU'\u00c0 TOI",
       "url": "https://open.spotify.com/track/5XMxvnyze7SKdx9uDPvZFg"
@@ -29390,7 +29502,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185800,
       "name": "Kiss Me In The Moonlight - Acoustic",
       "url": "https://open.spotify.com/track/68qBPK23rFXALwu0syXuxp"
@@ -29680,6 +29792,24 @@
       "duration_ms": 193606,
       "name": "Kraven",
       "url": "https://open.spotify.com/track/69H2ChCCD2oKSt7X05sTGI"
+    },
+    {
+      "album": {
+        "name": "Kripto-Nita",
+        "url": "https://open.spotify.com/album/1QgTDOIwqETbU3J3GE0q67"
+      },
+      "artists": [
+        {
+          "name": "Ben-G",
+          "url": "https://open.spotify.com/artist/1RDdlHZgcT2cbpXu8neZN0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178999,
+      "name": "Kripto-Nita",
+      "url": "https://open.spotify.com/track/5za36H2qyBauk9YWfAwrKv"
     },
     {
       "album": {
@@ -30338,7 +30468,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 139562,
       "name": "La Roca Contra El Mar",
       "url": "https://open.spotify.com/track/0ZVx02ZC18yQCuJIzmLn3O"
@@ -30598,7 +30728,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 168871,
       "name": "Laissez-moi faire ma vie",
       "url": "https://open.spotify.com/track/0g196KFaeDsBsHlCyZxEKs"
@@ -30616,7 +30746,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220252,
       "name": "Land Of Enchantment",
       "url": "https://open.spotify.com/track/5jDTB9bCtR71zgcjSu1IYq"
@@ -31245,6 +31375,24 @@
     },
     {
       "album": {
+        "name": "Les Demoiselles d'Avignon",
+        "url": "https://open.spotify.com/album/6WGEP20YRvrzJKqifICoTU"
+      },
+      "artists": [
+        {
+          "name": "Peroni Come la Birra",
+          "url": "https://open.spotify.com/artist/3ZQPULpoRZRIvMWfm583bF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Les Demoiselles d'Avignon",
+      "url": "https://open.spotify.com/track/5zjcQOaCeS7QUNRaSseGWk"
+    },
+    {
+      "album": {
         "name": "Les gens qui doutent",
         "url": "https://open.spotify.com/album/29ovLqUTjHozHCx8gB2IR3"
       },
@@ -31537,6 +31685,24 @@
     },
     {
       "album": {
+        "name": "Lettre perdue",
+        "url": "https://open.spotify.com/album/69VLUTjCiGz9NzUshDzczw"
+      },
+      "artists": [
+        {
+          "name": "Clara Gabrielle",
+          "url": "https://open.spotify.com/artist/6TLF2Y53iXF6pi8mwsE7k7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Lettre perdue",
+      "url": "https://open.spotify.com/track/58mezf3GcNwCICALgjDXST"
+    },
+    {
+      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/5N70v1SO8CR3lqaoishW56"
       },
@@ -31566,7 +31732,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 156919,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/6icXTAbgLBpUBDLhTzLvVx"
@@ -32656,7 +32822,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 181359,
       "name": "Los Labios",
       "url": "https://open.spotify.com/track/2QmAZBShorNKUlwnWp2Tr1"
@@ -33206,7 +33372,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 249103,
       "name": "Love Na Business",
       "url": "https://open.spotify.com/track/6CWL5iD4ysqtsHTjjPvrL7"
@@ -39116,7 +39282,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 154133,
       "name": "No queda otra",
       "url": "https://open.spotify.com/track/2HE60E1xiwxWzVoQOPjn9j"
@@ -40388,7 +40554,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 295680,
       "name": "Ol Sinner Come Home",
       "url": "https://open.spotify.com/track/61jdaTmjmAJC83easVuPBz"
@@ -40710,7 +40876,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 250879,
       "name": "One Race (Love Outlives The Pain)",
       "url": "https://open.spotify.com/track/0yVtSXent6IVA5yKCHHurw"
@@ -41887,6 +42053,28 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/0zhoS6iBgHUN0SHGvhN4Yc"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Zamponi",
+          "url": "https://open.spotify.com/artist/0MmnNqO9Az4RGoakcXNWDx"
+        },
+        {
+          "name": "Maxiboy",
+          "url": "https://open.spotify.com/artist/7IsZ5eyceLzv0kOqFrvGNN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/4GkGbVWg9vCNhqNn7p3mcO"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/1SOVfuentvkHmYktch6QAu"
       },
@@ -42564,6 +42752,24 @@
       "duration_ms": 231417,
       "name": "Piano Sonata No. 11 in A Major, K. 331: III. Rondo alla Turca (Turkish March)",
       "url": "https://open.spotify.com/track/3UfFF9hbYXjDmSuZqNkBsk"
+    },
+    {
+      "album": {
+        "name": "Neca (Soul Landscapes)",
+        "url": "https://open.spotify.com/album/7yshuVXEOpvbDN1puefWEf"
+      },
+      "artists": [
+        {
+          "name": "Neca",
+          "url": "https://open.spotify.com/artist/24CqREAoCl0N2gRKl8j30R"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Piano Waltz",
+      "url": "https://open.spotify.com/track/5NivXfDHBeJvrhLsxwrKnA"
     },
     {
       "album": {
@@ -44109,6 +44315,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date cerca de m\u00ed",
+        "url": "https://open.spotify.com/album/67Cw6a9DBRojKneemxEkX4"
+      },
+      "artists": [
+        {
+          "name": "Las Voces Ocultas del Todo",
+          "url": "https://open.spotify.com/artist/3AoTFRy35wF7NcfZ7zvNWZ"
+        },
+        {
+          "name": "Giovanni Salazar",
+          "url": "https://open.spotify.com/artist/4gPP25CfzB47p1JBVTEvNl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186320,
+      "name": "Qu\u00e9date cerca de m\u00ed",
+      "url": "https://open.spotify.com/track/0gb9X4r7wHrSiv3vEwSnPT"
+    },
+    {
+      "album": {
         "name": "R(am'I)in",
         "url": "https://open.spotify.com/album/7EwMBKcO0HP3yJ4q8G49dP"
       },
@@ -44406,7 +44634,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 300643,
       "name": "Ready 2 Ride",
       "url": "https://open.spotify.com/track/2pXeugFwbhbi9gXIoxL3fk"
@@ -45320,7 +45548,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169611,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/4cE0emh5l31ubvzfXelAFr"
@@ -46006,7 +46234,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 129000,
       "name": "Runaway With You - Radio Edit",
       "url": "https://open.spotify.com/track/55FgnVcjn1yFsnZa0zZ3Vd"
@@ -46578,7 +46806,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 208598,
       "name": "Saturday Clothes",
       "url": "https://open.spotify.com/track/0LtKI1u0h4x9U4O9R9Bqy7"
@@ -46596,7 +46824,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 186640,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/1bEOiHNnUvi1UMuvRPsuh2"
@@ -46650,7 +46878,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 204444,
       "name": "Saved",
       "url": "https://open.spotify.com/track/0QA4WJCBdZjkyQj2wpWLQ5"
@@ -46958,6 +47186,24 @@
       "duration_ms": 126454,
       "name": "Scrub Brush & Gag Ball",
       "url": "https://open.spotify.com/track/6rYSpuA96eeoKOc86iolqN"
+    },
+    {
+      "album": {
+        "name": "SDJJ Chan (Czas)",
+        "url": "https://open.spotify.com/album/3cSq9fDo3h3PBWPX2KJv5g"
+      },
+      "artists": [
+        {
+          "name": "SDJJ Chan",
+          "url": "https://open.spotify.com/artist/5Dm6FZdzrwP9BUbmXkEj3z"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117863,
+      "name": "SDJJ Chan (Czas)",
+      "url": "https://open.spotify.com/track/72giJdFqKZ9YmdgyskRCO6"
     },
     {
       "album": {
@@ -47908,7 +48154,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166891,
       "name": "Short Piece",
       "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
@@ -49453,6 +49699,24 @@
     },
     {
       "album": {
+        "name": "Sometimes Love Ain't Enough",
+        "url": "https://open.spotify.com/album/6BZlgRO33uULlFTjsIJI6i"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gibbons",
+          "url": "https://open.spotify.com/artist/7lmwtQ1WhHpnx0vxEFkPKm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Sometimes Love Ain't Enough",
+      "url": "https://open.spotify.com/track/7a0RWkitDN29FVLQyxCjFc"
+    },
+    {
+      "album": {
         "name": "Sommerliebe",
         "url": "https://open.spotify.com/album/79grbgSZwANRQiTFwsNLIk"
       },
@@ -49518,7 +49782,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 283775,
       "name": "Sons of Sweden",
       "url": "https://open.spotify.com/track/50vH12trHwTGZWvSdkhmKy"
@@ -49651,6 +49915,24 @@
     },
     {
       "album": {
+        "name": "Soy Tu Caja de M\u00fasica",
+        "url": "https://open.spotify.com/album/2RJrM9hBrp0SuYRPaJT93c"
+      },
+      "artists": [
+        {
+          "name": "El Cantar Del Dragon",
+          "url": "https://open.spotify.com/artist/7uvaRGEFLO8YnbcEckurGz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252818,
+      "name": "Soy Tu Caja de M\u00fasica",
+      "url": "https://open.spotify.com/track/4BTaLd1AerVORMTMvc1MlE"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/43fOAACnOI5ICiZc2eCUPi"
       },
@@ -49774,7 +50056,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 228760,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/3bFCSRIYdaHdD7ADQK6Qg4"
@@ -50254,6 +50536,24 @@
       "duration_ms": 260551,
       "name": "Still Dreamin'",
       "url": "https://open.spotify.com/track/0eYTv7fycoPnPAz0tzfhO8"
+    },
+    {
+      "album": {
+        "name": "Still not down",
+        "url": "https://open.spotify.com/album/4N5i2thfz0WALX3brm8t7v"
+      },
+      "artists": [
+        {
+          "name": "TheMastreM",
+          "url": "https://open.spotify.com/artist/0wIr8bE6Mem1PqIF6E1u5i"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186559,
+      "name": "Still not down",
+      "url": "https://open.spotify.com/track/7cZYvFiS1gmD5bIVrjuhm4"
     },
     {
       "album": {
@@ -52198,7 +52498,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 229640,
       "name": "Te Amo, Pero Me Voy",
       "url": "https://open.spotify.com/track/5FRZGZRXaj2VeFPBB18ZBI"
@@ -53998,6 +54298,24 @@
       "duration_ms": 141113,
       "name": "The Quarantine Dare - Orchestra",
       "url": "https://open.spotify.com/track/4fcTAM4qeWwhcSgCjVtiEl"
+    },
+    {
+      "album": {
+        "name": "The rain will pass",
+        "url": "https://open.spotify.com/album/7kwYjbi3df3B7ICYWONYsW"
+      },
+      "artists": [
+        {
+          "name": "Murillo Resonance",
+          "url": "https://open.spotify.com/artist/1cvdFVOEsoq6sACLbXEhve"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357444,
+      "name": "The rain will pass",
+      "url": "https://open.spotify.com/track/0Alfw94a0ivF7nCslQdmqN"
     },
     {
       "album": {
@@ -58465,6 +58783,24 @@
     },
     {
       "album": {
+        "name": "Voy a vivir a mi manera",
+        "url": "https://open.spotify.com/album/724VSj3Q9uYfp8XayVGO5q"
+      },
+      "artists": [
+        {
+          "name": "LEX-Y",
+          "url": "https://open.spotify.com/artist/4cCoIn6Eu3nYthgUIjiZLW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Voy a vivir a mi manera",
+      "url": "https://open.spotify.com/track/3uJBp9MdWQGVmslP61PEVa"
+    },
+    {
+      "album": {
         "name": "Voy Pa'Ya",
         "url": "https://open.spotify.com/album/1INnKncBITJBH0fbRnussp"
       },
@@ -60246,7 +60582,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Will It Ever Be Just Fine?",
       "url": "https://open.spotify.com/track/7t7LF0EuLqkMt2igmsZtuA"
@@ -60722,7 +61058,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 225200,
       "name": "WOOF-WOOF",
       "url": "https://open.spotify.com/track/3lHCECrstuBMoGK9O4vM3L"
@@ -62380,7 +62716,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 154800,
       "name": "\u041a\u041e\u0425\u0410\u041d\u041d\u042f - \u041f\u041e\u041b\u0423\u041c'\u042f",
       "url": "https://open.spotify.com/track/3K2cHSCbD8z99pzRAzhOT9"

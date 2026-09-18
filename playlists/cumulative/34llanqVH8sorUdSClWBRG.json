@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "The Desert",
+        "url": "https://open.spotify.com/album/5AYrkGqYbBUtGZQN2CBNQb"
+      },
+      "artists": [
+        {
+          "name": "Shayfer James",
+          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177569,
+      "name": "The Desert",
+      "url": "https://open.spotify.com/track/2MlQzk1p2gl8ARltbl9WkN"
+    },
+    {
+      "album": {
         "name": "Greatest Hits In Japan",
         "url": "https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2"
       },

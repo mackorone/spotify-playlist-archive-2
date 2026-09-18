@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Juste un peu" de Jungeli et EMMA est le Grand Hit de la semaine.
+> "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
 
-350 songs - 17 hr 53 min
+351 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-06-25 |  |
 | [J'étais pas fait pour le bonheur](https://open.spotify.com/track/35A7vKNxPv68FrRg6PkFuS) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [J'étais pas fait pour le bonheur](https://open.spotify.com/album/6iuVrMQpc9O6pFIWS9k5d1) | 3:01 | 2023-09-28 | 2023-11-18 |
 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 | 2024-12-12 | 2025-01-10 |
+| [Jamais](https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Jamais](https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL) | 3:06 | 2026-09-17 |  |
 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 | 2023-12-07 | 2024-03-29 |
 | [Je m'en fous](https://open.spotify.com/track/74ljmdHbvY25QxR9NyAF4O) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Je m'en fous](https://open.spotify.com/album/2HiMpX3S30PigSeVi7YH9A) | 2:31 | 2024-02-01 | 2024-05-17 |
 | [Je me déteste](https://open.spotify.com/track/1B97v4IiTHiHb3eBWthmcm) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Je me déteste](https://open.spotify.com/album/4oNr1o2S6TCsJvKM9Um1Ly) | 3:03 | 2024-02-22 | 2024-04-05 |
@@ -279,7 +280,7 @@
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-12-12 | 2025-02-21 |
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2024-01-18 | 2024-10-25 |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-11-09 | 2024-06-07 |
-| [Qu'est\-ce qu'il me restera ?](https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nouveau souffle](https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb) | 2:22 | 2026-02-19 |  |
+| [Qu'est\-ce qu'il me restera ?](https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nouveau souffle](https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb) | 2:22 | 2026-02-19 | 2026-09-18 |
 | [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 | 2026-01-29 |  |
 | [Quitte](https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Il était une fois](https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l) | 3:18 | 2024-11-07 | 2024-12-06 |
 | [Quoi qu'il arrive ça va aller](https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL) | 3:18 | 2025-06-19 | 2025-08-08 |

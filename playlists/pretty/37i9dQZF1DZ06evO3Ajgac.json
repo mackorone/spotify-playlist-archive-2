@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 15421,
+  "num_followers": 15474,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAAXLatBBJwFfy9Uy/pIuZaT",
+  "snapshot_id": "aqiKgAAAAABFcTT+6qebCaAKS4Hbn7Qo",
   "tracks": [
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blippi's Party with Sesame Street",
-        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 138344,
-      "name": "The Excavator Song - Sesame Street Version",
-      "url": "https://open.spotify.com/track/08W9MfscnzsEuXDRVukBIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: Kids' Favorite Songs 2",
         "url": "https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 143782,
       "name": "The Hokey Pokey",
       "url": "https://open.spotify.com/track/0qC4EKl03FdBZEq3MamzBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blippi's Party with Sesame Street",
+        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 138344,
+      "name": "The Excavator Song - Sesame Street Version",
+      "url": "https://open.spotify.com/track/08W9MfscnzsEuXDRVukBIN"
     },
     {
       "added_at": null,
@@ -735,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blippi's Party with Sesame Street",
-        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Meekah",
-          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 102234,
-      "name": "Dino Dance - Sesame Street Version",
-      "url": "https://open.spotify.com/track/5Wm3Z3Gf5PxK7GLVmfAbSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rhythm of Routines",
         "url": "https://open.spotify.com/album/0W865n05JMBUF3HfiabeEZ"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 65511,
       "name": "Welcome to the Farm",
       "url": "https://open.spotify.com/track/40DjYpEBsTxW4rFjBkQd56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blippi's Party with Sesame Street",
+        "url": "https://open.spotify.com/album/29hYb113tR5KCAVjSdyw8D"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 102234,
+      "name": "Dino Dance - Sesame Street Version",
+      "url": "https://open.spotify.com/track/5Wm3Z3Gf5PxK7GLVmfAbSM"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesame Street: The Best of Elmo",
+        "url": "https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Off to School",
+      "url": "https://open.spotify.com/track/0OSJ0z0oPkmVq0vXqdtc1v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happy Dance",
         "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 120389,
       "name": "Do the Dinosaur Dance",
       "url": "https://open.spotify.com/track/55Z9D9rmgFEg0sPhX6wq2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesame Street: The Best of Elmo",
-        "url": "https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Off to School",
-      "url": "https://open.spotify.com/track/0OSJ0z0oPkmVq0vXqdtc1v"
     },
     {
       "added_at": null,
@@ -1195,38 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blippi And Sesame Street Adventures",
-        "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Meekah",
-          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Grover",
-          "url": "https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 124634,
-      "name": "Let's Take Care Of Animals - Sesame Street Version",
-      "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E Is for Elmo!",
         "url": "https://open.spotify.com/album/6olEXd4PanP1ho5loa0VwU"
       },
@@ -1243,6 +1211,34 @@
       "duration_ms": 73440,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/59zvcxSBbqfRE8ft9AZDcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3, 2, 1, Go!",
+        "url": "https://open.spotify.com/album/04clncMXkS7xIOjl91UTt5"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 65597,
+      "name": "3, 2, 1, Go!",
+      "url": "https://open.spotify.com/track/7nqFlrOOEIBJiWaGlKRs2D"
     },
     {
       "added_at": null,
@@ -1299,30 +1295,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "3, 2, 1, Go!",
-        "url": "https://open.spotify.com/album/04clncMXkS7xIOjl91UTt5"
+        "name": "Blippi And Sesame Street Adventures",
+        "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
       },
       "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
         {
           "name": "Elmo",
           "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
         },
         {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Cookie Monster",
-          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM"
         },
         {
           "name": "Sesame Street",
           "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
         }
       ],
-      "duration_ms": 65597,
-      "name": "3, 2, 1, Go!",
-      "url": "https://open.spotify.com/track/7nqFlrOOEIBJiWaGlKRs2D"
+      "duration_ms": 124634,
+      "name": "Let's Take Care Of Animals - Sesame Street Version",
+      "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
     },
     {
       "added_at": null,

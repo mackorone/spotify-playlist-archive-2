@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Jazzbois",
-  "num_followers": 16915,
+  "num_followers": 16920,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "Hirtelen m\u00e9ly\u00fcl",
-        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
-      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
         "name": "Az a szerelem",
         "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 293888,
       "name": "Az a szerelem",
       "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
+        "name": "Hirtelen m\u00e9ly\u00fcl",
+        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
+      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
-        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 181121,
-      "name": "A nyaral\u00f3 terasz\u00e1n",
-      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
         "name": "MR. CITYWIDE",
         "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
+        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
+        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 181121,
+      "name": "A nyaral\u00f3 terasz\u00e1n",
+      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
         "name": "H\u00e9ra",
         "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 206829,
       "name": "4 akkordos sz\u00e1mok",
       "url": "https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
-        "name": "Menj",
-        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "Menj",
-      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -1047,6 +1031,22 @@
       "duration_ms": 246265,
       "name": "Szil\u00e1nkok",
       "url": "https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "added_at": "2026-08-14 08:17:54",

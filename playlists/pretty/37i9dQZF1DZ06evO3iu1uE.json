@@ -1,12 +1,12 @@
 {
   "description": "This is X-Ray Spex. The essential tracks, all in one playlist.",
-  "num_followers": 2842,
+  "num_followers": 2841,
   "original_name": "This Is X-Ray Spex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAABPFoB6G/AsR57kQ4OgNZpo",
+  "snapshot_id": "aqncAAAAAAA1Hu5K5gp91TxQaseCZa40",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Hi Chaperone",
-      "url": "https://open.spotify.com/track/3PjViAhmF0LchiH4JtMJrB"
+      "duration_ms": 168026,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/64XgOqzjwqYiAEGOUsDdOE"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
         }
       ],
-      "duration_ms": 168026,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/64XgOqzjwqYiAEGOUsDdOE"
+      "duration_ms": 178600,
+      "name": "Hi Chaperone",
+      "url": "https://open.spotify.com/track/3PjViAhmF0LchiH4JtMJrB"
     },
     {
       "added_at": null,

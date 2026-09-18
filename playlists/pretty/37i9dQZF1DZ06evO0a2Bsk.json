@@ -1,12 +1,12 @@
 {
   "description": "This is Every Time I Die. The essential tracks, all in one playlist.",
-  "num_followers": 8023,
+  "num_followers": 8026,
   "original_name": "This Is Every Time I Die",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAA/ckggaL7pV1iTtuq+rTNg",
+  "snapshot_id": "aqncAAAAAABU/yNxvS/pqFqC7RLB6Tmp",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Ebolarama",
-      "url": "https://open.spotify.com/track/47dpubrQXYmHnQ0ccloxSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Junk Aesthetic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 250306,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5YSR67UAwL3LhBqqccfQyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Ebolarama",
+      "url": "https://open.spotify.com/track/47dpubrQXYmHnQ0ccloxSV"
     },
     {
       "added_at": null,
@@ -258,11 +258,15 @@
         {
           "name": "Every Time I Die",
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        },
+        {
+          "name": "'68",
+          "url": "https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C"
         }
       ],
-      "duration_ms": 156533,
-      "name": "Hostile Architecture",
-      "url": "https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD"
+      "duration_ms": 190840,
+      "name": "All This And War",
+      "url": "https://open.spotify.com/track/7jVIx7ZsUvKxtj5tetUf5R"
     },
     {
       "added_at": null,
@@ -322,15 +326,11 @@
         {
           "name": "Every Time I Die",
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        },
-        {
-          "name": "'68",
-          "url": "https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C"
         }
       ],
-      "duration_ms": 190840,
-      "name": "All This And War",
-      "url": "https://open.spotify.com/track/7jVIx7ZsUvKxtj5tetUf5R"
+      "duration_ms": 156533,
+      "name": "Hostile Architecture",
+      "url": "https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 182760,
-      "name": "I Been Gone a Long Time",
-      "url": "https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi"
+      "duration_ms": 194253,
+      "name": "Kill The Music",
+      "url": "https://open.spotify.com/track/3V7sCNSTdkMW8C0SF3XEcT"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 194253,
-      "name": "Kill The Music",
-      "url": "https://open.spotify.com/track/3V7sCNSTdkMW8C0SF3XEcT"
+      "duration_ms": 182760,
+      "name": "I Been Gone a Long Time",
+      "url": "https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 152586,
-      "name": "Godspeed Us to Sea",
-      "url": "https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg"
+      "duration_ms": 117920,
+      "name": "Gloom And How It Gets That Way",
+      "url": "https://open.spotify.com/track/1esc6EuXlZmtPcSaEolqiU"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 117920,
-      "name": "Gloom And How It Gets That Way",
-      "url": "https://open.spotify.com/track/1esc6EuXlZmtPcSaEolqiU"
+      "duration_ms": 152586,
+      "name": "Godspeed Us to Sea",
+      "url": "https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 160240,
-      "name": "Romeo A Go-Go",
-      "url": "https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA"
+      "duration_ms": 138053,
+      "name": "Bored Stiff",
+      "url": "https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Bored Stiff",
-      "url": "https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk"
+      "duration_ms": 160240,
+      "name": "Romeo A Go-Go",
+      "url": "https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 165253,
       "name": "Who Invited The Russian Soldier?",
       "url": "https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 182146,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/2MObD1EfIVb300KaYHrFyR"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 226075,
       "name": "Revival Mode",
       "url": "https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 182146,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/2MObD1EfIVb300KaYHrFyR"
     },
     {
       "added_at": null,

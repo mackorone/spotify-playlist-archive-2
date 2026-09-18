@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Wooden Machine",
+        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222170,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
+    },
+    {
+      "album": {
         "name": "Shaken",
         "url": "https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 457666,
       "name": "Blackland Farmer",
       "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
@@ -2269,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
+      "album": {
         "name": "Ghost Brothers of Darkland County",
         "url": "https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS"
       },
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220432,
       "name": "One Trip Pony",
       "url": "https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U"

@@ -16565,6 +16565,24 @@
     },
     {
       "album": {
+        "name": "No Me Suman",
+        "url": "https://open.spotify.com/album/5ulvNgx5AklRdc42BJljP0"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "No Me Suman",
+      "url": "https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4"
+    },
+    {
+      "album": {
         "name": "No Pa La Tele",
         "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
       },
@@ -21708,7 +21726,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 157826,
       "name": "Sexo",
       "url": "https://open.spotify.com/track/6xaRG4b0XONwQg9lePUiNL"

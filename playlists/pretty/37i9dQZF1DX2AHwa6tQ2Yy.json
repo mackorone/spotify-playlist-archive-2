@@ -1,47 +1,119 @@
 {
-  "description": "Try a little tenderness. Cover: Cleo Sol ",
-  "num_followers": 57636,
+  "description": "Try a little tenderness. Cover: TEEKS",
+  "num_followers": 57638,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNPhMlaLJTtnb+SjfTtn7kuFuok",
+  "snapshot_id": "AAAAAKrBYdstC1RAshmrKwNRioEAeelR",
   "tracks": [
     {
-      "added_at": "2026-08-27 23:00:26",
+      "added_at": "2026-09-18 02:30:45",
       "album": {
-        "name": "Jubilee Feeling",
-        "url": "https://open.spotify.com/album/6gOHmG4nSYAI1cWC5FGz7Z"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
         }
       ],
-      "duration_ms": 255227,
-      "name": "Jubilee Feeling",
-      "url": "https://open.spotify.com/track/5fNDkyOoCbu2vD9B1EG2Vn"
+      "duration_ms": 270359,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
     },
     {
-      "added_at": "2026-08-13 23:00:17",
+      "added_at": "2026-09-18 02:30:45",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/1vNUWfYp45LE3wXi0zxLvi"
+        "name": "Mighty Tree",
+        "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
       },
       "artists": [
         {
-          "name": "The Womack Sisters",
-          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
+      "duration_ms": 311082,
+      "name": "Mighty Tree",
+      "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
+    },
+    {
+      "added_at": "2026-09-18 02:30:45",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3wAX2XoQdIO8oDEwakM00J"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT"
+    },
+    {
+      "added_at": "2026-09-18 02:30:45",
+      "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
       "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Hallucinating Love (Deluxe)",
+        "url": "https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 167537,
+      "name": "D.O.T.W - Demo",
+      "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
+    },
+    {
+      "added_at": "2026-09-18 02:30:45",
+      "album": {
+        "name": "Inside Voice / Outside Voice",
+        "url": "https://open.spotify.com/album/0Laic2hSl2CWcOxEBF7ADd"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 295434,
+      "name": "Leg Day",
+      "url": "https://open.spotify.com/track/23Epy49zf9wcA9q493HzCO"
+    },
+    {
+      "added_at": "2026-09-18 02:30:45",
       "album": {
         "name": "Gentlewoman",
         "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
@@ -52,51 +124,15 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 188280,
-      "name": "I Only Look to You",
-      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
     },
     {
-      "added_at": "2026-08-27 23:00:26",
+      "added_at": "2026-09-18 02:30:45",
       "album": {
-        "name": "To Some Degree",
-        "url": "https://open.spotify.com/album/4tp9V7Xe6QYptqZhCIsakO"
-      },
-      "artists": [
-        {
-          "name": "Daniele Luppi",
-          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "To Some Degree (feat. Michael Kiwanuka)",
-      "url": "https://open.spotify.com/track/6Ru5eANwKCdITFc3wvURBO"
-    },
-    {
-      "added_at": "2026-06-11 14:00:34",
-      "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/3fkYR6baLhX5QZAhGT977b"
-      },
-      "artists": [
-        {
-          "name": "Ella Thompson",
-          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/1Nv9SIJR749xhMm08m44bU"
-    },
-    {
-      "added_at": "2026-08-27 23:00:26",
-      "album": {
-        "name": "Black Box (feat. Kamasi Washington)",
-        "url": "https://open.spotify.com/album/3FPv0tfUvuZbiinaJ73d19"
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
       "artists": [
         {
@@ -106,31 +142,11 @@
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 256590,
-      "name": "Black Box - feat. Kamasi Washington",
-      "url": "https://open.spotify.com/track/2ZbvE8viThUEizWXz8GDCL"
-    },
-    {
-      "added_at": "2026-06-11 14:00:34",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+      "duration_ms": 333095,
+      "name": "Crossfade",
+      "url": "https://open.spotify.com/track/7f1qQ6bzCWSh3hiaeVRyHK"
     },
     {
       "added_at": "2026-08-13 23:00:17",
@@ -155,86 +171,6 @@
       "duration_ms": 248923,
       "name": "Mentirasmentiras",
       "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
-    },
-    {
-      "added_at": "2026-08-13 23:00:17",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/3a0Cd2nUTgoiJZEvErUgum"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
-        "name": "Hallucinating Love (Deluxe)",
-        "url": "https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 167537,
-      "name": "D.O.T.W - Demo",
-      "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
-    },
-    {
-      "added_at": "2026-07-23 14:00:31",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/1H451TPu1DeSZHPewRH8MV"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4phV08Ytfo4eSiHqahFhJo"
-    },
-    {
-      "added_at": "2026-08-13 23:00:17",
-      "album": {
-        "name": "One and the Same",
-        "url": "https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        },
-        {
-          "name": "Victor Axelrod",
-          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
-        }
-      ],
-      "duration_ms": 223729,
-      "name": "One and the Same",
-      "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -795,22 +731,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "The Celestial Suite",
-        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Shameful Game",
-      "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
@@ -823,6 +743,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "The Celestial Suite",
+        "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Shameful Game",
+      "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1061,6 +997,22 @@
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
     },
     {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "I Only Look to You",
+      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
+    },
+    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "When I Get Home",
@@ -1247,6 +1199,38 @@
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
+    },
+    {
+      "added_at": "2026-04-09 14:00:37",
+      "album": {
+        "name": "Turnaround / I'm Hooked",
+        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     }
   ],
   "unique_name": "soulful",

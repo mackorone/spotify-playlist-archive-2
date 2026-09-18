@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
+  "description": "The best new and classic South African Rock. Cover: Laudo",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207773,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163181,
       "name": "Bangkinners",
       "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 305658,
       "name": "Breathe Here Comes the Panic",
       "url": "https://open.spotify.com/track/1RJjLIbSRaA46rr45wtjKo"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -4808,6 +4808,24 @@
       "duration_ms": 186230,
       "name": "Ek Weet Nie Wat Ek S\u00ea Nie",
       "url": "https://open.spotify.com/track/55GPVHKoJqqFQyBTk2b86b"
+    },
+    {
+      "album": {
+        "name": "Ek Wil Jou Sien",
+        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
+      },
+      "artists": [
+        {
+          "name": "SENTIMENT",
+          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183238,
+      "name": "Ek Wil Jou Sien",
+      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
     },
     {
       "album": {
@@ -5978,7 +5996,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
@@ -6090,6 +6108,24 @@
       "duration_ms": 100000,
       "name": "GHETTOS",
       "url": "https://open.spotify.com/track/125VfTNSZjRDUDPO8DRsSD"
+    },
+    {
+      "album": {
+        "name": "Ghost Girl",
+        "url": "https://open.spotify.com/album/5ZcSNo605tBB2f00QQsK43"
+      },
+      "artists": [
+        {
+          "name": "Crying in Colour",
+          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178719,
+      "name": "Ghost Girl",
+      "url": "https://open.spotify.com/track/3aOUCkc6Eb0zCwoVpPkUoU"
     },
     {
       "album": {
@@ -6717,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/6eUxIoyuCUUVAfJLzn1dbr"
+      },
+      "artists": [
+        {
+          "name": "Tait",
+          "url": "https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Happy Endings",
+      "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
+    },
+    {
+      "album": {
         "name": "Hard As A Rock",
         "url": "https://open.spotify.com/album/2UpFL7l7YVexFHlTBPBKn4"
       },
@@ -6884,7 +6938,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 234463,
       "name": "Helkat",
       "url": "https://open.spotify.com/track/7HVv7sMBxx6HLffNs881ld"
@@ -8660,7 +8714,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208366,
       "name": "Kies",
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
@@ -9628,7 +9682,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
@@ -11619,6 +11673,24 @@
     },
     {
       "album": {
+        "name": "Opgef0k",
+        "url": "https://open.spotify.com/album/1Q7U1erJLEGx1qRFKFkqfZ"
+      },
+      "artists": [
+        {
+          "name": "TonnelVisie",
+          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Opgef0k",
+      "url": "https://open.spotify.com/track/37DcWLild6E1q6RMf7avij"
+    },
+    {
+      "album": {
         "name": "Entertainment",
         "url": "https://open.spotify.com/album/5KXDsW4krGCMFYi8PYvX0n"
       },
@@ -12985,6 +13057,24 @@
     },
     {
       "album": {
+        "name": "ROER",
+        "url": "https://open.spotify.com/album/5xk1r1UIiF4WiDc6TuRzTr"
+      },
+      "artists": [
+        {
+          "name": "ALTRA-MAL",
+          "url": "https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236901,
+      "name": "ROER",
+      "url": "https://open.spotify.com/track/0sesomL3TkuLdL1F30RHi8"
+    },
+    {
+      "album": {
         "name": "ROLE MODEL",
         "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
       },
@@ -13076,6 +13166,24 @@
       "duration_ms": 176876,
       "name": "RULEMAKER",
       "url": "https://open.spotify.com/track/2h1p0cauj24GNWX6SO9uO4"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13"
+      },
+      "artists": [
+        {
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240063,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk"
     },
     {
       "album": {
@@ -13282,7 +13390,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 178866,
       "name": "Schr\u00f6dinger",
       "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
@@ -13300,7 +13408,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171060,
       "name": "Scream",
       "url": "https://open.spotify.com/track/6HwZw3Q6Mw3SIB2pYWPPet"
@@ -13358,6 +13466,24 @@
       "duration_ms": 151739,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki"
+    },
+    {
+      "album": {
+        "name": "Lazerbeams of Love",
+        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
+      },
+      "artists": [
+        {
+          "name": "Mercury's in the Microwave",
+          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Self Respect",
+      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
     },
     {
       "album": {
@@ -15151,6 +15277,24 @@
     },
     {
       "album": {
+        "name": "S\u00ea My Hoe",
+        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172571,
+      "name": "S\u00ea My Hoe",
+      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
+    },
+    {
+      "album": {
         "name": "Taaibos",
         "url": "https://open.spotify.com/album/0mW4ModhMitOX2DlHHgsgX"
       },
@@ -15274,6 +15418,24 @@
       "duration_ms": 232902,
       "name": "Taste of Freedom",
       "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"
+    },
+    {
+      "album": {
+        "name": "Tastebud",
+        "url": "https://open.spotify.com/album/7EHiopdM9NogJSOcnZ1CAx"
+      },
+      "artists": [
+        {
+          "name": "Our Bodies",
+          "url": "https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260192,
+      "name": "Tastebud",
+      "url": "https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru"
     },
     {
       "album": {
@@ -16955,6 +17117,28 @@
     },
     {
       "album": {
+        "name": "Vir die Aardskinders",
+        "url": "https://open.spotify.com/album/3EJrnq41sWpsLUtSOYQUbZ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223950,
+      "name": "Vir die Aardskinders",
+      "url": "https://open.spotify.com/track/2yC8CJg1kaNSkiWqAaU6uj"
+    },
+    {
+      "album": {
         "name": "VIR DIE HUIS",
         "url": "https://open.spotify.com/album/7fhkVuovpSaqsGdq5JQKdr"
       },
@@ -16966,7 +17150,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 145253,
       "name": "VIR DIE HUIS",
       "url": "https://open.spotify.com/track/6uEfoQrvM9GTl10gb7LGIN"
@@ -17489,6 +17673,24 @@
     },
     {
       "album": {
+        "name": "Everything In Between",
+        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "What The Hell",
+      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
+    },
+    {
+      "album": {
         "name": "Wasteland - The Purgatory EP",
         "url": "https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF"
       },
@@ -17749,6 +17951,24 @@
     },
     {
       "album": {
+        "name": "Wit Limousine",
+        "url": "https://open.spotify.com/album/255Dxh5TNNVZJkOiuggNJX"
+      },
+      "artists": [
+        {
+          "name": "Laudo",
+          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183195,
+      "name": "Wit Limousine",
+      "url": "https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl"
+    },
+    {
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3"
       },
@@ -17858,6 +18078,24 @@
       "duration_ms": 170338,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/2N7FFLLDXZup2T6f7V7X6a"
+    },
+    {
+      "album": {
+        "name": "Not My Circus",
+        "url": "https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Work Like That",
+      "url": "https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr"
     },
     {
       "album": {

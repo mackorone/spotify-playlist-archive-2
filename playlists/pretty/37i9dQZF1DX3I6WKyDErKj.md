@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain]
 
 > HBCU Anthems! Curated by Howard University's own <a href="spotify:artist:44qqbgojo0P8r68CuRbSN4">Lady London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,344 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain]
 | 14 | [All The Time](https://open.spotify.com/track/0USZx50eApN045zIIyjePN) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [All The Time](https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct) | 4:24 |
 | 15 | [Red Nose](https://open.spotify.com/track/1KIQ0RscHwxXPJUvhuO5Bl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Remember Me](https://open.spotify.com/album/5udw4f9l9vwuJVkrbRFy3j) | 3:13 |
 | 16 | [Face Down](https://open.spotify.com/track/5odp9TRQ62O7lKyi9xXp3E) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Dreamchasers 2](https://open.spotify.com/album/0kpslw9IHk7EsK40BGUbX9) | 4:36 |
-| 17 | [House Party](https://open.spotify.com/track/39IxVie37g7Uw2zL2dU7wb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Chris](https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1) | [Dreamchasers](https://open.spotify.com/album/40SFz21xgwvkJn2Ea1z5iH) | 4:23 |
+| 17 | [House Party](https://open.spotify.com/track/39IxVie37g7Uw2zL2dU7wb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Chris](https://open.spotify.com/artist/22NTPsB2hBug3vXEStneuT) | [Dreamchasers](https://open.spotify.com/album/40SFz21xgwvkJn2Ea1z5iH) | 4:23 |
 | 18 | [Thats My Hoe 2 Remix](https://open.spotify.com/track/4ZKZremMyDerhXhIiCuAHW) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [future](https://open.spotify.com/artist/1Bm4dgOCEHAuuSwpysuq24) | [A\-million Dipset Mania \(Back to Business\)](https://open.spotify.com/album/1WEv9ETrMLE5VsYYpdHmDB) | 3:07 |
 | 19 | [Lookin Ass \(feat\. Nicki Minaj\)](https://open.spotify.com/track/42t8tGri8FtQekNeTPe67B) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:40 |
 | 20 | [All The Way Turnt Up](https://open.spotify.com/track/4YAtIop3U0HsJ7jE94BCmX) | [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Ready Set Go!](https://open.spotify.com/album/2w1AsZdhx7PSXWwTXVv1GK) | 4:53 |

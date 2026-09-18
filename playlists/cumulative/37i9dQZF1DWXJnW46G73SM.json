@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u064a\u0648\u0644\u064a\u0648",
+  "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u064a\u0627\u0633\u0631",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -7656,6 +7656,24 @@
       "duration_ms": 224634,
       "name": "Estanno Shewaya",
       "url": "https://open.spotify.com/track/2Bh9NhDUF3OyBr5fPsqNM6"
+    },
+    {
+      "album": {
+        "name": "ESTGHSA",
+        "url": "https://open.spotify.com/album/2cK64z1knJ5PLEnP5K1kTv"
+      },
+      "artists": [
+        {
+          "name": "MCM",
+          "url": "https://open.spotify.com/artist/6ItHDVK6LtE24sRh5Zk7GJ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165647,
+      "name": "ESTGHSA",
+      "url": "https://open.spotify.com/track/3nrvFSUOjkR8lULYxlP1ek"
     },
     {
       "album": {
@@ -17698,7 +17716,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 152432,
       "name": "SAM3ANI",
       "url": "https://open.spotify.com/track/2R3xXW9zduiDfDVcLKtwxp"

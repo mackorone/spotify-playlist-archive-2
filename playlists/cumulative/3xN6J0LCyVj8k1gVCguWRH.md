@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,542 songs - 15 day 6 hr 13 min
+6,544 songs - 15 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1710,6 +1710,7 @@
 | [En Canto](https://open.spotify.com/track/4u23INsuBOfxP4MIOwhWhQ) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [En Canto](https://open.spotify.com/album/6iauQrcWDHBHtpbSgpG2Yy) | 3:03 | 2023-01-06 | 2023-01-28 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-12-18 | 2026-04-15 |
 | [EN VICE CITY](https://open.spotify.com/track/366alZr6yGfTyXIJsCvI5U) | [Luciana Alara](https://open.spotify.com/artist/2jtc40eiNQAuNdXZUNVvYt) | [EN VICE CITY](https://open.spotify.com/album/73WuSt8wNkTJ7dKMqFDjNp) | 3:13 | 2026-07-05 | 2026-07-17 |
+| [Enchanting](https://open.spotify.com/track/1WNk4MQeOAi7Q3AiyVsGBh) | [Iris Stryx](https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd) | [Enchanting](https://open.spotify.com/album/5yc7UjptpODLhoUFsK52D8) | 3:16 | 2026-09-18 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-09 | 2026-06-15 |
 | [End of Me](https://open.spotify.com/track/68ByRwEnwrBYyrLUJhncge) | [Chris Aguilar](https://open.spotify.com/artist/4wzQ9vuuFaWUEUqu2cAnDO) | [End of Me](https://open.spotify.com/album/6Tg1T2H6sLeV0X1KE2OsLU) | 3:57 | 2024-05-17 | 2024-05-29 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 | 2025-12-19 |
@@ -3245,6 +3246,7 @@
 | [Light in the Shadow](https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Light in the Shadow](https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih) | 2:53 | 2025-01-14 | 2025-01-28 |
 | [Light Me Up](https://open.spotify.com/track/6eiMQi6bU255rcIxKlBjNJ) | [Very Disco](https://open.spotify.com/artist/7LZAVZ5Zt8wIzUejBt4UD5) | [Light Me Up](https://open.spotify.com/album/34iOVExJUGY0Q9Uy9MflLI) | 3:02 | 2022-09-23 | 2022-10-09 |
 | [Light Up](https://open.spotify.com/track/48pyjW0tKItRLRcTTsHhCu) | [WORK IT Girl](https://open.spotify.com/artist/1Mk9butALWTZxDniVDXwzp), [Kyra Daniel](https://open.spotify.com/artist/4sAbs69J0vojMHQqLqCNzu) | [Light Up](https://open.spotify.com/album/1ixietVYQGx6IlmDR3vIOS) | 2:23 | 2026-07-07 | 2026-07-19 |
+| [Light Up The Night](https://open.spotify.com/track/1aNhLOjqboXs4BidNVDA23) | [mama no likey](https://open.spotify.com/artist/6oR8sN0wuLcxt6vqGeAL5f), [Maddi Lasker](https://open.spotify.com/artist/1K4btyJ0gnkj3QYu8nbwSe) | [Light Up The Night](https://open.spotify.com/album/50P5Uaeuec09E8cbnwNEPg) | 3:21 | 2026-09-17 |  |
 | [Light up Your Love](https://open.spotify.com/track/6fI3HAh7dFq3d1gpAGojnr) | [Ronney Abramson](https://open.spotify.com/artist/7zheDIGjd6QEdsqgISEncC) | [A Re\-Mastered Collection](https://open.spotify.com/album/5QUhgoZ8vCc0vVBxBWbd3f) | 4:05 | 2021-01-01 | 2021-01-16 |
 | [Light Work](https://open.spotify.com/track/1YHkDDFxeHPFit1Pu8REtA) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Wavy Boy Smith](https://open.spotify.com/artist/5R0PHvHnz26MnV7keyLxli) | [Light Work](https://open.spotify.com/album/47R1W7b9zrF0UYwpVdJTzs) | 3:31 | 2021-04-03 | 2021-04-18 |
 | [Lightbulb](https://open.spotify.com/track/3ansqno08pVEKlqnHZyd3d) | [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Lightbulb](https://open.spotify.com/album/3mj0UrmtLP4BHp7AphKy0f) | 2:35 | 2023-01-21 | 2023-02-24 |

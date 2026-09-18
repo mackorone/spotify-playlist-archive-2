@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 47 min
+77 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Theme From Jurassic Park](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 3:27 | 2025-04-18 |  |
 | [Theme From Schindler's List](https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 4:15 | 2025-04-18 |  |
 | [Theme From Schindler's List \(Reprise\)](https://open.spotify.com/track/2Xa0M5kcQHdZHde9ktiXg2) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 2:59 | 2026-08-18 | 2026-08-20 |
+| [Theme from Schindler's List \(Version for Cello & Orchestra\)](https://open.spotify.com/track/1EKHda5fv4MTklabWigvCs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [John Williams: Theme from Schindler's List \(Version for Cello & Orchestra\)](https://open.spotify.com/album/0BxHXHPi1hJcTdRyA671RM) | 4:12 | 2026-09-18 |  |
 | [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 | 2025-06-23 | 2026-07-15 |
 | [Visit to the Zoo and Letters from Hogwarts](https://open.spotify.com/track/3u7lKn9dJFHyJDG2q06Pzv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:23 | 2026-04-25 | 2026-05-22 |
 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 | 2025-04-18 |  |

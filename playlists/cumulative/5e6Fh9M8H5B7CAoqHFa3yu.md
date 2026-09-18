@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,564 songs - 6 day 6 hr 16 min
+2,565 songs - 6 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Cukup Kamu](https://open.spotify.com/track/7FOPuqaVbWNBv0NdCNX8Yu) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Cukup Kamu](https://open.spotify.com/album/7HIS22S83KWi8dZW5FP4Nc) | 3:21 | 2026-07-09 |  |
 | [CULTIST](https://open.spotify.com/track/2p0MRLv6SoGfL66JLp2vKa) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [CULTIST](https://open.spotify.com/album/2HH4A7x59P8IyiAWTYcwD9) | 2:50 | 2025-11-23 |  |
 | [CULTURAH](https://open.spotify.com/track/2bZbbfr8KVE4T1hpbwESZM) | [Dissid](https://open.spotify.com/artist/0MlSXsCX6rzRd7JMQO7our), [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [CULTURAH](https://open.spotify.com/album/438QGzE67QOskPuNIE18O7) | 3:03 | 2025-08-01 |  |
+| [CULXX](https://open.spotify.com/track/36qfM90od24onJ50oQj5IR) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CULXX](https://open.spotify.com/album/0MKj7Eik6nMRkuIMjsABe4) | 3:00 | 2026-09-18 |  |
 | [Cumbia Loca \- Radio Edit](https://open.spotify.com/track/6gonmNwIjkKGnjqtkXppC6) | [Millonzi](https://open.spotify.com/artist/0QNGrzVmq2HdKLMln6VJP1) | [Cumbia Loca](https://open.spotify.com/album/4fuAu1zjMIVb8GKIfGK5sE) | 2:28 | 2024-03-08 |  |
 | [Cuori Spezzati](https://open.spotify.com/track/1iWK26b8P1irLHHPs7vp3k) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Gianluca Di Liberto](https://open.spotify.com/artist/1E2mnomYzAUhjDsShhKO30) | [Cuori Spezzati](https://open.spotify.com/album/4TUKwACe7NVIRjUE7WZXY2) | 5:06 | 2024-09-25 |  |
 | [Cupicide](https://open.spotify.com/track/47YIjbDL4f9cepSiNE0NPL) | [Lil Mvrty](https://open.spotify.com/artist/2op9Ee1lQWYiX6PM6P0Uys) | [Cupicide](https://open.spotify.com/album/1a0h2RPVsA9u5bzp0PvMRM) | 2:20 | 2026-05-18 |  |

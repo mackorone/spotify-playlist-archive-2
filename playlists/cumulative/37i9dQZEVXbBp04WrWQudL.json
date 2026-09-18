@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "All Too Well: The Short Film",
+        "url": "https://open.spotify.com/album/3X4GpQK5ZwoWzyLtFe0khh"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 895050,
+      "name": "All Too Well: The Short Film",
+      "url": "https://open.spotify.com/track/6dZaVpt2kaAwXaPTo7goG7"
+    },
+    {
+      "album": {
         "name": "AMARGURA (En Vivo)",
         "url": "https://open.spotify.com/album/6Eqcw9gjj1MEvzg3pBylvq"
       },
@@ -148,7 +166,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 165610,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/5Zt8EeE4G0oRRWCcNG5M3X"
@@ -166,7 +184,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 154261,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg"
@@ -220,7 +238,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 298602,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
@@ -303,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Blank Space",
+        "url": "https://open.spotify.com/album/1J64Tg8iGbWUabTB5EFlDS"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273439,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1lMNRNMKzmMcm8REq1ELJJ"
+    },
+    {
+      "album": {
         "name": "Bloody Paradise",
         "url": "https://open.spotify.com/album/0CyPiBsXR2kopg3mY9UOBd"
       },
@@ -318,6 +354,24 @@
       "duration_ms": 134089,
       "name": "Bloody Paradise",
       "url": "https://open.spotify.com/track/1hJIR5Lv4RgJWM2EhK1id1"
+    },
+    {
+      "album": {
+        "name": "Borracho de Amor",
+        "url": "https://open.spotify.com/album/2KYXAOrVx7MBDd03eipiH1"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242698,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/7xYDdj5EpqjSG8gYjpfmQe"
     },
     {
       "album": {
@@ -646,7 +700,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 250144,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
@@ -726,7 +780,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 235520,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
@@ -846,6 +900,28 @@
       "duration_ms": 141900,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt"
+    },
+    {
+      "album": {
+        "name": "God Is A Weapon",
+        "url": "https://open.spotify.com/album/2u9uetW406NWKcMmg8UfHp"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215416,
+      "name": "God Is A Weapon",
+      "url": "https://open.spotify.com/track/5v6Vg2AmwuqagPgWdl6TRb"
     },
     {
       "album": {
@@ -980,7 +1056,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 183274,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/3GLzEgUE1k4rUbbmdTslHY"
@@ -1093,6 +1169,32 @@
     },
     {
       "album": {
+        "name": "Joseph",
+        "url": "https://open.spotify.com/album/4FKlcoyeStIYQfTG5XVxo9"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257958,
+      "name": "Joseph",
+      "url": "https://open.spotify.com/track/1XJmJ6UYoQ5l5v1EccfwfQ"
+    },
+    {
+      "album": {
         "name": "Joy.",
         "url": "https://open.spotify.com/album/3bXTbh7mWyCD3DjeE1LNjl"
       },
@@ -1155,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Look What You Made Me Do",
+        "url": "https://open.spotify.com/album/5oS67gGpawjhEQqRt6Ky7p"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256589,
+      "name": "Look What You Made Me Do",
+      "url": "https://open.spotify.com/track/5hhrs6GOThBgCrOtp2rlUG"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/1mlNpz05asibccS7Lga1tc"
       },
@@ -1206,7 +1326,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220650,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/5ucRskc1wHGuOeXJMU6kPu"
@@ -1253,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/2CAHf0F0iphXRKTrQBPvPd"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254083,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/1DMaTwNXjiflO75Tgd80wy"
+    },
+    {
+      "album": {
         "name": "Mad Technology",
         "url": "https://open.spotify.com/album/2iTi5W9RwaW5prE6YZplUl"
       },
@@ -1290,7 +1428,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166665,
       "name": "Made My Night",
       "url": "https://open.spotify.com/track/7g6gHchKx8TC8swNR4MOFS"
@@ -1330,7 +1468,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -1366,7 +1504,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207893,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
@@ -1402,7 +1540,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -2042,7 +2180,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 314238,
       "name": "the cure",
       "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"
@@ -2114,7 +2252,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"

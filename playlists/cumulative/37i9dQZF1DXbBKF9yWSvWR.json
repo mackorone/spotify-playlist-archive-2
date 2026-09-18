@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208868,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl"
@@ -9230,6 +9230,24 @@
       "duration_ms": 190704,
       "name": "Magneten",
       "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
+    },
+    {
+      "album": {
+        "name": "Make A Living",
+        "url": "https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203227,
+      "name": "Make A Living",
+      "url": "https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ"
     },
     {
       "album": {

@@ -770,7 +770,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Les sylvains, Op. 60",
       "url": "https://open.spotify.com/track/4WsXp6fVboRE5XW0VyYSgJ"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 250000,
       "name": "Les sylvains, Op. 60",
       "url": "https://open.spotify.com/track/6VvV2k23i7KkyR4ZAvA5GU"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 44653,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
       "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
@@ -1698,6 +1698,28 @@
       "duration_ms": 96640,
       "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 35 \"Funeral March\": IV. Finale. Presto",
       "url": "https://open.spotify.com/track/4PiWLoohYDDG3nsrtYiw3J"
+    },
+    {
+      "album": {
+        "name": "\"The Final Cadenza: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/6U5BHwTPKMtzuG2sWC5hvl"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76654,
+      "name": "Piano Sonata No. 21 in B-Flat Major, D. 960: Scherzo - Excerpt",
+      "url": "https://open.spotify.com/track/1kamkkQbQ0sUDegKydpPjD"
     },
     {
       "album": {

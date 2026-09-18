@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122712,
+  "num_followers": 122701,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVwXIuJI1LzZAhitlR/0nHbn0X4HuC",
+  "snapshot_id": "AAAVwjwtYnVuuqIkmuX1gTNf1qCqVYap",
   "tracks": [
+    {
+      "added_at": "2026-09-17 14:23:56",
+      "album": {
+        "name": "WANNA SEE UR FACE AGAIN",
+        "url": "https://open.spotify.com/album/54MJsT7W1jSxiJtsW5rht1"
+      },
+      "artists": [
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        },
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q"
+        }
+      ],
+      "duration_ms": 189926,
+      "name": "WANNA SEE UR FACE AGAIN",
+      "url": "https://open.spotify.com/track/1nNKISSrsnDiEkpZMVhqDT"
+    },
     {
       "added_at": "2026-09-16 15:08:35",
       "album": {

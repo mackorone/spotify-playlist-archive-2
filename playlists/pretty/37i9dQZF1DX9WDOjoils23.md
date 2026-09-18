@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,209 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,242 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Udaarian](https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:42 |
 | 2 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 |
 | 3 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
-| 4 | [Ranjha Ranjha](https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG) | [Ranjha Ranjha](https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq) | 3:04 |
-| 5 | [Zikr Tera](https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Rangrez](https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo) | 4:55 |
+| 4 | [Zikr Tera](https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Rangrez](https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo) | 4:55 |
+| 5 | [Ranjha Ranjha](https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG) | [Ranjha Ranjha](https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq) | 3:04 |
 | 6 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
 | 7 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 |
 | 8 | [Dil Udeya \(From "Singh Vs Kaur 2"\)](https://open.spotify.com/track/6fCkK7jPK7le0ijFcAGWW6) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Dil Udeya \(From "Singh Vs Kaur 2"\)](https://open.spotify.com/album/38z25IqJscmjWtolWYlhlG) | 3:29 |

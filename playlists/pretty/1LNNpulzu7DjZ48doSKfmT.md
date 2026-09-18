@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 417 songs - 21 hr 41 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 422 songs - 21 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -425,5 +425,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 415 | [Run run](https://open.spotify.com/track/45U3ONkgQwWINzLjP0RK2g) | [Falko](https://open.spotify.com/artist/3lGrOeydURHEYbkYguZOi4) | [Su](https://open.spotify.com/album/03Dz0USSsKAhQCZVfEfvmS) | 1:35 |
 | 416 | [KEYS PLEASE](https://open.spotify.com/track/474KkDSKlZB6x7ZIC0LPtV) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD) | [KEYS PLEASE](https://open.spotify.com/album/6k4bx8vdWzsl8OvA1l40VD) | 2:23 |
 | 417 | [Recognize](https://open.spotify.com/track/7KMtWlxagzXKUIN8sHJ5eE) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Recognize](https://open.spotify.com/album/7azhXaNY5hFKkIXoXZ2VQh) | 3:21 |
+| 418 | [Just A Second](https://open.spotify.com/track/2I6RZPm7ve9xwTC5JVsIVZ) | [Stephanie Tite](https://open.spotify.com/artist/51frzFcyq3v8eC6wkFmkKX) | [Just A Second](https://open.spotify.com/album/7tU9OgrBHX3B9eiDZRueeL) | 4:17 |
+| 419 | [Dareka no Tamashii](https://open.spotify.com/track/0i546Qfnbt9YrubNkvj8Rg) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [Dareka no Tamashii](https://open.spotify.com/album/4XGuTbKqMCSAXDxs3OdO50) | 3:25 |
+| 420 | [Killers In Fashion](https://open.spotify.com/track/0VPNS83bOlDjZPqMbWMxo9) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [NickEG](https://open.spotify.com/artist/40UjCQcm7cyXgjT0ERN21I) | [Killers In Fashion](https://open.spotify.com/album/3gcQUxWe0nU7YJXYJ5wyEw) | 2:16 |
+| 421 | [Grand](https://open.spotify.com/track/1zrIWgf3gY6FMrKDFgelC5) | [YKTV Mast3rMind](https://open.spotify.com/artist/2dzJUqxtfo7dWNL3uOS4Pb), [Killwoodz](https://open.spotify.com/artist/5t43cJsTHLU62JgEkXdfjL), [MONEY FLUX](https://open.spotify.com/artist/5jSYSRRs3QX4N2YlDeLlY6) | [Kill Or Drown](https://open.spotify.com/album/7fFlVCVr3bOPeGC7DpDZ3Q) | 2:40 |
+| 422 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
 
-Snapshot ID: `AAAeuhWVhoCg2FURaPOscWv0qV3lqN06`
+Snapshot ID: `AAAev3M1IVRL1i3TZsqVadFTPky0E7qq`

@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! Cover: Tony Iommi
 
-502 songs - 1 day 7 hr 31 min
+504 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Hungry Waters](https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hungry Waters](https://open.spotify.com/album/1GJDu1mFe6vMERKPHTzUmF) | 5:22 | 2024-09-06 | 2024-10-18 |
 | [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 | 2024-11-22 |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-27 |
+| [Hurt Me](https://open.spotify.com/track/0piwNOZM7foP78JqzrkqL9) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Hurt Me](https://open.spotify.com/album/0y80H0RPAi5wYeWTCEClaG) | 3:13 | 2026-09-17 |  |
 | [Hush](https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 3:55 | 2026-06-29 |  |
 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 | 2024-06-27 | 2024-08-02 |
 | [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-13 |  |
@@ -410,6 +411,7 @@
 | [TANZNEID](https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F) | 3:05 | 2025-11-06 |  |
 | [Teenage Rebel](https://open.spotify.com/track/0i5DEAK979g2ZN8JLhQe7L) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:32 | 2024-06-27 | 2024-11-08 |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-04-24 | 2025-06-06 |
+| [Templars \(feat\. Pop Evil\)](https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Templars \(feat\. Pop Evil\)](https://open.spotify.com/album/7FdChgOT89etcBVl6sMaNV) | 3:23 | 2026-09-17 |  |
 | [Ten Over Ten](https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Ten Over Ten](https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za) | 3:17 | 2026-08-24 |  |
 | [The Accuser](https://open.spotify.com/track/7r5Zx79aDER2CUDrfeF9n8) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [From Dust To Darkness](https://open.spotify.com/album/2tagO4X2aelnf3ulk7iUWW) | 3:21 | 2025-10-02 | 2025-11-07 |
 | [The Age of AGI](https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W) | [Endigo](https://open.spotify.com/artist/6CMARBTk7A5cN9UW9LZqDj) | [The Age of AGI](https://open.spotify.com/album/4Tw9c6YmLJlLEv8fCJvgpM) | 3:44 | 2024-06-27 | 2024-09-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255561,
+  "num_followers": 255541,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAADmLODWeCLvtgHn1187rmOy",
+  "snapshot_id": "aqncAAAAAADbXVrNycrAIvTJ2xPOb732",
   "tracks": [
     {
       "added_at": null,
@@ -1003,26 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "supersexi",
-        "url": "https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI"
+        "name": "Perreito Salvaje",
+        "url": "https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK"
       },
       "artists": [
-        {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 186293,
-      "name": "supersexi",
-      "url": "https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec"
+      "duration_ms": 171428,
+      "name": "Perreito Salvaje",
+      "url": "https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F"
     }
   ],
   "unique_name": "This Is Emilia",

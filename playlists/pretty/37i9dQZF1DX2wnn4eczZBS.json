@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11546,
+  "num_followers": 11547,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Marco Polo",
         "url": "https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4"
       },
@@ -819,22 +803,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "7 Dagen Maandag",
-        "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
       },
       "artists": [
         {
-          "name": "Ricky Bekstok",
-          "url": "https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT"
-        },
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 166753,
-      "name": "7 Dagen Maandag",
-      "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -851,6 +831,26 @@
       "duration_ms": 164117,
       "name": "Gefeliciteerd",
       "url": "https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "7 Dagen Maandag",
+        "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bekstok",
+          "url": "https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT"
+        },
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "duration_ms": 166753,
+      "name": "7 Dagen Maandag",
+      "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
     },
     {
       "added_at": "2026-05-28 11:50:51",

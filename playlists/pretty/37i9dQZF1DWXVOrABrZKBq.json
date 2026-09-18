@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
-  "num_followers": 23874,
+  "num_followers": 23897,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
+        "name": "Belvedere",
+        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Belvedere",
+      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
         "name": "M.I.L.S 4",
         "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Belvedere",
-        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Belvedere",
-      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "Nowhere 2",
         "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
       },
@@ -687,6 +687,38 @@
       "duration_ms": 179301,
       "name": "Nowhere 2",
       "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "HAN HAN",
+        "url": "https://open.spotify.com/album/5tD28iJQaqO0cdc4mLSwdP"
+      },
+      "artists": [
+        {
+          "name": "26keuss",
+          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "HAN HAN",
+      "url": "https://open.spotify.com/track/59N8MVERvOGmiS54RuF5t7"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -715,38 +747,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "HAN HAN",
-        "url": "https://open.spotify.com/album/5tD28iJQaqO0cdc4mLSwdP"
-      },
-      "artists": [
-        {
-          "name": "26keuss",
-          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "HAN HAN",
-      "url": "https://open.spotify.com/track/59N8MVERvOGmiS54RuF5t7"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
-        "name": "Pangor (Swalalala)",
-        "url": "https://open.spotify.com/album/56ob7dj65ZxYtV9z45aB8x"
-      },
-      "artists": [
-        {
-          "name": "Djaksparo",
-          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
-        }
-      ],
-      "duration_ms": 121704,
-      "name": "Pangor (Swalalala)",
-      "url": "https://open.spotify.com/track/02tj7EJuf48fJ2S4tS7htr"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "NETFLIX CHILL",
         "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
       },
@@ -767,6 +767,30 @@
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Allo Doudou",
+        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 170681,
+      "name": "Allo Doudou",
+      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -807,30 +831,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Allo Doudou",
-        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 170681,
-      "name": "Allo Doudou",
-      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "BLOQU\u00c9",
         "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 135793,
       "name": "BBL",
       "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/5STY0vbcKegoAdYnOMuBZe"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "REQUIEM : MIEUX QU'HIER",
         "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 153490,
       "name": "EXPLICIT 69",
       "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5STY0vbcKegoAdYnOMuBZe"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/3TKi9R2cUg56cLTym2SmjS"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Jet Set",
-      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "GROSEILLE",
         "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 173013,
       "name": "GROSEILLE",
       "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Jet Set",
+      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
     },
     {
       "added_at": "2026-09-11 16:08:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-11 16:08:33",
       "album": {
-        "name": "FENG SHUI",
-        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "FENG SHUI",
-      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
-    },
-    {
-      "added_at": "2026-09-11 16:08:33",
-      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-09-11 16:08:33",
+      "album": {
+        "name": "FENG SHUI",
+        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "FENG SHUI",
+      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
     },
     {
       "added_at": "2026-09-11 16:08:33",

@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Wilson A.
 
-388 songs - 20 hr 59 min
+389 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [In My Arms \- live](https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5) | [INOYSON](https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5) | [Odesa Twilight Session \(live\)](https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2) | 3:10 | 2026-05-26 |  |
 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 | 2026-05-11 |  |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-07-01 | 2025-05-08 |
+| [In Times of Absolute Endings](https://open.spotify.com/track/1n5CMJWzV9OimSjkoroBXB) | [Gabbi Lieve](https://open.spotify.com/artist/3h37iYeabo7qndCteCW9E6) | [In Times of Absolute Endings](https://open.spotify.com/album/1aGsfs58XYBl7zAbrrikd0) | 3:12 | 2026-09-17 |  |
 | [Inside My Head](https://open.spotify.com/track/7I9uVwnMSMARHdmrhhHd3T) | [ILÆNDER](https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z) | [Inside My Head](https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel) | 3:50 | 2025-11-28 | 2026-05-12 |
 | [Inside Out](https://open.spotify.com/track/44vGAqIIgXYYEOg0lDnC0X) | [Favour](https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo) | [Favour](https://open.spotify.com/album/4bv1QCN1qUWesWbUnqKhp2) | 3:36 | 2026-05-11 | 2026-06-04 |
 | [Inter\-Minus\-Net](https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM) | [Gespuys](https://open.spotify.com/artist/0ZhdE8XU91DF4i0trcK5b2) | [Inter\-Minus\-Net](https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf) | 2:53 | 2024-07-01 | 2025-05-08 |
@@ -216,7 +217,7 @@
 | [Looking At You](https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG) | [Loeck](https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk) | [Looking At You](https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj) | 2:36 | 2026-05-11 |  |
 | [Los Anarquistitas](https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8) | [shoom](https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw) | [Los Anarquistitas](https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2) | 6:35 | 2024-07-01 | 2024-10-22 |
 | [Lost In Love](https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU) | [Tres Navy](https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o) | [Lost In Love](https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul) | 2:07 | 2024-07-01 | 2025-05-08 |
-| [lOvE](https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl) | [Lola Louii](https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1) | [lOvE](https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ) | 2:18 | 2026-05-11 | 2026-09-17 |
+| [lOvE](https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl) | [Lola Louii](https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1) | [lOvE](https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ) | 2:18 | 2026-05-11 |  |
 | [Low](https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH) | [HOOFS](https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp) | [Low](https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo) | 2:15 | 2026-09-16 |  |
 | [Low Fire](https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA) | [Mazis](https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg) | [Low Fire](https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh) | 4:20 | 2025-09-16 | 2026-05-12 |
 | [Machine \(Radio Edit\)](https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4) | [The Robots Are Coming](https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i) | [Machine \(Radio Edit\)](https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1) | 3:33 | 2026-05-11 |  |
@@ -234,7 +235,7 @@
 | [Miss Trutti Finally Found Her Gem](https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u) | [FAST DE](https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR) | [Sight Inside](https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra) | 3:36 | 2025-05-07 | 2026-05-12 |
 | [Moment](https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [On Top Of The World](https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43) | 2:44 | 2026-05-11 |  |
 | [Money Rain](https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod) | [BigBobbyBitch](https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe) | [Money Rain](https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M) | 2:23 | 2026-05-11 |  |
-| [Money up](https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO), [jejokaki](https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE) | [Southside II](https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf) | 2:13 | 2026-05-11 | 2026-09-17 |
+| [Money up](https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO), [jejokaki](https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE) | [Southside II](https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf) | 2:13 | 2026-05-11 |  |
 | [Mosquitos](https://open.spotify.com/track/4rwQW9eTVyTZOe8FNV3N2n) | [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [Mosquitos](https://open.spotify.com/album/4VpUjb8zZkU7XLl68oprUD) | 3:55 | 2026-09-16 |  |
 | [Moulin Rouge](https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Moulin Rouge](https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys) | 3:11 | 2025-05-07 | 2026-05-12 |
 | [Muurvast](https://open.spotify.com/track/5zN47NfLOAxBfWoE0tIvqT) | [Grote Geelstaart](https://open.spotify.com/artist/4KebXdedNLEtwiS4T1SAR1) | [Muurvast](https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq) | 5:46 | 2025-05-07 | 2026-05-12 |

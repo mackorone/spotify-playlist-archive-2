@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sam Vishal
 
-869 songs - 2 day 1 hr 3 min
+870 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,10 +461,11 @@
 | [Mudinjiriche Love\-uh](https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef) | [Harish Ramachandran](https://open.spotify.com/artist/7ghorCKxubrTHqGVOHDSiv), [Thillai Karthik](https://open.spotify.com/artist/7itVIUaF54NxQvmA1ljGZA), [Sakthi Raj](https://open.spotify.com/artist/77BxtwX1bzRnMWxm7SS7OU) | [Mudinjiriche Love\-uh](https://open.spotify.com/album/5CfRSZGUWm1UgRt7RVfwNJ) | 3:00 | 2025-01-29 | 2026-01-15 |
 | [My Dear Maname](https://open.spotify.com/track/48qw6aOZx9tOQbVjlyOqLo) | [Shahithya](https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf) | [My Dear Maname](https://open.spotify.com/album/1CRFQ9is8dZEsyRW5yF5M1) | 2:44 | 2024-04-01 | 2024-11-22 |
 | [My Love \- Tamil](https://open.spotify.com/track/7ulG4zYIzj9htjEPimS9mw) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Tamil\)](https://open.spotify.com/album/30oPMp2YNNPoo67N3NBo8s) | 4:30 | 2025-02-20 | 2025-06-04 |
-| [Na Varanja Oviyam](https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6) | [Dyan](https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Na Varanja Oviyam](https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ) | 3:49 | 2026-03-26 |  |
+| [Na Varanja Oviyam](https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6) | [Dyan](https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Na Varanja Oviyam](https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ) | 3:49 | 2026-03-26 | 2026-09-18 |
 | [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS) | 4:38 | 2024-06-27 | 2024-08-11 |
 | [Naai La Gandam \(Original Soundtrack\)](https://open.spotify.com/track/2rmeIf9AYftwtJH3Zpglox) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT) | [Naai La Gandam \(Original Soundtrack\)](https://open.spotify.com/album/174jBUDT9rsOT8OEFVAdz8) | 2:56 | 2024-11-15 | 2024-12-26 |
 | [Naan Kaanum](https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf) | [Rathish Raghavendra](https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M), [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ) | [Naan Kaanum](https://open.spotify.com/album/5ELT4fZcKIx1tuXWoamEds) | 3:22 | 2024-12-13 | 2025-03-18 |
+| [Naan Paravaiyaa](https://open.spotify.com/track/1rsAhmpcarVGLfNJ6WtiE4) | [Vasanth Chandrasekar](https://open.spotify.com/artist/4tLdfdpHG5eWP341lVCuPi), [John Bharathi](https://open.spotify.com/artist/6Xz1RfeQWdcOAdx50C8uys) | [Naan Paravaiyaa](https://open.spotify.com/album/4m8A1mNAfTiOaUXqAA3PHO) | 3:01 | 2026-09-17 |  |
 | [Naan Vaanil Parappen](https://open.spotify.com/track/1U4gHb6IjpHCZKZPfS0F6i) | [S\. J\. Jananiy](https://open.spotify.com/artist/0Rw5ubEtFD4cNhQUJUTXmI) | [Naan Vaanil Parappen](https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7) | 3:46 | 2024-10-04 | 2025-01-31 |
 | [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-04-14 | 2023-10-04 |
 | [Naattu Nadappu](https://open.spotify.com/track/7tv63NI1EXDBE2ZWc9jwNO) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq), [Sam Boy](https://open.spotify.com/artist/1liOZcWxpBFeI2q4x2G9IQ) | [Naattu Nadappu](https://open.spotify.com/album/5hQB0Tfxcy33uPiP2jHKKg) | 2:53 | 2025-07-23 | 2025-08-26 |

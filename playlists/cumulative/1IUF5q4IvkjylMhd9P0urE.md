@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-1,011 songs - 2 day 9 hr 13 min
+1,012 songs - 2 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Se Pone d a Perro](https://open.spotify.com/track/3KE6aKSNIqtYnjJbMvIDlY) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:42 | 2026-03-20 |  |
 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 | 2023-04-13 | 2023-08-04 |
 | [Seagulls](https://open.spotify.com/track/1BtbTvFOfcWknn8SGsrpq2) | [Fea](https://open.spotify.com/artist/1VcouBXUG812fp3e60aR01), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Tunnelling](https://open.spotify.com/album/2jY2TwfwsK9NdMlhjMljmW) | 2:56 | 2022-11-08 | 2022-12-20 |
+| [Secrets](https://open.spotify.com/track/6UPShtRqT72QbtCCuDREaZ) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Claudette Ortiz](https://open.spotify.com/artist/2PWQEBHw18rURT93AbGXQm) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 4:47 | 2026-09-17 |  |
 | [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 | 2025-11-07 | 2026-09-02 |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-02-10 | 2023-05-24 |
 | [sentfromheaven \(One Bok Remix\)](https://open.spotify.com/track/4Rzrj4fJWQGNGrGSkbGA7r) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj), [One Bok](https://open.spotify.com/artist/55SqL4b3REH74BsMhfiqAm) | [40](https://open.spotify.com/album/1juNJtkh5qDp8csiBFMHEO) | 3:10 | 2024-09-07 | 2025-03-21 |
@@ -853,7 +854,7 @@
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-03 | 2024-03-22 |
 | [Spit](https://open.spotify.com/track/2avR02odSSywf3NTMLXrbZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit](https://open.spotify.com/album/69sM4KiEGA4ZNiBiMu1C3i) | 2:36 | 2024-09-07 | 2025-03-21 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-09-07 | 2025-03-21 |
-| [Splitting Moonlight](https://open.spotify.com/track/5knDKXERds7QDBPahzZsV8) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Mr\. Postman, wait!](https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ) | 3:27 | 2026-09-01 |  |
+| [Splitting Moonlight](https://open.spotify.com/track/5knDKXERds7QDBPahzZsV8) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Mr\. Postman, wait!](https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ) | 3:27 | 2026-09-01 | 2026-09-18 |
 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-09-01 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-07-03 | 2023-12-08 |
 | [Stand Anthem](https://open.spotify.com/track/0lE6OHpHjXcr6ikPZ68aLv) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Stand Anthem](https://open.spotify.com/album/0oJfZ9Podvx0QSDg0jpeHy) | 5:58 | 2023-08-03 | 2023-12-08 |

@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> شجّع المنتَج المحلي\. الغلاف: يوليو
+> شجّع المنتَج المحلي\. الغلاف: حسين ياسر
 
-1,815 songs - 4 day 4 hr 28 min
+1,816 songs - 4 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [ESPAÑA!](https://open.spotify.com/track/6Enb8kHdTYPIVqZfTqZTDL) | [BAVO](https://open.spotify.com/artist/6iOEQ5eHYKmEkgVkP7nvVS) | [ESPAÑA!](https://open.spotify.com/album/3TkQKgOifyi6zOBclOmMRU) | 2:16 | 2026-09-15 |  |
 | [Estaghnena](https://open.spotify.com/track/1RlBReXFZDGcDWvVzK4fBM) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Estaghnena](https://open.spotify.com/album/0yZMxNDdp9jK38gt0qTvCc) | 3:17 | 2024-06-13 | 2024-07-25 |
 | [Estanno Shewaya](https://open.spotify.com/track/2Bh9NhDUF3OyBr5fPsqNM6) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Estanno Shewaya](https://open.spotify.com/album/4NeUBfCHqxaKtrJ7V0Pb24) | 3:44 | 2024-09-19 | 2025-01-14 |
+| [ESTGHSA](https://open.spotify.com/track/3nrvFSUOjkR8lULYxlP1ek) | [MCM](https://open.spotify.com/artist/6ItHDVK6LtE24sRh5Zk7GJ) | [ESTGHSA](https://open.spotify.com/album/2cK64z1knJ5PLEnP5K1kTv) | 2:45 | 2026-09-17 |  |
 | [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-22 | 2024-07-17 |
 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 | 2025-03-13 | 2025-06-10 |
 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 | 2025-03-03 | 2025-05-23 |
@@ -937,7 +938,7 @@
 | [Salamat](https://open.spotify.com/track/51ItnGRB1cDLcLjf0B2TNA) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Salamat](https://open.spotify.com/album/4q9kjLC336PBlGFYoLV3vm) | 2:58 | 2024-10-11 | 2024-12-06 |
 | [Salma Ya Salama](https://open.spotify.com/track/6iwHluwxrl5TU2cCin91ei) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [Salma Ya Salama](https://open.spotify.com/album/1XLmptOA8vXdP1PxnnlQwA) | 2:58 | 2023-12-29 | 2024-02-07 |
 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-04-20 | 2023-05-20 |
-| [SAM3ANI](https://open.spotify.com/track/2R3xXW9zduiDfDVcLKtwxp) | [Deka](https://open.spotify.com/artist/6etVcOJ1k8TWZ1ZcZ7jdtW) | [SAM3ANI](https://open.spotify.com/album/1bVTJ42eYZ4PDHGdHzCFry) | 2:32 | 2026-07-23 |  |
+| [SAM3ANI](https://open.spotify.com/track/2R3xXW9zduiDfDVcLKtwxp) | [Deka](https://open.spotify.com/artist/6etVcOJ1k8TWZ1ZcZ7jdtW) | [SAM3ANI](https://open.spotify.com/album/1bVTJ42eYZ4PDHGdHzCFry) | 2:32 | 2026-07-23 | 2026-09-18 |
 | [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 | 2022-06-06 |
 | [Samka W Senara](https://open.spotify.com/track/0cRkF6KC9SO5C4aPFF5rfw) | [Hany Adel](https://open.spotify.com/artist/4Te3SJVA9dluqVRfgGzrzQ) | [Samka W Senara](https://open.spotify.com/album/1eprMmj2sIp48VVf2DqGoH) | 4:11 | 2024-02-29 | 2024-03-07 |
 | [Samra \(ft\. Abo El Anwar\)](https://open.spotify.com/track/30tCnS3UHnNtX90eDFVFTT) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Samra \(ft\. Abo El Anwar\)](https://open.spotify.com/album/3YPyfm2E21CduHbIgbpzzP) | 2:51 | 2024-08-29 | 2024-10-18 |

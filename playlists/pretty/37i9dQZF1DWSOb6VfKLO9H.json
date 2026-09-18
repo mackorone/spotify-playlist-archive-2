@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111311,
+  "num_followers": 111321,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Goed Teken",
         "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 170497,
       "name": "Ik Kan Je Niet Laten",
       "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1031,6 +1031,42 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Was Je Nog Maar Hier (Radio Edit)",
+        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Was Je Nog Maar Hier - Radio Edit",
+      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Betasten",
         "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
@@ -1059,26 +1095,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 177994,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Was Je Nog Maar Hier (Radio Edit)",
-        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Was Je Nog Maar Hier - Radio Edit",
-      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1291,34 +1291,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Dashawn",
-        "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
-      },
-      "artists": [
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 167184,
-      "name": "Chemistry (feat. Mula B)",
-      "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "501",
         "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
       },
@@ -1355,6 +1327,34 @@
       "duration_ms": 156035,
       "name": "Hard 2 Get",
       "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Dashawn",
+        "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 167184,
+      "name": "Chemistry (feat. Mula B)",
+      "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
     },
     {
       "added_at": "2024-07-19 06:38:33",

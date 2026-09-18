@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 219259,
       "name": "Autumn Star",
       "url": "https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 270996,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
@@ -3006,6 +3006,24 @@
       "duration_ms": 214117,
       "name": "Shining",
       "url": "https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF"
+    },
+    {
+      "album": {
+        "name": "Shuttle Launch",
+        "url": "https://open.spotify.com/album/3u2aJDemlzSK7mxTBZVztt"
+      },
+      "artists": [
+        {
+          "name": "Zaytune",
+          "url": "https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Shuttle Launch",
+      "url": "https://open.spotify.com/track/1nD6Bcu6Xhzky0e4pEIVu3"
     },
     {
       "album": {
@@ -3285,6 +3303,46 @@
     },
     {
       "album": {
+        "name": "Sweetgrass",
+        "url": "https://open.spotify.com/album/16jIKur9C4UAvZD6hivHYc"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248108,
+      "name": "Sweetgrass",
+      "url": "https://open.spotify.com/track/3TRZksN4J2ajRHk89oP5LH"
+    },
+    {
+      "album": {
+        "name": "sweetheart",
+        "url": "https://open.spotify.com/album/3WOfo6lvFLH7sDy6Ewv9zm"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "hnylmn",
+          "url": "https://open.spotify.com/artist/6Lz6Y1m8SGfRHXkNq7d5AZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81750,
+      "name": "sweetheart",
+      "url": "https://open.spotify.com/track/2hffoHZMSYOjMWWsMjXHEa"
+    },
+    {
+      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
       },
@@ -3368,7 +3426,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 256500,
       "name": "The Missing Piece",
       "url": "https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw"
@@ -3426,6 +3484,24 @@
       "duration_ms": 296304,
       "name": "Think About What You Love",
       "url": "https://open.spotify.com/track/6pSzOFRKPabWwBq0B3NgJ7"
+    },
+    {
+      "album": {
+        "name": "Think Tomorrow",
+        "url": "https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk"
+      },
+      "artists": [
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280645,
+      "name": "Think Tomorrow",
+      "url": "https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5"
     },
     {
       "album": {
@@ -3834,7 +3910,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 216844,
       "name": "Wilderness - Braxton Revisit",
       "url": "https://open.spotify.com/track/29abLyQscDvcEvvQYPu3bx"

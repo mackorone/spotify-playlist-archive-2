@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Baek A) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Lee go do) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 226986,
       "name": "In You",
       "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
@@ -5916,6 +5916,24 @@
       "duration_ms": 196200,
       "name": "lilac",
       "url": "https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs"
+    },
+    {
+      "album": {
+        "name": "The Person on the Outskirts",
+        "url": "https://open.spotify.com/album/1D1Gs7RZlGEv9B4RuAPJbz"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Little bird! Little bird! Little bird!",
+      "url": "https://open.spotify.com/track/1x7BZHu3v1hD81MHE1Vrzw"
     },
     {
       "album": {
@@ -9736,7 +9754,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 281672,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/5bUBgKm0WCeB6vab0SOiYr"
@@ -11546,7 +11564,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 230000,
       "name": "Why Does Love",
       "url": "https://open.spotify.com/track/5iG9ydo9cjiyGNmOv97bVN"

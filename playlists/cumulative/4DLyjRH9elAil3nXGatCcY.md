@@ -4,7 +4,7 @@
 
 > 
 
-593 songs - 1 day 14 hr 42 min
+594 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Boys Latin](https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Panda Bear Meets The Grim Reaper](https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj) | 4:12 | 2025-10-15 |  |
 | [Brainfreeze](https://open.spotify.com/track/1jsyXu3vcY14DLOg6jaEG3) | [Fuck Buttons](https://open.spotify.com/artist/6tCENAD2FBfIMyygJMeOJV) | [Slow Focus](https://open.spotify.com/album/2GpgIyzxzxCNmkWL1EZW2C) | 8:33 | 2025-10-15 |  |
 | [BROKEN MIRROR](https://open.spotify.com/track/0e99cn4GuAKJpj60BAue6C) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [Embrace](https://open.spotify.com/album/3fDaZlQntESaNvis6OqspS) | 6:20 | 2020-05-05 |  |
+| [Bulls on Parade \- triple j Like A Version](https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Bulls on Parade \(triple j Like A Version\)](https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf) | 4:29 | 2026-09-17 |  |
 | [Burn It All Down](https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko) | 3:21 | 2022-05-09 |  |
 | [C'est dingue](https://open.spotify.com/track/7025JDz6G9MB1SaE1GmSNI) | [L'Or du Commun](https://open.spotify.com/artist/2lPL3aVXBS4gVGymFOAYxF) | [Avant la nuit](https://open.spotify.com/album/6DMZJQw4oHFd7mKsIm1Ocv) | 2:59 | 2022-05-09 |  |
 | [Call Me After Midnight](https://open.spotify.com/track/68FulNAv2PwmhhXv8uMOC2) | [Pontiac At Night](https://open.spotify.com/artist/2u5UxYjO6xROpRPRC7SJyg) | [Model Lover](https://open.spotify.com/album/6T7cb5wZXn82WPJAqMNYjF) | 4:11 | 2025-10-15 |  |

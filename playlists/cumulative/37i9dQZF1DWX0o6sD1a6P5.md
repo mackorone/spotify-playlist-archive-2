@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Rema
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: GIMS
 
-1,001 songs - 2 day 0 hr 30 min
+1,003 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 | 2025-10-23 | 2026-05-22 |
 | [Bolingo](https://open.spotify.com/track/0EQalbiaFBkvRitIsgCvUb) | [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Bolingo](https://open.spotify.com/album/2TrmCYnHsPUSzJZdGejXtr) | 2:46 | 2023-12-07 | 2024-01-19 |
 | [BOMAYE \- Pas chez moi](https://open.spotify.com/track/7qX2z2gQzlv8U2bpGvUj50) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [BOMAYE \(Pas chez moi\)](https://open.spotify.com/album/4mBvGxJKpY0yc68Fiegfu1) | 2:42 | 2023-04-20 | 2023-08-18 |
+| [BONNIE](https://open.spotify.com/track/4qR2MiJJTVLFjboDX2kVh8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BONNIE](https://open.spotify.com/album/1Ihlnpxhr5mOuPiTwtoHg5) | 2:57 | 2026-09-17 |  |
 | [Booster](https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Booster](https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb) | 2:11 | 2026-07-16 | 2026-09-11 |
 | [Boucan \(feat\. Franglish\)](https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Boucan \(feat\. Franglish\)](https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r) | 2:51 | 2024-04-25 | 2024-10-25 |
 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 | 2024-11-21 | 2025-05-16 |
@@ -188,7 +189,7 @@
 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 | 2024-10-10 | 2025-01-17 |
 | [Chairlady](https://open.spotify.com/track/2WIbNLk7K5muvjZk1MaXDC) | [DELLFIRE](https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu), [Ice prince](https://open.spotify.com/artist/5mvs9z1Q10yvVwMT4bKEMN) | [Chairlady](https://open.spotify.com/album/2a3gFP0cLolIBq4ZSrUuMG) | 2:52 | 2022-01-24 | 2022-02-18 |
 | [Chairlady](https://open.spotify.com/track/7BVfw1GhKbT9NdhCdBXyxQ) | [DELLFIRE](https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Chairlady](https://open.spotify.com/album/0jQ9ghhSu0aRGH9aCqJ0D8) | 2:52 | 2022-01-13 | 2022-01-17 |
-| [Champagne](https://open.spotify.com/track/0IY1yzvNwS83VF8POTKFjE) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Champagne](https://open.spotify.com/album/3RfQ73RyxRtmhnNYMKHKA5) | 2:48 | 2026-08-13 |  |
+| [Champagne](https://open.spotify.com/track/0IY1yzvNwS83VF8POTKFjE) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Champagne](https://open.spotify.com/album/3RfQ73RyxRtmhnNYMKHKA5) | 2:48 | 2026-08-13 | 2026-09-18 |
 | [Champs\-Elysées](https://open.spotify.com/track/0L0EUIiVNMHGAoMkxKiZAc) | [Saamou](https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Champs\-Elysées](https://open.spotify.com/album/50n0otnT9R0vnjFqeuSCNu) | 2:32 | 2026-07-02 | 2026-07-31 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-23 | 2026-05-22 |
 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 | 2026-07-02 |  |
@@ -813,7 +814,7 @@
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-22 | 2022-11-18 |
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/7cMw238oiZZGNSMnlyjUk2) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6tJCJdDa3lUElNRDj2e0Gg) | 2:28 | 2022-09-22 | 2022-09-28 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-16 |  |
-| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-06 |  |
+| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-06 | 2026-09-18 |
 | [Shisha](https://open.spotify.com/track/2kOmK3ajnOnQamXem4FeXG) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [Shisha](https://open.spotify.com/album/1gaXCy5twILjDFnGthCwUZ) | 3:42 | 2021-12-27 | 2022-01-07 |
 | [SHOPPING CHAMPAGNE](https://open.spotify.com/track/0aPGKMuWmDPXhRH5mw1daj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [SHOPPING CHAMPAGNE](https://open.spotify.com/album/1XBVnxM15j93o1WzCICiqE) | 1:41 | 2026-02-05 | 2026-03-27 |
 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 | 2024-07-25 | 2024-11-08 |
@@ -995,6 +996,7 @@
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-28 | 2025-11-21 |
 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-29 | 2025-08-16 |
 | [Zaza](https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Zaza](https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT) | 2:16 | 2023-04-06 | 2023-05-12 |
+| [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 | 2026-09-17 |  |
 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 | 2025-07-17 | 2025-11-07 |
 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 | 2026-07-23 |  |
 | [Zéro Limite](https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Zéro Limite](https://open.spotify.com/album/3VD2r5mIFx191tozHFL8eV) | 2:09 | 2023-06-22 | 2023-07-14 |

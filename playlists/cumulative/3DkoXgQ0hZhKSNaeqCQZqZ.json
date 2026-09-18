@@ -3313,6 +3313,28 @@
     },
     {
       "album": {
+        "name": "excalibur",
+        "url": "https://open.spotify.com/album/44m3DtAd9xER7ZLQ8XGl4W"
+      },
+      "artists": [
+        {
+          "name": "sharkbarksss",
+          "url": "https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS"
+        },
+        {
+          "name": "Adamn Killa",
+          "url": "https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310375,
+      "name": "excalibur",
+      "url": "https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD"
+    },
+    {
+      "album": {
         "name": "Forgive Me Please",
         "url": "https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7"
       },

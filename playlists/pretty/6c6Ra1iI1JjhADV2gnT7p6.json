@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60572,
+  "num_followers": 60574,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABbHSIAx+0JU7ieH+elvYZVlev+OIM0",
+  "snapshot_id": "AABbJfHFRbMj1bbue0Gada5nyg68rqaM",
   "tracks": [
     {
       "added_at": "2026-09-15 07:13:50",
@@ -319,6 +319,22 @@
       "duration_ms": 243196,
       "name": "Cloud Machine",
       "url": "https://open.spotify.com/track/4ucXGrYvbzTfTAZDLmFIO6"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Lights Off",
+        "url": "https://open.spotify.com/album/0OWBJgZxGorifobbQTiHZ4"
+      },
+      "artists": [
+        {
+          "name": "lene 3000",
+          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/1XUhkF8S4ZB4sOdw00vIbc"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -1763,6 +1779,22 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
+        "name": "can't stop",
+        "url": "https://open.spotify.com/album/1DjrCy4YBVNuXVtaebS2uK"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/3B29aKOdQx7vCvH486RW24"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7lMroCjz0LLuWAVZm7Or7i"
       },
@@ -2879,22 +2911,6 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "Lights Off",
-        "url": "https://open.spotify.com/album/0OWBJgZxGorifobbQTiHZ4"
-      },
-      "artists": [
-        {
-          "name": "lene 3000",
-          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Lights Off",
-      "url": "https://open.spotify.com/track/1XUhkF8S4ZB4sOdw00vIbc"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
         "name": "Man Enough",
         "url": "https://open.spotify.com/album/5kejP2Xd8vdJRZXvpVxmP5"
       },
@@ -2971,26 +2987,6 @@
       "duration_ms": 263951,
       "name": "Song Two",
       "url": "https://open.spotify.com/track/3bgJYv2GQU3GDYLSNUMeQE"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Stop Messin",
-        "url": "https://open.spotify.com/album/1bTLcu9KjOgbid2ynXbOtT"
-      },
-      "artists": [
-        {
-          "name": "DANIEL",
-          "url": "https://open.spotify.com/artist/1oZOdHJdj4zbOMt6GMBsb9"
-        },
-        {
-          "name": "Yuval",
-          "url": "https://open.spotify.com/artist/4r6OrYeMBIfykaQF7EMqp1"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Stop Messin",
-      "url": "https://open.spotify.com/track/6X9bilSic6UTWLDArTXUno"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -3219,22 +3215,6 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "can't stop",
-        "url": "https://open.spotify.com/album/1DjrCy4YBVNuXVtaebS2uK"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "can't stop",
-      "url": "https://open.spotify.com/track/3B29aKOdQx7vCvH486RW24"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
         "name": "My Age in Angel Years",
         "url": "https://open.spotify.com/album/67XOyspqEneL7udid3hdpF"
       },
@@ -3335,6 +3315,22 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
+        "name": "Bloodwork",
+        "url": "https://open.spotify.com/album/50BtVbFwkKxLgQ8ilvcPwn"
+      },
+      "artists": [
+        {
+          "name": "Rubber Band Gun",
+          "url": "https://open.spotify.com/artist/1yvjbHthWLNII5rwQ7HGef"
+        }
+      ],
+      "duration_ms": 276187,
+      "name": "Zombie in the Country",
+      "url": "https://open.spotify.com/track/7M1GszsMhOmH1VklSGrWdw"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
         "name": "Horizont",
         "url": "https://open.spotify.com/album/0IaMfTBkKGBdcKYrwvm2Cn"
       },
@@ -3347,6 +3343,22 @@
       "duration_ms": 288000,
       "name": "Tremolo ft. Cameron Smith",
       "url": "https://open.spotify.com/track/4AZjodwrQGlQ61nSy3RvUG"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Bloodwork",
+        "url": "https://open.spotify.com/album/50BtVbFwkKxLgQ8ilvcPwn"
+      },
+      "artists": [
+        {
+          "name": "Rubber Band Gun",
+          "url": "https://open.spotify.com/artist/1yvjbHthWLNII5rwQ7HGef"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Carlo",
+      "url": "https://open.spotify.com/track/7abQaKRPMRmw2vBok1MAab"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -3415,22 +3427,6 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/0BQFYyh6R25KtghX2IRTIw"
-      },
-      "artists": [
-        {
-          "name": "pitschouse",
-          "url": "https://open.spotify.com/artist/1A8aooYZKiDRDS5KvtWOze"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Tomb",
-      "url": "https://open.spotify.com/track/4EAupbWovm5xIMUgJhBc4q"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
         "name": "I Could Say Less / Pavement",
         "url": "https://open.spotify.com/album/0jDh0MyBoJoflMb5klMVpR"
       },
@@ -3443,38 +3439,6 @@
       "duration_ms": 243298,
       "name": "I Could Say Less",
       "url": "https://open.spotify.com/track/3TiKKRMEHJUYQsNNU52BiA"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Bloodwork",
-        "url": "https://open.spotify.com/album/50BtVbFwkKxLgQ8ilvcPwn"
-      },
-      "artists": [
-        {
-          "name": "Rubber Band Gun",
-          "url": "https://open.spotify.com/artist/1yvjbHthWLNII5rwQ7HGef"
-        }
-      ],
-      "duration_ms": 276187,
-      "name": "Zombie in the Country",
-      "url": "https://open.spotify.com/track/7M1GszsMhOmH1VklSGrWdw"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Bloodwork",
-        "url": "https://open.spotify.com/album/50BtVbFwkKxLgQ8ilvcPwn"
-      },
-      "artists": [
-        {
-          "name": "Rubber Band Gun",
-          "url": "https://open.spotify.com/artist/1yvjbHthWLNII5rwQ7HGef"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Carlo",
-      "url": "https://open.spotify.com/track/7abQaKRPMRmw2vBok1MAab"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -3523,6 +3487,22 @@
       "duration_ms": 210080,
       "name": "I Can Tell It's Love",
       "url": "https://open.spotify.com/track/2P3w4X1NbD8iU19WgBRf7t"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/0BQFYyh6R25KtghX2IRTIw"
+      },
+      "artists": [
+        {
+          "name": "pitschouse",
+          "url": "https://open.spotify.com/artist/1A8aooYZKiDRDS5KvtWOze"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Tomb",
+      "url": "https://open.spotify.com/track/4EAupbWovm5xIMUgJhBc4q"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -5115,6 +5095,26 @@
       "duration_ms": 113454,
       "name": "The Conversation (Final Impasse)",
       "url": "https://open.spotify.com/track/3idLeA5bQskDfxRpC7ThLn"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Stop Messin",
+        "url": "https://open.spotify.com/album/1bTLcu9KjOgbid2ynXbOtT"
+      },
+      "artists": [
+        {
+          "name": "DANIEL",
+          "url": "https://open.spotify.com/artist/1oZOdHJdj4zbOMt6GMBsb9"
+        },
+        {
+          "name": "Yuval",
+          "url": "https://open.spotify.com/artist/4r6OrYeMBIfykaQF7EMqp1"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Stop Messin",
+      "url": "https://open.spotify.com/track/6X9bilSic6UTWLDArTXUno"
     },
     {
       "added_at": "2026-09-15 07:13:50",

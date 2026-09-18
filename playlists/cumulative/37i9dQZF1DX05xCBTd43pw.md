@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-584 songs - 1 day 6 hr 21 min
+586 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Derfi di hebe](https://open.spotify.com/track/0offCTctIys3XsX6YKkOWC) | [Dino Brandão](https://open.spotify.com/artist/6tLCNTqQll91cBwz6SSMYn), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Ich liebe Dich](https://open.spotify.com/album/0g9dbdt4D5Co7tniGL785C) | 4:16 | 2025-05-15 | 2025-05-23 |
 | [Des montagnes de toi](https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Des montagnes de toi](https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe) | 3:01 | 2026-02-12 | 2026-05-22 |
 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 | 2026-01-24 |
-| [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 | 2025-07-31 |  |
+| [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 | 2025-07-31 | 2026-09-18 |
 | [Different Life](https://open.spotify.com/track/0LSCQ77vPmT2uCg7FkpFtt) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Different Life](https://open.spotify.com/album/5mtQu06hYUMsUJEQgsZZ4E) | 2:43 | 2026-07-16 |  |
 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 | 2025-01-02 |  |
 | [distance](https://open.spotify.com/track/3LJ5QtTyjtBgsMVLZsLYj0) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [distance](https://open.spotify.com/album/7bmRFHbePpU69LAIRY8X66) | 3:20 | 2026-05-21 | 2026-06-26 |
@@ -438,6 +438,7 @@
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
 | [Seg Wer](https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Seg Wer](https://open.spotify.com/album/3ZzgLaGww7ehVMoPNWMgRD) | 1:54 | 2025-07-31 | 2025-08-20 |
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
+| [SHAPE OF WATER](https://open.spotify.com/track/4JYgRvYjEKv8LOhSnf2lQR) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [SHAPE OF WATER](https://open.spotify.com/album/3xwYc6ZaDf48icwLH3tMRp) | 3:37 | 2026-09-17 |  |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [she calls me daddy](https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 2:29 | 2025-04-24 | 2025-05-02 |
 | [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-10-09 | 2026-08-22 |
@@ -521,6 +522,7 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
+| [Track 8](https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [20 SOMETHING IS A F\*CKING STRANGE PLACE](https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws) | 0:00 | 2026-09-17 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
@@ -545,7 +547,7 @@
 | [Walk Away](https://open.spotify.com/track/1LZOh9k6qtQ4nUyZvDuVA1) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [2025](https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C) | 2:46 | 2025-12-05 | 2026-02-25 |
 | [Walk on Water](https://open.spotify.com/track/75jNZjHPRvPOD8WzlvFdFm) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Heat](https://open.spotify.com/album/2PX3hLaXuxlNqBrkTQwRDQ) | 2:50 | 2025-11-20 | 2026-02-01 |
 | [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 | 2025-07-10 | 2025-11-24 |
-| [warm embrace](https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [SOLE](https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv) | 4:18 | 2026-07-16 |  |
+| [warm embrace](https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [SOLE](https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv) | 4:18 | 2026-07-16 | 2026-09-18 |
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [Was Hokksch](https://open.spotify.com/track/2a1KfNrr4wKFNyOxtkn0sb) | [Melina Nora](https://open.spotify.com/artist/0vUj7AXRiRVgGy700ZFSgF) | [Was Hokksch](https://open.spotify.com/album/6wc04duGz2asgmo4tu8G7U) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |

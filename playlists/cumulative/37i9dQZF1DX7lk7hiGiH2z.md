@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-500 songs - 23 hr 18 min
+501 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Die Laternenzeit](https://open.spotify.com/track/0spx207TZmxa4EdKToZNL2) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Herbst Kinderdisco mit Volker Rosin](https://open.spotify.com/album/0ZjXoJ2VR9hQxTflKvPxvI) | 3:23 | 2023-11-05 | 2023-11-16 |
 | [Die Laternenzeit](https://open.spotify.com/track/28T1cmoXgh7Nh7YqxSo2hY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Hallo, kleiner Kuschelbär](https://open.spotify.com/album/6BPUbiMCOj0WDsITUEJ89A) | 3:23 | 2024-11-07 | 2025-11-15 |
 | [Die Mumie](https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs) | [Randale](https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN) | [Die Mumie](https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI) | 3:55 | 2024-10-25 | 2025-11-04 |
-| [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 | 2024-09-27 |  |
+| [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 | 2024-09-27 | 2026-09-18 |
 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 | 2023-11-22 | 2026-03-06 |
 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 | 2023-11-14 | 2026-01-06 |
 | [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 | 2025-08-05 | 2026-09-11 |
@@ -192,6 +192,7 @@
 | [Hei, wir feiern Fasching](https://open.spotify.com/track/2DUxtgGTDWmyCNgT5gKhO9) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Der Winter kommt: 25 kunterbunte Kinderlieder im Winter](https://open.spotify.com/album/57gHgFbtblAG2Ps9azIfRj) | 3:14 | 2024-02-10 | 2026-02-19 |
 | [Hejo, guter alter Mond](https://open.spotify.com/track/3JT4E5EIhMckQxeNNKH2jn) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 2:20 | 2023-11-05 | 2025-11-15 |
 | [Herbst](https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 2:07 | 2023-08-31 | 2026-09-16 |
+| [Herbst auf dem Bauernhof](https://open.spotify.com/track/7GHQZiTK6cdDmgFCSqZSCK) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Herbst auf dem Bauernhof](https://open.spotify.com/album/0VvfcV5CK2ZWd1NK39hiEZ) | 2:21 | 2026-09-17 |  |
 | [Herbstwind](https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc) | [Fidibus](https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ) | [Ab auf die Reise](https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe) | 2:33 | 2023-08-31 |  |
 | [Heut Nacht hat's geschneit](https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:48 | 2023-11-14 | 2026-03-06 |
 | [Heute Bin Ich Faul](https://open.spotify.com/track/7CWbnTlzCvmnt7SDUvw7sy) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:28 | 2023-08-31 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Danny Byrd, Shapes & Doktor",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Catching Cairo",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 215827,
       "name": "bloOdliNEs",
       "url": "https://open.spotify.com/track/7fN8lCsGWWVG9HVgWrK4sZ"
@@ -4310,6 +4310,28 @@
       "duration_ms": 76800,
       "name": "Cascade - Mixed",
       "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
+    },
+    {
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/2aLgBMIfyPhgSe8UHeoDOP"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        },
+        {
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/4wqkSyNnqml2qWDSPm03BJ"
     },
     {
       "album": {
@@ -6426,7 +6448,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 179310,
       "name": "Dilated",
       "url": "https://open.spotify.com/track/29QwqB6XJ5IyKktL3WKnLI"
@@ -9862,7 +9884,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 178285,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/46dQBbMp7vmxeHsh3ijOy5"
@@ -13044,7 +13066,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 270830,
       "name": "It's Alright, I Feel It",
       "url": "https://open.spotify.com/track/1y9Zyz2yfPgl4ubvkQrCfc"
@@ -13328,6 +13350,24 @@
       "duration_ms": 183922,
       "name": "Just Love",
       "url": "https://open.spotify.com/track/7cOUAzSxknlzBK3nc8zbvQ"
+    },
+    {
+      "album": {
+        "name": "juST to breAThE",
+        "url": "https://open.spotify.com/album/5BI6GyKKnU9O8yeQdLrVIS"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "juST to breAThE",
+      "url": "https://open.spotify.com/track/2wYpjZhsjvNXDy54gM0rLk"
     },
     {
       "album": {
@@ -16310,7 +16350,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 212024,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/1MdZ1DP57cTYizsBXQmofh"
@@ -19863,6 +19903,28 @@
     },
     {
       "album": {
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5LEGH2UTbuzncc9eUG1QXR"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199312,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/5KtuJbNUjduZAhfmX5w1Ys"
+    },
+    {
+      "album": {
         "name": "R U SLEEPING",
         "url": "https://open.spotify.com/album/65MihS9c9KbTOauMfxvqKY"
       },
@@ -21409,6 +21471,28 @@
     },
     {
       "album": {
+        "name": "Run With Me",
+        "url": "https://open.spotify.com/album/7AVc1eXsx5OeRXJnBARlST"
+      },
+      "artists": [
+        {
+          "name": "Waypoint",
+          "url": "https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286046,
+      "name": "Run With Me",
+      "url": "https://open.spotify.com/track/4PoobFrhWTW2z4Bl7zPNPW"
+    },
+    {
+      "album": {
         "name": "Runaway With You",
         "url": "https://open.spotify.com/album/1udxFZwxVtg1jBUKebcclH"
       },
@@ -21930,7 +22014,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 259000,
       "name": "Search Deep",
       "url": "https://open.spotify.com/track/0owYbe12JnBtAXki4KkYUo"
@@ -24153,6 +24237,28 @@
     },
     {
       "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/3KBcP2snJTt7NO5Mra2wwp"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1MiHQUZasLEGXVzREdOmJQ"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/2alm8iGBhMm7JNALYsKAk0"
       },
@@ -25662,6 +25768,28 @@
       "duration_ms": 217931,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/17HsEgeBj4nXGMuFqnx1Hb"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/5QfqqottVoNFMn9q6qKM52"
     },
     {
       "album": {

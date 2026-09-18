@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Descendentes
 
-577 songs - 1 day 6 hr 17 min
+578 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Estou Bem](https://open.spotify.com/track/7fXQwWPbTEWRF9D8pW0yEq) | [Elisa](https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh) | [Incoerente](https://open.spotify.com/album/5VKLe0wnXAHQm3WY45KR1F) | 3:09 | 2026-05-28 | 2026-08-28 |
 | [Estrago](https://open.spotify.com/track/7oqQ5UI5vBioYH4KNDOHJI) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estrago](https://open.spotify.com/album/7v6tJZxbdBexK7h1AETnFg) | 3:07 | 2024-09-26 | 2024-10-11 |
 | [Estrelas Nos Olhos](https://open.spotify.com/track/2wKrzZdXdPfhYjioAkXo9W) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Estrelas Nos Olhos](https://open.spotify.com/album/5GNoj9nXTr7HDuLh4tXYSB) | 3:01 | 2024-11-29 | 2025-03-21 |
+| [Estás Com Quem?](https://open.spotify.com/track/4aXxiSClwJLhIalFM3zeZM) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estás Com Quem?](https://open.spotify.com/album/3hqiTeFRz5uI6AZdRbQExe) | 2:59 | 2026-09-17 |  |
 | [Eu Deixei](https://open.spotify.com/track/4HccSOoWxrXU5Ysor3yD9k) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Eu Deixei](https://open.spotify.com/album/7HtM9TMo6vqHcwJZFKbSik) | 3:28 | 2024-10-24 | 2025-04-25 |
 | [Eu Deixo Ir](https://open.spotify.com/track/00VJM4qAgMpVQ6xNVutDCw) | [Ivo Soares](https://open.spotify.com/artist/7lG5oTNwNk1Ddgv1zB75DT) | [Eu Vou Ficar](https://open.spotify.com/album/1uAalpoapaUqrH4uSrY5Ly) | 2:39 | 2024-09-05 | 2024-09-20 |
 | [Eu e Tu](https://open.spotify.com/track/4YN0S8r2onJGCiPdVrMh8A) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Eu e Tu](https://open.spotify.com/album/3mhOdbBo8GTzbRDNgD99gq) | 4:42 | 2024-07-04 | 2025-03-14 |
@@ -291,7 +292,7 @@
 | [Longe](https://open.spotify.com/track/5O4zUhpJp6tN8XAZYCptUb) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Longe](https://open.spotify.com/album/311Rot4LrQq2pyY5UnA5ew) | 2:48 | 2025-03-21 | 2025-09-12 |
 | [Longe](https://open.spotify.com/track/2giLgCjvTxqSFu44odxxKq) | [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG) | [Longe](https://open.spotify.com/album/41NMiLfcYDSiLo5VMZH1NU) | 2:49 | 2025-03-21 | 2025-06-06 |
 | [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 | 2024-06-27 | 2025-02-21 |
-| [Love You](https://open.spotify.com/track/4UGXHpeSlyTtIyCOv9UppH) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX), [3 Finer](https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5) | [Love You](https://open.spotify.com/album/4AMCdCVpClNrLEdvGaodsT) | 2:57 | 2026-08-27 |  |
+| [Love You](https://open.spotify.com/track/4UGXHpeSlyTtIyCOv9UppH) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX), [3 Finer](https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5) | [Love You](https://open.spotify.com/album/4AMCdCVpClNrLEdvGaodsT) | 2:57 | 2026-08-27 | 2026-09-18 |
 | [Ma Chérie](https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Ma Chérie](https://open.spotify.com/album/0LZKMs9mwAGp3NXqsUpieg) | 2:52 | 2024-11-29 | 2025-05-16 |
 | [Madrugada Louca](https://open.spotify.com/track/7eVBLuQ4UMPSyHyKPOyixf) | [Descendentes](https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh) | [Madrugada Louca](https://open.spotify.com/album/2T7MY1K5WYZAgSH1Id48kl) | 2:54 | 2026-02-06 | 2026-09-04 |
 | [Mar Azul](https://open.spotify.com/track/7nOfsfzqT11Ce31HXQ1Fqi) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Mar Azul](https://open.spotify.com/album/0SLtiqiwvr96f5M7znVlVz) | 3:14 | 2026-01-23 | 2026-03-06 |

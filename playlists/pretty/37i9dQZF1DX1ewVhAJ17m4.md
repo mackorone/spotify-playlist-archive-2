@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,435 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,438 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 83 | [INMYFEELINGS](https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy) | [Hungover](https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e) | [INMYFEELINGS](https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM) | 3:32 |
 | 84 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 |
 | 85 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
-| 86 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
-| 87 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
-| 88 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
+| 86 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
+| 87 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
+| 88 | [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 |
 | 89 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
-| 90 | [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 |
+| 90 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
 | 91 | [Fields Behind the House](https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:42 |
 | 92 | [No Hope](https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 1:59 |
 | 93 | [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 95 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 |
 | 96 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
 | 97 | [Enchanted](https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON) | [For When You Can't Breathe](https://open.spotify.com/artist/0dsmktuBoYwdNHvyhrbQ2J), [Lil Used](https://open.spotify.com/artist/5Y22XMM6JdOn9Saxox9uHw) | [Enchanted](https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP) | 5:39 |
-| 98 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
-| 99 | [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 |
+| 98 | [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 |
+| 99 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
 | 100 | [Not The Doctor \- 'Mile End Kicks' \- Music Inspired by the Motion Picture](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 |
 
 Snapshot ID: `AAAAAPY5KsbF0eKU7oPyPw3VTAW5/JcK`

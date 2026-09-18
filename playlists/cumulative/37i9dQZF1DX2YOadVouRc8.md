@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-838 songs - 1 day 16 hr 25 min
+839 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [CHOSEN](https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHOSEN](https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv) | 2:35 | 2023-04-14 | 2023-05-27 |
 | [CLEAR](https://open.spotify.com/track/10UV0GA408i11E6eSloCb4) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Clear / Rinse & Repeat](https://open.spotify.com/album/646oxcwrISUFht8JJV0N07) | 2:40 | 2024-02-16 | 2024-04-06 |
 | [Clear Mind](https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Clear Mind](https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g) | 2:40 | 2026-01-23 | 2026-02-22 |
+| [Closure](https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Closure](https://open.spotify.com/album/0ZIBldCBiuFLx1WKUpneQU) | 2:04 | 2026-09-11 |  |
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 | 2023-11-03 |
 | [Coat](https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Coat](https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n) | 1:30 | 2023-11-24 | 2023-12-02 |
 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 | 2026-07-10 |  |

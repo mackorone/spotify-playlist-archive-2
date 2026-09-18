@@ -7737,6 +7737,24 @@
     },
     {
       "album": {
+        "name": "VALENTINO ROSE",
+        "url": "https://open.spotify.com/album/0OiyxAqwyKlGJOj42DrVqK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140576,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/51jeYrOn5fiNyneWyum8Ji"
+    },
+    {
+      "album": {
         "name": "On Yah (Intro)",
         "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },

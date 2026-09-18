@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Ocevne
+> Le R&B français, nouvelle ère\. Photo : Jey Brownie x Merveille
 
-781 songs - 1 day 12 hr 41 min
+783 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 | 2023-06-01 | 2023-09-10 |
 | [DLC](https://open.spotify.com/track/3EdDMsjMYRWVJ6g0KqprB6) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Focus 2](https://open.spotify.com/album/4CElgf4krVyvycXY7bRMBL) | 2:48 | 2025-02-13 | 2025-03-07 |
 | [DMDT](https://open.spotify.com/track/7fc1LLZpddl1yES9vWdiin) | [Jay luv](https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs) | [DMDT](https://open.spotify.com/album/2FVcnJPvGMEK8gehgb8ZBK) | 2:50 | 2025-06-26 | 2025-08-15 |
+| [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [D Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 | 2026-09-17 |  |
 | [DONNE MOI](https://open.spotify.com/track/6zGlIUIqXOKApFfwCSLzzJ) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [DONNE MOI](https://open.spotify.com/album/4hGGe3pyyfwZ0D0wx370hg) | 3:26 | 2025-05-22 | 2025-09-12 |
 | [DONNE\-MOI TOUT](https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [DONNE MOI TOUT](https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53) | 3:13 | 2025-10-02 | 2025-11-07 |
 | [Dopamine](https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD) | [0zaru](https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH) | [Dopamine](https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4) | 2:31 | 2026-08-06 |  |
@@ -238,7 +239,7 @@
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 | 2022-12-16 |
 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-27 | 2025-12-19 |
-| [Ensemble](https://open.spotify.com/track/3p1UJOhOvpqcPO5TYXsaOL) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Ensemble](https://open.spotify.com/album/5EjEBQZhs2O04QiWgiv7Kn) | 2:54 | 2026-04-09 |  |
+| [Ensemble](https://open.spotify.com/track/3p1UJOhOvpqcPO5TYXsaOL) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Ensemble](https://open.spotify.com/album/5EjEBQZhs2O04QiWgiv7Kn) | 2:54 | 2026-04-09 | 2026-09-18 |
 | [Essential](https://open.spotify.com/track/3EfXJuslmhgyMoJwVopEuO) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [Essential](https://open.spotify.com/album/3HDpAu045h5JuYPF0IX821) | 2:22 | 2026-04-02 | 2026-05-22 |
 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 | 2023-12-21 | 2024-02-16 |
 | [Excuse My French](https://open.spotify.com/track/3O7z8S8rFmrkXJvLOZ55nZ) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Excuse My French](https://open.spotify.com/album/62THWNroOUyuF5mZulBkmd) | 2:15 | 2024-12-19 | 2025-01-24 |
@@ -538,7 +539,7 @@
 | [Parler](https://open.spotify.com/track/2TfvaGmzl8Rxi9m9iQ7Ss9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [\(Le défilé.\)](https://open.spotify.com/album/3js5sk5c9TAP1CDxV1saw9) | 2:54 | 2024-11-21 | 2025-02-07 |
 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 | 2023-09-28 | 2024-04-05 |
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-24 | 2023-01-20 |
-| [Pas comme moi](https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas comme moi](https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz) | 3:48 | 2026-03-26 |  |
+| [Pas comme moi](https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas comme moi](https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz) | 3:48 | 2026-03-26 | 2026-09-18 |
 | [Pas d'accord](https://open.spotify.com/track/5iZttD5lbZ1kJ7hTMKFvk6) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Pas d'accord](https://open.spotify.com/album/5ETFy3y8bcBlYdTVmypJfu) | 2:56 | 2025-04-17 | 2025-05-09 |
 | [Pas deux fois](https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Pas deux fois](https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi) | 2:44 | 2023-10-26 | 2023-11-25 |
 | [PAS LA BAS](https://open.spotify.com/track/6aes9nYQkopSJ96vw5nKhO) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 2:13 | 2025-01-09 | 2025-02-07 |
@@ -788,6 +789,7 @@
 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 | 2023-04-20 | 2023-06-16 |
 | [Égo](https://open.spotify.com/track/34pphq17Xgcb4de9TztFkh) | [2beingBang](https://open.spotify.com/artist/4FlBu8KAgaEy6W0XpTGmWP) | [Égo](https://open.spotify.com/album/1S9Zibqjhl01tlwiYF18Tk) | 3:08 | 2026-04-16 | 2026-05-15 |
 | [Étoile](https://open.spotify.com/track/3IirvvsZ8EJFJjJ3LB1XkP) | [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Étoile](https://open.spotify.com/album/4X5ZkGKkuF82W3nGqf3svs) | 2:52 | 2022-11-24 | 2023-01-20 |
+| [Étoiles](https://open.spotify.com/track/2JDKxt8JhqqJEpcDSMAjeB) | [YLS](https://open.spotify.com/artist/1CbH9Pq9tf9n2tMg6SvGx7), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Étoiles](https://open.spotify.com/album/2mIiMcC5Cn3bDtxr8bxfYg) | 2:42 | 2026-09-17 |  |
 | [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-07 | 2024-11-20 |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

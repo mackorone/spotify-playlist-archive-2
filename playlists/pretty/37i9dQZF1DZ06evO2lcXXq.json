@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369168,
+  "num_followers": 369173,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAABra7nzEdLTrpkuSkpP6xZG",
+  "snapshot_id": "aqncAAAAAACqDrrW+nFF9xpcvHkxSJJl",
   "tracks": [
     {
       "added_at": null,
@@ -175,30 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
-        }
-      ],
-      "duration_ms": 167254,
-      "name": "Watchmen",
-      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 106552,
       "name": "Follow The Light (Reprise) - I Will Not Be Afraid Medley",
       "url": "https://open.spotify.com/track/36K0jYspMVKFl51CWaMNRh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "duration_ms": 167254,
+      "name": "Watchmen",
+      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Dices / Rescata",
-        "url": "https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 273031,
-      "name": "T\u00fa Dices",
-      "url": "https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Dices / Rescata",
+        "url": "https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273031,
+      "name": "T\u00fa Dices",
+      "url": "https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu"
     },
     {
       "added_at": null,

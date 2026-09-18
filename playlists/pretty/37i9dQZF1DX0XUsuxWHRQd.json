@@ -1,12 +1,12 @@
 {
   "description": "Music from Key Glock, Lil Baby and Quavo.",
-  "num_followers": 15549478,
+  "num_followers": 15548260,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVm84ZgoCNDdK2ThfSBV91mKVxw",
+  "snapshot_id": "AAAAAEejU1B051u5e5ai5YhsWjAPf77P",
   "tracks": [
     {
       "added_at": "2026-09-11 04:02:12",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp"
     },
     {
+      "added_at": "2026-09-17 04:00:02",
+      "album": {
+        "name": "Ghetto Fabolous",
+        "url": "https://open.spotify.com/album/6hl66Nlqoeppdm0dRpYA02"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Can't Deny It (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/7K4Aq4awgYvDKEJdEvvl4j"
+    },
+    {
       "added_at": "2026-09-11 04:02:12",
       "album": {
         "name": "Special Ops",
@@ -311,7 +331,7 @@
     {
       "added_at": "2026-09-11 04:02:12",
       "album": {
-        "name": "Rain",
+        "name": "Rain (feat. Skilla Baby)",
         "url": "https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz"
       },
       "artists": [
@@ -320,16 +340,16 @@
           "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
           "name": "Ashanti",
           "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
       "duration_ms": 180784,
-      "name": "Rain",
+      "name": "Rain (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
     },
     {

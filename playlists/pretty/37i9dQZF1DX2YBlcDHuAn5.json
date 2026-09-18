@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33887,
+  "num_followers": 33888,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -587,34 +587,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "By The Bay",
-        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
-      },
-      "artists": [
-        {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "By The Bay",
-      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "Catch A Rainbow",
         "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
       },
@@ -651,6 +623,34 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
       },
@@ -667,34 +667,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+        "name": "Steady On The Gun",
+        "url": "https://open.spotify.com/album/67QhahyU7UgHBIbmNMQ2pd"
       },
       "artists": [
         {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+          "name": "Koen Vael",
+          "url": "https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx"
         }
       ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+      "duration_ms": 210278,
+      "name": "Steady On The Gun",
+      "url": "https://open.spotify.com/track/76ruF6lW2FdHfLALjrhNh1"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -715,18 +699,34 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Steady On The Gun",
-        "url": "https://open.spotify.com/album/67QhahyU7UgHBIbmNMQ2pd"
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
       },
       "artists": [
         {
-          "name": "Koen Vael",
-          "url": "https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 210278,
-      "name": "Steady On The Gun",
-      "url": "https://open.spotify.com/track/76ruF6lW2FdHfLALjrhNh1"
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -855,22 +855,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Nashville Dreaming",
-        "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
       "artists": [
         {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "Jan Tekstra",
-          "url": "https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn"
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
         }
       ],
-      "duration_ms": 234584,
-      "name": "Nashville Dreaming",
-      "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-05-21 22:00:09",

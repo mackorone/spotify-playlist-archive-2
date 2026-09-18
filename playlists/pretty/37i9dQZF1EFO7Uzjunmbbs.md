@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 55 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 56 | [Good Time To Be Alive](https://open.spotify.com/track/6ubbUDxSrnA8wKQg5rOdcM) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/3kMcbLaMtiRcQdMSvLyr1h) | 3:11 |
 | 57 | [Same Heart](https://open.spotify.com/track/4m21Y1hcRYAmuYYUuohbWM) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:36 |
-| 58 | [Be One](https://open.spotify.com/track/1UMKRcqs7kFf6wDVo0HaSI) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:11 |
-| 59 | [Love You Back](https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Love You Back](https://open.spotify.com/album/4CxtfxIxJ0YCDaRwz7HbJx) | 3:22 |
+| 58 | [Love You Back](https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Love You Back](https://open.spotify.com/album/4CxtfxIxJ0YCDaRwz7HbJx) | 3:22 |
+| 59 | [Be One](https://open.spotify.com/track/1UMKRcqs7kFf6wDVo0HaSI) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:11 |
 | 60 | [the car](https://open.spotify.com/track/2AaBAxpI2efR3fh2XuVq9I) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub) | 2:45 |
 | 61 | [Father](https://open.spotify.com/track/7arQ6uNZuc1zeoR43Tm7G7) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:20 |
 | 62 | [Break First](https://open.spotify.com/track/11WwkS35rzl8sNuH7tDjxR) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 4:06 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 145 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 |
 | 146 | [Shame](https://open.spotify.com/track/49bqWTHnrwfX3wZrssH8a9) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Shame](https://open.spotify.com/album/6sUcE6NEwgjQbNX2fCHMDQ) | 3:21 |
 | 147 | [Identity Crisis](https://open.spotify.com/track/3589tdKDYRNbzyHLe0K6KE) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 1:52 |
-| 148 | [Best Part Of Me](https://open.spotify.com/track/3a3GALlXj7wi5vo9trXiGk) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:24 |
-| 149 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 148 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 149 | [Best Part Of Me](https://open.spotify.com/track/3a3GALlXj7wi5vo9trXiGk) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:24 |
 | 150 | [Best I Never Had](https://open.spotify.com/track/6sDvIWKI7bm5gMUYN5ce22) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 3:10 |
 | 151 | [Healthy](https://open.spotify.com/track/5514WaTqkfbKCBbd0fnSzG) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:01 |
 | 152 | [Tell Her You Don't Love Her \(feat\. Lucius\)](https://open.spotify.com/track/5CzSVw18zYSfLNxiSdG3Uo) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 3:32 |
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 198 | [Living Proof](https://open.spotify.com/track/2CDg1Tmj5qsdvA7tJzORkm) | [Kristen Merlin](https://open.spotify.com/artist/4erQOBtz2mUtLXtcsRcvjy) | [Humans Being](https://open.spotify.com/album/7F4O0JUyAoPDuFS94YBPAo) | 3:34 |
 | 199 | [Right Where You Left It](https://open.spotify.com/track/1wboStbCbokseuqzBfjVzz) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [The Famine and the Feast](https://open.spotify.com/album/5lDe9pedBMqihBPmrupQtr) | 3:06 |
 | 200 | [Scared Enough](https://open.spotify.com/track/4oIFK69GlRvGCGp0WTaKQo) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 3:05 |
-| 201 | [Recover](https://open.spotify.com/track/1XjO88kNY45fMdCae2Ksv5) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [61\-615](https://open.spotify.com/album/4lddSI9ZMF3jGgZwDkoJgJ) | 4:45 |
-| 202 | [Something in the Whiskey](https://open.spotify.com/track/7Gpc8w0bmSF1jUbzR9EId5) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Something in the Whiskey](https://open.spotify.com/album/6wZ1EOtgaljKpjLP29PuRf) | 2:42 |
+| 201 | [Something in the Whiskey](https://open.spotify.com/track/7Gpc8w0bmSF1jUbzR9EId5) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Something in the Whiskey](https://open.spotify.com/album/6wZ1EOtgaljKpjLP29PuRf) | 2:42 |
+| 202 | [Recover](https://open.spotify.com/track/1XjO88kNY45fMdCae2Ksv5) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [61\-615](https://open.spotify.com/album/4lddSI9ZMF3jGgZwDkoJgJ) | 4:45 |
 | 203 | [I'm Making Mine](https://open.spotify.com/track/176fqPqcS5peZMArZEt0kR) | [Erica Nicole](https://open.spotify.com/artist/2SyJvmOHYwZBWwPWsR2KZd) | [I'm Making Mine](https://open.spotify.com/album/0E7xnu9aDS7CK41jaaijWD) | 3:52 |
 | 204 | [Fireproof](https://open.spotify.com/track/0zFR0wSejjWfqWvcnVDUse) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:45 |
 | 205 | [Stone](https://open.spotify.com/track/0pIkc8xhWVuKYTI4DvUGO8) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:29 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AccfmgAAAACEmTvsRCkJ1Ienp+xvmBrw`
+Snapshot ID: `AcclJgAAAACQHIYwWyS1RQWk1eo3N8Cg`

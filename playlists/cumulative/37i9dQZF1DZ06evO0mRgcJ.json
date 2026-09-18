@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 186456,
       "name": "En Uno al 7 (En Vivo)",
       "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
@@ -1250,6 +1250,24 @@
       "duration_ms": 222048,
       "name": "Joven Delinquente",
       "url": "https://open.spotify.com/track/0H6CmqrDWzdGS6C4nVrDuv"
+    },
+    {
+      "album": {
+        "name": "Jueves 10 - EP",
+        "url": "https://open.spotify.com/album/45q42PqoUrX4apu9SMFISp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242889,
+      "name": "Jueves 10",
+      "url": "https://open.spotify.com/track/5dcAGr47scJTq3xO7t15f8"
     },
     {
       "album": {

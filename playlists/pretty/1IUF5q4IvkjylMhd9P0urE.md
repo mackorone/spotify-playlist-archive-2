@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,700 likes - 129 songs - 6 hr 55 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,700 likes - 129 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Splitting Moonlight](https://open.spotify.com/track/5knDKXERds7QDBPahzZsV8) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Mr\. Postman, wait!](https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ) | 3:27 |
+| 1 | [Secrets](https://open.spotify.com/track/6UPShtRqT72QbtCCuDREaZ) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Claudette Ortiz](https://open.spotify.com/artist/2PWQEBHw18rURT93AbGXQm) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 4:47 |
 | 2 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 3 | [2late](https://open.spotify.com/track/72uQrCNSvA8TViHajPbMH9) | [Lancer](https://open.spotify.com/artist/5vRmD7KJ6YTo3tMKaywbbb) | [2late](https://open.spotify.com/album/5qjHQrAOXmJlz6gCQ9cGDX) | 3:35 |
 | 4 | [K Me Maten](https://open.spotify.com/track/6cZPgRz8qLBNBVDXn4owS0) | [Corridos Ketamina](https://open.spotify.com/artist/3nq0g26tVyMEbdGDgYayF1) | [K Me Maten](https://open.spotify.com/album/3DGcIhysZPDfQtOkJ7THVA) | 3:24 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 128 | [Se Pone d a Perro](https://open.spotify.com/track/3KE6aKSNIqtYnjJbMvIDlY) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:42 |
 | 129 | [CLICK](https://open.spotify.com/track/6TqFifK9exup01sQqOxXxT) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [WOULO VOLUME 1](https://open.spotify.com/album/3pt6PfzhiRYn5OU5dDBp8Q) | 2:28 |
 
-Snapshot ID: `AAAZZMmKijB8jOowvKJalez1sK/QnM7Y`
+Snapshot ID: `AAAZaCvNwS4hhiPQwiHDTdO5NlJx6HHN`

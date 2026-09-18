@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 124073,
+  "num_followers": 124076,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAAJKvQmp0JMKZ5GrIKGWC4B",
+  "snapshot_id": "aqncAAAAAAByTqW9LBbvp1ZdwyE2jGdc",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 151009,
-      "name": "Cannon",
-      "url": "https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch"
+      "duration_ms": 144266,
+      "name": "St. James Infirmary Blues",
+      "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 144266,
-      "name": "St. James Infirmary Blues",
-      "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+      "duration_ms": 151009,
+      "name": "Cannon",
+      "url": "https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch"
     },
     {
       "added_at": null,

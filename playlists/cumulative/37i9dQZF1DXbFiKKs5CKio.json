@@ -1703,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Rei das Ruas",
+        "url": "https://open.spotify.com/album/54XF5DS1sE5qVguIX4cBhi"
+      },
+      "artists": [
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255685,
+      "name": "It's Fine (Luz)",
+      "url": "https://open.spotify.com/track/3G7A6TA86EkdNMo0LsGRHQ"
+    },
+    {
+      "album": {
         "name": "Jam #1",
         "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
       },
@@ -3714,7 +3736,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 134249,
       "name": "TENTAR DE NOVO",
       "url": "https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv"

@@ -3592,6 +3592,18 @@
       },
       "artists": [
         {
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
+        },
+        {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        },
+        {
+          "name": "Syed Ibu",
+          "url": "https://open.spotify.com/artist/3Ulc1CCbR9CvzOdqXqgXJF"
+        },
+        {
           "name": "Tupakeys",
           "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
         }
@@ -5620,20 +5632,20 @@
       },
       "artists": [
         {
-          "name": "Mc Rude",
-          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
-        },
-        {
-          "name": "M.C. A.K.",
-          "url": "https://open.spotify.com/artist/7qA3Ujq796G1Hc35XAwlmS"
-        },
-        {
           "name": "MC Vickey",
           "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
         },
         {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        },
+        {
           "name": "Syed Ibu",
           "url": "https://open.spotify.com/artist/3Ulc1CCbR9CvzOdqXqgXJF"
+        },
+        {
+          "name": "Tupakeys",
+          "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
         }
       ],
       "date_added": "2026-09-07",
@@ -7290,12 +7302,24 @@
       },
       "artists": [
         {
-          "name": "Tupakeys",
-          "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
         },
         {
           "name": "ADK",
           "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        },
+        {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        },
+        {
+          "name": "Tupakeys",
+          "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
+        },
+        {
+          "name": "Syed Ibu",
+          "url": "https://open.spotify.com/artist/3Ulc1CCbR9CvzOdqXqgXJF"
         }
       ],
       "date_added": "2026-09-15",

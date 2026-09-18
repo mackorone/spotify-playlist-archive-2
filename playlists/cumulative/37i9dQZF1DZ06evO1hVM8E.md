@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-160 songs - 8 hr 13 min
+161 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Presente Es Lo Que Cuenta](https://open.spotify.com/track/4R7n9oENw1HhpcWtaCHOP3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 2:38 | 2022-10-05 | 2023-06-16 |
 | [El Primer Lugar](https://open.spotify.com/track/6nGvtRw8Upm5L0tMtPcjGz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 3:14 | 2022-06-01 |  |
 | [El Rengo del Gallo Giro](https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:11 | 2022-07-21 | 2026-08-31 |
+| [El Rengo del Gallo Giro](https://open.spotify.com/track/2k6Tvfws3o4isOTZf33iHW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Grandes Corridos](https://open.spotify.com/album/4wO8ywh39VnRkyDCRPL8E4) | 3:12 | 2026-09-18 |  |
 | [El Sinaloense](https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:11 | 2022-08-14 |  |
 | [Enamorado](https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Enamorado](https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN) | 2:25 | 2025-05-07 | 2025-11-17 |
 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 | 2022-08-11 |  |
@@ -135,7 +136,7 @@
 | [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 | 2022-11-08 | 2024-11-07 |
 | [Qué Se Te Olvidó](https://open.spotify.com/track/31PFQ5MxekE2pNWIxxrpar) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Qué Se Te Olvidó](https://open.spotify.com/album/7woiqCtmgq3q8LZaAsP0BC) | 3:26 | 2022-09-29 | 2022-11-09 |
 | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/album/22M3XTilMjDgmqciYJFk5w) | 2:57 | 2022-06-23 | 2023-02-09 |
-| [Qué Voy Hacer para Olvidarte](https://open.spotify.com/track/76MEP7F83IjuWJLi1L7keD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [35 Aniversario](https://open.spotify.com/album/5qvNbTZEJ48abjhoGHikA9) | 3:04 | 2026-08-05 |  |
+| [Qué Voy Hacer para Olvidarte](https://open.spotify.com/track/76MEP7F83IjuWJLi1L7keD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [35 Aniversario](https://open.spotify.com/album/5qvNbTZEJ48abjhoGHikA9) | 3:04 | 2026-08-05 | 2026-09-18 |
 | [Reproches al Viento](https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:41 | 2022-06-01 | 2024-09-17 |
 | [Reproches al Viento](https://open.spotify.com/track/1UdPBs9HVGRJpFwjUMCw3R) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:41 | 2024-09-17 |  |
 | [Reproches Al Viento](https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Reproches Al Viento](https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3) | 3:41 | 2022-09-28 | 2023-07-07 |

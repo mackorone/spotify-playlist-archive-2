@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Maiyarap, Sexski
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: KHSD THAITAY
 
-937 songs - 2 day 3 hr 33 min
+938 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Banana](https://open.spotify.com/track/53h4D5x6WLazzBfPljOKu7) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Banana](https://open.spotify.com/album/0InyEXHcJGbgEFow7lAYtb) | 2:50 | 2026-02-27 | 2026-03-11 |
 | [Bangkok vibe](https://open.spotify.com/track/1v0ftsf7iesT8WrdY8A6fs) | [BANGMIN](https://open.spotify.com/artist/0XNAB7Exujvs1R3ijJDkNa) | [Bangkok vibe](https://open.spotify.com/album/51ywnY5H5ykqAodQeHnX25) | 3:05 | 2025-09-19 | 2025-10-11 |
 | [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 | 2024-08-02 | 2025-08-16 |
+| [Be](https://open.spotify.com/track/6xqg3lZF0ylaqoQ2kGNXWI) | [KHSD THAITAY](https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [JROC](https://open.spotify.com/artist/4YmOaRQQQjbqkQkcDoMzum), [Mega Perk](https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY) | [Be](https://open.spotify.com/album/4ceDdDRrQgCoLjgSBJNsZk) | 4:46 | 2026-09-17 |  |
 | [BE YOURSELF](https://open.spotify.com/track/0osrXTNCRrAe2GScaZVMxp) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [DEEP DARKNESS](https://open.spotify.com/album/5lnYaesNpPlxBjxZdiK287) | 2:39 | 2025-08-15 | 2025-08-30 |
 | [Beast Mode](https://open.spotify.com/track/3gDBGo4nC5O7N67FbWt86P) | [Mega Perk](https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY) | [Beast Mode](https://open.spotify.com/album/2tvWUcFvJOE8i3mWOIFJnM) | 3:17 | 2024-01-18 | 2024-01-27 |
 | [Beautiful](https://open.spotify.com/track/1IKpptd5E4WFpUKbBpmqTl) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Beautiful](https://open.spotify.com/album/2egCHcbfk77n0i7sBdglxj) | 3:39 | 2026-03-20 | 2026-04-03 |
@@ -260,7 +261,7 @@
 | [NICECNX\-Love 2 deep](https://open.spotify.com/track/2U3gvqLoVxoxahFXlZKVHJ) | [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ), [Jayrun](https://open.spotify.com/artist/6ZjhHErPU82gGyEzzZvLo5) | [NICECNX\-Love 2 deep](https://open.spotify.com/album/2fGSRrPWpLHqFOgKu83BXN) | 2:35 | 2025-10-10 | 2025-10-28 |
 | [Night Hour](https://open.spotify.com/track/75QeKAeFfy5Jlr551kvOc8) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [Night Hour](https://open.spotify.com/album/4orsC9Iq2aNVGnu1TWTSyW) | 2:38 | 2023-10-12 | 2023-10-28 |
 | [Night Neon](https://open.spotify.com/track/3ZnOVHClSYBlGOgN0E5TiQ) | [SLOWVXNZ](https://open.spotify.com/artist/7uClfPNlDOpxugQX1zEjGg), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [Night Neon](https://open.spotify.com/album/2GmaoluoqbKbFdbXL5FXs6) | 4:30 | 2024-09-13 | 2024-09-28 |
-| [No Introduction](https://open.spotify.com/track/4PEfatTvQbflklnsllmPaX) | [KHSD THAITAY](https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8) | [No Introduction](https://open.spotify.com/album/02aCKlu9mMEO2OMuz1SonS) | 3:06 | 2026-09-11 |  |
+| [No Introduction](https://open.spotify.com/track/4PEfatTvQbflklnsllmPaX) | [KHSD THAITAY](https://open.spotify.com/artist/76FiaVjYUIt9LfuDqGlyLj), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8) | [No Introduction](https://open.spotify.com/album/02aCKlu9mMEO2OMuz1SonS) | 3:06 | 2026-09-11 | 2026-09-18 |
 | [No Joke](https://open.spotify.com/track/7AIapZx4j6AvZ0R9xXqH5E) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX), [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [No Joke](https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk) | 2:32 | 2023-12-15 | 2023-12-22 |
 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 | 2024-03-29 | 2025-03-23 |
 | [No more lie](https://open.spotify.com/track/0WA2aprPA5mSr49EI4Rm3W) | [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ) | [No more lie](https://open.spotify.com/album/2gO113zuLOSiUp1xORzGSj) | 2:34 | 2025-03-07 | 2025-03-22 |

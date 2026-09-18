@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 49372,
+  "num_followers": 49379,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAC92TTw+xCSZwbm2HbYuvCC",
+  "snapshot_id": "aqncAAAAAADqiJxbAjk0/xJh7tIJ919a",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Macario Leyva",
-      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 190413,
-      "name": "Juan Martha",
-      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+      "duration_ms": 199333,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Pa'l Real",
-        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Sin Permiso Para Amarte",
-      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
+      "duration_ms": 239837,
+      "name": "Mayor de Edad",
+      "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 239837,
-      "name": "Mayor de Edad",
-      "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
+      "duration_ms": 246746,
+      "name": "Sin Permiso Para Amarte",
+      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 215720,
       "name": "Las Dos Plebes",
       "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 170586,
+      "name": "El 24 de Junio",
+      "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 Corridos Explosivos",
         "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
       },
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 170586,
-      "name": "El 24 de Junio",
-      "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
+      "duration_ms": 156293,
+      "name": "Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
     },
     {
       "added_at": null,
@@ -699,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 156293,
-      "name": "Me Ca\u00edste del Cielo",
-      "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
+      "duration_ms": 278453,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
     },
     {
       "added_at": null,
@@ -735,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Lugar",
-        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 278453,
-      "name": "El Destino",
-      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
+      "duration_ms": 174000,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/5qvNbTZEJ48abjhoGHikA9"
+        "name": "Grandes Corridos",
+        "url": "https://open.spotify.com/album/4wO8ywh39VnRkyDCRPL8E4"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 184986,
-      "name": "Qu\u00e9 Voy Hacer para Olvidarte",
-      "url": "https://open.spotify.com/track/76MEP7F83IjuWJLi1L7keD"
+      "duration_ms": 192746,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/2k6Tvfws3o4isOTZf33iHW"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

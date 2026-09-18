@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,700 songs - 2 day 22 hr 30 min
+1,702 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [BARCELONA](https://open.spotify.com/track/3YSeg3Lrp8FlsbjegHWVPZ) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BARCELONA](https://open.spotify.com/album/6Z0Wk2WWeSJw3ZQtCNplqP) | 2:32 | 2024-03-14 | 2024-06-21 |
 | [BARCELONA \- demz & Kattastrof Remix](https://open.spotify.com/track/6edwvp0RXv0sBkGd6Wd9gk) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [BARCELONA \(demz & Kattastrof Remix\)](https://open.spotify.com/album/4EaIQvbht2Wb71rRobi4Y8) | 2:03 | 2024-06-20 | 2024-10-04 |
 | [BARDISK](https://open.spotify.com/track/3qIFgTfj46oVCtHPv3Xwqz) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [DUBBELDROPP II](https://open.spotify.com/album/66cptU0dxttMk8llHfglpE) | 2:08 | 2022-06-02 | 2022-08-26 |
+| [BARRUNDA 2026](https://open.spotify.com/track/2yWJFUhrndkBEjx3bRUcSa) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [BARRUNDA 2026](https://open.spotify.com/album/3CmDrHAJYNkkPPA0kvPjy8) | 2:18 | 2026-09-17 |  |
 | [Bartender](https://open.spotify.com/track/1PdkX3ZiqySoPgADYuiIBr) | [Euphoric Emperor](https://open.spotify.com/artist/6BTWQ3ohkHO2ITrdbR7QpH) | [Bartender](https://open.spotify.com/album/1wWHpolKnkmO37nfejuMXc) | 2:25 | 2023-03-02 | 2023-03-08 |
 | [BASIC BITCH](https://open.spotify.com/track/6Btd1uuTM9jFXN9e9aM7vz) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [BASIC BITCH](https://open.spotify.com/album/6yJ0CXm2lAvc8UOWEgDYM7) | 2:20 | 2024-02-29 | 2024-03-22 |
 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 | 2025-04-10 | 2026-02-17 |
@@ -673,6 +674,7 @@
 | [Helt Aktiv](https://open.spotify.com/track/0bjlFt58yASZpLsTPb1eT1) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Kid Canady](https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN) | [Helt Aktiv](https://open.spotify.com/album/0XcZV8OZ00dj6IYbfTrpaI) | 2:18 | 2025-11-20 | 2026-04-03 |
 | [Helt Jävla Dum](https://open.spotify.com/track/2duXCmf44h6zbBV8fVGcfC) | [Gruvknegarn](https://open.spotify.com/artist/4Fou3orLfT05WzkA9vzYEb) | [Helt Jävla Dum](https://open.spotify.com/album/6jPferYkeSmj10TbXK0wK4) | 2:16 | 2023-03-02 | 2023-03-25 |
 | [Helt kanon](https://open.spotify.com/track/0hZyGgPkyDk2pk29G2j83D) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Helt kanon](https://open.spotify.com/album/5DqJKucV1HvUP0AFk0kaCW) | 2:40 | 2023-07-06 | 2023-09-15 |
+| [HELT SJUK](https://open.spotify.com/track/6LoilVKudO23ewu2h474U0) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [HELT SJUK](https://open.spotify.com/album/4VlxqbOCpYtg6SKj9dJaZw) | 2:21 | 2026-09-17 |  |
 | [HEM MED MIG](https://open.spotify.com/track/0oHXVZGEEo73TYZ0N1ow5F) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [NESS](https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3) | [HEM MED MIG](https://open.spotify.com/album/7a2YudCLVs5gTgRnPgbINJ) | 2:08 | 2023-11-23 | 2023-12-15 |
 | [HEM TILL BYN](https://open.spotify.com/track/4rYsZmXpPTWfcVtu0rP1YP) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm), [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY), [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [HEM TILL BYN](https://open.spotify.com/album/3znILQEGW43ufFPXRT2d6K) | 2:45 | 2026-05-28 |  |
 | [HEM TILL MIG](https://open.spotify.com/track/5piqWyDUR39jOvH58lIWgw) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn) | [HEM TILL MIG](https://open.spotify.com/album/7noZF9YeCXxkfF29tPrPa0) | 2:17 | 2023-03-16 | 2023-04-28 |

@@ -6671,6 +6671,24 @@
     },
     {
       "album": {
+        "name": "Shimo Kitazawa",
+        "url": "https://open.spotify.com/album/1yAJpbs2eLDRQCtMmmyGu8"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397410,
+      "name": "Shimo Kitazawa",
+      "url": "https://open.spotify.com/track/5tRKKLIYxwsPcOM6HJSvs8"
+    },
+    {
+      "album": {
         "name": "Si te Vas",
         "url": "https://open.spotify.com/album/4C1XtgaJyNHJGmIg1v9jYV"
       },

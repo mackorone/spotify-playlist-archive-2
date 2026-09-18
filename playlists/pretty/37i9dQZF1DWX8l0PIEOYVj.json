@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring Andrew Bayer",
-  "num_followers": 474032,
+  "num_followers": 474019,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -121,7 +121,7 @@
         }
       ],
       "duration_ms": 235034,
-      "name": "Lead The Way",
+      "name": "Lead The Way (ft. MRYN)",
       "url": "https://open.spotify.com/track/4ou1JasSArFY6czuC7OilF"
     },
     {
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "LIGHTYEARS",
-        "url": "https://open.spotify.com/album/1JXKwWTfKjHjHwuRBkgKc1"
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa"
       },
       "artists": [
         {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 193793,
-      "name": "LIGHTYEARS",
-      "url": "https://open.spotify.com/track/3wzp52fj2SMFdxGR9jNN2M"
+      "duration_ms": 166487,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa"
+        "name": "LIGHTYEARS",
+        "url": "https://open.spotify.com/album/1JXKwWTfKjHjHwuRBkgKc1"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
         }
       ],
-      "duration_ms": 166487,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5"
+      "duration_ms": 193793,
+      "name": "LIGHTYEARS",
+      "url": "https://open.spotify.com/track/3wzp52fj2SMFdxGR9jNN2M"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "Icarus & I",
+        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 210567,
+      "name": "Beautiful Unknown",
+      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1SP5GrzaEcDQKiKL82asHO"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 196500,
       "name": "Everything (feat. Cate Downey)",
       "url": "https://open.spotify.com/track/6A7PA5sT5SpUHyt0PIekHP"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "Icarus & I",
-        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 210567,
-      "name": "Beautiful Unknown",
-      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "DOPAMINE++",
+        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "DOPAMINE++",
+      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "Burning Out",
         "url": "https://open.spotify.com/album/1BwP4KYs256iX37FEXSoQM"
       },
@@ -1715,42 +1731,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "PART I - EXODUS",
-        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Megan Ashworth",
-          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
-        }
-      ],
-      "duration_ms": 214096,
-      "name": "Colder",
-      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "DOPAMINE++",
-        "url": "https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "DOPAMINE++",
-      "url": "https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Wish I Knew",
         "url": "https://open.spotify.com/album/0Bes7F5BY6HDso4gwRNzjP"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 241200,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/6xEterOgHQcyiChE5CODKQ"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "PART I - EXODUS",
+        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Megan Ashworth",
+          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
+        }
+      ],
+      "duration_ms": 214096,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/65PJnPSmGpCo4C7Mzx7Yjb"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Same High",
-        "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Same High",
-      "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6IMTzt0m9cTMn97VD8QIFX"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 234000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1XFdS4vhVl4g4vT1AV2kyb"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Same High",
+        "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Same High",
+      "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Escape (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
       },
@@ -2443,6 +2423,26 @@
       "duration_ms": 208125,
       "name": "Escape (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/1oDlQ0JGgXfXTWWrtmdOku"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 206047,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Have My Heart",
         "url": "https://open.spotify.com/album/1e5tRNrGZCUmKyXgf9AIqt"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 164785,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -3039,6 +3039,22 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
+      },
+      "artists": [
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "I Don't Want Anyone",
         "url": "https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL"
       },
@@ -3071,22 +3087,6 @@
       "duration_ms": 187058,
       "name": "Places We Know",
       "url": "https://open.spotify.com/track/03nvc8cz9PTGHxomurnHC5"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "Always You",
-        "url": "https://open.spotify.com/album/0eNJ0Tga1dRDWuq1W8hiZx"
-      },
-      "artists": [
-        {
-          "name": "Monika Santucci",
-          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/4iQbxMbipWaFiATBZOwH0H"
     },
     {
       "added_at": "2026-09-04 19:09:51",

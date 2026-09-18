@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Wamen",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166608,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5HwmOY1pnYrnlIxNIVjHlC"
@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 256489,
       "name": "La s\u00e8ve - Live aux Santolines",
       "url": "https://open.spotify.com/track/5OOT2UeIk1tjg3VX0CNMlK"
@@ -6403,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/3iZKVcPT4CqJnW4KAV5Mwu"
+      },
+      "artists": [
+        {
+          "name": "ENOCK",
+          "url": "https://open.spotify.com/artist/3Pkr94wNoT4GwoTT4UK8D9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162257,
+      "name": "London",
+      "url": "https://open.spotify.com/track/2eJFOE8ag0aFk60a7ej44z"
+    },
+    {
+      "album": {
         "name": "LLL",
         "url": "https://open.spotify.com/album/1TYQHG0hwKKstrEA4c1ZYr"
       },
@@ -6436,6 +6454,24 @@
       "duration_ms": 162560,
       "name": "Loup\u00e9",
       "url": "https://open.spotify.com/track/3AgM4kVYWIKloPx1KkTr1m"
+    },
+    {
+      "album": {
+        "name": "Love me",
+        "url": "https://open.spotify.com/album/0IuUWUq15bzf23y3gQKMDh"
+      },
+      "artists": [
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Love me",
+      "url": "https://open.spotify.com/track/0zQnwJbcqflzu9acjuUBeV"
     },
     {
       "album": {
@@ -7159,6 +7195,28 @@
     },
     {
       "album": {
+        "name": "Acoustic French Sessions",
+        "url": "https://open.spotify.com/album/1gkjwJbzSQkrWJWKiLyaV7"
+      },
+      "artists": [
+        {
+          "name": "Think Zik ! All Star",
+          "url": "https://open.spotify.com/artist/3mLZBU1LeplXlIM09ryX7j"
+        },
+        {
+          "name": "Ana",
+          "url": "https://open.spotify.com/artist/2bvIIuEI2nMvfpTUIkbrYH"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196462,
+      "name": "Miskine",
+      "url": "https://open.spotify.com/track/4ehh2RwDnKqEydVkmAtXf0"
+    },
+    {
+      "album": {
         "name": "The Broken Hearts Club, Vol. 2",
         "url": "https://open.spotify.com/album/31Wh9XreXQ5hiGSoUvt8oD"
       },
@@ -7610,7 +7668,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 146511,
       "name": "NOBODY - Remix",
       "url": "https://open.spotify.com/track/7hmtTU1gjya918eXvDUdVF"
@@ -7784,7 +7842,7 @@
       },
       "artists": [
         {
-          "name": "JADE",
+          "name": "JEUDI",
           "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
         }
       ],
@@ -9377,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "Studio Session",
+        "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm"
+    },
+    {
+      "album": {
         "name": "Rien pour toi (Prod. Lazur)",
         "url": "https://open.spotify.com/album/4gHFHMAHMW2LdcS5tcGzfb"
       },
@@ -9619,6 +9695,28 @@
     },
     {
       "album": {
+        "name": "R\u00eave un peu",
+        "url": "https://open.spotify.com/album/1pDVsUQc9tW45FdhGvkyyu"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        },
+        {
+          "name": "ANJXLXE",
+          "url": "https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146747,
+      "name": "R\u00eave un peu",
+      "url": "https://open.spotify.com/track/47uVshCuGbjYhlpNnaNPce"
+    },
+    {
+      "album": {
         "name": "S'attacher",
         "url": "https://open.spotify.com/album/16TtJU0uHP53So332MW8ZF"
       },
@@ -9634,6 +9732,24 @@
       "duration_ms": 127355,
       "name": "S'attacher",
       "url": "https://open.spotify.com/track/39Iqtpb8X0AwgNRSa432JF"
+    },
+    {
+      "album": {
+        "name": "S'\u00e9lever",
+        "url": "https://open.spotify.com/album/4tHJvPGYmlVoV1dzjWRRgq"
+      },
+      "artists": [
+        {
+          "name": "Eddy Ape",
+          "url": "https://open.spotify.com/artist/7xQU55Z6PSJAgvL2LmwU6e"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237209,
+      "name": "S'\u00e9lever",
+      "url": "https://open.spotify.com/track/2Iw0f6T6zZlk401JmKPyXt"
     },
     {
       "album": {
@@ -10292,7 +10408,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196363,
       "name": "SmB006 (le Dilemme)",
       "url": "https://open.spotify.com/track/7q56mdXjLTLaxaGMsyPwp7"
@@ -10770,7 +10886,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 91972,
       "name": "TEXTILE (acoustique)",
       "url": "https://open.spotify.com/track/3qEroIllmQ3e8RSs4qs1gW"
@@ -11758,7 +11874,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 231731,
       "name": "VORTEX!",
       "url": "https://open.spotify.com/track/5uLXRiGDQBUNH5lMVuSkdf"

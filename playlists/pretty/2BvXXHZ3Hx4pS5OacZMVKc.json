@@ -6,7 +6,7 @@
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMpIpux9XnbO1UY+HPfX3XDoLQROm/",
+  "snapshot_id": "AAAMpfvYTTQ6mnqFOD3ngG/ZnAdqy/ou",
   "tracks": [
     {
       "added_at": "2026-09-16 09:08:24",
@@ -143,6 +143,26 @@
       "duration_ms": 219384,
       "name": "off2",
       "url": "https://open.spotify.com/track/4pJgvtqmr1Bw3WbD4I4W7x"
+    },
+    {
+      "added_at": "2026-09-17 09:02:03",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/3tp1Kc2rSItZsYhfYLxMEg"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1Wn5EmILIwKsyvbwCDTTBx"
     },
     {
       "added_at": "2026-07-16 09:22:24",

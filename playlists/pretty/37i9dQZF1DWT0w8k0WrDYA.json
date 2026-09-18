@@ -1,13 +1,253 @@
 {
   "description": "Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From \u201885.",
-  "num_followers": 7800,
+  "num_followers": 7841,
   "original_name": "Stranger Things: Tales From '85 Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG7umTrXSZ9gkW4sM1wtSst/k17q",
+  "snapshot_id": "AAAAAFr5XQG+Kpjt6a6zI/djfvVddJD6",
   "tracks": [
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Seventh Dream of Teenage Heaven",
+        "url": "https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 481560,
+      "name": "Haunted When the Minutes Drag",
+      "url": "https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "The Lexicon Of Love",
+        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
+      },
+      "artists": [
+        {
+          "name": "ABC",
+          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Poison Arrow",
+      "url": "https://open.spotify.com/track/7abGerACQx9G1OBqHYFKAb"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/5AZtZVxYzuQQv5PgwJdr2v"
+      },
+      "artists": [
+        {
+          "name": "Carol Fredericks",
+          "url": "https://open.spotify.com/artist/2hlHwGAy9LdsExBdZWpb1e"
+        }
+      ],
+      "duration_ms": 133720,
+      "name": "Little Country Town Of Yesterday",
+      "url": "https://open.spotify.com/track/1T2aB6soXQjDKN5uMKTo0i"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Twisted Avenues - Single",
+        "url": "https://open.spotify.com/album/706GHX0Dcrf93pjuYp3RLf"
+      },
+      "artists": [
+        {
+          "name": "Motion Pictures",
+          "url": "https://open.spotify.com/artist/2NKTKclHt49q0M5cpD7GDn"
+        }
+      ],
+      "duration_ms": 142859,
+      "name": "Twisted Avenues",
+      "url": "https://open.spotify.com/track/1vJYGbS8oFR0ah3fHfazKN"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "You're Not Gonna Get It: 1978-81",
+        "url": "https://open.spotify.com/album/2n1aIFAdmZFpwsDAp5mJSi"
+      },
+      "artists": [
+        {
+          "name": "Epicycle",
+          "url": "https://open.spotify.com/artist/4a4KDO7TUEFdczC2zny4mX"
+        }
+      ],
+      "duration_ms": 105733,
+      "name": "You're Not Gonna Get It",
+      "url": "https://open.spotify.com/track/6vc4n0TIyTDZaOUHPAFjep"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Twisted Avenues - Single",
+        "url": "https://open.spotify.com/album/706GHX0Dcrf93pjuYp3RLf"
+      },
+      "artists": [
+        {
+          "name": "Motion Pictures",
+          "url": "https://open.spotify.com/artist/2NKTKclHt49q0M5cpD7GDn"
+        }
+      ],
+      "duration_ms": 244306,
+      "name": "Unknown Quantity",
+      "url": "https://open.spotify.com/track/5HOfgRx293GOv64h3H0JWO"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Garage Tapes (1983-86)",
+        "url": "https://open.spotify.com/album/6owPWsRmzb6MEEyEw6AL1M"
+      },
+      "artists": [
+        {
+          "name": "Donnie Barren",
+          "url": "https://open.spotify.com/artist/5s72rFnWfMlfz4HlsHm4JQ"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Shadows Dancing",
+      "url": "https://open.spotify.com/track/2MKyok5tinGfjTanYqj3QD"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Love, Power & Justice",
+        "url": "https://open.spotify.com/album/3yXSRsIVY55Xj4Mecv6YLI"
+      },
+      "artists": [
+        {
+          "name": "The Arms of Someone New",
+          "url": "https://open.spotify.com/artist/6EsWLHZEHKJ0rM6dM6vtSG"
+        }
+      ],
+      "duration_ms": 269613,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/2w1VjLLy0WEICed8AH5INf"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Against the Darkened Sky",
+        "url": "https://open.spotify.com/album/74WEKfQRnQ4Vk5WMJWGntM"
+      },
+      "artists": [
+        {
+          "name": "Jagged Rocks on the Perimeter",
+          "url": "https://open.spotify.com/artist/4M9qqqU6LzGM4Fzqzp3NXH"
+        }
+      ],
+      "duration_ms": 305644,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/2nKdfeMf5H8RzFlrovXIV7"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Patty Smyth's Greatest Hits Featuring Scandal",
+        "url": "https://open.spotify.com/album/0m1GeQ9X0dRcHknRxKIvUA"
+      },
+      "artists": [
+        {
+          "name": "Patty Smyth",
+          "url": "https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/3mbcW1KDbnkdgjq03JHiQ6"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "The Xotics",
+        "url": "https://open.spotify.com/album/4tvtVp0EI9U7V0Ejj3qzLx"
+      },
+      "artists": [
+        {
+          "name": "The Xotics",
+          "url": "https://open.spotify.com/artist/3JiYjNTmeEy63nFMA5c5AO"
+        }
+      ],
+      "duration_ms": 279209,
+      "name": "Would You Stay There",
+      "url": "https://open.spotify.com/track/1xjmH037SxsxsKe3wLGwFk"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/7ccurrFI92e3hBtU02WgTL"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "On The Prowl",
+        "url": "https://open.spotify.com/album/7cNxYdy50udzZ2iohgOTeE"
+      },
+      "artists": [
+        {
+          "name": "Sabre",
+          "url": "https://open.spotify.com/artist/5BvecHjDlO5mfsyonRmAjl"
+        }
+      ],
+      "duration_ms": 239647,
+      "name": "Let's Ride",
+      "url": "https://open.spotify.com/track/0tEjQY5HQc3MfAa67EuXQd"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "All The Rage",
+        "url": "https://open.spotify.com/album/7IvQFdELC4VRjmkH8ul7wX"
+      },
+      "artists": [
+        {
+          "name": "General Public",
+          "url": "https://open.spotify.com/artist/6BZbe6PDrJgxiXZ3cIXA8o"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/5QmlONZ64QfkqfbGo0Wfxn"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
     {
       "added_at": "2026-04-23 13:00:26",
       "album": {
@@ -343,6 +583,86 @@
       "duration_ms": 207866,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/7uFUyx7KnrbipYE2QuSBhZ"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Stranger Things: Tales From '85: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1wfGlVtbBaaREa53Yvdnst"
+      },
+      "artists": [
+        {
+          "name": "Brad Breeck",
+          "url": "https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT"
+        }
+      ],
+      "duration_ms": 103394,
+      "name": "From Eugene's Farm",
+      "url": "https://open.spotify.com/track/3uuAerUQVlp16sKU7prTFP"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Stranger Things: Tales From '85: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1wfGlVtbBaaREa53Yvdnst"
+      },
+      "artists": [
+        {
+          "name": "Brad Breeck",
+          "url": "https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT"
+        }
+      ],
+      "duration_ms": 139878,
+      "name": "Goes Through Here",
+      "url": "https://open.spotify.com/track/17uAEFIHZs18wXJTgP9iyK"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Stranger Things: Tales From '85: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1wfGlVtbBaaREa53Yvdnst"
+      },
+      "artists": [
+        {
+          "name": "Brad Breeck",
+          "url": "https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT"
+        }
+      ],
+      "duration_ms": 236991,
+      "name": "Samuel Hawkins Himself",
+      "url": "https://open.spotify.com/track/7Coq7YVtGyEIonwxYWb3MR"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Stranger Things: Tales From '85: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1wfGlVtbBaaREa53Yvdnst"
+      },
+      "artists": [
+        {
+          "name": "Brad Breeck",
+          "url": "https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT"
+        }
+      ],
+      "duration_ms": 116519,
+      "name": "Stickin Around",
+      "url": "https://open.spotify.com/track/0IkhaxCvMsrvDh2Q0meQZT"
+    },
+    {
+      "added_at": "2026-09-17 13:00:30",
+      "album": {
+        "name": "Stranger Things: Tales From '85: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1wfGlVtbBaaREa53Yvdnst"
+      },
+      "artists": [
+        {
+          "name": "Brad Breeck",
+          "url": "https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT"
+        }
+      ],
+      "duration_ms": 50114,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5PgCBBJ4fo46tsfCbDb7le"
     },
     {
       "added_at": "2026-04-23 13:00:26",

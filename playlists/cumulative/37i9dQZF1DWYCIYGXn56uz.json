@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e BLANCO in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Angie in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193614,
       "name": "ACQUARIO",
       "url": "https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220800,
       "name": "Anche a vent\u2019anni si muore",
       "url": "https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1"
@@ -1442,6 +1442,24 @@
       "duration_ms": 154533,
       "name": "Antiproiettile",
       "url": "https://open.spotify.com/track/1RwgqtkCbCWafDa6NFnd1m"
+    },
+    {
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/5EoNVyKTFZShhq65x7iA7W"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133795,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/08BJwWKFZF9lAk59Y2Gifm"
     },
     {
       "album": {
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 164369,
       "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
       "url": "https://open.spotify.com/track/57KzV95Th155vud4KmLqLN"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 165270,
       "name": "Avvoltoi",
       "url": "https://open.spotify.com/track/3ByNcS81LqRYUvJjpWhZ7T"
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 180000,
       "name": "Casa In Fiamme",
       "url": "https://open.spotify.com/track/0XQvtQJR0I5fjDUGswzwZU"
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 199343,
       "name": "Cos\u00ec cos\u00ec",
       "url": "https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl"
@@ -5532,7 +5550,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
@@ -5811,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Luoghi Comuni",
+        "url": "https://open.spotify.com/album/2Z0y25hCBdpePiiSSkzqmR"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183387,
+      "name": "Destini Infelici",
+      "url": "https://open.spotify.com/track/1iLQUQ0pbJKFTL9AwxShvv"
+    },
+    {
+      "album": {
         "name": "Devastante",
         "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
       },
@@ -6014,7 +6050,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207621,
       "name": "DIMMI CHE MI VUOI",
       "url": "https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz"
@@ -7230,7 +7266,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160941,
       "name": "FARFALLE (nello stomaco)",
       "url": "https://open.spotify.com/track/6nFCfQyV8ZzcgCNRGIyYyp"
@@ -8876,7 +8912,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 147777,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/6A3G2m9kNhevjdJIC6ht6c"
@@ -10746,7 +10782,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 188709,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L"
@@ -10800,7 +10836,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 204637,
       "name": "le cose che non sai di me",
       "url": "https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg"
@@ -12034,7 +12070,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169672,
       "name": "Maledetto Ti Amo",
       "url": "https://open.spotify.com/track/2R2J0hUuHHJiMoenqhoaV2"
@@ -13106,7 +13142,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 170222,
       "name": "Millemila Missili",
       "url": "https://open.spotify.com/track/07WaD3eZhsXtVMJsi2tXmq"
@@ -13500,10 +13536,28 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183902,
       "name": "Nei miei DM",
       "url": "https://open.spotify.com/track/2CvhzdXKzJ90JQj6iLg5qI"
+    },
+    {
+      "album": {
+        "name": "NELLA MIA NOTTE",
+        "url": "https://open.spotify.com/album/4SQH0lIzJWfgea0lF5UeuD"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152134,
+      "name": "NELLA MIA NOTTE",
+      "url": "https://open.spotify.com/track/5Ky7kyXIGAgBQQCn77FCmp"
     },
     {
       "album": {
@@ -14145,6 +14199,24 @@
     },
     {
       "album": {
+        "name": "oltre al club cosa (ci) resta",
+        "url": "https://open.spotify.com/album/4ZW8ehDMQbU4Uok1Xv6Su3"
+      },
+      "artists": [
+        {
+          "name": "alma",
+          "url": "https://open.spotify.com/artist/387iv3VxSva5gbr0k7bK4T"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256824,
+      "name": "non sento + aria",
+      "url": "https://open.spotify.com/track/3jT9I7NWw3OwBKseJeOZrK"
+    },
+    {
+      "album": {
         "name": "Non serve un'et\u00e0",
         "url": "https://open.spotify.com/album/2p8Iuok8q40fhhKnpxPpcN"
       },
@@ -14182,6 +14254,24 @@
       "duration_ms": 171885,
       "name": "Non Siamo Broke",
       "url": "https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l"
+    },
+    {
+      "album": {
+        "name": "Quando Viaggi da Sola",
+        "url": "https://open.spotify.com/album/1O7AZ4ZVkClgI5IdOHN73W"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162396,
+      "name": "Non So Se Mi Va",
+      "url": "https://open.spotify.com/track/21wrl84hK9BHTSXyla0tHC"
     },
     {
       "album": {
@@ -14474,6 +14564,24 @@
       "duration_ms": 170001,
       "name": "Notte Fonda",
       "url": "https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87"
+    },
+    {
+      "album": {
+        "name": "Notte Malinconia",
+        "url": "https://open.spotify.com/album/0qiPrgERpCVTMeoFAubNkM"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "Notte Malinconia",
+      "url": "https://open.spotify.com/track/2nygN7TUKrJpnsjhbvvtFb"
     },
     {
       "album": {
@@ -16056,7 +16164,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 201916,
       "name": "Perdere Te",
       "url": "https://open.spotify.com/track/5rMMUDP7MAQd1hm4sC3a3o"
@@ -16074,7 +16182,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 177502,
       "name": "Perdigiorno",
       "url": "https://open.spotify.com/track/6Tld3zH5XE2EXF2UOqtLi1"
@@ -16592,7 +16700,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183333,
       "name": "Poesie Clandestine",
       "url": "https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR"
@@ -16857,6 +16965,24 @@
     },
     {
       "album": {
+        "name": "PREGHIERA AL CIELO",
+        "url": "https://open.spotify.com/album/2Wt17jjwIE2KWR0zfmzOl1"
+      },
+      "artists": [
+        {
+          "name": "plasma",
+          "url": "https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154713,
+      "name": "PREGHIERA AL CIELO",
+      "url": "https://open.spotify.com/track/0NCWMCuoBimEUtCT4huvCd"
+    },
+    {
+      "album": {
         "name": "PRENDI LA MIRA E BASTA",
         "url": "https://open.spotify.com/album/0csK30chHho12GO4HfYrnm"
       },
@@ -16984,7 +17110,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 174222,
       "name": "PRIMADONNA",
       "url": "https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ"
@@ -17164,7 +17290,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136363,
       "name": "punto",
       "url": "https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0"
@@ -17392,7 +17518,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27"
@@ -18202,7 +18328,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 137898,
       "name": "RoseRovi",
       "url": "https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt"
@@ -18932,7 +19058,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 187941,
       "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
       "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
@@ -19062,7 +19188,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196434,
       "name": "Serenamente",
       "url": "https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA"
@@ -19084,6 +19210,24 @@
       "duration_ms": 170500,
       "name": "SERIE A",
       "url": "https://open.spotify.com/track/3Gptt8SQHD3zZBylNS9Ym3"
+    },
+    {
+      "album": {
+        "name": "serio",
+        "url": "https://open.spotify.com/album/5CfIqRuJNNJdaQO0oMkHPH"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130196,
+      "name": "serio",
+      "url": "https://open.spotify.com/track/0zAfYnYZHkjBcAgl5IoqdR"
     },
     {
       "album": {
@@ -19738,7 +19882,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 159279,
       "name": "Sombrero - NETTUNO",
       "url": "https://open.spotify.com/track/27NEGynjXRHsgvagoKOdvF"
@@ -20424,7 +20568,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182307,
       "name": "Stupida Vita",
       "url": "https://open.spotify.com/track/0nCcnpWjuC3Ti5I6Fqtkpv"
@@ -22474,7 +22618,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 217458,
       "name": "uomo che cade",
       "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
@@ -22828,7 +22972,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 157466,
       "name": "velo sugli occhi",
       "url": "https://open.spotify.com/track/5C2xHN8kdVt4isVqLFZM8z"

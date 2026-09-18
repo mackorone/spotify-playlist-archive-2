@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1252436,
+  "num_followers": 1252396,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "CAVE (with Tove Lo)",
         "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 180409,
       "name": "CAVE (with Tove Lo)",
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "R U DOWN?",
-        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 139911,
-      "name": "R U DOWN?",
-      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "AFTERWORK",
+        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174404,
+      "name": "WHEN IT COMES TO YOU",
+      "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "Superstition EP",
         "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 268359,
       "name": "Waste my time",
       "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "AFTERWORK",
-        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 174404,
-      "name": "WHEN IT COMES TO YOU",
-      "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
       },
@@ -1867,6 +1847,26 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230487,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1887,22 +1887,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
       "artists": [
         {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 230487,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
         "name": "Right here...",
         "url": "https://open.spotify.com/album/4uDfZXoeYCAvVQJRPlrf21"
       },
@@ -1999,18 +2015,18 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
+        "name": "TO MAKE PEOPLE HAPPY",
+        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
       },
       "artists": [
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
+      "duration_ms": 202500,
+      "name": "WAY YOU SMILE",
+      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -2027,22 +2043,6 @@
       "duration_ms": 249448,
       "name": "All Along",
       "url": "https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
-        "name": "TO MAKE PEOPLE HAPPY",
-        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "WAY YOU SMILE",
-      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
-    },
-    {
-      "added_at": "2026-09-04 04:01:16",
-      "album": {
         "name": "Coin Toss",
         "url": "https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 133233,
       "name": "Coin Toss",
       "url": "https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE"
+    },
+    {
+      "added_at": "2026-09-04 04:01:16",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+        "name": "Need Your Loving",
+        "url": "https://open.spotify.com/album/6VRaVOd43KVXTHFK7MjBvX"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+      "duration_ms": 265029,
+      "name": "Need Your Loving",
+      "url": "https://open.spotify.com/track/6Z9KUjMaDWnOSNhke0thx1"
     },
     {
       "added_at": "2026-09-04 04:01:16",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2026-09-04 04:01:16",
       "album": {
-        "name": "Need Your Loving",
-        "url": "https://open.spotify.com/album/6VRaVOd43KVXTHFK7MjBvX"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
       },
       "artists": [
         {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 265029,
-      "name": "Need Your Loving",
-      "url": "https://open.spotify.com/track/6Z9KUjMaDWnOSNhke0thx1"
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2026-09-04 04:01:16",

@@ -1281,6 +1281,28 @@
     },
     {
       "album": {
+        "name": "Bulls on Parade (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269485,
+      "name": "Bulls on Parade - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo"
+    },
+    {
+      "album": {
         "name": "Burn It All Down",
         "url": "https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko"
       },

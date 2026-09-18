@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "LAUT SEIN (IMMER)",
+        "url": "https://open.spotify.com/album/2bFYdtN8AhzRn6qAdZh8ur"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120061,
+      "name": "29 grad",
+      "url": "https://open.spotify.com/track/61YEx2pliYbXovYldVHJPp"
+    },
+    {
+      "album": {
         "name": "2k16 (weisst du noch?)",
         "url": "https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm"
       },
@@ -11460,7 +11482,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 226064,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
@@ -21888,7 +21910,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 130000,
       "name": "Frieden",
       "url": "https://open.spotify.com/track/5KuUGv7LppjS2XfEemohEh"
@@ -26885,6 +26907,32 @@
     },
     {
       "album": {
+        "name": "Hardtekk Tutorial",
+        "url": "https://open.spotify.com/album/4io0ELeCGNtA9pw1jT8aVi"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        },
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Hardtekk Tutorial",
+      "url": "https://open.spotify.com/track/2VtJ8QY3fzrq5tXbqjcnK4"
+    },
+    {
+      "album": {
         "name": "HASS",
         "url": "https://open.spotify.com/album/1R9qQhjLKPyTwDpzZdgjZE"
       },
@@ -27158,7 +27206,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136578,
       "name": "hausverbot",
       "url": "https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b"
@@ -34242,6 +34290,24 @@
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
+    },
+    {
+      "album": {
+        "name": "Kartenhaus",
+        "url": "https://open.spotify.com/album/07GEbBshivHQvamQLLghF6"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279097,
+      "name": "Kartenhaus",
+      "url": "https://open.spotify.com/track/38xbNP5TeQM90LW0FVqbOo"
     },
     {
       "album": {
@@ -41357,6 +41423,24 @@
     },
     {
       "album": {
+        "name": "mehr davon",
+        "url": "https://open.spotify.com/album/4kHype5Ekc9H5CGplB32ts"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134848,
+      "name": "mehr davon",
+      "url": "https://open.spotify.com/track/4O4AjhRnJoofNrG4xjFPrX"
+    },
+    {
+      "album": {
         "name": "Mehringdamm Romance",
         "url": "https://open.spotify.com/album/2Sl3KJUEtmlHS51bOyd0H4"
       },
@@ -45894,7 +45978,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 155897,
       "name": "nie sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh"
@@ -48746,6 +48830,28 @@
       "duration_ms": 103396,
       "name": "opiate",
       "url": "https://open.spotify.com/track/3ZuX1bvkFT6BlHhnrlIwMV"
+    },
+    {
+      "album": {
+        "name": "Optimistisch",
+        "url": "https://open.spotify.com/album/6tDdSd2I3qQhhTcoHtn0Ky"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        },
+        {
+          "name": "leiseer",
+          "url": "https://open.spotify.com/artist/4wNGXnmteSkCfJ4aigVsyz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "Optimistisch",
+      "url": "https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6"
     },
     {
       "album": {
@@ -58956,6 +59062,28 @@
     {
       "album": {
         "name": "SOS",
+        "url": "https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj"
+      },
+      "artists": [
+        {
+          "name": "DUEJA",
+          "url": "https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl"
+        },
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137710,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex"
+    },
+    {
+      "album": {
+        "name": "SOS",
         "url": "https://open.spotify.com/album/5o0H06rGfbETsssJeok0YI"
       },
       "artists": [
@@ -64087,6 +64215,24 @@
     },
     {
       "album": {
+        "name": "harte mackerinnen ep",
+        "url": "https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
+    },
+    {
+      "album": {
         "name": "TRACKIES",
         "url": "https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne"
       },
@@ -64566,7 +64712,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -68390,7 +68536,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160000,
       "name": "Was du nicht siehst",
       "url": "https://open.spotify.com/track/4J19Wgpl3k1mNzaCWbEWsG"
@@ -72139,6 +72285,24 @@
     },
     {
       "album": {
+        "name": "WOHER WILLST DU WISSEN",
+        "url": "https://open.spotify.com/album/3uViUrp9T78iaoL1ZU2eue"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "WOHER WILLST DU WISSEN",
+      "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"
+    },
+    {
+      "album": {
         "name": "Wolke 4",
         "url": "https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn"
       },
@@ -72371,6 +72535,24 @@
     },
     {
       "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
+    },
+    {
+      "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
       },
@@ -72462,7 +72644,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 176836,
       "name": "w\u00e4lder von schweden",
       "url": "https://open.spotify.com/track/3snLvBx96VdBFP1NsNcTrM"
@@ -74218,7 +74400,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 133653,
       "name": "\u2060Ghibli Freestyle",
       "url": "https://open.spotify.com/track/7DA5sIs4siDZiLbuUaxXHN"

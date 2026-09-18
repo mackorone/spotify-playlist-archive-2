@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 20 min
+82 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Una Tarde](https://open.spotify.com/track/2I7dNLPnIshiEaGllzNRvP) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:08 | 2024-01-29 |  |
 | [Ya Después De Muerto](https://open.spotify.com/track/56HA9KycOi4FzI9FJw4fyN) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 2:25 | 2025-10-11 | 2026-03-14 |
 | [Ya Después De Muerto](https://open.spotify.com/track/63T9BiuIC3LRI8mdHG8msf) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:25 | 2024-01-29 | 2025-10-11 |
-| [Ya Después de Muerto \- Remastered 2025](https://open.spotify.com/track/2w5ZxdPx0tRIyp5knHPVje) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 2:27 | 2026-03-14 |  |
+| [Ya Después De Muerto](https://open.spotify.com/track/7tPNa5HXOyvTrE5Pp1wsmu) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 2:22 | 2026-09-18 |  |
+| [Ya Después de Muerto \- Remastered 2025](https://open.spotify.com/track/2w5ZxdPx0tRIyp5knHPVje) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 2:27 | 2026-03-14 | 2026-09-18 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

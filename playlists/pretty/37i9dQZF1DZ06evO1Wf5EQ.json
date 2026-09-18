@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 832,
+  "num_followers": 833,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAADqvhAciZYF1Gv2ELjs/z9Y",
+  "snapshot_id": "aqiKgAAAAACIjwJM/UKmwxtXft8J5vhT",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 154091,
-      "name": "Mysteries of The Divine",
-      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
+      "duration_ms": 154091,
+      "name": "Mysteries of The Divine",
+      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

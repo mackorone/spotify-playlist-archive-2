@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Zahra DA7, Eby
+> Dendang dangdut ngetop Tanah Air\. Cover: King Nassar
 
-309 songs - 1 day 0 hr 28 min
+310 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 | 2024-01-11 |  |
 | [Anugerah Cinta](https://open.spotify.com/track/6dr1zYGUfWPtxYcEcSNb05) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Anugerah Cinta](https://open.spotify.com/album/4nkfcqn1QoczR6L3oEZARZ) | 8:22 | 2024-10-17 | 2025-04-18 |
 | [Apalah Aku](https://open.spotify.com/track/5qNdXG74HaE7jYvzt6qhFU) | [Bravesboy](https://open.spotify.com/artist/2PUWReihDs70AzwDeGEoG1) | [Apalah Aku](https://open.spotify.com/album/1UpzxWW3lbHoCRORcA1oxs) | 3:25 | 2026-02-19 |  |
+| [Astaga Naga](https://open.spotify.com/track/2APBM7zzzGs4fRzIsIzVSr) | [King Nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Astaga Naga](https://open.spotify.com/album/6LjkIK54rYLDLQF76kpy5n) | 4:02 | 2026-09-18 |  |
 | [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/track/0kZZ0MtKjVzP8yVZkcuIsc) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/album/0fpkXFjL9r30UahCEe5Din) | 6:04 | 2024-08-16 |  |
 | [Ay](https://open.spotify.com/track/3F2SABxuCnGm2QvtFYf0yo) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN), [Zahra DA7](https://open.spotify.com/artist/0snMso9CwRUFq0IUQYredt) | [Ay](https://open.spotify.com/album/2EDSNZkY9bmeHholssPObo) | 3:37 | 2026-02-19 |  |
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 | 2025-06-27 |

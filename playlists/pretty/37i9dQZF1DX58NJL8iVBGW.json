@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 821164,
+  "num_followers": 821233,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgtaP2umQoH+AN8TvuU1BcowKt5",
+  "snapshot_id": "AAAAAEHvu2BLJIJeAAV6h2101ob/Hze3",
   "tracks": [
     {
       "added_at": "2026-09-11 04:00:16",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller Band",
-          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Get Right Church",
-      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "The Edge of the Map (Cumberland Gap)",
         "url": "https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 180141,
       "name": "The Edge of the Map (Cumberland Gap)",
       "url": "https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller Band",
+          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Get Right Church",
+      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
       "added_at": "2026-09-11 04:00:16",
       "album": {
         "name": "Bless Your Soul",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Gravity Well",
-        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
-      },
-      "artists": [
-        {
-          "name": "Rose's Pawn Shop",
-          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Country Blues",
-      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "...And There Are Devils",
         "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 216160,
       "name": "Gambling Preacher and His Daughter",
       "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Gravity Well",
+        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+      },
+      "artists": [
+        {
+          "name": "Rose's Pawn Shop",
+          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Country Blues",
+      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1363,6 +1379,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6"
+    },
+    {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Wooden Machine",
+        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 222170,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1427,6 +1459,26 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/21NyUBjgGQJgelMtRhwnop"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        },
+        {
+          "name": "Delaney Ramsdell",
+          "url": "https://open.spotify.com/artist/6Jx5tElAXRcTYfRuO9dm5o"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/7INchL1IboCdg8hLZxMRY1"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1515,26 +1567,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/21NyUBjgGQJgelMtRhwnop"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        },
-        {
-          "name": "Delaney Ramsdell",
-          "url": "https://open.spotify.com/artist/6Jx5tElAXRcTYfRuO9dm5o"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/7INchL1IboCdg8hLZxMRY1"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Fire in the Dark",
         "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
@@ -1551,22 +1583,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Skunks",
         "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
       },
@@ -1579,6 +1595,22 @@
       "duration_ms": 207161,
       "name": "Skunks",
       "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1611,38 +1643,6 @@
       "duration_ms": 243533,
       "name": "The River's Will",
       "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
-        "name": "Blackland Farmer",
-        "url": "https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl"
-      },
-      "artists": [
-        {
-          "name": "Hard Working Americans",
-          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
-        }
-      ],
-      "duration_ms": 457666,
-      "name": "Blackland Farmer",
-      "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
-        "name": "One Trip Pony",
-        "url": "https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 220432,
-      "name": "One Trip Pony",
-      "url": "https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U"
     }
   ],
   "unique_name": "Southern Gothic",

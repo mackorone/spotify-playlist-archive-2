@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Updated monthly\. Cover: Wolves in the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,834 likes - 119 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,821 likes - 119 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

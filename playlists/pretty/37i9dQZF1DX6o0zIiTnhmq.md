@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,617 likes - 75 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,667 likes - 75 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 69 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
 | 70 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 |
 | 71 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/20PZKyB4QLEMgAkbAHnzFX) | [Amit Sawant](https://open.spotify.com/artist/1Vd1MrlSSOKlCG1nL3amJj) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/6ownMtjFdSqL4USFMfzqul) | 56:30 |
-| 72 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
-| 73 | [Om Chakra Mantra To Find Your True Purpose](https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:42 |
-| 74 | [Durga Mantra \- Extended](https://open.spotify.com/track/47b3mwI3c1rD048JyqkKFL) | [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Durga Mantra \- Extended](https://open.spotify.com/album/5LceflBlofcir3TyJu88yC) | 3:03 |
-| 75 | [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/track/53ZbuEXxgsJ7kSZOXMxeYk) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/album/2ucTid7wEP0FXmmhu4HUyv) | 1:05:25 |
+| 72 | [Om Chakra Mantra To Find Your True Purpose](https://open.spotify.com/track/7JOIEkKNLcydn9p2BjlFZ6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:42 |
+| 73 | [Durga Mantra \- Extended](https://open.spotify.com/track/47b3mwI3c1rD048JyqkKFL) | [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Durga Mantra \- Extended](https://open.spotify.com/album/5LceflBlofcir3TyJu88yC) | 3:03 |
+| 74 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
+| 75 | [Vakratunda Mahakaya](https://open.spotify.com/track/7ujYwu6NgbzX0Gy5s0YYLg) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Vakratunda Mahakaya](https://open.spotify.com/album/0cKniVeFHinyhOlrWCV9Ly) | 4:47 |
 
 Snapshot ID: `AAAAAEnpJyFypB6Mh7KjU+ILGaIptSfv`

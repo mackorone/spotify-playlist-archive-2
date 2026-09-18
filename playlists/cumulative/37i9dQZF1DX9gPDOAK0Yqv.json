@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 217920,
       "name": "365",
       "url": "https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 142080,
       "name": "Addicted - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 166153,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/2O6Yy4D8zCHr4CyPnc8p30"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 188095,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/3zvVxIHeNiSWg16e0V3gTT"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 189375,
       "name": "ARKANA",
       "url": "https://open.spotify.com/track/0P4Zt3Tl9bJ9iyWx7BGEEu"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 213809,
       "name": "Ciento",
       "url": "https://open.spotify.com/track/16JMPzCnNHKY5CDgckZifG"
@@ -3854,6 +3854,28 @@
       "duration_ms": 317546,
       "name": "Desert Sun",
       "url": "https://open.spotify.com/track/5ho09ZAulykFu0SOw0IFjn"
+    },
+    {
+      "album": {
+        "name": "Desert Sunrise",
+        "url": "https://open.spotify.com/album/1g1ib3Bexwlga70q09aT8d"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Desert Sunrise",
+      "url": "https://open.spotify.com/track/102hcV38lB1o5qFoijMxUw"
     },
     {
       "album": {
@@ -6788,7 +6810,7 @@
       },
       "artists": [
         {
-          "name": "CamelPhat",
+          "name": "CAMELPHAT",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
@@ -6802,7 +6824,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 197416,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
@@ -8668,6 +8690,28 @@
       "duration_ms": 410322,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr"
+    },
+    {
+      "album": {
+        "name": "Inside The Brain",
+        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Franksy",
+          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Inside The Brain",
+      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
     },
     {
       "album": {
@@ -11710,7 +11754,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 341250,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/0Iw0El8InJJ0UUK6BAozHV"
@@ -15364,7 +15408,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 225584,
       "name": "Short Stop",
       "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
@@ -17724,6 +17768,24 @@
       "duration_ms": 203076,
       "name": "Till I Die (feat. Claudia Valentina)",
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2WH9NPYMLaZnJgsHfmb3o2"
+      },
+      "artists": [
+        {
+          "name": "Avis Vox",
+          "url": "https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227462,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5IfhBm1yaXOAJCKOBefLpa"
     },
     {
       "album": {

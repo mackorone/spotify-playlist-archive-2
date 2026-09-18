@@ -1,6 +1,6 @@
 {
   "description": "Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443164,
+  "num_followers": 443143,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 381299,
-      "name": "Duas doses de saudade / Nunca me ver\u00e1 chorar / N\u00e3o quero mais - Ao vivo",
-      "url": "https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg"
-    },
-    {
-      "added_at": "2026-09-10 03:01:28",
-      "album": {
         "name": "Discreto",
         "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 120937,
       "name": "Discreto",
       "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
+    },
+    {
+      "added_at": "2026-09-10 03:01:28",
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 381299,
+      "name": "Duas doses de saudade / Nunca me ver\u00e1 chorar / N\u00e3o quero mais - Ao vivo",
+      "url": "https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg"
     },
     {
       "added_at": "2026-09-10 03:01:28",
@@ -759,30 +759,6 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
-        "name": "Como Descobrir",
-        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
-      },
-      "artists": [
-        {
-          "name": "Pitiko",
-          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
-        },
-        {
-          "name": "OfcNgtl",
-          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Como Descobrir",
-      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
-    },
-    {
-      "added_at": "2026-09-10 03:01:28",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 233898,
       "name": "Gan\u00e2ncia",
       "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
+    },
+    {
+      "added_at": "2026-09-10 03:01:28",
+      "album": {
+        "name": "Como Descobrir",
+        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
+      },
+      "artists": [
+        {
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+        },
+        {
+          "name": "OfcNgtl",
+          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Como Descobrir",
+      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
     },
     {
       "added_at": "2026-09-10 03:01:28",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
+        "name": "SIX.",
+        "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 117954,
+      "name": "No Meu Club",
+      "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
+    },
+    {
+      "added_at": "2026-09-10 03:01:28",
+      "album": {
         "name": "Rugal & Bomfino",
         "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
@@ -931,26 +951,6 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
-        "name": "SIX.",
-        "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 117954,
-      "name": "No Meu Club",
-      "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
-    },
-    {
-      "added_at": "2026-09-10 03:01:28",
-      "album": {
         "name": "FREQU\u00caNCIA LUNAR",
         "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
       },
@@ -967,6 +967,30 @@
       "duration_ms": 169137,
       "name": "SALTO 15",
       "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
+    },
+    {
+      "added_at": "2026-09-10 03:01:28",
+      "album": {
+        "name": "PORNOGRAFIA AUDITIVA",
+        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Malandro TouchScreen",
+      "url": "https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3"
     },
     {
       "added_at": "2026-09-10 03:01:28",
@@ -999,30 +1023,6 @@
       "duration_ms": 167925,
       "name": "Fiz Quase Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-09-10 03:01:28",
-      "album": {
-        "name": "PORNOGRAFIA AUDITIVA",
-        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
-      },
-      "artists": [
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Malandro TouchScreen",
-      "url": "https://open.spotify.com/track/5weTYPqLyxPP2zqzoLWep3"
     },
     {
       "added_at": "2026-09-10 03:01:28",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
-        }
-      ],
-      "duration_ms": 177830,
-      "name": "Maldito Papel",
-      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
-    },
-    {
-      "added_at": "2026-09-10 03:01:28",
-      "album": {
         "name": "Voc\u00ea Precisa do \u00c1libi",
         "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
       },
@@ -1123,18 +1099,50 @@
     {
       "added_at": "2026-09-10 03:01:28",
       "album": {
-        "name": "Quem Ama Cuida",
-        "url": "https://open.spotify.com/album/2J2H91zaQyASh8pn7wHITL"
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
       "artists": [
         {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
         }
       ],
-      "duration_ms": 106017,
-      "name": "Quem Ama Cuida",
-      "url": "https://open.spotify.com/track/2sA4gKbzxAnwDYiBu4JjwN"
+      "duration_ms": 177830,
+      "name": "Maldito Papel",
+      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
+    },
+    {
+      "added_at": "2026-09-10 03:01:28",
+      "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "DEMORO A DORMIR",
+      "url": "https://open.spotify.com/track/2jT4BeLP0YxXXleJijuPsq"
     }
   ],
   "unique_name": "AMPLIFIKA",

@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 154269,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1MlJIglwSombG7iLdiU8uW"
@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/7uKxPQbWFPEWz21jtsdYzd"
+      },
+      "artists": [
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        },
+        {
+          "name": "Josh Le Tissier",
+          "url": "https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187108,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/1CK8vHLDtcP5xCTvK4JG7p"
+    },
+    {
+      "album": {
         "name": "Do You Even Want Me",
         "url": "https://open.spotify.com/album/7r2ZFHvNkwzsBVJbLAZVhU"
       },
@@ -1556,6 +1578,32 @@
       "duration_ms": 173087,
       "name": "Electric Elephants",
       "url": "https://open.spotify.com/track/64zUNPNYxusLnW21zSZ6ZR"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/3IKPxb0vZDVsmkdtDkXifJ"
+      },
+      "artists": [
+        {
+          "name": "Alan Krevo",
+          "url": "https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z"
+        },
+        {
+          "name": "Jack Mence",
+          "url": "https://open.spotify.com/artist/5ZfwkBw5XLQxOfksolJswL"
+        },
+        {
+          "name": "Tigi",
+          "url": "https://open.spotify.com/artist/4NpNEVrauhgrYCDeQvBCAI"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0ea8vosw0PmYsf9ubBKlUp"
     },
     {
       "album": {
@@ -2838,7 +2886,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163432,
       "name": "Little Closer",
       "url": "https://open.spotify.com/track/6P1dOqnOGP02Vr45SO8LSZ"
@@ -3532,6 +3580,32 @@
       "duration_ms": 149125,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6Cvy0frVEbjRulnNWkO3Ud"
+    },
+    {
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/5TxxQkdUArAZ3zcsyZoq7A"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Gaz Meeko",
+          "url": "https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6"
+        },
+        {
+          "name": "Paul Green",
+          "url": "https://open.spotify.com/artist/6p2zBJ9FLbiQQLS0HYdtb3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158513,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/34zTnLwd8guHvsYesS5yqC"
     },
     {
       "album": {

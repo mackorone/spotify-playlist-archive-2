@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "In Times of Absolute Endings",
+        "url": "https://open.spotify.com/album/1aGsfs58XYBl7zAbrrikd0"
+      },
+      "artists": [
+        {
+          "name": "Gabbi Lieve",
+          "url": "https://open.spotify.com/artist/3h37iYeabo7qndCteCW9E6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192393,
+      "name": "In Times of Absolute Endings",
+      "url": "https://open.spotify.com/track/1n5CMJWzV9OimSjkoroBXB"
+    },
+    {
+      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel"
       },
@@ -3880,7 +3898,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 138666,
       "name": "lOvE",
       "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "Money up",
       "url": "https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt"

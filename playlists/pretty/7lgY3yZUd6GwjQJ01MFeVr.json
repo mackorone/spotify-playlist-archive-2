@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson",
-  "num_followers": 35229,
+  "num_followers": 35240,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAfyU9G/JHrU8HwPw6OGI3BrBVN3urv",
+  "snapshot_id": "AAAfynizqPFh9i501x6/JEt0D9+NpL0t",
   "tracks": [
     {
       "added_at": "2026-04-15 18:39:36",
@@ -2295,6 +2295,26 @@
       "duration_ms": 160479,
       "name": "Hard Liquor",
       "url": "https://open.spotify.com/track/3X5AFec3grDuQGGjkdBjPT"
+    },
+    {
+      "added_at": "2026-09-17 17:20:29",
+      "album": {
+        "name": "Last Thing You Need (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Last Thing You Need (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     }
   ],
   "unique_name": "Top Country Hits",

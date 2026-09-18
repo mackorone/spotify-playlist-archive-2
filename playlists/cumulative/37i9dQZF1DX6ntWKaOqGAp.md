@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: レトロリロン（RETRORIRON）
 
-3,565 songs - 9 day 6 hr 8 min
+3,567 songs - 9 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Kuwadate](https://open.spotify.com/track/000x0PYzls9F6bNbGeMRE1) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Kuwadate](https://open.spotify.com/album/7nvNp6Wbi8IEUHdo9rsdu7) | 3:29 | 2023-10-03 | 2023-10-25 |
 | [Kyomeiyako](https://open.spotify.com/track/3qi6h1nnr5C8F8YJLSyP1j) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Ghost Notes](https://open.spotify.com/album/6BdGedS0lcdybP3AZeF72v) | 3:42 | 2025-03-25 | 2025-04-02 |
 | [Kyusekkin](https://open.spotify.com/track/1ipRUJa972ttvdHrlEbctv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kyusekkin](https://open.spotify.com/album/4OSckx4fTTXI18vBwcZlGr) | 2:55 | 2023-07-11 | 2023-08-23 |
+| [kūchū hokō](https://open.spotify.com/track/1IktdQIocTeVFQ2xSmxrLh) | [UNDER GRAPH](https://open.spotify.com/artist/2Ox7XO5C0tbbk9pfZVDGA1) | [kūchū hokō](https://open.spotify.com/album/2SKlvpFTcenCUp1snY3cEm) | 3:45 | 2026-09-17 |  |
 | [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 | 2024-04-18 | 2024-05-15 |
 | [LA VIDA LOCA](https://open.spotify.com/track/72Abh4ESfJhs9teA0XsrcR) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [LA VIDA LOCA](https://open.spotify.com/album/4qmS2B9yRGTkstSFI6Bzpd) | 3:37 | 2025-07-02 | 2025-07-09 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-21 | 2023-06-28 |
@@ -946,7 +947,7 @@
 | [Loss\(Angels\)](https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5RDd9nWHYnUtK8rWROA6Rc) | 4:01 | 2023-12-05 | 2023-12-07 |
 | [Loss\(Angels\)](https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA) | 4:01 | 2023-12-05 | 2024-01-10 |
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-07 | 2023-12-13 |
-| [LOSTRANGER](https://open.spotify.com/track/2VqLC8piqtbDZr7UPBZ3eA) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [LOSTRANGER](https://open.spotify.com/album/5RUaIJlTe6kD22Co5HgTpG) | 3:31 | 2026-08-18 |  |
+| [LOSTRANGER](https://open.spotify.com/track/2VqLC8piqtbDZr7UPBZ3eA) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [LOSTRANGER](https://open.spotify.com/album/5RUaIJlTe6kD22Co5HgTpG) | 3:31 | 2026-08-18 | 2026-09-18 |
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-27 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
 | [LOVE](https://open.spotify.com/track/0xHXu1t5qdmvjFFMhwjLT6) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [KOTORI](https://open.spotify.com/album/11x8Ijn5vvn269ysJMtZL7) | 3:32 | 2024-05-28 | 2024-08-28 |
@@ -1178,7 +1179,7 @@
 | [OLDROSE](https://open.spotify.com/track/0093F6xxlANJgH5X9CAzHX) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [OLDROSE](https://open.spotify.com/album/1dbS6Qr8GKwYKLkfTmeEgN) | 4:35 | 2025-03-25 | 2025-04-16 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-04-26 |
 | [On Fire](https://open.spotify.com/track/6R60QSiT6Jr6vWY2Vbr0JN) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [On Fire](https://open.spotify.com/album/7pxIcTRwcnBZghXhDILq53) | 3:41 | 2025-06-03 | 2025-06-11 |
-| [ONE](https://open.spotify.com/track/6skd7pNQkQX4pk40taZfJ1) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [ONE](https://open.spotify.com/album/3UN0mVofuAOYImQpq4CM0q) | 4:11 | 2026-09-01 |  |
+| [ONE](https://open.spotify.com/track/6skd7pNQkQX4pk40taZfJ1) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [ONE](https://open.spotify.com/album/3UN0mVofuAOYImQpq4CM0q) | 4:11 | 2026-09-01 | 2026-09-18 |
 | [One More Song](https://open.spotify.com/track/0Ao2i90HLa4mYzdstzQKMZ) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [One More Song](https://open.spotify.com/album/2yULikxhE0KDu6KZBRO0Rw) | 3:17 | 2026-04-14 | 2026-04-29 |
 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 | 2026-03-24 | 2026-07-22 |
 | [One Thing](https://open.spotify.com/track/5NUKfCweTvuieR5wdOoXlM) | [The Lazy Boys](https://open.spotify.com/artist/0XnOQzDQnQZlyM86Gk0Kt0) | [One Thing](https://open.spotify.com/album/29nrkWl5Ijv4CqC6K2V6xB) | 5:19 | 2023-01-31 | 2023-02-15 |
@@ -1670,6 +1671,7 @@
 | [That's All I Wish](https://open.spotify.com/track/1AwF87QPmGqFqcuUwp0sqL) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [That's All I Wish](https://open.spotify.com/album/26JYScMF9NL5zVfV36DYZ5) | 3:10 | 2026-06-16 | 2026-07-15 |
 | [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 | 2023-07-05 |
 | [The Abyss](https://open.spotify.com/track/2UgSCqvAIltclKt4ZR4XLO) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [The Abyss](https://open.spotify.com/album/4Sx5ayncxVvBNY1NwM9Ybn) | 3:08 | 2026-01-15 | 2026-01-21 |
+| [The Animals](https://open.spotify.com/track/5ewQI9visQ5IjEXnt4H2BN) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The Animals](https://open.spotify.com/album/1TdCsRcpaj8DpF014vyooi) | 3:50 | 2026-09-17 |  |
 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 | 2025-11-11 | 2025-11-26 |
 | [The Ballad](https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW) | 3:29 | 2026-01-13 | 2026-02-11 |
 | [The Beyond](https://open.spotify.com/track/3NhdX5K3gCxDF69nBWDOTh) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [The Beyond](https://open.spotify.com/album/3zJgwMN7ztFUOHOsZPxCtY) | 4:22 | 2025-09-30 | 2025-10-29 |

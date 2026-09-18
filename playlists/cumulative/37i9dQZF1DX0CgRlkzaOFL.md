@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-107 songs - 5 hr 56 min
+108 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 | 2022-03-25 |  |
 | [Beyond the Seas](https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:30 | 2022-03-25 |  |
 | [Beyond the Seas](https://open.spotify.com/track/53l5ZSocXsBoycSEQtK0os) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:30 | 2023-10-17 | 2024-04-19 |
+| [Blue Bird \(from "Naruto"\) \[Arr\. Telleria for Piano\]](https://open.spotify.com/track/4fCoA9BZaJlR4GJL0V9vRt) | [Yoshiki Mizuno](https://open.spotify.com/artist/35oUEKM1r6534EmN1soDCE), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Mizuno: Blue Bird \(from "Naruto"\) \[Arr\. Telleria for Piano\]](https://open.spotify.com/album/7vfkW6iNl1tJkNx65xnTRu) | 1:50 | 2026-09-16 |  |
 | [Cayna](https://open.spotify.com/track/1SDr66kP3bN5b7tyhCMorR) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn) | [TV Animation "In the Land of Leadale" Original Soundtrack](https://open.spotify.com/album/5JGyobpgajZLYDTxyF7Mqe) | 1:06 | 2022-11-25 |  |
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 | 2022-04-19 | 2024-04-19 |
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 | 2022-03-25 |  |

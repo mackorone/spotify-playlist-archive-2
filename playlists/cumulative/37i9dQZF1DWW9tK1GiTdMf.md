@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-1,769 songs - 3 day 9 hr 16 min
+1,771 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Cose da fare](https://open.spotify.com/track/0Mk8jtZq5WtUXbKHMQxWJK) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [Cose da fare](https://open.spotify.com/album/5HWbNXGcLS2z53aLuUGuEy) | 2:55 | 2024-02-01 | 2024-04-19 |
 | [Cose da piazza](https://open.spotify.com/track/5Q5ZQ4U0qOxfFl4rDLknUK) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Cose da piazza](https://open.spotify.com/album/5vkeh5MP3zqeCyLsgBAIsK) | 2:24 | 2023-03-16 | 2023-05-26 |
 | [Cose mie](https://open.spotify.com/track/2F7ztT5LyCYKKtPmrSPAV1) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Cose mie](https://open.spotify.com/album/2OVk88faWDtLC4FyTDpfDC) | 2:50 | 2022-05-06 | 2022-05-27 |
+| [così diversi](https://open.spotify.com/track/1nm4KcsA30koDIuMz3kpCJ) | [innlovekid](https://open.spotify.com/artist/51lzHUjR2M0hcJNO61skr8), [tre.paranoie](https://open.spotify.com/artist/56HtEw3WOREhqlODiYQMmA) | [così diversi](https://open.spotify.com/album/4vnG8E1YszEa4XCClGFf8j) | 2:24 | 2026-09-17 |  |
 | [COSÌ NON VA \(soppalco\)](https://open.spotify.com/track/01XXlIzKyljHcsIatmA0J4) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [COSÌ NON VA \(soppalco\)](https://open.spotify.com/album/2H7gfyChEP0dFmqgEtF6Cc) | 2:44 | 2024-06-06 | 2024-10-18 |
 | [Country Boy](https://open.spotify.com/track/109jo1FSq5QZ23vu5HdEgk) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [Country Boy](https://open.spotify.com/album/1c29wEXEaINXbL7kyWwUUx) | 2:38 | 2023-03-30 | 2023-04-28 |
 | [Country Italico](https://open.spotify.com/track/5lE5AV1jitAwxIBnlwhY8e) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [BROKEN BOYS COUNTRYSIDE](https://open.spotify.com/album/4z5V9GyhBbv3iSoxnb7HXc) | 2:25 | 2025-05-29 | 2025-07-11 |
@@ -1302,6 +1303,7 @@
 | [ricaricaricordi](https://open.spotify.com/track/32enkkUhVG71kOJK8aHtM7) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [ricaricaricordi](https://open.spotify.com/album/41jWZqQeinerqDkyXu7n0M) | 2:56 | 2023-11-16 | 2024-03-22 |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-05-12 | 2022-05-27 |
 | [ricominciare tutto](https://open.spotify.com/track/2jmMwzzBWim9MKFrPq7xrP) | [traparentesi](https://open.spotify.com/artist/1NBMY4ez12zXYBIHApfrcX) | [diventare grande](https://open.spotify.com/album/2rrbLXuUNPRz6CCiGiMo6h) | 2:58 | 2026-05-14 | 2026-06-05 |
+| [RICORDATI DI CORRERE!! \(e non fermarti mai\)](https://open.spotify.com/track/2XhiFVMmqJMj9HqHDqqSas) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [RICORDATI DI CORRERE!! \(e non fermarti mai\)](https://open.spotify.com/album/77hZxdzNB5Dcy7z5UZKbCY) | 3:04 | 2026-09-17 |  |
 | [Riflesso](https://open.spotify.com/track/64Jx9B8VMW1LPwcZn1uBos) | [Misa](https://open.spotify.com/artist/5jHjoTewpLc3afcQ8hdCzF), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Riflesso](https://open.spotify.com/album/627csdACMSCr9V0vUNmIaS) | 2:44 | 2023-11-16 | 2024-02-02 |
 | [RILASCIO](https://open.spotify.com/track/6uTTta3r7CctLeexSVHd4B) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Luvi](https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0), [Rx](https://open.spotify.com/artist/4cBr49Vh3Y4I2Ty5E3gakQ), [Asci](https://open.spotify.com/artist/5S0PqlD3F615EmYSZXztyl), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [RILASCIO](https://open.spotify.com/album/47Ya71TLlCDMnuqxO36E7u) | 3:08 | 2025-04-03 | 2025-05-09 |
 | [RIMEDIO](https://open.spotify.com/track/1Sq30V6ocC406vqUYkMJgS) | [UTENTE175](https://open.spotify.com/artist/2PKO5SKTOn8hhy70pGlbvc) | [RIMEDIO](https://open.spotify.com/album/14jbQnWpcxk9TqoVnqgetg) | 2:39 | 2025-02-20 | 2025-04-11 |

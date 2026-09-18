@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Ant\u00f3nio Zambujo",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Benjamim",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00f3nicas do Monte Zeus",
+        "url": "https://open.spotify.com/album/4sn7gsL6fO7bQVYVSHh9Ab"
+      },
+      "artists": [
+        {
+          "name": "Benjamim",
+          "url": "https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238337,
+      "name": "Amor Oper\u00e1rio",
+      "url": "https://open.spotify.com/track/7mLpPjlQ3mpvkufndomkAq"
+    },
+    {
+      "album": {
         "name": "Anjo",
         "url": "https://open.spotify.com/album/35Be9q6elfbsw2aYXQK5es"
       },
@@ -1028,6 +1046,24 @@
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
+    },
+    {
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "album": {
@@ -1964,6 +2000,24 @@
       "duration_ms": 185361,
       "name": "Coffin Change",
       "url": "https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk"
+    },
+    {
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/5auvzmaGYrLSWdbPZtNR9x"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243676,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/42mg6aq8u2myBFdBNMFo63"
     },
     {
       "album": {
@@ -3174,7 +3228,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 61374,
       "name": "Eun\u00e3omesintobem",
       "url": "https://open.spotify.com/track/1JLBfFpl7o15T0486UQKTv"
@@ -3250,6 +3304,24 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
+        "name": "Fala Bem",
+        "url": "https://open.spotify.com/album/7LYs2BW6mdSS227wRPhCkF"
+      },
+      "artists": [
+        {
+          "name": "Rita Redshoes",
+          "url": "https://open.spotify.com/artist/3Bce8amCAcl1Icpz8ebKVy"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Fala Bem",
+      "url": "https://open.spotify.com/track/6DOB7QK6gio2SfxQeDsWSt"
     },
     {
       "album": {
@@ -3608,7 +3680,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
@@ -6816,7 +6888,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 225142,
       "name": "Os Dias do Nada",
       "url": "https://open.spotify.com/track/13LHHRZ43IXJjdmlzeyLW5"
@@ -6990,7 +7062,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190258,
       "name": "People of the Moon",
       "url": "https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8"
@@ -7351,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "quase nada",
+        "url": "https://open.spotify.com/album/4idHrxnCqiGkWbj1syFMmH"
+      },
+      "artists": [
+        {
+          "name": "ed",
+          "url": "https://open.spotify.com/artist/3NQzkrCGGhftMzKWApn44m"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185281,
+      "name": "quase nada",
+      "url": "https://open.spotify.com/track/3YFhVDpDYhGJIGnVoT27Cq"
+    },
+    {
+      "album": {
         "name": "Que Fossem Flores",
         "url": "https://open.spotify.com/album/0JJ7Kh07P3wTT53XSp3IEh"
       },
@@ -7482,7 +7572,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 188374,
       "name": "Real Me",
       "url": "https://open.spotify.com/track/60eDPculC1g25IWtfMgY3V"
@@ -7645,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/46Qxtg6nSpOextsLoweO2F"
+      },
+      "artists": [
+        {
+          "name": "Filipe Karlsson",
+          "url": "https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200852,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/1bVNNcroHL1rXf9RViUSgd"
+    },
+    {
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -7718,6 +7826,24 @@
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "album": {
+        "name": "Universo Em Movimento",
+        "url": "https://open.spotify.com/album/1DRaB3AuR7jbfglYIhMjnz"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242731,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/7vNcYBD2HzW3N06lzlcjBf"
     },
     {
       "album": {
@@ -8360,7 +8486,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -8468,7 +8594,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 303000,
       "name": "Summer Feeling",
       "url": "https://open.spotify.com/track/26HptIg7jhxCUbDqQscV3g"
@@ -8898,7 +9024,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
@@ -9688,6 +9814,24 @@
       "duration_ms": 198500,
       "name": "Um Lugar na Mouraria - G\u00e9mea Anal\u00f3gica",
       "url": "https://open.spotify.com/track/3Vro2KGZpxVvfaJrkQYdnk"
+    },
+    {
+      "album": {
+        "name": "Um Mais Um",
+        "url": "https://open.spotify.com/album/4uIMh5zR0GYAnSaLf2Ehfy"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171297,
+      "name": "Um Mais Um",
+      "url": "https://open.spotify.com/track/37MIhQy5RKshiLFp7yF70E"
     },
     {
       "album": {

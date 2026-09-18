@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,278 songs - 2 day 15 hr 55 min
+1,279 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ainakaa sä](https://open.spotify.com/track/4xssjWxaVGboNtqXbtZRqV) | [LEFT](https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG) | [Ainakaa sä](https://open.spotify.com/album/5vAe47FkhAtoa18aE3HbkY) | 2:58 | 2026-05-14 | 2026-05-22 |
 | [Aino \(Vain elämää kausi 16\)](https://open.spotify.com/track/3yjGjHLXbjczg3LHrMr0f3) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Aino \(Vain elämää kausi 16\)](https://open.spotify.com/album/4W2xtgiaoNtog79gRxX7T3) | 2:12 | 2025-10-09 | 2025-10-17 |
 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Tuhat ja yksi yötä](https://open.spotify.com/album/2oizcE37WwDzW9ZvQuO0cY) | 2:38 | 2025-09-11 | 2025-10-24 |
+| [ainut joka tuntee mut](https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX) | [paulus](https://open.spotify.com/artist/1KUf2qlXKmUUbEefxBqDVp) | [ainut joka tuntee mut](https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF) | 3:10 | 2026-09-17 |  |
 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 | 2025-01-02 | 2025-04-04 |
 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 | 2024-08-15 | 2024-10-18 |
 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 | 2025-05-22 | 2025-09-05 |
@@ -832,7 +833,7 @@
 | [Pieni ystävä](https://open.spotify.com/track/3Gnt3zrmjmtfg5zmcfgehp) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pieni ystävä](https://open.spotify.com/album/6T59VioHQazN7bAVDcZCwU) | 3:17 | 2025-04-03 | 2025-06-13 |
 | [Pikajunat](https://open.spotify.com/track/2HXTtO4jFgDn72kSRL1cll) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Pikajunat](https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ) | 3:09 | 2024-07-02 | 2024-09-20 |
 | [Pikkukaupungin Kuumin Kissa](https://open.spotify.com/track/10tacfDhlu9hUsqQFo2Hye) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Pikkukaupungin Kuumin Kissa](https://open.spotify.com/album/7GdSS3aHG4MUqo7Hw0ITfm) | 3:32 | 2024-10-17 | 2024-11-08 |
-| [Pikkusisko](https://open.spotify.com/track/7bvo1ROEUrrwtYZnVJOyHz) | [Terri](https://open.spotify.com/artist/5lYrbWszwF34AWJYUKJ13v) | [Pikkusisko](https://open.spotify.com/album/4F7gPB4xLod9E90EVbHvSf) | 2:28 | 2026-09-10 |  |
+| [Pikkusisko](https://open.spotify.com/track/7bvo1ROEUrrwtYZnVJOyHz) | [Terri](https://open.spotify.com/artist/5lYrbWszwF34AWJYUKJ13v) | [Pikkusisko](https://open.spotify.com/album/4F7gPB4xLod9E90EVbHvSf) | 2:28 | 2026-09-10 | 2026-09-18 |
 | [Pilvenreunalla](https://open.spotify.com/track/5itWbddHkpblXEXMgIMI5z) | [Kasmir](https://open.spotify.com/artist/2O6Va98fudK0E8rtu7Nm2Z) | [Pilvenreunalla](https://open.spotify.com/album/1gIho4udxCgJcnDVGuSMJv) | 3:31 | 2024-09-12 | 2024-10-04 |
 | [Pimeään](https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Pimeään](https://open.spotify.com/album/7pwKzcqSfAkTxbAbIvJilI) | 3:26 | 2025-09-18 | 2025-11-21 |
 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 | 2025-04-03 | 2025-05-30 |

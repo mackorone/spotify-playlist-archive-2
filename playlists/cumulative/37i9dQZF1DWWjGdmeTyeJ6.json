@@ -54851,6 +54851,24 @@
     },
     {
       "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/5QTFpjtGpvcWHVUNFvttiR"
+      },
+      "artists": [
+        {
+          "name": "Kuper",
+          "url": "https://open.spotify.com/artist/4XkrwECe3PXGLGzaxuLGin"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190564,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/3QGSm3spB9X1RWw20HZ6uP"
+    },
+    {
+      "album": {
         "name": "feel better",
         "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
       },
@@ -68238,7 +68256,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 228240,
       "name": "half smile",
       "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"

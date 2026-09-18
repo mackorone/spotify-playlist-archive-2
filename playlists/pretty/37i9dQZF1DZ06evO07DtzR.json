@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAADPSEbOHqfnCUkP1d+v016z",
+  "snapshot_id": "aqncAAAAAACSKSnMJ8aN3V3Qgwe/msvY",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen-TV edit-",
-        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 89990,
-      "name": "Fallen-TV edit-",
-      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+      "duration_ms": 102506,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
+        "name": "Fallen-TV edit-",
+        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 102506,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
+      "duration_ms": 89990,
+      "name": "Fallen-TV edit-",
+      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 350120,
       "name": "All Alone With You -Instrumental-",
       "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 100053,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 (TV Edit 92s ver) -Instrumental-",
+      "url": "https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE"
     },
     {
       "added_at": null,

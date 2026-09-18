@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-199 songs - 11 hr 12 min
+200 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Implorar Amor \- Ao Vivo](https://open.spotify.com/track/2WHe2JzwVCeYXgarB6r9hk) | [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50) | [No Ar em Sampa \- Ao Vivo](https://open.spotify.com/album/6xAg9AbgRUfmaboaJrQP6i) | 4:05 | 2024-09-13 | 2024-10-08 |
 | [Inspirar](https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Inspirar](https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g) | 4:22 | 2025-01-24 | 2025-08-23 |
 | [Intenção / Graça \- Acústico em Paris](https://open.spotify.com/track/3o2ZtYsTDYAmhxDRaSkCH4) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Intenção / Graça \(Acústico em Paris, 2024\)](https://open.spotify.com/album/6ltIOoVSHSoskUbPIfW4Xk) | 3:18 | 2025-03-01 | 2025-05-02 |
+| [It's Fine \(Luz\)](https://open.spotify.com/track/3G7A6TA86EkdNMo0LsGRHQ) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Rei das Ruas](https://open.spotify.com/album/54XF5DS1sE5qVguIX4cBhi) | 4:15 | 2026-09-18 |  |
 | [Jam \#01 \- Fim de Semana](https://open.spotify.com/track/5F58WyW1eT00i22beFEsZ3) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Jam \#1](https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR) | 1:22 | 2024-10-07 | 2025-01-31 |
 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 | 2025-09-19 |  |
 | [Lendas](https://open.spotify.com/track/6rJLsNAal1Pg6T5N7icanj) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Dudah](https://open.spotify.com/artist/5ltQoJgmfXPVL8dUkgTViq) | [Selene](https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX) | 3:25 | 2024-11-04 | 2024-12-14 |
@@ -185,7 +186,7 @@
 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 | 2023-09-15 | 2024-11-29 |
 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 | 2023-09-15 | 2024-06-29 |
 | [Tenha Calma](https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:41 | 2025-07-11 | 2026-05-08 |
-| [TENTAR DE NOVO](https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [TENTAR DE NOVO](https://open.spotify.com/album/67b4a9HNZelF5QRmOjF6vM) | 2:14 | 2026-07-02 |  |
+| [TENTAR DE NOVO](https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [TENTAR DE NOVO](https://open.spotify.com/album/67b4a9HNZelF5QRmOjF6vM) | 2:14 | 2026-07-02 | 2026-09-18 |
 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 | 2024-09-27 |
 | [Toda Hora É Boa](https://open.spotify.com/track/0eNsr0BrWyyzBl6rgDxsVL) | [Larissa Nunes](https://open.spotify.com/artist/6oxUUJmOTrFEacm7W2kyVh), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Toda Hora É Boa](https://open.spotify.com/album/5eR92cFO3YiiyROhKLh6ak) | 3:56 | 2024-03-22 | 2024-03-30 |
 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 | 2023-11-10 | 2025-07-12 |

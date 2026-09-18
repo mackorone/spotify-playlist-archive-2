@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Yemi Alade",
+  "description": "Tracks popping off in the Afro scene. Cover: BNXN",
   "name": "Afro Station",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 116000,
       "name": "3X Bisous",
       "url": "https://open.spotify.com/track/3Dv0ZGCbh9eiPZCqvPmIBU"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "4",
+      "url": "https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO"
     },
     {
       "album": {
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144390,
       "name": "BELLUCCI",
       "url": "https://open.spotify.com/track/0lnQzvxLlNwueLhyMDZWz8"
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 127152,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 174150,
       "name": "CLAAT!",
       "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
@@ -5842,7 +5860,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
@@ -6040,6 +6058,24 @@
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
+    },
+    {
+      "album": {
+        "name": "Comme avant",
+        "url": "https://open.spotify.com/album/5SLaHTl3hysYXO4OlA6LLY"
+      },
+      "artists": [
+        {
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Comme avant",
+      "url": "https://open.spotify.com/track/6HSZigmDMJqQ7IvxqqriYZ"
     },
     {
       "album": {
@@ -7231,6 +7267,24 @@
     },
     {
       "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "DIAMONDS",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
+    },
+    {
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
@@ -8258,7 +8312,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 164210,
       "name": "E CLEAR",
       "url": "https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1"
@@ -8936,7 +8990,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 184285,
       "name": "ENJOY",
       "url": "https://open.spotify.com/track/7aadjD6KaW5mWWRKxyVo93"
@@ -12299,6 +12353,32 @@
     },
     {
       "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
+    },
+    {
+      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
       },
@@ -14990,7 +15070,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 159000,
       "name": "location",
       "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
@@ -19338,7 +19418,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 145328,
       "name": "Okpeke (Dance for Me)",
       "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
@@ -19593,6 +19673,24 @@
     },
     {
       "album": {
+        "name": "On n'y va",
+        "url": "https://open.spotify.com/album/1mHwevMkN4I865eoshqc5Q"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146001,
+      "name": "On n'y va",
+      "url": "https://open.spotify.com/track/3JSgbgjzUooXpJH1jYJXf7"
+    },
+    {
+      "album": {
         "name": "On s'aimait",
         "url": "https://open.spotify.com/album/7tXdwCx8oqavTVUfqOc3JA"
       },
@@ -19740,7 +19838,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 164624,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/42OPNneDjwPmBsm0Et8vaC"
@@ -19762,6 +19860,24 @@
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
       "album": {
@@ -20006,6 +20122,28 @@
       "duration_ms": 156756,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
+    },
+    {
+      "album": {
+        "name": "OSHE",
+        "url": "https://open.spotify.com/album/55iZzQGIUhBJqU0wXPE7jz"
+      },
+      "artists": [
+        {
+          "name": "Heaven Sam",
+          "url": "https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "OSHE",
+      "url": "https://open.spotify.com/track/60pJwNheLBJjgTattwEqXg"
     },
     {
       "album": {
@@ -24777,6 +24915,24 @@
     },
     {
       "album": {
+        "name": "TchopMoney",
+        "url": "https://open.spotify.com/album/2hAGYuPr4LBlGB28jtkFhl"
+      },
+      "artists": [
+        {
+          "name": "0zaru",
+          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123240,
+      "name": "TchopMoney",
+      "url": "https://open.spotify.com/track/1vldjCDqW7ca3EZvTMYftU"
+    },
+    {
+      "album": {
         "name": "Tchoutchou (feat. Naza)",
         "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
       },
@@ -26148,7 +26304,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173989,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/3kihf5wWzLdE0xwmVDtPSU"
@@ -26563,6 +26719,24 @@
     },
     {
       "album": {
+        "name": "VIRGO",
+        "url": "https://open.spotify.com/album/1SXYv8DGNMHTngyqpxKMYF"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167117,
+      "name": "VIRGO",
+      "url": "https://open.spotify.com/track/5LsgS4pJ4OvuqoOTCdNeCs"
+    },
+    {
+      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -26582,6 +26756,24 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/2qV3TYFG9FKreZZPEXA6Bm"
+      },
+      "artists": [
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136859,
+      "name": "Vody",
+      "url": "https://open.spotify.com/track/79yLh07evC9J8rP28x7Xqv"
     },
     {
       "album": {

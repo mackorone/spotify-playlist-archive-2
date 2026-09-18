@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,781 songs - 10 day 18 hr 46 min
+4,782 songs - 10 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4096,6 +4096,7 @@
 | [The Enemy](https://open.spotify.com/track/5qjgV8n0pqmyq73wGbbizP) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:27 | 2025-04-09 |  |
 | [The Eternity Seed](https://open.spotify.com/track/4MpAJCCG8nqYQVoDBeiHaq) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:33 | 2026-09-06 |  |
 | [The Eternity Seed \(fomo mode\)](https://open.spotify.com/track/6ZkgMlGqSLUlkEYWcTma8T) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:37 | 2026-09-06 |  |
+| [The Ever Patient](https://open.spotify.com/track/1eGah37rhnWdb9Ve2qnzZ2) | [Atrocity Girl](https://open.spotify.com/artist/5XpzCpqGPiWJgWAAI1kRdp) | [The Ever Patient](https://open.spotify.com/album/7nX5qkjeBqvZo9UYneMQKW) | 3:59 | 2026-09-17 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2026-03-15 |  |
 | [The Fear Of Loneliness](https://open.spotify.com/track/2kcZZQVYtdwxgK1WZvfjAX) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [The Fear Of Loneliness](https://open.spotify.com/album/6KjAuz5qLnKcGBxWxcCxVJ) | 2:13 | 2025-09-16 |  |
 | [The Fear of the Beginning](https://open.spotify.com/track/2jvbwciWBcf9Y3gwQ2SrOc) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:09 | 2026-09-06 |  |

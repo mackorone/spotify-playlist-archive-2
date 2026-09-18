@@ -2,7 +2,7 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: moon tang
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Mischa Ip
 
 198 songs - 12 hr 23 min
 

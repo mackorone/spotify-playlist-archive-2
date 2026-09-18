@@ -120,7 +120,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 239689,
       "name": "ASK",
       "url": "https://open.spotify.com/track/46jbDPyIehx46S05t3GBbo"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 446369,
       "name": "Be Glorified - Live",
       "url": "https://open.spotify.com/track/0a0hccemmo7qMCkxtXQdeg"
@@ -172,10 +172,80 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 809142,
       "name": "Behold (The King Is Calling) - Live",
       "url": "https://open.spotify.com/track/5B4Y3nTIUB3BQBrTEFHHd6"
+    },
+    {
+      "album": {
+        "name": "Believing For It (Live - Extended)",
+        "url": "https://open.spotify.com/album/71kI1BULmlQGjjyvu5dXuD"
+      },
+      "artists": [
+        {
+          "name": "Church of the City New York",
+          "url": "https://open.spotify.com/artist/7KzjQ0i6ueIh45lCJHFcR6"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539377,
+      "name": "Believing For It - Live - Extended",
+      "url": "https://open.spotify.com/track/21S10eREbDRTZIEyaxRg4x"
+    },
+    {
+      "album": {
+        "name": "Did Our Hearts Not Burn?",
+        "url": "https://open.spotify.com/album/47bVCHfpYcG1HsrWIrwS16"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571016,
+      "name": "Bridegroom",
+      "url": "https://open.spotify.com/track/4npFGDtKn4nrbt761zAasM"
+    },
+    {
+      "album": {
+        "name": "Burning Hearts",
+        "url": "https://open.spotify.com/album/3l8uhqpjdts2kncGoOQBTj"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348656,
+      "name": "Burning Hearts",
+      "url": "https://open.spotify.com/track/0fY0C9BjglHljAPwNtMwtv"
     },
     {
       "album": {
@@ -190,7 +260,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 281177,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE"
@@ -220,7 +290,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 398845,
       "name": "Chain Breaker (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/279wBfsKKh3VsDUFXJHaTu"
@@ -264,7 +334,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 607717,
       "name": "Christ and Christ Crucified (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4saVVi6OV9f2MtwzxD055P"
@@ -290,7 +360,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 394075,
       "name": "Christ And Christ Crucified - Live",
       "url": "https://open.spotify.com/track/32adupKO13M1j6hWpysy0U"
@@ -308,7 +378,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 589994,
       "name": "Christ Has Overcome - Live",
       "url": "https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0"
@@ -352,10 +422,28 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 658208,
       "name": "Christ Our King",
       "url": "https://open.spotify.com/track/5AsKZrWs61KLIiXRQNjXMm"
+    },
+    {
+      "album": {
+        "name": "Live From Jesus 25",
+        "url": "https://open.spotify.com/album/6QeODIciFPteLBuXvddlbW"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 843904,
+      "name": "Come Lord Now",
+      "url": "https://open.spotify.com/track/3dOWuiAJ20GjSFylWQOYdb"
     },
     {
       "album": {
@@ -392,7 +480,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 368968,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm"
@@ -414,7 +502,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 268825,
       "name": "Everything That Has Breath (Praise) - Live",
       "url": "https://open.spotify.com/track/4VaFwW2mZqKymb7svsYFI4"
@@ -487,6 +575,54 @@
     },
     {
       "album": {
+        "name": "All My Life (Live)",
+        "url": "https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244659,
+      "name": "Great Commission Hymn - Live",
+      "url": "https://open.spotify.com/track/7wlIIVGD2CEsdoMgNz8jV7"
+    },
+    {
+      "album": {
+        "name": "All My Life (Live)",
+        "url": "https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Lucas McCloud",
+          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453043,
+      "name": "Holy - Live",
+      "url": "https://open.spotify.com/track/79C535HEdPcC1sEvYlSzR6"
+    },
+    {
+      "album": {
         "name": "Every Nation (Live)",
         "url": "https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx"
       },
@@ -506,6 +642,32 @@
       "duration_ms": 387240,
       "name": "How We Love You - Live",
       "url": "https://open.spotify.com/track/1lBaZHloa3dZByr50TBbPs"
+    },
+    {
+      "album": {
+        "name": "All My Life (Live)",
+        "url": "https://open.spotify.com/album/20OP3HTmQsK5iQCuiC2Sba"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711614,
+      "name": "I Am The Lord's - Live",
+      "url": "https://open.spotify.com/track/46JQmKQG3ko9cK5XjkONXv"
     },
     {
       "album": {
@@ -538,7 +700,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 463500,
       "name": "I Say Yes",
       "url": "https://open.spotify.com/track/30ylLpVlXV3rQ9Tk3PuKEg"
@@ -568,7 +730,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 484563,
       "name": "It Is Written - Live",
       "url": "https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P"
@@ -597,6 +759,32 @@
     },
     {
       "album": {
+        "name": "Crowns Down (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397128,
+      "name": "Jesus Is My Healer - Live at Gateway Conference",
+      "url": "https://open.spotify.com/track/22pGhlQJS0nfJ6hPkpAOCH"
+    },
+    {
+      "album": {
         "name": "Jesus the Beloved",
         "url": "https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50"
       },
@@ -612,6 +800,32 @@
       "duration_ms": 350400,
       "name": "Jesus the Beloved",
       "url": "https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK"
+    },
+    {
+      "album": {
+        "name": "I Saw The Lord (Live)",
+        "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589891,
+      "name": "Jesus The Beloved - Live",
+      "url": "https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD"
     },
     {
       "album": {
@@ -714,7 +928,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 350857,
       "name": "Look At What The Blood Has Done",
       "url": "https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m"
@@ -740,7 +954,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
@@ -762,7 +976,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 255764,
       "name": "Lost In Your Love - Live",
       "url": "https://open.spotify.com/track/5sKovJKHO8vXmY6sXb2LMo"
@@ -824,7 +1038,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 414363,
       "name": "MARVELOUS",
       "url": "https://open.spotify.com/track/2KFCXdnAs7TODkyU0yKy2j"
@@ -868,7 +1082,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 553099,
       "name": "Marvelous (Lion Of Judah)",
       "url": "https://open.spotify.com/track/1xIACUXOMUSmg9n5PN147G"
@@ -890,7 +1104,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 299819,
       "name": "Name Above All Names",
       "url": "https://open.spotify.com/track/5HBJZ3m9HX1aAwAlI2CZQD"
@@ -912,7 +1126,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 636232,
       "name": "No One Else (Tear Down The Idols) - Live",
       "url": "https://open.spotify.com/track/2BrWJMN0CXvsHiaJRY7HFP"
@@ -956,7 +1170,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 796210,
       "name": "No One Like The Lord + Mighty In Battle",
       "url": "https://open.spotify.com/track/289G9UBfIrJdhkEvgYWzWt"
@@ -1000,10 +1214,36 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 500300,
       "name": "No One Like The Lord - Live",
       "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
+    },
+    {
+      "album": {
+        "name": "Send The Fire: Live From London",
+        "url": "https://open.spotify.com/album/6w4bFrC2X53TxpflpRI2SE"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Marie Welch",
+          "url": "https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE"
+        },
+        {
+          "name": "Derek Johnson",
+          "url": "https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 702985,
+      "name": "No One Like The Lord / Is He Worthy",
+      "url": "https://open.spotify.com/track/6wmNZo3kZNP5n1384ft4o1"
     },
     {
       "album": {
@@ -1026,7 +1266,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 1014004,
       "name": "No One Like The Lord / King of Glory (feat. Eniola Abioye) - Live",
       "url": "https://open.spotify.com/track/6AcSOvYb3jeOoZ5EAj8BFL"
@@ -1104,7 +1344,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 514687,
       "name": "No One Like The Lord / What A Beautiful Name - Live",
       "url": "https://open.spotify.com/track/47DRNTUm8r8IDtATHy9T98"
@@ -1188,7 +1428,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 336064,
       "name": "Nothing You Can't Do",
       "url": "https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7"
@@ -1258,7 +1498,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 357694,
       "name": "People Get Ready - Live",
       "url": "https://open.spotify.com/track/1eHZstNbimf2jwI52UhYoj"
@@ -1280,7 +1520,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 446626,
       "name": "Satisfied / Keep My Eyes Up - Medley",
       "url": "https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV"
@@ -1328,7 +1568,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 556183,
       "name": "Steadfast Love - Live",
       "url": "https://open.spotify.com/track/3qCifohJv80eyHYbdpaP3w"
@@ -1376,7 +1616,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 301318,
       "name": "Tear Down The Idols",
       "url": "https://open.spotify.com/track/39nSFsVafS3EonrhrJ7aLQ"
@@ -1420,7 +1660,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 310816,
       "name": "The Fields Are Ready",
       "url": "https://open.spotify.com/track/0zy9NI36IhHEG1pyAla2Ed"
@@ -1438,10 +1678,36 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 218293,
       "name": "The Kind of God You Are",
       "url": "https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr"
+    },
+    {
+      "album": {
+        "name": "The Lamb (Live)",
+        "url": "https://open.spotify.com/album/0qIC7AvjlIZxAxwsQiqgpX"
+      },
+      "artists": [
+        {
+          "name": "Garden Worship",
+          "url": "https://open.spotify.com/artist/0rtirW2A9hhBBgecnVZBtW"
+        },
+        {
+          "name": "Faith Dunsterville",
+          "url": "https://open.spotify.com/artist/6yu0nVuEns2M56h5AktZah"
+        },
+        {
+          "name": "David Reents",
+          "url": "https://open.spotify.com/artist/6CNEXPUiyyYwrsswyxnO9D"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366155,
+      "name": "The Lamb - Live",
+      "url": "https://open.spotify.com/track/6OMLIIyv3aC5puzuvJJdAN"
     },
     {
       "album": {
@@ -1474,7 +1740,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 449551,
       "name": "We Crown You - Live",
       "url": "https://open.spotify.com/track/2IenS9sp0L7x8I5xfoqFJ2"
@@ -1572,7 +1838,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 358570,
       "name": "Yes Again",
       "url": "https://open.spotify.com/track/7gz3nNlcBgCEvlPZojRqDU"

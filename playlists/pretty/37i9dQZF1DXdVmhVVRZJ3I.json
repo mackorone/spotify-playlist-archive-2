@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 357891,
+  "num_followers": 357942,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -259,30 +259,6 @@
     {
       "added_at": "2026-08-14 03:03:27",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "Faiolli",
-          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
-        }
-      ],
-      "duration_ms": 179531,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
-    },
-    {
-      "added_at": "2026-08-14 03:03:27",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 183934,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
+    },
+    {
+      "added_at": "2026-08-14 03:03:27",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 179531,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
     },
     {
       "added_at": "2026-08-14 03:03:27",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-08-14 03:03:27",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+    },
+    {
+      "added_at": "2026-08-14 03:03:27",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
-    },
-    {
-      "added_at": "2026-08-14 03:03:27",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-08-14 03:03:27",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-08-14 03:03:27",
       "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
+    },
+    {
+      "added_at": "2026-08-14 03:03:27",
+      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 189561,
       "name": "The Age of Love 2022",
       "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
-    },
-    {
-      "added_at": "2026-08-14 03:03:27",
-      "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2026-08-14 03:03:27",

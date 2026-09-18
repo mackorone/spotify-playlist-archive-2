@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 193186,
+  "num_followers": 193214,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABmIYNokwiPtzPm3z7K//4U80pmZ",
+  "snapshot_id": "AAAAAONx+yocy4Jf8GZq0HTD1CyZbNWV",
   "tracks": [
     {
       "added_at": "2026-09-08 19:58:46",
@@ -39,18 +39,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "RENAN",
-        "url": "https://open.spotify.com/album/3388rmKL5EeHr5edeSiNMj"
+        "name": "Me Tira O Medo",
+        "url": "https://open.spotify.com/album/5xdFKvsfbgfccbSUUYOCG6"
       },
       "artists": [
         {
           "name": "Nesk Only",
           "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "Gabi Vicari",
+          "url": "https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8"
         }
       ],
-      "duration_ms": 159991,
-      "name": "RENAN",
-      "url": "https://open.spotify.com/track/0kqXv4y60p6xqppA7aLV3i"
+      "duration_ms": 135428,
+      "name": "Me Tira O Medo",
+      "url": "https://open.spotify.com/track/2fIReMUdqvdKPtFKCNb4r5"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -131,22 +135,18 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Me Tira O Medo",
-        "url": "https://open.spotify.com/album/5xdFKvsfbgfccbSUUYOCG6"
+        "name": "RENAN",
+        "url": "https://open.spotify.com/album/3388rmKL5EeHr5edeSiNMj"
       },
       "artists": [
         {
           "name": "Nesk Only",
           "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "Gabi Vicari",
-          "url": "https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8"
         }
       ],
-      "duration_ms": 135428,
-      "name": "Me Tira O Medo",
-      "url": "https://open.spotify.com/track/2fIReMUdqvdKPtFKCNb4r5"
+      "duration_ms": 159991,
+      "name": "RENAN",
+      "url": "https://open.spotify.com/track/0kqXv4y60p6xqppA7aLV3i"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Imperativo Categ\u00f3rico",
-        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        }
-      ],
-      "duration_ms": 154593,
-      "name": "Imperativo Categ\u00f3rico",
-      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Refer\u00eancia",
-        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
+        "name": "Imperativo Categ\u00f3rico",
+        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
       },
       "artists": [
         {
-          "name": "Jovem Z",
-          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Refer\u00eancia",
-      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
+      "duration_ms": 154593,
+      "name": "Imperativo Categ\u00f3rico",
+      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Momentos Dif\u00edceis",
+        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "Momentos Dif\u00edceis",
+      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Momentos Dif\u00edceis",
-        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+        "name": "Refer\u00eancia",
+        "url": "https://open.spotify.com/album/0gon4eAbvCM2wRvKEskQR5"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Jovem Z",
+          "url": "https://open.spotify.com/artist/28ptPLU2p1iABFrK5tGe7v"
         }
       ],
-      "duration_ms": 158081,
-      "name": "Momentos Dif\u00edceis",
-      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
+      "duration_ms": 168000,
+      "name": "Refer\u00eancia",
+      "url": "https://open.spotify.com/track/3X1HmQAthMhwGEFxB7SQwA"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Rio De \u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Prod Mkzin",
+          "url": "https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Rio De \u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Te Agrade\u00e7o",
         "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Rio De \u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Prod Mkzin",
-          "url": "https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Rio De \u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
+        }
+      ],
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Melhores Dias",
         "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
-        }
-      ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 133333,
       "name": "Ora\u00e7\u00e3o II",
       "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
         "name": "Lesgo",
         "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 204210,
       "name": "Lesgo",
       "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2026-09-08 19:58:46",
-      "album": {
         "name": "Vejo Tudo",
         "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
       },
@@ -1387,26 +1367,22 @@
     {
       "added_at": "2026-09-08 19:58:46",
       "album": {
-        "name": "Love Sangre",
-        "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
       },
       "artists": [
         {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 173617,
-      "name": "Love Sangre",
-      "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-09-08 19:58:46",
@@ -1431,6 +1407,30 @@
       "duration_ms": 173142,
       "name": "Oferto Eu",
       "url": "https://open.spotify.com/track/1pGlL6OzQVRFh1B8J2Iuuv"
+    },
+    {
+      "added_at": "2026-09-08 19:58:46",
+      "album": {
+        "name": "Love Sangre",
+        "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Love Sangre",
+      "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
     },
     {
       "added_at": "2026-09-08 19:58:46",

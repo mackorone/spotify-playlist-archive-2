@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Idupu Kayitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,491 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,495 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Shankarr Babu Kandukoori](https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB), [Thabitha Sukumar](https://open.spotify.com/artist/4uqxGHM1RqF4cm5rlND2DT) | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT) | 4:02 |
+| 1 | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Shankarr Babu Kandukoori](https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB), [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Srilatha \(From "Idupu Kayitham"\)](https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT) | 4:02 |
 | 2 | [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Chinni Chinni \(From "Itllu Arjuna"\)](https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg) | 4:10 |
 | 3 | [Chilaka \(From "Thellakaagitham"\)](https://open.spotify.com/track/0fF2INV3W1UJALLC2Ctif7) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Chilaka \(From "Thellakaagitham"\)](https://open.spotify.com/album/3RxaWICAznFhAdPe11zkPe) | 4:45 |
 | 4 | [Allakallolamga \(From "Gaja"\)](https://open.spotify.com/track/5rR5vmFvPLjgEn1NnZkZkY) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Mittapalli Surender](https://open.spotify.com/artist/0LUtud7Iv6TKLKNWK7uMbB) | [Allakallolamga \(From "Gaja"\)](https://open.spotify.com/album/7mu1G8eXIaXODNaw6cMuuw) | 3:53 |

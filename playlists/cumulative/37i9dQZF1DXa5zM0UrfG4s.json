@@ -3139,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "F\u00e6m p\u00e5",
+        "url": "https://open.spotify.com/album/2uI49FChDVdZoTFylF7nyC"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "F\u00e6m p\u00e5",
+      "url": "https://open.spotify.com/track/2FOhFFpsehsjpdKA9ZRFxI"
+    },
+    {
+      "album": {
         "name": "F\u00f6rsta G\u00e5ngen I En EPA",
         "url": "https://open.spotify.com/album/0DjX2jGILQdifC55byMol6"
       },
@@ -7645,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Siste refreng",
+        "url": "https://open.spotify.com/album/1oYc55ihHjU5R7AovoHNwh"
+      },
+      "artists": [
+        {
+          "name": "Sebb Ottesen",
+          "url": "https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225622,
+      "name": "Siste refreng",
+      "url": "https://open.spotify.com/track/4tE2FctqyplhSsdrYL5b5Z"
+    },
+    {
+      "album": {
         "name": "Sju Fjell",
         "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
       },
@@ -9376,7 +9412,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"

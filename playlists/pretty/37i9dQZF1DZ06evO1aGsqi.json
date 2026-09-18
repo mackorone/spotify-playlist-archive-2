@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16342,
+  "num_followers": 16348,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAABM4M/3j94mMS/JDehKv83t",
+  "snapshot_id": "aqncAAAAAABwM43G6a4UnGz5j3nytMRF",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mandalorian: Chapter 1 (Original Score)",
-        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 198861,
-      "name": "The Mandalorian",
-      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+      "duration_ms": 89298,
+      "name": "Shakari",
+      "url": "https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1"
     },
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 89298,
-      "name": "Shakari",
-      "url": "https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1"
+      "duration_ms": 198861,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        }
-      ],
-      "duration_ms": 140125,
-      "name": "Wakanda",
-      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CREED: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 114600,
       "name": "Truths (From \"Everything, Everything\" Score)",
       "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
     },
     {
       "added_at": null,

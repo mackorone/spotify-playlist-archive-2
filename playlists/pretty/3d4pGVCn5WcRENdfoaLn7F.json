@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 852,
+  "num_followers": 863,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD7yR5R4n8dqGYvXH4j01ypRTv0ric",
+  "snapshot_id": "AAAD9Zf96X9ZXqRkhYkWejyKk4neDyox",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1119,6 +1119,102 @@
       "duration_ms": 211860,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG"
+    },
+    {
+      "added_at": "2026-09-17 14:10:43",
+      "album": {
+        "name": "Forgotten Song",
+        "url": "https://open.spotify.com/album/3NlyxPgo3lISis3p1T6MSt"
+      },
+      "artists": [
+        {
+          "name": "Dead Assets",
+          "url": "https://open.spotify.com/artist/0b7xLnpLCdam6NfzN9QS7Q"
+        }
+      ],
+      "duration_ms": 206405,
+      "name": "Forgotten Song",
+      "url": "https://open.spotify.com/track/1QdahRPl8rte13K03OOntd"
+    },
+    {
+      "added_at": "2026-09-17 14:17:59",
+      "album": {
+        "name": "The Gauntlet",
+        "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "duration_ms": 186317,
+      "name": "The End (For You)",
+      "url": "https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp"
+    },
+    {
+      "added_at": "2026-09-17 14:45:49",
+      "album": {
+        "name": "Lost In The Darkness.",
+        "url": "https://open.spotify.com/album/6cpcoERgYP8iD8ABpADnz0"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 233707,
+      "name": "Lost In The Darkness.",
+      "url": "https://open.spotify.com/track/3Ly5QSh3yGfNLZJPSuOf3l"
+    },
+    {
+      "added_at": "2026-09-17 17:29:07",
+      "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2XBgvxmYMAaBrl8JnePmBs"
+      },
+      "artists": [
+        {
+          "name": "Kuba Strawa",
+          "url": "https://open.spotify.com/artist/0hLDCx7LOmJCcGIX6u0pSZ"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/5DppNEwfjhj0epwYhmx5VE"
+    },
+    {
+      "added_at": "2026-09-17 17:32:26",
+      "album": {
+        "name": "O amor nao pode parar",
+        "url": "https://open.spotify.com/album/0Js0Dek5wf5KDMtgMsqRBE"
+      },
+      "artists": [
+        {
+          "name": "MELOPIA",
+          "url": "https://open.spotify.com/artist/6SMzun0z88Kfv2rUdkRc4E"
+        }
+      ],
+      "duration_ms": 171317,
+      "name": "O amor nao pode parar",
+      "url": "https://open.spotify.com/track/0kecj9s4fMEkSeBqBjDOHT"
+    },
+    {
+      "added_at": "2026-09-17 18:11:08",
+      "album": {
+        "name": "Rams Ram",
+        "url": "https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T"
+      },
+      "artists": [
+        {
+          "name": "Cam Get'm",
+          "url": "https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh"
+        }
+      ],
+      "duration_ms": 267249,
+      "name": "Rams Ram",
+      "url": "https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

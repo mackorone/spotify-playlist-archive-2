@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 140307,
       "name": "DAMN HOMIE (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/3YJP7MFR6D4R1zFDXmv35p"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 122723,
       "name": "DRIVE BYE",
       "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 121846,
       "name": "INTELLIGENT",
       "url": "https://open.spotify.com/track/0e49QvEBEc03vo0As3Wk7i"
@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -4579,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/3yVIAURS7au1H0uI9tD9RJ"
+      },
+      "artists": [
+        {
+          "name": "430 Money",
+          "url": "https://open.spotify.com/artist/3f3qRCzIAOvGJb72dAO8rs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199071,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/5F7h7YMX9VE3p1BcRaALh7"
+    },
+    {
+      "album": {
         "name": "ROZAY",
         "url": "https://open.spotify.com/album/1K79ej2VVyNJKYrQDbQthM"
       },
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 125805,
       "name": "Switch It Up",
       "url": "https://open.spotify.com/track/2UYDarJXuBsxJfMkgfnJTV"
@@ -5466,7 +5484,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"

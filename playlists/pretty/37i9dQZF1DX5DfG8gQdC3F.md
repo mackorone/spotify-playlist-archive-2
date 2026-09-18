@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Jhené Aiko, Slayyyter, NAV, Dove Cameron, Spiritbox, Sophia Stel, Connor Price, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,659 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,591 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 39 | [Overrated](https://open.spotify.com/track/6B0SRCqeUHWQW9iqoglcpR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Overrated](https://open.spotify.com/album/4rZXNKlNmP7tdTRJXt4PSe) | 3:06 |
 | 40 | [why you mad](https://open.spotify.com/track/5Al81noc3ibJ4JlsyvN9yi) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [why you mad](https://open.spotify.com/album/2ztb2i6jAgPvGNENqyntmL) | 1:38 |
 | 41 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
-| 42 | [Rain](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Rain](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
+| 42 | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Rain \(feat\. Skilla Baby\)](https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz) | 3:00 |
 | 43 | [kingpin](https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [kingpin](https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb) | 2:38 |
 | 44 | [Rip Out Your Eyes](https://open.spotify.com/track/1VPXCaMRqLuL6WH7vRtHKw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Rip Out Your Eyes](https://open.spotify.com/album/0YjloWsPRMejK5paUu0UoE) | 1:50 |
 | 45 | [J'suis là pour rester \(feat\. Arpin Lépine\)](https://open.spotify.com/track/11hQS0642XDJAVn9asFh8w) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [J'suis là pour rester](https://open.spotify.com/album/2hnOqF41sxeU1EayOGUIp3) | 3:03 |

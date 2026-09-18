@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Coco Elise
 
-3,964 songs - 9 day 3 hr 30 min
+3,965 songs - 9 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2147,6 +2147,7 @@
 | [Man](https://open.spotify.com/track/1l8CTi31bZ5BKcl1GckWjH) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Man](https://open.spotify.com/album/2jJmvh73sUtVkAmwOv8TWF) | 3:20 | 2025-01-22 | 2025-03-07 |
 | [Man Down](https://open.spotify.com/track/0Y4LVCIZVLEkho5g2SfgfX) | [Julián Dysart](https://open.spotify.com/artist/0DhHRZO4e0YBPeSXA9aVID) | [Man Down](https://open.spotify.com/album/3uEoo2ginP8FqunYyoml1S) | 2:24 | 2023-03-22 | 2024-01-11 |
 | [Man in the Park](https://open.spotify.com/track/3BQMqxgxehjLaxyLgt9GO4) | [Leg Mode](https://open.spotify.com/artist/6FVvhLD0eZfD1m7imjrze6) | [Man in the Park](https://open.spotify.com/album/69NuC9tbpFTameA8fFOcSm) | 4:31 | 2022-03-22 | 2022-04-27 |
+| [Man may not last](https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Ladybug Mecca](https://open.spotify.com/artist/2gbAU1PZLHR6eSPh0diTuX) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 5:45 | 2026-09-17 |  |
 | [Maniac](https://open.spotify.com/track/7DtR0hvbNoAPujh1d4KIxZ) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Nessence](https://open.spotify.com/artist/7a47reWLeNLY75npFCqa8N) | [Maniac](https://open.spotify.com/album/6vfC3c9jbVRkCFHbkYzsbJ) | 2:03 | 2021-12-01 | 2022-01-13 |
 | [MANIC PIXIE DREAM BOY](https://open.spotify.com/track/3T99pTSG50ydk5NWrWb8t4) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/12RQXbb8aSYoEXkEHEfoVf) | 2:03 | 2022-05-25 | 2023-01-12 |
 | [manny](https://open.spotify.com/track/1aFpHb8n7FrvrZRNUZ4pOM) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [manny](https://open.spotify.com/album/0OV0RFABMKtf5NUIhpteEc) | 1:57 | 2025-06-18 | 2025-08-28 |
@@ -2935,7 +2936,7 @@
 | [Second Chances](https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW) | [Monochrome](https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1) | 2:40 | 2024-02-14 | 2024-04-04 |
 | [Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs) | [1LDK](https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF) | [1LDK](https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL) | 2:52 | 2026-04-08 | 2026-06-18 |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2021-12-01 | 2022-01-13 |
-| [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 | 2026-09-03 |  |
+| [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 | 2026-09-03 | 2026-09-18 |
 | [Sedona](https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er) | [Riley Whittaker](https://open.spotify.com/artist/01M042tT419btz6wpqGoZE) | [Sedona](https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74) | 3:24 | 2024-04-12 | 2024-06-13 |
 | [see\-through](https://open.spotify.com/track/3D7nLxVqGSuieatWoamRRc) | [Rachel Prancer](https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO) | [see\-through](https://open.spotify.com/album/5Xjc8HwvYQSCMfJ1UQWhU9) | 4:07 | 2024-09-11 | 2024-10-10 |
 | [Seeds of Evil](https://open.spotify.com/track/0wExq390PWRzSvpBlfjQTs) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Seeds of Evil](https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf) | 3:07 | 2024-03-27 | 2024-05-16 |

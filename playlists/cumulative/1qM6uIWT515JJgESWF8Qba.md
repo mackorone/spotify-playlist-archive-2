@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-320 songs - 20 hr 1 min
+323 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-11-04 | 2025-12-28 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 | 2025-12-28 |
 | [Addiction](https://open.spotify.com/track/6npXIH9DbzIs472PWdTd7n) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:06 | 2026-03-17 | 2026-05-17 |
+| [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 | 2026-09-17 |  |
 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 | 2026-02-10 | 2026-06-14 |
 | [Alive Again](https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Alive Again](https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum) | 2:58 | 2026-03-21 | 2026-05-19 |
 | [All Alone](https://open.spotify.com/track/0k1C7p9IVaMMvrp4pAJ0f3) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [All Alone](https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC) | 3:46 | 2025-10-29 | 2025-12-28 |
@@ -94,6 +95,7 @@
 | [Disaster](https://open.spotify.com/track/0ETH6Dqd86ZMB9LWtlg1X3) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [The EP](https://open.spotify.com/album/0hea467HMdKdOkqPGTyNk9) | 4:51 | 2026-06-23 | 2026-08-08 |
 | [Dissociate](https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa) | [Social Dissonance](https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr) | [This Is Hell](https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB) | 4:59 | 2026-03-11 | 2026-05-19 |
 | [Don't Stop At The Top](https://open.spotify.com/track/5RqZlbMgesvJ9K3aTZjxBA) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Don't Stop At The Top](https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck) | 4:01 | 2026-01-16 | 2026-02-23 |
+| [Dose of Speed](https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 2:38 | 2026-09-17 |  |
 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 | 2026-05-19 |
 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 | 2026-02-04 | 2026-02-23 |
 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-03-27 |  |
@@ -317,6 +319,7 @@
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2026-01-22 | 2026-02-23 |
 | [What Remains](https://open.spotify.com/track/4oMM9SF5TYscNNN8KHoslX) | [RABBiTHOLE](https://open.spotify.com/artist/5c9jIapeSPaUgi0M1iB6Mi) | [What Remains](https://open.spotify.com/album/6n6yJgKlDj3QKNvuGshOo7) | 3:49 | 2026-06-24 | 2026-08-08 |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2026-01-05 | 2026-02-02 |
+| [When the City Had Lights](https://open.spotify.com/track/5TkLUpNSTx2sFiO5ynwq2O) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When the City Had Lights](https://open.spotify.com/album/5zx9A3KVxyvW32t7qKKt54) | 3:53 | 2026-09-17 |  |
 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-12-08 | 2025-12-28 |
 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 | 2025-10-13 |  |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-12-28 |

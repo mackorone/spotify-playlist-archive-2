@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-623 songs - 1 day 12 hr 55 min
+625 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-04-25 |
 | [Ingen plockar en maskros](https://open.spotify.com/track/55kyGw7WmOpInVrabROr68) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Ingen plockar en maskros](https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC) | 3:43 | 2026-06-04 |  |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
-| [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 |  |
+| [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2026-09-18 |
 | [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 | 2026-02-19 |  |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
 | [Inget är förlåtet](https://open.spotify.com/track/5THaovu6NULW2NGG1nSUqD) | [Joakim Åhlund & Jockum Nordström](https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy) | [Sköldpaddsön](https://open.spotify.com/album/6MSutHWD3PDoiq4darVsq9) | 4:15 | 2026-02-12 | 2026-03-06 |
@@ -329,6 +329,7 @@
 | [Last To Know](https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Last To Know](https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ) | 3:34 | 2026-04-23 | 2026-06-11 |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-13 |
 | [Let Her In](https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Let Her In](https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62) | 3:46 | 2024-06-27 | 2024-08-09 |
+| [Lev](https://open.spotify.com/track/4wV6IolYqFyHA6OGvID5oC) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Lev](https://open.spotify.com/album/0lohbG9HUO2yXaQntCHnwQ) | 2:56 | 2026-09-17 |  |
 | [Leva för alltid \- Sveriges officiella VM\-låt 2026](https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Leva för alltid \(Sveriges officiella VM\-låt 2026\)](https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg) | 3:22 | 2026-05-14 |  |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-06-27 | 2024-08-16 |
 | [Lilla livet](https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Bastard](https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5) | 3:20 | 2025-02-06 | 2026-02-13 |
@@ -361,7 +362,7 @@
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr) | 2:43 | 2024-06-27 | 2024-10-01 |
 | [Mannen i spegeln](https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Mannen i spegeln](https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L) | 3:32 | 2025-06-19 | 2026-04-17 |
 | [Marching To This Drum](https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [Marching To This Drum](https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7) | 3:00 | 2024-10-17 | 2024-12-01 |
-| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 |  |
+| [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 | 2025-11-06 | 2026-09-18 |
 | [Mars Venus](https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0) | [Mars Venus](https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS) | 3:46 | 2024-11-07 | 2025-05-16 |
 | [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-10 | 2024-11-02 |
 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 | 2024-09-26 | 2024-12-06 |
@@ -405,6 +406,7 @@
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Någonting som aldrig hänt](https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Någonting som aldrig hänt](https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq) | 3:01 | 2025-08-14 | 2026-04-27 |
 | [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 | 2026-03-13 |
+| [Något vi behöver](https://open.spotify.com/track/7xqxpjGvMlMYc5Cf4WCqaU) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Just när du trodde allt var över](https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2) | 3:52 | 2026-09-17 |  |
 | [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 | 2026-06-04 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |

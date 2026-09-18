@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -6120,7 +6120,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -8482,7 +8482,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160000,
       "name": "CATEL",
       "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
@@ -8624,6 +8624,24 @@
       "duration_ms": 126937,
       "name": "Ce Motor",
       "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
+    },
+    {
+      "album": {
+        "name": "Despre El",
+        "url": "https://open.spotify.com/album/5YtnfGrPcILTwBgZ3rfIHz"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211967,
+      "name": "Ce S-A Intamplat Cu Noi",
+      "url": "https://open.spotify.com/track/4DTuzPQcPAJCvM4mbfAmkn"
     },
     {
       "album": {
@@ -9618,7 +9636,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -11052,7 +11070,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183439,
       "name": "Cum e sa-ti pacalesti inima",
       "url": "https://open.spotify.com/track/4ZyzJTyO9YGBcmewiXP7n4"
@@ -30182,7 +30200,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -31322,7 +31340,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "NA BELEA",
       "url": "https://open.spotify.com/track/5WUpnmOXjobbEEl9Urs0aL"
@@ -41734,7 +41752,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 182775,
       "name": "Sigur Dar Incet",
       "url": "https://open.spotify.com/track/1GvAEveXYX53btltb0QCxm"
@@ -45054,7 +45072,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -47746,7 +47764,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
@@ -52576,7 +52594,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190415,
       "name": "Zboara Banii",
       "url": "https://open.spotify.com/track/7dHrYWXiuJxotCS6tZrWPT"

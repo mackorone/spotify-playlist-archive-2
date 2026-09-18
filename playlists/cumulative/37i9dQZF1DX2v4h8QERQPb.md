@@ -4,13 +4,14 @@
 
 > Bien Argento 📸 Bardero$
 
-481 songs - 1 day 0 hr 0 min
+483 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#AYFKM \(Freestyle\)](https://open.spotify.com/track/0eFPzxF2X9hlNcgzv3w6z6) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [\#AYFKM \(Freestyle\)](https://open.spotify.com/album/6Rsg3XLgMN3w02847bvAb8) | 1:56 | 2021-11-26 | 2022-04-12 |
 | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/track/2byu6eeLWaBq88ZtusqU4V) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/album/7LGfXrv3UV7GAMuUOQZ37L) | 2:22 | 2021-11-26 | 2025-04-26 |
 | [1 y 1](https://open.spotify.com/track/5KhrajdQ7kr63kt9FedMT1) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [C.A.P.S](https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR) | 2:54 | 2025-05-16 |  |
+| [15MIN AL DIA](https://open.spotify.com/track/1JMvcvyLyS1RsCWk7gOcy7) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o) | [15MIN AL DIA](https://open.spotify.com/album/5WafPBzeiWLHdmJo0oH5OL) | 2:32 | 2026-09-18 |  |
 | [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 | 2022-04-11 | 2022-10-27 |
 | [2 Gramos \(feat\. Homer El Mero Mero\)](https://open.spotify.com/track/7jjSgpWXy3UePS4WrMy4fa) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/72zreB9MSH7K9V8q19AgvV) | 2:53 | 2022-09-22 | 2022-10-28 |
 | [21334 \- Red Bull](https://open.spotify.com/track/42sYKO9iXIJK3tsm9jJvLn) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [BIG MENU](https://open.spotify.com/artist/5J4zBfajQeBkyZuicSOL7Q) | [21334 \(Red Bull\)](https://open.spotify.com/album/03NZ1TUdzSrKP4NAvUXEJY) | 3:15 | 2021-11-26 | 2022-02-19 |
@@ -104,6 +105,7 @@
 | [CON MI GANGA](https://open.spotify.com/track/0JZMjSdMFiVDraXygvrDUF) | [KMI420](https://open.spotify.com/artist/27aZHh70FUjFxP5IPg7dra), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [CON MI GANGA](https://open.spotify.com/album/5JWX1Vq1QbOWhi5ObTSPXs) | 3:00 | 2025-12-12 | 2026-04-25 |
 | [Con Vos](https://open.spotify.com/track/0CHUTfMOOri04WUYwtDQu7) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Con Vos](https://open.spotify.com/album/6pR3IOwXOTHDjblmJm5MGx) | 3:04 | 2025-01-24 | 2025-11-01 |
 | [Conscientes](https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [B Noize](https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf) | [Conscientes](https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16) | 3:01 | 2023-04-07 | 2026-03-21 |
+| [COPA DE DRANK](https://open.spotify.com/track/5bGpKRZ2jiKJHIm4erLqvg) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [The B Brothers](https://open.spotify.com/artist/6aMj3NbElv7ZTyrzy0KNzL) | [MUMBLESS](https://open.spotify.com/album/0bHp1xXazXpEXJiPrUCzbA) | 1:58 | 2026-09-18 |  |
 | [Copyright](https://open.spotify.com/track/2WTq9pwSrr8OfTN3FmGNTS) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [La Ciudad del Pop](https://open.spotify.com/album/3S1ugX75zwHqXYpOTaMmWb) | 3:12 | 2025-09-19 |  |
 | [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol\. 4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 | 2023-04-24 | 2026-04-25 |
 | [CRIMINALISIMO](https://open.spotify.com/track/2IsQ8YtQjHmlWT3hxrngE1) | [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Turro Original](https://open.spotify.com/album/7C6lanUJqywtazIL37RjiC) | 1:51 | 2025-07-04 |  |

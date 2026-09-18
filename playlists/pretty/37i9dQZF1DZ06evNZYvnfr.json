@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5590,
+  "num_followers": 5592,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAABxGCGjaBxd7mktchSs1i+J",
+  "snapshot_id": "aqncAAAAAABrZ32oDy9bvVOxtzYo2j7U",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 259159,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
       },
       "artists": [
         {
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Come to Life",
-      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 202410,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 246688,
-      "name": "It's Raining, It's Pouring",
-      "url": "https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR"
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 241998,
       "name": "Southern Soul",
       "url": "https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 246688,
+      "name": "It's Raining, It's Pouring",
+      "url": "https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR"
     }
   ],
   "unique_name": "This Is Micah Tyler",

@@ -1293,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "Colors Collide",
+        "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215170,
+      "name": "Colors Collide",
+      "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/4J73QQUDkVDbyyvB6PgpLS"
       },
@@ -5288,7 +5310,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 191466,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp"

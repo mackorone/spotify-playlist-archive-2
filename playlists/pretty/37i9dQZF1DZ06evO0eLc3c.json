@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55524,
+  "num_followers": 55539,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAABzA9Gv711J7NW3zW9CmJ8O",
+  "snapshot_id": "aqiKgAAAAADbBjNmWxjJly4BCVQMmKiO",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Ask the Angels",
-      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+      "duration_ms": 189733,
+      "name": "Ask the Angels",
+      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Pumping",
-      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 327026,
       "name": "The Jackson Song",
       "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Pumping",
+      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Summer Cannibals",
-      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Summer Cannibals",
+      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 312440,
-      "name": "Citizen Ship",
-      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -679,6 +663,42 @@
       "duration_ms": 253330,
       "name": "After the Gold Rush",
       "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Things You Leave Behind",
+        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kaye",
+          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
+        },
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 293934,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
       "duration_ms": 200106,
       "name": "My Generation - Live at The Agora, Cleveland, Ohio - January 26, 1976",
       "url": "https://open.spotify.com/track/3tlIFVwnp2lRfjRaSYxtT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Things You Leave Behind",
-        "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kaye",
-          "url": "https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5"
-        },
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 293934,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/6peDfqvBzV9gGLvD8wx5ha"
     },
     {
       "added_at": null,

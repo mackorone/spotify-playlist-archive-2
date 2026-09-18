@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: JEFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,459 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,426 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 6 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 7 | [Yediveren](https://open.spotify.com/track/2OEalqENC2jUcS227aYabQ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yediveren](https://open.spotify.com/album/34r2E12DeCByExQ7vWFPKn) | 3:53 |
 | 8 | [Bir Şansım Daha Olsa](https://open.spotify.com/track/0QhAsknTdlHJnx0YCgteDg) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Bir Şansım Daha Olsa](https://open.spotify.com/album/51sR6pNnpgV0uYkBzrJqAf) | 2:50 |
-| 9 | [Babacan](https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/69CUIpdDVHdyucvmtBMgZm) | [Babacan](https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN) | 3:13 |
+| 9 | [Babacan](https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Babacan](https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN) | 3:13 |
 | 10 | [ZIG ZAG](https://open.spotify.com/track/4OMTqFdVmGXGnV54WfWqbr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Simülasyon](https://open.spotify.com/artist/0JToOVQGiyLAtyUOUvgKhH) | [ZIG ZAG](https://open.spotify.com/album/1TAP7GuVgD9MaJ1a7lJEyL) | 2:00 |
 | 11 | [uzaylılar bile dinliyo](https://open.spotify.com/track/2QuYeqwgiI6HNYWhITTFAG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [uzaylılar bile dinliyo](https://open.spotify.com/album/4s53i9yTjSXfQvkgy6CbR5) | 1:43 |
 | 12 | [Violet](https://open.spotify.com/track/6STjxGrdAGBFuEemDBlpiD) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Violet](https://open.spotify.com/album/4QpvV129ezjfaLZREM7rX2) | 2:12 |

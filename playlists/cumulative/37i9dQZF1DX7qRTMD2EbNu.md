@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Medikal
+> Hottest bars coming live from the 233\.  Cover: M.anifest & O'Kenneth
 
-1,030 songs - 2 day 3 hr 24 min
+1,031 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [No Love](https://open.spotify.com/track/6fcwWCn6zFw6v3cdvktouY) | [Maextro TR](https://open.spotify.com/artist/2oIYkRtmTbThJwX1GfIdni) | [No Love](https://open.spotify.com/album/1KTyF2YQody1nQzzZ8p4Qk) | 2:53 | 2026-02-20 | 2026-02-27 |
 | [No Luck](https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ) | [Kwvdwo Pvnch](https://open.spotify.com/artist/0u9prTI7XmKYiRSR0KcjH9), [Emman](https://open.spotify.com/artist/7nQHvaBA7AKisVxkLQS34d) | [No Luck](https://open.spotify.com/album/38JcKfrL4JsWbUIDoafZCN) | 2:20 | 2023-11-24 | 2023-12-08 |
 | [No More](https://open.spotify.com/track/49ki3oqWJdFEJaEbMCC9SC) | [Kojo Trap](https://open.spotify.com/artist/3LKI86pr57MINaTNab74qI), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [No More](https://open.spotify.com/album/1Ox2kUReJXvoBgK2xJYFiu) | 3:17 | 2024-02-16 | 2025-03-29 |
-| [NO MORE SLEEP](https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO MORE SLEEP](https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q) | 2:49 | 2026-06-19 |  |
+| [NO MORE SLEEP](https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO MORE SLEEP](https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q) | 2:49 | 2026-06-19 | 2026-09-18 |
 | [No Noise](https://open.spotify.com/track/2QbQ8UqMbbmov0bGQSt0b8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [No Noise](https://open.spotify.com/album/3nQlnfFPvJF0lgj0baN8MJ) | 2:20 | 2025-02-21 | 2025-03-01 |
 | [No Off Days](https://open.spotify.com/track/1e3fEe1Aiqs6pLWQSDrtkj) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP), [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Playground](https://open.spotify.com/album/3F7wS0f5KYELc3QPhf6OU6) | 3:20 | 2023-06-22 | 2023-07-14 |
 | [No Opps](https://open.spotify.com/track/5wjVcdwx3j9REM2GPDuXRN) | [REMY DAVID](https://open.spotify.com/artist/4PSyQ3KVA4gYKKNMiXEjAV) | [Pain on Sound](https://open.spotify.com/album/1ZsJwPvltPI79MbYCmYSJP) | 2:33 | 2023-06-16 | 2023-08-11 |
@@ -678,6 +678,7 @@
 | [Oliver Khan](https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Oliver Khan](https://open.spotify.com/album/4z9KOiawTgEyS7JsG6VAn9) | 3:20 | 2023-09-14 | 2023-09-29 |
 | [On God](https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC) | [Eddie Khae](https://open.spotify.com/artist/2pGCVrouJpjRXXfph7O2Lf), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [On God](https://open.spotify.com/album/4G7ZD0J3rDL6MH6PIzYJHq) | 3:03 | 2024-08-30 | 2024-11-08 |
 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:46 | 2023-02-23 | 2023-04-15 |
+| [ON TEN](https://open.spotify.com/track/7ImpI3o1XiuMnrssbqT3xC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [wavypae](https://open.spotify.com/artist/1pWqsgHNFpgWeKQPsSlkYX) | [ON TEN](https://open.spotify.com/album/1b4hOFonYooA8mD5pGbZKr) | 3:04 | 2026-09-18 |  |
 | [On the Road](https://open.spotify.com/track/4Fa25k3fuc5o2CYziDqZpO) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [On the Road](https://open.spotify.com/album/20iynBT6BecWgxrLQyk7AL) | 2:56 | 2024-07-05 | 2024-11-08 |
 | [On The Road \(Far Gone\)](https://open.spotify.com/track/67JXu4tkRwa2IOIMKucwva) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Alba Bwoy](https://open.spotify.com/artist/7BOVmXzFENgxghmIEucyzh), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn) | [On The Road \(Far Gone\)](https://open.spotify.com/album/3SFMW05OvSnfgHGnP8Bf1U) | 2:49 | 2023-02-23 | 2023-03-03 |
 | [On The Road \(Navigating\)](https://open.spotify.com/track/4Iiha3otqci5DaCOiepGIU) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn) | [On The Road \(Navigating\)](https://open.spotify.com/album/6p4AL7KE86FERbj9lsMqML) | 2:13 | 2023-02-10 | 2023-02-24 |
@@ -881,7 +882,7 @@
 | [T0RONT0.](https://open.spotify.com/track/6xBsQSlx7rhQgPV3nqFG1c) | [Terry Babone.](https://open.spotify.com/artist/4E4lpCtFbddqLRx09XJ4F8), [King Fahd](https://open.spotify.com/artist/486umUh84fnYVC8ATOJtHv) | [N0 W OR N£VĀ.](https://open.spotify.com/album/7AovTbW8Z4rYu75hCz1q6E) | 2:22 | 2026-05-15 | 2026-05-19 |
 | [Take Away](https://open.spotify.com/track/2l2euV6MEINdOvBHp5yr7N) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Trenches Babies; Lalid \- The Big Fish](https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg) | 2:04 | 2022-11-25 | 2022-12-02 |
 | [Take Me Back](https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm) | [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Take Me Back](https://open.spotify.com/album/4xv1UAHW28wXU5Up3BWFcH) | 2:38 | 2023-10-27 | 2024-01-05 |
-| [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 | 2025-10-24 |  |
+| [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 | 2025-10-24 | 2026-09-18 |
 | [Tamale Nku](https://open.spotify.com/track/5qsdQMINZSYAEo81C63eDe) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Tamale Nku](https://open.spotify.com/album/6PCgGOsvijmOesRjQhqFhE) | 2:48 | 2026-05-01 | 2026-05-08 |
 | [Tanfo No Ntwam](https://open.spotify.com/track/2Pwqizg86zHPBLQM1U7MKh) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV) | [Tanfo No Ntwam](https://open.spotify.com/album/5YXiG8zQ7oxZqiBE1IRlxT) | 1:40 | 2024-09-13 | 2024-09-20 |
 | [TARGET](https://open.spotify.com/track/3CwlznfJSsskNa0l6iFky0) | [Zotto](https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y), [Questo](https://open.spotify.com/artist/5REZEArOcBsnAhxxRfTu3r) | [TARGET](https://open.spotify.com/album/5p526vD9tRWGZ2vtHNMx4H) | 3:10 | 2025-05-09 | 2025-05-17 |

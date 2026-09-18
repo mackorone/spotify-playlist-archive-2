@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Mizuno: Blue Bird (from \"Naruto\") [Arr. Telleria for Piano]",
+        "url": "https://open.spotify.com/album/7vfkW6iNl1tJkNx65xnTRu"
+      },
+      "artists": [
+        {
+          "name": "Yoshiki Mizuno",
+          "url": "https://open.spotify.com/artist/35oUEKM1r6534EmN1soDCE"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110080,
+      "name": "Blue Bird (from \"Naruto\") [Arr. Telleria for Piano]",
+      "url": "https://open.spotify.com/track/4fCoA9BZaJlR4GJL0V9vRt"
+    },
+    {
+      "album": {
         "name": "TV Animation \"In the Land of Leadale\" Original Soundtrack",
         "url": "https://open.spotify.com/album/5JGyobpgajZLYDTxyF7Mqe"
       },

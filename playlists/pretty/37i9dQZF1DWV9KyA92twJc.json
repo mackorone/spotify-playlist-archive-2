@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05e4\u05d5\u05dc \u05d8\u05e8\u05d0\u05e0\u05e7",
-  "num_followers": 25737,
+  "num_followers": 25733,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-09-03 16:15:07",
-      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2026-09-03 16:15:07",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+        "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay"
       },
       "artists": [
         {
-          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+          "name": "young buta",
+          "url": "https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB"
         }
       ],
-      "duration_ms": 207000,
-      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
+      "duration_ms": 183529,
+      "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk"
     },
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay"
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
       },
       "artists": [
         {
-          "name": "young buta",
-          "url": "https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB"
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
         }
       ],
-      "duration_ms": 183529,
-      "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk"
+      "duration_ms": 207000,
+      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
     },
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+      "duration_ms": 210634,
+      "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE"
     },
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F"
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 210634,
-      "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE"
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2026-09-03 16:15:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: \u6d3e\u5049\u4fca Patrick Brasca",
+  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: LAWA ",
   "name": "\u9ad8\u4eba\u6c23MV",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 152275,
       "name": "100 Degrees",
       "url": "https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73"
+    },
+    {
+      "album": {
+        "name": "U:NFOLD",
+        "url": "https://open.spotify.com/album/17c9mW5MqLtBQudtLXgsya"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184796,
+      "name": "101",
+      "url": "https://open.spotify.com/track/6ceN4yL9T8Nt4Chw7VZE6h"
     },
     {
       "album": {
@@ -176,6 +194,24 @@
       "duration_ms": 188330,
       "name": "BLEU (feat. 9m88)",
       "url": "https://open.spotify.com/track/6rwOn0PdmvFuCD64vJUTZL"
+    },
+    {
+      "album": {
+        "name": "Dear You",
+        "url": "https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242538,
+      "name": "Dear You",
+      "url": "https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD"
     },
     {
       "album": {
@@ -879,6 +915,28 @@
     },
     {
       "album": {
+        "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
+        "url": "https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        },
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226020,
+      "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
+      "url": "https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc"
+    },
+    {
+      "album": {
         "name": "\u8a31\u5149\u6f22",
         "url": "https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp"
       },
@@ -1010,6 +1068,24 @@
       "duration_ms": 193356,
       "name": "\u4e03\u6708\u7684\u6975\u5149",
       "url": "https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u79d2\u4e00\u751f",
+        "url": "https://open.spotify.com/album/02mEibnrWcZczSrhRorn0j"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191641,
+      "name": "\u4e09\u79d2\u4e00\u751f - \u570b\u8a9e\u7248",
+      "url": "https://open.spotify.com/track/3NHwxTGQoweXVhcjQWRcco"
     },
     {
       "album": {
@@ -1819,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "\u5076\u50cf\u5305\u88b1",
+        "url": "https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237433,
+      "name": "\u5076\u50cf\u5305\u88b1",
+      "url": "https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq"
+    },
+    {
+      "album": {
         "name": "\u5077\u5077\u60f3\u5ff5\u4f60 (feat. \u65b9\u6668)",
         "url": "https://open.spotify.com/album/0CBuNM8l1oqJY6aq7sJeQo"
       },
@@ -1856,6 +1950,24 @@
       "duration_ms": 193891,
       "name": "\u5077\u8d70\u4f60\u7684\u5fc3",
       "url": "https://open.spotify.com/track/6UBW4vlrZj1dXZI9MMa47I"
+    },
+    {
+      "album": {
+        "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5I5qcyvJcbvb605e20zfjD"
+      },
+      "artists": [
+        {
+          "name": "Yoyo Sham",
+          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260560,
+      "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
+      "url": "https://open.spotify.com/track/30a9qP26vFkdbkpAdmV6ux"
     },
     {
       "album": {
@@ -2080,6 +2192,24 @@
       "duration_ms": 258042,
       "name": "\u5225\u518d\u7559\u4e0b",
       "url": "https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ"
+    },
+    {
+      "album": {
+        "name": "\u5225\u70ba\u96e3 The Edge of Us",
+        "url": "https://open.spotify.com/album/1Ysln3HNawCk0oywWPDZCx"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "\u5225\u70ba\u96e3 The Edge of Us",
+      "url": "https://open.spotify.com/track/3jXwe24BTMP4Tnq3wtKs6g"
     },
     {
       "album": {
@@ -2766,6 +2896,24 @@
       "duration_ms": 289000,
       "name": "\u5728\u7121\u540d\u6307\u6709\u4f60\u7684\u540d\u5b57",
       "url": "https://open.spotify.com/track/39TS690V0Ct8B8UbTb46Kc"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u662f\u5e73\u7684",
+        "url": "https://open.spotify.com/album/4wO32uSdt4EssIFdEDYKsH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285004,
+      "name": "\u5730\u7403\u662f\u5e73\u7684",
+      "url": "https://open.spotify.com/track/6K5g4gKvdJHPVeCGA5Ok09"
     },
     {
       "album": {
@@ -5630,6 +5778,42 @@
       "duration_ms": 219718,
       "name": "\u6f5b\u53f0\u8a5e",
       "url": "https://open.spotify.com/track/6ox52Son4hwmVghOChjqvk"
+    },
+    {
+      "album": {
+        "name": "\u701f\u7051\u8d70\u4e00\u56de",
+        "url": "https://open.spotify.com/album/4ouOYjKqAGv8wCSEZSH2r4"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u57f9\u5b89",
+          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223003,
+      "name": "\u701f\u7051\u8d70\u4e00\u56de",
+      "url": "https://open.spotify.com/track/3IQMRIeQjcUiVIVnghIDq9"
+    },
+    {
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263068,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
     },
     {
       "album": {

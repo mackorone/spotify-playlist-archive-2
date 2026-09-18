@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Coco Elise",
-  "num_followers": 258422,
+  "num_followers": 258454,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOdj7x8iqgWAXRJsuS1qPgFu+Ax",
+  "snapshot_id": "AAAAAFvluCEjwuXn2HI9AXnHeh8AnN4R",
   "tracks": [
     {
       "added_at": "2026-09-16 14:20:19",
@@ -601,20 +601,28 @@
       "url": "https://open.spotify.com/track/31N3n74RprUGrTPLekOKto"
     },
     {
-      "added_at": "2026-09-03 22:35:47",
+      "added_at": "2026-09-17 16:54:59",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh"
+        "name": "Standing On The Corner \u201cII\"",
+        "url": "https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5"
       },
       "artists": [
         {
           "name": "Standing On The Corner",
           "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        },
+        {
+          "name": "Ladybug Mecca",
+          "url": "https://open.spotify.com/artist/2gbAU1PZLHR6eSPh0diTuX"
         }
       ],
-      "duration_ms": 195217,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U"
+      "duration_ms": 345973,
+      "name": "Man may not last",
+      "url": "https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl"
     },
     {
       "added_at": "2026-08-26 14:02:15",

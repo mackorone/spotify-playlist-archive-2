@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Heartblush",
+        "url": "https://open.spotify.com/album/6psB217RGciVr55Ss6c1MI"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "Heartblush",
+      "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
+    },
+    {
+      "album": {
         "name": "Hearts in Halves",
         "url": "https://open.spotify.com/album/2Z3NZ83Q44ogEhdL2IBSPh"
       },
@@ -3014,6 +3032,24 @@
       "duration_ms": 160253,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+    },
+    {
+      "album": {
+        "name": "I Want You To Know",
+        "url": "https://open.spotify.com/album/31JtWKxmzAse9S34BbXm7O"
+      },
+      "artists": [
+        {
+          "name": "Annika Rani",
+          "url": "https://open.spotify.com/artist/6UWuCJvOXmFa6bFrkPkodU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251700,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/3wHEOCWnonWOIpWYqv6NNh"
     },
     {
       "album": {
@@ -4470,7 +4506,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 210203,
       "name": "Never Love",
       "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
@@ -4676,7 +4712,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 205144,
       "name": "Officially",
       "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
@@ -4932,7 +4968,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 183250,
       "name": "Porcelain Tiles",
       "url": "https://open.spotify.com/track/7M9lnbBWdbP3PuhJHimA16"
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
@@ -5258,6 +5294,24 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "album": {
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/10M6s0HJXqzbZsBXKGRCXi"
+      },
+      "artists": [
+        {
+          "name": "Coco Elise",
+          "url": "https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2h3O5CdVrqkwiDmkWEoTsL"
     },
     {
       "album": {
@@ -5734,6 +5788,24 @@
       "duration_ms": 190093,
       "name": "Slow Mover",
       "url": "https://open.spotify.com/track/4ZCOBG4TjklRxvA1lCdkhD"
+    },
+    {
+      "album": {
+        "name": "Ozonia",
+        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
+      },
+      "artists": [
+        {
+          "name": "The Bures Band",
+          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344666,
+      "name": "SLPM",
+      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
     },
     {
       "album": {

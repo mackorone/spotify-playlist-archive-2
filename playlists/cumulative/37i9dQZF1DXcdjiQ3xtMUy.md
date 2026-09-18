@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Katerina Stikoudi
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Anna Vissi
 
-319 songs - 16 hr 14 min
+320 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Ousia](https://open.spotify.com/track/2BsP53xyo5Nf3HrBbnF0tA) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ousia](https://open.spotify.com/album/0RYLaTL1YzdDKtda4nX6Fc) | 2:22 | 2024-10-17 | 2025-05-09 |
 | [Oute Ligo](https://open.spotify.com/track/70p1lyvyuFmWtX2ia1SxJJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Oute Ligo](https://open.spotify.com/album/2eNJFF5e7TT1ZVnxZIB6EB) | 2:33 | 2024-07-18 | 2024-10-18 |
 | [OXI \- 2024 Edition](https://open.spotify.com/track/22ZJ6ckRr5G0EaMt5gwwUC) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [OXI \(2024 Edition\)](https://open.spotify.com/album/7FWNkIXb1Am6oXzs82cH3X) | 3:45 | 2024-06-27 | 2024-11-01 |
+| [Oxi Giati](https://open.spotify.com/track/7uQ9eH88v18BAlugjw5TtK) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Oxi Giati](https://open.spotify.com/album/1DSDUTin82K7g5KXjxITpn) | 3:53 | 2026-09-17 |  |
 | [Oxygono](https://open.spotify.com/track/5FhNHmFbVAqOYfcj3tLrBg) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [Oxygono](https://open.spotify.com/album/4oEHxKFNdZ6azvJbNhJWd0) | 2:47 | 2025-03-13 | 2025-10-10 |
 | [Paidi Tis Nixtas](https://open.spotify.com/track/7j6ac94YXlQeZHIteZ8y18) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK), [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Paidi Tis Nixtas](https://open.spotify.com/album/5tVo0FWa80In8IvfQtiZmi) | 3:17 | 2024-12-05 | 2025-06-06 |
 | [Panselinos](https://open.spotify.com/track/230Aews21zrVVeaebAndZG) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Panselinos](https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32) | 2:51 | 2024-06-27 | 2024-11-22 |
@@ -287,7 +288,7 @@
 | [Thelw Toso Na Se Dw](https://open.spotify.com/track/1ajWbZobyrOEcPBUb9s2HK) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Thelw Toso Na Se Dw](https://open.spotify.com/album/5xN7LjtUMYOiStB9e2n1rb) | 2:35 | 2026-07-16 |  |
 | [Thes Thelo](https://open.spotify.com/track/0JgU6taqN6BU2FpTLWzRkP) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Elysian](https://open.spotify.com/album/1w9avdSSsgMi0zFRzbiEZY) | 2:37 | 2025-02-20 | 2025-07-04 |
 | [THUMISOU](https://open.spotify.com/track/0NKMw5wj6CKfm0MmjGBwuJ) | [Lydia](https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [THUMISOU](https://open.spotify.com/album/3KTkYzUv7p51TYxJfsw5gh) | 2:37 | 2025-01-16 | 2025-06-14 |
-| [Ti Kaneis?](https://open.spotify.com/track/05Tponzfx2bk9wtpopsHSg) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Ti Kaneis?](https://open.spotify.com/album/0iPJLtcoMXpF1RPQDYXqaz) | 3:04 | 2026-03-26 |  |
+| [Ti Kaneis?](https://open.spotify.com/track/05Tponzfx2bk9wtpopsHSg) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Ti Kaneis?](https://open.spotify.com/album/0iPJLtcoMXpF1RPQDYXqaz) | 3:04 | 2026-03-26 | 2026-09-18 |
 | [Ti Matia](https://open.spotify.com/track/1RvfwM7v9NVFAOiuMxVUUI) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Ti Matia](https://open.spotify.com/album/1V99OWo1goj1y53XjIXrCG) | 3:01 | 2024-06-27 | 2024-07-27 |
 | [TI NA NAI AYTO](https://open.spotify.com/track/6WfPI1T8GMo5Thqknubhpy) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [TI NA NAI AYTO](https://open.spotify.com/album/1NZF6YeQR259jCXfLG8G23) | 2:57 | 2025-06-13 | 2025-08-08 |
 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 | 2024-06-27 | 2024-07-27 |

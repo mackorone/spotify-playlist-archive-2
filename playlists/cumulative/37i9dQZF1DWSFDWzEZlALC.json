@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: amelie",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 147880,
       "name": "ADRENALIN",
       "url": "https://open.spotify.com/track/40uLIxGcvydremPOVvcasV"
@@ -1458,6 +1458,24 @@
       "duration_ms": 136000,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI"
+    },
+    {
+      "album": {
+        "name": "Alkoholmarker",
+        "url": "https://open.spotify.com/album/5KCWxacSIYCPEzvR0yDjcI"
+      },
+      "artists": [
+        {
+          "name": "TumirWeh",
+          "url": "https://open.spotify.com/artist/0mK80Ptz7OGDPVkyGmVmbS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205939,
+      "name": "Alkoholmarker",
+      "url": "https://open.spotify.com/track/2g38XlFv5IdGZ9tT2Y50KY"
     },
     {
       "album": {
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182834,
       "name": "Allerletztes Glas",
       "url": "https://open.spotify.com/track/2IUKuFSamOW2p0DAZOPizK"
@@ -2473,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "ANGST",
+        "url": "https://open.spotify.com/album/05VgxDF1ErInwQP9VTFJzN"
+      },
+      "artists": [
+        {
+          "name": "chiara",
+          "url": "https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "ANGST",
+      "url": "https://open.spotify.com/track/53EPY45fXzjTM4zsfGurCH"
+    },
+    {
+      "album": {
         "name": "Dreiundzwanzig",
         "url": "https://open.spotify.com/album/6i6I3dfo8SHBqLq9MHfJt4"
       },
@@ -2845,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Atme Aus",
+        "url": "https://open.spotify.com/album/44pcNzpCEFT72aWB8rnTGg"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "Atme Aus",
+      "url": "https://open.spotify.com/track/6cZPb49X2iO89TkxlpBjNi"
+    },
+    {
+      "album": {
         "name": "Atme ein",
         "url": "https://open.spotify.com/album/24jXLC04EwMVNMpg3PQint"
       },
@@ -3052,7 +3106,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 238449,
       "name": "Augen sagen anders",
       "url": "https://open.spotify.com/track/583dmgoDGGs2Vj8S86LAFQ"
@@ -4440,7 +4494,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136202,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/3BKLcfmRUJfILu3Ir6xWic"
@@ -5434,7 +5488,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 105234,
       "name": "c.260611",
       "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
@@ -8355,6 +8409,24 @@
     },
     {
       "album": {
+        "name": "Durchschnitt",
+        "url": "https://open.spotify.com/album/6AZM488WtM8fxu590vyMmh"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Durchschnitt",
+      "url": "https://open.spotify.com/track/2LTDRKleIR8PzHeqz4fbt0"
+    },
+    {
+      "album": {
         "name": "d\u00e9sol\u00e9e",
         "url": "https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS"
       },
@@ -10251,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "fehler nach fehler",
+        "url": "https://open.spotify.com/album/3AYOzTFOluN3tISeX9a4Th"
+      },
+      "artists": [
+        {
+          "name": "bjarne bennet",
+          "url": "https://open.spotify.com/artist/6Kc2XyRFPiGZhWyjoq7jEr"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148544,
+      "name": "fehler nach fehler",
+      "url": "https://open.spotify.com/track/71i9gwYxoMOrj4fQ1nD4pw"
+    },
+    {
+      "album": {
         "name": "fehlerlos",
         "url": "https://open.spotify.com/album/2LRZ5FCSAAhCYcIl28i5RS"
       },
@@ -11416,7 +11506,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 118466,
       "name": "f\u00fchlst du das auch",
       "url": "https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf"
@@ -11918,6 +12008,24 @@
       "duration_ms": 131201,
       "name": "gar nichts//demo",
       "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
+    },
+    {
+      "album": {
+        "name": "\u00fcber gestern reden wir morgen",
+        "url": "https://open.spotify.com/album/4gnDXkEKJIEVoYmIrI7IIr"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152201,
+      "name": "garten eden",
+      "url": "https://open.spotify.com/track/4XKjDaNyOadHQ4CNZIgTaq"
     },
     {
       "album": {
@@ -13912,7 +14020,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 184137,
       "name": "heimweg",
       "url": "https://open.spotify.com/track/74GZ5iyuUX1GQMBTiy0KnW"
@@ -17327,6 +17435,24 @@
     },
     {
       "album": {
+        "name": "Kartenhaus",
+        "url": "https://open.spotify.com/album/07GEbBshivHQvamQLLghF6"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279097,
+      "name": "Kartenhaus",
+      "url": "https://open.spotify.com/track/38xbNP5TeQM90LW0FVqbOo"
+    },
+    {
+      "album": {
         "name": "Kater",
         "url": "https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1"
       },
@@ -17652,7 +17778,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 110205,
       "name": "keine manieren",
       "url": "https://open.spotify.com/track/0swWPizsf6eDzg3TNPAMGr"
@@ -17890,7 +18016,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 128000,
       "name": "Kiba Korn",
       "url": "https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn"
@@ -19529,6 +19655,24 @@
     },
     {
       "album": {
+        "name": "Leiser",
+        "url": "https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY"
+      },
+      "artists": [
+        {
+          "name": "LIYO",
+          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180419,
+      "name": "Leiser",
+      "url": "https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS"
+    },
+    {
+      "album": {
         "name": "Letzte Chance",
         "url": "https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK"
       },
@@ -19650,6 +19794,24 @@
       "duration_ms": 188205,
       "name": "Letztes Lied",
       "url": "https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj"
+    },
+    {
+      "album": {
+        "name": "Ganz gew\u00f6hnliche Dinge",
+        "url": "https://open.spotify.com/album/6ortCFyxjR6AyUMxaGKFxZ"
+      },
+      "artists": [
+        {
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202407,
+      "name": "Levanto",
+      "url": "https://open.spotify.com/track/5t9BLe2Z74dNmrV3QZ6qYJ"
     },
     {
       "album": {
@@ -30746,7 +30908,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 142851,
       "name": "Tick Tack",
       "url": "https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh"
@@ -35418,6 +35580,24 @@
       "duration_ms": 135666,
       "name": "Wo sind die Sterne hin",
       "url": "https://open.spotify.com/track/5o4bu8v2nQKArl2lynZO3G"
+    },
+    {
+      "album": {
+        "name": "WOHER WILLST DU WISSEN",
+        "url": "https://open.spotify.com/album/3uViUrp9T78iaoL1ZU2eue"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "WOHER WILLST DU WISSEN",
+      "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"
     },
     {
       "album": {

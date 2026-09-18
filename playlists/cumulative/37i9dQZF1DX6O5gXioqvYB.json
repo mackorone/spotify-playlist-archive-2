@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "tutte le migliori novit\u00e0 indie \ud83c\uddee\ud83c\uddf9  Visconti in cover ",
+  "description": "tutte le migliori novit\u00e0 indie \ud83c\uddee\ud83c\uddf9  Willie Peyote in cover ",
   "name": "Novit\u00e0 Indie Italiano",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 154601,
       "name": "+benzo",
       "url": "https://open.spotify.com/track/0SW7yl4Wizr7U7V4gmbiGA"
+    },
+    {
+      "album": {
+        "name": "+d20min",
+        "url": "https://open.spotify.com/album/5LLlnqdqw2oNLo1qw72TBf"
+      },
+      "artists": [
+        {
+          "name": "giorno mediterraneo",
+          "url": "https://open.spotify.com/artist/6gi9HYYj51PqZ9FCQXwyhS"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "+d20min",
+      "url": "https://open.spotify.com/track/3HtC3Ahfju1jbIDlOrcjhz"
     },
     {
       "album": {
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 206474,
       "name": "Bulloncino",
       "url": "https://open.spotify.com/track/0UsFaxyzJ0lsNQ6n1vcDkV"
@@ -6761,6 +6779,28 @@
     },
     {
       "album": {
+        "name": "Ciao bella Italia (con Piccolo Coro dell'Antoniano)",
+        "url": "https://open.spotify.com/album/1aFw00djFCNeBxTmofY1H6"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        },
+        {
+          "name": "Piccolo Coro dell'Antoniano",
+          "url": "https://open.spotify.com/artist/39t4rvQNzG5GDvZfRYJPXq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182074,
+      "name": "Ciao bella Italia (con Piccolo Coro dell'Antoniano)",
+      "url": "https://open.spotify.com/track/37zCzRSonZDrQjCMW46f68"
+    },
+    {
+      "album": {
         "name": "Ciao Core",
         "url": "https://open.spotify.com/album/1KSr6KOPMJgZmWybqzNcSi"
       },
@@ -8287,6 +8327,28 @@
     },
     {
       "album": {
+        "name": "cos\u00ec diversi",
+        "url": "https://open.spotify.com/album/4vnG8E1YszEa4XCClGFf8j"
+      },
+      "artists": [
+        {
+          "name": "innlovekid",
+          "url": "https://open.spotify.com/artist/51lzHUjR2M0hcJNO61skr8"
+        },
+        {
+          "name": "tre.paranoie",
+          "url": "https://open.spotify.com/artist/56HtEw3WOREhqlODiYQMmA"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144178,
+      "name": "cos\u00ec diversi",
+      "url": "https://open.spotify.com/track/1nm4KcsA30koDIuMz3kpCJ"
+    },
+    {
+      "album": {
         "name": "COWBOY",
         "url": "https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU"
       },
@@ -8746,7 +8808,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 203030,
       "name": "Decidere non so - Amore Audio remix",
       "url": "https://open.spotify.com/track/7C8m1Joc9rkF8Kd7xPYiJH"
@@ -10749,6 +10811,24 @@
     },
     {
       "album": {
+        "name": "El sue\u00f1o",
+        "url": "https://open.spotify.com/album/1OXo9CxDslXCsSHFdD2Tfv"
+      },
+      "artists": [
+        {
+          "name": "Vinnie Marakas",
+          "url": "https://open.spotify.com/artist/7rO4wSpJVcfp1mXLCOgjj0"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "El sue\u00f1o",
+      "url": "https://open.spotify.com/track/4Gcb8E1XLBu1DHLnrliCPj"
+    },
+    {
+      "album": {
         "name": "Elodie",
         "url": "https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A"
       },
@@ -11266,6 +11346,24 @@
       "duration_ms": 163680,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1Yda2AIVMkpymj9QFC00fI"
+    },
+    {
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/1vxPbPzNc4Fp5wvuQ6p6fj"
+      },
+      "artists": [
+        {
+          "name": "Emilio Paranoico",
+          "url": "https://open.spotify.com/artist/2xdOdEbFRAeoFbKMSBu3sL"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133267,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/2SE3PRuAsRCLLIv0sRf8ka"
     },
     {
       "album": {
@@ -12278,7 +12376,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 198897,
       "name": "Formula 1",
       "url": "https://open.spotify.com/track/44LEr0Wn872hRhOzjL3zeH"
@@ -13466,7 +13564,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 178800,
       "name": "girotondo",
       "url": "https://open.spotify.com/track/3kYGjV7BajkpHI1Pw2Wbt8"
@@ -13502,7 +13600,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190368,
       "name": "Gli inutili",
       "url": "https://open.spotify.com/track/56TRSjSWlrG3KQSemL2wu0"
@@ -15856,7 +15954,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 109909,
       "name": "io e te",
       "url": "https://open.spotify.com/track/3r7IaZHDFSOfOnuzNb2fFk"
@@ -16102,7 +16200,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 184042,
       "name": "Jesce Sole",
       "url": "https://open.spotify.com/track/0VETDtz3nTM4JdLFB2gJsx"
@@ -17154,7 +17252,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 275754,
       "name": "La pulsazione della selva",
       "url": "https://open.spotify.com/track/43skUoYyzgqfq90Uf5YPp3"
@@ -17212,7 +17310,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190682,
       "name": "La sinistra \u00e8 morta (feat. Brucher\u00f2 nei pascoli)",
       "url": "https://open.spotify.com/track/1EjaLCsoOihFp7vH3NINpM"
@@ -18054,6 +18152,24 @@
       "duration_ms": 211500,
       "name": "LIBERT\u00c0",
       "url": "https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve"
+    },
+    {
+      "album": {
+        "name": "licia",
+        "url": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171214,
+      "name": "licia",
+      "url": "https://open.spotify.com/track/7p81n4TOcxazBYhwIhXka4"
     },
     {
       "album": {
@@ -20798,7 +20914,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 132800,
       "name": "Mia nonna non si sposer\u00e0 mai",
       "url": "https://open.spotify.com/track/6AmrSKgbadD1vvMWJIS8nR"
@@ -21596,7 +21712,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 158181,
       "name": "MUSICA VELOCE",
       "url": "https://open.spotify.com/track/6X8tOMUlOOOAeI3AOyxKng"
@@ -21640,6 +21756,24 @@
       "duration_ms": 178062,
       "name": "Muy Poca Tierra",
       "url": "https://open.spotify.com/track/2WzEQUR0PSf8guGTFmliVc"
+    },
+    {
+      "album": {
+        "name": "My Blood My Dear",
+        "url": "https://open.spotify.com/album/0J4LZVB6a1pjSziKITMjix"
+      },
+      "artists": [
+        {
+          "name": "Novanta",
+          "url": "https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200489,
+      "name": "My Blood My Dear",
+      "url": "https://open.spotify.com/track/6uw3bXVSShURdZFrm9VbjK"
     },
     {
       "album": {
@@ -21846,7 +21980,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193980,
       "name": "NELLA BOLLA",
       "url": "https://open.spotify.com/track/2hgTPOOfRoRTUejLf9g2qJ"
@@ -22449,6 +22583,24 @@
     },
     {
       "album": {
+        "name": "NON CHIEDERMI DI ABBASSARE",
+        "url": "https://open.spotify.com/album/6f2WKwjG4SBEttz1on6CSC"
+      },
+      "artists": [
+        {
+          "name": "Amore Audio",
+          "url": "https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106562,
+      "name": "NON CHIEDERMI DI ABBASSARE",
+      "url": "https://open.spotify.com/track/4ZGoVHX0NtMjYbvkmuhuyl"
+    },
+    {
+      "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
       },
@@ -22500,6 +22652,24 @@
       "duration_ms": 200066,
       "name": "Non ci si ama solo in primavera",
       "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
+    },
+    {
+      "album": {
+        "name": "Anatomia di uno schianto prolungato",
+        "url": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "Non c\u2019\u00e8 di che",
+      "url": "https://open.spotify.com/track/0I26PC6r2ZLZql9ABDkpYM"
     },
     {
       "album": {
@@ -22750,6 +22920,24 @@
       "duration_ms": 198478,
       "name": "Non sei te",
       "url": "https://open.spotify.com/track/6Ib6dCqFYukeEd0AyQl0ZQ"
+    },
+    {
+      "album": {
+        "name": "oltre al club cosa (ci) resta",
+        "url": "https://open.spotify.com/album/4ZW8ehDMQbU4Uok1Xv6Su3"
+      },
+      "artists": [
+        {
+          "name": "alma",
+          "url": "https://open.spotify.com/artist/387iv3VxSva5gbr0k7bK4T"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256824,
+      "name": "non sento + aria",
+      "url": "https://open.spotify.com/track/3jT9I7NWw3OwBKseJeOZrK"
     },
     {
       "album": {
@@ -27653,6 +27841,24 @@
     },
     {
       "album": {
+        "name": "Quel Che Non Ho Pi\u00f9",
+        "url": "https://open.spotify.com/album/1m3vwHbkhNLcI2mcswm3KO"
+      },
+      "artists": [
+        {
+          "name": "Perturbazione",
+          "url": "https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "Quel Che Non Ho Pi\u00f9",
+      "url": "https://open.spotify.com/track/5XlF7ld7EOpIwPxe6vVcoT"
+    },
+    {
+      "album": {
         "name": "quel poco di cuore",
         "url": "https://open.spotify.com/album/3B5yDXk2AEG1xlt6BTUepo"
       },
@@ -28000,7 +28206,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 234374,
       "name": "questione di tempo",
       "url": "https://open.spotify.com/track/7bAPCO5Z2PiJSSXfQsaEUj"
@@ -30551,6 +30757,24 @@
     },
     {
       "album": {
+        "name": "Senza Colori",
+        "url": "https://open.spotify.com/album/1TbTvGNMHTAzUFFCPbQY4M"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Poi",
+          "url": "https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170961,
+      "name": "Senza Colori",
+      "url": "https://open.spotify.com/track/6uYUjswzL1v6E20pmyUT9Y"
+    },
+    {
+      "album": {
         "name": "Senza le ali",
         "url": "https://open.spotify.com/album/5aUwXsNqggDeMhyMpFBd7e"
       },
@@ -32742,7 +32966,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 194264,
       "name": "Su x gi\u00f9",
       "url": "https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby"
@@ -33384,7 +33608,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 167530,
       "name": "tfat (con Irbis)",
       "url": "https://open.spotify.com/track/3MPxsEhPN1CaDOkkHbYfJ2"
@@ -34853,6 +35077,24 @@
     },
     {
       "album": {
+        "name": "Tutto torna",
+        "url": "https://open.spotify.com/album/4nxAFghXED2viVzlh1RWqf"
+      },
+      "artists": [
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/24iuxoMKP2gDBWQK8InyMl"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Tutto torna",
+      "url": "https://open.spotify.com/track/4VU0ctmkbFPNKfNZl5Jrkv"
+    },
+    {
+      "album": {
         "name": "tuttoaposto",
         "url": "https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA"
       },
@@ -35052,6 +35294,28 @@
       "duration_ms": 223813,
       "name": "Umana",
       "url": "https://open.spotify.com/track/5qMn6DoAwzIWOiMSSTtulJ"
+    },
+    {
+      "album": {
+        "name": "Volume Uno + Due (versione completa)",
+        "url": "https://open.spotify.com/album/0kO5qz1BqIHWxWL5nkrI7I"
+      },
+      "artists": [
+        {
+          "name": "Ribaltavapori",
+          "url": "https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs"
+        },
+        {
+          "name": "Acqua Distillata",
+          "url": "https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242555,
+      "name": "Un altro ballo",
+      "url": "https://open.spotify.com/track/0MiRHHvLP6i5omi3QJ8Vun"
     },
     {
       "album": {
@@ -35560,6 +35824,24 @@
       "duration_ms": 156857,
       "name": "Un'ora di sole",
       "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
+    },
+    {
+      "album": {
+        "name": "Una canzone allegra",
+        "url": "https://open.spotify.com/album/0611vyNUbbaN4b1pxnVhrW"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Una canzone allegra",
+      "url": "https://open.spotify.com/track/3OIpE2rJEoTgRxHHCNMBuB"
     },
     {
       "album": {
@@ -37101,6 +37383,24 @@
     },
     {
       "album": {
+        "name": "Kings Without a Crown",
+        "url": "https://open.spotify.com/album/64V5SJRei1ljbVCh6AKlul"
+      },
+      "artists": [
+        {
+          "name": "Yuppie Flu",
+          "url": "https://open.spotify.com/artist/1qTOyH1u1IfmKKx8LzF8KW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "We're real (in Neverland)",
+      "url": "https://open.spotify.com/track/2OKAc68Hzxb973tvDdknKz"
+    },
+    {
+      "album": {
         "name": "Weaving Song",
         "url": "https://open.spotify.com/album/7e6VT9I5eIIAPXxplVZHDr"
       },
@@ -37332,7 +37632,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 255246,
       "name": "XIII",
       "url": "https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb"

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Leto au top de la première playlist de rap français.
+> Aya Nakamura & La Rvfleuze au top de la première playlist de rap français.
 
-472 songs - 23 hr 34 min
+474 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Gâchette](https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Gâchette](https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w) | 2:38 | 2022-06-09 | 2022-07-22 |
 | [HAINE&SEX](https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DRILL FR](https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN) | 3:21 | 2022-01-06 | 2022-06-10 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-06 | 2025-05-30 |
+| [Histoire sans fin](https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [MATHILDE](https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1) | [Histoire sans fin](https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj) | 3:29 | 2026-09-17 |  |
 | [Hockey](https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Hockey](https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF) | 2:56 | 2025-01-16 | 2025-05-09 |
 | [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 | 2026-08-27 |  |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-26 | 2023-05-19 |
@@ -208,7 +209,7 @@
 | [Je pense à toi](https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:52 | 2026-07-30 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 | 2022-11-11 |
 | [Jerrican \(feat\. La Mano 1.9\)](https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Black House](https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb) | 2:52 | 2025-03-13 | 2025-10-03 |
-| [Jet Set](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Jet Set](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 | 2026-07-02 |  |
+| [Jet Set](https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Jet Set](https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu) | 2:30 | 2026-07-02 | 2026-09-18 |
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |
 | [Job](https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Job](https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP) | 3:21 | 2025-09-11 | 2025-11-07 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-01-12 | 2023-10-20 |
@@ -404,7 +405,7 @@
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 | 2025-03-07 |
 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 | 2025-10-02 | 2026-05-15 |
 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-27 | 2025-07-25 |
-| [Savage](https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Savage](https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua) | 3:25 | 2026-05-07 |  |
+| [Savage](https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Savage](https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua) | 3:25 | 2026-05-07 | 2026-09-18 |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 | 2025-06-06 |
 | [Serrure \#5](https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#5](https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB) | 2:18 | 2025-09-04 | 2026-04-03 |
@@ -439,6 +440,7 @@
 | [Tendance](https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Nés Pour Briller : Book I](https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b) | 3:01 | 2025-03-06 | 2025-09-19 |
 | [Tennessee](https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:55 | 2022-12-01 | 2023-06-09 |
 | [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-09-05 | 2025-01-17 |
+| [TERRIBLE MAN](https://open.spotify.com/track/0LM9OoiHTImJotTo0jMeeE) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [TERRIBLE MAN](https://open.spotify.com/album/6FIfctGFvpjIrg13gzObEv) | 3:01 | 2026-09-17 |  |
 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 | 2024-09-26 | 2025-09-05 |
 | [Tout Pour L'équipe](https://open.spotify.com/track/2A6XI4w9IasxpX9tVGgcHs) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tout Pour L’Equipe](https://open.spotify.com/album/0Dj5KIGp4cHUCS5rsoX0hU) | 3:00 | 2025-04-24 | 2025-10-24 |
 | [Tout recommencer](https://open.spotify.com/track/1EtlH4DyYlU1X9cAIyVFXB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout recommencer](https://open.spotify.com/album/3QsR7SiN3AFBTKNgjgnhrv) | 2:30 | 2022-01-06 | 2022-04-08 |

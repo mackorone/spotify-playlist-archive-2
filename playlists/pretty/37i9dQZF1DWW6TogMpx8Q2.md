@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: moon tang
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Mischa Ip
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,441 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,445 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [tunnel vision](https://open.spotify.com/track/3LQDeCgZ0kxKB4Q7O9vi6F) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [tunnel vision](https://open.spotify.com/album/56ndDq5lJ40nSaRIsSPcMu) | 3:49 |
 | 2 | [蚊螆](https://open.spotify.com/track/68Pno35wJlnYqpUZwhGfbq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [蚊螆](https://open.spotify.com/album/1DZDRm48pIG90GkGdmdSQR) | 3:23 |
-| 3 | [逆風之意](https://open.spotify.com/track/6dWstM5EpHss0H41tf1DEk) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [The Man, The Boy and Him](https://open.spotify.com/album/2Lmk062oVwdq6L8FC8ckAa) | 3:21 |
-| 4 | [人類愛情學](https://open.spotify.com/track/2F7dbWo1kOf5Pm54EpkhEy) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [人類愛情學](https://open.spotify.com/album/0SqKvmiG150o3t2FbYtdUm) | 3:25 |
-| 5 | [提防小手](https://open.spotify.com/track/1I0nqJ7f5D8TS0ImWE2uhh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [提防小手](https://open.spotify.com/album/6GUsq3h1Kokj3YjXBe77CC) | 3:42 |
+| 3 | [提防小手](https://open.spotify.com/track/1I0nqJ7f5D8TS0ImWE2uhh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [提防小手](https://open.spotify.com/album/6GUsq3h1Kokj3YjXBe77CC) | 3:42 |
+| 4 | [逆風之意](https://open.spotify.com/track/6dWstM5EpHss0H41tf1DEk) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [The Man, The Boy and Him](https://open.spotify.com/album/2Lmk062oVwdq6L8FC8ckAa) | 3:21 |
+| 5 | [人類愛情學](https://open.spotify.com/track/2F7dbWo1kOf5Pm54EpkhEy) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [人類愛情學](https://open.spotify.com/album/0SqKvmiG150o3t2FbYtdUm) | 3:25 |
 | 6 | [傷口不算甚麼](https://open.spotify.com/track/2pJz4kNs6XB1gbTJsnJLgh) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [傷口不算甚麼](https://open.spotify.com/album/0sIWDwoiE5NoR7TpAH6RcR) | 3:34 |
 | 7 | [Up and Down（快照 Demo）](https://open.spotify.com/track/4Q2jpVzAh1ryNBjoeRZxvd) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Up and Down（快照 Demo）](https://open.spotify.com/album/2rhs0Xx0DaRl3JYsxyarpz) | 3:59 |
 | 8 | [半糖去冰](https://open.spotify.com/track/5j0f4iKWdpPoqVwDROJgan) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [半糖去冰](https://open.spotify.com/album/6twrevNOErBXmx0inLEoNG) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 99 | [如是因 如是果](https://open.spotify.com/track/1tVcgUxgByb7D8ne8FH5zu) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA) | [如是因 如是果](https://open.spotify.com/album/5H83HRQcJBXmgzGcPu64zD) | 4:38 |
 | 100 | [多謝你自己](https://open.spotify.com/track/73HLm4bnp7QSnH8chPczoO) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [多謝你自己](https://open.spotify.com/album/0bVY9uMWyikjiWk3peaiDX) | 4:19 |
 
-Snapshot ID: `AAAAADGlOPcRUOIajRaiFEz6KmGCWoDQ`
+Snapshot ID: `AAAAALebie43SuK2yump7hvJWCxT01+R`

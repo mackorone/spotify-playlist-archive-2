@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115786,
+  "num_followers": 115790,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9KoItYl5fvPDzOOreFF53yICXT",
+  "snapshot_id": "AAAAABFIKb3PSR3SM9jI2lLSClFuJ7KG",
   "tracks": [
     {
       "added_at": "2026-09-08 19:56:25",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-08 19:56:25",
       "album": {
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2026-09-08 19:56:25",
+      "album": {
         "name": "do avesso",
         "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 246917,
       "name": "do avesso",
       "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
-    },
-    {
-      "added_at": "2026-09-08 19:56:25",
-      "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2026-09-08 19:56:25",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-09-08 19:56:25",
       "album": {
+        "name": "Amar e Perdoar",
+        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Por N\u00f3s",
+      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
+    },
+    {
+      "added_at": "2026-09-08 19:56:25",
+      "album": {
         "name": "Sobre o Amor",
         "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 190377,
       "name": "Chave do Amor",
       "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
-    },
-    {
-      "added_at": "2026-09-08 19:56:25",
-      "album": {
-        "name": "Amar e Perdoar",
-        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Por N\u00f3s",
-      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
     },
     {
       "added_at": "2026-09-08 19:56:25",

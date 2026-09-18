@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring KDAY\. Curated with love by human Spotify editors.
 
-3,673 songs - 9 day 20 hr 53 min
+3,674 songs - 9 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1607,6 +1607,7 @@
 | [i just want to dance](https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [i just want to dance](https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn) | 2:39 | 2025-07-23 | 2025-08-14 |
 | [I Just Want U](https://open.spotify.com/track/3uSXT9fpTYgHWn7RwvkSQJ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Finding Promise In New Frontiers & Wonders](https://open.spotify.com/album/0GESiAtGEj5O6nooSI1vdH) | 2:54 | 2025-06-20 | 2025-07-26 |
 | [I Just Want You To Smile](https://open.spotify.com/track/26jWskVc8NRVYeP2C3noTv) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [I Just Want You To Smile](https://open.spotify.com/album/2wc2zJZngG1XrRmn9F5kko) | 3:42 | 2025-06-28 | 2026-01-15 |
+| [i keep falling in love](https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz) | [Tiiva](https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF) | [i keep falling in love](https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz) | 2:55 | 2026-09-17 |  |
 | [I Know](https://open.spotify.com/track/5Yr2dQUCMLTHp9murXnHwu) | [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [I Know](https://open.spotify.com/album/29bHm6hC13cJZY1zLjoGOe) | 4:15 | 2026-01-16 | 2026-02-12 |
 | [I Know It](https://open.spotify.com/track/3tWizRkyZ5roQD6fqWZVuf) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [I Know It](https://open.spotify.com/album/2fJGRJvukowSvJyk1kwjxV) | 2:32 | 2021-09-15 | 2022-01-27 |
 | [I Know You](https://open.spotify.com/track/6RQvujjx9DUuRHU4YiC49q) | [john claude](https://open.spotify.com/artist/0ZltNAGTFgpl9UEz0wqZSi), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [I Know You](https://open.spotify.com/album/2NmgzsfS7kcbXOPMQ4dixi) | 3:00 | 2025-01-15 | 2025-02-27 |
@@ -3233,7 +3234,7 @@
 | [This Feeling](https://open.spotify.com/track/3o1XSBd0EcC8TRLcZolwIn) | [Excess](https://open.spotify.com/artist/59h2AnpZqPu0NEqzYmcLXd) | [This Feeling](https://open.spotify.com/album/1CKAtsaXJky2O0Hmo4t57V) | 4:44 | 2025-04-16 | 2025-05-24 |
 | [This Feeling](https://open.spotify.com/track/5NMBo5BHUqt6zi0553GQ1p) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5), [STREETSINEZ](https://open.spotify.com/artist/3tVkKqNwApYmnxf6xDmYqN) | [This Feeling](https://open.spotify.com/album/1Aw2hgbCHW9w6Bu4JT9bJx) | 3:52 | 2026-08-14 |  |
 | [This Is How](https://open.spotify.com/track/0zT1HebUKNB3hO3F53ZsMx) | [Zusha](https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z) | [This Is How](https://open.spotify.com/album/59lsgIcpaDAze1gbxMcOf1) | 3:38 | 2025-05-21 | 2025-06-14 |
-| [THIS IS IT](https://open.spotify.com/track/3r3hcFxhw9taWK84knbtXr) | [CASAL](https://open.spotify.com/artist/5PvzAQEqmX0ymcq8SOl38Y) | [THIS IS IT](https://open.spotify.com/album/6hD4cPYOjisWMEFtz6brSG) | 3:16 | 2026-08-06 |  |
+| [THIS IS IT](https://open.spotify.com/track/3r3hcFxhw9taWK84knbtXr) | [CASAL](https://open.spotify.com/artist/5PvzAQEqmX0ymcq8SOl38Y) | [THIS IS IT](https://open.spotify.com/album/6hD4cPYOjisWMEFtz6brSG) | 3:16 | 2026-08-06 | 2026-09-18 |
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-03-16 | 2022-04-28 |
 | [This Is Not What We Came For](https://open.spotify.com/track/5ZtnjWfxZLY0ylQthkatYf) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [This Is Not What We Came For](https://open.spotify.com/album/3EKH9UJ2dx74aES8uOmbxz) | 3:25 | 2026-01-15 | 2026-03-14 |
 | [This Love](https://open.spotify.com/track/5wjv0l8FDhufvyFdokJqG1) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [This Love](https://open.spotify.com/album/7AYgLeHoyIxOYiJcVwVs1c) | 2:37 | 2022-10-05 | 2023-01-19 |

@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,841 songs - 39 day 22 hr 3 min
+16,844 songs - 39 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3894,6 +3894,7 @@
 | [Eogiya Dieora](https://open.spotify.com/track/6THQMyIK8oS7pzSebir6W3) | [Nam Yeji](https://open.spotify.com/artist/6WlyMtRgSMpTSO2R1RARqn) | [Eogiya Dieora](https://open.spotify.com/album/3CZ76rhj6A6rIVrn3s0sig) | 7:18 | 2025-05-02 | 2025-05-09 |
 | [Eonni](https://open.spotify.com/track/2j9YTEF3yc8fJ1sPQCTNiZ) | [Beirut Taxi](https://open.spotify.com/artist/2ZJXX8yQiCD6Y2xEQylUCl) | [언니](https://open.spotify.com/album/4z7MJd0pVVYIGahBdr6s8e) | 4:21 | 2024-09-02 | 2024-09-20 |
 | [EPGIM](https://open.spotify.com/track/1F5B80YGJHzGO277qZbaHv) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [EPGIM](https://open.spotify.com/album/4lpCyLGngUFJtxpihtbrwT) | 4:09 | 2025-12-15 | 2025-12-26 |
+| [EPIKISM \(feat\. Crush\)](https://open.spotify.com/track/0XxRuW3KlcKG9A0oIokj3z) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [EPIKISM](https://open.spotify.com/album/5pkJ6jMEqACeV0QjBjm7Au) | 3:47 | 2026-09-17 |  |
 | [Epilogue](https://open.spotify.com/track/6X1iiupNlH4Mp7v3TiO2fy) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [EPILOGUE](https://open.spotify.com/album/421dV3t6Ko8wdcC5OMdjKa) | 4:14 | 2023-06-15 | 2023-08-10 |
 | [Epilogue](https://open.spotify.com/track/2YiEOXzK5E85TcifJHSZgO) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Epilogue](https://open.spotify.com/album/1nZjkp8CqP0UCYrEjYSxkr) | 3:50 | 2026-03-04 | 2026-03-17 |
 | [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-16 | 2025-06-27 |
@@ -10058,6 +10059,7 @@
 | [On Your Side](https://open.spotify.com/track/0X5vxS3bfXuO5vkIhTDjGW) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [The Song That Is Invisible To The Eyes Is](https://open.spotify.com/album/7lhTuJ1sSUPG1arV4LW8Zq) | 3:50 | 2024-10-30 | 2024-11-08 |
 | [On Your Side](https://open.spotify.com/track/6DmrMG6iTGu2e086WHEPtw) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [On Your Side](https://open.spotify.com/album/3IJF1fOkMAMqnfcLKHjVjX) | 2:46 | 2023-05-22 | 2023-08-10 |
 | [On your way](https://open.spotify.com/track/3rMFoMlSZuNAxqnzlfxTSg) | [Libelante](https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY) | [La Libertà](https://open.spotify.com/album/4pnw3AfVy6A42sC5RjupP2) | 4:17 | 2023-12-13 | 2023-12-22 |
+| [ON\(百\)](https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [ON\(百\)](https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3) | 7:18 | 2026-09-17 |  |
 | [Onam](https://open.spotify.com/track/1eS0JA3q6qOPilp4bYaAv4) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Benny G](https://open.spotify.com/artist/042Z67cXFyZAi3sbnk8IHL) | [Onam](https://open.spotify.com/album/6hYLuQiysGjCjYmkemQq0w) | 1:53 | 2026-06-05 | 2026-06-23 |
 | [ONCE](https://open.spotify.com/track/4S6o1yxyRgZexZObybUOKm) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [ONCE](https://open.spotify.com/album/1iKl22RBthjjCJCGUNjv7Z) | 3:35 | 2023-11-10 | 2023-12-14 |
 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 | 2022-09-05 | 2022-10-15 |
@@ -11347,6 +11349,7 @@
 | [Rock 'N' Roll Star Original Ver.](https://open.spotify.com/track/6VAqX36slXrGbZOwYCRkZ2) | [김신의](https://open.spotify.com/artist/6aWQyaPSRTLH1vayDeeI93) | [Noise in Sync \- Theme Song](https://open.spotify.com/album/0XEaEeU53G6ZDopdkNbDFS) | 3:13 | 2026-05-04 | 2026-05-27 |
 | [Rock Burst](https://open.spotify.com/track/4W9dsOnTnkTUTyL9MWfX6B) | [Boyz\_moon](https://open.spotify.com/artist/0nqE5cSSqBxf5Elo2Lod0D) | [25.9 Summer Jinx](https://open.spotify.com/album/0nAoAiGyZTZEqP9NfulJPb) | 3:20 | 2023-09-28 | 2023-11-11 |
 | [Rock Paper Scissors](https://open.spotify.com/track/0BZI0B75ruY0n0U3p0jYwv) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SET](https://open.spotify.com/album/3yEpcGI83U91ATraIp7lll) | 2:57 | 2026-04-21 | 2026-05-06 |
+| [ROCK RIGHT NOW](https://open.spotify.com/track/4u9VJCExbgtESITph6xw8N) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [BARS](https://open.spotify.com/album/6JqcY3NkAIDdtLFfAe4J50) | 2:29 | 2026-09-17 |  |
 | [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7g57jPAhy12yvPoIS6BenO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Rock Solid \(feat\. Anderson .Paak\)](https://open.spotify.com/album/5vyseN9ZJ5UgstGAuScyiz) | 2:38 | 2026-04-17 | 2026-05-06 |
 | [Rock Star](https://open.spotify.com/track/77fwmS4Zy1VDR0aqFeMui7) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Rock Star](https://open.spotify.com/album/0gWKMdU3QuBTfenehdDrHB) | 3:33 | 2023-07-07 | 2023-08-10 |
 | [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-19 | 2025-05-31 |

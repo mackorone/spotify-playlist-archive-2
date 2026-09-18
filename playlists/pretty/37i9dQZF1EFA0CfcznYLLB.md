@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 312 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 313 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 230 | [Crown Snatcher](https://open.spotify.com/track/25ehmvLg5D5TH0sd6RabSu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 2:36 |
 | 231 | [Get Em In \(Mango Foo, Offset\)](https://open.spotify.com/track/5KD7Le9Mt7dclKEMawarAi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:42 |
 | 232 | [Close to Me](https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:02 |
-| 233 | [Can't Believe It](https://open.spotify.com/track/4H4LrBR0vTvXwtc5ty42ap) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:54 |
-| 234 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 233 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 234 | [Can't Believe It](https://open.spotify.com/track/4H4LrBR0vTvXwtc5ty42ap) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:54 |
 | 235 | [Gotta Question](https://open.spotify.com/track/5rpvsvJ8qHgJSQDoSGQwys) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Double O Baby](https://open.spotify.com/album/2amCTXV3JjDObBU5Q2x6VK) | 3:07 |
 | 236 | [Faya \(feat\. Maestro & Sav12\)](https://open.spotify.com/track/4VraVj9PLgutKC1NEonOxO) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Maestro](https://open.spotify.com/artist/2lpwUyI6sHgmh1DpEcKYIa), [Sav12](https://open.spotify.com/artist/3lDgENYLh2dJYNblkop2PT) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 2:40 |
 | 237 | [Networth](https://open.spotify.com/track/18ZVtN5ZfJKzgvDqbn7NjV) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:17 |
@@ -316,9 +316,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 306 | [Back Track](https://open.spotify.com/track/5wEwf7ynu8UTpreoKDhwHb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:07 |
 | 307 | [Time Out](https://open.spotify.com/track/2GCYRmbId2uFKKxdeICALM) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 2:17 |
 | 308 | [Prescription Drugs](https://open.spotify.com/track/4eG9Tp5czw2Iw2HhNyA6AY) | [MazziOmerta](https://open.spotify.com/artist/7FpZCuK4UTz5VlOc79pkE1) | [Pain 2 Profit](https://open.spotify.com/album/07lZNxBwEKY6Aj9XLDK3i9) | 2:49 |
-| 309 | [Phone Ring](https://open.spotify.com/track/1IcqJ18yQ9EODx8ZaWf2Mp) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [Your Girls Favorite](https://open.spotify.com/album/40bF2tBttPE6ffLMdLXz0Y) | 3:18 |
-| 310 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
-| 311 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
-| 312 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
+| 309 | [Girls Night Out](https://open.spotify.com/track/3QVPm887eEzTxr7kZWD3Hd) | [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [God Don't Call Twice.\. Vol 1](https://open.spotify.com/album/39hIUtvfwljVcsro6s00Kx) | 2:51 |
+| 310 | [Phone Ring](https://open.spotify.com/track/1IcqJ18yQ9EODx8ZaWf2Mp) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [Your Girls Favorite](https://open.spotify.com/album/40bF2tBttPE6ffLMdLXz0Y) | 3:18 |
+| 311 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
+| 312 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
+| 313 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AccfkAAAAACP7VV3NARFK1LAteb63JGu`
+Snapshot ID: `AcclCAAAAABj/hhQfVKF71cvCqsZk3iq`

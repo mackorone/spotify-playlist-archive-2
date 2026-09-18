@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Juicy Luicy",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Piche Kota",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -464,6 +464,24 @@
       "duration_ms": 239627,
       "name": "Aku Berjanji",
       "url": "https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n"
+    },
+    {
+      "album": {
+        "name": "Aku Bisa",
+        "url": "https://open.spotify.com/album/5aHOCUcmyUTAWnGTgpMTV5"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240833,
+      "name": "Aku Bisa",
+      "url": "https://open.spotify.com/track/3BC3irBN5RVAXtdU0f4b8p"
     },
     {
       "album": {
@@ -2998,6 +3016,24 @@
       "duration_ms": 167704,
       "name": "Cinta Diri Sendiri",
       "url": "https://open.spotify.com/track/69G3PsqyDpxfs0RwCRPu1J"
+    },
+    {
+      "album": {
+        "name": "Cinta Ini Membunuhku",
+        "url": "https://open.spotify.com/album/6Rz0zUOcWo3jTWjs77Yass"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253848,
+      "name": "Cinta Ini Membunuhku",
+      "url": "https://open.spotify.com/track/0iV9bS13Ja9glvrpKUMveg"
     },
     {
       "album": {
@@ -6778,6 +6814,28 @@
       "duration_ms": 232241,
       "name": "Kita Sama-Sama, Ya?",
       "url": "https://open.spotify.com/track/2uF6VkqexSWxNdEELDEmte"
+    },
+    {
+      "album": {
+        "name": "Kok Masih Rindu?",
+        "url": "https://open.spotify.com/album/6ZmGnBimcLIsdQLXl2wMb4"
+      },
+      "artists": [
+        {
+          "name": "Akbar Chalay",
+          "url": "https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW"
+        },
+        {
+          "name": "Mingse",
+          "url": "https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162928,
+      "name": "Kok Masih Rindu?",
+      "url": "https://open.spotify.com/track/3fVpFgP2I6kXEgdfIDpRKe"
     },
     {
       "album": {
@@ -11131,6 +11189,24 @@
     },
     {
       "album": {
+        "name": "Sedikit Lebih Lama",
+        "url": "https://open.spotify.com/album/4Fbvo61XvoL4LeeW8qDOtj"
+      },
+      "artists": [
+        {
+          "name": "Piche Kota",
+          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205708,
+      "name": "Sedikit Lebih Lama",
+      "url": "https://open.spotify.com/track/01tIOCXKf5zlXTW34Nm0Tw"
+    },
+    {
+      "album": {
         "name": "Sejauh Dua Benua",
         "url": "https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY"
       },
@@ -12522,12 +12598,12 @@
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        },
-        {
           "name": "Yung Caters",
           "url": "https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
       "date_added": "2026-09-10",
@@ -12768,6 +12844,24 @@
       "duration_ms": 237391,
       "name": "SPEED DIAL #1",
       "url": "https://open.spotify.com/track/6BphkJI46fmiXEWZfPQFl0"
+    },
+    {
+      "album": {
+        "name": "island girl",
+        "url": "https://open.spotify.com/album/3SqmsePfS5FsfyrqzREGfR"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150960,
+      "name": "star",
+      "url": "https://open.spotify.com/track/5B2mE1GD2u2DotWHJQilzf"
     },
     {
       "album": {
@@ -13880,6 +13974,32 @@
       "duration_ms": 325900,
       "name": "Tentangmu, Tenangku - From \"Ibu, Bagaimana Aku Tanpamu?\"",
       "url": "https://open.spotify.com/track/50KLVKPseJNmSnwIDg7bES"
+    },
+    {
+      "album": {
+        "name": "terabas",
+        "url": "https://open.spotify.com/album/7FzI7yQ4IyGpCVMwsTWCX2"
+      },
+      "artists": [
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        },
+        {
+          "name": "Bilal Indrajaya",
+          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
+        },
+        {
+          "name": "The Jansen",
+          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305741,
+      "name": "terabas",
+      "url": "https://open.spotify.com/track/1ImHE0IWsCbyMGun6wtujF"
     },
     {
       "album": {

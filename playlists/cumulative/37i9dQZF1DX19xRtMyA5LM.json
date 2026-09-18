@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: Topperig & Dior, Leblanco, SMIB, Marou & Massin, Mario Cash en meer. ",
+  "description": "\u2757\ufe0fNieuwe tracks: Kevin & JoeyAK, Qlas, Mula en meer. ",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 136538,
       "name": "10/10",
       "url": "https://open.spotify.com/track/61FE4JNjBbyh2z0y6oVCJO"
@@ -118,6 +118,32 @@
       "duration_ms": 148800,
       "name": "100 Gedachtes",
       "url": "https://open.spotify.com/track/22nHlVHnWJ4LYcM2f2rEB4"
+    },
+    {
+      "album": {
+        "name": "100 Tranen",
+        "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "100 Tranen",
+      "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
     },
     {
       "album": {
@@ -881,6 +907,24 @@
     },
     {
       "album": {
+        "name": "AMBITIE",
+        "url": "https://open.spotify.com/album/7KbXGlY6RgyVcTx56evSEc"
+      },
+      "artists": [
+        {
+          "name": "JOJO AIR",
+          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "AMBITIE",
+      "url": "https://open.spotify.com/track/054TRzlsNdW5MewmrYOLx1"
+    },
+    {
+      "album": {
         "name": "AMG Met Matje",
         "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
       },
@@ -940,6 +984,28 @@
       "duration_ms": 117805,
       "name": "Annie",
       "url": "https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK"
+    },
+    {
+      "album": {
+        "name": "ANTWOORD",
+        "url": "https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Zeldzame",
+          "url": "https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "ANTWOORD",
+      "url": "https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ"
     },
     {
       "album": {
@@ -2408,7 +2474,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 169600,
       "name": "Dansvloer",
       "url": "https://open.spotify.com/track/2rjWTsAJFEIEgH1OPDzJ8A"
@@ -3994,7 +4060,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 188387,
       "name": "GINJZ",
       "url": "https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv"
@@ -4138,7 +4204,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 210584,
       "name": "Grafsteen",
       "url": "https://open.spotify.com/track/3KNkkhM1ItwXCi7uATPwVQ"
@@ -5204,7 +5270,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 149284,
       "name": "Isolator",
       "url": "https://open.spotify.com/track/1qVSOM9AhwOsSqwCoClUCX"
@@ -6098,7 +6164,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 142040,
       "name": "Ladder",
       "url": "https://open.spotify.com/track/1bYJMWvBXwcbGJN8SoMqgV"
@@ -6563,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Macho Man",
+        "url": "https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi"
+      },
+      "artists": [
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114520,
+      "name": "Macho Man",
+      "url": "https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0"
+    },
+    {
+      "album": {
         "name": "Maffia Rap",
         "url": "https://open.spotify.com/album/4Fqx17uV0ZIruAPMO4uey6"
       },
@@ -6812,7 +6896,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 115245,
       "name": "Masker af",
       "url": "https://open.spotify.com/track/1iiFznOfOQgAAKczP5bwFb"
@@ -6908,6 +6992,10 @@
       },
       "artists": [
         {
+          "name": "BNT",
+          "url": "https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR"
+        },
+        {
           "name": "Boufi",
           "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
         },
@@ -6922,7 +7010,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Mijn Meisje",
       "url": "https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6"
@@ -7402,6 +7490,24 @@
       "duration_ms": 193500,
       "name": "Neem Je Op",
       "url": "https://open.spotify.com/track/5CJKGvl4QFqm5cnDrBODZB"
+    },
+    {
+      "album": {
+        "name": "Nemen Alles Mee",
+        "url": "https://open.spotify.com/album/7wqxw3sp3VIxtefKGsgINH"
+      },
+      "artists": [
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169144,
+      "name": "Nemen Alles Mee",
+      "url": "https://open.spotify.com/track/0TZA0Wi611mS8EsKU0rGhS"
     },
     {
       "album": {
@@ -8257,6 +8363,24 @@
     },
     {
       "album": {
+        "name": "Papa",
+        "url": "https://open.spotify.com/album/26765TMe72HxU0CNxc6Ezb"
+      },
+      "artists": [
+        {
+          "name": "Zack Ink",
+          "url": "https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134680,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/38kNu2R80Gqnr2fCRckmX8"
+    },
+    {
+      "album": {
         "name": "PAPARAPAPA",
         "url": "https://open.spotify.com/album/2pwLnZEPCDZ2BUbmjTEyi1"
       },
@@ -8554,6 +8678,28 @@
       "duration_ms": 241077,
       "name": "Pijn",
       "url": "https://open.spotify.com/track/1gqisIAHr9y8qn5P45moWn"
+    },
+    {
+      "album": {
+        "name": "Pistache",
+        "url": "https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145373,
+      "name": "Pistache",
+      "url": "https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm"
     },
     {
       "album": {
@@ -9115,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "Richard",
+        "url": "https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sellah",
+          "url": "https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255585,
+      "name": "Richard",
+      "url": "https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j"
+    },
+    {
+      "album": {
         "name": "Rijcke Rapper",
         "url": "https://open.spotify.com/album/1kUmiyYTg9PLnsx62UzecU"
       },
@@ -9166,7 +9330,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171000,
       "name": "Rode Wijn",
       "url": "https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF"
@@ -12160,7 +12324,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 126785,
       "name": "YOLO",
       "url": "https://open.spotify.com/track/2n85FJB84RJNkiNSAFozPn"

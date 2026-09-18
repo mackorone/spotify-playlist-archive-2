@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-549 songs - 1 day 9 hr 46 min
+550 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ahankaari](https://open.spotify.com/track/18WlJUkmC3BbWjCAJEDWxe) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Ahankaari](https://open.spotify.com/album/4fd62SkoUN7TXMgWRpWk8J) | 2:16 | 2025-07-25 | 2026-06-17 |
 | [AJABI](https://open.spotify.com/track/4lvB9XgpciJw8H6V3E3UQN) | [Abu X\-wrong](https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5), [Fazil AS](https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6) | [AJABI](https://open.spotify.com/album/6T669wXMV8GSOfA0MxwdOy) | 3:00 | 2025-02-06 | 2025-04-05 |
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 | 2024-11-15 |
-| [Akale](https://open.spotify.com/track/3mxOqRat5L0KkUAGYvpyCF) | [Feby Mohan](https://open.spotify.com/artist/5YMOSvuvrDBoJQz4XfwyOE), [Evugin](https://open.spotify.com/artist/33QRiIIZlm5Rwc9qwkX5aI) | [Akale](https://open.spotify.com/album/08p7H5AhHYnCNnARMRgatc) | 3:36 | 2026-08-21 |  |
+| [Akale](https://open.spotify.com/track/3mxOqRat5L0KkUAGYvpyCF) | [Feby Mohan](https://open.spotify.com/artist/5YMOSvuvrDBoJQz4XfwyOE), [Evugin](https://open.spotify.com/artist/33QRiIIZlm5Rwc9qwkX5aI) | [Akale](https://open.spotify.com/album/08p7H5AhHYnCNnARMRgatc) | 3:36 | 2026-08-21 | 2026-09-18 |
 | [Akalukayo](https://open.spotify.com/track/6CSDfk6mx4IFbDIu5WKzH5) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Once Upon A Blue Moon](https://open.spotify.com/album/5eGRajC0k09pDYoUKBDfBy) | 4:46 | 2022-06-23 | 2024-11-15 |
 | [Akalunnuvo](https://open.spotify.com/track/1xlToj28XTdE6UvtcAxHgo) | [Ranjin Raj](https://open.spotify.com/artist/4HhPs1nwYZNmP72fuE30BV) | [Akalunnuvo](https://open.spotify.com/album/0fYmodjnLUQvklnheYEl2J) | 3:54 | 2026-09-16 |  |
 | [Akame](https://open.spotify.com/track/3uEOPyMyEmkeNLiXj3MlkS) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Akame](https://open.spotify.com/album/2wV6jmX8o9rlNmfBhu7KYT) | 3:45 | 2024-09-10 | 2025-07-01 |
@@ -260,6 +260,7 @@
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 | 2024-12-07 |
 | [Local Sevens \- Neravo](https://open.spotify.com/track/6lvTnrUSBKIF9VFkLP3Ss3) | [Sahal Muhammed](https://open.spotify.com/artist/59DRwpY5uhR029d3HMd9JX), [Rohith Thiruvanathil](https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA), [Anaswar MK](https://open.spotify.com/artist/4HjOa4fKS2oqEorPN7RrTb) | [Local Sevens \- Neravo](https://open.spotify.com/album/5rMgG4ZD3Zlrasj3puVtGr) | 4:17 | 2025-08-01 | 2026-01-24 |
 | [Love Aane](https://open.spotify.com/track/0HZUKYUkqQ9xYXDoQp4e69) | [Rijo Joseph](https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ) | [Love Aane](https://open.spotify.com/album/1Oc0eIlY34NIimW6j7671L) | 2:41 | 2026-06-11 |  |
+| [Lovely Pain \- From "Saina Music Indie"](https://open.spotify.com/track/0Euaw3gUy6g3J2HvdEMC52) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk) | [Lovely Pain \(From "Saina Music Indie"\)](https://open.spotify.com/album/6e09qLf3124YCDwSuHgYis) | 2:59 | 2026-09-17 |  |
 | [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 | 2024-08-27 | 2025-02-04 |
 | [Luna](https://open.spotify.com/track/7yz02qAkI0vcw5Q9o0ISQw) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Luna](https://open.spotify.com/album/4gnIiBgaCnrA6bLfID5QuR) | 4:11 | 2023-07-13 | 2023-07-28 |
 | [Maamalanaadu](https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH) | [Maamalanaadu](https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY) | 4:18 | 2025-05-06 | 2026-06-17 |

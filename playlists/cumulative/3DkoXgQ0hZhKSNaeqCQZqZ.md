@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-596 songs - 1 day 7 hr 42 min
+597 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [EVIL MUSIC for BAD DOGS \- Dr\. Deimos Remix](https://open.spotify.com/track/4L6UaNSTzlOY5YduNB1OfK) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Dr\. Deimos](https://open.spotify.com/artist/6JTeYzGkuw146EOBkfOuJS) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:42 | 2026-05-05 | 2026-05-18 |
 | [EVIL MUSIC for BAD DOGS \- telemist Remix](https://open.spotify.com/track/3vOMzBTbgkhZxKxcrwWUH1) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Telemist](https://open.spotify.com/artist/300PBQVhN5GJZJjdS20bzO) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:22 | 2026-05-05 | 2026-05-18 |
 | [EVIL MUSIC for BAD DOGS \- Wyntr\. Remix](https://open.spotify.com/track/5pM1CrfFs36Yfk6bOmSfeO) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Wyntr.](https://open.spotify.com/artist/0KewIgBlbp2Jy5exPqyyvM) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 3:08 | 2026-05-05 | 2026-05-18 |
+| [excalibur](https://open.spotify.com/track/6maoOHcCkq2xkjfYmIQ7PD) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv) | [excalibur](https://open.spotify.com/album/44m3DtAd9xER7ZLQ8XGl4W) | 5:10 | 2026-09-17 |  |
 | [Fall End Sea](https://open.spotify.com/track/2V2pkbGY0qZhprUaeQtdAb) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 2:18 | 2023-06-14 |  |
 | [Fallacy](https://open.spotify.com/track/6MfjWLBkGRCybOT4mxU67y) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Fallacy](https://open.spotify.com/album/1PRH0TklfCDJSrzgUF4KbH) | 3:41 | 2023-06-14 |  |
 | [Falling For Americans \- Loprov Remix](https://open.spotify.com/track/4WVpHBt6diUUQ7BLIZcRhq) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [remixes \(may 2025\)](https://open.spotify.com/album/4x64o9ETDcrFAxTml8dtj2) | 3:54 | 2025-10-29 |  |

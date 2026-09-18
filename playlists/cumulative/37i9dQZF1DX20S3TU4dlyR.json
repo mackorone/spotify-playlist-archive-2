@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 168937,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 186837,
       "name": "Arde",
       "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
@@ -3455,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b"
+    },
+    {
+      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -4745,6 +4767,28 @@
     },
     {
       "album": {
+        "name": "Si sale el sol",
+        "url": "https://open.spotify.com/album/4fGHcPPmFApNv88rxzZpxK"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Si sale el sol",
+      "url": "https://open.spotify.com/track/1dEqXqc9uvGkih44NNh9nW"
+    },
+    {
+      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/1xfNIZHzCEj1LkNNpHzPmZ"
       },
@@ -5230,6 +5274,24 @@
       "duration_ms": 260000,
       "name": "This Strange Effect",
       "url": "https://open.spotify.com/track/5XfpYQ0Mj24oHVJ3c0JMOX"
+    },
+    {
+      "album": {
+        "name": "Flores de Asfalto",
+        "url": "https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe"
+      },
+      "artists": [
+        {
+          "name": "Vida Pura",
+          "url": "https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301875,
+      "name": "Tiempo de Sanar",
+      "url": "https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT"
     },
     {
       "album": {
@@ -5858,7 +5920,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"

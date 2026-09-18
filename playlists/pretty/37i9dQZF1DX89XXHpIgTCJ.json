@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 349297,
+  "num_followers": 349331,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
         "name": "Unsung: The Best Of Helmet 1991-1997",
         "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 262160,
       "name": "Just Another Victim",
       "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Unfuck The World",
-      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Skull & Bones",
-        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Can't Get the Best of Me",
-      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
         "name": "Prophets Of Rage",
         "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 190180,
       "name": "Prophets Of Rage",
       "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
+        "name": "Skull & Bones",
+        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Can't Get the Best of Me",
+      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Flesh Of My Flesh, Blood Of My Blood",
-        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
+        "name": "Judgment Night",
+        "url": "https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Teenage Fanclub",
+          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
         },
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 296560,
-      "name": "The Omen",
-      "url": "https://open.spotify.com/track/0II8G1h7J6BGsAA5Sc7Lth"
+      "duration_ms": 265573,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/5H1KBkH6YC1qo8RXlLDeuw"
     }
   ],
   "unique_name": "Rap 'n' Roll",

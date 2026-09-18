@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Lotta",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
   "name": "up next",
   "tracks": [
     {
@@ -4739,6 +4739,24 @@
     },
     {
       "album": {
+        "name": "bunny boy problems",
+        "url": "https://open.spotify.com/album/6Ga8Ft1RTJO7bFAej0Uz5K"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134788,
+      "name": "fiji water angel \u795e\u5c64",
+      "url": "https://open.spotify.com/track/2EMmkAzrNynjNTmqCFqXDi"
+    },
+    {
+      "album": {
         "name": "Fikcje",
         "url": "https://open.spotify.com/album/30272fiEqUNicMf5MoTo26"
       },
@@ -5352,6 +5370,24 @@
       "duration_ms": 138197,
       "name": "GRANATOWE PORSCHE",
       "url": "https://open.spotify.com/track/1sxyNQkN7ZboctIXesWxZl"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160846,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
     },
     {
       "album": {
@@ -9648,7 +9684,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144586,
       "name": "NASA",
       "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
@@ -10233,6 +10269,24 @@
     },
     {
       "album": {
+        "name": "nie wierz\u0119 w bajki",
+        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192679,
+      "name": "nie wierz\u0119 w bajki",
+      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
+    },
+    {
+      "album": {
         "name": "Nie zawsze wszystko",
         "url": "https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM"
       },
@@ -10734,7 +10788,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 177454,
       "name": "noktowizja",
       "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
@@ -12105,6 +12159,28 @@
     },
     {
       "album": {
+        "name": "po co mi to???",
+        "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
+      },
+      "artists": [
+        {
+          "name": "Albo Inaczej",
+          "url": "https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "po co mi to???",
+      "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
+    },
+    {
+      "album": {
         "name": "Po co tyle m\u00f3wi\u0107",
         "url": "https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ"
       },
@@ -12470,7 +12546,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 213088,
       "name": "Po\u017cegnanie z Morzem",
       "url": "https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH"
@@ -12814,7 +12890,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173137,
       "name": "psikus",
       "url": "https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR"
@@ -13342,6 +13418,28 @@
       "duration_ms": 216026,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM"
+    },
+    {
+      "album": {
+        "name": "sad, alone?",
+        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "sad, alone?",
+      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
     },
     {
       "album": {
@@ -17368,7 +17466,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193777,
       "name": "wszystko b\u0119dzie dobrze",
       "url": "https://open.spotify.com/track/1zsrZdi5pfXRPVxmiLrg4j"

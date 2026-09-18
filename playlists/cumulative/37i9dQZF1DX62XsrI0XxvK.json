@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Farrel Hilal",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Gavendri",
   "name": "JIVVA",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 185515,
       "name": "a feeling",
       "url": "https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 227897,
       "name": "Anggap Aku Ada",
       "url": "https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196049,
       "name": "Cantikkuuuuu",
       "url": "https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193452,
       "name": "Didadaku Ada Kamu",
       "url": "https://open.spotify.com/track/3uj8DR1LlANaJe0CixYzGc"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 288000,
       "name": "Don't Fall In Love With A Rockstar",
       "url": "https://open.spotify.com/track/1G3rrZgog8LsbhHIWLwdLN"
@@ -1703,6 +1703,32 @@
     },
     {
       "album": {
+        "name": "TRANSIT",
+        "url": "https://open.spotify.com/album/1A0KHF8Acgqer3O2MYyG42"
+      },
+      "artists": [
+        {
+          "name": "Ezra Kunze",
+          "url": "https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm"
+        },
+        {
+          "name": "Fathan Maulana",
+          "url": "https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4"
+        },
+        {
+          "name": "Monica Karina",
+          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228932,
+      "name": "FORE 5",
+      "url": "https://open.spotify.com/track/64WxX6FZICVtrFEV487lbR"
+    },
+    {
+      "album": {
         "name": "Gadisku",
         "url": "https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9"
       },
@@ -1766,6 +1792,32 @@
       "duration_ms": 218023,
       "name": "Game For Two",
       "url": "https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn"
+    },
+    {
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7Cnev4uEfwCZYtw3OYJbOn"
+      },
+      "artists": [
+        {
+          "name": "Mungare",
+          "url": "https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh"
+        },
+        {
+          "name": "Gideon Beffers",
+          "url": "https://open.spotify.com/artist/5clPsfD5UJ8rIYznlqiHDm"
+        },
+        {
+          "name": "GunZ",
+          "url": "https://open.spotify.com/artist/2tItHfRlpIi2EqChSeogSx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260727,
+      "name": "GAS",
+      "url": "https://open.spotify.com/track/4romMGKzDUkoQdZ8AKhaUw"
     },
     {
       "album": {
@@ -2217,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "hujan dan petir",
+        "url": "https://open.spotify.com/album/1qh9vZrV39vl08Ua8pjssf"
+      },
+      "artists": [
+        {
+          "name": "Amabel Odelia",
+          "url": "https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "hujan dan petir",
+      "url": "https://open.spotify.com/track/0QVF3rDHoCVQx3L0NZrkVT"
+    },
+    {
+      "album": {
         "name": "hush",
         "url": "https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa"
       },
@@ -2600,7 +2670,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 165625,
       "name": "Kamu Lagi",
       "url": "https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT"
@@ -2938,7 +3008,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 171774,
       "name": "Lagi Lagi Kamu",
       "url": "https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc"
@@ -3597,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Asmara and Swag",
+        "url": "https://open.spotify.com/album/5Z1rtvLxAY5ZSQflKm8j39"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Nona Sayange",
+      "url": "https://open.spotify.com/track/3UNz1yeL1jTDOnzrhgxj4H"
+    },
+    {
+      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/0QqJQz2yoBs4ztjlbbsyBt"
       },
@@ -3687,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Sympathy Empathy",
+        "url": "https://open.spotify.com/album/2eU105k3eCAe695QmFI26r"
+      },
+      "artists": [
+        {
+          "name": "Gavendri",
+          "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216560,
+      "name": "ON & ON",
+      "url": "https://open.spotify.com/track/1Nq9Uy3wQy8XtCLjGu1bg2"
+    },
+    {
+      "album": {
         "name": "on and on and on",
         "url": "https://open.spotify.com/album/6fOHMwXFi0fqRpuWSdQlCR"
       },
@@ -3702,7 +3808,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 240340,
       "name": "on and on and on",
       "url": "https://open.spotify.com/track/6tfBYkrr0wvPeXmcIQfH7m"
@@ -4006,7 +4112,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 195925,
       "name": "Rasa dan Rahasia",
       "url": "https://open.spotify.com/track/4tgp7eC73VwyHqpqugVIfd"
@@ -4028,6 +4134,28 @@
       "duration_ms": 246000,
       "name": "RATHER BE / IN HELL",
       "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
+    },
+    {
+      "album": {
+        "name": "Rayuku",
+        "url": "https://open.spotify.com/album/72oe6aAqEHXSBhGc1PPUnd"
+      },
+      "artists": [
+        {
+          "name": "REDI",
+          "url": "https://open.spotify.com/artist/6acBs6Ak3fqD43AlqZKJmt"
+        },
+        {
+          "name": "Tarrarin",
+          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Rayuku",
+      "url": "https://open.spotify.com/track/1mIWxi31N9tcTCmpU7otHm"
     },
     {
       "album": {
@@ -4442,6 +4570,28 @@
       "duration_ms": 242234,
       "name": "Sedetik",
       "url": "https://open.spotify.com/track/1pBptkRZaXHrYMprAJsu8i"
+    },
+    {
+      "album": {
+        "name": "Seng Bale",
+        "url": "https://open.spotify.com/album/4pZirTkk2clQtU2FtRKnqk"
+      },
+      "artists": [
+        {
+          "name": "Ver",
+          "url": "https://open.spotify.com/artist/7AluWoElAgY8ovIcly5hZX"
+        },
+        {
+          "name": "Glen Sebastian",
+          "url": "https://open.spotify.com/artist/2qunaAI3QwX37vYOSzf4Y2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233019,
+      "name": "Seng Bale",
+      "url": "https://open.spotify.com/track/4pZNrO9IUfK5gqbLFPJFD5"
     },
     {
       "album": {

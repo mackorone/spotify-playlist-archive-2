@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-441 songs - 23 hr 33 min
+442 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 | 2024-07-02 |  |
 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 | 2022-05-03 | 2024-07-03 |
 | [Away](https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Illusion](https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20) | 2:40 | 2024-07-02 | 2026-09-16 |
+| [Azumi II](https://open.spotify.com/track/5nX0RhONluKXOWHsqitjps) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Lost in Japan II](https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT) | 4:50 | 2026-09-08 |  |
 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 | 2022-05-03 | 2024-07-03 |
 | [Beautiful \(Feat\. Gaho, Moti, Jung Jin Woo\)](https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [Moti](https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:31 | 2022-05-03 | 2024-07-03 |
 | [Beautiful \(feat\. Hankyul Kim, Yeonhee\)](https://open.spotify.com/track/04J6gmJm4Pa4R3inTJmxtL) | [EUNJI](https://open.spotify.com/artist/2IHZ8x0ukUpGjzHqxFzUHc), [Hankyul Kim](https://open.spotify.com/artist/6mOGOlzmhO2tjAZLxtmAwM), [Yeonhee 연희](https://open.spotify.com/artist/6xsQ8SQfovk9UWyeSKpM27) | [Beautiful](https://open.spotify.com/album/3yekjX5tOlz4dfFLw1UnHA) | 3:53 | 2022-06-30 | 2022-07-04 |
@@ -240,7 +241,7 @@
 | [Mujinas Ramen Shop](https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Yokai](https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r) | 2:41 | 2025-07-25 | 2026-09-07 |
 | [Muramasa](https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Legends of the Past](https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3) | 2:24 | 2024-07-02 |  |
 | [muse](https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [isolation](https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb) | 1:57 | 2024-07-02 |  |
-| [My Friend](https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 3:17 | 2024-07-02 |  |
+| [My Friend](https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 3:17 | 2024-07-02 | 2026-09-18 |
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-06-20 | 2024-06-22 |
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-05-03 | 2022-07-29 |
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-07-22 | 2022-09-09 |

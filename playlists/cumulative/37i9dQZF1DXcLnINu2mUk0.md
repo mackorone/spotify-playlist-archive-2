@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Myles 6ix
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo, Ad
 
-933 songs - 2 day 1 hr 8 min
+934 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [CHRISTIAN DIOR](https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [CHRISTIAN DIOR](https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU) | 3:14 | 2023-06-08 | 2023-06-23 |
 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 | 2024-03-22 | 2024-05-17 |
 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 | 2024-05-16 |  |
-| [Cluedo](https://open.spotify.com/track/39ynx4NKlnCgzeJJizgJYN) | [Margarida Campelo](https://open.spotify.com/artist/3bbmsol5aDwGqorVdy2s50) | [Música de Elevador](https://open.spotify.com/album/1tmJ5IxCHmuqCokvFJ9AnO) | 3:45 | 2026-09-10 |  |
+| [Cluedo](https://open.spotify.com/track/39ynx4NKlnCgzeJJizgJYN) | [Margarida Campelo](https://open.spotify.com/artist/3bbmsol5aDwGqorVdy2s50) | [Música de Elevador](https://open.spotify.com/album/1tmJ5IxCHmuqCokvFJ9AnO) | 3:45 | 2026-09-10 | 2026-09-18 |
 | [coca cola](https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [coca cola](https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G) | 3:39 | 2026-04-30 | 2026-09-16 |
 | [Cognac](https://open.spotify.com/track/6Tp4BGc3sAQmyv07mw6GP5) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [A Casa Ganha Sempre](https://open.spotify.com/album/4FwQ3tBzLbErdeNJZN40C6) | 2:13 | 2025-03-28 | 2025-04-11 |
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
@@ -490,6 +490,7 @@
 | [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 | 2024-10-24 | 2025-02-14 |
 | [Mais Um](https://open.spotify.com/track/0xTGck7kcQuE5FKaV76Ge3) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R) | [Mais Um](https://open.spotify.com/album/18Lz9SXvBWL9KpFxg1PRUx) | 2:36 | 2023-11-10 | 2024-01-19 |
 | [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 | 2023-02-10 | 2023-02-24 |
+| [Mais Vida](https://open.spotify.com/track/6zJ84RziYdMNw6jC7VJmAG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ad](https://open.spotify.com/artist/3y8LoxPD0EoYqWMNd8RvTK) | [Mais Vida](https://open.spotify.com/album/1Lwm2g5j8wrwmcwXjJp2rS) | 4:11 | 2026-09-17 |  |
 | [MAL ME QUERES](https://open.spotify.com/track/6C0sd3cdzCkKv8nYEeT1M1) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Linne Manuel](https://open.spotify.com/artist/16KjpnTgw4z552Y5BPk13t) | [MAL ME QUERES](https://open.spotify.com/album/7modVapi5c7PCiwHJ5btMV) | 2:50 | 2026-06-25 | 2026-07-24 |
 | [mal\-me\-quer](https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [mal\-me\-quer](https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8) | 1:47 | 2023-01-06 | 2023-01-21 |
 | [Mal\-Me\-Queres Amarelos](https://open.spotify.com/track/0vpZYmZBBGvtgw6jCCnb1q) | [BlvckPunch](https://open.spotify.com/artist/0gECWTBjkZ3EUpW6Ww0mUJ), [Pimp Nilo](https://open.spotify.com/artist/2rWBakgQaaMaYtvzgQbV6w) | [Hat\-Trick de Love](https://open.spotify.com/album/5FTbZYQKPFebxVXe3qgPfq) | 3:52 | 2022-09-29 | 2022-10-14 |

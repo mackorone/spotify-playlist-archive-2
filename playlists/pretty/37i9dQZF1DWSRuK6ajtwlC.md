@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Maquinaria Norteña, Keith Nieto en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,492 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,516 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 58 | [Como Los Vaqueros](https://open.spotify.com/track/1p0i3w8Fp0OS2HOzWFPajF) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L) | [Como Los Vaqueros](https://open.spotify.com/album/5B4zC9ph3LVyVY6zwwov9f) | 2:52 |
 | 59 | [Coleccionando Heridas](https://open.spotify.com/track/3NuCBxhOM2t3v9DjBDWTuK) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Exigencia](https://open.spotify.com/artist/48GDxZysa4Y6e21sgKOv2w) | [Coleccionando Heridas](https://open.spotify.com/album/1uIXPLl0XT5G1e6SepOpek) | 3:32 |
 | 60 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
-| 61 | [Carola \- En Vivo](https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:52 |
+| 61 | [Carola \- En Vivo](https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o) | [Javier Rosas](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:52 |
 | 62 | [Morenita Labios Rojos](https://open.spotify.com/track/0wePFf3gxyTvYZypBEjYS7) | [Conjunto Sublime](https://open.spotify.com/artist/1ash7cjQrV4oBv3PKRqbAy) | [Morenita Labios Rojos](https://open.spotify.com/album/3V06wlVQJiBp74bJ23uaIC) | 3:10 |
 | 63 | [Esta Es Tu Cancion](https://open.spotify.com/track/4nVFG5gSLyZieD46oPjIfr) | [Grupo Recio Sax](https://open.spotify.com/artist/2nRQee7TP1f5kKkldRjgim) | [Esta Es Tu Cancion](https://open.spotify.com/album/4WMijqBebnHz9meDSvmrAR) | 3:59 |
 | 64 | [Darte Un Beso](https://open.spotify.com/track/7kkU1RX4EjihogpnFC6FpA) | [Grupo Retro](https://open.spotify.com/artist/0aniQgRAsJgSI1bWuZxv95) | [Darte Un Beso](https://open.spotify.com/album/1vVhu6L4rPrdCpTY1LCNC9) | 3:14 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 75 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
 | 76 | [Bachata Rosa](https://open.spotify.com/track/2TOqDMfqLv8IbXS4gnYn6b) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Bachata Rosa](https://open.spotify.com/album/7LhXGWHOOXbrDfNNgUkE8j) | 3:03 |
 | 77 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 |
-| 78 | [La Gozadera \- En Vivo](https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:54 |
+| 78 | [La Gozadera \- En Vivo](https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC) | [Javier Rosas](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:54 |
 | 79 | [Que Rico](https://open.spotify.com/track/1rNZ4LILRIoatqOni5SFCq) | [Grupo Tentado](https://open.spotify.com/artist/1UEq1yGZitTE8o2ci4MYXZ) | [Que Rico](https://open.spotify.com/album/1VYQLOgXSqSdbZMV2kYhKh) | 3:44 |
-| 80 | [El Negrito \- En Vivo](https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 3:01 |
+| 80 | [El Negrito \- En Vivo](https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t) | [Javier Rosas](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 3:01 |
 | 81 | [Llegaste a Mí](https://open.spotify.com/track/5bb606Kf5eKXe1t8yrexCC) | [La Máquina DEL Norte](https://open.spotify.com/artist/0pryc9Mc794DGWAzT3BYem) | [Llegaste a Mí](https://open.spotify.com/album/3bXJ8HEOei27158cxoiS1p) | 3:38 |
 | 82 | [La Ocurrencia De Mi Jefe](https://open.spotify.com/track/5mbNRTSU2oZlDvLD6prh7U) | [Pemo Gonzalez Y Su Via Norteña](https://open.spotify.com/artist/4ErgrGxkCqG5zJoTkohHRB) | [La Ocurrencia De Mi Jefe](https://open.spotify.com/album/0Yp3iHKxLaYD8IpdGkIoPo) | 2:47 |
 | 83 | [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 |

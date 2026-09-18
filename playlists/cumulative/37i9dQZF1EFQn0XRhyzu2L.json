@@ -10847,6 +10847,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205918,
+      "name": "Sorry To Myself",
+      "url": "https://open.spotify.com/track/2MzIuvJzcDFEEujti2cw3u"
+    },
+    {
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO"
       },

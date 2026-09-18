@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151279,
+  "num_followers": 151299,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -707,30 +707,6 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
-        "name": "Sentido Aranha",
-        "url": "https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "ALAMO",
-          "url": "https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "Sentido Aranha",
-      "url": "https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 200000,
       "name": "Foco",
       "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Sentido Aranha",
+        "url": "https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "ALAMO",
+          "url": "https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t"
+        }
+      ],
+      "duration_ms": 146677,
+      "name": "Sentido Aranha",
+      "url": "https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje"
     },
     {
       "added_at": "2026-08-21 22:01:20",
@@ -815,6 +815,34 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
+        "name": "NOITE DE TRAP",
+        "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Arthurzinho",
+          "url": "https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP"
+        },
+        {
+          "name": "D.A.A.N",
+          "url": "https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v"
+        },
+        {
+          "name": "CASA 11",
+          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "NOITE DE TRAP",
+      "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
         "name": "SP",
         "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
       },
@@ -843,34 +871,6 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "NOITE DE TRAP",
-        "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
-      },
-      "artists": [
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        },
-        {
-          "name": "Arthurzinho",
-          "url": "https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP"
-        },
-        {
-          "name": "D.A.A.N",
-          "url": "https://open.spotify.com/artist/6FoJ1vMKehxpm93fteKX8v"
-        },
-        {
-          "name": "CASA 11",
-          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "NOITE DE TRAP",
-      "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
     },
     {
       "added_at": "2026-08-21 22:01:20",
@@ -931,30 +931,6 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
-        "name": "Spliff",
-        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "Vertigo",
-          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
         "name": "GET RICH",
         "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 139281,
       "name": "GET RICH",
       "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
     },
     {
       "added_at": "2026-08-21 22:01:20",

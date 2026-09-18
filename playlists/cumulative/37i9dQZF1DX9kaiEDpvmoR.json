@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
@@ -6047,6 +6047,28 @@
     },
     {
       "album": {
+        "name": "Lev",
+        "url": "https://open.spotify.com/album/0lohbG9HUO2yXaQntCHnwQ"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        },
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176145,
+      "name": "Lev",
+      "url": "https://open.spotify.com/track/4wV6IolYqFyHA6OGvID5oC"
+    },
+    {
+      "album": {
         "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
         "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
       },
@@ -6662,7 +6684,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 252629,
       "name": "Margaretas s\u00e5ng",
       "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
@@ -7472,6 +7494,24 @@
       "duration_ms": 208159,
       "name": "N\u00e5got ska d\u00f6",
       "url": "https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0"
+    },
+    {
+      "album": {
+        "name": "Just n\u00e4r du trodde allt var \u00f6ver",
+        "url": "https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232869,
+      "name": "N\u00e5got vi beh\u00f6ver",
+      "url": "https://open.spotify.com/track/7xqxpjGvMlMYc5Cf4WCqaU"
     },
     {
       "album": {

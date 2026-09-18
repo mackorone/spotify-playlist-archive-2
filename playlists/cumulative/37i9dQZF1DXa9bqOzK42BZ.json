@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Ee Mungu",
+        "url": "https://open.spotify.com/album/6MTalOCjKLNp572jCMJnqN"
+      },
+      "artists": [
+        {
+          "name": "Dr Sarah K",
+          "url": "https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm"
+        },
+        {
+          "name": "Shachah Team",
+          "url": "https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615815,
+      "name": "Ee Mungu",
+      "url": "https://open.spotify.com/track/4ibQV83z1AdY0h9VXLfKLu"
+    },
+    {
+      "album": {
         "name": "Umenibeba",
         "url": "https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB"
       },
@@ -1156,6 +1178,28 @@
       "duration_ms": 282618,
       "name": "Faraja ya Moyo",
       "url": "https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/62gpSf3rygw2nDFDJldu6N"
+      },
+      "artists": [
+        {
+          "name": "Karungi",
+          "url": "https://open.spotify.com/artist/6UZPRQOTP9ETNx2LHtuH90"
+        },
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/0rPHbjvkc0865miIQL6DQG"
     },
     {
       "album": {
@@ -1734,7 +1778,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 856771,
       "name": "Jemedari",
       "url": "https://open.spotify.com/track/0vf9iDQU5ZPT6vxquVbnRK"
@@ -5132,7 +5176,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 264008,
       "name": "Sijali",
       "url": "https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI"
@@ -6978,7 +7022,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 970500,
       "name": "Yesu Tu",
       "url": "https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv"

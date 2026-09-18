@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vyshak Varma
 
-724 songs - 1 day 16 hr 56 min
+725 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 | 2024-03-08 | 2024-08-03 |
 | [DON'T KNOW](https://open.spotify.com/track/7ibBcvABwZB29w33zQLO5i) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3), [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4) | [TEASER](https://open.spotify.com/album/66JhdhbpW7N08TStp8kMuW) | 2:57 | 2025-10-23 | 2026-02-18 |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
+| [Doni](https://open.spotify.com/track/0ro1PXkPcE8Fp7yDlF3A5H) | [Prathik Shetty](https://open.spotify.com/artist/0yhQlNXfqPZ7OvXf3nRWcY) | [Doni](https://open.spotify.com/album/3RyOL4w7MnR2Hs4zYlNSoa) | 2:15 | 2026-09-16 |  |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Doora](https://open.spotify.com/track/0j6QbbtyE4zJyIpR7Vz9f5) | [Sagar Simha](https://open.spotify.com/artist/5lAKHGEXwmNfVvO6nIn9zG) | [Doora](https://open.spotify.com/album/5TPp4krPiOtsgp5F0WGoDy) | 4:31 | 2026-09-16 |  |
 | [Doora Doora](https://open.spotify.com/track/2kHvNJ3FUeOQP2Y6ubdQJD) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [Doora Doora](https://open.spotify.com/album/2Mcdq1eoQpkqx0BKlcHlKr) | 4:43 | 2025-02-06 | 2025-06-21 |

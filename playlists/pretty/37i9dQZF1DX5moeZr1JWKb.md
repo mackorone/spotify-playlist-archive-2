@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Ali Aka Mind, Apache, Marco Polo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,069 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,072 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 46 | [Iluminado](https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Micelio](https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV) | 2:49 |
 | 47 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:45 |
 | 48 | [Amarilla](https://open.spotify.com/track/0vs0ffsHCGH8czaSNMhHBW) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Amarilla](https://open.spotify.com/album/3TN7Uh65OC86UkcYAjK755) | 2:30 |
-| 49 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/7yjBjpHWCPkjaiL3mFSkqK) | 2:44 |
+| 49 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [El Último Del Tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/7yjBjpHWCPkjaiL3mFSkqK) | 2:44 |
 | 50 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 |
 | 51 | [Palabra de Honor](https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Palabra de Honor](https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB) | 3:37 |
 | 52 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 |

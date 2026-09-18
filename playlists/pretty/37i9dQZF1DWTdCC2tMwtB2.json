@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 136039,
+  "num_followers": 136071,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -539,8 +539,8 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
       },
       "artists": [
         {
@@ -548,13 +548,17 @@
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -635,8 +639,8 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },
       "artists": [
         {
@@ -644,17 +648,13 @@
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        },
-        {
-          "name": "Sharvi Yadav",
-          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
+        "name": "Rehbara",
+        "url": "https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Rehbara",
+      "url": "https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 175200,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
-        "name": "Rehbara",
-        "url": "https://open.spotify.com/album/0WNynwU2UJGix7oCG7FKfR"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Rehbara",
-      "url": "https://open.spotify.com/track/1q82k8tuu1t6t8H8zHMqWs"
     },
     {
       "added_at": "2026-09-02 09:14:00",

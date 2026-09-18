@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 232486,
       "name": "Always Find The Sun",
       "url": "https://open.spotify.com/track/3tXY3nkVN89D0PMoSxlqKA"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 208720,
       "name": "Borrowed Breath",
       "url": "https://open.spotify.com/track/383MmI214e1QJN9crswc6y"
@@ -12223,6 +12223,24 @@
     },
     {
       "album": {
+        "name": "Feed",
+        "url": "https://open.spotify.com/album/1Md9jM9n41WGU4ljO9hxIa"
+      },
+      "artists": [
+        {
+          "name": "rayray",
+          "url": "https://open.spotify.com/artist/3LB1EOdePE8vAvMQ3pc7jY"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209971,
+      "name": "Feed",
+      "url": "https://open.spotify.com/track/1ONK0N5n6ugF46VBQmM3XM"
+    },
+    {
+      "album": {
         "name": "Feel the Men",
         "url": "https://open.spotify.com/album/61oEI3locEfOR9f9gKK6Pv"
       },
@@ -16994,7 +17012,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 123537,
       "name": "I Hope You Like What I've Done With the Place",
       "url": "https://open.spotify.com/track/0tyChi7zZY6hdgJ10DoOTF"
@@ -20122,7 +20140,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 195121,
       "name": "Let's Come Together",
       "url": "https://open.spotify.com/track/5UZ1X7rkAatCJMIYUPD3Yf"
@@ -22113,6 +22131,24 @@
     },
     {
       "album": {
+        "name": "Master Mirror",
+        "url": "https://open.spotify.com/album/19XksSw6XetDMH0OhqIgd2"
+      },
+      "artists": [
+        {
+          "name": "On Every Page",
+          "url": "https://open.spotify.com/artist/70XZr3SXucvGoeGlPJoSWI"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Master Mirror",
+      "url": "https://open.spotify.com/track/70bUBgCGTmbftd5BBpRMKq"
+    },
+    {
+      "album": {
         "name": "Wizard Orgy",
         "url": "https://open.spotify.com/album/3k9kRwrBahoIYVUkNdtUDf"
       },
@@ -23070,7 +23106,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 179250,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6CXfXWt1v8YdK1rWy3tGXd"
@@ -24533,6 +24569,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/2aOAUdx4KfRRjutYqOxf6x"
+      },
+      "artists": [
+        {
+          "name": "VELRAVEN",
+          "url": "https://open.spotify.com/artist/1K4ST4wcSxGAmnx9QV6sst"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162528,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3BNEownrtdFYhF8o7SU3tF"
+    },
+    {
+      "album": {
         "name": "No more words",
         "url": "https://open.spotify.com/album/0BI0su7jKXRhohFTwBFvsp"
       },
@@ -24948,6 +25002,24 @@
       "duration_ms": 200410,
       "name": "Nosso Som",
       "url": "https://open.spotify.com/track/0uIVysZ0HlAyRWdjGoVY0r"
+    },
+    {
+      "album": {
+        "name": "Future Nobel Peace Prize Winner",
+        "url": "https://open.spotify.com/album/6vsh4MIn1OKyHCvRbpcb6C"
+      },
+      "artists": [
+        {
+          "name": "Mayor Wertz",
+          "url": "https://open.spotify.com/artist/1RBiW28bTZgELaDjESOOj6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182805,
+      "name": "Not Another Chicken Place",
+      "url": "https://open.spotify.com/track/2JcbJSeByCx55aILkGo5dX"
     },
     {
       "album": {
@@ -27114,7 +27186,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190000,
       "name": "Pink Sludge",
       "url": "https://open.spotify.com/track/262wgSAnWAoQV56qo4Jx6n"
@@ -28574,7 +28646,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 103051,
       "name": "Reek",
       "url": "https://open.spotify.com/track/5FjKL111Gjd3X2cAtkDsS3"
@@ -32812,6 +32884,24 @@
     {
       "album": {
         "name": "Spinning",
+        "url": "https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE"
+      },
+      "artists": [
+        {
+          "name": "Hard To Miss",
+          "url": "https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228036,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd"
+    },
+    {
+      "album": {
+        "name": "Spinning",
         "url": "https://open.spotify.com/album/5779jVW9nZJopL21dLqLyy"
       },
       "artists": [
@@ -34852,6 +34942,24 @@
       "duration_ms": 275160,
       "name": "Technophobia",
       "url": "https://open.spotify.com/track/0rzrA9sRqki2CsA9bbWM8p"
+    },
+    {
+      "album": {
+        "name": "Tekk Und Tina",
+        "url": "https://open.spotify.com/album/3RLSvaxo3udWLWIgAorfLh"
+      },
+      "artists": [
+        {
+          "name": "Edtack",
+          "url": "https://open.spotify.com/artist/1lHKDOEb9kK1RXZTmfeiqW"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Tekk Und Tina",
+      "url": "https://open.spotify.com/track/5Nd252b7KZ7cTtc1IbQzQm"
     },
     {
       "album": {
@@ -38601,6 +38709,24 @@
     },
     {
       "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI"
+      },
+      "artists": [
+        {
+          "name": "Ruido Cassette",
+          "url": "https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO"
+    },
+    {
+      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/2IhwgZkqWixLb13jSpeVu3"
       },
@@ -41294,7 +41420,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 255372,
       "name": "Yearn",
       "url": "https://open.spotify.com/track/6dOLvFIh8RgSLj6NN5k0yG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Jhen\u00e9 Aiko",
+  "description": "The best in South African and international R&B. Cover: TEEKS",
   "name": "R&Beats",
   "tracks": [
     {
@@ -4943,6 +4943,28 @@
     },
     {
       "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/5jXUCN23b2kr4SAl7vTegF"
+      },
+      "artists": [
+        {
+          "name": "Ila Nia",
+          "url": "https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp"
+        },
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt"
+    },
+    {
+      "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
       },
@@ -7386,7 +7408,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
@@ -8256,7 +8278,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 198620,
       "name": "Natural",
       "url": "https://open.spotify.com/track/5bLOAeebzyZRqAtrQ6OEwk"
@@ -8976,6 +8998,24 @@
       "duration_ms": 203265,
       "name": "overdose",
       "url": "https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270359,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
     },
     {
       "album": {
@@ -9996,6 +10036,24 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "album": {
+        "name": "RUINED",
+        "url": "https://open.spotify.com/album/10IH6HzfaNTstDkxRaiDI9"
+      },
+      "artists": [
+        {
+          "name": "Mxchael Blue",
+          "url": "https://open.spotify.com/artist/5bJOo7eWmzC7Q4aWFcsGxc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "RUINED",
+      "url": "https://open.spotify.com/track/74PkDLU2lOKPVV73zKc7Ne"
     },
     {
       "album": {
@@ -12602,7 +12660,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 240000,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"

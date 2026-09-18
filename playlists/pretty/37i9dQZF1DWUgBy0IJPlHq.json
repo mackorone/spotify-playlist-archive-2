@@ -1,13 +1,45 @@
 {
   "description": "A new shade of Country. Cover: Angela Autumn\n",
-  "num_followers": 557555,
+  "num_followers": 557585,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASr50KU9bl7pr3yh0MsraaIZWaD",
+  "snapshot_id": "AAAAAMLehsnY8CaiN7+xr1viNV90Lh72",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
+    },
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
@@ -31,34 +63,18 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "My Whole World",
-        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
         }
       ],
-      "duration_ms": 247694,
-      "name": "My Whole World",
-      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Pair of Dice",
-        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 269833,
-      "name": "Pair of Dice",
-      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -79,50 +95,18 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
+        "name": "Pair of Dice",
+        "url": "https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL"
       },
       "artists": [
         {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 182511,
-      "name": "Bleach Bugs",
-      "url": "https://open.spotify.com/track/1zDTz02XSqy4v1EadMothw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "So Much For Goodbyes",
-        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 251073,
-      "name": "Carry Us Home",
-      "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Wild Woman",
-        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 179303,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+      "duration_ms": 269833,
+      "name": "Pair of Dice",
+      "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -179,18 +163,18 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4gOLqWKnL15bfDqymX59re"
+        "name": "So Much For Goodbyes",
+        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu"
       },
       "artists": [
         {
-          "name": "Paige Plaisance",
-          "url": "https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 249251,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/0rorWZIu2F2EmYrLEN9P5F"
+      "duration_ms": 251073,
+      "name": "Carry Us Home",
+      "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -212,7 +196,7 @@
       "added_at": "2026-09-11 04:01:15",
       "album": {
         "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
       },
       "artists": [
         {
@@ -220,9 +204,25 @@
           "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
         }
       ],
-      "duration_ms": 170199,
-      "name": "Goldmine",
-      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
+      "duration_ms": 227727,
+      "name": "America's Greatest Burnout",
+      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4gOLqWKnL15bfDqymX59re"
+      },
+      "artists": [
+        {
+          "name": "Paige Plaisance",
+          "url": "https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9"
+        }
+      ],
+      "duration_ms": 249251,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/0rorWZIu2F2EmYrLEN9P5F"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "Hi-Fi",
-        "url": "https://open.spotify.com/album/6Yj0yHeoiGgmvW82Gjv7xA"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Hi-Fi",
-      "url": "https://open.spotify.com/track/2W7L5fyCkI84EsUiffADwj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
         "name": "Lost Child",
         "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 211346,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
+        "name": "Hi-Fi",
+        "url": "https://open.spotify.com/album/6Yj0yHeoiGgmvW82Gjv7xA"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Hi-Fi",
+      "url": "https://open.spotify.com/track/2W7L5fyCkI84EsUiffADwj"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
         "name": "As Is",
         "url": "https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "Better Let It Be",
-        "url": "https://open.spotify.com/album/6GZjuLANwB81S17oFH2E2Y"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bishop",
-          "url": "https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Better Let It Be",
-      "url": "https://open.spotify.com/track/6dO9pthOKVNGOYkhPlnAw1"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
         "name": "Knuckle Sandwich",
         "url": "https://open.spotify.com/album/5JNCv7fEZx40ZRP5CFsPYs"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 265401,
       "name": "Loving You Like That",
       "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Heavy Tobacco",
-        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 189609,
-      "name": "Heavy Tobacco",
-      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -863,38 +847,6 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4251N7HsF65KjwM2yVQCvR"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5WiiNdKEQUnRP9Wst39PIr"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "America's Greatest Burnout",
-      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/1swweRKUk4FzJMCZikUpce"
       },
@@ -907,22 +859,6 @@
       "duration_ms": 174082,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/7g05ddp2XsgBvvUhTnXLoY"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Made You Look",
-        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 174469,
-      "name": "Perfect If You Ask Me",
-      "url": "https://open.spotify.com/track/0T3Xoxq4RKiKAveyZ7Nk6C"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -943,22 +879,6 @@
       "duration_ms": 229093,
       "name": "Planting by the Signs",
       "url": "https://open.spotify.com/track/7qB8Pvr0oWnO92MXnv8t8V"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Silver Promise",
-        "url": "https://open.spotify.com/album/6wffYgHLDDT84sTowEcEPr"
-      },
-      "artists": [
-        {
-          "name": "Presley Haile",
-          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "Silver Promise",
-      "url": "https://open.spotify.com/track/1W38NU5gapVcdoYN4JIBzf"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -995,6 +915,22 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 182511,
+      "name": "Bleach Bugs",
+      "url": "https://open.spotify.com/track/1zDTz02XSqy4v1EadMothw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
         "name": "RECOVERY",
         "url": "https://open.spotify.com/album/4ePLNi3bmKTJAYvAgcZc8l"
       },
@@ -1023,22 +959,6 @@
       "duration_ms": 222793,
       "name": "Fire Drill",
       "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Sober Somewhere",
-        "url": "https://open.spotify.com/album/52omEMGJEM5s3cGZRdG2S4"
-      },
-      "artists": [
-        {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Sober Somewhere",
-      "url": "https://open.spotify.com/track/1Lq3od1BpSfzY99iDJd3oH"
     },
     {
       "added_at": "2026-09-11 04:01:15",

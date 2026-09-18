@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152107,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/26YDMYJpw4NG96qjvcZspi"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK"
       },

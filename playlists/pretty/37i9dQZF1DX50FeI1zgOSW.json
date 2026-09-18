@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sam Vishal",
-  "num_followers": 21281,
+  "num_followers": 21299,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMENnSY80tBrK08GX1IpR4QjkXC",
+  "snapshot_id": "AAAAAMbfR9XZKoO+D3iPtX5CFnkoTVAQ",
   "tracks": [
     {
       "added_at": "2026-09-02 15:26:39",
@@ -197,6 +197,26 @@
       "url": "https://open.spotify.com/track/6YhxNJfx2PluibGhw8CND2"
     },
     {
+      "added_at": "2026-09-08 07:23:07",
+      "album": {
+        "name": "En Kangal",
+        "url": "https://open.spotify.com/album/6hJpb0UAUPxuEiw7hen6A6"
+      },
+      "artists": [
+        {
+          "name": "SHRU",
+          "url": "https://open.spotify.com/artist/5V6SYitM5SSFXrHKUSbl91"
+        },
+        {
+          "name": "Guru Kural",
+          "url": "https://open.spotify.com/artist/1OTFxo444ARUX1zVZxbiDj"
+        }
+      ],
+      "duration_ms": 159917,
+      "name": "En Kangal",
+      "url": "https://open.spotify.com/track/36GchciU08GChUGKHy5ZnU"
+    },
+    {
       "added_at": "2026-07-31 10:52:19",
       "album": {
         "name": "Sandaali",
@@ -215,6 +235,26 @@
       "duration_ms": 160714,
       "name": "Sandaali",
       "url": "https://open.spotify.com/track/2RhsDyaoFoLOZ16NS0ItO5"
+    },
+    {
+      "added_at": "2026-09-17 12:40:40",
+      "album": {
+        "name": "Naan Paravaiyaa",
+        "url": "https://open.spotify.com/album/4m8A1mNAfTiOaUXqAA3PHO"
+      },
+      "artists": [
+        {
+          "name": "Vasanth Chandrasekar",
+          "url": "https://open.spotify.com/artist/4tLdfdpHG5eWP341lVCuPi"
+        },
+        {
+          "name": "John Bharathi",
+          "url": "https://open.spotify.com/artist/6Xz1RfeQWdcOAdx50C8uys"
+        }
+      ],
+      "duration_ms": 181997,
+      "name": "Naan Paravaiyaa",
+      "url": "https://open.spotify.com/track/1rsAhmpcarVGLfNJ6WtiE4"
     },
     {
       "added_at": "2026-07-13 10:43:15",
@@ -259,26 +299,6 @@
       "duration_ms": 178909,
       "name": "Ya Leili",
       "url": "https://open.spotify.com/track/61cInGVHZSPeUaWXTUZfJl"
-    },
-    {
-      "added_at": "2026-09-08 07:23:07",
-      "album": {
-        "name": "En Kangal",
-        "url": "https://open.spotify.com/album/6hJpb0UAUPxuEiw7hen6A6"
-      },
-      "artists": [
-        {
-          "name": "SHRU",
-          "url": "https://open.spotify.com/artist/5V6SYitM5SSFXrHKUSbl91"
-        },
-        {
-          "name": "Guru Kural",
-          "url": "https://open.spotify.com/artist/1OTFxo444ARUX1zVZxbiDj"
-        }
-      ],
-      "duration_ms": 159917,
-      "name": "En Kangal",
-      "url": "https://open.spotify.com/track/36GchciU08GChUGKHy5ZnU"
     },
     {
       "added_at": "2026-09-11 06:30:49",
@@ -2015,26 +2035,6 @@
       "duration_ms": 210433,
       "name": "Ondu Rendu",
       "url": "https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1"
-    },
-    {
-      "added_at": "2026-03-26 13:45:35",
-      "album": {
-        "name": "Na Varanja Oviyam",
-        "url": "https://open.spotify.com/album/2t4mJmS7vJuxmucYqGeEfJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan",
-          "url": "https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT"
-        },
-        {
-          "name": "Atiium",
-          "url": "https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Na Varanja Oviyam",
-      "url": "https://open.spotify.com/track/5dV4lDy8gEgRrQXipmD2v6"
     },
     {
       "added_at": "2026-04-09 10:06:42",

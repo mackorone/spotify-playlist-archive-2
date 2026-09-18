@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,875 songs - 6 day 7 hr 51 min
+2,877 songs - 6 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,6 +1040,7 @@
 | [Heavy on the Rebound \- 2026 version](https://open.spotify.com/track/2EX08x5iXKRE6cBPI1Yli1) | [Ruddinn](https://open.spotify.com/artist/3Io9kSx8VlQdw5RjxSpaZH) | [Heavy on the Rebound \(2026 version\)](https://open.spotify.com/album/1AZ7XPYR0Rz7fJsv47BNay) | 3:15 | 2026-02-07 | 2026-03-11 |
 | [Hechicera Lunar](https://open.spotify.com/track/70Ime2HP6wEjibFFaApDFc) | [Rockdra](https://open.spotify.com/artist/1dMp0BMXVaDsMNpp5NV5l8) | [Hechicera Lunar](https://open.spotify.com/album/4mjhjsOA0BdfZG1ntWZuyr) | 3:20 | 2026-07-14 | 2026-08-15 |
 | [Hellfire](https://open.spotify.com/track/1oRFsvliJI0aZQeyCrBKwF) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [Hellfire](https://open.spotify.com/album/5rzOXIrIawdZM8zcNdpF6t) | 3:27 | 2026-03-02 | 2026-04-03 |
+| [Hello](https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB) | [Masked Family](https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK) | [Luna Crystal Blue](https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5) | 2:35 | 2026-09-17 |  |
 | [Hello amigos](https://open.spotify.com/track/47eyXy1ymHspS1CmbPToQz) | [Leo Tiberi](https://open.spotify.com/artist/3C9ioBuuDOiJaDBfpfH9y5) | [Hello amigos](https://open.spotify.com/album/0ZHY3pShmVhGz4zH9vo6WB) | 3:07 | 2026-07-10 | 2026-08-11 |
 | [Hello Mr Ice Cream Man](https://open.spotify.com/track/7iQV2jpNn8b2d41xMI7HoP) | [Marla Grey](https://open.spotify.com/artist/4xGLEueGKmkYO26r7Uh1B4) | [Hello Mr Ice Cream Man](https://open.spotify.com/album/1BmO8A14aUrlzJfie57RqS) | 3:33 | 2025-11-16 | 2025-12-19 |
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-21 | 2026-04-22 |
@@ -1985,6 +1986,7 @@
 | [Ramsey's Gift \(Twin Figures\)](https://open.spotify.com/track/4DqyRQ1hMb3q7xOpHMpRv1) | [Fausts' Eternal Desire](https://open.spotify.com/artist/48HsxooncwW6bDoLIr7wM8) | [Ramsey's Gift \(Twin Figures\)](https://open.spotify.com/album/4eXAnkrVB2YpdfQb3fTPJW) | 5:40 | 2025-12-28 | 2026-02-03 |
 | [Ravage](https://open.spotify.com/track/4gdRJh4dJVw2erZssPRplR) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC) | [Nightfall](https://open.spotify.com/album/3SJf54GW7dTCNsGgzJrE1W) | 3:21 | 2025-10-31 | 2025-12-01 |
 | [RE\-32](https://open.spotify.com/track/3XosVKvImINmqMa82dbX2p) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Underwater](https://open.spotify.com/album/7dDRFeBjGPxeS6shq1THBd) | 1:50 | 2025-12-15 | 2026-01-17 |
+| [Reach to Your Heart](https://open.spotify.com/track/54cSL1PkDvHVrXMxs4kx33) | [Waydee](https://open.spotify.com/artist/3sdHmVZJJO81zPPBc3s06g) | [Reach to Your Heart](https://open.spotify.com/album/7t0YFmzxa5mktwNegWgfJb) | 2:56 | 2026-09-17 |  |
 | [Ready to fly](https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x) | [The Last North](https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs) | [Ready to fly](https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs) | 3:28 | 2026-09-02 |  |
 | [Real Enough](https://open.spotify.com/track/0B1qb2UMgASlHt3pPFEp0d) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Real Enough](https://open.spotify.com/album/555498Yzyq2v7JeZL7cWHT) | 2:52 | 2025-12-23 | 2026-01-24 |
 | [Real Love](https://open.spotify.com/track/4AmGfMLYLYr9fhESqpH495) | [Sean Muir](https://open.spotify.com/artist/2Ofx1P6qcoKWu24eL3JZuI) | [Real Love](https://open.spotify.com/album/3rYdQIpR0r2HJ8RlreWcGF) | 3:34 | 2026-04-22 | 2026-05-23 |

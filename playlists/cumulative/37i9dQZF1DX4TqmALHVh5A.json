@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Thx4Crying, Yoa & Safia Nolin.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Satine.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -944,7 +944,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163020,
       "name": "BBY ME LAISSE PAS",
       "url": "https://open.spotify.com/track/7FU5RRBBEscaezfEwf6LvS"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 141809,
       "name": "derniers souvenirs du futur",
       "url": "https://open.spotify.com/track/4VgdcxOhDQQbkbJW48kFvk"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163493,
       "name": "For You",
       "url": "https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 180077,
       "name": "HISTOIRE2Q",
       "url": "https://open.spotify.com/track/3Evkob5ZBmK5x9WXb0hxxo"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 163933,
       "name": "Je ne reviendrai pas",
       "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
@@ -5419,6 +5419,28 @@
     },
     {
       "album": {
+        "name": "le pr\u00e9sident s'en balek",
+        "url": "https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8"
+      },
+      "artists": [
+        {
+          "name": "Zonmai",
+          "url": "https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU"
+        },
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184165,
+      "name": "le pr\u00e9sident s'en balek",
+      "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
+    },
+    {
+      "album": {
         "name": "le rem\u00e8de",
         "url": "https://open.spotify.com/album/4FWg7jBdMPHOEWpJm7TXKD"
       },
@@ -5870,6 +5892,28 @@
       "duration_ms": 182161,
       "name": "L\u00e9opard",
       "url": "https://open.spotify.com/track/4sIdhUvB6ElG2OcPoqSmFa"
+    },
+    {
+      "album": {
+        "name": "L\u00c9TAL",
+        "url": "https://open.spotify.com/album/2H12z9QcXd3MiahYo3WsNj"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        },
+        {
+          "name": "Rebeka Warrior",
+          "url": "https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165626,
+      "name": "L\u00c9TAL",
+      "url": "https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c"
     },
     {
       "album": {
@@ -6800,7 +6844,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 153259,
       "name": "Nostalgique",
       "url": "https://open.spotify.com/track/5RBnZq01n4B4TgvER6KPht"
@@ -6902,6 +6946,24 @@
       "duration_ms": 172272,
       "name": "ODYSS_X",
       "url": "https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs"
+    },
+    {
+      "album": {
+        "name": "OLALA",
+        "url": "https://open.spotify.com/album/7buhbL3okIzVzizN4kaJHx"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153948,
+      "name": "OLALA",
+      "url": "https://open.spotify.com/track/1W4hvl0PetDuUgXeJ3z0vb"
     },
     {
       "album": {
@@ -7230,6 +7292,24 @@
       "duration_ms": 153750,
       "name": "PAS +",
       "url": "https://open.spotify.com/track/5QkBwwh6SKPIVBE5Xzhp4y"
+    },
+    {
+      "album": {
+        "name": "tout \u00e0 la fois",
+        "url": "https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z"
+      },
+      "artists": [
+        {
+          "name": "satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "pas assez",
+      "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
     },
     {
       "album": {
@@ -7873,6 +7953,28 @@
     },
     {
       "album": {
+        "name": "Quand est-ce qu'on oublie qu'on aime",
+        "url": "https://open.spotify.com/album/5abHchSNqSZF0M4mhPlKDR"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        },
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "Quand est-ce qu'on oublie qu'on aime",
+      "url": "https://open.spotify.com/track/2mOGkkEHVnivEvMVjhKQSq"
+    },
+    {
+      "album": {
         "name": "Que la biche soit en nous",
         "url": "https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd"
       },
@@ -8426,6 +8528,24 @@
       "duration_ms": 151480,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0"
+    },
+    {
+      "album": {
+        "name": "Sang sur le jean",
+        "url": "https://open.spotify.com/album/1X29XAdw8as8iD4eWytKQf"
+      },
+      "artists": [
+        {
+          "name": "JusteNiels",
+          "url": "https://open.spotify.com/artist/5Dw4UeEYTZDnYxqMA7cxJ5"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Sang sur le jean",
+      "url": "https://open.spotify.com/track/58viLn4Q1Zvg86M7SxgMCa"
     },
     {
       "album": {

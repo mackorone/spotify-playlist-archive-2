@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 prima stanza a destra e Angelica Bove in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 BLANCO in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Amica (con Madame)",
+        "url": "https://open.spotify.com/album/4vhF3wnRk7dodcMLoYGzvA"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232091,
+      "name": "Amica (con Madame)",
+      "url": "https://open.spotify.com/track/7i8Er4LumB8lnNHwEMO1i2"
+    },
+    {
+      "album": {
         "name": "AMICI COME PRIMA",
         "url": "https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN"
       },
@@ -1044,7 +1066,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 212542,
       "name": "Aranciata",
       "url": "https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO"
@@ -3826,7 +3848,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207000,
       "name": "Esibizionista",
       "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
@@ -6508,7 +6530,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 179446,
       "name": "LE RAGAZZE",
       "url": "https://open.spotify.com/track/2YVIDa7ZPLtce3VLGNcxvv"
@@ -7983,6 +8005,28 @@
     },
     {
       "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201006,
+      "name": "Ne vale la pena feat. Sayf",
+      "url": "https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf"
+    },
+    {
+      "album": {
         "name": "NERO GOTICO",
         "url": "https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg"
       },
@@ -8461,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "Notte Malinconia",
+        "url": "https://open.spotify.com/album/0qiPrgERpCVTMeoFAubNkM"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "Notte Malinconia",
+      "url": "https://open.spotify.com/track/2nygN7TUKrJpnsjhbvvtFb"
+    },
+    {
+      "album": {
         "name": "Futuri Possibili",
         "url": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD"
       },
@@ -8858,6 +8920,24 @@
       "duration_ms": 176129,
       "name": "Overdose D'Amore 2024",
       "url": "https://open.spotify.com/track/3tQRLmfOWBlB00i2mGLN3M"
+    },
+    {
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/218XmzSDtj5o73SZbJk16Q"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198811,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/4a4t8njW5ZcYt2kKvii7bM"
     },
     {
       "album": {
@@ -10176,7 +10256,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 220473,
       "name": "Quello che deve essere sar\u00e0",
       "url": "https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt"
@@ -10832,7 +10912,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 165333,
       "name": "Santa",
       "url": "https://open.spotify.com/track/1vwiqgddmKWo3Fqkk1UVqn"
@@ -12814,6 +12894,24 @@
       "duration_ms": 199537,
       "name": "tutta vera",
       "url": "https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU"
+    },
+    {
+      "album": {
+        "name": "TUTTO",
+        "url": "https://open.spotify.com/album/3ny7Mls4spvGmdy10ma13x"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "TUTTO",
+      "url": "https://open.spotify.com/track/7sDgC1k4mXTLfjOUxwGM7V"
     },
     {
       "album": {

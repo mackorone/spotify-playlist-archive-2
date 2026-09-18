@@ -1,13 +1,93 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay.",
-  "num_followers": 445447,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Grand Corps Malade.",
+  "num_followers": 445425,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfSjD5NNyy2Xh8yaAQEa/4ia5wN",
+  "snapshot_id": "AAAAAOlF8baU0DPBhyJ47lEYB2fFWA9z",
   "tracks": [
+    {
+      "added_at": "2026-09-17 22:01:59",
+      "album": {
+        "name": "Voir la mer",
+        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        }
+      ],
+      "duration_ms": 205383,
+      "name": "Mes doutes avec toi",
+      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
+    },
+    {
+      "added_at": "2026-09-17 22:01:59",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "sous influence",
+        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 186908,
+      "name": "sous influence",
+      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Seules Ensemble (Mistral Gagnant)",
+        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Seules Ensemble (Mistral Gagnant)",
+      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
+    },
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
@@ -29,52 +109,20 @@
       "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Te rencontrer encore",
-        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+        "name": "Les rues de l'humanit\u00e9",
+        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
       },
       "artists": [
         {
-          "name": "ESTL",
-          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Te rencontrer encore",
-      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "sous influence",
-        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 186908,
-      "name": "sous influence",
-      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Chaussures Roses",
-        "url": "https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Chaussures Roses",
-      "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
+      "duration_ms": 280120,
+      "name": "Les rues de l'humanit\u00e9",
+      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -125,20 +173,20 @@
       "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Seules Ensemble (Mistral Gagnant)",
-        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
+        "name": "Le monde ne tourne pas rond",
+        "url": "https://open.spotify.com/album/6zDWvufmQNmctqjqLCrSTO"
       },
       "artists": [
         {
-          "name": "Manon Lisa",
-          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Seules Ensemble (Mistral Gagnant)",
-      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
+      "duration_ms": 211106,
+      "name": "Le monde ne tourne pas rond",
+      "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -211,6 +259,22 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
+        "name": "Chaussures Roses",
+        "url": "https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 201299,
+      "name": "Chaussures Roses",
+      "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
         "name": "Pour ce qui nous attend de mieux",
         "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
       },
@@ -223,22 +287,6 @@
       "duration_ms": 249480,
       "name": "Pour ce qui nous attend de mieux",
       "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Enfin Bon",
-        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Enfin Bon",
-      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -307,6 +355,22 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
+        "name": "Enfin Bon",
+        "url": "https://open.spotify.com/album/4YfDoDMtsY9oeVyvcgdkJQ"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Enfin Bon",
+      "url": "https://open.spotify.com/track/01OPB7Vn1pat5iHmof1d1W"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
         "name": "le dernier verre",
         "url": "https://open.spotify.com/album/77hFDBhBnkgsuH2h8OA7FQ"
       },
@@ -319,22 +383,6 @@
       "duration_ms": 183453,
       "name": "le dernier verre",
       "url": "https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "J'en ai pas encore fini",
-        "url": "https://open.spotify.com/album/4Z3JZPSywHfItYA8Tzqvgv"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        }
-      ],
-      "duration_ms": 208559,
-      "name": "J\u2019en ai pas encore fini",
-      "url": "https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -571,22 +619,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Maman",
-        "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
-      },
-      "artists": [
-        {
-          "name": "Wamen",
-          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Maman",
-      "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "peut-\u00eatre!",
         "url": "https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC"
       },
@@ -603,22 +635,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "\u00e9ni\u00e8me chance",
-        "url": "https://open.spotify.com/album/2KvetfZ8OEpqRTLCkznGEc"
-      },
-      "artists": [
-        {
-          "name": "Ellie Becker",
-          "url": "https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "\u00e9ni\u00e8me chance",
-      "url": "https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Yao",
         "url": "https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX"
       },
@@ -631,38 +647,6 @@
       "duration_ms": 187386,
       "name": "Yao",
       "url": "https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "samedi soir",
-        "url": "https://open.spotify.com/album/2aow7C3utYGjkFocqt5Pvr"
-      },
-      "artists": [
-        {
-          "name": "Mathilda",
-          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
-        }
-      ],
-      "duration_ms": 227572,
-      "name": "samedi soir",
-      "url": "https://open.spotify.com/track/43mwnf4oJZJm4tBnFA4kQx"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Encore un peu",
-        "url": "https://open.spotify.com/album/3PcCcn7Ux7l9xAT2v0XxKc"
-      },
-      "artists": [
-        {
-          "name": "Ronnie",
-          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Encore un peu",
-      "url": "https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -735,22 +719,18 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "\u00c7a change quoi ?",
-        "url": "https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS"
+        "name": "\u00e9ni\u00e8me chance",
+        "url": "https://open.spotify.com/album/2KvetfZ8OEpqRTLCkznGEc"
       },
       "artists": [
         {
-          "name": "Paul Roman",
-          "url": "https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO"
-        },
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+          "name": "Ellie Becker",
+          "url": "https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q"
         }
       ],
-      "duration_ms": 150012,
-      "name": "\u00c7a change quoi ?",
-      "url": "https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq"
+      "duration_ms": 153429,
+      "name": "\u00e9ni\u00e8me chance",
+      "url": "https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -771,18 +751,34 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "s'aimer",
-        "url": "https://open.spotify.com/album/2gW5BLFBRTynDNjeGfpGqM"
+        "name": "samedi soir",
+        "url": "https://open.spotify.com/album/2aow7C3utYGjkFocqt5Pvr"
       },
       "artists": [
         {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
         }
       ],
-      "duration_ms": 183094,
-      "name": "s'aimer",
-      "url": "https://open.spotify.com/track/5MtzQdms0nwb3OiQlb2kVw"
+      "duration_ms": 227572,
+      "name": "samedi soir",
+      "url": "https://open.spotify.com/track/43mwnf4oJZJm4tBnFA4kQx"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -803,18 +799,22 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "wow",
-        "url": "https://open.spotify.com/album/2KpveXuktDa0smRM2rgh7P"
+        "name": "\u00c7a change quoi ?",
+        "url": "https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS"
       },
       "artists": [
         {
-          "name": "Jean Castel",
-          "url": "https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1"
+          "name": "Paul Roman",
+          "url": "https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO"
+        },
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
         }
       ],
-      "duration_ms": 100666,
-      "name": "wow",
-      "url": "https://open.spotify.com/track/3RLmUALgEvs3r7ewT71WUp"
+      "duration_ms": 150012,
+      "name": "\u00c7a change quoi ?",
+      "url": "https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq"
     },
     {
       "added_at": "2026-09-10 22:00:49",

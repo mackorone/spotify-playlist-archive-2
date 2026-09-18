@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PJ from GELBOYS 2
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-973 songs - 2 day 9 hr 5 min
+975 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [CHAIN](https://open.spotify.com/track/2Aea7tBi3IQ3CK9VMkfkNm) | [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP) | [CHAIN](https://open.spotify.com/album/69L0l1Y5C8FLGgOdQKtOS9) | 3:21 | 2026-06-04 | 2026-06-19 |
 | [CHECKLIST](https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [CHECKLIST](https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK) | 3:47 | 2026-09-10 |  |
 | [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 | 2023-05-20 |
+| [CHEST VOICE](https://open.spotify.com/track/6fjZEUzV1nt8BJdd0416jp) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [HOPEFULLY IT LEADS SOMEWHERE](https://open.spotify.com/album/4E8iI6RzNWyYLdFcUJZz6G) | 3:40 | 2026-09-17 |  |
 | [Choose Me](https://open.spotify.com/track/4BoZEcYmmCgANjVTCCyY76) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [Choose Me](https://open.spotify.com/album/6KONF8hVx4IKHJswTvxPir) | 2:54 | 2024-11-14 | 2024-11-22 |
 | [CHOOSE OR CHOICE](https://open.spotify.com/track/6daUWqD50ftFDstJdoLJzr) | [ALTERS](https://open.spotify.com/artist/0pS8vk1tW626gB7LZiXLMK) | [CHOOSE OR CHOICE](https://open.spotify.com/album/6mfIEtpDbfzWa5AAw5PJR6) | 3:00 | 2026-09-10 |  |
 | [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 | 2024-10-31 | 2024-11-08 |
@@ -713,6 +714,7 @@
 | [หนังทุนต่ำ](https://open.spotify.com/track/0nQ3fky5NxECcuMv4GqFaO) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [หนังทุนต่ำ](https://open.spotify.com/album/2CChPhekJ2rzRQNbNe0iH1) | 4:40 | 2026-05-28 | 2026-06-27 |
 | [หนึ่งในมาช้า](https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [หนึ่งในมาช้า](https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3) | 3:34 | 2024-10-10 | 2024-10-25 |
 | [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [หน้าเบลอหลังชัด \(Foreground\)](https://open.spotify.com/album/2M0De8OsdOCuQqkjA5epYM) | 3:45 | 2025-08-28 | 2025-10-17 |
+| [หน้าไหว้หลังหลอก \(Oh My Gosh\)](https://open.spotify.com/track/71kUf6kJpLMzVwtBFwzcvs) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [หน้าไหว้หลังหลอก \(Oh My Gosh\)](https://open.spotify.com/album/7d2pmFNDG6TUCVmUiaq4cL) | 3:19 | 2026-09-17 |  |
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 | 2024-03-15 |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-09 | 2024-09-13 |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 | 2022-10-27 |
@@ -792,7 +794,7 @@
 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2022-05-26 | 2024-01-18 |
 | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9) | 2:58 | 2026-05-21 |  |
 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 | 2022-07-01 | 2022-07-31 |
-| [เฉยเลย \(Just Like That\) \- เพลงประกอบซีรีส์ "จุดจีบสายมู Unlucky Bae"](https://open.spotify.com/track/2F1TOHM4K780vaPiVrvDl6) | [MAC NATTAPAT](https://open.spotify.com/artist/0fZuWBb7LSa7p8btJi403C) | [เฉยเลย \(Just Like That\) \[เพลงประกอบซีรีส์ "จุดจีบสายมู Unlucky Bae"\]](https://open.spotify.com/album/1zlJRmqBv0VMaA1EIJ9SBu) | 3:34 | 2026-09-03 |  |
+| [เฉยเลย \(Just Like That\) \- เพลงประกอบซีรีส์ "จุดจีบสายมู Unlucky Bae"](https://open.spotify.com/track/2F1TOHM4K780vaPiVrvDl6) | [MAC NATTAPAT](https://open.spotify.com/artist/0fZuWBb7LSa7p8btJi403C) | [เฉยเลย \(Just Like That\) \[เพลงประกอบซีรีส์ "จุดจีบสายมู Unlucky Bae"\]](https://open.spotify.com/album/1zlJRmqBv0VMaA1EIJ9SBu) | 3:34 | 2026-09-03 | 2026-09-18 |
 | [เดาสิ! \(Guess What ?\)](https://open.spotify.com/track/2SncDJjLjtG4kLU2SNGWOe) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [เดาสิ! \(Guess What ?\)](https://open.spotify.com/album/6GaJV2c7xOoYjBGnlCQeeX) | 3:45 | 2025-05-29 | 2025-06-13 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2022-05-26 | 2022-10-27 |
 | [เตรียมใจไว้รักเธอ \(101% Love\) \(Original Soundtrack From "ด้วงกับเธอ Duang With You Series"\)](https://open.spotify.com/track/1lUqmjSiYtA36HIv05cg3s) | [TEETEE](https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO) | [เตรียมใจไว้รักเธอ \(101% Love\) \(Original Soundtrack From "ด้วงกับเธอ Duang With You Series"\)](https://open.spotify.com/album/2ANTxB5OlouVDdrh3YRRY8) | 3:06 | 2026-04-09 | 2026-05-08 |
@@ -824,7 +826,7 @@
 | [เพราะฉันมีเธออยู่ \(Love Is You\)](https://open.spotify.com/track/5uLKGlGEfBAqOvk086JAxp) | [Jimmy Jitaraphol](https://open.spotify.com/artist/06zaeAoWb4OP8f8ka46VDS), [Sea Tawinan](https://open.spotify.com/artist/6tpwxBQg4XUnOWot2fcjXB) | [เพราะฉันมีเธออยู่ \(Love Is You\) \- Single](https://open.spotify.com/album/2BISMDagWh4txezf8nG6xj) | 3:37 | 2024-11-28 | 2024-12-06 |
 | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL) | [Barcode Tinnasit Isarapongporn](https://open.spotify.com/artist/7kBYXxfsNkiMGawDOsvE67) | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk) | 3:59 | 2022-06-09 | 2022-06-24 |
 | [เพลงรัก \(Hook\) \(เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President\)](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงรัก \(Hook\) \- Single](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 | 2023-02-23 | 2024-07-30 |
-| [เพลงรักที่ยังไม่ลืม \(Glitch\)](https://open.spotify.com/track/6trcG8ThF81O2jm6bqdJ78) | [Emi Thasorn](https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk) | [เพลงรักที่ยังไม่ลืม \(Glitch\)](https://open.spotify.com/album/7JsAvRU8UkbatN5XrC1lfb) | 4:12 | 2026-09-03 |  |
+| [เพลงรักที่ยังไม่ลืม \(Glitch\)](https://open.spotify.com/track/6trcG8ThF81O2jm6bqdJ78) | [Emi Thasorn](https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk) | [เพลงรักที่ยังไม่ลืม \(Glitch\)](https://open.spotify.com/album/7JsAvRU8UkbatN5XrC1lfb) | 4:12 | 2026-09-03 | 2026-09-18 |
 | [เพื่อน\(แอบ\)รัก \- Close\(d\) Friend](https://open.spotify.com/track/4hixbQQlUe67vYHbPnOeih) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [เพื่อน\(แอบ\)รัก \- Close\(d\) Friend](https://open.spotify.com/album/6vkEy8MOECSpIxFXe8U5ng) | 3:36 | 2024-01-31 | 2024-02-16 |
 | [เพื่อนกันไม่เลิกกัน \(Close Friend\)](https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [bamm NEXT DOOR](https://open.spotify.com/album/4uem2B1Wez6SwW9lsRDWyF) | 4:00 | 2023-11-02 | 2024-02-16 |
 | [เพื่อนคนสำคัญ \(VIP\)](https://open.spotify.com/track/2FkPSpog3Nes4Ymdx98E4R) | [MEEPOOH](https://open.spotify.com/artist/6m6obXYeSAepfEH0nwGhHa) | [เพื่อนคนสำคัญ \(VIP\)](https://open.spotify.com/album/3kYf3euqNyROdY1Bewzxte) | 3:54 | 2026-05-01 | 2026-05-15 |

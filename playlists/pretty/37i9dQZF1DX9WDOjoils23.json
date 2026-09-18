@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 45209,
+  "num_followers": 45242,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Ranjha Ranjha",
-        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Ranjha Ranjha",
-      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Rangrez",
         "url": "https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 295800,
       "name": "Zikr Tera",
       "url": "https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
     },
     {
       "added_at": "2026-09-03 17:28:17",

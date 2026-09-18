@@ -1,12 +1,12 @@
 {
   "description": "best festival music - summer festival - best festivals - festival summer - mainstage music - tomorrowland festival - awakenings festival - zomer festivals - festival vibes",
-  "num_followers": 85613,
+  "num_followers": 85611,
   "original_name": "Summer Festival 2026 \ud83d\udca5 Festival Summer Music",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAM4FOlP6ubZVbKi52e9WC6Ah1+TuQJ",
+  "snapshot_id": "AAAM4n/xit3XzkEKougdqjGUvcimK0YU",
   "tracks": [
     {
       "added_at": "2026-09-10 14:36:55",
@@ -27,6 +27,50 @@
       "duration_ms": 203334,
       "name": "Iris",
       "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
+    },
+    {
+      "added_at": "2026-09-17 17:40:59",
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/7uKxPQbWFPEWz21jtsdYzd"
+      },
+      "artists": [
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        },
+        {
+          "name": "Josh Le Tissier",
+          "url": "https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9"
+        }
+      ],
+      "duration_ms": 187108,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/1CK8vHLDtcP5xCTvK4JG7p"
+    },
+    {
+      "added_at": "2026-09-17 17:49:30",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/5TxxQkdUArAZ3zcsyZoq7A"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Gaz Meeko",
+          "url": "https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6"
+        },
+        {
+          "name": "Paul Green",
+          "url": "https://open.spotify.com/artist/6p2zBJ9FLbiQQLS0HYdtb3"
+        }
+      ],
+      "duration_ms": 158513,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/34zTnLwd8guHvsYesS5yqC"
     },
     {
       "added_at": "2026-09-10 14:36:55",

@@ -1115,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
+        "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185429,
+      "name": "Dat Ze Van Hem Houdt",
+      "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
+    },
+    {
+      "album": {
         "name": "daughter",
         "url": "https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE"
       },
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 174288,
       "name": "Ik Zing (feat. Snelle)",
       "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"

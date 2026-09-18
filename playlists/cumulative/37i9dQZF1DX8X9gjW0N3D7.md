@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Olivier Couture
 
-608 songs - 1 day 9 hr 59 min
+609 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 | 2026-03-20 |  |
 | [On My Own](https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg) | [Amber Days](https://open.spotify.com/artist/2jNpmcKcRtfzxxKgaMsOmb) | [On My Own](https://open.spotify.com/album/4WREdL8RikGhcfRdCs7iP9) | 3:34 | 2026-02-13 | 2026-06-13 |
 | [On Part en Vacances](https://open.spotify.com/track/2ddgnPyk9wA4kOV5vuSQ8t) | [le.Panda](https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn) | [On Part en Vacances](https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J) | 4:34 | 2025-07-25 | 2025-11-22 |
+| [On partira](https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y) | [Olivier Bergeron](https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72) | [On partira](https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT) | 2:24 | 2026-09-11 |  |
 | [On s'en fout](https://open.spotify.com/track/705NCLZBIek6BjM2lj6AKx) | [Les Obliks](https://open.spotify.com/artist/6tHhbivRwy3SyjjWHB2f0x) | [On s'en fout](https://open.spotify.com/album/0DWVfBrmDHx8okcNGFUEkp) | 3:05 | 2025-11-07 | 2026-02-21 |
 | [On s'est fait avaler](https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [On s'est fait avaler](https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x) | 3:55 | 2026-05-15 | 2026-06-13 |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 | 2024-09-28 |
@@ -462,7 +463,7 @@
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 | 2024-11-09 |
 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 | 2024-11-15 | 2025-10-03 |
 | [Racine](https://open.spotify.com/track/38VMrEW609ZQSqJWBBObUE) | [Ketsmy](https://open.spotify.com/artist/6W0Vi7ClhV276Sv3HwvzpP) | [Racine](https://open.spotify.com/album/3GpriLtoRZDm1s3qRvGuMt) | 2:51 | 2026-02-13 | 2026-05-09 |
-| [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 | 2026-02-20 |  |
+| [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 | 2026-02-20 | 2026-09-18 |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 | 2026-07-10 |  |
 | [Rebound](https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds) | [BLAMM](https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5) | [Rebound](https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9) | 3:56 | 2026-07-10 | 2026-08-08 |

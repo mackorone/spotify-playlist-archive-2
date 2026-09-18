@@ -4,7 +4,7 @@
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 6 min
+86 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [HG4](https://open.spotify.com/track/59ksHIFa69pi0az2bKdu6s) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:00 | 2023-11-10 | 2025-10-12 |
 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2023-11-10 |  |
 | [How Would You Feel](https://open.spotify.com/track/5Rb0YibLtcl4zi4v4eglGR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:45 | 2023-11-10 | 2024-10-15 |
-| [Hustle](https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Hustle](https://open.spotify.com/album/7yTh2PGGQt9hX9mqA4Nya7) | 2:19 | 2026-08-02 |  |
-| [I Am](https://open.spotify.com/track/6uzm4ndjno6GuwRb2Kjeo9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 3:12 | 2026-08-30 |  |
+| [Hustle](https://open.spotify.com/track/2CNFA0ixWQOaHbOM5xgSd0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:19 | 2026-09-18 |  |
+| [Hustle](https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Hustle](https://open.spotify.com/album/7yTh2PGGQt9hX9mqA4Nya7) | 2:19 | 2026-08-02 | 2026-09-18 |
+| [I Am](https://open.spotify.com/track/6uzm4ndjno6GuwRb2Kjeo9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 3:12 | 2026-08-30 | 2026-09-18 |
 | [Jupiter's Diary](https://open.spotify.com/track/2JVvEPpNroKoTZWNoGSr2Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Jupiter's Diary: 7 Day Theory](https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH) | 2:27 | 2023-11-10 | 2024-10-15 |
 | [Keep Dancing](https://open.spotify.com/track/0R8yVdPQKaC2Jg7DXqesBA) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:44 | 2026-08-31 |  |
 | [Kiss Me Interlude](https://open.spotify.com/track/4391Dd0LFO5QMvhuhBt6T5) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 3:05 | 2026-09-01 |  |

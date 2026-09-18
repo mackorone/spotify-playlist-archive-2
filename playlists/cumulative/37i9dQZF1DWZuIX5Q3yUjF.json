@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 134318,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/50mKKVaQe6PACpQiLdf3Cz"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 207670,
       "name": "dieci case",
       "url": "https://open.spotify.com/track/0X9vJjchZmQKZeQOnwdVlF"
@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 118620,
       "name": "Goya",
       "url": "https://open.spotify.com/track/03fEgvCIjk6KyxpEPppYRB"
@@ -11190,7 +11190,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 231893,
       "name": "Machemifai?",
       "url": "https://open.spotify.com/track/3ThF429aBXCBkXW7o3GHfC"
@@ -12178,6 +12178,24 @@
       "duration_ms": 144000,
       "name": "muozzeco",
       "url": "https://open.spotify.com/track/0opk7SysHBG6XQo9utTIIq"
+    },
+    {
+      "album": {
+        "name": "muri",
+        "url": "https://open.spotify.com/album/3Z5P75HBPdg972adKT86lN"
+      },
+      "artists": [
+        {
+          "name": "seraphiel",
+          "url": "https://open.spotify.com/artist/7BvpHaU1BqIKMEMKB8goGO"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "muri",
+      "url": "https://open.spotify.com/track/1fqOOXPrYmNLodKzlwddYa"
     },
     {
       "album": {

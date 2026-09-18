@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 190038,
       "name": "Fala Mal de Mim",
       "url": "https://open.spotify.com/track/5Gcx3VInqp6tm3dMeS2Unm"
@@ -4112,6 +4112,36 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "album": {
+        "name": "Soca a Theca",
+        "url": "https://open.spotify.com/album/6YlLWlW8lc9zCjYcfsthtu"
+      },
+      "artists": [
+        {
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "DJ SARAIVA",
+          "url": "https://open.spotify.com/artist/4Aoxy1nwdFyKi955UJB6YZ"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128922,
+      "name": "Soca a Theca",
+      "url": "https://open.spotify.com/track/32PD9udK9GyCedzoJBECns"
     },
     {
       "album": {

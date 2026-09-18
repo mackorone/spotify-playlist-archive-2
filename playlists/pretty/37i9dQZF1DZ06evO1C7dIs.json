@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 266444,
+  "num_followers": 266459,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAACtFVYwcuEeZVskxvG31Nh9",
+  "snapshot_id": "aqncAAAAAAAzZdR9qogZ2CGMS8Jft36i",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "She Is My Sin",
-      "url": "https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 273573,
       "name": "The Day Of...",
       "url": "https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "She Is My Sin",
+      "url": "https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 305972,
+      "name": "The Islander",
+      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 305972,
-      "name": "The Islander",
-      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 238973,
       "name": "The Kinslayer",
       "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 340715,
+      "name": "Last of the Wilds",
+      "url": "https://open.spotify.com/track/6UN6xo95p2gTCmmFmwgKBw"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 340715,
-      "name": "Last of the Wilds",
-      "url": "https://open.spotify.com/track/6UN6xo95p2gTCmmFmwgKBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 566433,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 254955,
       "name": "Cadence of Her Last Breath",
       "url": "https://open.spotify.com/track/6vKMOm5QSNNIVd73VfSxuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 566433,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
+      "duration_ms": 236764,
+      "name": "Tribal",
+      "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
     }
   ],
   "unique_name": "This Is Nightwish",

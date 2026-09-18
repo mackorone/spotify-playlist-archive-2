@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Ndifun' Izulu",
+        "url": "https://open.spotify.com/album/4TkD8gwkf4KpWyf8HbOlSG"
+      },
+      "artists": [
+        {
+          "name": "Esethu Siwe",
+          "url": "https://open.spotify.com/artist/6pADaqMmY4SSfMhwcJGKci"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392435,
+      "name": "Ndifun' Izulu",
+      "url": "https://open.spotify.com/track/76csbELiVmhYttFqaFHujN"
+    },
+    {
+      "album": {
         "name": "Ndikhokhele",
         "url": "https://open.spotify.com/album/1kzvGdB69VUvZVu5X8KDwQ"
       },
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 306775,
       "name": "Uphakeme (Ngcwele Ngcwele) [feat. Nuri]",
       "url": "https://open.spotify.com/track/1rCtd414DIuzx8XqWzEmZ8"

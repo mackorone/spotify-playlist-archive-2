@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:6VaYrjshHIPyNBnmVdLdgQ">Hugo Tarres</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,964 likes - 121 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,972 likes - 121 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 69 | [notre damn](https://open.spotify.com/track/6GIVVev8TEpQ50dFJaPowM) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt), [asl33p](https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g), [Kanoohii](https://open.spotify.com/artist/2Fzh07zdn2x3hjT0bz21lX) | [notre damn](https://open.spotify.com/album/3CrcanPEzdHi3mFzEbDI9d) | 2:49 |
 | 70 | [Would I](https://open.spotify.com/track/2ROdaSPd4oLIYRZEOe5JFU) | [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa), [Jayde](https://open.spotify.com/artist/6Sk1LStz6zuzg4QKQaLoRL) | [Would I](https://open.spotify.com/album/2Pld7JpRBgfQRph0ApNLIR) | 2:25 |
 | 71 | [syreny](https://open.spotify.com/track/4szhqxE9Bf3rsPumS3MRA5) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [syreny](https://open.spotify.com/album/2nEbaoH3bOXEOEmWXRub2k) | 5:17 |
-| 72 | [Niepamięć](https://open.spotify.com/track/2ooYmfCqVBBSn2gmjqnjj3) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Niepamięć](https://open.spotify.com/album/4dwrRi0Id807EbwPJJh2oq) | 3:56 |
+| 72 | [Niepamięć](https://open.spotify.com/track/2ooYmfCqVBBSn2gmjqnjj3) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Niepamięć](https://open.spotify.com/album/4dwrRi0Id807EbwPJJh2oq) | 3:54 |
 | 73 | [Slowdown](https://open.spotify.com/track/1qB0CsJIa3MiuDaBsLmy0I) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [1 2 3 4 5 R](https://open.spotify.com/album/0I9uo1TAbNsag4CKJgy0Xy) | 3:43 |
 | 74 | [LET IT B](https://open.spotify.com/track/701KA2pM8TfqNksKwLCZHl) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [LET IT B](https://open.spotify.com/album/1Oy0ZSG5z3haMYb2dQFCk0) | 4:18 |
 | 75 | [Pray](https://open.spotify.com/track/4SbMcQYjfmirlObF27nXtf) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/56oRkvjUSWqsjCoVLWjfqE) | 3:00 |

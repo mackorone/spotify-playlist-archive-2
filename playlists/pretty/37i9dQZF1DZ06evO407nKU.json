@@ -1,13 +1,33 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 58204,
+  "num_followers": 58223,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAA9Cx4cFZbvgrOVPYdK42F6",
+  "snapshot_id": "aqncAAAAAAD68+qqC3NhIkmD/75BQA5Q",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdidos Con Ka\u00f1a",
+        "url": "https://open.spotify.com/album/6S17Mdk7DhKgwqsTIuWXhg"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        }
+      ],
+      "duration_ms": 187094,
+      "name": "No Te Vayas (En Vivo)",
+      "url": "https://open.spotify.com/track/0jsofQtfJhAcaOJ8lvLThX"
+    },
     {
       "added_at": null,
       "album": {
@@ -195,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Luchon",
-        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182363,
-      "name": "La Maestra",
-      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesito Una Compa\u00f1era",
         "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
       },
@@ -227,6 +231,22 @@
       "duration_ms": 242007,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Luchon",
+        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182363,
+      "name": "La Maestra",
+      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
     },
     {
       "added_at": null,
@@ -267,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Naturaleza",
         "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
       },
@@ -283,22 +319,6 @@
       "duration_ms": 184523,
       "name": "Tu Naturaleza",
       "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
     },
     {
       "added_at": null,
@@ -351,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis \u00c9xitos Con Mis Amigos, Vol. 1",
+        "url": "https://open.spotify.com/album/1DMmU1LadoFyp1ZKY00iJ0"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 187324,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/5oMCx5Pc5E3aKf366m95ur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Muero",
         "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
       },
@@ -387,26 +427,6 @@
       "duration_ms": 256105,
       "name": "La Bruta (En Vivo)",
       "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis \u00c9xitos Con Mis Amigos, Vol. 1",
-        "url": "https://open.spotify.com/album/1DMmU1LadoFyp1ZKY00iJ0"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/5oMCx5Pc5E3aKf366m95ur"
     },
     {
       "added_at": null,
@@ -635,46 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Llores Mas Mis Recuerdos",
-        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 282671,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tira Que Jala (Live)",
         "url": "https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy"
       },
@@ -691,6 +671,22 @@
       "duration_ms": 202922,
       "name": "Tira Que Jala - Live",
       "url": "https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -735,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Llores Mas Mis Recuerdos",
+        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "duration_ms": 282671,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -744,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
     },
     {
       "added_at": null,
@@ -919,22 +939,6 @@
       "duration_ms": 249789,
       "name": "El Signo Libra",
       "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/5Lz3Qx9T1AGlxJcrrMTm6X"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

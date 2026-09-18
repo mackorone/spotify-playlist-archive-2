@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "All That I Do (feat. Aleya Mae)",
+        "url": "https://open.spotify.com/album/3c0o8iHzvSnt26nwvvB6xo"
+      },
+      "artists": [
+        {
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "All That I Do (feat. Aleya Mae)",
+      "url": "https://open.spotify.com/track/307nMi0AaURnpFW6DKQmhd"
+    },
+    {
+      "album": {
         "name": "The Art Of Closure",
         "url": "https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW"
       },

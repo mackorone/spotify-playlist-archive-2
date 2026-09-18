@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 761457,
       "name": "Bent El Soltan",
       "url": "https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 348249,
       "name": "Ketab Hayaty",
       "url": "https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx"
@@ -2310,6 +2310,24 @@
       "duration_ms": 231784,
       "name": "Nas Khasisa",
       "url": "https://open.spotify.com/track/4Sjb9HcCQKqvt079Mi9PRD"
+    },
+    {
+      "album": {
+        "name": "Om El3yal",
+        "url": "https://open.spotify.com/album/4hXEj7ZwMOeVISe1fCdhtn"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0637\u0627\u0631",
+          "url": "https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115149,
+      "name": "Om El3yal",
+      "url": "https://open.spotify.com/track/5nYVVHtS4DUfhFR943MRKv"
     },
     {
       "album": {
@@ -3181,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0648\u062a \u0641\u064a\u062a",
+        "url": "https://open.spotify.com/album/2hdlcIYBpNwdaEe49vIK2E"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222328,
+      "name": "\u0623\u0648\u062a \u0641\u064a\u062a",
+      "url": "https://open.spotify.com/track/0BzxdvEj4ioLBKJadD7QJr"
+    },
+    {
+      "album": {
         "name": "\u0625\u062d\u0646\u0627 \u0627\u0644\u0628\u0644\u062f",
         "url": "https://open.spotify.com/album/0uKPJwneURKke432itVCCY"
       },
@@ -3272,6 +3308,24 @@
       "duration_ms": 276335,
       "name": "\u0627\u0633\u0641 \u064a\u0627 \u0646\u0641\u0633\u064a",
       "url": "https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0641\u0647\u0645 \u064a\u0627 \u0635\u0628\u064a",
+        "url": "https://open.spotify.com/album/2znzia3P64ML3VeN9zEJiz"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290687,
+      "name": "\u0627\u0641\u0647\u0645 \u064a\u0627 \u0635\u0628\u064a",
+      "url": "https://open.spotify.com/track/49KymTUqsvvZeGwBiRI2Tk"
     },
     {
       "album": {
@@ -3991,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0627 \u0639\u0645\u0647\u0627 ( \u0639\u0627\u0645\u0644\u064a\u0646 \u0648\u062d\u0648\u0634 \u0639\u0644\u064a \u062e\u064a\u0628\u0629 \u0627\u064a )",
+        "url": "https://open.spotify.com/album/1GnqGBWP9ANQYiZM9FfdGM"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210979,
+      "name": "\u0627\u0646\u0627 \u0639\u0645\u0647\u0627 ( \u0639\u0627\u0645\u0644\u064a\u0646 \u0648\u062d\u0648\u0634 \u0639\u0644\u064a \u062e\u064a\u0628\u0629 \u0627\u064a )",
+      "url": "https://open.spotify.com/track/7qHz4YyqCHfd5utDX6cTt7"
+    },
+    {
+      "album": {
         "name": "\u0627\u0647 \u064a\u0627 \u062f\u0646\u064a\u0627 - \u0627\u0631\u062a \u062a\u0645\u0628\u0644\u062a \u0627\u0644\u0627\u0644\u0628\u0648\u0645 \u0627\u0644\u0627\u0648\u0644",
         "url": "https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil"
       },
@@ -4024,6 +4096,28 @@
       "duration_ms": 277761,
       "name": "\u0627\u0647 \u064a\u0627 \u062f\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0647\u0644 \u0627\u0644\u0643\u0631\u0645",
+        "url": "https://open.spotify.com/album/2iJMODCatOTseoPdFrMEKm"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Omda",
+          "url": "https://open.spotify.com/artist/5SrQyWxfhovemBccRPnWvK"
+        },
+        {
+          "name": "\u0639\u0631\u0641\u0627\u0646",
+          "url": "https://open.spotify.com/artist/6iupNKTTrFY5pxssICaHsB"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "\u0627\u0647\u0644 \u0627\u0644\u0643\u0631\u0645",
+      "url": "https://open.spotify.com/track/1ld6MaZtyiNv56g9DAcENv"
     },
     {
       "album": {
@@ -4292,7 +4386,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 622505,
       "name": "\u062c\u0631\u0628\u062a \u0627\u0644\u062d\u0628 \u0645\u0631\u0647",
       "url": "https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv"
@@ -4642,7 +4736,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 129230,
       "name": "\u0631\u0648\u0648\u0648\u0648\u062d - ROO7",
       "url": "https://open.spotify.com/track/5I1sJY3b4QaIY11mOieq7j"
@@ -5280,7 +5374,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 180568,
       "name": "\u0643\u0627\u0646 \u0639\u0644\u064a \u0639\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3i90c0l4VXRSx219BudvTj"

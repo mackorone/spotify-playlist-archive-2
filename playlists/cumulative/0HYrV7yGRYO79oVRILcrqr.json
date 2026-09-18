@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Addicted to Failure",
+        "url": "https://open.spotify.com/album/7sp6s7LO5qVt5RNrtnmqEd"
+      },
+      "artists": [
+        {
+          "name": "LUDIOSIS",
+          "url": "https://open.spotify.com/artist/0clKpUY5LwTMTMRs9a3Gsp"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226588,
+      "name": "Addicted to Failure",
+      "url": "https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8"
+    },
+    {
+      "album": {
         "name": "Addressed To Me",
         "url": "https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6"
       },

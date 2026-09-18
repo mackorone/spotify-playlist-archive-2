@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143364,
+  "num_followers": 143360,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA+29STEfXMcYuOfaZzeBwnz76KINp4",
+  "snapshot_id": "AAA+3soUzs7D+haE8ssolQu3SNRIKn43",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/0qOcGXEuXu66OQwWRyqFxD"
     },
     {
-      "added_at": "2026-09-17 02:05:00",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
-      },
-      "artists": [
-        {
-          "name": "SaretzkyGallery",
-          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/28LzrzLKZZLNnTyi5GK5hl"
-    },
-    {
       "added_at": "2026-07-30 16:39:40",
       "album": {
         "name": "The Beatles 1967 - 1970 (Remastered)",
@@ -795,22 +779,6 @@
       "duration_ms": 329200,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2026-09-17 02:19:58",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
-      },
-      "artists": [
-        {
-          "name": "SaretzkyGallery",
-          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Mean Old Mirror",
-      "url": "https://open.spotify.com/track/3FgzaybzdgWF7Ey7DSmYvG"
     },
     {
       "added_at": "2026-07-30 16:44:18",
@@ -1883,6 +1851,42 @@
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/70nmpLYSyZ58QTUzUiB1VA"
+    },
+    {
+      "added_at": "2026-09-18 01:40:50",
+      "album": {
+        "name": "Enchanting",
+        "url": "https://open.spotify.com/album/5yc7UjptpODLhoUFsK52D8"
+      },
+      "artists": [
+        {
+          "name": "Iris Stryx",
+          "url": "https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Enchanting",
+      "url": "https://open.spotify.com/track/1WNk4MQeOAi7Q3AiyVsGBh"
+    },
+    {
+      "added_at": "2026-09-17 21:01:53",
+      "album": {
+        "name": "Light Up The Night",
+        "url": "https://open.spotify.com/album/50P5Uaeuec09E8cbnwNEPg"
+      },
+      "artists": [
+        {
+          "name": "mama no likey",
+          "url": "https://open.spotify.com/artist/6oR8sN0wuLcxt6vqGeAL5f"
+        },
+        {
+          "name": "Maddi Lasker",
+          "url": "https://open.spotify.com/artist/1K4btyJ0gnkj3QYu8nbwSe"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Light Up The Night",
+      "url": "https://open.spotify.com/track/1aNhLOjqboXs4BidNVDA23"
     },
     {
       "added_at": "2026-09-15 20:04:52",
@@ -3015,6 +3019,38 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2026-09-17 02:05:00",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
+      },
+      "artists": [
+        {
+          "name": "SaretzkyGallery",
+          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/28LzrzLKZZLNnTyi5GK5hl"
+    },
+    {
+      "added_at": "2026-09-17 02:19:58",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
+      },
+      "artists": [
+        {
+          "name": "SaretzkyGallery",
+          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
+        }
+      ],
+      "duration_ms": 293040,
+      "name": "Mean Old Mirror",
+      "url": "https://open.spotify.com/track/3FgzaybzdgWF7Ey7DSmYvG"
     },
     {
       "added_at": "2026-09-16 18:03:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,630 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,641 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 14 | [Devoted](https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Devoted](https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6) | 2:20 |
 | 15 | [Serial Kisser](https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Serial Kisser](https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6) | 2:46 |
 | 16 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 |
-| 17 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
-| 18 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
+| 17 | [Coast To Coast](https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Coast To Coast](https://open.spotify.com/album/6tIHvfACrMFovOE6eOT8Em) | 2:46 |
+| 18 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
 | 19 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
 | 20 | [East of Anything](https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n) | [True Mountain Laurel](https://open.spotify.com/artist/1D3Q3ri32nScwBTwlLtxXU) | [Angel So Bad](https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u) | 2:51 |
 | 21 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 36 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
 | 37 | [Painting After Painting](https://open.spotify.com/track/1mICnDWtVBpyMVGSejVXvy) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/2amcMNcWelpgn4KjHNXiQc) | 3:48 |
 | 38 | [Outside Is Nice](https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [This Feels Electric](https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv) | 2:00 |
-| 39 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
-| 40 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
+| 39 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
+| 40 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
 | 41 | [Sugar, Butter, Elbow Grease](https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r) | [Leah Jane](https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN) | [Sugar, Butter, Elbow Grease](https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z) | 3:30 |
 | 42 | [Yesterday](https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Yesterday](https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J) | 3:21 |
 | 43 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |

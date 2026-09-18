@@ -30375,6 +30375,24 @@
     },
     {
       "album": {
+        "name": "i keep falling in love",
+        "url": "https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz"
+      },
+      "artists": [
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "i keep falling in love",
+      "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/29bHm6hC13cJZY1zLjoGOe"
       },
@@ -61278,7 +61296,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 196285,
       "name": "THIS IS IT",
       "url": "https://open.spotify.com/track/3r3hcFxhw9taWK84knbtXr"

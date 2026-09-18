@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: BAD LUV",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Pitty",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -884,6 +884,24 @@
       "duration_ms": 174786,
       "name": "Anestesiado",
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
+    },
+    {
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/22ZvKErSTpVEz0G61p3Vai"
+      },
+      "artists": [
+        {
+          "name": "Lucia Vulcano",
+          "url": "https://open.spotify.com/artist/7s3MHj8zuZNn4hM0WTkW62"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233002,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/7zwdYqsgSUSUDcjJ6hWakh"
     },
     {
       "album": {
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 145458,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
@@ -4856,7 +4874,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 198800,
       "name": "FURAC\u00c3O",
       "url": "https://open.spotify.com/track/1jyVmKPCdT23b9gS2vjGD2"
@@ -8597,6 +8615,28 @@
     },
     {
       "album": {
+        "name": "Onde Judas Perdeu As Botas",
+        "url": "https://open.spotify.com/album/3VUHmfGvG085ePz4HyOX7g"
+      },
+      "artists": [
+        {
+          "name": "Drake Nova",
+          "url": "https://open.spotify.com/artist/1e9MrfPBDLgHdpJ9CKhwmu"
+        },
+        {
+          "name": "Marcelo Nova",
+          "url": "https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257512,
+      "name": "Onde Judas Perdeu As Botas",
+      "url": "https://open.spotify.com/track/2FamRGzPgvu97Mg6rXNJW0"
+    },
+    {
+      "album": {
         "name": "Open Mic Brasil #3 - Medley 2025",
         "url": "https://open.spotify.com/album/3MXKXYcPZQjdGboHnYyVHB"
       },
@@ -11121,6 +11161,24 @@
     },
     {
       "album": {
+        "name": "Sobremesa",
+        "url": "https://open.spotify.com/album/3ghQ3MrXwVBq0kx9cPFxwC"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187089,
+      "name": "Sobremesa",
+      "url": "https://open.spotify.com/track/7papIbJSJP5n0WcU5HP6w5"
+    },
+    {
+      "album": {
         "name": "Bar\u00e3o 40 (De Luxe)",
         "url": "https://open.spotify.com/album/3CXJqomBAVSchsGaa2bwzO"
       },
@@ -11628,7 +11686,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 378293,
       "name": "Taxidermia",
       "url": "https://open.spotify.com/track/1INTLVJcaIXWH2YX1AciRj"
@@ -13084,7 +13142,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 80445,
       "name": "WATCH OUT",
       "url": "https://open.spotify.com/track/4InarpCS9tcMVgERxfr1YM"

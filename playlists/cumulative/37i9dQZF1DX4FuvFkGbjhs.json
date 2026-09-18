@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Liana Flores",
+  "description": "Beyond titles, beyond genre. Cover: Joy Crookes",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 140211,
       "name": "Creepy",
       "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/1Ehlm1r2jBJ2YLQ6JqWSCA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173387,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/1N4Np5UvMyYrdgM4qyHvrn"
+    },
+    {
+      "album": {
         "name": "Flicker",
         "url": "https://open.spotify.com/album/0paeHpGbZZ8OLLzZLcA8rv"
       },
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 192212,
       "name": "Floette ft. John Glacier",
       "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
@@ -12521,6 +12539,28 @@
     },
     {
       "album": {
+        "name": "Painkiller (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241653,
+      "name": "Painkiller (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf"
+    },
+    {
+      "album": {
         "name": "Leon",
         "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
       },
@@ -13192,6 +13232,24 @@
       "duration_ms": 151511,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/1o8zQNrBrbA0ukEDRRD9ub"
+    },
+    {
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0zjxKP1Twv357I1SEpQDvC"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5"
     },
     {
       "album": {
@@ -15050,7 +15108,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 216140,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/5vLWADBMrVdl5pbUwF12rX"
@@ -15148,6 +15206,28 @@
       "duration_ms": 180913,
       "name": "So mysterious",
       "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
+    },
+    {
+      "album": {
+        "name": "Some Birds Don't Fly",
+        "url": "https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Some Birds Don't Fly",
+      "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
     },
     {
       "album": {
@@ -16952,7 +17032,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 251515,
       "name": "The Only One (feat. Christine and the Queens)",
       "url": "https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD"

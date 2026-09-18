@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL" series\. ©2026 Shirow Masamune/KODANSHA/THE GHOST IN THE SHELL COMMITTEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,757 likes - 95 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,775 likes - 95 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 48 | [Witness Stand](https://open.spotify.com/track/1Kz4vSeLp5Xrz5k1nIYRWW) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 1:49 |
 | 49 | [Lone Walker](https://open.spotify.com/track/2IWPVy1CEliu2stlfrEeY4) | [小西遼](https://open.spotify.com/artist/15Ihxqn1cpSyfZRyzevmIH) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 3:51 |
 | 50 | [IKARI](https://open.spotify.com/track/1IEfvUrPRncWsXvKGnGLg9) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 2:07 |
-| 51 | [Ghost In The Dark](https://open.spotify.com/track/2SN7VRWGBrQ81SQrIhF5Vr) | [小西遼](https://open.spotify.com/artist/15Ihxqn1cpSyfZRyzevmIH) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 2:12 |
+| 51 | [Ghost In The Dark](https://open.spotify.com/track/2SN7VRWGBrQ81SQrIhF5Vr) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 2:12 |
 | 52 | [Mournful](https://open.spotify.com/track/1ovA250XW61vkwZ8O1VJqT) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 1:47 |
 | 53 | [After the Signal](https://open.spotify.com/track/6ZQtFyW9OsGXnM8GciRHBd) | [小西遼](https://open.spotify.com/artist/15Ihxqn1cpSyfZRyzevmIH) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 2:11 |
 | 54 | [TAKURAMI](https://open.spotify.com/track/0flzzvfKmDppDFo73Jyas2) | [Yuki Kanesaka](https://open.spotify.com/artist/5BKlOr5JarZWKvdEjfUTq0) | [『攻殻機動隊 THE GHOST IN THE SHELL』O.S.T.](https://open.spotify.com/album/5vLlhu2WW4zUexjdZ40c8z) | 1:59 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 94 | [the end of all you'll know](https://open.spotify.com/track/6C0wK49dMqpULLzUq5iSyq) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 2:19 |
 | 95 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版　O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |
 
-Snapshot ID: `AAAAAAszIu+43xFOWQVyAl8hjzAKI3lx`
+Snapshot ID: `AAAAAKyH6K7JXF3HpALmDPv4if+BsupD`

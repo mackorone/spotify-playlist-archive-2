@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: This is Lorelei
 
-10,782 songs - 26 day 4 hr 6 min
+10,783 songs - 26 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5934,6 +5934,7 @@
 | [Maladie](https://open.spotify.com/track/3aSKk44Zyuk7sz72MnsTvO) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Maladie](https://open.spotify.com/album/0MsGhrKqIc8R9tkKUAsGaN) | 3:28 | 2025-02-07 | 2025-03-08 |
 | [Malibu Barbie](https://open.spotify.com/track/4AUeI9zExlf1g5AOwsrWoQ) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Malibu Barbie](https://open.spotify.com/album/4lSMMf5M3ZdulCeM07HXVi) | 2:57 | 2019-05-26\* | 2019-06-15 |
 | [Man In His Pomp](https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Man In His Pomp](https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r) | 1:51 | 2025-10-10 | 2025-11-22 |
+| [Man may not last](https://open.spotify.com/track/4jBDVgixMTgSCrG2KTHrjl) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Ladybug Mecca](https://open.spotify.com/artist/2gbAU1PZLHR6eSPh0diTuX) | [Standing On The Corner “II"](https://open.spotify.com/album/2F3Xt5LTMNZ6vqAlMs5Yg5) | 5:45 | 2026-09-17 |  |
 | [Man of Your Dreams \(feat\. Samia\)](https://open.spotify.com/track/6aBR6BT722mKXNAKAOEsjj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Man of Your Dreams \(feat\. Samia\)](https://open.spotify.com/album/27bl4m4TthHdqCynWqa23q) | 2:32 | 2023-10-13 | 2023-11-18 |
 | [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-08 | 2022-08-13 |
 | [Man Who Loves You](https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:29 | 2022-07-08 | 2022-07-29 |
@@ -7998,7 +7999,7 @@
 | [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 | 2026-06-05 | 2026-08-01 |
 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L) | 3:06 | 2021-07-31 | 2021-09-18 |
 | [Secretary](https://open.spotify.com/track/30S5jXkco8CGH5kyzHxYKt) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [Bradford Cox](https://open.spotify.com/artist/6P2arVKIJ1e2gNWqMqRrEq) | [Secretary](https://open.spotify.com/album/1eHKfLtkgcozGMAvb5zltQ) | 2:41 | 2019-09-27 | 2019-10-11 |
-| [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 | 2026-08-28 |  |
+| [Secrets](https://open.spotify.com/track/21yxQW7hvIKZ73AmTDct6U) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Secrets](https://open.spotify.com/album/5MwxlSxoa05TkM2qnEVkdh) | 3:15 | 2026-08-28 | 2026-09-18 |
 | [Security Camera](https://open.spotify.com/track/3PsgBvZYuDB28d3V7JXNNd) | [Bridget Kearney](https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0) | [Security Camera](https://open.spotify.com/album/0M9sCAD6i8TG2AxZZq6Kyx) | 3:52 | 2024-01-12 | 2024-02-17 |
 | [Sedona](https://open.spotify.com/track/3skq6FFfYlswxG3sieiKl4) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sedona](https://open.spotify.com/album/3e1s424JrSESAjru3ltFvG) | 3:40 | 2019-06-14 | 2019-08-13 |
 | [See Me](https://open.spotify.com/track/00Pkz5jRGlXQ6u4pmWXrUt) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [See Me](https://open.spotify.com/album/6t7DtODogLkifcaJ8vUnMc) | 3:30 | 2019-07-12 | 2019-08-09 |

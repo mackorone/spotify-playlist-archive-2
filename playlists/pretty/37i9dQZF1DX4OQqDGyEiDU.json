@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
-  "num_followers": 121282,
+  "num_followers": 121283,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
+        "name": "\u82b1\u306b\u98a8",
+        "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "duration_ms": 225748,
+      "name": "\u82b1\u306b\u98a8",
+      "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
+    },
+    {
+      "added_at": "2026-09-01 15:00:11",
+      "album": {
         "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
         "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 195757,
       "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
-    },
-    {
-      "added_at": "2026-09-01 15:00:11",
-      "album": {
-        "name": "\u82b1\u306b\u98a8",
-        "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
-      },
-      "artists": [
-        {
-          "name": "balloon",
-          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
-        }
-      ],
-      "duration_ms": 225748,
-      "name": "\u82b1\u306b\u98a8",
-      "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
     },
     {
       "added_at": "2026-09-01 15:00:11",

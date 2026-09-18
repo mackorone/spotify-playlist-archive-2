@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Eindelijk Mezelf",
+        "url": "https://open.spotify.com/album/3m4wxl3CdPKHNaJMMCzFZl"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180125,
+      "name": "Mannen Kunnen Niet Alleen Zijn",
+      "url": "https://open.spotify.com/track/2IFrrEwJ2RNjVtt0AlxQug"
+    },
+    {
+      "album": {
         "name": "Met Mij Zijn",
         "url": "https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt"
       },

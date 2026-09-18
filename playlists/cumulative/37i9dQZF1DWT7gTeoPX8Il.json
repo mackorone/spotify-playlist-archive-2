@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 235000,
       "name": "Bebas",
       "url": "https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 277500,
       "name": "Bulir Darahku",
       "url": "https://open.spotify.com/track/1tWbWg7ZEoTJt0JV0mawgs"
@@ -1710,6 +1710,24 @@
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
+        "name": "PERTAMA",
+        "url": "https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Cukup Sekali",
+      "url": "https://open.spotify.com/track/0fVTCm9sDEp2vCaFHoV8fF"
     },
     {
       "album": {
@@ -3147,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Kasih Tercipta",
+        "url": "https://open.spotify.com/album/29tX1ZowYOPoD5cUpfoC45"
+      },
+      "artists": [
+        {
+          "name": "Faizal Tahir",
+          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251386,
+      "name": "Kasih Tercipta",
+      "url": "https://open.spotify.com/track/3G2DGwJxuTjujZ9sUhBdxI"
+    },
+    {
+      "album": {
         "name": "Kata",
         "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
@@ -4280,7 +4316,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 232000,
       "name": "Menjauh",
       "url": "https://open.spotify.com/track/31s9c4onUYoRas5RDOnDoR"
@@ -4400,7 +4436,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 259000,
       "name": "Nama Yang Tersimpan",
       "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
@@ -4747,6 +4783,24 @@
     },
     {
       "album": {
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266805,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk"
+    },
+    {
+      "album": {
         "name": "PERIT",
         "url": "https://open.spotify.com/album/33BnRd1FAtTRNJ4Lm255SZ"
       },
@@ -4830,7 +4884,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 244015,
       "name": "Pugar",
       "url": "https://open.spotify.com/track/3eo26uAD9G5raiXXXpABFQ"
@@ -4848,7 +4902,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 200738,
       "name": "Pura-Pura Hidup Lagi",
       "url": "https://open.spotify.com/track/0ZMycZdRRy0k621iSxOJgC"
@@ -6429,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "Big Stage Rocketfuel - Dominasi For Real",
+        "url": "https://open.spotify.com/album/5qFtaVKbT03WjWsrKHG96z"
+      },
+      "artists": [
+        {
+          "name": "Hussain",
+          "url": "https://open.spotify.com/artist/7pM3dWinKFuyNmMAHD0ddu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Takkan Pernah",
+      "url": "https://open.spotify.com/track/0iELiHJoMexn3eSMGUiiEc"
+    },
+    {
+      "album": {
         "name": "And the Story Continues...",
         "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
@@ -6692,7 +6764,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 214395,
       "name": "Terpatah Terluka",
       "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"

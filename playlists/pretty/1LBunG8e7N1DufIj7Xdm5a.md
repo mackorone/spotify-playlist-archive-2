@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,846 songs - 10 day 22 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,847 songs - 10 day 22 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4854,5 +4854,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4844 | [I Wanna Tell You](https://open.spotify.com/track/1LcmSL0XxrXWWWOds8Fi47) | [Jeye T](https://open.spotify.com/artist/1YbRJSGRT5fPJ2n28PNmnw) | [I Wanna Tell You](https://open.spotify.com/album/3TYOXrHJtLeD0C9ayvEC2x) | 3:24 |
 | 4845 | [Be Water My Friend](https://open.spotify.com/track/3sdi3e3G30q347yGVIuzG9) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW), [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Be Water My Friend](https://open.spotify.com/album/3ChAH5i8VofZE3uBVo3lN3) | 3:00 |
 | 4846 | [One More Sunrise](https://open.spotify.com/track/00NceuLhHFOKWaLKwQKLTV) | [AUREVAIN](https://open.spotify.com/artist/4tPzOCUsGbpJmDdWKUmr4x) | [One More Sunrise](https://open.spotify.com/album/1P6QYcDerRPjAQDcHpi5wv) | 5:22 |
+| 4847 | [The Ever Patient](https://open.spotify.com/track/1eGah37rhnWdb9Ve2qnzZ2) | [Atrocity Girl](https://open.spotify.com/artist/5XpzCpqGPiWJgWAAI1kRdp) | [The Ever Patient](https://open.spotify.com/album/7nX5qkjeBqvZo9UYneMQKW) | 3:59 |
 
-Snapshot ID: `AAAKEpVH/0gUMZuanrJdsorbEvMIXLEW`
+Snapshot ID: `AAAKEzzuDr46qbTmkTeddcOyyR74Mq5T`

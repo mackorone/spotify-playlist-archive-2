@@ -2,9 +2,9 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Bestial Mouths, Anne Bloom, JUST LIZZY and more
+> With Bestial Mouths, JUST LIZZY, The Dreamside and more
 
-1,222 songs - 3 day 6 hr 34 min
+1,224 songs - 3 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Cold Angel](https://open.spotify.com/track/1QxEP9UO7HxCmzqrFSfaWK) | [Brooke Henzell](https://open.spotify.com/artist/7K9VeniTqYO4sBD2WPIubC) | [Cold Angel](https://open.spotify.com/album/6Kz218YPDMfwRjfas78r8y) | 3:55 | 2026-06-06 | 2026-06-08 |
 | [Cold Sweats](https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG) | [NIGHTSISTER](https://open.spotify.com/artist/66hymmK6Ryn7DPftYan8Z8) | [Cold Sweats](https://open.spotify.com/album/0DhlQDE8DvC5L1fKXiTmLT) | 3:16 | 2026-06-24 | 2026-08-03 |
 | [Combat Boots](https://open.spotify.com/track/1rAjkYvW55s8G9Nlu1d4Ea) | [Black Cab](https://open.spotify.com/artist/0VcbeRonbiXxtXv98HXi56) | [Games of the XXI Olympiad](https://open.spotify.com/album/0hGtugyrMPDtalaYPbuF1I) | 4:40 | 2026-08-09 | 2026-08-11 |
-| [Come Away With Me](https://open.spotify.com/track/2eAarNEvaN2AeEpYE6rcwX) | [Powersiren](https://open.spotify.com/artist/559zNEbrpnS3vGH2os9LYe) | [Come Away With Me](https://open.spotify.com/album/6Hz5supO2FCCiOicqBTbxQ) | 3:50 | 2026-04-09 |  |
+| [Come Away With Me](https://open.spotify.com/track/2eAarNEvaN2AeEpYE6rcwX) | [Powersiren](https://open.spotify.com/artist/559zNEbrpnS3vGH2os9LYe) | [Come Away With Me](https://open.spotify.com/album/6Hz5supO2FCCiOicqBTbxQ) | 3:50 | 2026-04-09 | 2026-09-18 |
 | [Comfort in Disease](https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml) | [RUSTED WAYZ](https://open.spotify.com/artist/0FTt6R1TssaMfsfB3UQBj8) | [Comfort in Disease](https://open.spotify.com/album/1MiPFU74ksTdZek0fSA2ks) | 5:14 | 2026-03-03 | 2026-03-20 |
 | [Comfortably Numb](https://open.spotify.com/track/7sRuGGOjQ8fl43PYTZgfvJ) | [Bugeye](https://open.spotify.com/artist/5coA87VxMQH8xZRRbhc03m) | [Comfortably Numb](https://open.spotify.com/album/1EsBwHkNSLDOFEbJLqaYxs) | 3:16 | 2026-04-01 | 2026-04-24 |
 | [Coming Back To Life](https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd) | [Yatesy](https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A) | [Coming Back To Life](https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU) | 3:11 | 2025-12-15 | 2026-02-07 |
@@ -429,6 +429,7 @@
 | [Got a Letter](https://open.spotify.com/track/4AeTNIe8ncxsCSOiY94JGn) | [Adam Patten](https://open.spotify.com/artist/0uGYj6q7di6EZ52NBd3SAD) | [Got a Letter](https://open.spotify.com/album/5IWVUlWAawImDdoHIc3Xss) | 3:51 | 2026-01-25 | 2026-02-05 |
 | [Grackle Grackle](https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Kindred Spirits](https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB) | 2:22 | 2026-04-16 | 2026-04-17 |
 | [Grape Crush](https://open.spotify.com/track/4OqKb3MOfnufyrFnhDQnZO) | [Ecto Peach](https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD) | [Middle\-Aged Angst](https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK) | 3:27 | 2026-03-12 | 2026-03-19 |
+| [Grass is Greener](https://open.spotify.com/track/4FlwETxW5MrGqbJU1xSFeQ) | [Ania](https://open.spotify.com/artist/0k8Wb3d9ypoJidDfDyuwOq) | [Grass is Greener](https://open.spotify.com/album/3c4zhkl0tAODkmMDD20vGG) | 3:44 | 2026-09-18 |  |
 | [Great & Wild Unknown](https://open.spotify.com/track/5UcOZNczYnfPca9hgM167s) | [Surge 7.4](https://open.spotify.com/artist/6YSjbUCr6T1WDl2uFdcTAG) | [Great & Wild Unknown](https://open.spotify.com/album/5v34QMa5URQ8rhUuFCgbsk) | 2:38 | 2026-06-13 | 2026-06-14 |
 | [Grenn Eyes](https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY) | [OlD NATIVE OMEN](https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8) | [Grenn Eyes](https://open.spotify.com/album/56PC4kDxMMgfNqSRyW1nIF) | 4:54 | 2026-06-24 | 2026-07-31 |
 | [Grown](https://open.spotify.com/track/1vjufCksVoE9yKM5sZS4tZ) | [M@](https://open.spotify.com/artist/6NiBMHnqw4VlZUQikcfUp6) | [Grown](https://open.spotify.com/album/0uiwvGwSs9y8QGGzHXh6dU) | 2:34 | 2025-12-16 | 2026-01-02 |
@@ -617,7 +618,7 @@
 | [Life's a Party](https://open.spotify.com/track/1QWy0cx6ApyVqwwmrpXmha) | [Vyvyan Hammond](https://open.spotify.com/artist/1JPouwqYivSkQIKFLLoIzp) | [Life's a Party](https://open.spotify.com/album/0dcRIfzAlXsjbtLb6fwdfg) | 4:08 | 2026-02-06 | 2026-02-13 |
 | [Lifetime after Lifetime](https://open.spotify.com/track/0vTyD8HiKwyRn6e5xq37Jm) | [Lauren River](https://open.spotify.com/artist/5FM6nstcOmtbNuLMOShtmU) | [Lifetime after Lifetime](https://open.spotify.com/album/2LOM13hCndLOWvxvL2svtI) | 3:33 | 2026-01-15 | 2026-01-28 |
 | [Light Dust](https://open.spotify.com/track/25yGvrrEFaaGbg68W9fQAg) | [Swayglow](https://open.spotify.com/artist/0cWIouOxG73D2of9FND4uX) | [Light Dust](https://open.spotify.com/album/1ouEUahkievd9I7rOXKzJ5) | 3:36 | 2026-02-10 | 2026-02-15 |
-| [lighter \- sped up](https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9) | [blehsyu](https://open.spotify.com/artist/0IgDANBWT6PIBv21ZfBTU6) | [lighter \(sped up\)](https://open.spotify.com/album/2LlwyD00A6Ekz1vxqpIqbY) | 2:39 | 2026-04-07 |  |
+| [lighter \- sped up](https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9) | [blehsyu](https://open.spotify.com/artist/0IgDANBWT6PIBv21ZfBTU6) | [lighter \(sped up\)](https://open.spotify.com/album/2LlwyD00A6Ekz1vxqpIqbY) | 2:39 | 2026-04-07 | 2026-09-18 |
 | [Lights Out](https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An) | [Bernice Marsala](https://open.spotify.com/artist/6EOAO71s6M1OHRYji1wu6A) | [Lights Out](https://open.spotify.com/album/3QzqgP3oQlMWVVGNIPk2MW) | 2:28 | 2026-06-08 | 2026-06-14 |
 | [Like We Do](https://open.spotify.com/track/3Y4Mg4esHNP5my44vm9L5P) | [UNMET](https://open.spotify.com/artist/3DNs8UqLT2nyB2oAgbBy04) | [Like We Do](https://open.spotify.com/album/1VvAV5ytfDxHJ37LxXZaTA) | 3:45 | 2026-09-02 | 2026-09-05 |
 | [Lilylicker](https://open.spotify.com/track/7jkTqauzknvA7343TxUC56) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [Appendices](https://open.spotify.com/album/1OQgKWwS9Z9yfZ5CcpFqPw) | 4:46 | 2026-07-15 | 2026-07-22 |
@@ -1022,7 +1023,7 @@
 | [The Girl In Room 9](https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4) | [The Exceptional Mr Hyde](https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp) | [The Girl In Room 9](https://open.spotify.com/album/5zpXk19unE6IduKcYOjz5c) | 3:19 | 2026-05-20 | 2026-09-06 |
 | [The Grift That Keeps Grifting](https://open.spotify.com/track/7gcY52fTTSXx0G5KdeBHEz) | [Pandemik9](https://open.spotify.com/artist/11Lexrg2IzmpzdrMqZNab0) | [The Grift That Keeps Grifting](https://open.spotify.com/album/3V9OYo3tqbqfjcbhtctFuW) | 6:34 | 2026-01-31 | 2026-02-04 |
 | [The Half Light](https://open.spotify.com/track/3wJMMP4tuwGsJpUicfyDnv) | [Talk To Her](https://open.spotify.com/artist/3TUKY2mo7nyRxZU35FYJyq) | [Pleasure Loss Desire](https://open.spotify.com/album/2MiShmQoZYG5JPl9Umy5KZ) | 3:22 | 2026-01-15 | 2026-01-17 |
-| [The Illness](https://open.spotify.com/track/2LFMaAVjB44YC2I8mxzv53) | [Medicine Beard](https://open.spotify.com/artist/5N241nOKWee57HvlLjkfOw) | [The Illness](https://open.spotify.com/album/2EsiNnwLIv7IeE1orc0raC) | 5:28 | 2026-09-09 | 2026-09-10 |
+| [The Illness](https://open.spotify.com/track/2LFMaAVjB44YC2I8mxzv53) | [Medicine Beard](https://open.spotify.com/artist/5N241nOKWee57HvlLjkfOw) | [The Illness](https://open.spotify.com/album/2EsiNnwLIv7IeE1orc0raC) | 5:28 | 2026-09-09 |  |
 | [The Infinite Sadness](https://open.spotify.com/track/7IVMaXQENMxMNXihA6D8xT) | [I'm Chasin' Dragonz](https://open.spotify.com/artist/01ZIfhpC5JnHGBP4z59nxm) | [The Infinite Sadness](https://open.spotify.com/album/523f7cbyl1jNRDJ0AMwoTd) | 3:42 | 2026-04-07 | 2026-04-08 |
 | [The Innocent](https://open.spotify.com/track/50hhk6G6CwOy9TDFx0Pwv0) | [Paul McBoi](https://open.spotify.com/artist/18tsHZndduQW9GPOTa8a4a) | [The Innocent](https://open.spotify.com/album/5e8bHDGkHaknTQfmF5yxcn) | 3:21 | 2026-06-06 | 2026-06-16 |
 | [The Internet](https://open.spotify.com/track/3JjQpezBYZXEb6KVNJfmS1) | [Le Junk](https://open.spotify.com/artist/1D7t491zeHBWe0mOQZNySz) | [The Internet](https://open.spotify.com/album/6tKueLDkCdKmS8yuNP9l0i) | 3:26 | 2025-12-10 | 2025-12-14 |
@@ -1091,6 +1092,7 @@
 | [TOMORROW.IS.GONE](https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x) | [VERTTIGO](https://open.spotify.com/artist/7eLn91iQ7lCk8ZJqxYfYzk) | [TOMORROW IS GONE](https://open.spotify.com/album/58o8r2xvBEHozoyjxzwyaS) | 3:04 | 2026-03-10 | 2026-03-28 |
 | [Tonight](https://open.spotify.com/track/151MFSvaUCyiStAQbCp7xT) | [Vioflesh](https://open.spotify.com/artist/28D07CaIZSfHVqlrlgtb70) | [Tonight](https://open.spotify.com/album/0dDlOkj4qPx4bhc5eoleLX) | 5:21 | 2025-11-23 | 2025-11-26 |
 | [Too Good To Stay \- Too Good To Stay Moongoose Remix](https://open.spotify.com/track/0psJuZSCJUhet6l0iGLNDv) | [The Woodentops](https://open.spotify.com/artist/6An62UauVVUH7OCxt5bnZu) | [Too Good To Stay \(Too Good To Stay Moongoose Remix\)](https://open.spotify.com/album/2MItSzaR3aZN6zOqsFjb2Q) | 7:10 | 2026-08-15 | 2026-08-19 |
+| [Too Much](https://open.spotify.com/track/3g9IrLHd9WgckbUiFfoY86) | [AN\_NA](https://open.spotify.com/artist/47dUQROsmHOeLJrunpKWUM) | [Too Much](https://open.spotify.com/album/0sjOs2nzrdejoqYtmuGHbh) | 6:23 | 2026-09-18 |  |
 | [torture](https://open.spotify.com/track/3AYZBPuQe4fDexIJyVElwj) | [two different places](https://open.spotify.com/artist/7gNuj6KM4SsAPZeiqeYsP1) | [torture](https://open.spotify.com/album/2OnZt30GnQtaajC91LtVP1) | 4:07 | 2026-04-02 | 2026-04-07 |
 | [Touch](https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS) | [Purple Universe](https://open.spotify.com/artist/2OpC5QjBcIPjqqjprF7Tca) | [Purple Universe](https://open.spotify.com/album/4PD2nlgoABzqcLnnXNKLRo) | 3:17 | 2026-02-10 | 2026-03-08 |
 | [Toxic Kingdom](https://open.spotify.com/track/4O3M1FXfhxFOSesi0nSWPS) | [JZ](https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1) | [Toxic Kingdom](https://open.spotify.com/album/6nOJrIreW0vKr1AFTuQQLt) | 1:56 | 2026-05-04 | 2026-06-04 |
@@ -1114,7 +1116,7 @@
 | [Two People Running in the Rain](https://open.spotify.com/track/3fm6hZ9AWEl1tk2OpDOiG5) | [The Blackburns](https://open.spotify.com/artist/1OcrZeKFjpOy6Z3pUM3ztY) | [Two People Running in the Rain](https://open.spotify.com/album/5z0bcRF7H6od6CB7HGHKUv) | 3:40 | 2026-04-21 | 2026-04-22 |
 | [two vampires](https://open.spotify.com/track/7i4gNccpFhJaT4yMHPsWN2) | [ZRVANI](https://open.spotify.com/artist/1DcEvngp6nkjhrw7rDpaJD) | [two vampires](https://open.spotify.com/album/0hgumnSr3X4YUcsne0bRrI) | 2:35 | 2026-07-27 |  |
 | [Unbound](https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj) | [Neural Groove Machine](https://open.spotify.com/artist/3ec16T2vMbjJi4luOqt6ps) | [Unbound](https://open.spotify.com/album/3eIhoulM8N8HmZinvJKFHd) | 2:48 | 2025-11-19 | 2025-12-14 |
-| [Under My Skin](https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [PIECES](https://open.spotify.com/album/6ntJNABlm4o6BhBgDrygSM) | 4:26 | 2025-11-19 |  |
+| [Under My Skin](https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [PIECES](https://open.spotify.com/album/6ntJNABlm4o6BhBgDrygSM) | 4:26 | 2025-11-19 | 2026-09-18 |
 | [under my skin \(demo\)](https://open.spotify.com/track/3U8porrSye8OTl8aOxZMi1) | [Malina Scar](https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18) | [under my skin \(demo\)](https://open.spotify.com/album/1Ghezk2WQgluCQgxWfRnYP) | 2:55 | 2026-05-06 | 2026-05-20 |
 | [Under Your Skin](https://open.spotify.com/track/3UbZxHjScqE6eWmXbR9zX4) | [Silke Bischoff](https://open.spotify.com/artist/2dVZIOcClYr3ounVICYgKJ) | [Under Your Skin](https://open.spotify.com/album/7vDe5uexINfA5ELF2mtFln) | 6:06 | 2026-08-23 | 2026-09-04 |
 | [Unexpected Love \- The Axiom Divide Remix](https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf) | [Ex\-Hyena](https://open.spotify.com/artist/11D5VgpWFKj07ubyMkhhtS), [The Axiom Divide](https://open.spotify.com/artist/4e31B2WHoGxy55ieWkGA6B) | [Details Fade](https://open.spotify.com/album/5T10bcTgNB0WgB830zi1QE) | 6:14 | 2026-08-22 | 2026-09-07 |

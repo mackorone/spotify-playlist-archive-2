@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 823919,
+  "num_followers": 824261,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Produced & Remixed",
         "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 515173,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "7 Colours (The Remixes)",
         "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195360,
       "name": "7 Colours - Radio Edit",
       "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Fitness Beats 2013",
-        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
-      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Retrospective (25 Years)",
         "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 188099,
       "name": "Sun & Moon - Above & Beyond Club Mix",
       "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Fitness Beats 2013",
+        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
+      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Ferry Corsten Collected",
-        "url": "https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN"
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB"
       },
       "artists": [
         {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Punk",
-      "url": "https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF"
+      "duration_ms": 192866,
+      "name": "Can't Sleep - Radio Edit",
+      "url": "https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy"
     }
   ],
   "unique_name": "Trance Classics",

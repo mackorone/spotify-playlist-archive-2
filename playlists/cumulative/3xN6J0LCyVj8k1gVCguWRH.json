@@ -32405,6 +32405,24 @@
     },
     {
       "album": {
+        "name": "Enchanting",
+        "url": "https://open.spotify.com/album/5yc7UjptpODLhoUFsK52D8"
+      },
+      "artists": [
+        {
+          "name": "Iris Stryx",
+          "url": "https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Enchanting",
+      "url": "https://open.spotify.com/track/1WNk4MQeOAi7Q3AiyVsGBh"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -61552,6 +61570,28 @@
       "duration_ms": 143995,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/48pyjW0tKItRLRcTTsHhCu"
+    },
+    {
+      "album": {
+        "name": "Light Up The Night",
+        "url": "https://open.spotify.com/album/50P5Uaeuec09E8cbnwNEPg"
+      },
+      "artists": [
+        {
+          "name": "mama no likey",
+          "url": "https://open.spotify.com/artist/6oR8sN0wuLcxt6vqGeAL5f"
+        },
+        {
+          "name": "Maddi Lasker",
+          "url": "https://open.spotify.com/artist/1K4btyJ0gnkj3QYu8nbwSe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Light Up The Night",
+      "url": "https://open.spotify.com/track/1aNhLOjqboXs4BidNVDA23"
     },
     {
       "album": {

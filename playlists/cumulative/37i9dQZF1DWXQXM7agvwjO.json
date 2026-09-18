@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: IV OF SPADES (Philippines)",
+  "description": "Hottest indie sounds from Asia. Cover: HUGEN (Japan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 260682,
       "name": "\"L\"",
       "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+    },
+    {
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/6UlNuUeJ0j05dkPs1Hpdf4"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154184,
+      "name": "\"RBF\"",
+      "url": "https://open.spotify.com/track/6c1TnJhCNqGo77QjcJLFG2"
     },
     {
       "album": {
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 193304,
       "name": "Are We Done Yet?",
       "url": "https://open.spotify.com/track/1Cl2Nztb0qb0WaohrFXEYA"
@@ -7300,7 +7318,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 228730,
       "name": "Chiang Mai (CNX)",
       "url": "https://open.spotify.com/track/17iAYJAFh0ZGC0vz9UxKeE"
@@ -8496,7 +8514,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 147994,
       "name": "count-up. (feat. VivaOla)",
       "url": "https://open.spotify.com/track/2Ur8I59v4Kvn61AMHrEtRU"
@@ -9460,7 +9478,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 234857,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/24OMxtV51ASxfYrPQ3jvBN"
@@ -14334,6 +14352,24 @@
     {
       "album": {
         "name": "Forest",
+        "url": "https://open.spotify.com/album/1CoIsQRphg8FXUcVok0nrl"
+      },
+      "artists": [
+        {
+          "name": "Roypim",
+          "url": "https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/6Yk3Q1wWdPB5RJksJfPqpx"
+    },
+    {
+      "album": {
+        "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
       },
       "artists": [
@@ -14693,6 +14729,24 @@
     },
     {
       "album": {
+        "name": "Fujin-Dori",
+        "url": "https://open.spotify.com/album/6ehWbYdX6jEX8aYZg05b0L"
+      },
+      "artists": [
+        {
+          "name": "HUGEN",
+          "url": "https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196380,
+      "name": "Fujin-Dori",
+      "url": "https://open.spotify.com/track/4bph055fcFRReGUxM83Lsp"
+    },
+    {
+      "album": {
         "name": "FULL TIME LOVER",
         "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
       },
@@ -14998,6 +15052,24 @@
       "duration_ms": 259853,
       "name": "Genius Made by Publishers",
       "url": "https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe"
+    },
+    {
+      "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/1HargMicV3XdokTNwMDSlo"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1XozgDs3cR64UKYcUS78CW"
     },
     {
       "album": {
@@ -17438,7 +17510,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 401000,
       "name": "Hisoku Blue",
       "url": "https://open.spotify.com/track/4dyBx65ffgL2h8ju7bWCAi"
@@ -27250,7 +27322,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 148189,
       "name": "more",
       "url": "https://open.spotify.com/track/7r1r8fn7iAj8fqOjocuIJc"
@@ -27980,6 +28052,24 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "album": {
+        "name": "My Spirit Is Reggie",
+        "url": "https://open.spotify.com/album/7EBqSTaXdU2jDIu6oWxSQD"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192015,
+      "name": "My Spirit Is Reggie",
+      "url": "https://open.spotify.com/track/66RqXP3FkVSoDS9m6w8bjV"
     },
     {
       "album": {
@@ -34637,6 +34727,24 @@
     },
     {
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/1JVaV7mszfevApAkTzzEAP"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258122,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj"
+    },
+    {
+      "album": {
         "name": "sagittarius",
         "url": "https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h"
       },
@@ -35152,6 +35260,32 @@
       "duration_ms": 216428,
       "name": "Scrolling ('till the end of the world)",
       "url": "https://open.spotify.com/track/0xgs9uhySy9oPi9KM0RL2d"
+    },
+    {
+      "album": {
+        "name": "Sea Against Stars (feat. MIRAII\u672a\u4f86 of NOVAGL\u00d8W)",
+        "url": "https://open.spotify.com/album/6ggNRkOJsYYahEKVufLTFC"
+      },
+      "artists": [
+        {
+          "name": "Seasons for Change",
+          "url": "https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT"
+        },
+        {
+          "name": "KASA",
+          "url": "https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO"
+        },
+        {
+          "name": "MIRAII\u672a\u4f86",
+          "url": "https://open.spotify.com/artist/4ix7LjKHdpg3OkvQz4U62M"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194371,
+      "name": "Sea Against Stars (feat. MIRAII\u672a\u4f86 of NOVAGL\u00d8W)",
+      "url": "https://open.spotify.com/track/6AcFkbvEqyt1sOOkYXM7Fz"
     },
     {
       "album": {
@@ -40722,7 +40856,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 241927,
       "name": "That day",
       "url": "https://open.spotify.com/track/2lPRBgWyOyISX77CWZXFhy"
@@ -41080,6 +41214,28 @@
       "duration_ms": 266000,
       "name": "The Man In The Mirror",
       "url": "https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/77s1mjVwdAxY6LWsI523yy"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4yxrARgqW2FBvnaCDlqoNc"
     },
     {
       "album": {
@@ -42711,6 +42867,28 @@
     },
     {
       "album": {
+        "name": "Transgressions (feat. Rol3ert)",
+        "url": "https://open.spotify.com/album/7tJLjRb9Y6YyfgF40LwrTA"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        },
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Transgressions - feat. Rol3ert",
+      "url": "https://open.spotify.com/track/6ReWKgFx1yyQMDumJgHcm4"
+    },
+    {
+      "album": {
         "name": "trippin",
         "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
       },
@@ -44156,7 +44334,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 254482,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw"
@@ -48948,7 +49126,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 325639,
       "name": "\u307e\u3056\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2hjDESuFlkZLibXeCDpVQc"
@@ -52153,6 +52331,28 @@
     },
     {
       "album": {
+        "name": "\u50cd\u304f\u3053\u3068\u3001\u4f11\u3080\u3053\u3068\u3002",
+        "url": "https://open.spotify.com/album/6a5Cn3vSyE0faoZUoMkusM"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        },
+        {
+          "name": "\u9673\u4ee5\u6046",
+          "url": "https://open.spotify.com/artist/26ptiw0RrtrYZcRPPGHj5G"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u706f\u308a\u96ea - feat.\u9673\u4ee5\u6046",
+      "url": "https://open.spotify.com/track/0zc5H3xABN3TqPjIldNlxO"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1tZS4OOoBZbwcJ6WU0fUex"
       },
@@ -52512,7 +52712,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 219500,
       "name": "\u82d7\u5b57",
       "url": "https://open.spotify.com/track/5j20VykSk7JZrCBHBksCGU"

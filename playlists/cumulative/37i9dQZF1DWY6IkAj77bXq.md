@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-324 songs - 15 hr 52 min
+325 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Coastal Day](https://open.spotify.com/track/4anG3kAHgtrTnn8aZd444Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Coastal Day](https://open.spotify.com/album/46qfLAjD8zAQC5a2PlGwbX) | 2:31 | 2024-11-07 |  |
 | [Comforting Sunshine](https://open.spotify.com/track/5dZCZUc0WySvpgeaVuvVSr) | [Rose Wells](https://open.spotify.com/artist/3knchE3iZkUeX7Ja2Q1dEc) | [Comforting Sunshine](https://open.spotify.com/album/4s2EEf4zyAhEDY2G5rijuC) | 2:26 | 2024-07-19 | 2024-09-03 |
 | [Constellation](https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO) | [Renoir Rose](https://open.spotify.com/artist/5CAi5m67hzXUmCv1XtHjZZ) | [Constellation](https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D) | 2:34 | 2026-07-03 |  |
+| [Constellation](https://open.spotify.com/track/7mNsW1pk3uRfVag5Ma6iuV) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Constellation](https://open.spotify.com/album/7LQAlFRkuKMVvZAtPRrgS3) | 3:54 | 2026-09-14 |  |
 | [Continuazione](https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU) | [Aamina Russo](https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO) | [Continuazione](https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT) | 2:16 | 2024-02-16 | 2025-03-22 |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-01-30 | 2025-11-28 |
 | [Crystal Cavern](https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Crystal Cavern](https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7) | 3:29 | 2025-07-24 |  |
@@ -174,7 +175,7 @@
 | [Lumen](https://open.spotify.com/track/482J65aOwVVsf01c7ktAvM) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Lumen](https://open.spotify.com/album/025PjPtslp6pG3gm40PJ8n) | 2:56 | 2026-02-11 |  |
 | [Lysekil](https://open.spotify.com/track/3ebnip37XXVpR1nGsG9in8) | [Liva](https://open.spotify.com/artist/3OUnfI9kqulSplNuBsIf1p) | [Lysekil](https://open.spotify.com/album/3dydgFWdBBzacCf4OoNr9T) | 2:42 | 2025-01-14 | 2025-02-17 |
 | [Maitrī / Loving\-Kindness](https://open.spotify.com/track/3fxhUzK3MnVxAuLweBht7Z) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Prabhāta Dhara / Morning Flow](https://open.spotify.com/album/2sPa9bingfnxan7LKLOivy) | 3:24 | 2025-03-19 |  |
-| [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 | 2024-03-14 |  |
+| [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 | 2024-03-14 | 2026-09-18 |
 | [Meditatio Lux](https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Meditatio Lux](https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO) | 3:45 | 2024-07-19 |  |
 | [Mesmerize](https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Mesmerize](https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL) | 2:43 | 2023-10-04 | 2024-04-19 |
 | [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 | 2023-08-25 | 2026-07-04 |

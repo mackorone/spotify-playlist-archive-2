@@ -1,6 +1,6 @@
 {
   "description": "My enemy na sapa",
-  "num_followers": 93197,
+  "num_followers": 93264,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
       "duration_ms": 162063,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+    },
+    {
+      "added_at": "2026-09-11 00:01:47",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/0ZIBldCBiuFLx1WKUpneQU"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 124144,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr"
     },
     {
       "added_at": "2026-09-11 00:01:47",

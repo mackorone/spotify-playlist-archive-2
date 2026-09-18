@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Domiziana",
+  "description": "Deutschpop, der jetzt passiert. Cover: Dani Lia, Yola",
   "name": "POPLAND",
   "tracks": [
     {
@@ -154,6 +154,28 @@
       "duration_ms": 143598,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1WL00S2ZMYdvQ7wCNDnlze"
+    },
+    {
+      "album": {
+        "name": "LAUT SEIN (IMMER)",
+        "url": "https://open.spotify.com/album/2bFYdtN8AhzRn6qAdZh8ur"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120061,
+      "name": "29 grad",
+      "url": "https://open.spotify.com/track/61YEx2pliYbXovYldVHJPp"
     },
     {
       "album": {
@@ -652,7 +674,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 141188,
       "name": "Alles nur f\u00fcr mich",
       "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
@@ -1251,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Aus Versehen",
+        "url": "https://open.spotify.com/album/58All3lw6oST8an9FTm5Vv"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176665,
+      "name": "Aus Versehen",
+      "url": "https://open.spotify.com/track/1coin7rtEKb0rDoYV4hbd6"
+    },
+    {
+      "album": {
         "name": "ausnahmsweise",
         "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
       },
@@ -1753,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Wenn ich ehrlich bin",
+        "url": "https://open.spotify.com/album/5oSiw98KsjZSFc8jxArj6i"
+      },
+      "artists": [
+        {
+          "name": "Luna Simao",
+          "url": "https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156063,
+      "name": "Brombeeren unter Dornen",
+      "url": "https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h"
+    },
+    {
+      "album": {
         "name": "Bus fahren",
         "url": "https://open.spotify.com/album/27kalF4EET0sWbqW6pxagJ"
       },
@@ -1944,7 +2002,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 161800,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/5NedJfaIhX0hfQ3dS9JRZC"
@@ -2204,6 +2262,24 @@
       "duration_ms": 139973,
       "name": "Das Leben",
       "url": "https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M"
+    },
+    {
+      "album": {
+        "name": "Das Leben ist ein Arschloch",
+        "url": "https://open.spotify.com/album/7yVMrBKjiJVEyxiLQrQYzx"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148712,
+      "name": "Das Leben ist ein Arschloch",
+      "url": "https://open.spotify.com/track/5GA62KHW9EiCGOCW7BzopV"
     },
     {
       "album": {
@@ -2870,7 +2946,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 151203,
       "name": "Drau\u00dfen Sein",
       "url": "https://open.spotify.com/track/4IpfsT0FbnqgAIlBaCWGbL"
@@ -3142,7 +3218,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 182000,
       "name": "dumme sachen f\u00fchlen",
       "url": "https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB"
@@ -3362,7 +3438,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 144204,
       "name": "ein zwei aperol",
       "url": "https://open.spotify.com/track/06AFtWhDruNqPNn92idRJ1"
@@ -4352,6 +4428,24 @@
       "duration_ms": 147000,
       "name": "f\u00fcr ne weile",
       "url": "https://open.spotify.com/track/4yTeSHTQJhrVpmfDwOGt9q"
+    },
+    {
+      "album": {
+        "name": "\u00fcber gestern reden wir morgen",
+        "url": "https://open.spotify.com/album/4gnDXkEKJIEVoYmIrI7IIr"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152201,
+      "name": "garten eden",
+      "url": "https://open.spotify.com/track/4XKjDaNyOadHQ4CNZIgTaq"
     },
     {
       "album": {
@@ -5398,7 +5492,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 214203,
       "name": "Heute mal bei mir",
       "url": "https://open.spotify.com/track/6KFNOPPR75VnqrK8xkJWaT"
@@ -7181,6 +7275,28 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/2mVbuK0efJoXawCNFXuYlq"
+      },
+      "artists": [
+        {
+          "name": "LEA x LINDA",
+          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
+        },
+        {
+          "name": "olivia",
+          "url": "https://open.spotify.com/artist/09pzmxnDpLAZ4olHFFjVpm"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149534,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/6qdSUWTyTVLZEppDVPsxIB"
+    },
+    {
+      "album": {
         "name": "La Terraza",
         "url": "https://open.spotify.com/album/6w8LQrv6gqaD44t0F4IhKh"
       },
@@ -7456,6 +7572,24 @@
       "duration_ms": 210073,
       "name": "Leise",
       "url": "https://open.spotify.com/track/74b7U40UyovtnZPAzIuWLr"
+    },
+    {
+      "album": {
+        "name": "Leiser",
+        "url": "https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY"
+      },
+      "artists": [
+        {
+          "name": "LIYO",
+          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180419,
+      "name": "Leiser",
+      "url": "https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS"
     },
     {
       "album": {
@@ -9176,7 +9310,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 181000,
       "name": "NIE WIEDER VERLIEBEN",
       "url": "https://open.spotify.com/track/47gklMn1a3YveTOXtEJKxe"
@@ -9564,6 +9698,28 @@
       "duration_ms": 127726,
       "name": "OOTD",
       "url": "https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6"
+    },
+    {
+      "album": {
+        "name": "Optimistisch",
+        "url": "https://open.spotify.com/album/6tDdSd2I3qQhhTcoHtn0Ky"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        },
+        {
+          "name": "leiseer",
+          "url": "https://open.spotify.com/artist/4wNGXnmteSkCfJ4aigVsyz"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "Optimistisch",
+      "url": "https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6"
     },
     {
       "album": {
@@ -10346,7 +10502,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 242727,
       "name": "RUNTERSP\u00dcLEN",
       "url": "https://open.spotify.com/track/5yItdb5uv8huD7P7JPisXz"
@@ -10646,7 +10802,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 135790,
       "name": "seit wir 14 sind",
       "url": "https://open.spotify.com/track/671KetA7pWmDgB0LW4KcfG"
@@ -10816,7 +10972,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 201777,
       "name": "SO F\u00dcHLT SICH LIEBE AN",
       "url": "https://open.spotify.com/track/5GTVtAPY9Fe6Fb2UyI9vR6"
@@ -11207,6 +11363,28 @@
     },
     {
       "album": {
+        "name": "Stille K\u00e4mpfe",
+        "url": "https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167615,
+      "name": "Stille K\u00e4mpfe",
+      "url": "https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV"
+    },
+    {
+      "album": {
         "name": "Stolz auf dich",
         "url": "https://open.spotify.com/album/7l4ntqUQwfmoocsbY5DDMB"
       },
@@ -11532,6 +11710,24 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
+    },
+    {
+      "album": {
+        "name": "harte mackerinnen ep",
+        "url": "https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
     },
     {
       "album": {
@@ -12048,7 +12244,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 120359,
       "name": "Von Allein",
       "url": "https://open.spotify.com/track/4aETrfOQnEIX76NM6KZmhy"
@@ -13314,6 +13510,24 @@
       "duration_ms": 152724,
       "name": "wof\u00fcr es sich zu leben lohnt",
       "url": "https://open.spotify.com/track/0lhvWUPpRFqP6ySKAU0qd6"
+    },
+    {
+      "album": {
+        "name": "WOHER WILLST DU WISSEN",
+        "url": "https://open.spotify.com/album/3uViUrp9T78iaoL1ZU2eue"
+      },
+      "artists": [
+        {
+          "name": "CIVAN",
+          "url": "https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "WOHER WILLST DU WISSEN",
+      "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"
     },
     {
       "album": {

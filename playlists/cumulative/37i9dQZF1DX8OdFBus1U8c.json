@@ -8381,6 +8381,32 @@
     },
     {
       "album": {
+        "name": "Ottayan",
+        "url": "https://open.spotify.com/album/1YCNcsDO4fJSuHeuQDcL1F"
+      },
+      "artists": [
+        {
+          "name": "Sarshyamzz",
+          "url": "https://open.spotify.com/artist/2LGSJ6GNqcRiBiu4tEW0H6"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "Don Poga",
+          "url": "https://open.spotify.com/artist/4duDFj13hsjp3CLlo2fXFP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Ottayan",
+      "url": "https://open.spotify.com/track/04AvKyPlJPbsVSm0REzsTd"
+    },
+    {
+      "album": {
         "name": "OVER THINKING",
         "url": "https://open.spotify.com/album/0xqKUVo3T8qbYie8NO1KFt"
       },
@@ -10388,7 +10414,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 194000,
       "name": "SHUNDA MANDI",
       "url": "https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2"

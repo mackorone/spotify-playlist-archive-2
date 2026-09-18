@@ -8603,6 +8603,28 @@
     },
     {
       "album": {
+        "name": "CULXX",
+        "url": "https://open.spotify.com/album/0MKj7Eik6nMRkuIMjsABe4"
+      },
+      "artists": [
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "CULXX",
+      "url": "https://open.spotify.com/track/36qfM90od24onJ50oQj5IR"
+    },
+    {
+      "album": {
         "name": "Cumbia Loca",
         "url": "https://open.spotify.com/album/4fuAu1zjMIVb8GKIfGK5sE"
       },

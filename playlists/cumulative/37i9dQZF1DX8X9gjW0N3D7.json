@@ -7459,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "On partira",
+        "url": "https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT"
+      },
+      "artists": [
+        {
+          "name": "Olivier Bergeron",
+          "url": "https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144727,
+      "name": "On partira",
+      "url": "https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y"
+    },
+    {
+      "album": {
         "name": "On s'en fout",
         "url": "https://open.spotify.com/album/0DWVfBrmDHx8okcNGFUEkp"
       },
@@ -8536,7 +8554,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 147272,
       "name": "rappelle-moi comme je t'aime",
       "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"

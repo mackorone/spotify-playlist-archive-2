@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 173400,
       "name": "Akh Mastani",
       "url": "https://open.spotify.com/track/4IupSjrVogMJCM37NgmStF"
@@ -5502,6 +5502,10 @@
         {
           "name": "Desi Trap Music",
           "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        },
+        {
+          "name": "Gavy Dhindsa",
+          "url": "https://open.spotify.com/artist/0XysuA3jRpyGqO8FLXJyz6"
         }
       ],
       "date_added": "2026-08-27",
@@ -7092,6 +7096,24 @@
       "duration_ms": 225317,
       "name": "Piche Piche",
       "url": "https://open.spotify.com/track/5q3xhjQmJnApFdzeQDV2oS"
+    },
+    {
+      "album": {
+        "name": "Pindaan Wale Jatt (Ninja)",
+        "url": "https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244870,
+      "name": "Pindaan Wale Jatt - Ninja",
+      "url": "https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT"
     },
     {
       "album": {

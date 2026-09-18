@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 278602,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/1WQRZOXfnHiqwJk6DTrKLj"
@@ -8568,6 +8568,28 @@
       "duration_ms": 387491,
       "name": "Friction",
       "url": "https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf"
+    },
+    {
+      "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/55dAx2VsMZcrW49E4xM9o8"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/3xLmO2AdFnchkMMnQktOYL"
     },
     {
       "album": {
@@ -16782,7 +16804,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 218276,
       "name": "Planetfall Part 2",
       "url": "https://open.spotify.com/track/1YbW83lEjWzOMtbKIA0Jg9"
@@ -22695,6 +22717,24 @@
     },
     {
       "album": {
+        "name": "FJAAK 015",
+        "url": "https://open.spotify.com/album/5yoUmEqbqRAeB7WLtp8HAX"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328309,
+      "name": "Threshold",
+      "url": "https://open.spotify.com/track/0uswdcxt2jVM5DGHDhcvtO"
+    },
+    {
+      "album": {
         "name": "Through My Veins EP",
         "url": "https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod"
       },
@@ -22973,6 +23013,24 @@
     },
     {
       "album": {
+        "name": "Non Fidarti",
+        "url": "https://open.spotify.com/album/1mfntUrTGdSbaB60GvcWu5"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cornae",
+          "url": "https://open.spotify.com/artist/0iS9Zzud5hNvjx0wVfIVvd"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277551,
+      "name": "Tool 1",
+      "url": "https://open.spotify.com/track/5SvA2nYqDdYkl0w7CYLzVW"
+    },
+    {
+      "album": {
         "name": "Torn Clouds",
         "url": "https://open.spotify.com/album/0N6QCUx6mnYk9fJmXavTek"
       },
@@ -23100,7 +23158,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-18",
       "duration_ms": 240652,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/7EtsSDClnohbfThEcoqe2d"

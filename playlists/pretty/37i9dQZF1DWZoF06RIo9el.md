@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,257 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,109 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 27 | [IKAKOS](https://open.spotify.com/track/70ER71dzYrmYrZSw1SrgYH) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [IKAKOS](https://open.spotify.com/album/1660hJCPaTxZl8DmZJ6BA4) | 2:48 |
 | 28 | [Ya No Regreses](https://open.spotify.com/track/0epL8uV1kkMnUGlKxGT4yH) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Ya No Regreses](https://open.spotify.com/album/1K2vyn9zRYRLXImeLuDe3L) | 3:00 |
 | 29 | [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 |
-| 30 | [Estratosférico](https://open.spotify.com/track/7i2CjzSK2cHAQkkWNoQz2O) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:05 |
-| 31 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
+| 30 | [como un imán](https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0) | [Claudia Arenas](https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po) | [como un imán](https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7) | 2:46 |
+| 31 | [Estratosférico](https://open.spotify.com/track/7i2CjzSK2cHAQkkWNoQz2O) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:05 |
 | 32 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 33 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
 | 34 | [Contacto Cero](https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Contacto Cero](https://open.spotify.com/album/0HtzkHaFQzD4VBNV1EdPTW) | 2:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 37 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
 | 38 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 39 | [cool](https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [cool](https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ) | 2:55 |
-| 40 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
-| 41 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |
+| 40 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |
+| 41 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
 | 42 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 43 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
 | 44 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 47 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
 | 48 | [El Premio](https://open.spotify.com/track/15Qpoi7VSKdE5JNdfVfsgM) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Miss Me Much?](https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2) | 3:17 |
 | 49 | [Imborrable](https://open.spotify.com/track/45Hz1aS6HYhpkgu1FOQndk) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:59 |
-| 50 | [Poeta](https://open.spotify.com/track/6McYM1HmEhcWxp0KGVXXJS) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX) | [Poeta](https://open.spotify.com/album/6c2NxL8g6nrpA48wR814Uo) | 2:55 |
+| 50 | [Bombas de Amor](https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Bombas de Amor](https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM) | 2:42 |
 
 Snapshot ID: `AAAAAKOU4NwLvU7UpDUBPtU19xpLG6iM`

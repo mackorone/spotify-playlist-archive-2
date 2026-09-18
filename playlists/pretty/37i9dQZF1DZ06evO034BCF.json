@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2220,
+  "num_followers": 2224,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqc5AAAAAAASJNofTf9RK9Fuei6B2zvk",
+  "snapshot_id": "aqncAAAAAACxYS2F4H8uykohrfFFEiLJ",
   "tracks": [
     {
       "added_at": null,
@@ -647,37 +647,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
-        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
-      },
-      "artists": [
-        {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
-      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homage to Heifetz",
         "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
         },
         {
           "name": "Mar\u00eda Due\u00f1as",
@@ -692,9 +668,33 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 269493,
-      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
-      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
+      "duration_ms": 583613,
+      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
+      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
+      },
+      "artists": [
+        {
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Conga del Fuego - Live",
+      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
     },
     {
       "added_at": null,
@@ -740,33 +740,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 132480,
-      "name": "Pictures at an Exhibition (Orch. Ravel): I. Gnomus",
-      "url": "https://open.spotify.com/track/4gKrD45pSLOwGndDsmtisn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Conga del Fuego - Live",
-      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
+      "duration_ms": 65120,
+      "name": "Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens",
+      "url": "https://open.spotify.com/track/5ePWR9SYDsADEMLyAcCcJU"
     },
     {
       "added_at": null,
@@ -792,9 +768,33 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 389426,
-      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
-      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
+      "duration_ms": 269493,
+      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
+      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
+        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
+      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
     },
     {
       "added_at": null,
@@ -847,6 +847,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 389426,
+      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
+      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sommernachtskonzert 2019 / Summer Night Concert 2019",
         "url": "https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA"
       },
@@ -867,34 +895,6 @@
       "duration_ms": 539506,
       "name": "Adagio for Strings, Op. 11",
       "url": "https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
-      },
-      "artists": [
-        {
-          "name": "Erich Wolfgang Korngold",
-          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 583613,
-      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
-      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
     },
     {
       "added_at": null,
@@ -947,6 +947,30 @@
       "duration_ms": 514573,
       "name": "Symphonie espagnole, Op. 21: V. Rondo. Allegro",
       "url": "https://open.spotify.com/track/4I7I8TH5BoVgdcrsLE5Adu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphonies Nos. 7-9",
+        "url": "https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 707000,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178, \"From the New World\": II. Largo",
+      "url": "https://open.spotify.com/track/51mXEQIsErrBPKyWiEpWqn"
     }
   ],
   "unique_name": "This Is Gustavo Dudamel",

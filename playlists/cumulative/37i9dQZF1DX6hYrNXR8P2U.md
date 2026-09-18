@@ -2,9 +2,9 @@
 
 ### [ALT.AR](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> El príncipe idiota en portada.
+> doppel gangs  en portada.
 
-745 songs - 1 day 14 hr 53 min
+747 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 | 2023-10-13 | 2024-04-06 |
 | [DEMASIADO NADA](https://open.spotify.com/track/0sHMiRUvtIzre8r8unluXq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [DEMASIADO NADA](https://open.spotify.com/album/0u8UVGTKpjSD11mr5SxPQy) | 3:04 | 2026-06-26 |  |
 | [Demente](https://open.spotify.com/track/0A39iTgfMRfEehKF5xBStI) | [Lisa Maria](https://open.spotify.com/artist/0NfiDupjeBk5DerqqPs47D) | [Demente](https://open.spotify.com/album/0JDeOBWVVRwGEl0CTYW9IH) | 2:44 | 2026-05-01 | 2026-06-12 |
+| [demonio \( MONTAÑA \)](https://open.spotify.com/track/19wQrCrAySJ5RTTq7OThlb) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZimón](https://open.spotify.com/album/4SoOTXvjc2seEsyGiIwCBQ) | 1:46 | 2026-09-18 |  |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-10-13 | 2024-02-24 |
 | [DESCONOCIDOS](https://open.spotify.com/track/0eKfbHt3e3zM3FRwbjWFlc) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [BAM: LA SUITE](https://open.spotify.com/album/7Foru1jdTrjfzOjVkQuYeS) | 4:02 | 2026-08-28 |  |
 | [Deseo](https://open.spotify.com/track/594s1AODSpT9zQpjCfVsDH) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Deseo](https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9) | 3:14 | 2026-02-06 | 2026-04-25 |
@@ -295,6 +296,7 @@
 | [Infiel](https://open.spotify.com/track/4bReU9TJ826COOz6LPXJJe) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Infiel](https://open.spotify.com/album/10Lj8JISMjnoZOZ3T5zHbh) | 2:06 | 2026-04-03 | 2026-06-19 |
 | [INFLEXIÓN](https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [INFLEXIÓN](https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo) | 3:37 | 2023-10-13 | 2024-03-30 |
 | [INGRATA](https://open.spotify.com/track/3r2gc9oSXLMmu8fVyDaCdO) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LA OTRA MEJILLA](https://open.spotify.com/album/4jreImi91npBoxGxsEbUcv) | 2:55 | 2026-07-31 |  |
+| [Invicta](https://open.spotify.com/track/0Fmh4MbnwEBU6pU9kgyT4v) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [A Ramiro: \(Parte II\)](https://open.spotify.com/album/6ICXT7rDhpxgM8vGBdNmS4) | 3:41 | 2026-09-18 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-10-13 | 2024-01-20 |
 | [Isita Querida De Un Lado](https://open.spotify.com/track/7oAoABwJ6uaxf4PMpbFcc1) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida De Un Lado](https://open.spotify.com/album/6SjJqb3AwyxVC2UfqhGmBW) | 3:42 | 2025-04-04 | 2025-05-30 |
 | [Jalo!](https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Jalo!](https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h) | 2:31 | 2024-03-29 | 2024-04-27 |

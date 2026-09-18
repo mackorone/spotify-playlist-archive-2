@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,579 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,587 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 47 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |
 | 48 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
 | 49 | [Hiphop Beginner Class \(4 Beginners\)](https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD) | [Da Crew](https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo), [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:18 |
-| 50 | [Again](https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp) | [Onesun](https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU), [T'ache](https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r), [Mithra Jin](https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:42 |
-| 51 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |
+| 50 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |
+| 51 | [Again](https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp) | [Onesun](https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU), [T'ache](https://open.spotify.com/artist/5Wgz2qwf3Cn5N0NUyAhS5r), [Mithra Jin](https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:42 |
 | 52 | [Brutal Treatment \(Part\. 1\) \[feat\. Kebee & The Quiett\]](https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [Kebee & The Quiett](https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:18 |
 | 53 | [Love & Hip\-Hop \(Feat\. Whee Sung\) \- 2021 Remaster](https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 4:01 |
 | 54 | [Climb High](https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:24 |
